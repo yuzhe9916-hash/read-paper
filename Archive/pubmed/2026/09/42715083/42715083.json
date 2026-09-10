@@ -1,0 +1,262 @@
+{
+  "identity": {
+    "pmid": "42715083",
+    "doi": "10.1073/pnas.2613134123",
+    "title": "Harmonizing amplification and cleavage kinetics through crRNA scaffold mutation enables robust one-pot CRISPR-Cas12 diagnostics."
+  },
+  "content": {
+    "abstract": "CRISPR-based diagnostics (CRISPR-Dx) integrated with isothermal nucleic acid amplification have emerged as a promising strategy for point-of-care molecular testing. Their practical deployment, however, remains constrained by workflow-related limitations. Conventional two-step formats are laborious and highly susceptible to aerosol contamination during amplicon transfer, whereas simplified one-pot formats often suffer from reduced sensitivity because amplification and CRISPR-mediated cleavage compete kinetically within the same reaction vessel. In this work, we present a broadly applicable one-pot detection strategy termed mutant scaffold-mediated RPA-CRISPR/Cas12a (MS-CRISPR). This approach introduces rationally designed point mutations into the crRNA scaffold to moderately attenuate Cas12a activation and cleavage kinetics. Such kinetic tuning prevents the enzyme from prematurely depleting nascent RPA amplicons, a common source of signal loss in wild-type systems. By delaying cleavage until sufficient amplification products have accumulated, MS-CRISPR markedly enhances endpoint signal output. Using this kinetically balanced system, we achieved a limit of detection of 1 copy/muL for both SARS-CoV-2 and influenza A virus within 15 min, while preserving a fully closed-tube workflow that minimizes aerosol contamination and simplifies operation. We coupled the assay with an instrument-free lateral-flow readout and an ultraportable, multiplex, low-cost microfluidic platform (portable wireless isothermal nucleic acid detection). Clinical validation with patient samples showed 100% sensitivity and specificity for both viral targets. Collectively, MS-CRISPR establishes a sensitive, versatile, and field-deployable platform for rapid pathogen screening.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "RPA",
+      "multiplexed nucleic acid testing",
+      "one-pot detection",
+      "scaffold mutation"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "Kinetics",
+      "Humans",
+      "*Nucleic Acid Amplification Techniques/methods",
+      "*SARS-CoV-2/genetics/isolation & purification",
+      "CRISPR-Associated Proteins/genetics/metabolism",
+      "Rapid Diagnostic Tests",
+      "Mutation",
+      "Endodeoxyribonucleases/genetics/metabolism",
+      "Bacterial Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Qingyang",
+        "Xu, Ruiquan",
+        "Lin, Zhixin",
+        "Sun, Chenyu",
+        "Ye, Feidi",
+        "Ye, Yanyan",
+        "Lin, Duoming",
+        "Li, Zhen",
+        "Mai, Jingwen",
+        "Lin, Zhihong",
+        "Qu, Jiuxin",
+        "Deng, Xiaoyan",
+        "Ge, Chenchen",
+        "Wang, Dou"
+      ],
+      "short_names": [
+        "Jiang Q",
+        "Xu R",
+        "Lin Z",
+        "Sun C",
+        "Ye F",
+        "Ye Y",
+        "Lin D",
+        "Li Z",
+        "Mai J",
+        "Lin Z",
+        "Qu J",
+        "Deng X",
+        "Ge C",
+        "Wang D"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-4881-3591",
+        "ORCID: 0009-0001-8462-3461",
+        "ORCID: 0000-0001-7836-9180"
+      ],
+      "affiliations": [
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "Department of Clinical Laboratory, Shenzhen Third People's Hospital, Second Hospital Affiliated to Southern University of Science and Technology, National Clinical Research Center for Infectious Diseases, Guangdong 518055, People's Republic of China. ROR: https://ror.org/049tv2d57",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "Department of Clinical Laboratory, Shenzhen Third People's Hospital, Second Hospital Affiliated to Southern University of Science and Technology, National Clinical Research Center for Infectious Diseases, Guangdong 518055, People's Republic of China. ROR: https://ror.org/049tv2d57",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China.",
+        "College of Health Science and Environmental Engineering, Shenzhen Technology University, Shenzhen 518118, Guangdong, People's Republic of China. ROR: https://ror.org/04qzpec27",
+        "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China. ROR: https://ror.org/00zat6v61",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Qingyang",
+        "short_name": "Jiang Q",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ruiquan",
+        "short_name": "Xu R",
+        "identifiers": [
+          "0009-0001-4881-3591"
+        ],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lin, Zhixin",
+        "short_name": "Lin Z",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sun, Chenyu",
+        "short_name": "Sun C",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ye, Feidi",
+        "short_name": "Ye F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Shenzhen Third People's Hospital, Second Hospital Affiliated to Southern University of Science and Technology, National Clinical Research Center for Infectious Diseases, Guangdong 518055, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ye, Yanyan",
+        "short_name": "Ye Y",
+        "identifiers": [
+          "0009-0001-8462-3461"
+        ],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lin, Duoming",
+        "short_name": "Lin D",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhen",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Mai, Jingwen",
+        "short_name": "Mai J",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lin, Zhihong",
+        "short_name": "Lin Z",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Qu, Jiuxin",
+        "short_name": "Qu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Shenzhen Third People's Hospital, Second Hospital Affiliated to Southern University of Science and Technology, National Clinical Research Center for Infectious Diseases, Guangdong 518055, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Deng, Xiaoyan",
+        "short_name": "Deng X",
+        "identifiers": [],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ge, Chenchen",
+        "short_name": "Ge C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Health Science and Environmental Engineering, Shenzhen Technology University, Shenzhen 518118, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dou",
+        "short_name": "Wang D",
+        "identifiers": [
+          "0000-0001-7836-9180"
+        ],
+        "affiliations": [
+          "KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, Guangdong 511436, People's Republic of China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, Guangdong 511436, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 17:47",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42715083"
+    ],
+    "review": [
+      "42715083"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "42689981",
+    "doi": "10.31083/FBL52385",
+    "title": "Multimodal Analysis Reveals Aberrant Expression of SUMO2 and Its Significant Association With Key Mechanisms of Metabolic Pathways in Hepatocellular Carcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Hepatocellular carcinoma (HCC) is the third leading cause of cancer-related deaths worldwide. However, the role of small ubiquitin-like modifier 2 (SUMO2), a core member of the small ubiquitin-like modifier (SUMO) family, regarding its expression patterns and metabolism-related functions in HCC remains inadequately understood. METHODS: A multidimensional analytical framework was applied, integrating immunohistochemistry (153 HCC vs. 21 non-HCC samples), proteomics (159 paired samples), bulk transcriptomics (3240 HCC vs. 2267 non-HCC samples), single-cell RNA sequencing (RNA-seq) (10 HCC vs. 8 non-HCC samples), spatial transcriptomics, and external CRISPR/Cas9 functional genomics data. Systematic analyses included standardized mean difference (SMD), pathway enrichment, pseudotime trajectory inference, in silico knockout, cell-cell communication, metabolic flux scoring, immune infiltration, clinical correlation, drug sensitivity prediction, and molecular docking. RESULTS: At the protein level, immunohistochemistry (nuclear positivity) and external proteomic data collectively demonstrated consistent SUMO2 overexpression in HCC. Consistent upregulation was also observed at the mRNA level across large-scale cohorts. Single-cell RNA-seq and spatial transcriptomics localized SUMO2 enrichment to malignant hepatocytes and tumor-dominant regions. CRISPR-mediated SUMO2 knockout suppressed proliferation in multiple HCC cell lines. Mechanistically, high SUMO2 expression was significantly associated with metabolic reprogramming involving glycolysis/gluconeogenesis, pyruvate metabolism, and the tricarboxylic acid cycle. SUMO2-high malignant hepatocyte subpopulations exhibited enhanced activity of the macrophage migration inhibitory factor signaling axis and enhanced iron-sensor interactions. Further, the immune infiltration analysis revealed a negative correlation between SUMO2 expression and M1 macrophages and a positive correlation between follicular helper T cells and regulatory T cells. Clinically, elevated SUMO2 levels were found to be associated with adverse prognostic features. Furthermore, high SUMO2 expression was associated with increased sensitivity to dasatinib, and molecular docking simulations predicted potential binding between SUMO2 and dasatinib, with a Vina score of -8.5 kcal/mol. CONCLUSIONS: SUMO2 is aberrantly expressed at the protein, mRNA, single-cell, and spatial transcriptomic levels in HCC and is significantly associated with metabolic reprogramming and altered migration inhibitory factor (MIF)-mediated intercellular communication, suggesting its potential as a novel biomarker for diagnosis and treatment.",
+    "keywords": [
+      "hepatocellular carcinoma",
+      "immunohistochemistry",
+      "macrophage migration inhibitory factor",
+      "metabolic reprogramming",
+      "single-cell RNA sequencing",
+      "small ubiquitin-like modifier 2",
+      "spatial transcriptomics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Liver Neoplasms/metabolism/genetics/pathology",
+      "*Carcinoma, Hepatocellular/metabolism/genetics/pathology",
+      "*Small Ubiquitin-Related Modifier Proteins/genetics/metabolism",
+      "Gene Expression Regulation, Neoplastic",
+      "*Metabolic Networks and Pathways/genetics",
+      "Spatial Transcriptomics",
+      "Proteomics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Deng, Yulong",
+        "Huang, Beibei",
+        "Tang, Yuxing",
+        "Su, Qinyan",
+        "Liu, Hongquan",
+        "Mo, Hongbo",
+        "Tang, Huanhuan",
+        "Xiong, Kunhua",
+        "He, Shipei",
+        "Dang, Yiwu",
+        "Chen, Gang",
+        "Rong, Minhua"
+      ],
+      "short_names": [
+        "Deng Y",
+        "Huang B",
+        "Tang Y",
+        "Su Q",
+        "Liu H",
+        "Mo H",
+        "Tang H",
+        "Xiong K",
+        "He S",
+        "Dang Y",
+        "Chen G",
+        "Rong M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Research Department, Affiliated Cancer Hospital, Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Research Department, Affiliated Cancer Hospital, Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China.",
+        "Research Department, Affiliated Cancer Hospital, Guangxi Medical University, 530021 Nanning, Guangxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Deng, Yulong",
+        "short_name": "Deng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Research Department, Affiliated Cancer Hospital, Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Beibei",
+        "short_name": "Huang B",
+        "identifiers": [],
+        "affiliations": [
+          "Research Department, Affiliated Cancer Hospital, Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Yuxing",
+        "short_name": "Tang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Su, Qinyan",
+        "short_name": "Su Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hongquan",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Mo, Hongbo",
+        "short_name": "Mo H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Huanhuan",
+        "short_name": "Tang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Kunhua",
+        "short_name": "Xiong K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "He, Shipei",
+        "short_name": "He S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Dang, Yiwu",
+        "short_name": "Dang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Gang",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Rong, Minhua",
+        "short_name": "Rong M",
+        "identifiers": [],
+        "affiliations": [
+          "Research Department, Affiliated Cancer Hospital, Guangxi Medical University, 530021 Nanning, Guangxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioscience (Landmark edition)"
+    ],
+    "journal_abbrev": [
+      "Front Biosci (Landmark Ed)"
+    ],
+    "pub_date": "2026 Aug 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689981",
+      "41388436",
+      "42052835",
+      "42486346",
+      "41705236",
+      "39814999",
+      "39712016",
+      "41953013",
+      "42350874",
+      "26458400",
+      "42580240",
+      "42216550",
+      "42480981",
+      "40307857",
+      "40211257",
+      "41699549",
+      "40295654",
+      "42227003",
+      "42139279",
+      "41293954",
+      "41613122",
+      "40682115",
+      "42185899",
+      "41371106",
+      "41766871",
+      "42413619",
+      "41131597",
+      "41716413",
+      "40227950",
+      "42244292",
+      "41639489",
+      "33989451",
+      "42170969",
+      "41722834",
+      "42195019",
+      "40424306",
+      "39798003",
+      "40473062",
+      "40317014",
+      "40038727",
+      "40764361",
+      "42136961",
+      "40875358",
+      "42459515",
+      "41736104",
+      "38941371",
+      "41508037",
+      "41993211",
+      "42111497",
+      "41763175",
+      "41677613",
+      "39616235",
+      "41235234",
+      "40001159",
+      "42535029",
+      "41839293",
+      "41775913",
+      "40500772",
+      "42015107",
+      "40855439",
+      "41685312",
+      "41771574",
+      "42044203",
+      "41205757",
+      "42040893",
+      "42689991",
+      "41286375",
+      "27879277",
+      "41674779",
+      "41288681",
+      "41774333",
+      "40069645",
+      "39085893",
+      "42196419",
+      "39137630",
+      "40330470",
+      "42467147",
+      "39192218",
+      "39193514",
+      "42444812",
+      "41382051",
+      "41057994",
+      "42445406",
+      "40485623",
+      "41018906",
+      "38102653",
+      "38896142",
+      "40518290",
+      "42614523",
+      "42459682",
+      "42292467",
+      "39081317",
+      "39503880",
+      "39691723",
+      "42032376",
+      "40956482",
+      "39656344",
+      "42676762",
+      "39346916",
+      "40416605"
+    ],
+    "review": [
+      "42689981"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3842",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.imrpress.com/journal/FBL/31/8/10.31083/FBL52385",
+        "provider": "IMR Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

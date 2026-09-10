@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "42692324",
+    "doi": "10.1016/j.ab.2026.116249",
+    "title": "A CRISPR/Cas9 multiplex nucleic acid sensing platform based on rolling circle amplification-mediated monomeric substrate generation."
+  },
+  "content": {
+    "abstract": "The multiplex detection of nucleic acid biomarkers, including circulating tumor DNAs (ctDNAs) and microRNAs (miRNAs), holds promise for improving the accuracy of molecular diagnostic techniques. In this study, we developed a CRISPR/Cas9-based sensing platform capable of simultaneously detecting multiple nucleic acid biomarkers. This approach leverages the activation of the CRISPR/Cas9 system through the generation of monomeric substrates mediated by rolling circle amplification (RCA). Specifically, upon the presence of a specific target, the RCA process is initiated, producing concatemeric DNA products. By incorporating an endonuclease and complementary reporter molecules, the RCA products are cleaved into monomeric substrates. Subsequently, Cas9/sgRNA complexes recognize and bind these monomeric substrates, activating the CRISPR/Cas9 systems, which further cleave the substrates to produce amplified fluorescence signals. Compared to conventional RCA methods, which often suffer from product aggregation, the monomeric substrate generation strategy demonstrated enhanced sensing capabilities and analytical performance, with signal intensities nearly double those observed in traditional approaches. To enable multiplex detection, three distinct sets of padlock probes, reporter molecules, and sgRNAs were designed to selectively target three different nucleic acid sequences. The platform exhibited high sensitivity and simultaneous detection of multiple ctDNAs and miRNAs, achieving limits of detection (LODs) ranging from 1.28 fM to 1.50 fM for ctDNAs and 0.61 fM to 0.97 fM for miRNAs. Additionally, analyses of clinical serum samples confirmed the method's accuracy and applicability within complex biological matrices. Collectively, this work introduces a multiplex nucleic acid biomarker detection platform with significant potential for advancing molecular sensing and clinical diagnostic applications.",
+    "keywords": [
+      "CRISPR/Cas9 system",
+      "Monomeric substrate",
+      "Multiplex sensing",
+      "Platform",
+      "RCA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Wei"
+      ],
+      "short_names": [
+        "Li W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Pharmacy, Dezhou University, Dezhou, 253023, China; Xingtai Suolei Testing Service Limited Company, China. Electronic address: liwei_91@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Dezhou University, Dezhou, 253023, China; Xingtai Suolei Testing Service Limited Company, China. Electronic address: liwei_91@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical biochemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Biochem"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-10 11:57:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42692324",
+      "40763823",
+      "36192055",
+      "38149638",
+      "35609481",
+      "41508022",
+      "36524084",
+      "28063390",
+      "39515055",
+      "31361292",
+      "34356693",
+      "41257956",
+      "41789624",
+      "38805151",
+      "36764778",
+      "40393239",
+      "31357296",
+      "30567647",
+      "35389390",
+      "30616213",
+      "30066196",
+      "41093520",
+      "30348375",
+      "33376911",
+      "30598160",
+      "31875674",
+      "35934367",
+      "40072018",
+      "41993032",
+      "37683439",
+      "30877395",
+      "33980009",
+      "42322947",
+      "40974028",
+      "29486117",
+      "33152726",
+      "36853410",
+      "40663760",
+      "27797171",
+      "40499459",
+      "37827629",
+      "40382111",
+      "40899925",
+      "41093528",
+      "20919697",
+      "27569300",
+      "42424999",
+      "33379105",
+      "39273436",
+      "25470558",
+      "42310499",
+      "39171996",
+      "41352919",
+      "34011151",
+      "38490023",
+      "29260561",
+      "30990481",
+      "42090855",
+      "37714061",
+      "36764595",
+      "41663149",
+      "25022511",
+      "41243383",
+      "41047399",
+      "40509261",
+      "39831800",
+      "34106115",
+      "25542364",
+      "38785707",
+      "41218328",
+      "37924654",
+      "40036525",
+      "42330669",
+      "19877619",
+      "39489975",
+      "42682078",
+      "41489552",
+      "39093358",
+      "30238116",
+      "34163728",
+      "31029676",
+      "17997865",
+      "40274228",
+      "40593618",
+      "36209895",
+      "40924964",
+      "37977804",
+      "41241835",
+      "39740568",
+      "35575999",
+      "39982896",
+      "40639144",
+      "35857897",
+      "25000851",
+      "41707426",
+      "41073018",
+      "28891579",
+      "24377284",
+      "24131014",
+      "36641878"
+    ],
+    "review": [
+      "42692324",
+      "40763823",
+      "36764595",
+      "40509261"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-2697(26)00205-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

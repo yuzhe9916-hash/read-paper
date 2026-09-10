@@ -1,0 +1,432 @@
+{
+  "identity": {
+    "pmid": "42684101",
+    "doi": "10.1158/1535-7163.MCT-26-0108",
+    "title": "Suppressing phosphatidylserine externalization overcomes cancer immune evasion and enhances immunotherapy."
+  },
+  "content": {
+    "abstract": "Immune checkpoint blockade (ICB) has transformed cancer therapy, yet many tumors remain refractory to treatment due to diverse immune evasion mechanisms. To uncover novel drivers of ICB resistance, we performed an in vivo CRISPR-Cas9 screen in mice with increasing levels of immune pressure. This screen identified phosphatidylserine (PS) externalization as a potent mediator of immune escape. Tumors with elevated surface PS exposure prevented reinvigoration of CD8+ T cells upon PD-1 blockade, which was associated with increased recruitment of immunosuppressive myeloid cells. Targeting of PS Synthase 1 (PTDSS1) or either of the scramblases, XKR8 or ANO6, sensitized tumors to ICB in vivo. These findings demonstrate that elevated PS exposure constitutes a mechanism of resistance to ICB, and that targeting regulators of PS externalization represents a promising strategy to enhance the efficacy of immunotherapy in refractory tumors.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bergholz, Johann S",
+        "Trombley, Grace",
+        "Cusing, Gwendolyn",
+        "Li, Zhaoqi",
+        "Torrence, Margaret E",
+        "Sganga, Geneva J",
+        "Casey, Jennifer G",
+        "Liu, Shangtao",
+        "Choi, Ashley H",
+        "Meier, Samuel R",
+        "Khendu, Tenzing",
+        "Yu, Yi",
+        "Teng, Teng",
+        "Shen, Binzhang",
+        "Stowe, Hannah",
+        "Shaaban, Salam",
+        "Andersen, Jannik N",
+        "Gueroussov, Serge"
+      ],
+      "short_names": [
+        "Bergholz JS",
+        "Trombley G",
+        "Cusing G",
+        "Li Z",
+        "Torrence ME",
+        "Sganga GJ",
+        "Casey JG",
+        "Liu S",
+        "Choi AH",
+        "Meier SR",
+        "Khendu T",
+        "Yu Y",
+        "Teng T",
+        "Shen B",
+        "Stowe H",
+        "Shaaban S",
+        "Andersen JN",
+        "Gueroussov S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4609-8448",
+        "ORCID: 0009-0009-0289-6617",
+        "ORCID: 0009-0006-0670-3155",
+        "ORCID: 0000-0003-2351-1842",
+        "ORCID: 0000-0003-2133-8599",
+        "ORCID: 0009-0006-9461-213X",
+        "ORCID: 0009-0009-1199-5799",
+        "ORCID: 0000-0002-2724-9178",
+        "ORCID: 0000-0002-2802-7163",
+        "ORCID: 0000-0002-7026-2722",
+        "ORCID: 0009-0008-6870-0114",
+        "ORCID: 0000-0002-2223-337X",
+        "ORCID: 0000-0002-7154-2371",
+        "ORCID: 0000-0002-6556-7791",
+        "ORCID: 0000-0002-8698-0163",
+        "ORCID: 0009-0009-2860-5697",
+        "ORCID: 0000-0003-4528-2120",
+        "ORCID: 0000-0002-1071-4192"
+      ],
+      "affiliations": [
+        "Dana-Farber Cancer Institute Boston United States. ROR: https://ror.org/02jzgtq86",
+        "Tango Therapeutics (United States) Boston United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston, Massachusetts United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston, MA United States. ROR: https://ror.org/003x6t567",
+        "Massachusetts Institute of Technology Cambridge, MA United States. ROR: https://ror.org/042nb2s44",
+        "Tango Therapeutics (United States) Boston, Massachusetts United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston, MA United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Cambridge, MA United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston, MA United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston, MA United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Cambridge, MA United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics Boston, MA United States.",
+        "Tango Therapeutics (United States) Boston, MA United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston, Massachusetts United States. ROR: https://ror.org/003x6t567",
+        "Tango Therapeutics (United States) Boston, Massachusetts United States. ROR: https://ror.org/003x6t567"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bergholz, Johann S",
+        "short_name": "Bergholz JS",
+        "identifiers": [
+          "0000-0003-4609-8448"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston United States."
+        ]
+      },
+      {
+        "full_name": "Trombley, Grace",
+        "short_name": "Trombley G",
+        "identifiers": [
+          "0009-0009-0289-6617"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston United States."
+        ]
+      },
+      {
+        "full_name": "Cusing, Gwendolyn",
+        "short_name": "Cusing G",
+        "identifiers": [
+          "0009-0006-0670-3155"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, Massachusetts United States."
+        ]
+      },
+      {
+        "full_name": "Li, Zhaoqi",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0000-0003-2351-1842"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) United States."
+        ]
+      },
+      {
+        "full_name": "Torrence, Margaret E",
+        "short_name": "Torrence ME",
+        "identifiers": [
+          "0000-0003-2133-8599"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Sganga, Geneva J",
+        "short_name": "Sganga GJ",
+        "identifiers": [
+          "0009-0006-9461-213X"
+        ],
+        "affiliations": [
+          "Massachusetts Institute of Technology Cambridge, MA United States."
+        ]
+      },
+      {
+        "full_name": "Casey, Jennifer G",
+        "short_name": "Casey JG",
+        "identifiers": [
+          "0009-0009-1199-5799"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, Massachusetts United States."
+        ]
+      },
+      {
+        "full_name": "Liu, Shangtao",
+        "short_name": "Liu S",
+        "identifiers": [
+          "0000-0002-2724-9178"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Choi, Ashley H",
+        "short_name": "Choi AH",
+        "identifiers": [
+          "0000-0002-2802-7163"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Cambridge, MA United States."
+        ]
+      },
+      {
+        "full_name": "Meier, Samuel R",
+        "short_name": "Meier SR",
+        "identifiers": [
+          "0000-0002-7026-2722"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Khendu, Tenzing",
+        "short_name": "Khendu T",
+        "identifiers": [
+          "0009-0008-6870-0114"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Yu, Yi",
+        "short_name": "Yu Y",
+        "identifiers": [
+          "0000-0002-2223-337X"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Cambridge, MA United States."
+        ]
+      },
+      {
+        "full_name": "Teng, Teng",
+        "short_name": "Teng T",
+        "identifiers": [
+          "0000-0002-7154-2371"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston United States."
+        ]
+      },
+      {
+        "full_name": "Shen, Binzhang",
+        "short_name": "Shen B",
+        "identifiers": [
+          "0000-0002-6556-7791"
+        ],
+        "affiliations": [
+          "Tango Therapeutics Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Stowe, Hannah",
+        "short_name": "Stowe H",
+        "identifiers": [
+          "0000-0002-8698-0163"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Shaaban, Salam",
+        "short_name": "Shaaban S",
+        "identifiers": [
+          "0009-0009-2860-5697"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) United States."
+        ]
+      },
+      {
+        "full_name": "Andersen, Jannik N",
+        "short_name": "Andersen JN",
+        "identifiers": [
+          "0000-0003-4528-2120"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, Massachusetts United States."
+        ]
+      },
+      {
+        "full_name": "Gueroussov, Serge",
+        "short_name": "Gueroussov S",
+        "identifiers": [
+          "0000-0002-1071-4192"
+        ],
+        "affiliations": [
+          "Tango Therapeutics (United States) Boston, Massachusetts United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cancer therapeutics"
+    ],
+    "journal_abbrev": [
+      "Mol Cancer Ther"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:13",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42684101",
+      "40391322",
+      "41198619",
+      "37449205",
+      "41756924",
+      "41265176",
+      "41123345",
+      "37089449",
+      "41799200",
+      "41199296",
+      "41617394",
+      "40154764",
+      "38259453",
+      "42208981",
+      "37531900",
+      "41419228",
+      "41135953",
+      "38635884",
+      "39797790",
+      "40069722",
+      "36564797",
+      "33604533",
+      "40091029",
+      "40516842",
+      "40929270",
+      "40303328",
+      "41319963",
+      "39521615",
+      "41724344",
+      "32907939",
+      "36096533",
+      "39568154",
+      "40299510",
+      "41915438",
+      "42171771",
+      "42522039",
+      "42562425",
+      "35131862",
+      "36253000",
+      "41252204",
+      "39301023",
+      "36323258",
+      "34353349",
+      "42579487",
+      "41679170",
+      "38102680",
+      "33839688",
+      "41776659",
+      "42686373",
+      "41785601",
+      "42398969",
+      "40086819",
+      "40665335",
+      "38908854",
+      "40010770",
+      "42106865",
+      "41441975",
+      "33589424",
+      "34408525",
+      "36460336",
+      "31333652",
+      "42028950",
+      "42141174",
+      "34083417",
+      "40321752",
+      "39510795",
+      "35621713",
+      "37918918",
+      "36230744",
+      "38588411",
+      "39755583",
+      "41313840",
+      "39488102",
+      "41196020",
+      "40507229",
+      "39763661",
+      "41932811",
+      "42249083",
+      "40093175",
+      "39979966",
+      "41764441",
+      "41573582",
+      "37848943",
+      "42490989",
+      "39386836",
+      "41926218",
+      "39461881",
+      "35764364",
+      "34887262",
+      "41736051",
+      "40945645",
+      "42607553",
+      "42268285",
+      "39754316",
+      "42550313",
+      "34319156",
+      "38487005",
+      "35749591",
+      "41071193",
+      "37184030"
+    ],
+    "review": [
+      "42684101",
+      "40069722",
+      "40299510",
+      "34408525",
+      "31333652",
+      "41313840",
+      "40507229"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://aacrjournals.org/mct/article-lookup/doi/10.1158/1535-7163.MCT-26-0108",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

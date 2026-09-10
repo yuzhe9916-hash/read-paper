@@ -1,0 +1,311 @@
+{
+  "identity": {
+    "pmid": "42691481",
+    "doi": "10.1021/acssensors.6c01512",
+    "title": "Development of a Colorimetric and Raman Dual-Mode Biosensor for Point-of-Care Bacterial Detection Based on CRISPR/dCas9-Mediated Self-Assembly."
+  },
+  "content": {
+    "abstract": "Timely and reliable identification of bacterial infections in emergency settings remains a major challenge. To address this challenge, here we utilized CRISPR/dCas9-mediated self-assembly to develop a colorimetric and Raman dual-mode biosensor (referred to as dCARD) and applied it to point-of-care bacterial detection. Briefly, dCARD utilized the CRISPR/dCas9-mediated precise recognition of target amplicons to build bridges, attaching gold nanoparticle (GNP)-probe loaded with 4-aminothiophenol (4-ATP) onto the surface of GNP-streptavidin (GNP-SA). The dispersion-to-aggregation change of particles triggered a significant color change from red to purple, along with the formation of Raman hotspots. As a result, the presence of target bacteria was translated into cross-validated color and Raman signals, showcasing high reliability. This biosensor not only maintained the simplicity of visual readout but also integrated the quantitative function of a portable Raman spectrometer, allowing operators to flexibly switch signal modes in different scenarios. The specific primer-based isothermal amplification and CRISPR/dCas9-mediated precise recognition of amplicons together improved the specificity of dCARD, enabling accurate detection of the target bacteria down to about 10 CFU/mL without interference from non-target bacteria. By using a simplified preprocessing strategy, the assay time could be further reduced to less than 30 min. The robustness and programmability of dCARD were also demonstrated by detecting three common bacteria in real urine specimens. We expect this biosensor to evolve into a universal and field-deployable screening tool for bacterial infections.",
+    "keywords": [
+      "CRISPR/dCas9",
+      "Raman",
+      "bacterial infections",
+      "biosensor",
+      "colorimetric"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ni, Qun",
+        "Jiao, Jingran",
+        "Jiao, Ruibao",
+        "Luo, Caijie",
+        "Ye, Junfeng",
+        "Pan, Kai",
+        "Hang, Xiubing",
+        "Yao, Li",
+        "Wu, Guolin",
+        "Zhao, Qihong",
+        "Bo, Qingli",
+        "Qin, Panzhu"
+      ],
+      "short_names": [
+        "Ni Q",
+        "Jiao J",
+        "Jiao R",
+        "Luo C",
+        "Ye J",
+        "Pan K",
+        "Hang X",
+        "Yao L",
+        "Wu G",
+        "Zhao Q",
+        "Bo Q",
+        "Qin P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1587-761X"
+      ],
+      "affiliations": [
+        "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China.",
+        "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China.",
+        "Department of Laboratory Medicine, Tongling People's Hospital, Tongling, Anhui244000, PR China.",
+        "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China.",
+        "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China.",
+        "Department of Laboratory Medicine, Tongling People's Hospital, Tongling, Anhui244000, PR China.",
+        "Department of Laboratory Medicine, Tongling People's Hospital, Tongling, Anhui244000, PR China.",
+        "School of Food Science and Bioengineering, Changsha University of Science and Technology, Changsha, Hunan410114, PR China.",
+        "Department of hematology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui230031, PR China.",
+        "Department of hematology, Anhui Provincial Cancer Hospital, Hefei, Anhui230031, PR China.",
+        "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China.",
+        "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China.",
+        "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ni, Qun",
+        "short_name": "Ni Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Jingran",
+        "short_name": "Jiao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Ruibao",
+        "short_name": "Jiao R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Tongling People's Hospital, Tongling, Anhui244000, PR China."
+        ]
+      },
+      {
+        "full_name": "Luo, Caijie",
+        "short_name": "Luo C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+        ]
+      },
+      {
+        "full_name": "Ye, Junfeng",
+        "short_name": "Ye J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+        ]
+      },
+      {
+        "full_name": "Pan, Kai",
+        "short_name": "Pan K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Tongling People's Hospital, Tongling, Anhui244000, PR China."
+        ]
+      },
+      {
+        "full_name": "Hang, Xiubing",
+        "short_name": "Hang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Tongling People's Hospital, Tongling, Anhui244000, PR China."
+        ]
+      },
+      {
+        "full_name": "Yao, Li",
+        "short_name": "Yao L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Bioengineering, Changsha University of Science and Technology, Changsha, Hunan410114, PR China."
+        ]
+      },
+      {
+        "full_name": "Wu, Guolin",
+        "short_name": "Wu G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of hematology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui230031, PR China.",
+          "Department of hematology, Anhui Provincial Cancer Hospital, Hefei, Anhui230031, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Qihong",
+        "short_name": "Zhao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+        ]
+      },
+      {
+        "full_name": "Bo, Qingli",
+        "short_name": "Bo Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+        ]
+      },
+      {
+        "full_name": "Qin, Panzhu",
+        "short_name": "Qin P",
+        "identifiers": [
+          "0000-0002-1587-761X"
+        ],
+        "affiliations": [
+          "Department of Nutrition and Food Hygiene, School of Public Health, Anhui Medical University, Hefei, Anhui230032, PR China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-10 11:57:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42691481",
+      "39586143",
+      "39037392",
+      "38241798",
+      "41610742",
+      "34281340",
+      "41167881",
+      "41590284",
+      "42400669",
+      "36832142",
+      "39406093",
+      "42000804",
+      "40544649",
+      "42364585",
+      "32288252",
+      "34278781",
+      "41935002",
+      "40945113",
+      "41876983",
+      "41603755",
+      "41903969",
+      "38811142",
+      "39893892",
+      "42474386",
+      "40252377",
+      "41239088",
+      "38640680",
+      "41591771",
+      "41167896",
+      "40877023",
+      "31845928",
+      "42269453",
+      "42012544",
+      "32164404",
+      "42475469",
+      "34098358",
+      "40974621",
+      "41406662",
+      "37541116",
+      "41410475",
+      "42464122",
+      "39018762",
+      "39786667",
+      "38740457",
+      "37722405",
+      "35380812",
+      "42529880",
+      "40780174",
+      "35903464",
+      "39122278",
+      "39812890",
+      "40419416",
+      "36995921",
+      "41962435",
+      "34011690",
+      "31307721",
+      "38250194",
+      "39987655",
+      "42684932",
+      "32800128",
+      "32608960",
+      "40157150",
+      "42618089",
+      "37062563",
+      "40183586",
+      "42401475",
+      "35325722",
+      "41896971",
+      "42269411",
+      "40701727",
+      "41676002",
+      "30876924",
+      "41685932",
+      "42358711",
+      "40231683",
+      "42521788",
+      "33346665",
+      "42508911",
+      "38783743",
+      "40113021",
+      "39018946",
+      "41175848",
+      "23948710",
+      "38016549",
+      "35937700",
+      "42682078",
+      "33682991",
+      "36796171",
+      "38115051",
+      "41955469",
+      "42322947",
+      "40099511",
+      "39951551",
+      "41363912",
+      "41794473",
+      "42266926",
+      "37598442",
+      "41081763",
+      "42190059",
+      "36414739"
+    ],
+    "review": [
+      "42691481",
+      "42529880"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c01512",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

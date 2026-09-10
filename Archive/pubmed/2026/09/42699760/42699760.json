@@ -1,0 +1,274 @@
+{
+  "identity": {
+    "pmid": "42699760",
+    "doi": "10.1016/j.isci.2026.117332",
+    "title": "The Sox2 regulatory region 42 produces enhancer RNAs that influence neuronal migration during cortical development."
+  },
+  "content": {
+    "abstract": "Precise regulation of neural progenitor states and neuronal positioning is essential for cortical development. Here, we identified Sox2 regulatory region 42 (SRR42), a regulatory region located 42 kb downstream of the Sox2 transcription start site that exhibits open chromatin, active histone modifications, and bidirectional transcription of enhancer RNAs (eRNAs). Using transgenic reporter mice, we found that SRR42 is active in neural progenitor cells in the developing cortex. CRISPR-Cas9-mediated deletion of SRR42 combined with single-cell multiome analysis revealed alterations in progenitor-state dynamics, neuronal migration, and cortical lamination without detectable changes in Sox2 expression. Furthermore, in vivo knockdown of SRR42-derived eRNAs impaired neuronal migration. These findings identify SRR42-derived RNAs as regulators of neuronal migration during cortical development and highlight enhancer-associated transcription as a functional component of neurodevelopmental gene regulation.",
+    "keywords": [
+      "cortex",
+      "eRNAs",
+      "enhancer",
+      "mouse",
+      "neural stem cells",
+      "neuronal migration",
+      "snATAC-seq",
+      "snRNA-seq"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Banno, Satoe",
+        "Sanosaka, Tsukasa",
+        "Tomooka, Ryo",
+        "Mizota, Noriko",
+        "Tokunaga, Akinori",
+        "Okano, Hideyuki",
+        "Kohyama, Jun"
+      ],
+      "short_names": [
+        "Banno S",
+        "Sanosaka T",
+        "Tomooka R",
+        "Mizota N",
+        "Tokunaga A",
+        "Okano H",
+        "Kohyama J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+        "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan.",
+        "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+        "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+        "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan.",
+        "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+        "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan.",
+        "Division of Laboratory Animal Resources, Life Science Research Laboratory, University of Fukui, Eiheiji, Fukui 910-1193, Japan.",
+        "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+        "Keio University Regenerative Medicine Research Center, 3-25-10 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa 210-0821, Japan.",
+        "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+        "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan.",
+        "Department of Orthopedic Surgery, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Banno, Satoe",
+        "short_name": "Banno S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+          "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan."
+        ]
+      },
+      {
+        "full_name": "Sanosaka, Tsukasa",
+        "short_name": "Sanosaka T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan."
+        ]
+      },
+      {
+        "full_name": "Tomooka, Ryo",
+        "short_name": "Tomooka R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+          "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan."
+        ]
+      },
+      {
+        "full_name": "Mizota, Noriko",
+        "short_name": "Mizota N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+          "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan."
+        ]
+      },
+      {
+        "full_name": "Tokunaga, Akinori",
+        "short_name": "Tokunaga A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Laboratory Animal Resources, Life Science Research Laboratory, University of Fukui, Eiheiji, Fukui 910-1193, Japan."
+        ]
+      },
+      {
+        "full_name": "Okano, Hideyuki",
+        "short_name": "Okano H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+          "Keio University Regenerative Medicine Research Center, 3-25-10 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa 210-0821, Japan."
+        ]
+      },
+      {
+        "full_name": "Kohyama, Jun",
+        "short_name": "Kohyama J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan.",
+          "Laboratory of Stem Cell Biology, Faculty of Human Sciences, Waseda University, Tokorozawa, Saitama 359-1192, Japan.",
+          "Department of Orthopedic Surgery, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "iScience"
+    ],
+    "journal_abbrev": [
+      "iScience"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42699760",
+      "39849901",
+      "25512558",
+      "42351220",
+      "32619460",
+      "41908332",
+      "29760402",
+      "41926741",
+      "21486496",
+      "21185279",
+      "41943166",
+      "27317429",
+      "32810208",
+      "41888776",
+      "40562154",
+      "10804179",
+      "25747816",
+      "39832493",
+      "25486255",
+      "31997540",
+      "15262984",
+      "21048121",
+      "41573925",
+      "23720416",
+      "33044128",
+      "28405742",
+      "16547000",
+      "39326643",
+      "21928068",
+      "22537144",
+      "27871306",
+      "18171687",
+      "21331042",
+      "19147497",
+      "33805518",
+      "35406623",
+      "37889077",
+      "22220192",
+      "15557334",
+      "40072048",
+      "42389936",
+      "30849367",
+      "41633774",
+      "41159420",
+      "34359927",
+      "29256171",
+      "7538068",
+      "38254670",
+      "20509865",
+      "37772400",
+      "33657377",
+      "41746809",
+      "37534217",
+      "15711057",
+      "29396371",
+      "36690169",
+      "41105133",
+      "38583418",
+      "41933071",
+      "33193627",
+      "37365500",
+      "34220450",
+      "25058468",
+      "29466941",
+      "36313621",
+      "30590588",
+      "33332417",
+      "22993445",
+      "38804344",
+      "41823422",
+      "31873146",
+      "38509257",
+      "33201427",
+      "35700449",
+      "27350561",
+      "36840844",
+      "33060580",
+      "30264333",
+      "42656197",
+      "31431802",
+      "29490266",
+      "20161818",
+      "32550544",
+      "32192535",
+      "25934499",
+      "30593613",
+      "41359035",
+      "32780108",
+      "25348400",
+      "38271204",
+      "41952195",
+      "31227770",
+      "32012382",
+      "7537267",
+      "30038234",
+      "31910882",
+      "32726618",
+      "40797025",
+      "38796067",
+      "35976093"
+    ],
+    "review": [
+      "42699760",
+      "30593613"
+    ],
+    "pmc": [
+      "13544347"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(26)02710-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42699760/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

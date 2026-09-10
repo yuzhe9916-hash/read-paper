@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42685691",
+    "doi": "10.1016/j.crmeth.2026.101573",
+    "title": "MicroNucML enables machine learning-based micronuclei segmentation and micronuclei-nuclei association."
+  },
+  "content": {
+    "abstract": "Micronuclei (MN) are structures containing small DNA fragments that arise from mitotic errors or failed DNA repair and serve as markers of genome instability. MN are typically quantified manually or with threshold methods, which can be tedious and inaccurate, leading to variable success and throughput. By employing a two-phase labeling approach that uses polygon and brush segmentation, along with SAM2-based refinement, we developed a high-quality MN segmentation tool. Data augmentation capturing heterogeneity in image quality and color diversity enabled us to train a generalizable Mask region-based convolutional neural network (Mask-RCNN) model optimized for small-object detection, achieving state-of-the-art performance in MN detection. Finally, we applied our model to immunofluorescence data from cell lines exposed to DNA damage conditions to gain biological insights into MN dynamics and their role in genome instability. In summary, this work establishes an accessible resource for systematically studying genome instability with greater fidelity and sensitivity, enabling previously unresolved insights into damage biology.",
+    "keywords": [
+      "CP: cancer biology",
+      "CP: computational biology",
+      "DNA damage",
+      "computer vision",
+      "genomic instability",
+      "genotoxins",
+      "immunofluorescence",
+      "machine learning",
+      "micronuclei",
+      "microscopy",
+      "object segmentation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yukai",
+        "Boev, Nadejda B",
+        "Garcia-Lepe, Ulises O",
+        "MacDonald, Kate M",
+        "Harding, Shane M",
+        "Kumar, Sushant"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Boev NB",
+        "Garcia-Lepe UO",
+        "MacDonald KM",
+        "Harding SM",
+        "Kumar S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada.",
+        "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON M5G 1L7, Canada.",
+        "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada.",
+        "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Chemical and Systems Biology, Stanford University, Stanford, CA 94305, USA.",
+        "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON M5G 1L7, Canada; Department of Radiation Oncology, University of Toronto, Toronto, ON M5T 1P5, Canada; Department of Immunology, University of Toronto, Toronto, ON M5S 1A8, Canada.",
+        "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON M5G 1L7, Canada. Electronic address: sushant.kumar@utoronto.ca."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yukai",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada."
+        ]
+      },
+      {
+        "full_name": "Boev, Nadejda B",
+        "short_name": "Boev NB",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON M5G 1L7, Canada."
+        ]
+      },
+      {
+        "full_name": "Garcia-Lepe, Ulises O",
+        "short_name": "Garcia-Lepe UO",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada."
+        ]
+      },
+      {
+        "full_name": "MacDonald, Kate M",
+        "short_name": "MacDonald KM",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Chemical and Systems Biology, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Harding, Shane M",
+        "short_name": "Harding SM",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON M5G 1L7, Canada; Department of Radiation Oncology, University of Toronto, Toronto, ON M5T 1P5, Canada; Department of Immunology, University of Toronto, Toronto, ON M5S 1A8, Canada."
+        ]
+      },
+      {
+        "full_name": "Kumar, Sushant",
+        "short_name": "Kumar S",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2C4, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON M5G 1L7, Canada. Electronic address: sushant.kumar@utoronto.ca."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports methods"
+    ],
+    "journal_abbrev": [
+      "Cell Rep Methods"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:19",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42685691",
+      "40455079",
+      "42475469",
+      "40183298",
+      "32903361",
+      "40181592",
+      "27542123",
+      "36704160",
+      "40428264",
+      "33263004",
+      "32828445",
+      "29661159",
+      "32746112",
+      "39651711",
+      "34462594",
+      "32784663",
+      "38854106",
+      "37139110",
+      "41590607",
+      "37067776",
+      "30784425",
+      "32277478",
+      "39167059",
+      "40238279",
+      "25217771",
+      "38436455",
+      "37177648",
+      "37305563",
+      "36889248",
+      "41551748",
+      "31126166",
+      "39862469",
+      "40863484",
+      "39528162",
+      "36321557",
+      "31382487",
+      "37892229",
+      "37205341",
+      "33339572",
+      "35287125",
+      "32171151",
+      "39702593",
+      "26049713",
+      "33297952",
+      "23912807",
+      "34130628",
+      "38423013",
+      "36035694",
+      "31200901",
+      "36447211",
+      "38352184",
+      "38325216",
+      "36506804",
+      "37864808",
+      "37769666",
+      "39384056",
+      "40902254",
+      "41310253",
+      "35214265",
+      "41292892",
+      "32143797",
+      "33190012",
+      "36304320",
+      "40564458",
+      "32206080",
+      "40321710",
+      "32733596",
+      "39276667",
+      "40991412",
+      "33611053",
+      "40112687",
+      "35907375",
+      "23874352",
+      "40138706",
+      "36372871",
+      "40385820",
+      "30798116",
+      "34500139",
+      "33861785",
+      "38424612",
+      "34976305",
+      "41198709",
+      "34531016",
+      "42649775",
+      "35139795",
+      "39383642",
+      "39236562",
+      "40408631",
+      "28588010",
+      "30136285",
+      "36904773",
+      "37957203",
+      "39914197",
+      "39896521",
+      "31200289",
+      "30831357",
+      "41985370",
+      "42141034",
+      "41389065",
+      "38515433"
+    ],
+    "review": [
+      "42685691",
+      "27542123",
+      "41590607",
+      "36321557",
+      "33339572",
+      "40902254"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2667-2375(26)00274-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

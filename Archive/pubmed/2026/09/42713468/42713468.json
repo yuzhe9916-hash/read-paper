@@ -1,0 +1,381 @@
+{
+  "identity": {
+    "pmid": "42713468",
+    "doi": "10.3389/fpls.2026.1902159",
+    "title": "CRISPR-Cas technologies for precision genome editing in plants: advances, applications, and future perspectives."
+  },
+  "content": {
+    "abstract": "Developing climate-smart crops with enhanced crop productivity, nutritional quality, resistance to biological and environmental stressors is vital for global food security. While hybrid breeding forms the cornerstone of modern crop improvement, conventional breeding approaches are limited by genetic barriers and prolonged breeding cycles. CRISPR-Cas based genome editing has revolutionized plant biology by allowing precise, efficient, and multiplex genetic modifications. This review provides a comprehensive synthesis of a recent advances in CRISPR-Cas technologies and their strategic applications in crop genetics and hybrid breeding. We summarize major genome-editing strategies, including gene knock-out, base editing (BE), knock-in, gene replacement, epigenome editing, and transcriptional regulation. Furthermore, we contrast stable, transient, and DNA-free delivery systems, highlighting ribonucleoprotein (RNP)-mediated delivery for minimizing off-target effects and avoiding transgene integration. We showcase how these technologies accelerate hybrid breeding by engineering male sterility systems, fixing heterosis, and generating high-throughput mutant libraries for trait discovery. Finally, we synthesize major bottlenecks in tissue culture-independent transformation and delivery systems, while outlining how emerging paradigms like de novo domestication and synthetic biology will shape the future of climate-resilient agriculture.",
+    "keywords": [
+      "CRISPR/Cas",
+      "base editing",
+      "functional genomics",
+      "genome editing",
+      "precision plant breeding",
+      "stress tolerance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Riaz Ahmed, Syed",
+        "Khan, Jahangir",
+        "Ijaz, Iram",
+        "Ali, Zeba",
+        "Rasul, Ijaz",
+        "Aslam, Muhammad",
+        "Ud-Din, Naeem",
+        "Liu, Yongming",
+        "Tariq, Muhammad Sayyam",
+        "Skalicky, Milan",
+        "Tan, Daniel K Y"
+      ],
+      "short_names": [
+        "Riaz Ahmed S",
+        "Khan J",
+        "Ijaz I",
+        "Ali Z",
+        "Rasul I",
+        "Aslam M",
+        "Ud-Din N",
+        "Liu Y",
+        "Tariq MS",
+        "Skalicky M",
+        "Tan DKY"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan.",
+        "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan.",
+        "Department of Botany, Faculty of Agriculture Sciences, University of Agriculture Faisalabad, Faisalabad, Pakistan.",
+        "Department of Plant Breeding and Genetics, Faculty of Agriculture Sciences, University of Agriculture Faisalabad, Faisalabad, Pakistan.",
+        "Department of Bioinformatics and Biotechnology, Government College University Faisalabad, Faisalabad, Pakistan.",
+        "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan.",
+        "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan.",
+        "National Nanfan Research Institute (Sanya), Chinese Academy of Agricultural Sciences, Sanya, China.",
+        "Division Plant Breeding and Genetics, Nuclear Institute for Agriculture and Biology (NIAB), Faisalabad, Pakistan.",
+        "Department of Botany and Plant Physiology, Faculty of Agrobiology, Food and Natural Resources, Czech University of Life Sciences, Prague, Czechia.",
+        "School of Life and Environmental Sciences, Plant Breeding Institute, Sydney Institute of Agriculture, Faculty of Science, The University of Sydney, Sydney, NSW, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Riaz Ahmed, Syed",
+        "short_name": "Riaz Ahmed S",
+        "identifiers": [],
+        "affiliations": [
+          "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Khan, Jahangir",
+        "short_name": "Khan J",
+        "identifiers": [],
+        "affiliations": [
+          "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Ijaz, Iram",
+        "short_name": "Ijaz I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Botany, Faculty of Agriculture Sciences, University of Agriculture Faisalabad, Faisalabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Ali, Zeba",
+        "short_name": "Ali Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Breeding and Genetics, Faculty of Agriculture Sciences, University of Agriculture Faisalabad, Faisalabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Rasul, Ijaz",
+        "short_name": "Rasul I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Biotechnology, Government College University Faisalabad, Faisalabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Aslam, Muhammad",
+        "short_name": "Aslam M",
+        "identifiers": [],
+        "affiliations": [
+          "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Ud-Din, Naeem",
+        "short_name": "Ud-Din N",
+        "identifiers": [],
+        "affiliations": [
+          "Pakistan Agricultural Research Council (PARC), Balochistan Agricultural Research and Development Centre (BARDC), Quetta, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Liu, Yongming",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "National Nanfan Research Institute (Sanya), Chinese Academy of Agricultural Sciences, Sanya, China."
+        ]
+      },
+      {
+        "full_name": "Tariq, Muhammad Sayyam",
+        "short_name": "Tariq MS",
+        "identifiers": [],
+        "affiliations": [
+          "Division Plant Breeding and Genetics, Nuclear Institute for Agriculture and Biology (NIAB), Faisalabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Skalicky, Milan",
+        "short_name": "Skalicky M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Botany and Plant Physiology, Faculty of Agrobiology, Food and Natural Resources, Czech University of Life Sciences, Prague, Czechia."
+        ]
+      },
+      {
+        "full_name": "Tan, Daniel K Y",
+        "short_name": "Tan DKY",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life and Environmental Sciences, Plant Breeding Institute, Sydney Institute of Agriculture, Faculty of Science, The University of Sydney, Sydney, NSW, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 11:38",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42713468",
+      "30835493",
+      "42469498",
+      "42405245",
+      "41665762",
+      "40632351",
+      "35460444",
+      "37521915",
+      "41828461",
+      "34367194",
+      "42643124",
+      "33842017",
+      "41649714",
+      "41688767",
+      "31541446",
+      "33742256",
+      "42328080",
+      "33977326",
+      "31430902",
+      "41546796",
+      "40986203",
+      "42452277",
+      "35910205",
+      "40918304",
+      "39637703",
+      "34070430",
+      "36993865",
+      "40055491",
+      "41533202",
+      "30809237",
+      "41740122",
+      "37294468",
+      "36913066",
+      "36562862",
+      "32194972",
+      "39479297",
+      "32694114",
+      "38494539",
+      "40154762",
+      "36812799",
+      "39376239",
+      "41165418",
+      "40450609",
+      "34327324",
+      "32973356",
+      "42475469",
+      "42245112",
+      "33835761",
+      "41592905",
+      "41755886",
+      "37288976",
+      "33657682",
+      "42375648",
+      "42402524",
+      "41424917",
+      "40931807",
+      "26930114",
+      "37239967",
+      "38658741",
+      "36685816",
+      "42477308",
+      "39963359",
+      "35927945",
+      "35698891",
+      "27499678",
+      "34517092",
+      "33285226",
+      "35141701",
+      "42690503",
+      "29082719",
+      "28762506",
+      "41751548",
+      "41096720",
+      "35732256",
+      "37666372",
+      "34498163",
+      "32860436",
+      "37331842",
+      "42696150",
+      "42109576",
+      "41213129",
+      "40129518",
+      "34073848",
+      "35920132",
+      "41064763",
+      "37687368",
+      "34807378",
+      "33646511",
+      "38144710",
+      "36174801",
+      "41092254",
+      "35325415",
+      "32276445",
+      "35647578",
+      "42053928",
+      "33519884",
+      "41231321",
+      "38331711",
+      "37741566",
+      "35606905"
+    ],
+    "review": [
+      "42713468",
+      "30835493",
+      "42469498",
+      "42405245",
+      "41665762",
+      "40632351",
+      "35460444",
+      "37521915",
+      "41828461",
+      "34367194",
+      "42643124",
+      "33842017",
+      "41649714",
+      "41688767",
+      "33742256",
+      "42328080",
+      "33977326",
+      "31430902",
+      "41546796",
+      "40986203",
+      "42452277",
+      "35910205",
+      "40918304",
+      "39637703",
+      "34070430",
+      "36993865",
+      "40055491",
+      "41533202",
+      "30809237",
+      "41740122",
+      "37294468",
+      "36913066",
+      "36562862",
+      "32194972",
+      "39479297",
+      "32694114",
+      "38494539",
+      "40154762",
+      "39376239",
+      "41165418",
+      "40450609",
+      "34327324",
+      "32973356",
+      "42245112",
+      "33835761",
+      "41592905",
+      "41755886",
+      "37288976",
+      "33657682",
+      "42375648",
+      "42402524",
+      "41424917",
+      "40931807",
+      "37239967",
+      "38658741",
+      "36685816",
+      "42477308",
+      "39963359",
+      "35927945",
+      "35698891",
+      "34517092",
+      "33285226",
+      "35141701",
+      "42690503",
+      "29082719",
+      "28762506",
+      "41751548",
+      "41096720",
+      "35732256",
+      "37666372",
+      "34498163",
+      "32860436",
+      "37331842",
+      "42696150",
+      "42109576",
+      "41213129",
+      "40129518",
+      "34073848",
+      "35920132",
+      "41064763",
+      "37687368",
+      "34807378",
+      "33646511",
+      "38144710",
+      "36174801",
+      "41092254",
+      "32276445",
+      "35647578",
+      "42053928",
+      "33519884",
+      "41231321",
+      "38331711",
+      "37741566",
+      "35606905"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

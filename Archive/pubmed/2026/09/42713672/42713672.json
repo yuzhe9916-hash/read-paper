@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "pmid": "42713672",
+    "doi": "10.1111/cas.70520",
+    "title": "The DNA/RNA Helicase SETX Maintains R-Loop Homeostasis to Promote Chemoresistance in Ovarian Cancer."
+  },
+  "content": {
+    "abstract": "Ovarian cancer is a lethal malignancy that frequently develops resistance to platinum-based chemotherapies. Elucidating the genes that regulate DNA damage repair could lead to more effective treatments for ovarian cancer. Senataxin (SETX), an RNA-DNA helicase, maintains R-loop homeostasis to ensure replication fork progression, and its deficiency is linked to neurodegenerative diseases. However, its clinical relevance to solid tumors is not understood. We aimed to investigate the clinical significance and functional role of SETX in ovarian cancer progression and chemotherapy resistance. SETX expression was analyzed in ovarian cancer tissues, followed by CRISPR-Cas9-mediated knockout, mechanistic analyses, and RNASEH1 rescue experiments to investigate its role in ovarian cancer progression and chemoresistance. SETX was significantly overexpressed in ovarian tumors, and its high expression was correlated with cisplatin resistance and poor patient survival. SETX depletion significantly impaired tumor cell proliferation and invasion and sensitized cells to cisplatin-induced apoptosis. Mechanistically, SETX deficiency triggered pathological R-loop accumulation, which was accompanied by replication stress, DNA double-strand breaks, and activation of DNA damage response. RNA-seq analysis also revealed splicing alterations and U2AF1 interaction. Critically, R-loop degradation induced by RNASEH1 overexpression rescued the DNA damage phenotype and growth defects induced by SETX loss. These findings reveal a dual oncogenic role for SETX. Maintaining R-loop homeostasis supports malignant progression while conferring chemotherapy resistance. Therefore, SETX represents a promising therapeutic target, as its inhibition simultaneously suppresses tumor growth and overcomes chemotherapy resistance in ovarian cancer.",
+    "keywords": [
+      "DNA damage response",
+      "R-loops",
+      "Senataxin (SETX)",
+      "chemoresistance",
+      "ovarian cancer"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Zi-Wei",
+        "Xu, Tu-Nan",
+        "Wang, Zi-Ying",
+        "Zheng, Xin",
+        "Feng, Duan-Yong",
+        "Wang, Xiao-Min",
+        "Jin, Er-Suo",
+        "Ren, Ming",
+        "Yang, Xiao-Min",
+        "Zhang, Xian-Chao",
+        "Che, Xuan",
+        "Pan, Wei-Wei",
+        "Zhan, Zha-Jun",
+        "Cheng, Shu-Qun"
+      ],
+      "short_names": [
+        "Hu ZW",
+        "Xu TN",
+        "Wang ZY",
+        "Zheng X",
+        "Feng DY",
+        "Wang XM",
+        "Jin ES",
+        "Ren M",
+        "Yang XM",
+        "Zhang XC",
+        "Che X",
+        "Pan WW",
+        "Zhan ZJ",
+        "Cheng SQ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6650-555X",
+        "ORCID: 0000-0001-7128-8097",
+        "ORCID: 0000-0001-6760-7470"
+      ],
+      "affiliations": [
+        "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China.",
+        "Key Laboratory for Green Pharmaceutical Technologies and Related Equipment of Ministry of Education, College of Pharmaceutical Science, Zhejiang University of Technology, Hangzhou, China.",
+        "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China.",
+        "Department of Pathology, First Affiliated Hospital of Jiaxing University/The First Hospital of Jiaxing, Zhejiang, China.",
+        "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Zhejiang, China.",
+        "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China.",
+        "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China.",
+        "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China.",
+        "Department of Anesthesiology, Jiaxing Hospital of Traditional Chinese Medicine, Zhejiang, China.",
+        "Institute of Information Network and Artificial Intelligence, Jiaxing University, Jiaxing, China.",
+        "Department of Anesthesiology, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, China.",
+        "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China.",
+        "G60 STI Valley Industry and Innovation Institute, Jiaxing University, Jiaxing, China.",
+        "Key Laboratory for Green Pharmaceutical Technologies and Related Equipment of Ministry of Education, College of Pharmaceutical Science, Zhejiang University of Technology, Hangzhou, China.",
+        "Department of Hepatic Surgery VI, Eastern Hepatobiliary Surgery Hospital, Second Military Medical University, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Zi-Wei",
+        "short_name": "Hu ZW",
+        "identifiers": [
+          "0000-0002-6650-555X"
+        ],
+        "affiliations": [
+          "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Tu-Nan",
+        "short_name": "Xu TN",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Green Pharmaceutical Technologies and Related Equipment of Ministry of Education, College of Pharmaceutical Science, Zhejiang University of Technology, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zi-Ying",
+        "short_name": "Wang ZY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Xin",
+        "short_name": "Zheng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, First Affiliated Hospital of Jiaxing University/The First Hospital of Jiaxing, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Duan-Yong",
+        "short_name": "Feng DY",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiao-Min",
+        "short_name": "Wang XM",
+        "identifiers": [
+          "0000-0001-7128-8097"
+        ],
+        "affiliations": [
+          "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Er-Suo",
+        "short_name": "Jin ES",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Ming",
+        "short_name": "Ren M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiao-Min",
+        "short_name": "Yang XM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Jiaxing Hospital of Traditional Chinese Medicine, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xian-Chao",
+        "short_name": "Zhang XC",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Information Network and Artificial Intelligence, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Che, Xuan",
+        "short_name": "Che X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Wei-Wei",
+        "short_name": "Pan WW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, College of Medicine, Jiaxing University, Jiaxing, China.",
+          "G60 STI Valley Industry and Innovation Institute, Jiaxing University, Jiaxing, China."
+        ]
+      },
+      {
+        "full_name": "Zhan, Zha-Jun",
+        "short_name": "Zhan ZJ",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Green Pharmaceutical Technologies and Related Equipment of Ministry of Education, College of Pharmaceutical Science, Zhejiang University of Technology, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Shu-Qun",
+        "short_name": "Cheng SQ",
+        "identifiers": [
+          "0000-0001-6760-7470"
+        ],
+        "affiliations": [
+          "Department of Hepatic Surgery VI, Eastern Hepatobiliary Surgery Hospital, Second Military Medical University, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer science"
+    ],
+    "journal_abbrev": [
+      "Cancer Sci"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 11:38",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42713672",
+      "32686621",
+      "40108134",
+      "35045161",
+      "39896456",
+      "39594478",
+      "41037402",
+      "41917467",
+      "40475435",
+      "39046232",
+      "39119900",
+      "34526504",
+      "34819354",
+      "37147318",
+      "41761192",
+      "41935138",
+      "25054092",
+      "39070547",
+      "33337500",
+      "30010942",
+      "38365849",
+      "39983558",
+      "27771483",
+      "36864660",
+      "25650716",
+      "41783067",
+      "34339838",
+      "40630134",
+      "36543851",
+      "40898244",
+      "34140498",
+      "35929918",
+      "29916023",
+      "30375398",
+      "42328450",
+      "40067902",
+      "42593674",
+      "37291112",
+      "36544021",
+      "38822429",
+      "42456201",
+      "41054518",
+      "40324694",
+      "30071534",
+      "25482209",
+      "41519773",
+      "34263556",
+      "32195383",
+      "41496412",
+      "40118782",
+      "41997449",
+      "41803859",
+      "42300311",
+      "29719287",
+      "41305523",
+      "28376831",
+      "37861290",
+      "33408782",
+      "34373746",
+      "23539629",
+      "39120648",
+      "27041570",
+      "36941105",
+      "42260555",
+      "38486481",
+      "40381483",
+      "24657486",
+      "31722968",
+      "40244040",
+      "41235254",
+      "42260337",
+      "30827507",
+      "41339379",
+      "41543046",
+      "29572031",
+      "28806395",
+      "41321016",
+      "31105696",
+      "38636303",
+      "40435048",
+      "41038875",
+      "37322264",
+      "42138474",
+      "35711824",
+      "42158468",
+      "26215403",
+      "42559605",
+      "26205780",
+      "36109793",
+      "36551554",
+      "26683361",
+      "41620200",
+      "32375633",
+      "31926547",
+      "41361477",
+      "24637776",
+      "19957335",
+      "34496932",
+      "41232527",
+      "42650109"
+    ],
+    "review": [
+      "42713672",
+      "37147318",
+      "39070547",
+      "27771483",
+      "29916023",
+      "34263556"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

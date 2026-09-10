@@ -1,0 +1,359 @@
+{
+  "identity": {
+    "pmid": "42709540",
+    "doi": "10.1080/15384047.2026.2724630",
+    "title": "Thioredoxin reductase-1 facilitates cellular plasticity and stemness mediated by TGF-beta1 in non-small cell lung cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Cellular plasticity and epithelial-mesenchymal transition (EMT) promote the initiation and progression of non-small cell lung cancer (NSCLC). Thioredoxin reductase 1 (TXNRD1), a key redox enzyme, has been linked to malignancy, but its mechanism in NSCLC remains unclear. We examined whether TXNRD1 regulates TGF-beta1 autocrine signaling to drive EMT and stemness. MATERIALS: Stage-progression gene profiles were analyzed in the TCGA and GEO databases with an emphasis on redox gene families. TXNRD1 was manipulated by overexpression or knockdown in A549, H226, and H1299 cells, followed by migration/invasion, spheroid assays, ELISA for cytokines, and RT-qPCR/Western blot for EMT markers. RNA-seq with pathway enrichment analyses was used to identify downstream programs. An orthotopic lung cancer mouse model was established using TXNRD1-WT cells, TXNRD1-deficient cells, and TXNRD1-deficient cells treated with TRi-1. Tumor progression was monitored by bioluminescence imaging at 6 and 12 weeks after transplantation. RESULTS: TXNRD1 expression was ~2-fold higher in advanced-stage NSCLC and was validated in tumor tissues. CRISPR/Cas9 or siRNA knockdown reduced EMT-associated genes and decreased TGF-beta1 production in A549 and H226 cells. TXNRD1 overexpression increased EMT and stemness markers and produced larger, more compact spheres with higher sphere numbers in H1299 cells. RNA-seq indicated the TXNRD1 pathway activates the TGF-beta1 pathway to promote EMT, motility, and stemness via an autocrine loop; knockdown or TXNRD1 inhibition suppressed metastatic tumor growth in vivo. CONCLUSIONS: Our study identifies TXNRD1 as a crucial regulator of cellular plasticity and metastasis in NSCLC via the TGF-beta1 pathway, suggesting that targeting TXNRD1 may reduce metastatic potential and improve patient survival.",
+    "keywords": [
+      "Non-small cell lung cancer (NSCLC)",
+      "cancer stemness",
+      "cellular plasticity",
+      "epithelial-mesenchymal transition (EMT)",
+      "thioredoxin reductase 1 (TXNRD1)",
+      "transforming growth factor beta 1 (TGF-beta1)",
+      "tumor metastasis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Carcinoma, Non-Small-Cell Lung/pathology/genetics/metabolism",
+      "*Transforming Growth Factor beta1/metabolism",
+      "Animals",
+      "*Lung Neoplasms/pathology/genetics/metabolism",
+      "Mice",
+      "*Thioredoxin Reductase 1/metabolism/genetics",
+      "Epithelial-Mesenchymal Transition",
+      "*Cell Plasticity",
+      "*Neoplastic Stem Cells/metabolism/pathology",
+      "Cell Line, Tumor",
+      "Gene Expression Regulation, Neoplastic",
+      "Female",
+      "Cell Movement"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lang, Yaw-Dong",
+        "Gu, Shin-Yuan",
+        "Shih, Jou-Ho",
+        "Lin, Chun-Jung",
+        "Chiang, Hua-Hsin",
+        "Lin, Tsai-Yu",
+        "Lee, Yu-Ching",
+        "Tsai, Keng-Chang",
+        "Chang, Jui-Tin",
+        "Chu, Cheng-Ying",
+        "Jou, Yuh-Shan",
+        "Chou, Teh-Ying"
+      ],
+      "short_names": [
+        "Lang YD",
+        "Gu SY",
+        "Shih JH",
+        "Lin CJ",
+        "Chiang HH",
+        "Lin TY",
+        "Lee YC",
+        "Tsai KC",
+        "Chang JT",
+        "Chu CY",
+        "Jou YS",
+        "Chou TY"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-0863-3222"
+      ],
+      "affiliations": [
+        "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan.",
+        "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Department of Medical Research, Taipei Medical University Hospital, Taipei, Taiwan.",
+        "Precision Medicine Research Center, Center for Precision Health and Quantitative Sciences, Taipei Medical University Hospital, Taipei, Taiwan.",
+        "Department of Medical Research, Taipei Medical University Hospital, Taipei, Taiwan.",
+        "Department of Genetics, Stanford University School of Medicine, CA, USA.",
+        "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan.",
+        "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan.",
+        "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan.",
+        "PhD Program in Medical Biotechnology, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "School of Medicine, Fu Jen Catholic University, New Taipei City, Taiwan.",
+        "Department of Internal Medicine, Nutrition Department, Division of Nephrology, Shin Kong Wu Ho-Su Memorial Hospital, Taipei, Taiwan.",
+        "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "CRISPR Gene Targeting Core, Taipei Medical University, Taipei, Taiwan.",
+        "Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan.",
+        "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Precision Medicine Research Center, Center for Precision Health and Quantitative Sciences, Taipei Medical University Hospital, Taipei, Taiwan.",
+        "Department of Pathology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Department of Pathology and Laboratory Medicine, Shin Kong Wu Ho-Su Memorial Hospital, Taipei, Taiwan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lang, Yaw-Dong",
+        "short_name": "Lang YD",
+        "identifiers": [
+          "0009-0000-0863-3222"
+        ],
+        "affiliations": [
+          "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan.",
+          "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+          "Department of Medical Research, Taipei Medical University Hospital, Taipei, Taiwan.",
+          "Precision Medicine Research Center, Center for Precision Health and Quantitative Sciences, Taipei Medical University Hospital, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Gu, Shin-Yuan",
+        "short_name": "Gu SY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Research, Taipei Medical University Hospital, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Shih, Jou-Ho",
+        "short_name": "Shih JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Lin, Chun-Jung",
+        "short_name": "Lin CJ",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chiang, Hua-Hsin",
+        "short_name": "Chiang HH",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lin, Tsai-Yu",
+        "short_name": "Lin TY",
+        "identifiers": [],
+        "affiliations": [
+          "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lee, Yu-Ching",
+        "short_name": "Lee YC",
+        "identifiers": [],
+        "affiliations": [
+          "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Tsai, Keng-Chang",
+        "short_name": "Tsai KC",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Basic Chinese Medicine, National Research Institute of Chinese Medicine, Ministry of Health and Welfare, Taipei, Taiwan.",
+          "PhD Program in Medical Biotechnology, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chang, Jui-Tin",
+        "short_name": "Chang JT",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine, Fu Jen Catholic University, New Taipei City, Taiwan.",
+          "Department of Internal Medicine, Nutrition Department, Division of Nephrology, Shin Kong Wu Ho-Su Memorial Hospital, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chu, Cheng-Ying",
+        "short_name": "Chu CY",
+        "identifiers": [],
+        "affiliations": [
+          "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+          "CRISPR Gene Targeting Core, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Jou, Yuh-Shan",
+        "short_name": "Jou YS",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chou, Teh-Ying",
+        "short_name": "Chou TY",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+          "Precision Medicine Research Center, Center for Precision Health and Quantitative Sciences, Taipei Medical University Hospital, Taipei, Taiwan.",
+          "Department of Pathology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+          "Department of Pathology and Laboratory Medicine, Shin Kong Wu Ho-Su Memorial Hospital, Taipei, Taiwan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer biology & therapy"
+    ],
+    "journal_abbrev": [
+      "Cancer Biol Ther"
+    ],
+    "pub_date": "2026 Dec 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 17:36",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42709540",
+      "28412214",
+      "30261900",
+      "31492158",
+      "41916122",
+      "40806251",
+      "39261409",
+      "40962000",
+      "31204561",
+      "41452395",
+      "35854234",
+      "31387165",
+      "25987100",
+      "33536603",
+      "29339211",
+      "23640462",
+      "41974571",
+      "31499680",
+      "37832808",
+      "29812958",
+      "40849808",
+      "27237033",
+      "26325518",
+      "25728352",
+      "25884904",
+      "24258346",
+      "26986176",
+      "28285699",
+      "40216870",
+      "36924014",
+      "30509963",
+      "40628815",
+      "33437206",
+      "29337059",
+      "42546137",
+      "25700356",
+      "29566281",
+      "30485693",
+      "27581786",
+      "30599910",
+      "32029901",
+      "21249152",
+      "39978271",
+      "41592891",
+      "38844957",
+      "31638991",
+      "39551781",
+      "39964646",
+      "39259551",
+      "29138833",
+      "33099540",
+      "38890620",
+      "24447834",
+      "27393518",
+      "28697764",
+      "29995950",
+      "24714748",
+      "24913443",
+      "40210476",
+      "31770531",
+      "39476941",
+      "23146760",
+      "41484780",
+      "30346081",
+      "30577808",
+      "28534939",
+      "35909269",
+      "25961934",
+      "30367510",
+      "28412955",
+      "42361941",
+      "24011634",
+      "28405157",
+      "32606331",
+      "30720174",
+      "35344216",
+      "23290789",
+      "26509557",
+      "39117067",
+      "24120851",
+      "31498891",
+      "33153498",
+      "38826095",
+      "25955797",
+      "28212533",
+      "42559326",
+      "41968320",
+      "42284640",
+      "28161507",
+      "32724475",
+      "27821145",
+      "31438892",
+      "39922150",
+      "41644700",
+      "38140828",
+      "37806311",
+      "42069326",
+      "24793912",
+      "27543359",
+      "38986733"
+    ],
+    "review": [
+      "42709540"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/15384047.2026.2724630?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3952",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "identity": {
+    "pmid": "42704980",
+    "doi": "10.1016/j.phrs.2026.108438",
+    "title": "A closed-loop paradigm for precision oncology: Integrating dynamic monitoring, organoid models, and explainable AI."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Precision oncology faces three systemic bottlenecks: static molecular snapshots fail to capture tumor dynamics, patient‑derived organoids lack physiological reconstruction of the tumor microenvironment (TME), and artificial intelligence (AI) remains a \"black box\" in clinical decision‑making. This review aims to propose an integrated closed‑loop framework that addresses these challenges by combining dynamic multi‑omics monitoring, next‑generation bioengineered models, and explainable AI. MAIN BODY: This review synthesizes recent advances in microfluidics, organoid technology, CRISPR screening, and multimodal data integration and, more importantly, proposes a closed-loop framework that distinguishes itself from existing approaches by explicitly linking dynamic monitoring, functional organoid testing, and explainable AI into an iterative decision cycle. Liquid biopsy enables longitudinal tracking of tumor evolution, while vascularized organoids and organ‑on‑chip systems reconstruct key TME features such as oxygen gradients, shear stress, and immune‑stromal interactions. These models serve as \"therapeutic sandboxes\" for functional drug testing and resistance mechanism elucidation. Concurrently, explainable AI (XAI) techniques-including feature perturbation, knowledge graph embedding, and dynamic Bayesian networks-provide interpretable predictions of treatment response. We outline a closed‑loop paradigm where dynamic monitoring data inform organoid‑based assays, XAI translates experimental evidence into clinical decisions, and real‑world outcomes continuously refine the models. Technical challenges such as multi‑scale data integration, vascularization fidelity, and AI transparency are discussed, along with emerging solutions including federated learning, 3D bioprinting, and standardized quality control pathways. CONCLUSIONS: Integrating dynamic monitoring, physiologically relevant organoid models, and explainable AI establishes a convergent precision oncology ecosystem that shifts the field from static biopsy‑based decisions toward adaptive, closed‑loop personalized therapy. This paradigm holds promise for overcoming tumor heterogeneity, predicting drug resistance, and improving clinical outcomes, while also providing a roadmap for future translational research and regulatory harmonization.",
+    "keywords": [
+      "Closed‑loop system",
+      "Drug resistance",
+      "Explainable artificial intelligence",
+      "Liquid biopsy",
+      "Microfluidics",
+      "Multi‑omics integration",
+      "Patient‑derived organoids",
+      "Precision oncology",
+      "Translational medicine",
+      "Tumor microenvironment"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yanan",
+        "Wang, Yaping",
+        "Huang, Xiaoxia",
+        "Li, Yang",
+        "Zhu, Aibei",
+        "Wang, Mengyuan",
+        "Yao, Hangping",
+        "Liang, Li-Guo"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Wang Y",
+        "Huang X",
+        "Li Y",
+        "Zhu A",
+        "Wang M",
+        "Yao H",
+        "Liang LG"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China; Ningbo Key Laboratory of Detection, Control, and Early Warning of Key Hazardous Materials in Food, Ningbo Academy of Product and Food Quality Inspection (Ningbo Fibre Inspection Institute), Ningbo, PR China; College of Food Science and Technology, Nanjing Agricultural University, Nanjing 210095, PR China.",
+        "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China.",
+        "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China; National Clinical Research Center for Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. Electronic address: yliu98@126.com.",
+        "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China.",
+        "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China; National Clinical Research Center for Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Centre for Clinical Laboratory, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China; State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China; National Clinical Research Center for Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. Electronic address: lianglg@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yanan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China; Ningbo Key Laboratory of Detection, Control, and Early Warning of Key Hazardous Materials in Food, Ningbo Academy of Product and Food Quality Inspection (Ningbo Fibre Inspection Institute), Ningbo, PR China; College of Food Science and Technology, Nanjing Agricultural University, Nanjing 210095, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yaping",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiaoxia",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Yang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China; National Clinical Research Center for Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. Electronic address: yliu98@126.com."
+        ]
+      },
+      {
+        "full_name": "Zhu, Aibei",
+        "short_name": "Zhu A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Mengyuan",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition, Zhejiang Provincial Key Laboratory of Animal Protein Food Intensive Processing Technology, Ningbo University, Ningbo, PR China."
+        ]
+      },
+      {
+        "full_name": "Yao, Hangping",
+        "short_name": "Yao H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China; National Clinical Research Center for Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Li-Guo",
+        "short_name": "Liang LG",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Clinical Laboratory, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China; State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China; National Clinical Research Center for Infectious Diseases, the First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. Electronic address: lianglg@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmacological research"
+    ],
+    "journal_abbrev": [
+      "Pharmacol Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 23:34",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42704980",
+      "41590268",
+      "42475469",
+      "41266662",
+      "41873493",
+      "42558389",
+      "42274624",
+      "42676384",
+      "42582172",
+      "42702375",
+      "42192843",
+      "40647462",
+      "41097693",
+      "42671200",
+      "42614873",
+      "42685611",
+      "42440488",
+      "41512327",
+      "41912385",
+      "42106781",
+      "42291349",
+      "41698840",
+      "40694226",
+      "40964989",
+      "42701433",
+      "42322793",
+      "42579081",
+      "41977144",
+      "41504839",
+      "42535509",
+      "42653034",
+      "41588969",
+      "42079573",
+      "40654157",
+      "41761263",
+      "42209845",
+      "41024759",
+      "41290079",
+      "41520911",
+      "42163357",
+      "41676817",
+      "42064098",
+      "41755349",
+      "42007257",
+      "41957161",
+      "42256715",
+      "39265553",
+      "42341346",
+      "42136652",
+      "42575519",
+      "41977376",
+      "42176680",
+      "42449434",
+      "42022614",
+      "40978067",
+      "41939694",
+      "42639003",
+      "41977918",
+      "40517231",
+      "40848340",
+      "42404587",
+      "41816407",
+      "42487442",
+      "41982233",
+      "41884150",
+      "42646898",
+      "42322494",
+      "42621171",
+      "41962624",
+      "42218467",
+      "39970690",
+      "41987851",
+      "42683593",
+      "42193081",
+      "42307057",
+      "41098309",
+      "42597681",
+      "42136725",
+      "42123533",
+      "39698664",
+      "41748914",
+      "40321594",
+      "42036052",
+      "42368588",
+      "41965741",
+      "41488666",
+      "41806059",
+      "41813232",
+      "41191851",
+      "41155654",
+      "41535484",
+      "40269480",
+      "42452348",
+      "42366266",
+      "41896450",
+      "40992706",
+      "40940963",
+      "41348304",
+      "41828036",
+      "41584179"
+    ],
+    "review": [
+      "42704980",
+      "41590268",
+      "41266662",
+      "41873493",
+      "42558389",
+      "42274624",
+      "42676384",
+      "42582172",
+      "42702375",
+      "42192843",
+      "40647462",
+      "41097693",
+      "42671200",
+      "42614873",
+      "42685611",
+      "42440488",
+      "41512327",
+      "41912385",
+      "42106781",
+      "42291349",
+      "41698840",
+      "40694226",
+      "40964989",
+      "42701433",
+      "42322793",
+      "42579081",
+      "41977144",
+      "41504839",
+      "42535509",
+      "42653034",
+      "42079573",
+      "40654157",
+      "41761263",
+      "42209845",
+      "41024759",
+      "41290079",
+      "41520911",
+      "42163357",
+      "41676817",
+      "42064098",
+      "41755349",
+      "42256715",
+      "39265553",
+      "42341346",
+      "42136652",
+      "42575519",
+      "41977376",
+      "42176680",
+      "42449434",
+      "42022614",
+      "40978067",
+      "41939694",
+      "41977918",
+      "40517231",
+      "40848340",
+      "42404587",
+      "41816407",
+      "41982233",
+      "41884150",
+      "42646898",
+      "42322494",
+      "42621171",
+      "41962624",
+      "42218467",
+      "41987851",
+      "42683593",
+      "42193081",
+      "42307057",
+      "41098309",
+      "42597681",
+      "42136725",
+      "42123533",
+      "39698664",
+      "40321594",
+      "42036052",
+      "42368588",
+      "41965741",
+      "41488666",
+      "41806059",
+      "41813232",
+      "41191851",
+      "41155654",
+      "40269480",
+      "42452348",
+      "42366266",
+      "41896450",
+      "40992706",
+      "40940963",
+      "41348304",
+      "41828036",
+      "41584179"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1043-6618(26)00353-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

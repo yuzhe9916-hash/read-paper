@@ -1,0 +1,353 @@
+{
+  "identity": {
+    "pmid": "42694111",
+    "doi": "10.1038/s44400-026-00125-4",
+    "title": "Regulators of interferon-responsive microglia uncovered by Genome-wide CRISPRi screening."
+  },
+  "content": {
+    "abstract": "Microglia dynamically support brain health through the induction of specialized activation states in response to injury or disease. Activation of the interferon-responsive microglia (IRM) state has been identified across neurodevelopmental windows, age-related cognitive decline, and neurodegenerative diseases. Functionally, IRM have been linked to synaptic pruning, dead cell removal, and neuroinflammation, making this state critical to brain homeostasis. While the functional importance of this state is becoming increasingly clear, our understanding of the regulatory networks that govern IRM induction remain incomplete. To systematically identify genetic regulators of the IRM state, we conducted a genome-wide CRISPR interference screen in human iPSC-derived microglia using IFIT1 as a representative IRM marker. We identified 772 genes that modulate IRM, including canonical type I interferon signaling genes (IFNAR2, TYK2, STAT1/2, USP18) and newly described regulators. We uncovered a non-canonical role for the CCR4-NOT transcription complex subunit 10, CNOT10, in IRM activation. This work provides a comprehensive resource that can be applied to dissect the functions of interferon-responsive microglia and highlights both established and novel targets for modulating microglial interferon signaling in health and disease.",
+    "keywords": [
+      "Computational biology and bioinformatics",
+      "Immunology",
+      "Neurology",
+      "Neuroscience"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "McQuade, Amanda",
+        "Castillo, Vincent Cele",
+        "Hagan, Venus",
+        "Liang, Weiwei",
+        "Ta, Thomas",
+        "Mishra, Reet",
+        "Teter, Olivia",
+        "Gomes, Layla",
+        "Gonzalez, Bianca",
+        "Teyssier, Noam",
+        "Leng, Kun",
+        "Kampmann, Martin"
+      ],
+      "short_names": [
+        "McQuade A",
+        "Castillo VC",
+        "Hagan V",
+        "Liang W",
+        "Ta T",
+        "Mishra R",
+        "Teter O",
+        "Gomes L",
+        "Gonzalez B",
+        "Teyssier N",
+        "Leng K",
+        "Kampmann M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3819-7019"
+      ],
+      "affiliations": [
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "UC Berkeley-UCSF Graduate Program in Bioengineering, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "UC Berkeley-UCSF Graduate Program in Bioengineering, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Engineering and Technology Department, City College of San Francisco, San Francisco, CA USA. ROR: https://ror.org/03181bn25. GRID: grid.254251.5. ISNI: 0000 0004 0401 8742",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Biomedical Informatics Graduate Program, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Medical Scientist Training Program, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Biomedical Sciences Graduate Program, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "UC Berkeley-UCSF Graduate Program in Bioengineering, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA USA. ROR: https://ror.org/043mz5j54. GRID: grid.266102.1. ISNI: 0000 0001 2297 6811"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "McQuade, Amanda",
+        "short_name": "McQuade A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Castillo, Vincent Cele",
+        "short_name": "Castillo VC",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Hagan, Venus",
+        "short_name": "Hagan V",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Liang, Weiwei",
+        "short_name": "Liang W",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Ta, Thomas",
+        "short_name": "Ta T",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Mishra, Reet",
+        "short_name": "Mishra R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA.",
+          "UC Berkeley-UCSF Graduate Program in Bioengineering, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Teter, Olivia",
+        "short_name": "Teter O",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA.",
+          "UC Berkeley-UCSF Graduate Program in Bioengineering, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Gomes, Layla",
+        "short_name": "Gomes L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Gonzalez, Bianca",
+        "short_name": "Gonzalez B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA.",
+          "Engineering and Technology Department, City College of San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Teyssier, Noam",
+        "short_name": "Teyssier N",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA.",
+          "Biomedical Informatics Graduate Program, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Leng, Kun",
+        "short_name": "Leng K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA.",
+          "Medical Scientist Training Program, University of California, San Francisco, San Francisco, CA USA.",
+          "Biomedical Sciences Graduate Program, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      },
+      {
+        "full_name": "Kampmann, Martin",
+        "short_name": "Kampmann M",
+        "identifiers": [
+          "0000-0002-3819-7019"
+        ],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, CA USA.",
+          "UC Berkeley-UCSF Graduate Program in Bioengineering, University of California, San Francisco, San Francisco, CA USA.",
+          "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "NPJ dementia"
+    ],
+    "journal_abbrev": [
+      "NPJ Dement"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 11:39",
+    "fetched_at": "2026-09-10 11:57:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42694111",
+      "42475469",
+      "35953545",
+      "41816335",
+      "39605704",
+      "39953505",
+      "40188316",
+      "42526428",
+      "29784049",
+      "38948260",
+      "41278975",
+      "41622228",
+      "41455993",
+      "42190655",
+      "25896511",
+      "39778705",
+      "40299722",
+      "41340152",
+      "29954413",
+      "42421050",
+      "41525255",
+      "30558641",
+      "39150724",
+      "35526014",
+      "37415834",
+      "41888907",
+      "28540600",
+      "35346293",
+      "40887233",
+      "38699303",
+      "41427057",
+      "33567283",
+      "38654824",
+      "42547642",
+      "36257689",
+      "38490196",
+      "33452227",
+      "32156810",
+      "35803230",
+      "37937831",
+      "36536241",
+      "40964342",
+      "40814757",
+      "36708632",
+      "41292222",
+      "41279077",
+      "42273825",
+      "41826719",
+      "38559257",
+      "34225752",
+      "35685361",
+      "24097101",
+      "37291336",
+      "31301160",
+      "38886816",
+      "24606795",
+      "41942750",
+      "40950136",
+      "41941036",
+      "41895620",
+      "24333668",
+      "42396292",
+      "40206798",
+      "38466560",
+      "42464356",
+      "40736565",
+      "36498991",
+      "37774678",
+      "42244505",
+      "28747383",
+      "40588746",
+      "39215356",
+      "40662222",
+      "39014482",
+      "38566100",
+      "41648346",
+      "41684752",
+      "41587891",
+      "27355630",
+      "29759145",
+      "41676156",
+      "40971318",
+      "26269921",
+      "41574049",
+      "40161839",
+      "40515808",
+      "40307881",
+      "41275794",
+      "32510331",
+      "33183319",
+      "36162511",
+      "41317063",
+      "41679670",
+      "30758770",
+      "34122343",
+      "40196633",
+      "34242709",
+      "27782195",
+      "42411605",
+      "42694464"
+    ],
+    "review": [
+      "42694111",
+      "40299722",
+      "41525255",
+      "39150724",
+      "41888907",
+      "28540600",
+      "40887233",
+      "42547642",
+      "42273825",
+      "38466560",
+      "42244505",
+      "40662222",
+      "41587891",
+      "41679670",
+      "34122343"
+    ],
+    "pmc": [
+      "13538059"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42694111/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-IFIT1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "identity": {
+    "pmid": "42708411",
+    "doi": "10.1093/nar/gkag862",
+    "title": "An expanded realm of anti-CRISPR-associated proteins and regulatory mechanisms."
+  },
+  "content": {
+    "abstract": "Many bacteriophages encode anti-CRISPR (Acr) proteins that inhibit bacterial CRISPR-Cas immune systems. Rapid acr gene expression upon phage entry enables CRISPR-Cas neutralization but can impact phage fitness if unregulated. Therefore, Acr production is often controlled by distinct families of co-encoded anti-CRISPR-associated (Aca) proteins, which are usually helix-turn-helix (HTH) regulators that bind DNA within acr-aca operon promoters. Previously, we demonstrated that the Aca2 family additionally represses Acr production translationally by binding structured RNA motifs within the 5' untranslated region (UTR) of the acr-aca mRNA. Here, through systematic bioinformatic analyses, we provide evidence of structured RNA motifs in the 5' UTRs of operons encoding members of other Aca families and show that Aca1 also specifically binds its cognate RNA motif. Additionally, many Aca proteins are predicted to regulate not only their own but also adjacent operons with potential anti-defence genes. Indeed, we show that Aca14, newly identified in this study, represses two predicted anti-defence operons. Aca14 is a ribbon-helix-helix domain protein, revealing regulatory diversity beyond the canonical HTH Aca family members. Collectively, our findings expand our understanding of acr regulation in mobile genetic elements and reveal novel mechanisms by which phages fine-tune anti-defence gene expression.",
+    "keywords": [],
+    "mesh_terms": [
+      "5' Untranslated Regions",
+      "Operon",
+      "*Viral Proteins/metabolism/genetics",
+      "*Bacteriophages/genetics",
+      "*Repressor Proteins/metabolism/genetics",
+      "*CRISPR-Cas Systems",
+      "Helix-Turn-Helix Motifs",
+      "RNA, Messenger/metabolism",
+      "Nucleotide Motifs",
+      "Gene Expression Regulation, Bacterial"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Feussner, Maximilian",
+        "Birkholz, Nils",
+        "Lee, So Yeon",
+        "Beisel, Chase L",
+        "Park, Hyun Ho",
+        "Brown, Chris M",
+        "Fineran, Peter C",
+        "Weinberg, Zasha"
+      ],
+      "short_names": [
+        "Feussner M",
+        "Birkholz N",
+        "Lee SY",
+        "Beisel CL",
+        "Park HH",
+        "Brown CM",
+        "Fineran PC",
+        "Weinberg Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-2803-0496",
+        "ORCID: 0000-0001-5269-5228",
+        "ORCID: 0000-0003-0444-2079",
+        "ORCID: 0000-0003-0650-9943",
+        "ORCID: 0000-0001-9928-0847",
+        "ORCID: 0000-0003-0079-7067",
+        "ORCID: 0000-0002-4639-6704",
+        "ORCID: 0000-0002-6681-3624"
+      ],
+      "affiliations": [
+        "Bioinformatics Group, Department of Computer Science and Interdisciplinary Centre for Bioinformatics, Leipzig University, 04107 Leipzig, Germany.",
+        "Botnar Institute of Immune Engineering, 4056 Basel, Switzerland.",
+        "Department of Microbiology and Immunology, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Bioprotection Aotearoa, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Genetics Otago, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "College of Pharmacy, Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "Botnar Institute of Immune Engineering, 4056 Basel, Switzerland.",
+        "College of Pharmacy, Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "Bioprotection Aotearoa, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Genetics Otago, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Department of Biochemistry, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Department of Microbiology and Immunology, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Bioprotection Aotearoa, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Genetics Otago, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+        "Bioinformatics Group, Department of Computer Science and Interdisciplinary Centre for Bioinformatics, Leipzig University, 04107 Leipzig, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Feussner, Maximilian",
+        "short_name": "Feussner M",
+        "identifiers": [
+          "0009-0000-2803-0496"
+        ],
+        "affiliations": [
+          "Bioinformatics Group, Department of Computer Science and Interdisciplinary Centre for Bioinformatics, Leipzig University, 04107 Leipzig, Germany.",
+          "Botnar Institute of Immune Engineering, 4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Birkholz, Nils",
+        "short_name": "Birkholz N",
+        "identifiers": [
+          "0000-0001-5269-5228"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Bioprotection Aotearoa, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Genetics Otago, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, PO Box 56, Dunedin 9054, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Lee, So Yeon",
+        "short_name": "Lee SY",
+        "identifiers": [
+          "0000-0003-0444-2079"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Chung-Ang University, Seoul 06974, Republic of Korea.",
+          "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul 06974, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Beisel, Chase L",
+        "short_name": "Beisel CL",
+        "identifiers": [
+          "0000-0003-0650-9943"
+        ],
+        "affiliations": [
+          "Botnar Institute of Immune Engineering, 4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Park, Hyun Ho",
+        "short_name": "Park HH",
+        "identifiers": [
+          "0000-0001-9928-0847"
+        ],
+        "affiliations": [
+          "College of Pharmacy, Chung-Ang University, Seoul 06974, Republic of Korea.",
+          "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul 06974, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Brown, Chris M",
+        "short_name": "Brown CM",
+        "identifiers": [
+          "0000-0003-0079-7067"
+        ],
+        "affiliations": [
+          "Bioprotection Aotearoa, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Genetics Otago, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Department of Biochemistry, University of Otago, PO Box 56, Dunedin 9054, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Fineran, Peter C",
+        "short_name": "Fineran PC",
+        "identifiers": [
+          "0000-0002-4639-6704"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Bioprotection Aotearoa, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Genetics Otago, University of Otago, PO Box 56, Dunedin 9054, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, PO Box 56, Dunedin 9054, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Weinberg, Zasha",
+        "short_name": "Weinberg Z",
+        "identifiers": [
+          "0000-0002-6681-3624"
+        ],
+        "affiliations": [
+          "Bioinformatics Group, Department of Computer Science and Interdisciplinary Centre for Bioinformatics, Leipzig University, 04107 Leipzig, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42708411",
+      "38987591",
+      "41298934",
+      "35947749",
+      "34756887",
+      "36413017",
+      "39327211",
+      "31428783",
+      "41630633",
+      "36243977",
+      "31474367",
+      "40694851",
+      "31506266",
+      "41542957",
+      "35920325",
+      "34116143",
+      "32402073",
+      "30514786",
+      "34981762",
+      "36690071",
+      "42056528",
+      "37158576",
+      "41856106",
+      "36868398",
+      "41021290",
+      "32325051",
+      "36163386",
+      "33068435",
+      "29182776",
+      "33444542",
+      "42675078",
+      "35411005",
+      "30606466",
+      "42272755",
+      "31901522",
+      "33544853",
+      "31077304",
+      "31730297",
+      "34606423",
+      "33159058",
+      "39232173",
+      "26416740",
+      "40810510",
+      "36669116",
+      "24736222",
+      "41453247",
+      "30046034",
+      "40588792",
+      "39264185",
+      "41137488",
+      "27573108",
+      "38064533",
+      "39551936",
+      "42486981",
+      "36504499",
+      "30033365",
+      "39541974",
+      "29233895",
+      "28749735",
+      "37659410",
+      "37778080",
+      "24465005",
+      "41553775",
+      "41885929",
+      "37367300",
+      "35085557",
+      "37587688",
+      "32218510",
+      "39075253",
+      "32186918",
+      "11361067",
+      "34663886",
+      "30033364",
+      "21954305",
+      "34042500",
+      "32170016",
+      "29348170",
+      "31969710",
+      "41219509",
+      "41555077",
+      "30006994",
+      "32728052",
+      "31021234",
+      "38059344",
+      "30208287",
+      "42405957",
+      "40387367",
+      "30190308",
+      "34403463",
+      "37100169",
+      "30862746",
+      "38427560",
+      "41492065",
+      "25968642",
+      "30595438",
+      "9562558",
+      "34228715",
+      "38842649",
+      "40400348",
+      "38726868"
+    ],
+    "review": [
+      "42708411",
+      "36690071",
+      "36868398",
+      "33444542",
+      "42272755",
+      "31077304",
+      "31730297",
+      "34606423",
+      "28749735",
+      "41885929",
+      "32186918",
+      "30006994",
+      "31021234",
+      "30208287"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag862",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

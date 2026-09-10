@@ -1,0 +1,345 @@
+{
+  "identity": {
+    "pmid": "42696818",
+    "doi": "10.1016/j.bios.2026.119177",
+    "title": "Mosaic switch for PAM-free and one-pot CRISPR/Cas12a detection."
+  },
+  "content": {
+    "abstract": "CRISPR/Cas12a combined with nucleic acid amplification enables highly specific and sensitive detection. However, its broader deployment is constrained by protospacer adjacent motif (PAM) dependence, multistep workflows, and limited reagent practicality. Here, we identify a PAM-independent Cas12a activator, termed mosaic DNA, which exhibits structural features intermediate between single-stranded DNA (ssDNA) and double-stranded DNA (dsDNA). Building on this finding, we develop a PAM-independent mosaic switch triggered by a solid-liquid phase transition, thereby addressing these limitations within a single platform. Distinct from previous reports, our experiments show that this activator is generated prior to the digestion of dsDNA into ssDNA by the lambda exonuclease, forming the basis of lambda exonuclease-driven Cas12a activation, a process we refer to as the mosaic switch. Mosaic switch can detect arbitrary dsDNA with sensitivity comparable to that of PAM-containing dsDNA, and maintain single-nucleotide discrimination. Lyophilizing mosaic switch reagents and encapsulating them in paraffin improve stability and usability, which also enables straightforward one-pot integration with recombinase polymerase amplification (RPA) via a solid-liquid phase transition. Applied directly to 58 extraction-free mpox clinical samples, this platform showed complete concordance (100%) with quantitative PCR. This CRISPR/Cas12a platform maintains analytical performance while broadening the range of targets, simplifying the workflow, and enhancing reagent practicality, showing great potential for clinical deployment.",
+    "keywords": [
+      "CRISPR/Cas12a detection",
+      "Mosaic DNA",
+      "Mosaic switch",
+      "Nucleic acid detection",
+      "One-pot assay",
+      "PAM-Free assay"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Shiyin",
+        "Xie, Siying",
+        "Wang, Jin",
+        "Zhang, Xiaomin",
+        "Cai, Ying",
+        "Lai, Xingyan",
+        "Min, Nan",
+        "Qu, Jing",
+        "Peng, Bo",
+        "Li, Tingdong",
+        "Zhang, Jun",
+        "Yang, Dahou",
+        "Shi, Xiaolu",
+        "Xia, Ningshao",
+        "Ge, Shengxiang"
+      ],
+      "short_names": [
+        "Zhang S",
+        "Xie S",
+        "Wang J",
+        "Zhang X",
+        "Cai Y",
+        "Lai X",
+        "Min N",
+        "Qu J",
+        "Peng B",
+        "Li T",
+        "Zhang J",
+        "Yang D",
+        "Shi X",
+        "Xia N",
+        "Ge S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: zhangshiyin@xmu.edu.cn.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China.",
+        "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China.",
+        "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China.",
+        "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: dhyang@xmu.edu.cn.",
+        "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China. Electronic address: shixiaolu831@163.com.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: nsxia@xmu.edu.cn.",
+        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: sxge@xmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Shiyin",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: zhangshiyin@xmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xie, Siying",
+        "short_name": "Xie S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jin",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiaomin",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Ying",
+        "short_name": "Cai Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Xingyan",
+        "short_name": "Lai X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China."
+        ]
+      },
+      {
+        "full_name": "Min, Nan",
+        "short_name": "Min N",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China."
+        ]
+      },
+      {
+        "full_name": "Qu, Jing",
+        "short_name": "Qu J",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Bo",
+        "short_name": "Peng B",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Tingdong",
+        "short_name": "Li T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jun",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Dahou",
+        "short_name": "Yang D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: dhyang@xmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Shi, Xiaolu",
+        "short_name": "Shi X",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Center for Disease Control and Prevention, Shenzhen, Guangdong, 518000, China. Electronic address: shixiaolu831@163.com."
+        ]
+      },
+      {
+        "full_name": "Xia, Ningshao",
+        "short_name": "Xia N",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: nsxia@xmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Ge, Shengxiang",
+        "short_name": "Ge S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Clinical Laboratory, Xiang'an Hospital of Xiamen University, School of Public Health, Xiamen University, Xiamen, Fujian, 361102, China; National Institute of Diagnostics and Vaccine Development in Infectious Diseases, National Innovation Platform for Industry Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology, Fujian Engineering Research Center of Molecular Theranostic Technology, Xiamen University, Xiamen, Fujian, 361102, China. Electronic address: sxge@xmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 23:36",
+    "fetched_at": "2026-09-10 11:57:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42696818",
+      "36214815",
+      "40499384",
+      "40711424",
+      "38010352",
+      "41217936",
+      "41012691",
+      "42128117",
+      "41892062",
+      "40151256",
+      "38551977",
+      "38319081",
+      "38651662",
+      "36484104",
+      "38867016",
+      "40222509",
+      "42155939",
+      "39439116",
+      "42441514",
+      "42571623",
+      "40972923",
+      "37212293",
+      "41505087",
+      "40802893",
+      "38772660",
+      "37027291",
+      "40851838",
+      "42065492",
+      "40277382",
+      "39740588",
+      "40331901",
+      "42217400",
+      "40419416",
+      "41242662",
+      "38647075",
+      "40544649",
+      "40049000",
+      "40958477",
+      "36824842",
+      "36778248",
+      "42031623",
+      "40499611",
+      "35708748",
+      "39396286",
+      "35719360",
+      "41990423",
+      "42648078",
+      "40599263",
+      "39876777",
+      "38746294",
+      "42669262",
+      "41747377",
+      "36813457",
+      "41729380",
+      "38876521",
+      "42522597",
+      "41955813",
+      "39889213",
+      "37405277",
+      "39666765",
+      "38516796",
+      "37014765",
+      "41292075",
+      "38891961",
+      "40970715",
+      "40369306",
+      "42549572",
+      "41603277",
+      "42276421",
+      "39896844",
+      "39358950",
+      "42148800",
+      "35857897",
+      "41528700",
+      "41648912",
+      "42328982",
+      "40869337",
+      "32577410",
+      "34928030",
+      "38689239",
+      "34399899",
+      "34936163",
+      "41104129",
+      "39067906",
+      "39784310",
+      "40157150",
+      "35180691",
+      "35635176",
+      "39929897",
+      "42299600",
+      "37451121",
+      "37874890",
+      "36745596",
+      "40286970",
+      "40980924",
+      "38284432",
+      "40163950",
+      "39949262",
+      "38383404",
+      "36624936"
+    ],
+    "review": [
+      "42696818"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00809-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

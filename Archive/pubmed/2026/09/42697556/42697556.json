@@ -1,0 +1,463 @@
+{
+  "identity": {
+    "pmid": "42697556",
+    "doi": "10.1093/jxb/erag438",
+    "title": "Maize terpene synthase 8 (ZmTPS8) produces a blend of sesquiterpenes and contributes to defense against pests and pathogens."
+  },
+  "content": {
+    "abstract": "Maize (Zea mays) produces terpenoid-based chemical defenses through a large family of terpene synthases, but the contributions of individual enzymes to specific compounds and stress resistance remain difficult to predict. Maize terpene synthase 8 (ZmTPS8) produces multiple sesquiterpenes in heterologous systems, but its in planta function remains unknown. We integrated a metabolite genome-wide association study (mGWAS), CRISPR/Cas9 generated tps8 loss-of-function mutants, metabolite profiling, and biotic stress assays to define ZmTPS8's role in terpene synthesis and biotic stress responses. The mGWAS identified ZmTPS8 as the primary locus associated with herbivore-induced emission of the sesquiterpene volatile germacrene D. Consistently, ZmTPS8 expression was induced by foliar and root herbivory, and tps8 mutants exhibited reduced emission of germacrene D, alpha-copaene, and delta-cadinene during Spodoptera frugiperda feeding. Loss of ZmTPS8 increased S. frugiperda larval growth but did not affect the belowground herbivore Diabrotica virgifera virgifera. ZmTPS8 also contributed to resistance against sugarcane mosaic virus, and the fungal pathogen Fusarium verticillioides, affecting terpenoid profiles, global metabolism, and fungal toxin production, but had no impact on Cochliobolus heterostrophus or Pythium spp. susceptibility. Together, these results demonstrate that ZmTPS8 contributes to maize defense in a threat-dependent manner, shaping volatile emissions and defense outcomes.",
+    "keywords": [
+      "Zea mays",
+      "Fusarium",
+      "fall armyworm",
+      "herbivore",
+      "pathogen",
+      "phytoalexins",
+      "terpenoids",
+      "virus",
+      "volatiles"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sorg, Ariel",
+        "Liu, Hui",
+        "Tang, Hoang V",
+        "Mendoza, Jorrel",
+        "Tran, Kaylee",
+        "Mourad, Nadia",
+        "Li, Qin-Bao",
+        "Tucker, Ethan",
+        "Romano, Joseph",
+        "Wright, Erin",
+        "Willie, Kristen",
+        "Wilson, Jennifer R",
+        "Ohlson, Erik W",
+        "Betts, Alyssa K",
+        "Ludwick, Dalton C",
+        "Mu, Qi",
+        "Basset, Gilles J",
+        "Hunter, Charles T",
+        "Resende, Marcio F R",
+        "Block, Anna K"
+      ],
+      "short_names": [
+        "Sorg A",
+        "Liu H",
+        "Tang HV",
+        "Mendoza J",
+        "Tran K",
+        "Mourad N",
+        "Li QB",
+        "Tucker E",
+        "Romano J",
+        "Wright E",
+        "Willie K",
+        "Wilson JR",
+        "Ohlson EW",
+        "Betts AK",
+        "Ludwick DC",
+        "Mu Q",
+        "Basset GJ",
+        "Hunter CT",
+        "Resende MFR",
+        "Block AK"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-2918-5757",
+        "ORCID: 0009-0002-1404-746X",
+        "ORCID: 0000-0003-4958-0379",
+        "ORCID: 0000-0003-4579-8290",
+        "ORCID: 0009-0004-9702-9412",
+        "ORCID: 0009-0008-9570-9114",
+        "ORCID: 0009-0003-1799-8188",
+        "ORCID: 0009-0008-4910-8481",
+        "ORCID: 0009-0000-7698-3179",
+        "ORCID: 0009-0007-0371-6601",
+        "ORCID: 0009-0003-8695-5368",
+        "ORCID: 0000-0002-6522-1280",
+        "ORCID: 0000-0002-3167-2809",
+        "ORCID: 0000-0002-9514-9910",
+        "ORCID: 0000-0003-2061-3579",
+        "ORCID: 0000-0001-5275-9797",
+        "ORCID: 0000-0002-2652-9485",
+        "ORCID: 0000-0003-1689-4005"
+      ],
+      "affiliations": [
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+        "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA.",
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+        "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA.",
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+        "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA.",
+        "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA.",
+        "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA.",
+        "Corn, Soybean and Wheat Quality Research Unit, United States Department of Agriculture-Agricultural Research Service, Wooster, OH, USA.",
+        "Corn, Soybean and Wheat Quality Research Unit, United States Department of Agriculture-Agricultural Research Service, Wooster, OH, USA.",
+        "Corn, Soybean and Wheat Quality Research Unit, United States Department of Agriculture-Agricultural Research Service, Wooster, OH, USA.",
+        "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA.",
+        "Plant Genetics Research Unit, United States Department of Agriculture-Agricultural Research Service, Columbia, MO, USA.",
+        "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA.",
+        "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA.",
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+        "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA.",
+        "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sorg, Ariel",
+        "short_name": "Sorg A",
+        "identifiers": [
+          "0009-0007-2918-5757"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Hui",
+        "short_name": "Liu H",
+        "identifiers": [
+          "0009-0002-1404-746X"
+        ],
+        "affiliations": [
+          "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Tang, Hoang V",
+        "short_name": "Tang HV",
+        "identifiers": [
+          "0000-0003-4958-0379"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Mendoza, Jorrel",
+        "short_name": "Mendoza J",
+        "identifiers": [
+          "0000-0003-4579-8290"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Tran, Kaylee",
+        "short_name": "Tran K",
+        "identifiers": [
+          "0009-0004-9702-9412"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA.",
+          "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Mourad, Nadia",
+        "short_name": "Mourad N",
+        "identifiers": [
+          "0009-0008-9570-9114"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Qin-Bao",
+        "short_name": "Li QB",
+        "identifiers": [
+          "0009-0003-1799-8188"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Tucker, Ethan",
+        "short_name": "Tucker E",
+        "identifiers": [
+          "0009-0008-4910-8481"
+        ],
+        "affiliations": [
+          "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Romano, Joseph",
+        "short_name": "Romano J",
+        "identifiers": [
+          "0009-0000-7698-3179"
+        ],
+        "affiliations": [
+          "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA."
+        ]
+      },
+      {
+        "full_name": "Wright, Erin",
+        "short_name": "Wright E",
+        "identifiers": [
+          "0009-0007-0371-6601"
+        ],
+        "affiliations": [
+          "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA."
+        ]
+      },
+      {
+        "full_name": "Willie, Kristen",
+        "short_name": "Willie K",
+        "identifiers": [
+          "0009-0003-8695-5368"
+        ],
+        "affiliations": [
+          "Corn, Soybean and Wheat Quality Research Unit, United States Department of Agriculture-Agricultural Research Service, Wooster, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Wilson, Jennifer R",
+        "short_name": "Wilson JR",
+        "identifiers": [
+          "0000-0002-6522-1280"
+        ],
+        "affiliations": [
+          "Corn, Soybean and Wheat Quality Research Unit, United States Department of Agriculture-Agricultural Research Service, Wooster, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Ohlson, Erik W",
+        "short_name": "Ohlson EW",
+        "identifiers": [
+          "0000-0002-3167-2809"
+        ],
+        "affiliations": [
+          "Corn, Soybean and Wheat Quality Research Unit, United States Department of Agriculture-Agricultural Research Service, Wooster, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Betts, Alyssa K",
+        "short_name": "Betts AK",
+        "identifiers": [
+          "0000-0002-9514-9910"
+        ],
+        "affiliations": [
+          "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA."
+        ]
+      },
+      {
+        "full_name": "Ludwick, Dalton C",
+        "short_name": "Ludwick DC",
+        "identifiers": [
+          "0000-0003-2061-3579"
+        ],
+        "affiliations": [
+          "Plant Genetics Research Unit, United States Department of Agriculture-Agricultural Research Service, Columbia, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Mu, Qi",
+        "short_name": "Mu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA."
+        ]
+      },
+      {
+        "full_name": "Basset, Gilles J",
+        "short_name": "Basset GJ",
+        "identifiers": [
+          "0000-0001-5275-9797"
+        ],
+        "affiliations": [
+          "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Hunter, Charles T",
+        "short_name": "Hunter CT",
+        "identifiers": [
+          "0000-0002-2652-9485"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Resende, Marcio F R",
+        "short_name": "Resende MFR",
+        "identifiers": [],
+        "affiliations": [
+          "Horticultural Sciences Department, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Block, Anna K",
+        "short_name": "Block AK",
+        "identifiers": [
+          "0000-0003-1689-4005"
+        ],
+        "affiliations": [
+          "Chemistry Research Unit, United States Department of Agriculture-Agricultural Research Service, Gainesville, FL, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of experimental botany"
+    ],
+    "journal_abbrev": [
+      "J Exp Bot"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 23:36",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42697556",
+      "42345213",
+      "36903970",
+      "30187155",
+      "36142369",
+      "29151152",
+      "36562877",
+      "25680349",
+      "41528610",
+      "28931629",
+      "12481088",
+      "42190120",
+      "38154731",
+      "37761872",
+      "35898557",
+      "41588703",
+      "39658099",
+      "41237277",
+      "23425633",
+      "30746603",
+      "31608090",
+      "27421723",
+      "40071865",
+      "23363415",
+      "26979328",
+      "41789729",
+      "18296628",
+      "21607717",
+      "25506768",
+      "42088993",
+      "28436049",
+      "38385996",
+      "25392907",
+      "40175858",
+      "32002720",
+      "27898177",
+      "22486361",
+      "34347233",
+      "25893788",
+      "42600753",
+      "34125370",
+      "24329171",
+      "34415472",
+      "40864194",
+      "16418295",
+      "41845250",
+      "33748996",
+      "38141481",
+      "29616394",
+      "19392694",
+      "28428873",
+      "40072721",
+      "39039220",
+      "21690302",
+      "22420263",
+      "37622733",
+      "34129282",
+      "29926336",
+      "11106370",
+      "28871442",
+      "40528015",
+      "41115545",
+      "41634560",
+      "39795317",
+      "33763921",
+      "41553034",
+      "26306592",
+      "25187528",
+      "42475469",
+      "33400019",
+      "34529190",
+      "40007166",
+      "37432514",
+      "21404871",
+      "29260396",
+      "28981781",
+      "26303437",
+      "42601344",
+      "24304477",
+      "36430189",
+      "39420652",
+      "40817341",
+      "29475898",
+      "30195252",
+      "36762917",
+      "33851514",
+      "21880075",
+      "31724088",
+      "21492885",
+      "42563480",
+      "37434355",
+      "36639634",
+      "24816267",
+      "15279995",
+      "24725255",
+      "23440444",
+      "40051222",
+      "16902818",
+      "41635108",
+      "40332612"
+    ],
+    "review": [
+      "42697556",
+      "42345213",
+      "30187155",
+      "37622733"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/erag438",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

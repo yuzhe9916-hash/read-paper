@@ -1,0 +1,316 @@
+{
+  "identity": {
+    "pmid": "42710038",
+    "doi": "10.1021/acssensors.6c01650",
+    "title": "CRISPR-Based Diagnostic Assay for Point-of-Care Detection of Methicillin-Resistant Staphylococcus aureus in patients with Bloodstream Infections."
+  },
+  "content": {
+    "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) is a leading cause of mortality in critically ill patients with bloodstream infections (BSIs). Timely diagnosis and early initiation of guideline-concordant antimicrobial therapy are independently associated with improved survival and reduced complication rates in patients with MRSA BSIs. However, current blood culture-based detection of MRSA requires 3-7 days for definitive identification and antimicrobial susceptibility reporting, entails numerous manual steps, and frequently delays the transition from empirical to pathogen-directed therapy, thereby affecting treatment outcomes and patient prognosis. Here, we present a highly sensitive and specific CRISPR-based diagnostic platform that shortens the MRSA detection time from >70 h to  approximately 2 h-enabling true \"sample-to-result\" testing directly from whole blood at the point of care. This study develops a one-step RPA-CRISPR assay targeting the S. aureus nucA and mecA genes, with 10 copies/reaction sensitivity and no cross-reactivity. By integrating vancomycin-conjugated magnetic nanoparticles, a herringbone microfluidic chip, and a miniaturized wireless analyzer, the platform performs on-chip S. aureus capture, lysis-mediated DNA release, and dual-gene detection directly from whole blood. In a prospective, multicenter clinical evaluation of 350 hospitalized patients with suspected bacteremia, the HELP platform identified all 20 S. aureus-positive cases (including 8 MRSA-positive cases), demonstrating 100% positive percent agreement with blood culture. By delivering definitive MRSA identification in under 2 h, HELP markedly accelerates clinical decision-making, facilitates the timely initiation of targeted antimicrobial therapy, and holds strong potential for scalable deployment in primary care and resource-constrained settings.",
+    "keywords": [
+      "CRISPR diagnostic",
+      "Herringbone-structured microfluidic chip",
+      "free-culture bacilli detection",
+      "methicillin-resistant Staphylococcus aureus",
+      "point-of-care detection"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Hai-Qian",
+        "Zhang, Jun-Heng",
+        "Hu, Xie-Fei",
+        "Xu, Jing-Song",
+        "Liu, Yu",
+        "Yang, Shuang",
+        "Li, Tian-Ming",
+        "Zhu, Zi-Yue",
+        "Li, Shun",
+        "Li, Wei",
+        "Li, Min",
+        "Wang, Hua"
+      ],
+      "short_names": [
+        "Huang HQ",
+        "Zhang JH",
+        "Hu XF",
+        "Xu JS",
+        "Liu Y",
+        "Yang S",
+        "Li TM",
+        "Zhu ZY",
+        "Li S",
+        "Li W",
+        "Li M",
+        "Wang H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7319-6249"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "Clinical Laboratory, Chongqing Emergency Medical Center, Chongqing University Central Hospital, Chongqing400014, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai200025, China.",
+        "Shanghai Public Health Clinical Center, Fudan University, Shanghai201508, China.",
+        "Clinical Laboratory, Chongqing Emergency Medical Center, Chongqing University Central Hospital, Chongqing400014, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai200025, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Hai-Qian",
+        "short_name": "Huang HQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jun-Heng",
+        "short_name": "Zhang JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Xie-Fei",
+        "short_name": "Hu XF",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Laboratory, Chongqing Emergency Medical Center, Chongqing University Central Hospital, Chongqing400014, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jing-Song",
+        "short_name": "Xu JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yu",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Shuang",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China."
+        ]
+      },
+      {
+        "full_name": "Li, Tian-Ming",
+        "short_name": "Li TM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zi-Yue",
+        "short_name": "Zhu ZY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+          "College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai200025, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shun",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Public Health Clinical Center, Fudan University, Shanghai201508, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Laboratory, Chongqing Emergency Medical Center, Chongqing University Central Hospital, Chongqing400014, China."
+        ]
+      },
+      {
+        "full_name": "Li, Min",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Hua",
+        "short_name": "Wang H",
+        "identifiers": [
+          "0000-0002-7319-6249"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+          "College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai200025, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 17:36",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710038",
+      "38376361",
+      "36943040",
+      "40399576",
+      "42002396",
+      "41504481",
+      "23899068",
+      "39234537",
+      "41051984",
+      "35453874",
+      "37178974",
+      "25165083",
+      "33588782",
+      "32680560",
+      "24648566",
+      "42378733",
+      "36359534",
+      "15826545",
+      "34690988",
+      "42549908",
+      "25540397",
+      "39122282",
+      "35038924",
+      "40329210",
+      "37709482",
+      "23390282",
+      "17593498",
+      "29548778",
+      "34483665",
+      "20550222",
+      "33446122",
+      "36790177",
+      "41689762",
+      "32431523",
+      "17522275",
+      "31501145",
+      "39142895",
+      "20731880",
+      "41483072",
+      "41188804",
+      "33076535",
+      "40980895",
+      "32141812",
+      "20731594",
+      "39806392",
+      "39452724",
+      "23991748",
+      "39576187",
+      "41914742",
+      "36061848",
+      "39689908",
+      "36921762",
+      "32117194",
+      "27736763",
+      "33439634",
+      "42058087",
+      "41627054",
+      "40063799",
+      "42401475",
+      "28780098",
+      "42627185",
+      "26598385",
+      "41126068",
+      "31823147",
+      "19369439",
+      "42175899",
+      "41248468",
+      "27431221",
+      "18501547",
+      "41241835",
+      "30826439",
+      "25441547",
+      "31544471",
+      "32568322",
+      "41822594",
+      "34297868",
+      "40322341",
+      "41318474",
+      "18226087",
+      "29118165",
+      "19224749",
+      "11256043",
+      "41335109",
+      "37968066",
+      "41054848",
+      "40903125",
+      "32102584",
+      "23249998",
+      "42227749",
+      "24489570",
+      "15131143",
+      "40868011",
+      "42379823",
+      "29201229",
+      "33196562",
+      "32340469",
+      "32337882",
+      "39436138",
+      "37338400",
+      "42350984"
+    ],
+    "review": [
+      "42710038",
+      "33446122",
+      "33076535",
+      "26598385",
+      "18226087"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c01650",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

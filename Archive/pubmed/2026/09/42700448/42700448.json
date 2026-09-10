@@ -1,0 +1,368 @@
+{
+  "identity": {
+    "pmid": "42700448",
+    "doi": "10.1002/rmv.70199",
+    "title": "CRISPR-Engineered CAR-T Cell Therapy for Epstein-Barr Virus-Associated Nasopharyngeal Carcinoma: A Review of Emerging Therapeutic Prospects."
+  },
+  "content": {
+    "abstract": "Epstein-Barr virus (EBV)-associated nasopharyngeal carcinoma (NPC) remains a clinically challenging malignancy, particularly in recurrent or metastatic disease where durable responses to chemoradiotherapy and immune checkpoint blockade are limited. The viral aetiology of NPC provides a strong biological rationale for immune-based treatment; however, translation of chimaeric antigen receptor (CAR) T-cell therapy into this solid tumour setting is constrained by poor tumour trafficking, antigen heterogeneity, limited surface accessibility of EBV latent antigens, T-cell exhaustion, and an immunosuppressive tumour microenvironment. This review critically evaluates the emerging therapeutic prospects of CRISPR-engineered CAR-T cell therapy for EBV-associated NPC. It synthesises evidence on EBV latency biology, NPC immune evasion, solid-tumour CAR-T limitations, and genome-engineering strategies including conventional CRISPR-Cas9, base editing, prime editing, and double-strand-break-sparing targeted integration. Particular attention is given to genotoxicity, chromosomal rearrangements, chromosome loss, bystander and off-target editing, manufacturing heterogeneity, and the regulatory and biological barriers that currently separate technical feasibility from NPC-specific clinical implementation. Available clinical evidence from checkpoint blockade, EBV-specific adoptive T-cell therapy, base-edited CAR-T cells in haematologic malignancy, and early CRISPR-edited T-cell trials supports the feasibility of immune and genetic redirection but does not establish efficacy of a clinically validated CRISPR-engineered CAR-T platform for NPC. Future development should prioritise surface-accessible antigen validation, fit-for-purpose selection of editing technology, genomic safety, scalable manufacturing, and biomarker-driven early-phase trials.",
+    "keywords": [
+      "CAR-T cell therapy",
+      "CRISPR-Cas9",
+      "adoptive cellular therapy",
+      "epstein-barr virus",
+      "nasopharyngeal carcinoma",
+      "tumour microenvironment"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Immunotherapy, Adoptive/methods",
+      "*Herpesvirus 4, Human/immunology/physiology",
+      "*Nasopharyngeal Carcinoma/therapy/virology/immunology",
+      "*Epstein-Barr Virus Infections/complications/virology/immunology/therapy",
+      "*CRISPR-Cas Systems",
+      "*Receptors, Chimeric Antigen/genetics/immunology",
+      "Gene Editing",
+      "*Nasopharyngeal Neoplasms/therapy",
+      "Tumor Microenvironment"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Allehyani, Noor",
+        "Alissa, Mohammed",
+        "Alghamdi, Abdullah",
+        "Alshehri, Mohammed A",
+        "Abusalim, Ghadah S",
+        "Alhegaili, Alaa S",
+        "Juraybi, Tawfiq N",
+        "Alsuwat, Meshari A"
+      ],
+      "short_names": [
+        "Allehyani N",
+        "Alissa M",
+        "Alghamdi A",
+        "Alshehri MA",
+        "Abusalim GS",
+        "Alhegaili AS",
+        "Juraybi TN",
+        "Alsuwat MA"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-7482-3402",
+        "ORCID: 0000-0002-4045-0810",
+        "ORCID: 0009-0005-6635-3102",
+        "ORCID: 0009-0006-2139-5904",
+        "ORCID: 0000-0002-4986-9503",
+        "ORCID: 0000-0002-0984-167X",
+        "ORCID: 0009-0002-8147-1922",
+        "ORCID: 0000-0003-0953-0692"
+      ],
+      "affiliations": [
+        "Department of Medical Laboratories, College of Applied Medical Sciences, Shaqra University, Shaqra, Saudi Arabia.",
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia.",
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia.",
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia.",
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia.",
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia.",
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia.",
+        "Department of Basic Sciences, College of Nursing, Taif University, Taif, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Allehyani, Noor",
+        "short_name": "Allehyani N",
+        "identifiers": [
+          "0009-0004-7482-3402"
+        ],
+        "affiliations": [
+          "Department of Medical Laboratories, College of Applied Medical Sciences, Shaqra University, Shaqra, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alissa, Mohammed",
+        "short_name": "Alissa M",
+        "identifiers": [
+          "0000-0002-4045-0810"
+        ],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alghamdi, Abdullah",
+        "short_name": "Alghamdi A",
+        "identifiers": [
+          "0009-0005-6635-3102"
+        ],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alshehri, Mohammed A",
+        "short_name": "Alshehri MA",
+        "identifiers": [
+          "0009-0006-2139-5904"
+        ],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Abusalim, Ghadah S",
+        "short_name": "Abusalim GS",
+        "identifiers": [
+          "0000-0002-4986-9503"
+        ],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alhegaili, Alaa S",
+        "short_name": "Alhegaili AS",
+        "identifiers": [
+          "0000-0002-0984-167X"
+        ],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Juraybi, Tawfiq N",
+        "short_name": "Juraybi TN",
+        "identifiers": [
+          "0009-0002-8147-1922"
+        ],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University, Al-Kharj, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alsuwat, Meshari A",
+        "short_name": "Alsuwat MA",
+        "identifiers": [
+          "0000-0003-0953-0692"
+        ],
+        "affiliations": [
+          "Department of Basic Sciences, College of Nursing, Taif University, Taif, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Reviews in medical virology"
+    ],
+    "journal_abbrev": [
+      "Rev Med Virol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42700448",
+      "42389513",
+      "41116979",
+      "39450176",
+      "39241963",
+      "31361154",
+      "25711537",
+      "40733516",
+      "36817460",
+      "39582866",
+      "42189068",
+      "40448746",
+      "42186960",
+      "42220535",
+      "41405764",
+      "22282657",
+      "42372494",
+      "34691042",
+      "40324075",
+      "41313840",
+      "41925921",
+      "28222215",
+      "41993194",
+      "32560253",
+      "33627493",
+      "33204320",
+      "36713430",
+      "35303871",
+      "30261221",
+      "41240134",
+      "40789664",
+      "34956172",
+      "31199589",
+      "42582274",
+      "36632221",
+      "39888474",
+      "42577382",
+      "38962002",
+      "18087217",
+      "41694348",
+      "42183201",
+      "37033919",
+      "30311576",
+      "41002550",
+      "40873035",
+      "33480605",
+      "33290259",
+      "39402748",
+      "33671917",
+      "40401927",
+      "39835140",
+      "40231503",
+      "39763064",
+      "40669750",
+      "29468660",
+      "32707148",
+      "16204009",
+      "39118069",
+      "42442615",
+      "41062718",
+      "26428384",
+      "40771804",
+      "26038769",
+      "42240912",
+      "39930509",
+      "41281758",
+      "41330004",
+      "30115477",
+      "36050244",
+      "42193922",
+      "41121349",
+      "27121882",
+      "33268566",
+      "41930573",
+      "38886114",
+      "40850202",
+      "42294616",
+      "36332445",
+      "36681183",
+      "12450732",
+      "36860875",
+      "32903482",
+      "36676626",
+      "41608579",
+      "42190604",
+      "39260044",
+      "34513316",
+      "37949350",
+      "27009165",
+      "28456574",
+      "28893937",
+      "41782866",
+      "41896559",
+      "36371985",
+      "42574910",
+      "42446608",
+      "41260224",
+      "19211798",
+      "41237439",
+      "23601786"
+    ],
+    "review": [
+      "42700448",
+      "42389513",
+      "39450176",
+      "31361154",
+      "39582866",
+      "42189068",
+      "40448746",
+      "42186960",
+      "42220535",
+      "41405764",
+      "42372494",
+      "34691042",
+      "41313840",
+      "41925921",
+      "41993194",
+      "32560253",
+      "36713430",
+      "35303871",
+      "30261221",
+      "41240134",
+      "34956172",
+      "31199589",
+      "42582274",
+      "39888474",
+      "38962002",
+      "41694348",
+      "42183201",
+      "30311576",
+      "41002550",
+      "33671917",
+      "40401927",
+      "39835140",
+      "40231503",
+      "40669750",
+      "32707148",
+      "42442615",
+      "41062718",
+      "26428384",
+      "40771804",
+      "26038769",
+      "42240912",
+      "41281758",
+      "41330004",
+      "30115477",
+      "42193922",
+      "41121349",
+      "27121882",
+      "41930573",
+      "40850202",
+      "42294616",
+      "36681183",
+      "12450732",
+      "32903482",
+      "36676626",
+      "42190604",
+      "39260044",
+      "37949350",
+      "28893937",
+      "41782866",
+      "42574910",
+      "42446608"
+    ],
+    "pmc": [
+      "13546091"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42700448/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/rmv.70199",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

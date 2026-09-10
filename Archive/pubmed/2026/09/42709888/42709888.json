@@ -1,0 +1,382 @@
+{
+  "identity": {
+    "pmid": "42709888",
+    "doi": "10.1371/journal.ppat.1014599",
+    "title": "PRMT3 restricts porcine epidemic diarrhea virus replication by disrupting the interaction between VAPA and the viral nucleocapsid protein."
+  },
+  "content": {
+    "abstract": "Porcine epidemic diarrhea virus (PEDV) represents a severe threat to the global swine industry. Its infection process involves intricate virus-host interactions and immune evasion mechanisms, but effective therapeutic targets remain elusive. In this study, we identified protein arginine methyltransferase 3 (PRMT3) as a novel regulatory factor that significantly modulates PEDV infection via genome-wide CRISPR/Cas9 knockout library screening. Knockout or inhibition of PRMT3 markedly enhanced PEDV infection in multiple cell lines, including LLC-PK1, IPEC-J2, and primary porcine intestinal epithelial cells. Mechanistic investigations revealed that PRMT3 can restrict PEDV infection by interacting with vesicle-associated membrane protein-associated protein A (VAPA). Further analysis revealed that VAPA facilitates cholesterol transport through binding to oxysterol-binding protein (OSBP) and inhibits the autophagic degradation of the viral nucleocapsid (N) protein, with both processes being critical for promoting PEDV infection in host cells. A detailed analysis revealed that K52 within its major sperm protein (MSP) domain interacts with D404 and D405 in the two phenylalanines in an acidic tract (FFAT)-like motifs of the N protein, and these interactions proved essential for PEDV infection. In summary, this is the first study to identify and validate the PRMT3-VAPA-N protein autophagic degradation axis as a key pathway through which PRMT3 suppresses PEDV infection, with VAPA acting as an essential host factor for PEDV pathogenesis. These findings uncover novel signaling pathways and molecular targets for the development of anti-PEDV therapeutics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, He-Yong",
+        "Zhong, Shu-Yu",
+        "Qi, Ao-Si",
+        "Wang, Zi-Ru",
+        "Tu, Qiu-Se",
+        "Li, Feng",
+        "Wu, Rui",
+        "Wang, Jing-Yao",
+        "Song, Fan",
+        "Zhang, Tian-Yi",
+        "Li, Ting",
+        "Yu, Qing-Chun",
+        "Yuan, Hong-Ming",
+        "Lv, Dong-Mei",
+        "Ouyang, Hong-Sheng",
+        "Du, Xi-Liang",
+        "Pang, Da-Xin",
+        "Xie, Zi-Cong"
+      ],
+      "short_names": [
+        "Wu HY",
+        "Zhong SY",
+        "Qi AS",
+        "Wang ZR",
+        "Tu QS",
+        "Li F",
+        "Wu R",
+        "Wang JY",
+        "Song F",
+        "Zhang TY",
+        "Li T",
+        "Yu QC",
+        "Yuan HM",
+        "Lv DM",
+        "Ouyang HS",
+        "Du XL",
+        "Pang DX",
+        "Xie ZC"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3354-1618"
+      ],
+      "affiliations": [
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "The First Affiliated Hospital, Zhejiang University School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "The First Affiliated Hospital, Zhejiang University School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.",
+        "Chongqing Jitang Biotechnology Research Institute Co., Ltd., Chongqing, China.",
+        "State Key Laboratory for Zoonotic Diseases, Key Laboratory of Zoonosis Research, Ministry of Education, College of Veterinary Medicine, Jilin University, Changchun Jilin, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+        "Chongqing Jitang Biotechnology Research Institute Co., Ltd., Chongqing, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, He-Yong",
+        "short_name": "Wu HY",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Shu-Yu",
+        "short_name": "Zhong SY",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Qi, Ao-Si",
+        "short_name": "Qi AS",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zi-Ru",
+        "short_name": "Wang ZR",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital, Zhejiang University School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Tu, Qiu-Se",
+        "short_name": "Tu QS",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Feng",
+        "short_name": "Li F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Rui",
+        "short_name": "Wu R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing-Yao",
+        "short_name": "Wang JY",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Song, Fan",
+        "short_name": "Song F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Tian-Yi",
+        "short_name": "Zhang TY",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ting",
+        "short_name": "Li T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qing-Chun",
+        "short_name": "Yu QC",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Hong-Ming",
+        "short_name": "Yuan HM",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Dong-Mei",
+        "short_name": "Lv DM",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Ouyang, Hong-Sheng",
+        "short_name": "Ouyang HS",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+          "The First Affiliated Hospital, Zhejiang University School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.",
+          "Chongqing Jitang Biotechnology Research Institute Co., Ltd., Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Du, Xi-Liang",
+        "short_name": "Du XL",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Zoonotic Diseases, Key Laboratory of Zoonosis Research, Ministry of Education, College of Veterinary Medicine, Jilin University, Changchun Jilin, China."
+        ]
+      },
+      {
+        "full_name": "Pang, Da-Xin",
+        "short_name": "Pang DX",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China.",
+          "Chongqing Jitang Biotechnology Research Institute Co., Ltd., Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Zi-Cong",
+        "short_name": "Xie ZC",
+        "identifiers": [
+          "0000-0002-3354-1618"
+        ],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Animal Genome Editing Technology Innovation Center, College of Animal Sciences, Jilin University, Changchun, Jilin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS pathogens"
+    ],
+    "journal_abbrev": [
+      "PLoS Pathog"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 17:36",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42709888",
+      "40736249",
+      "34232065",
+      "35499322",
+      "40422075",
+      "34037422",
+      "42262129",
+      "38542067",
+      "34287043",
+      "32402351",
+      "41467838",
+      "41611035",
+      "39501328",
+      "40353666",
+      "31868081",
+      "38084960",
+      "36317879",
+      "41511083",
+      "38411947",
+      "37052505",
+      "42307246",
+      "39927776",
+      "41104937",
+      "41983768",
+      "24872591",
+      "41933757",
+      "39599901",
+      "34495699",
+      "42009538",
+      "40280045",
+      "36835408",
+      "40767522",
+      "40071922",
+      "36790206",
+      "40703674",
+      "35695513",
+      "36761768",
+      "42466851",
+      "36140672",
+      "41504445",
+      "39835814",
+      "29187542",
+      "39819815",
+      "30728254",
+      "42229174",
+      "37392846",
+      "41186416",
+      "35746667",
+      "35753351",
+      "42249076",
+      "29971995",
+      "28698274",
+      "36126510",
+      "32719955",
+      "36541804",
+      "42678062",
+      "41587704",
+      "36298827",
+      "39670742",
+      "35762780",
+      "41910270",
+      "40401979",
+      "34098020",
+      "39580000",
+      "34950116",
+      "32461321",
+      "40068467",
+      "27807240",
+      "42684901",
+      "38447796",
+      "36752613",
+      "25814121",
+      "32486349",
+      "38564904",
+      "35401515",
+      "37133374",
+      "42374836",
+      "37499712",
+      "41512444",
+      "41511114",
+      "35024918",
+      "37222617",
+      "40080977",
+      "28842266",
+      "41410436",
+      "42537404",
+      "32653434",
+      "34858400",
+      "33317444",
+      "34954106",
+      "42714166",
+      "36907442",
+      "33568512",
+      "26283628",
+      "39961163",
+      "40396761",
+      "36142545",
+      "41796918",
+      "25173696",
+      "36453883"
+    ],
+    "review": [
+      "42709888",
+      "34950116"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.ppat.1014599",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MST1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

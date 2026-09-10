@@ -1,0 +1,332 @@
+{
+  "identity": {
+    "pmid": "42700392",
+    "doi": "10.1016/j.celrep.2026.117939",
+    "title": "Type IV-C CRISPR-Cas effector complexes recognize double-stranded DNA and switch on collateral cleavage of ssDNA and RNA."
+  },
+  "content": {
+    "abstract": "Type IV-C CRISPR-Cas systems remain enigmatic compared to other class 1 systems. Here, we expand the type IV-C catalog, identifying two phylogenetically distinct clades primarily found in archaea (IV-C1) or bacteria (IV-C2), distinguishable by the Cas10IVc subunit architecture. We functionally and structurally characterize type IV-C1 systems from Thermococcus onnurineus (Ton) and Pyrococcus abyssi (Pab). Type IV-C complexes assemble with crRNAs derived from distinct CRISPR arrays and recognize a 5'-GGG-3' protospacer adjacent motif (PAM) to bind double-stranded DNA targets. Target recognition activates the HD domain of Cas10IVc, triggering metal-dependent collateral cleavage of single-stranded DNA and RNA. This behavior is explained by allosteric alignment of the HD active site, triggered by PAM-dependent R-loop formation, as revealed by cryo-EM. Together, our findings suggest that type IV-C systems provide immunity via non-specific cleavage of nucleic acids generated during mobile genetic element replication or transcription.",
+    "keywords": [
+      "CP: molecular biology",
+      "CRISPR-Cas systems",
+      "Cas10",
+      "Thermococcales",
+      "adaptive immunity",
+      "collateral cleavage",
+      "type IV-C CRISPR"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pittman, Conor C",
+        "Xu, Chengtao",
+        "Catchpole, Ryan J",
+        "Garrett, Sandra",
+        "Fuchs, Ryan",
+        "Chu, Xiaomeng",
+        "Makarova, Kira S",
+        "Koonin, Eugene V",
+        "Zhao, Peng",
+        "Wells, Lance",
+        "Graveley, Brenton R",
+        "Ke, Ailong",
+        "Terns, Michael P"
+      ],
+      "short_names": [
+        "Pittman CC",
+        "Xu C",
+        "Catchpole RJ",
+        "Garrett S",
+        "Fuchs R",
+        "Chu X",
+        "Makarova KS",
+        "Koonin EV",
+        "Zhao P",
+        "Wells L",
+        "Graveley BR",
+        "Ke A",
+        "Terns MP"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Microbiology, University of Georgia, Athens, GA 30605, USA.",
+        "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA.",
+        "Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA.",
+        "Department of Genetics and Genome Sciences, University of Connecticut, Farmington, CT 06030, USA.",
+        "RNA Division, New England Biolabs, Ipswich, MA 01938, USA.",
+        "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA.",
+        "Computational Biology Branch, Division of Intramural Research, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA.",
+        "Computational Biology Branch, Division of Intramural Research, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA.",
+        "Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA.",
+        "Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA.",
+        "Department of Genetics and Genome Sciences, University of Connecticut, Farmington, CT 06030, USA.",
+        "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA. Electronic address: ailong.ke@yale.edu.",
+        "Department of Microbiology, University of Georgia, Athens, GA 30605, USA; Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA; Department of Genetics, University of Georgia, Athens, GA 30605, USA. Electronic address: mterns@uga.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pittman, Conor C",
+        "short_name": "Pittman CC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, University of Georgia, Athens, GA 30605, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Chengtao",
+        "short_name": "Xu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+        ]
+      },
+      {
+        "full_name": "Catchpole, Ryan J",
+        "short_name": "Catchpole RJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA."
+        ]
+      },
+      {
+        "full_name": "Garrett, Sandra",
+        "short_name": "Garrett S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genome Sciences, University of Connecticut, Farmington, CT 06030, USA."
+        ]
+      },
+      {
+        "full_name": "Fuchs, Ryan",
+        "short_name": "Fuchs R",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Division, New England Biolabs, Ipswich, MA 01938, USA."
+        ]
+      },
+      {
+        "full_name": "Chu, Xiaomeng",
+        "short_name": "Chu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+        ]
+      },
+      {
+        "full_name": "Makarova, Kira S",
+        "short_name": "Makarova KS",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Biology Branch, Division of Intramural Research, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA."
+        ]
+      },
+      {
+        "full_name": "Koonin, Eugene V",
+        "short_name": "Koonin EV",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Biology Branch, Division of Intramural Research, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Peng",
+        "short_name": "Zhao P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA."
+        ]
+      },
+      {
+        "full_name": "Wells, Lance",
+        "short_name": "Wells L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA."
+        ]
+      },
+      {
+        "full_name": "Graveley, Brenton R",
+        "short_name": "Graveley BR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genome Sciences, University of Connecticut, Farmington, CT 06030, USA."
+        ]
+      },
+      {
+        "full_name": "Ke, Ailong",
+        "short_name": "Ke A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA. Electronic address: ailong.ke@yale.edu."
+        ]
+      },
+      {
+        "full_name": "Terns, Michael P",
+        "short_name": "Terns MP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, University of Georgia, Athens, GA 30605, USA; Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA 30605, USA; Department of Genetics, University of Georgia, Athens, GA 30605, USA. Electronic address: mterns@uga.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42700392",
+      "30284045",
+      "32539804",
+      "32960267",
+      "27582008",
+      "27096362",
+      "28114398",
+      "28364023",
+      "36427491",
+      "25904135",
+      "26848045",
+      "23535213",
+      "26545076",
+      "30397343",
+      "26801642",
+      "24912165",
+      "36321657",
+      "29456189",
+      "42301915",
+      "33333018",
+      "36805026",
+      "39955288",
+      "36042215",
+      "42244531",
+      "30905284",
+      "36190192",
+      "34853172",
+      "37460897",
+      "33140167",
+      "28062037",
+      "37192099",
+      "35670674",
+      "38266982",
+      "40945731",
+      "36268581",
+      "31096876",
+      "33525825",
+      "25368186",
+      "29303478",
+      "28781236",
+      "37949766",
+      "39003402",
+      "39047725",
+      "26647461",
+      "42570236",
+      "32730741",
+      "30639240",
+      "38641067",
+      "30503773",
+      "42187710",
+      "38739430",
+      "38477377",
+      "37094126",
+      "38637512",
+      "27400737",
+      "40121088",
+      "33733066",
+      "31232162",
+      "37343553",
+      "39375921",
+      "36175516",
+      "38811761",
+      "37058530",
+      "37020030",
+      "32198888",
+      "41428733",
+      "31824468",
+      "28977458",
+      "25753419",
+      "25773141",
+      "36599979",
+      "37352230",
+      "35366394",
+      "41505087",
+      "26863189",
+      "40222509",
+      "32246713",
+      "25959775",
+      "27105119",
+      "21756346",
+      "41414667",
+      "23392249",
+      "34903162",
+      "41497644",
+      "35595728",
+      "28985564",
+      "22767603",
+      "34425703",
+      "25837515",
+      "39468082",
+      "41495894",
+      "36120975",
+      "28764328",
+      "31748409",
+      "30814678",
+      "34694606",
+      "35099553",
+      "37494395",
+      "31278272",
+      "27371605"
+    ],
+    "review": [
+      "42700392",
+      "30905284",
+      "33140167",
+      "37192099",
+      "37949766",
+      "38641067",
+      "42187710",
+      "34903162",
+      "36120975"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01017-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

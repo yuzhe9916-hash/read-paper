@@ -1,0 +1,443 @@
+{
+  "identity": {
+    "pmid": "42711491",
+    "doi": "10.1038/s41589-026-02312-z",
+    "title": "Chemogenomic maps reveal a PRDX1-dependent iron-damage axis in the DNA damage response."
+  },
+  "content": {
+    "abstract": "The DNA damage response (DDR) is a sophisticated network of cellular pathways whose perturbation leads to genome instability and is a key hallmark of oncogenesis. Here, we present data from 32 genome-scale loss-of-function CRISPR interference chemical-genetic screens with inhibitors targeting core constituents of the DDR machinery (PARP, ATR, ATM, DNAPK and WEE1), as both single agents and in combination with poly(ADP-ribose) polymerase inhibitors. These experiments identify >1,000 genes whose perturbation modifies the DDR and provides a rich resource to the DDR community. In addition, this compendium of functional genomics data reveals key principles governing the DDR and highlights a strong chemical-genetic interaction between loss of activity of the peroxiredoxin PRDX1 and all tested DDR inhibitors through a mechanism involving iron availability mediated by an MRGBP-PAX7-IREB2 axis. Our data position PRDX1 as a key suppressor of DNA damage accumulation and potential druggable target in combination with DDR inhibitors.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "O'Loughlin, Thomas A",
+        "Arab, Abolfazl",
+        "Misiukiewicz, Sara",
+        "Montesano, Elizabeth",
+        "Yogodzinski, Christopher",
+        "Borah, Ashir A",
+        "Quarantotti, Valentina",
+        "Lou, Kevin",
+        "Rosen, Barry S",
+        "Corn, Jacob E",
+        "Gianni, Davide",
+        "Kabir, Shaheen",
+        "Forment, Josep V",
+        "Gilbert, Luke A"
+      ],
+      "short_names": [
+        "O'Loughlin TA",
+        "Arab A",
+        "Misiukiewicz S",
+        "Montesano E",
+        "Yogodzinski C",
+        "Borah AA",
+        "Quarantotti V",
+        "Lou K",
+        "Rosen BS",
+        "Corn JE",
+        "Gianni D",
+        "Kabir S",
+        "Forment JV",
+        "Gilbert LA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4783-2352",
+        "ORCID: 0000-0002-0024-2937",
+        "ORCID: 0000-0003-2021-1713",
+        "ORCID: 0000-0002-0073-7526",
+        "ORCID: 0000-0003-4939-4381",
+        "ORCID: 0000-0002-7798-5309",
+        "ORCID: 0009-0005-6051-8201",
+        "ORCID: 0000-0002-9035-1124",
+        "ORCID: 0000-0002-7797-2583",
+        "ORCID: 0000-0001-5854-0825"
+      ],
+      "affiliations": [
+        "Department of Urology, University of California, San Francisco, CA, USA. thomas.oloughlin@mssm.edu.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA. thomas.oloughlin@mssm.edu.",
+        "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA. thomas.oloughlin@mssm.edu.",
+        "The Marie-Josee and Henry R. Kravis Drug Discovery Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA. thomas.oloughlin@mssm.edu.",
+        "Department of Urology, University of California, San Francisco, CA, USA.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+        "Graduate Program in Pharmaceutical Sciences and Pharmacogenomics, University of California, San Francisco, CA, USA.",
+        "Arc Institute, Palo Alto, CA, USA.",
+        "Department of Urology, University of California, San Francisco, CA, USA.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+        "Innovative Genomics Institute, University of California, San Francisco, CA, USA.",
+        "Department of Urology, University of California, San Francisco, CA, USA.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+        "Innovative Genomics Institute, University of California, San Francisco, CA, USA.",
+        "Department of Urology, University of California, San Francisco, CA, USA.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+        "Innovative Genomics Institute, University of California, San Francisco, CA, USA.",
+        "Department of Urology, University of California, San Francisco, CA, USA.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+        "Arc Institute, Palo Alto, CA, USA.",
+        "Biological and Medical Informatic Graduate Program, University of California, San Francisco, CA, USA.",
+        "Discovery Sciences, Biopharma R&D, AstraZeneca, Cambridge, UK.",
+        "Quantitative Biosciences Institute, University of California, San Francisco, CA, USA.",
+        "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, USA.",
+        "Discovery Sciences, Biopharma R&D, AstraZeneca, Cambridge, UK.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Department of Biology, Institute of Molecular Health Sciences, Swiss Federal Institute of Technology (ETH) Zurich, Zurich, Switzerland.",
+        "Discovery Sciences, Biopharma R&D, AstraZeneca, Cambridge, UK.",
+        "Department of Urology, University of California, San Francisco, CA, USA. shaheen.kabir@gmail.com.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA. shaheen.kabir@gmail.com.",
+        "Innovative Genomics Institute, University of California, San Francisco, CA, USA. shaheen.kabir@gmail.com.",
+        "Bioscience, Oncology R&D, AstraZeneca, Cambridge, UK. josep.forment@astrazeneca.com.",
+        "Department of Urology, University of California, San Francisco, CA, USA. luke@arcinstitute.org.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA. luke@arcinstitute.org.",
+        "Arc Institute, Palo Alto, CA, USA. luke@arcinstitute.org.",
+        "Innovative Genomics Institute, University of California, San Francisco, CA, USA. luke@arcinstitute.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "O'Loughlin, Thomas A",
+        "short_name": "O'Loughlin TA",
+        "identifiers": [
+          "0000-0002-4783-2352"
+        ],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA. thomas.oloughlin@mssm.edu.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA. thomas.oloughlin@mssm.edu.",
+          "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA. thomas.oloughlin@mssm.edu.",
+          "The Marie-Josee and Henry R. Kravis Drug Discovery Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA. thomas.oloughlin@mssm.edu."
+        ]
+      },
+      {
+        "full_name": "Arab, Abolfazl",
+        "short_name": "Arab A",
+        "identifiers": [
+          "0000-0002-0024-2937"
+        ],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+          "Graduate Program in Pharmaceutical Sciences and Pharmacogenomics, University of California, San Francisco, CA, USA.",
+          "Arc Institute, Palo Alto, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Misiukiewicz, Sara",
+        "short_name": "Misiukiewicz S",
+        "identifiers": [
+          "0000-0003-2021-1713"
+        ],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+          "Innovative Genomics Institute, University of California, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Montesano, Elizabeth",
+        "short_name": "Montesano E",
+        "identifiers": [
+          "0000-0002-0073-7526"
+        ],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+          "Innovative Genomics Institute, University of California, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Yogodzinski, Christopher",
+        "short_name": "Yogodzinski C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+          "Innovative Genomics Institute, University of California, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Borah, Ashir A",
+        "short_name": "Borah AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+          "Arc Institute, Palo Alto, CA, USA.",
+          "Biological and Medical Informatic Graduate Program, University of California, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Quarantotti, Valentina",
+        "short_name": "Quarantotti V",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Sciences, Biopharma R&D, AstraZeneca, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Lou, Kevin",
+        "short_name": "Lou K",
+        "identifiers": [
+          "0000-0003-4939-4381"
+        ],
+        "affiliations": [
+          "Quantitative Biosciences Institute, University of California, San Francisco, CA, USA.",
+          "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Rosen, Barry S",
+        "short_name": "Rosen BS",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Sciences, Biopharma R&D, AstraZeneca, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Corn, Jacob E",
+        "short_name": "Corn JE",
+        "identifiers": [
+          "0000-0002-7798-5309"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "Department of Biology, Institute of Molecular Health Sciences, Swiss Federal Institute of Technology (ETH) Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Gianni, Davide",
+        "short_name": "Gianni D",
+        "identifiers": [
+          "0009-0005-6051-8201"
+        ],
+        "affiliations": [
+          "Discovery Sciences, Biopharma R&D, AstraZeneca, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Kabir, Shaheen",
+        "short_name": "Kabir S",
+        "identifiers": [
+          "0000-0002-9035-1124"
+        ],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA. shaheen.kabir@gmail.com.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA. shaheen.kabir@gmail.com.",
+          "Innovative Genomics Institute, University of California, San Francisco, CA, USA. shaheen.kabir@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Forment, Josep V",
+        "short_name": "Forment JV",
+        "identifiers": [
+          "0000-0002-7797-2583"
+        ],
+        "affiliations": [
+          "Bioscience, Oncology R&D, AstraZeneca, Cambridge, UK. josep.forment@astrazeneca.com."
+        ]
+      },
+      {
+        "full_name": "Gilbert, Luke A",
+        "short_name": "Gilbert LA",
+        "identifiers": [
+          "0000-0001-5854-0825"
+        ],
+        "affiliations": [
+          "Department of Urology, University of California, San Francisco, CA, USA. luke@arcinstitute.org.",
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA. luke@arcinstitute.org.",
+          "Arc Institute, Palo Alto, CA, USA. luke@arcinstitute.org.",
+          "Innovative Genomics Institute, University of California, San Francisco, CA, USA. luke@arcinstitute.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature chemical biology"
+    ],
+    "journal_abbrev": [
+      "Nat Chem Biol"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 07:07",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42711491",
+      "34320214",
+      "40759474",
+      "31991288",
+      "35787597",
+      "33158305",
+      "32127357",
+      "41240294",
+      "32892059",
+      "40865183",
+      "19034564",
+      "31315986",
+      "41086259",
+      "39822940",
+      "35530159",
+      "35205700",
+      "28984489",
+      "29954437",
+      "33224881",
+      "34437813",
+      "31050911",
+      "35163621",
+      "36253861",
+      "34026622",
+      "39492835",
+      "27884198",
+      "35051747",
+      "28123024",
+      "40220294",
+      "34800653",
+      "32601814",
+      "23825154",
+      "37154101",
+      "27978798",
+      "37861290",
+      "41561634",
+      "31494107",
+      "41799521",
+      "22476188",
+      "28662958",
+      "34118569",
+      "34977872",
+      "41138311",
+      "36471053",
+      "31040255",
+      "38496700",
+      "27455135",
+      "35563772",
+      "41473689",
+      "33983578",
+      "36305726",
+      "32226530",
+      "36751656",
+      "36606678",
+      "36499000",
+      "32004947",
+      "24847116",
+      "31754726",
+      "35567571",
+      "33606978",
+      "34102988",
+      "39326802",
+      "37541219",
+      "29059438",
+      "31043526",
+      "37338595",
+      "22101337",
+      "33556453",
+      "42451670",
+      "17428792",
+      "39372203",
+      "39565137",
+      "28794020",
+      "34861992",
+      "25512053",
+      "42314345",
+      "25883215",
+      "37978137",
+      "35609768",
+      "25694603",
+      "41350901",
+      "26704974",
+      "38347838",
+      "36106115",
+      "36314821",
+      "38457665",
+      "40527032",
+      "34904813",
+      "30850485",
+      "35065680",
+      "40713977",
+      "29133592",
+      "37679326",
+      "37978135",
+      "35219381",
+      "22178412",
+      "32354033",
+      "32355263",
+      "28376211",
+      "31099635"
+    ],
+    "review": [
+      "42711491",
+      "40759474",
+      "35787597",
+      "33158305",
+      "41240294",
+      "32892059",
+      "40865183",
+      "19034564",
+      "41086259",
+      "35205700",
+      "28984489",
+      "33224881",
+      "34437813",
+      "31050911",
+      "35163621",
+      "36253861",
+      "34026622",
+      "39492835",
+      "27884198",
+      "35051747",
+      "34800653",
+      "32601814",
+      "37154101",
+      "27978798",
+      "41561634",
+      "41799521",
+      "22476188",
+      "28662958",
+      "34977872",
+      "41138311",
+      "36471053",
+      "38496700",
+      "35563772",
+      "41473689",
+      "36305726",
+      "36751656",
+      "36499000",
+      "32004947",
+      "31754726",
+      "35567571",
+      "34102988",
+      "39326802",
+      "33556453",
+      "42451670",
+      "39372203",
+      "34861992",
+      "25512053",
+      "42314345",
+      "38347838",
+      "36106115",
+      "38457665",
+      "34904813",
+      "35065680",
+      "40713977",
+      "37679326",
+      "32355263",
+      "31099635"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

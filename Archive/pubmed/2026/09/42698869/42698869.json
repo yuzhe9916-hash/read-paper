@@ -1,0 +1,392 @@
+{
+  "identity": {
+    "pmid": "42698869",
+    "doi": "10.3389/fcell.2026.1931336",
+    "title": "Induced pluripotent stem cell reprogramming: methodological evolution and challenges in clinical translation."
+  },
+  "content": {
+    "abstract": "Cell reprogramming can transform somatic cells into induced pluripotent stem cells providing a platform for patient-specific disease modeling, drug screening and regenerative medicine research. Since the advent of OKSM-mediated reprogramming, the system of technical approaches has evolved continuously - from integrated viral vectors to non-integrated episomal systems and, more recently, chemical reprogramming and CRISPR approaches. The simultaneous advances in single-cell multi-omics, biomaterials engineering, and artificial intelligence have further refined the controllability and precision of the reprogramming process. Despite these innovations, problems persist that hinder clinical translation: incomplete epigenetic resetting, ongoing clonal heterogeneity, genomic instability in long-term culture, and the lack of standardized Good Manufacturing Practice protocols for large-scale manufacturing. This review summarizes the trajectory of iPSC reprogramming technologies, with special emphasis on the translational applicability of each modality. We evaluated viral and nonviral delivery systems, chemical reprogramming, strategies that aid gene editing, and emerging engineering platforms, including microfluidics, smart biomaterials, and artificial-intelligence-driven process optimization. We further identify the core \"translational triltrilas\", namely, the inherent tradeoffs between security, homogeneity, and scalability, and propose a comprehensive strategy to overcome these bottlenecks. By linking basic mechanistic understandings with industrial and regulatory considerations, this review aims to provide a route for transitioning iPSC technology from a laboratory tool to a clinically viable manufacturing platform.",
+    "keywords": [
+      "clinical translation",
+      "epigenetics",
+      "induced pluripotent stem cells",
+      "non-integrative vectors",
+      "regenerative medicine",
+      "reprogramming"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Mengmeng",
+        "Zuo, Ning",
+        "Wang, Qi",
+        "Zhao, Hongyang",
+        "Dai, Pengdan",
+        "Liang, Shaoshuai",
+        "Zhu, Wei",
+        "Zhang, Haoyun",
+        "Iqbal, Muhammad Omer",
+        "Dong, Dingcai",
+        "Zhang, Bingqiang"
+      ],
+      "short_names": [
+        "Chen M",
+        "Zuo N",
+        "Wang Q",
+        "Zhao H",
+        "Dai P",
+        "Liang S",
+        "Zhu W",
+        "Zhang H",
+        "Iqbal MO",
+        "Dong D",
+        "Zhang B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+        "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+        "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+        "Life Valley (Qingdao) Health Technology Co., Ltd., Qingdao, Shandong, China.",
+        "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+        "Life Valley (Qingdao) Health Technology Co., Ltd., Qingdao, Shandong, China.",
+        "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, China.",
+        "School of Basic Medical Science, Shandong Second Medical University, Weifang, China.",
+        "Neurologic Disorders and Regenerative Repair Lab of Shandong Higher Education, Shandong Second Medical University, Weifang, China.",
+        "College of Biological Engineering, Qingdao University of Science and Technology, Qingdao, China.",
+        "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+        "College of Biological Engineering, Qingdao University of Science and Technology, Qingdao, China.",
+        "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+        "College of Biological Engineering, Qingdao University of Science and Technology, Qingdao, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Mengmeng",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zuo, Ning",
+        "short_name": "Zuo N",
+        "identifiers": [],
+        "affiliations": [
+          "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qi",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Hongyang",
+        "short_name": "Zhao H",
+        "identifiers": [],
+        "affiliations": [
+          "Life Valley (Qingdao) Health Technology Co., Ltd., Qingdao, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Pengdan",
+        "short_name": "Dai P",
+        "identifiers": [],
+        "affiliations": [
+          "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Shaoshuai",
+        "short_name": "Liang S",
+        "identifiers": [],
+        "affiliations": [
+          "Life Valley (Qingdao) Health Technology Co., Ltd., Qingdao, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Wei",
+        "short_name": "Zhu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Haoyun",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Science, Shandong Second Medical University, Weifang, China.",
+          "Neurologic Disorders and Regenerative Repair Lab of Shandong Higher Education, Shandong Second Medical University, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Iqbal, Muhammad Omer",
+        "short_name": "Iqbal MO",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biological Engineering, Qingdao University of Science and Technology, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Dingcai",
+        "short_name": "Dong D",
+        "identifiers": [],
+        "affiliations": [
+          "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+          "College of Biological Engineering, Qingdao University of Science and Technology, Qingdao, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Bingqiang",
+        "short_name": "Zhang B",
+        "identifiers": [],
+        "affiliations": [
+          "Qingdao Engineering Research Center for Cellular Immunity and Early Cancer Screening,Qingdao Restore Biotechnology Co., Ltd., Qingdao, Shandong, China.",
+          "College of Biological Engineering, Qingdao University of Science and Technology, Qingdao, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42698869",
+      "29770269",
+      "42475469",
+      "41935637",
+      "41059336",
+      "38724973",
+      "27631155",
+      "41898500",
+      "30472380",
+      "36497171",
+      "41751227",
+      "26679838",
+      "30565686",
+      "39265553",
+      "33823614",
+      "41825535",
+      "40507801",
+      "25643745",
+      "23104133",
+      "40354373",
+      "40513933",
+      "34367185",
+      "40353785",
+      "34843066",
+      "24591731",
+      "40804204",
+      "25766254",
+      "41937145",
+      "26654216",
+      "35763161",
+      "41986248",
+      "42189488",
+      "40939761",
+      "30823421",
+      "21671061",
+      "42509440",
+      "41615553",
+      "42566835",
+      "36452429",
+      "41656303",
+      "26423934",
+      "33229312",
+      "41236708",
+      "23876186",
+      "42661099",
+      "24146427",
+      "41171580",
+      "41210051",
+      "40978277",
+      "41897402",
+      "40806513",
+      "42528516",
+      "39328831",
+      "41136850",
+      "42488555",
+      "40357368",
+      "42435706",
+      "32368414",
+      "41977144",
+      "40564627",
+      "25130797",
+      "42613624",
+      "27620745",
+      "21314494",
+      "40725213",
+      "40437543",
+      "42335933",
+      "32649060",
+      "39619184",
+      "31760627",
+      "30805026",
+      "41743084",
+      "41179113",
+      "42389191",
+      "41634808",
+      "28355380",
+      "39188749",
+      "30343634",
+      "40819489",
+      "40313442",
+      "26088261",
+      "30585439",
+      "24838880",
+      "42526086",
+      "39401098",
+      "41641521",
+      "42260778",
+      "29754960",
+      "37550515",
+      "42691207",
+      "31115261",
+      "26439714",
+      "35291013",
+      "42548532",
+      "41978395",
+      "41932671",
+      "42603976",
+      "31052294",
+      "42164816",
+      "38810477"
+    ],
+    "review": [
+      "42698869",
+      "41935637",
+      "41059336",
+      "38724973",
+      "41898500",
+      "30472380",
+      "36497171",
+      "41751227",
+      "26679838",
+      "30565686",
+      "39265553",
+      "33823614",
+      "41825535",
+      "40507801",
+      "25643745",
+      "40354373",
+      "40513933",
+      "34367185",
+      "40353785",
+      "34843066",
+      "24591731",
+      "40804204",
+      "25766254",
+      "41937145",
+      "35763161",
+      "41986248",
+      "42189488",
+      "40939761",
+      "30823421",
+      "21671061",
+      "42509440",
+      "41615553",
+      "42566835",
+      "41656303",
+      "26423934",
+      "33229312",
+      "41236708",
+      "23876186",
+      "42661099",
+      "24146427",
+      "41171580",
+      "41210051",
+      "40978277",
+      "41897402",
+      "40806513",
+      "42528516",
+      "39328831",
+      "41136850",
+      "42488555",
+      "40357368",
+      "42435706",
+      "41977144",
+      "40564627",
+      "42613624",
+      "27620745",
+      "21314494",
+      "40725213",
+      "40437543",
+      "42335933",
+      "39619184",
+      "31760627",
+      "30805026",
+      "41743084",
+      "41179113",
+      "41634808",
+      "28355380",
+      "39188749",
+      "30343634",
+      "40819489",
+      "40313442",
+      "30585439",
+      "42526086",
+      "39401098",
+      "41641521",
+      "42691207",
+      "35291013",
+      "42548532",
+      "41978395",
+      "41932671",
+      "42603976",
+      "31052294",
+      "42164816"
+    ],
+    "pmc": [
+      "13542370"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42698869/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcell.2026.1931336",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

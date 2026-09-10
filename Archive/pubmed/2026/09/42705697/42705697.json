@@ -1,0 +1,441 @@
+{
+  "identity": {
+    "pmid": "42705697",
+    "doi": "10.1136/gutjnl-2025-337414",
+    "title": "S1P-TREM2 axis protects immunosuppressive neutrophils from ferroptosis to promote tumour progression in hepatocellular carcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Neutrophils are increasingly recognised as immunosuppressive drivers of hepatocellular carcinoma (HCC), yet their persistence in the oxidative, lipid-rich tumour microenvironment remains poorly understood. OBJECTIVE: To elucidate the metabolic and molecular programmes that enable tumour-associated neutrophils (TANs) to resist ferroptosis and sustain immunosuppression in HCC. DESIGN: We employed human HCC samples, multiple murine HCC models, transcriptomic and lipidomic profiling, genetic loss-of-function systems and therapeutic interventions. Ferroptosis sensitivity, lipid metabolic rewiring and immunological consequences of TANs were systematically evaluated across models and validated in patient datasets and biospecimens. RESULTS: TANs in human HCC and mouse models exhibit pronounced lipid accumulation and oxidative stress compared with peripheral neutrophils. Multi-omic profiling revealed that TANs are enriched for lipid-binding gene programmes and undergo rewiring towards sphingolipid and unsaturated fatty acid metabolism. We identified triggering receptor expressed on myeloid cells 2 (TREM2) as a key lipid-sensing receptor selectively expressed in TANs. Functional deletion of TREM2 reprogrammed the tumour immune microenvironment, restoring CD8(+) T cell activity and suppressing HCC progression. Mechanistically, tumour-derived sphingosine-1-phosphate (S1P) activates TREM2, triggering nuclear factor erythroid 2-related factor 2 (NRF2)-mediated transcription of glutathione peroxidase 4 (GPX4) and solute carrier family 7 member 11 (SLC7A11), thereby promoting ferroptosis resistance. TREM2 expression is transcriptionally induced by granulocyte-macrophage colony-stimulating factor-signal transducer and activator of transcription 3 (GM-CSF-STAT3) signalling. Genetic deletion of TREM2, clustered regularly interspaced short palindromic repeats/CRISPR-associated protein 9 (CRISPR/Cas9)-mediated knockout of sphingosine kinase 1/2 (SPHK1/2) in tumour cells, or pharmacological inhibition of S1P synthesis disrupts this protective lipid-immune circuit, sensitises TANs to ferroptosis and restricts tumour growth. Therapeutically, a peptide-based TREM2 inhibitor reprogrammes TANs, restores CD8(+) T cell function and enhances anti-programmed cell death protein 1 (PD-1) immunotherapy efficacy. Clinically, TREM2(+) polymorphonuclear myeloid-derived suppressor cells (PMN-MDSCs) are enriched in HCC tumours, correlate with SPHK1/2 expression and T cell dysfunction and associate with poor patient prognosis. CONCLUSION: Our study uncovers the S1P-TREM2-NRF2 axis as a critical metabolic-immune circuit that preserves neutrophil survival and immunosuppressive function in HCC. Targeting this lipid-dependent ferroptosis resistance pathway offers a promising therapeutic strategy to overcome immunotherapy resistance in liver cancer.",
+    "keywords": [
+      "CANCER IMMUNOBIOLOGY",
+      "HEPATOBILIARY CANCER",
+      "HEPATOCELLULAR CARCINOMA",
+      "IMMUNOTHERAPY",
+      "LIVER IMMUNOLOGY"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ma, Jun",
+        "Wu, Tong",
+        "Chen, Diyu",
+        "Zhu, Can",
+        "Huang, Shanhe",
+        "Du, Keyi",
+        "Peng, Chuanhui",
+        "Chen, Junru",
+        "Chen, Yunhao",
+        "Xie, Haiyang",
+        "Zhang, Feng",
+        "Chen, Jianzhong",
+        "Zheng, Shusen",
+        "Wu, Jian"
+      ],
+      "short_names": [
+        "Ma J",
+        "Wu T",
+        "Chen D",
+        "Zhu C",
+        "Huang S",
+        "Du K",
+        "Peng C",
+        "Chen J",
+        "Chen Y",
+        "Xie H",
+        "Zhang F",
+        "Chen J",
+        "Zheng S",
+        "Wu J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0800-1417",
+        "ORCID: 0000-0003-1459-8261",
+        "ORCID: 0000-0002-6325-0766"
+      ],
+      "affiliations": [
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Institute of Immunology, School of Medicine, Zhejiang University, Hangzhou, China shusenzheng@zju.edu.cn chenjianzhong@zju.edu.cn drwujian@zju.edu.cn.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China shusenzheng@zju.edu.cn chenjianzhong@zju.edu.cn drwujian@zju.edu.cn.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China.",
+        "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China shusenzheng@zju.edu.cn chenjianzhong@zju.edu.cn drwujian@zju.edu.cn.",
+        "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+        "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+        "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ma, Jun",
+        "short_name": "Ma J",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Tong",
+        "short_name": "Wu T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Diyu",
+        "short_name": "Chen D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Can",
+        "short_name": "Zhu C",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Shanhe",
+        "short_name": "Huang S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Du, Keyi",
+        "short_name": "Du K",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Chuanhui",
+        "short_name": "Peng C",
+        "identifiers": [
+          "0000-0002-0800-1417"
+        ],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Junru",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yunhao",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Haiyang",
+        "short_name": "Xie H",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Feng",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jianzhong",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Immunology, School of Medicine, Zhejiang University, Hangzhou, China shusenzheng@zju.edu.cn chenjianzhong@zju.edu.cn drwujian@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zheng, Shusen",
+        "short_name": "Zheng S",
+        "identifiers": [
+          "0000-0003-1459-8261"
+        ],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China shusenzheng@zju.edu.cn chenjianzhong@zju.edu.cn drwujian@zju.edu.cn.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jian",
+        "short_name": "Wu J",
+        "identifiers": [
+          "0000-0002-6325-0766"
+        ],
+        "affiliations": [
+          "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China shusenzheng@zju.edu.cn chenjianzhong@zju.edu.cn drwujian@zju.edu.cn.",
+          "NHC Key Laboratory of Combined Multi-organ Transplantation, Hangzhou, China.",
+          "Key Laboratory of Organ Transplantation, Research Center for Diagnosis and Treatment of Hepatobiliary Diseases, Hangzhou, China.",
+          "Institute of Organ Transplantation, Zhejiang University, Hangzhou, China.",
+          "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Hangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Gut"
+    ],
+    "journal_abbrev": [
+      "Gut"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 23:34",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42705697",
+      "42035954",
+      "40015948",
+      "28939663",
+      "40543602",
+      "36889359",
+      "30902885",
+      "41482455",
+      "33067638",
+      "39357545",
+      "40356247",
+      "38403027",
+      "40695620",
+      "38744443",
+      "42028950",
+      "42576342",
+      "42244441",
+      "42251352",
+      "31076403",
+      "37856990",
+      "34288020",
+      "41963079",
+      "42676762",
+      "37019619",
+      "42565568",
+      "35466502",
+      "38704136",
+      "26924089",
+      "40412057",
+      "33524739",
+      "41513008",
+      "39276458",
+      "42572499",
+      "38200582",
+      "42350096",
+      "35210813",
+      "39223929",
+      "40120139",
+      "36707233",
+      "40748990",
+      "37891677",
+      "39642461",
+      "40993092",
+      "39901247",
+      "40154622",
+      "39694527",
+      "41388436",
+      "39667906",
+      "41937416",
+      "38882672",
+      "35477863",
+      "39095323",
+      "42676642",
+      "41209002",
+      "41629991",
+      "42685565",
+      "41275854",
+      "40274347",
+      "37459919",
+      "42086514",
+      "42492799",
+      "41419228",
+      "41038145",
+      "42698964",
+      "40665874",
+      "36893885",
+      "36745138",
+      "42686373",
+      "40783744",
+      "36894036",
+      "40673864",
+      "38417530",
+      "41383134",
+      "36996941",
+      "42065048",
+      "41197245",
+      "42304527",
+      "42227003",
+      "41028904",
+      "38074509",
+      "42410594",
+      "42463423",
+      "40595451",
+      "41749320",
+      "40402956",
+      "36907560",
+      "41993211",
+      "42681644",
+      "36635256",
+      "41177238",
+      "41407525",
+      "42612021",
+      "35227773",
+      "38123979",
+      "42209194",
+      "38969205",
+      "31043744",
+      "39349007",
+      "41922101",
+      "42509425"
+    ],
+    "review": [
+      "42705697",
+      "39694527",
+      "42676642",
+      "41275854"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://gut.bmj.com/lookup/pmidlookup?view=long&pmid=42705697",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-OTUB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

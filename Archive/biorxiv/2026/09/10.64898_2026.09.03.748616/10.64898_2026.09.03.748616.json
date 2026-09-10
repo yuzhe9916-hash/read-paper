@@ -1,0 +1,133 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.03.748616",
+  "title": "NANOCUTSIGHT: A NANOPORE-SEQUENCING APPROACH AND ANALYSIS PIPELINE TO ASSESS GENOME EDITING EFFICACY IN VARIOUS CELL POPULATIONS",
+  "doi": "10.64898/2026.09.03.748616",
+  "abstract": "Genome editing has revolutionized biomedical sciences and is now an essential tool to define molecular pathways through genetic interaction and loss-of-function studies. Through its diverse variations, it allows for the generation of specific knockout cell lines or organisms, as well as the creation of endogenously edited gene regions. While high-throughput methodologies exist to map CRISPR/Cas9 genetic modifications, the validation of guide efficiencies in cell populations is often performed through analysis of the targeted gene product by western blotting or by deconvolution of Sanger sequencing chromatograms using TIDE or ICE assays. Here, we highlight a rapid nanopore sequencing pipeline, which we have named NanoCutSight, to quantify the percentage of indels at a specific genomic locus and to identify the types of modifications generated. We also benchmarked the methodology on various guide RNAs and in both cultured cell and organoid models. We believe that NanoCutSight will simplify the analysis of complex sample editing and enable the rapid screening of edited samples.",
+  "authors": [
+    "Bergeron D",
+    "Gaudreault V",
+    "Duval M",
+    "Nassari S",
+    "Boudreau F",
+    "Durand M",
+    "Choquet K",
+    "Jean S"
+  ],
+  "published_date": "2026-09-08",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.03.748616",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.03.748616.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"dna repair\" OR \"CRISPR\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1316049",
+    "raw_record": {
+      "id": "PPR1316049",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.03.748616",
+      "title": "NANOCUTSIGHT: A NANOPORE-SEQUENCING APPROACH AND ANALYSIS PIPELINE TO ASSESS GENOME EDITING EFFICACY IN VARIOUS CELL POPULATIONS",
+      "authorString": "Bergeron D, Gaudreault V, Duval M, Nassari S, Boudreau F, Durand M, Choquet K, Jean S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bergeron D",
+            "firstName": "Danny",
+            "lastName": "Bergeron",
+            "initials": "D"
+          },
+          {
+            "fullName": "Gaudreault V",
+            "firstName": "Véronique",
+            "lastName": "Gaudreault",
+            "initials": "V"
+          },
+          {
+            "fullName": "Duval M",
+            "firstName": "Maxime",
+            "lastName": "Duval",
+            "initials": "M"
+          },
+          {
+            "fullName": "Nassari S",
+            "firstName": "Sonya",
+            "lastName": "Nassari",
+            "initials": "S"
+          },
+          {
+            "fullName": "Boudreau F",
+            "firstName": "François",
+            "lastName": "Boudreau",
+            "initials": "F"
+          },
+          {
+            "fullName": "Durand M",
+            "firstName": "Mathieu",
+            "lastName": "Durand",
+            "initials": "M"
+          },
+          {
+            "fullName": "Choquet K",
+            "firstName": "Karine",
+            "lastName": "Choquet",
+            "initials": "K"
+          },
+          {
+            "fullName": "Jean S",
+            "firstName": "Steve",
+            "lastName": "Jean",
+            "initials": "S"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Genome editing has revolutionized biomedical sciences and is now an essential tool to define molecular pathways through genetic interaction and loss-of-function studies. Through its diverse variations, it allows for the generation of specific knockout cell lines or organisms, as well as the creation of endogenously edited gene regions. While high-throughput methodologies exist to map CRISPR/Cas9 genetic modifications, the validation of guide efficiencies in cell populations is often performed through analysis of the targeted gene product by western blotting or by deconvolution of Sanger sequencing chromatograms using TIDE or ICE assays. Here, we highlight a rapid nanopore sequencing pipeline, which we have named NanoCutSight, to quantify the percentage of indels at a specific genomic locus and to identify the types of modifications generated. We also benchmarked the methodology on various guide RNAs and in both cultured cell and organoid models. We believe that NanoCutSight will simplify the analysis of complex sample editing and enable the rapid screening of edited samples.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.03.748616"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-10",
+      "firstIndexDate": "2026-09-10",
+      "firstPublicationDate": "2026-09-08"
+    }
+  }
+}

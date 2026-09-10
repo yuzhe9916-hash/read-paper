@@ -1,0 +1,364 @@
+{
+  "identity": {
+    "pmid": "42706237",
+    "doi": "10.1038/s41413-026-00581-x",
+    "title": "Single-cell multi-omics defines H3K27me3 remodelling in intervertebral disc degeneration with implications for regenerative intervention."
+  },
+  "content": {
+    "abstract": "Utilizing key developmental cues and refining their orchestrating role in degeneration represents a promising strategy for understanding and treating intervertebral disc (IVD) degeneration, a major cause of chronic lower back pain. Here, we focus on notochordal cells (NCs), which originate from the embryonic notochord and reside in the developing nucleus pulposus. These distinctly vacuolated cells exhibit robust regenerative effects and hold promise for new therapeutic approaches. Dogs, like humans, suffer from the consequences of IVD degeneration. As the IVD matures and degenerates, NCs are replaced by smaller non-vacuolated NP cells (NPCs). The dog was employed as a model to capture, at the single-cell level, the heterogeneity of resident cells by studying the nucleus pulposus tissue at three stages (i.e., juvenile, young adult and degenerate adult). Here, we integrated transcriptomic data with repressive histone H3 lysine 27 trimethylation (H3K27me3) profiles at the single-cell level to assess changes in chromatin states and gene expression across this IVD degeneration-associated cell phenotypic transition. H3K27me3 enrichment on key genes involved in IVD development and homeostasis, such as Brachyury (TBXT), aligns with the observed attenuation during ageing and degeneration seen in both dog and human IVDs. This study further demonstrates that eliminating repressive histone marks, together with CRISPR-mediated gene transactivation, enhances TBXT gene expression in human NPCs derived from degenerated aged discs. Our findings underscore how extensive insights gained through single-cell omics can lead to the identification of crucial cellular cues that may enable degenerate NPCs to regain a healthier phenotype.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Intervertebral Disc Degeneration/metabolism/genetics/pathology",
+      "Animals",
+      "Dogs",
+      "*Histones/metabolism",
+      "*Regeneration",
+      "Nucleus Pulposus/metabolism/pathology",
+      "*Single-Cell Analysis",
+      "Notochord/metabolism",
+      "Multiomics",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Poramba-Liyanage, Deepani W",
+        "Tong, Xiaole",
+        "Riemers, Frank M",
+        "Meij, Bjorn P",
+        "Dilek, Yeter",
+        "Cleypool, Cindy G J",
+        "Kamali, S Amir",
+        "Le Maitre, Christine L",
+        "Camus, Anne",
+        "Chan, Danny",
+        "van Oudenaarden, Alexander",
+        "Zeller, Peter",
+        "Tryfonidou, Marianna A"
+      ],
+      "short_names": [
+        "Poramba-Liyanage DW",
+        "Tong X",
+        "Riemers FM",
+        "Meij BP",
+        "Dilek Y",
+        "Cleypool CGJ",
+        "Kamali SA",
+        "Le Maitre CL",
+        "Camus A",
+        "Chan D",
+        "van Oudenaarden A",
+        "Zeller P",
+        "Tryfonidou MA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3717-4787",
+        "ORCID: 0000-0002-3921-7093",
+        "ORCID: 0000-0003-4732-9447",
+        "ORCID: 0000-0002-8820-0407",
+        "ORCID: 0000-0003-3824-5778",
+        "ORCID: 0000-0002-2333-7162"
+      ],
+      "affiliations": [
+        "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+        "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands.",
+        "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+        "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands.",
+        "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+        "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands.",
+        "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+        "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands.",
+        "Department of Orthopedics, University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Department of Anatomy, University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+        "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands.",
+        "Division of Clinical Sciences, School of Medicine and Population Health, University of Sheffield, Sheffield, UK.",
+        "Nantes University, Oniris, CHU Nantes, Inserm, Regenerative Medicine and Skeleton, RMeS, UMR 1229, Nantes, France.",
+        "School of Biomedical Sciences, The University of Hong Kong, Hong Kong SAR, China.",
+        "Oncode Institute, Hubrecht Institute-KNAW and University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Oncode Institute, Hubrecht Institute-KNAW and University Medical Center Utrecht, Utrecht, The Netherlands. peter.zeller@mbg.au.dk.",
+        "Department of Molecular Biology and Genetics, Aarhus University, Aarhus, Denmark. peter.zeller@mbg.au.dk.",
+        "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands. M.A.Tryfonidou@uu.nl.",
+        "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands. M.A.Tryfonidou@uu.nl."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Poramba-Liyanage, Deepani W",
+        "short_name": "Poramba-Liyanage DW",
+        "identifiers": [
+          "0000-0003-3717-4787"
+        ],
+        "affiliations": [
+          "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+          "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Tong, Xiaole",
+        "short_name": "Tong X",
+        "identifiers": [
+          "0000-0002-3921-7093"
+        ],
+        "affiliations": [
+          "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+          "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Riemers, Frank M",
+        "short_name": "Riemers FM",
+        "identifiers": [
+          "0000-0003-4732-9447"
+        ],
+        "affiliations": [
+          "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+          "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Meij, Björn P",
+        "short_name": "Meij BP",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Dilek, Yeter",
+        "short_name": "Dilek Y",
+        "identifiers": [],
+        "affiliations": [
+          "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands.",
+          "Department of Orthopedics, University Medical Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Cleypool, Cindy G J",
+        "short_name": "Cleypool CGJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy, University Medical Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kamali, S Amir",
+        "short_name": "Kamali SA",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands.",
+          "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Le Maitre, Christine L",
+        "short_name": "Le Maitre CL",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Clinical Sciences, School of Medicine and Population Health, University of Sheffield, Sheffield, UK."
+        ]
+      },
+      {
+        "full_name": "Camus, Anne",
+        "short_name": "Camus A",
+        "identifiers": [
+          "0000-0002-8820-0407"
+        ],
+        "affiliations": [
+          "Nantes University, Oniris, CHU Nantes, Inserm, Regenerative Medicine and Skeleton, RMeS, UMR 1229, Nantes, France."
+        ]
+      },
+      {
+        "full_name": "Chan, Danny",
+        "short_name": "Chan D",
+        "identifiers": [
+          "0000-0003-3824-5778"
+        ],
+        "affiliations": [
+          "School of Biomedical Sciences, The University of Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "van Oudenaarden, Alexander",
+        "short_name": "van Oudenaarden A",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute, Hubrecht Institute-KNAW and University Medical Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Zeller, Peter",
+        "short_name": "Zeller P",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute, Hubrecht Institute-KNAW and University Medical Center Utrecht, Utrecht, The Netherlands. peter.zeller@mbg.au.dk.",
+          "Department of Molecular Biology and Genetics, Aarhus University, Aarhus, Denmark. peter.zeller@mbg.au.dk."
+        ]
+      },
+      {
+        "full_name": "Tryfonidou, Marianna A",
+        "short_name": "Tryfonidou MA",
+        "identifiers": [
+          "0000-0002-2333-7162"
+        ],
+        "affiliations": [
+          "Faculty of Veterinary Medicine, Department of Clinical Sciences, Utrecht University, Utrecht, The Netherlands. M.A.Tryfonidou@uu.nl.",
+          "Regenerative Medicine Center Utrecht, Utrecht, The Netherlands. M.A.Tryfonidou@uu.nl."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bone research"
+    ],
+    "journal_abbrev": [
+      "Bone Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 05:36",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42706237",
+      "31695783",
+      "40668091",
+      "28473691",
+      "31840817",
+      "34591994",
+      "38865240",
+      "41401571",
+      "23360510",
+      "30267879",
+      "40052622",
+      "36458546",
+      "39519354",
+      "38085183",
+      "27018499",
+      "40339969",
+      "41617992",
+      "42587772",
+      "22083942",
+      "23578990",
+      "29739272",
+      "41077076",
+      "28647468",
+      "26898133",
+      "24889905",
+      "38403470",
+      "40057017",
+      "40180005",
+      "38823438",
+      "29097182",
+      "40281518",
+      "40977276",
+      "42470154",
+      "30025440",
+      "40750010",
+      "33824228",
+      "31286562",
+      "40341079",
+      "28145804",
+      "32992671",
+      "35359916",
+      "41288682",
+      "33355376",
+      "25890127",
+      "30977275",
+      "38879755",
+      "39507955",
+      "39953636",
+      "33536009",
+      "20149220",
+      "38654287",
+      "32666737",
+      "38853649",
+      "29941029",
+      "29241405",
+      "39920317",
+      "42428568",
+      "41917726",
+      "28847244",
+      "33050844",
+      "30227822",
+      "41880862",
+      "40770348",
+      "41568907",
+      "40422293",
+      "36965031",
+      "25856264",
+      "29031872",
+      "29555463",
+      "42606057",
+      "32143180",
+      "34073333",
+      "42530249",
+      "20565707",
+      "28970490",
+      "22206702",
+      "24325988",
+      "42196230",
+      "33455530",
+      "39192354",
+      "28207788",
+      "38723371",
+      "41357134",
+      "25370929",
+      "37539663",
+      "26939667",
+      "22395304",
+      "41124083",
+      "32030997",
+      "37697480",
+      "26757881",
+      "41748750",
+      "29490072",
+      "36866514",
+      "33904383",
+      "33603947",
+      "34136064",
+      "32083813",
+      "28805297",
+      "27792110"
+    ],
+    "review": [
+      "42706237",
+      "35359916",
+      "30977275",
+      "29241405",
+      "30227822"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41413-026-00581-x",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-570",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

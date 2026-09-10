@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42686854",
+    "doi": "10.1038/s41416-026-03571-2",
+    "title": "SLFN11 enhances cisplatin sensitivity in pediatric cancer via activation of stress-response and suppression of survival pathways."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Paediatric cancers pose treatment challenges due to biological heterogeneity and variable chemotherapy responses. SLFN11, a DNA/RNA helicase-like protein known to sensitise adult tumours to DNA-damaging agents, remains underexplored in paediatric malignancies. METHODS: We examined SLFN11 in Wilms tumour, osteosarcoma, and medulloblastoma using bioinformatics, epigenetic profiling and functional assays. Public datasets (TARGET, ICGC) were analysed to assess SLFN11 expression in relation to survival. Paediatric cancer cell lines were evaluated for baseline expression and promoter methylation. CRISPR-dCas9-mediated activation was used to restore SLFN11, and chemosensitivity was tested with cisplatin and the PARP inhibitor talazoparib. Transcriptomic profiling under cisplatin exposure was performed to identify pathways regulated by SLFN11. RESULTS: SLFN11 showed tumour type-specific correlations with patient outcome, acting as a positive, negative, or neutral predictor depending on cancer context. Promoter methylation regulated SLFN11 expression in paediatric cancers similarly to adult tumours. SLFN11 activation sensitised all three functionally tested cell lines to cisplatin and talazoparib, with transcriptomics showing its role in DNA damage response and MAPK signalling to enhance chemotherapy cytotoxicity. CONCLUSION: In paediatric solid tumours, SLFN11 is a potential predictive biomarker of treatment response. Its ability to dictate the DNA damage landscape through epigenetic modulation highlights its significance as a target for overcoming chemoresistance and improving therapeutic efficacy in young patients. SLFN11 functions as a context-dependent biomarker of outcome and chemotherapy response in paediatric solid tumours. Its epigenetic regulation and modulation of DNA damage highlights SLFN11 as a therapeutic target to overcome chemoresistance.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jabeen, Ayesha",
+        "Awartani, Dina",
+        "Sherif, Shimaa",
+        "Ahmed, Eiman I",
+        "Alanany, Rania",
+        "Saleh, Ayman",
+        "Hendrickx, Wouter R L",
+        "Raynaud, Christophe M"
+      ],
+      "short_names": [
+        "Jabeen A",
+        "Awartani D",
+        "Sherif S",
+        "Ahmed EI",
+        "Alanany R",
+        "Saleh A",
+        "Hendrickx WRL",
+        "Raynaud CM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7649-5092",
+        "ORCID: 0000-0003-1551-8075"
+      ],
+      "affiliations": [
+        "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+        "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+        "College of Health and Life Sciences (CHLS), Hamad bin Khalifa University (HBKU), Doha, Qatar.",
+        "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+        "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+        "Department of Biomedical Science, College of Health Sciences, Qatar University, Doha, Qatar.",
+        "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+        "College of Health and Life Sciences (CHLS), Hamad bin Khalifa University (HBKU), Doha, Qatar.",
+        "Anatomical Pathology Lab, Department of Pathology, Sidra Medicine, Doha, Qatar.",
+        "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar. wouterhendrickx79@gmail.com.",
+        "College of Health and Life Sciences (CHLS), Hamad bin Khalifa University (HBKU), Doha, Qatar. wouterhendrickx79@gmail.com.",
+        "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar. raynaud.chris@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jabeen, Ayesha",
+        "short_name": "Jabeen A",
+        "identifiers": [],
+        "affiliations": [
+          "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Awartani, Dina",
+        "short_name": "Awartani D",
+        "identifiers": [],
+        "affiliations": [
+          "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+          "College of Health and Life Sciences (CHLS), Hamad bin Khalifa University (HBKU), Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Sherif, Shimaa",
+        "short_name": "Sherif S",
+        "identifiers": [],
+        "affiliations": [
+          "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Eiman I",
+        "short_name": "Ahmed EI",
+        "identifiers": [],
+        "affiliations": [
+          "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+          "Department of Biomedical Science, College of Health Sciences, Qatar University, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Alanany, Rania",
+        "short_name": "Alanany R",
+        "identifiers": [],
+        "affiliations": [
+          "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar.",
+          "College of Health and Life Sciences (CHLS), Hamad bin Khalifa University (HBKU), Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Saleh, Ayman",
+        "short_name": "Saleh A",
+        "identifiers": [],
+        "affiliations": [
+          "Anatomical Pathology Lab, Department of Pathology, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Hendrickx, Wouter R L",
+        "short_name": "Hendrickx WRL",
+        "identifiers": [
+          "0000-0002-7649-5092"
+        ],
+        "affiliations": [
+          "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar. wouterhendrickx79@gmail.com.",
+          "College of Health and Life Sciences (CHLS), Hamad bin Khalifa University (HBKU), Doha, Qatar. wouterhendrickx79@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Raynaud, Christophe M",
+        "short_name": "Raynaud CM",
+        "identifiers": [
+          "0000-0003-1551-8075"
+        ],
+        "affiliations": [
+          "Tumor biology and immunology laboratory, Translational Medicine Dept., Research Branch, Sidra Medicine, Doha, Qatar. raynaud.chris@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "British journal of cancer"
+    ],
+    "journal_abbrev": [
+      "Br J Cancer"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 05:36",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42686854",
+      "38001424",
+      "40531330",
+      "36273330",
+      "26625211",
+      "29391350",
+      "39117290",
+      "34413129",
+      "42351147",
+      "27440269",
+      "35004241",
+      "40766331",
+      "31762822",
+      "42607195",
+      "31682620",
+      "32127465",
+      "31128155",
+      "34893686",
+      "33339894",
+      "28403629",
+      "25779942",
+      "28212573",
+      "31092045",
+      "42260628",
+      "32586373",
+      "38797062",
+      "22927417",
+      "38764821",
+      "34808009",
+      "34549724",
+      "42475469",
+      "41514018",
+      "31222709",
+      "40856812",
+      "32474729",
+      "39185596",
+      "35766436",
+      "40552140",
+      "41760260",
+      "35440668",
+      "33536335",
+      "40560936",
+      "33513156",
+      "31632920",
+      "41830441",
+      "34663950",
+      "21458988",
+      "34963094",
+      "36741698",
+      "35326684",
+      "37717249",
+      "39763064",
+      "35917883",
+      "42424601",
+      "35008168",
+      "42415249",
+      "33863777",
+      "40346357",
+      "27708213",
+      "34294893",
+      "34454589",
+      "40819743",
+      "42652209",
+      "26658330",
+      "33785877",
+      "40808299",
+      "39896456",
+      "29158814",
+      "42339677",
+      "35109796",
+      "40306238",
+      "22535375",
+      "34675634",
+      "30943920",
+      "40923294",
+      "39829761",
+      "32209474",
+      "41883956",
+      "40332549",
+      "32754286",
+      "33218331",
+      "42472515",
+      "41620417",
+      "40213562",
+      "28969705",
+      "30374083",
+      "39958058",
+      "42532975",
+      "42681212",
+      "41064808",
+      "42051302",
+      "41507586",
+      "28859669",
+      "39812592",
+      "37717683",
+      "41058684",
+      "41420190",
+      "35440669",
+      "38475971",
+      "23982217"
+    ],
+    "review": [
+      "42686854",
+      "40531330",
+      "40766331",
+      "31128155",
+      "31092045",
+      "38797062",
+      "40856812",
+      "35766436",
+      "34963094",
+      "35326684",
+      "35917883",
+      "34294893",
+      "40819743",
+      "42339677"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41416-026-03571-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

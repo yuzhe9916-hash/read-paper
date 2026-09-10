@@ -1,0 +1,188 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.01.747870",
+  "title": "The orphan receptor IL-17RD is a negative regulator of RIG-I-like receptor-dependent antiviral innate immunity and restrains SARS-CoV-2-induced lung inflammation",
+  "doi": "10.64898/2026.09.01.747870",
+  "abstract": "Detection of viral RNA by the RIG-I-like receptors (RLRs) RIG-I and MDA5 triggers assembly of a MAVS-dependent signalosome that activates the TBK1-IRF3 and IKKβ-NF-κB axes together with the JNK and p38 MAPK modules, driving type I and type III interferon (IFN) and inflammatory cytokine production. Because unrestrained activity of this pathway is a major cause of immunopathology, host-encoded negative regulators are essential, yet the full complement of these brakes remains incompletely defined. Here we identify interleukin-17 receptor D (IL-17RD, also known as SEF), an orphan member of the IL-17 receptor family previously characterized as an antagonist of FGF and Toll-like receptor signaling, as a negative regulator of RLR-driven antiviral innate immunity. Using a CRISPR-engineered and shRNA-depleted human airway epithelial-derived lung carcinoma A549 cell line, we show that loss of IL-17RD amplifies and prolongs phosphorylation of TBK1 and IRF3 in response to poly I:C transfection and to infection with encephalomyocarditis virus (EMCV) or Sendai virus (SeV), and likewise potentiates the IKKβ-IκBα module and the TAK1-JNK1/2 and p38 MAPK branches. This translates into increased nuclear accumulation of IRF3 and p65, and markedly elevated induction of IFNB1, IFNL1-3, CCL5, IL6, and NFKBIA transcripts, as well as secreted IFN-β and IL-6. Silencing IL-17RD in ACE2-expressing A549 cells similarly derepresses the antiviral and inflammatory transcriptional programme following SARS-CoV-2 infection. Epistasis experiments place IL-17RD at the level of MAVS, downstream of the RLR sentinels. Mechanistically, IL-17RD localizes to the ER-to-Golgi intermediate compartment (ERGIC), the membrane platform on which the MAVS signalosome is present, and associates with RIG-I, MDA5, MAVS, TBK1 and IRF3. Its re-expression in depleted cells redistributes RLR effectors and TRAF proteins across low-molecular-weight signalosome fractions, reducing the amount of IRF3 recruited to the 670 kDa MAVS signalosome complex. Complementation of IL-17RD-deficient cells also indicates that the intracellular TIR subdomain is sufficient to confer this antagonistic activity. Finally, Il17rd-/- mice display a splenic transcriptome enriched for antiviral response signatures, and, following intranasal infection with a moderate dose of SARS-CoV-2, they mount an exaggerated pulmonary cytokine response and develop significantly greater lung inflammation and fibrosis than wild-type littermates. Together, these data establish IL-17RD as a bona fide brake on the RLR-MAVS axis that limits virus-induced immunopathology, and identify the SEFIR/TIR subdomain as the module responsible for this activity.",
+  "authors": [
+    "El-Mortada F",
+    "Roy J",
+    "Girondel C",
+    "Do F",
+    "Dos Santos Pereira Andrade AC",
+    "Lacasse E",
+    "Dubuc I",
+    "Roux PP",
+    "St-Jean G",
+    "Demey B",
+    "Labrecque N",
+    "Flamand L",
+    "Meloche S",
+    "Servant MJ"
+  ],
+  "published_date": "2026-09-03",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.01.747870",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.01.747870.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"dna repair\" OR \"CRISPR\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1312693",
+    "raw_record": {
+      "id": "PPR1312693",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.01.747870",
+      "title": "The orphan receptor IL-17RD is a negative regulator of RIG-I-like receptor-dependent antiviral innate immunity and restrains SARS-CoV-2-induced lung inflammation",
+      "authorString": "El-Mortada F, Roy J, Girondel C, Do F, Dos Santos Pereira Andrade AC, Lacasse E, Dubuc I, Roux PP, St-Jean G, Demey B, Labrecque N, Flamand L, Meloche S, Servant MJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "El-Mortada F",
+            "firstName": "Firas",
+            "lastName": "El-Mortada",
+            "initials": "F"
+          },
+          {
+            "fullName": "Roy J",
+            "firstName": "Jiunn",
+            "lastName": "Roy",
+            "initials": "J"
+          },
+          {
+            "fullName": "Girondel C",
+            "firstName": "Charlotte",
+            "lastName": "Girondel",
+            "initials": "C"
+          },
+          {
+            "fullName": "Do F",
+            "firstName": "Florence",
+            "lastName": "Do",
+            "initials": "F"
+          },
+          {
+            "fullName": "Dos Santos Pereira Andrade AC",
+            "firstName": "Ana Claudia",
+            "lastName": "Dos Santos Pereira Andrade",
+            "initials": "AC"
+          },
+          {
+            "fullName": "Lacasse E",
+            "firstName": "Emile",
+            "lastName": "Lacasse",
+            "initials": "E"
+          },
+          {
+            "fullName": "Dubuc I",
+            "firstName": "Isabelle",
+            "lastName": "Dubuc",
+            "initials": "I"
+          },
+          {
+            "fullName": "Roux PP",
+            "firstName": "Philippe",
+            "lastName": "Roux",
+            "initials": "PP",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5962-0250"
+            }
+          },
+          {
+            "fullName": "St-Jean G",
+            "firstName": "Guillaume",
+            "lastName": "St-Jean",
+            "initials": "G"
+          },
+          {
+            "fullName": "Demey B",
+            "firstName": "Baptiste",
+            "lastName": "Demey",
+            "initials": "B"
+          },
+          {
+            "fullName": "Labrecque N",
+            "firstName": "Nathalie",
+            "lastName": "Labrecque",
+            "initials": "N"
+          },
+          {
+            "fullName": "Flamand L",
+            "firstName": "Louis",
+            "lastName": "Flamand",
+            "initials": "L"
+          },
+          {
+            "fullName": "Meloche S",
+            "firstName": "Sylvain",
+            "lastName": "Meloche",
+            "initials": "S"
+          },
+          {
+            "fullName": "Servant MJ",
+            "firstName": "Marc",
+            "lastName": "Servant",
+            "initials": "MJ"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5962-0250"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Detection of viral RNA by the RIG-I-like receptors (RLRs) RIG-I and MDA5 triggers assembly of a MAVS-dependent signalosome that activates the TBK1-IRF3 and IKKβ-NF-κB axes together with the JNK and p38 MAPK modules, driving type I and type III interferon (IFN) and inflammatory cytokine production. Because unrestrained activity of this pathway is a major cause of immunopathology, host-encoded negative regulators are essential, yet the full complement of these brakes remains incompletely defined. Here we identify interleukin-17 receptor D (IL-17RD, also known as SEF), an orphan member of the IL-17 receptor family previously characterized as an antagonist of FGF and Toll-like receptor signaling, as a negative regulator of RLR-driven antiviral innate immunity. Using a CRISPR-engineered and shRNA-depleted human airway epithelial-derived lung carcinoma A549 cell line, we show that loss of IL-17RD amplifies and prolongs phosphorylation of TBK1 and IRF3 in response to poly I:C transfection and to infection with encephalomyocarditis virus (EMCV) or Sendai virus (SeV), and likewise potentiates the IKKβ-IκBα module and the TAK1-JNK1/2 and p38 MAPK branches. This translates into increased nuclear accumulation of IRF3 and p65, and markedly elevated induction of IFNB1, IFNL1-3, CCL5, IL6, and NFKBIA transcripts, as well as secreted IFN-β and IL-6. Silencing IL-17RD in ACE2-expressing A549 cells similarly derepresses the antiviral and inflammatory transcriptional programme following SARS-CoV-2 infection. Epistasis experiments place IL-17RD at the level of MAVS, downstream of the RLR sentinels. Mechanistically, IL-17RD localizes to the ER-to-Golgi intermediate compartment (ERGIC), the membrane platform on which the MAVS signalosome is present, and associates with RIG-I, MDA5, MAVS, TBK1 and IRF3. Its re-expression in depleted cells redistributes RLR effectors and TRAF proteins across low-molecular-weight signalosome fractions, reducing the amount of IRF3 recruited to the 670 kDa MAVS signalosome complex. Complementation of IL-17RD-deficient cells also indicates that the intracellular TIR subdomain is sufficient to confer this antagonistic activity. Finally, Il17rd-/- mice display a splenic transcriptome enriched for antiviral response signatures, and, following intranasal infection with a moderate dose of SARS-CoV-2, they mount an exaggerated pulmonary cytokine response and develop significantly greater lung inflammation and fibrosis than wild-type littermates. Together, these data establish IL-17RD as a bona fide brake on the RLR-MAVS axis that limits virus-induced immunopathology, and identify the SEFIR/TIR subdomain as the module responsible for this activity.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.01.747870"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-05",
+      "firstIndexDate": "2026-09-05",
+      "firstPublicationDate": "2026-09-03"
+    }
+  }
+}

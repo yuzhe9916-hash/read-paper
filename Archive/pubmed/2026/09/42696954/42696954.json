@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42696954",
+    "doi": "10.1016/j.talanta.2026.130574",
+    "title": "A single-tube dual-channel CRISPR platform for genotyping of waterfowl reoviruses."
+  },
+  "content": {
+    "abstract": "Waterfowl reovirus (WRVs) includes two genotypes, Genotype I (Muscovy duck reovirus, MDRV) and Genotype II (novel duck reovirus, NDRV). They have the same clinical manifestations, but different pathogenicity, and can co-infect individual hosts, resulting in diagnostic ambiguity that cannot be solved by single-target detection. Here, we report a single-tube dual-channel platform coupling recombinase polymerase amplification (RPA) with orthogonal CRISPR effectors: LbCas12a targeting the conserved S4 gene of MDRV via a ROX-labeled ssDNA reporter, and LwaCas13a targeting the S1 gene of NDRV via a FAM-labeled ssRNA reporter. The integrated format enables simultaneous genotypic differentiation within 30 min at isothermal temperatures, producing exclusive ROX-channel signal for MDRV, exclusive FAM-channel signal for NDRV, and concurrent dual-channel signal for co-infected samples, with no cross-channel interference (p > 0.05). The assay achieved a limit of detection of 1 copy/muL for both targets with no cross-reactivity against four co-circulating waterfowl pathogens. An ImageJ-based RGB quantification standard enables equipment-minimal visual classification of all four diagnostic outcomes. Clinical evaluation of 133 field specimens yielded complete concordance (100%) with qPCR, correctly identifying 15 MDRV-positive, 67 NDRV-positive, 8 co-infected, and 43 negative cases. This platform provides a validated, equipment-minimal tool for concurrent WRV genotyping and field surveillance.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "CRISPR-Cas13a",
+      "Dual-channel detection",
+      "Genotypic differentiation",
+      "Molecular diagnostics",
+      "Recombinase polymerase amplification",
+      "Waterfowl reovirus"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Jiahao",
+        "Liu, Guocheng",
+        "Yu, Shumin",
+        "Chen, Zhen",
+        "Yuan, Zonghao",
+        "Zhang, Jie",
+        "Hu, Jingdong",
+        "Diao, Youxiang",
+        "Tang, Yi",
+        "He, Dalin"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Liu G",
+        "Yu S",
+        "Chen Z",
+        "Yuan Z",
+        "Zhang J",
+        "Hu J",
+        "Diao Y",
+        "Tang Y",
+        "He D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China.",
+        "Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100193, China. Electronic address: tyck288@sdau.edu.cn.",
+        "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China. Electronic address: dlhe@sdau.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Jiahao",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Guocheng",
+        "short_name": "Liu G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Shumin",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhen",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Zonghao",
+        "short_name": "Yuan Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jie",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Jingdong",
+        "short_name": "Hu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Diao, Youxiang",
+        "short_name": "Diao Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Yi",
+        "short_name": "Tang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100193, China. Electronic address: tyck288@sdau.edu.cn."
+        ]
+      },
+      {
+        "full_name": "He, Dalin",
+        "short_name": "He D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Shandong Agricultural University, Tai'an, Shandong Province, 271018, China. Electronic address: dlhe@sdau.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Talanta"
+    ],
+    "journal_abbrev": [
+      "Talanta"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 23:36",
+    "fetched_at": "2026-09-10 11:57:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42696954",
+      "40927620",
+      "38908633",
+      "31077188",
+      "41757367",
+      "41471186",
+      "39512916",
+      "38493286",
+      "42522597",
+      "36258144",
+      "33621643",
+      "41581816",
+      "36445088",
+      "42530281",
+      "41716320",
+      "38655256",
+      "40933530",
+      "40784261",
+      "41600812",
+      "37566967",
+      "39502793",
+      "42474386",
+      "40589866",
+      "40398759",
+      "42249743",
+      "40273687",
+      "42655845",
+      "39570020",
+      "39396286",
+      "42266926",
+      "42148800",
+      "37432138",
+      "42560645",
+      "40544408",
+      "36680150",
+      "37695079",
+      "42224782",
+      "40466269",
+      "39084403",
+      "38891961",
+      "42655840",
+      "38994004",
+      "37378559",
+      "39315085",
+      "40599263",
+      "40143287",
+      "39663809",
+      "32305339",
+      "40938694",
+      "42328982",
+      "41035880",
+      "40619644",
+      "42263565",
+      "41260396",
+      "42521788",
+      "42358711",
+      "40733490",
+      "24355531",
+      "40725091",
+      "36998638",
+      "41135356",
+      "42680083",
+      "40970715",
+      "41395238",
+      "42289138",
+      "41153921",
+      "40842840",
+      "40862592",
+      "36943040",
+      "40277382",
+      "41713574",
+      "41954204",
+      "38319081",
+      "42553291",
+      "41729380",
+      "41154020",
+      "38383404",
+      "42068385",
+      "37493514",
+      "40525624",
+      "34990457",
+      "42164672",
+      "41982105",
+      "41713039",
+      "39702333",
+      "37065255",
+      "37662994",
+      "34653714",
+      "41582136",
+      "41437089",
+      "42599397",
+      "42299600",
+      "32843030",
+      "41023727",
+      "41435708",
+      "42264452",
+      "32577410",
+      "38647075",
+      "42624408",
+      "41502163"
+    ],
+    "review": [
+      "42696954"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0039-9140(26)01230-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

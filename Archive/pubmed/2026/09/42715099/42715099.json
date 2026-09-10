@@ -1,0 +1,325 @@
+{
+  "identity": {
+    "pmid": "42715099",
+    "doi": "10.1016/j.celrep.2026.117960",
+    "title": "FANCM is required for the PAX3::FOXO1-driven oncogenic program in rhabdomyosarcoma."
+  },
+  "content": {
+    "abstract": "Many cancers are driven by mutationally altered transcription factors (TFs) that rewire cells to an oncogenic state. Cells must activate specific mechanisms to tolerate the burden of oncogenic TF activity. To define such mechanisms, we focused on a canonical oncogenic fusion protein-driven cancer, alveolar rhabdomyosarcoma (ARMS), where the PAX3::FOXO1 fusion protein hyperactivates and mislocalizes PAX3 and FOXO1 TF functions. Employing sequential functional genomic CRISPR-Cas9 screens, we identified FANCM, a DNA translocase in the Fanconi anemia pathway, as a selective dependency in PAX3::FOXO1+ ARMS. FANCM loss reduces fusion protein levels, induces myogenic differentiation, and disrupts the PAX3::FOXO1 transcriptional program, thereby halting oncogenic proliferation. Mechanistically, FANCM depletion exacerbates replication stress (RS) and DNA damage signaling, with chromatin-associated RS enriched at PAX3::FOXO1 target gene loci, resulting in selective downregulation of the oncogenic program. CRISPR exon-tiling screens prioritized FANCM's helicase and DNA-binding domains as essential for this dependency, linking FANCM-mediated replication fork binding to sustained oncogenesis.",
+    "keywords": [
+      "ARMS",
+      "CP: cancer",
+      "CP: molecular biology",
+      "FANCM",
+      "P3F1",
+      "PAX3::FOXO1",
+      "alveolar rhabdomyosarcoma",
+      "fusion oncoprotein dependency",
+      "fusion-positive rhabdomyosarcoma",
+      "oncogenic transcription factor tolerance",
+      "replication stress",
+      "transcription-replication conflicts"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Delaney, Christopher D",
+        "Lu, Min",
+        "Zimmerman, Seth P",
+        "Meng, Yingying",
+        "Vaganay, Camille",
+        "Cerda-Smith, Christian G",
+        "Liu, Annie",
+        "Hoj, Jacob P",
+        "Killarney, Shane T",
+        "Dillon, Kerry",
+        "Stewart, Amy E",
+        "Huang, Kevin",
+        "Caci, Julia D",
+        "White, Olivia",
+        "Puissant, Alexandre",
+        "Root, David E",
+        "Shern, Jack F",
+        "Eyler, Christine E",
+        "David Chen, Chun-Wei",
+        "Counter, Christopher M",
+        "Linardic, Corinne M",
+        "Zou, Lee",
+        "Wood, Kris C"
+      ],
+      "short_names": [
+        "Delaney CD",
+        "Lu M",
+        "Zimmerman SP",
+        "Meng Y",
+        "Vaganay C",
+        "Cerda-Smith CG",
+        "Liu A",
+        "Hoj JP",
+        "Killarney ST",
+        "Dillon K",
+        "Stewart AE",
+        "Huang K",
+        "Caci JD",
+        "White O",
+        "Puissant A",
+        "Root DE",
+        "Shern JF",
+        "Eyler CE",
+        "David Chen CW",
+        "Counter CM",
+        "Linardic CM",
+        "Zou L",
+        "Wood KC"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "INSERM UMR 944, IRSL, St Louis Hospital, University of Paris-Cite, Paris, France.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "INSERM UMR 944, IRSL, St Louis Hospital, University of Paris-Cite, Paris, France.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Biochemistry and Molecular Biology, Mayo Clinic, 200 First Street S.W., Rochester, MN 55905, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA; Department of Pediatrics, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA. Electronic address: kris.wood@duke.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Delaney, Christopher D",
+        "short_name": "Delaney CD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Lu, Min",
+        "short_name": "Lu M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Zimmerman, Seth P",
+        "short_name": "Zimmerman SP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Meng, Yingying",
+        "short_name": "Meng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Vaganay, Camille",
+        "short_name": "Vaganay C",
+        "identifiers": [],
+        "affiliations": [
+          "INSERM UMR 944, IRSL, St Louis Hospital, University of Paris-Cité, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Cerda-Smith, Christian G",
+        "short_name": "Cerda-Smith CG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Annie",
+        "short_name": "Liu A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Hoj, Jacob P",
+        "short_name": "Hoj JP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Killarney, Shane T",
+        "short_name": "Killarney ST",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Dillon, Kerry",
+        "short_name": "Dillon K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Stewart, Amy E",
+        "short_name": "Stewart AE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Kevin",
+        "short_name": "Huang K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Caci, Julia D",
+        "short_name": "Caci JD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "White, Olivia",
+        "short_name": "White O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Puissant, Alexandre",
+        "short_name": "Puissant A",
+        "identifiers": [],
+        "affiliations": [
+          "INSERM UMR 944, IRSL, St Louis Hospital, University of Paris-Cité, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Root, David E",
+        "short_name": "Root DE",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Shern, Jack F",
+        "short_name": "Shern JF",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Eyler, Christine E",
+        "short_name": "Eyler CE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "David Chen, Chun-Wei",
+        "short_name": "David Chen CW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Mayo Clinic, 200 First Street S.W., Rochester, MN 55905, USA."
+        ]
+      },
+      {
+        "full_name": "Counter, Christopher M",
+        "short_name": "Counter CM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Linardic, Corinne M",
+        "short_name": "Linardic CM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA; Department of Pediatrics, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Zou, Lee",
+        "short_name": "Zou L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Wood, Kris C",
+        "short_name": "Wood KC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC, USA. Electronic address: kris.wood@duke.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 17:47",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42715099"
+    ],
+    "review": [
+      "42715099"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

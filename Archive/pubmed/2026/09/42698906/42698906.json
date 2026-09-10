@@ -1,0 +1,304 @@
+{
+  "identity": {
+    "pmid": "42698906",
+    "doi": "10.1016/j.synbio.2026.08.006",
+    "title": "Strategy for enhanced production of A40926B0 in Nonomuraea gerenzanensis using an efficient CRISPR/AsCas12f1 system."
+  },
+  "content": {
+    "abstract": "The global emergence of vancomycin-resistant Gram-positive pathogens underscores the urgent need for efficient production of novel lipoglycopeptide antibiotics. Dalbavancin, a last-resort therapeutic agent, relies on its key biosynthetic precursor A40926B0, whose industrial manufacture is severely limited by the low yield of wild-type Nonomuraea gerenzanensis and inefficient genetic tools for this rare actinomycete. Here, we developed a high-efficiency CRISPR/AsCas12f1 genome editing system and applied systematic metabolic engineering to boost A40926B0 biosynthesis. First, conjugation conditions were optimized to elevate the transfer efficiency in N. gerenzanensis D11. The hypercompact AsCas12f1 nuclease showed markedly lower cytotoxicity than SpCas9 and enabled 100% gene deletion efficiency with preferred PAMs (TTTG, CTTG, GTTG). Second, we strengthened the shikimate pathway via multiple genetic strategies: overexpressing feedback-resistant DAHP synthase (aroG (fbr) ) and chorismate mutase/prephenate dehydrogenase (tyrA (fbr) ), as well as knocking out pheA. This manipulation blocks the phenylalanine synthetic branch and redirects metabolic flux toward the l-tyrosine branch. Third, we engineered the branched-chain fatty acid (BCFA) pathway via promoter replacement of bkdA2B2C2, LipAB, fabF and deletion of acdH to enhance isododecanoyl side-chain supply. The combinatorial engineering yielded strain B-13, which produced 1740 mg/L A40926B0 in shake flasks. Finally, 50-L fed-batch fermentation with continuous maltodextrin feeding further increased the titer to 1817 mg/L, the highest reported titer to date. This work establishes a robust CRISPR editing tool for N. gerenzanensis and provides valuable engineering references for precursor-oriented strain improvement targeting lipoglycopeptide antibiotics, offering insights for the industrial scale production of A40926B0.",
+    "keywords": [
+      "A40926B0",
+      "Branched-chain fatty acid",
+      "CRISPR/AsCas12f1",
+      "Dalbavancin",
+      "Metabolic engineering",
+      "Nonomuraea gerenzanensis",
+      "Shikimate pathway"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Xiaoru",
+        "Zhai, Hongmei",
+        "Gu, Dandan",
+        "Wang, Yongchao",
+        "Gao, Jiali",
+        "Du, Luxi",
+        "Zhuo, Liuxu",
+        "Li, Xiaobing",
+        "Wang, Yu"
+      ],
+      "short_names": [
+        "Wang X",
+        "Zhai H",
+        "Gu D",
+        "Wang Y",
+        "Gao J",
+        "Du L",
+        "Zhuo L",
+        "Li X",
+        "Wang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+        "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China.",
+        "Hebei International Joint Research Center for Biopharmaceutical, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+        "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China.",
+        "Hebei International Joint Research Center for Biopharmaceutical, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+        "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China.",
+        "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+        "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+        "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Xiaoru",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+          "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+          "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China.",
+          "Hebei International Joint Research Center for Biopharmaceutical, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Zhai, Hongmei",
+        "short_name": "Zhai H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Dandan",
+        "short_name": "Gu D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yongchao",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jiali",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+          "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+          "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China.",
+          "Hebei International Joint Research Center for Biopharmaceutical, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Du, Luxi",
+        "short_name": "Du L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Zhuo, Liuxu",
+        "short_name": "Zhuo L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaobing",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+          "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+          "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Shijiazhuang University, Shijiazhuang, Hebei Province, 050035, China.",
+          "Hebei Provincial University Microbiology Pharmaceutical Application Technology Research and Development Center, Shijiazhuang, 050035, China.",
+          "Hebei Key Laboratory of Pharmaceutical Polymer Excipients, Shijiazhuang, 050035, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Synthetic and systems biotechnology"
+    ],
+    "journal_abbrev": [
+      "Synth Syst Biotechnol"
+    ],
+    "pub_date": "2027 Apr",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42698906",
+      "42598089",
+      "35213090",
+      "42090820",
+      "32038594",
+      "32971181",
+      "40297762",
+      "30370221",
+      "41348151",
+      "30019750",
+      "41476394",
+      "26016674",
+      "32664999",
+      "36650342",
+      "36345886",
+      "28258147",
+      "42052944",
+      "42562119",
+      "40015532",
+      "40090641",
+      "32916055",
+      "28511681",
+      "41838269",
+      "31193188",
+      "38427033",
+      "36822462",
+      "42602708",
+      "32170863",
+      "27189063",
+      "40232288",
+      "27965953",
+      "38943174",
+      "32314149",
+      "32367713",
+      "42199369",
+      "32801175",
+      "30031819",
+      "33180170",
+      "30096230",
+      "31297713",
+      "15534933",
+      "41731501",
+      "41740933",
+      "41672327",
+      "42547008",
+      "32144109",
+      "39247693",
+      "37244369",
+      "41859729",
+      "32414798",
+      "38006456",
+      "42238516",
+      "40338089",
+      "38674747",
+      "42686028",
+      "32338294",
+      "26292030",
+      "41414648",
+      "41995320",
+      "15286989",
+      "32961297",
+      "34176467",
+      "42224007",
+      "30478227",
+      "41271852",
+      "18344329",
+      "41504367",
+      "30973696",
+      "38387678",
+      "27421620",
+      "41507964",
+      "40229740",
+      "41717494",
+      "42126482",
+      "37312226",
+      "32291486",
+      "30453038",
+      "36328295",
+      "35096801",
+      "30015557",
+      "29330178",
+      "37622359",
+      "39182792",
+      "41420495",
+      "40131645",
+      "29530750",
+      "37212714",
+      "32876764",
+      "38280977",
+      "31485270",
+      "42107802",
+      "37286072",
+      "24560814",
+      "41900474",
+      "41766957",
+      "41982144",
+      "42075136",
+      "37986164",
+      "37495979",
+      "30241531"
+    ],
+    "review": [
+      "42698906",
+      "31297713",
+      "35096801"
+    ],
+    "pmc": [
+      "13543061"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2405-805X(26)00203-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42698906/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

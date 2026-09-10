@@ -1,0 +1,366 @@
+{
+  "identity": {
+    "pmid": "42702653",
+    "doi": "10.1007/s00216-026-06786-7",
+    "title": "Recent advances in CRISPR/Cas12a-based biosensors for heavy metal analysis: a review of signal readout strategies and analytical performance."
+  },
+  "content": {
+    "abstract": "Heavy metals are environmental hazards owing to their toxicity, persistence, and bioaccumulation in living organisms. These metals often accumulate or transform into more toxic compounds, and some accumulate in the human body through the food chain, which is extremely harmful to health. Although conventional detection methods are reliable, they are often hampered by high costs and complex operations, motivating the exploration of alternative sensing strategies. CRISPR/Cas (Clustering Regularly Interspaced Short Palindromic Repeats and Related Proteins) systems have shown potential for developing sensitive assays with significant target specificity, programmability, and signal amplification capabilities. This review discusses research progress on using CRISPR/Cas12a to detect and prevent heavy metal contamination in food. This review introduces methodological innovations in various signal readout methods, including fluorescence, colorimetry, electrochemistry, and microfluidics, and critically evaluates their analytical performance, such as sensitivity, selectivity, and practical applicability in complex food matrices. Finally, this review aims to provide valuable guidance for researchers to develop next-generation diagnostic tools that meet the requirements of rapid screening and precision testing for food safety.",
+    "keywords": [
+      "Biosensors",
+      "CRISPR/Cas",
+      "Food safety",
+      "Heavy metal detections",
+      "Signal readout strategies"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Shanshan",
+        "Liu, Jingxuan",
+        "Deng, Jiahui",
+        "Yuan, Yanhui",
+        "Peng, Shuchang",
+        "Le, Mingxia",
+        "Li, Jingxian",
+        "Xu, Kun"
+      ],
+      "short_names": [
+        "Hu S",
+        "Liu J",
+        "Deng J",
+        "Yuan Y",
+        "Peng S",
+        "Le M",
+        "Li J",
+        "Xu K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China.",
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China.",
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China.",
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China.",
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China.",
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China.",
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China. jingxianli@hunnu.edu.cn.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China. jingxianli@hunnu.edu.cn.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China. jingxianli@hunnu.edu.cn.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China. jingxianli@hunnu.edu.cn.",
+        "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China. xu_kun2022@163.com.",
+        "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China. xu_kun2022@163.com.",
+        "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China. xu_kun2022@163.com.",
+        "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China. xu_kun2022@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Shanshan",
+        "short_name": "Hu S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jingxuan",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Jiahui",
+        "short_name": "Deng J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Yanhui",
+        "short_name": "Yuan Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Shuchang",
+        "short_name": "Peng S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Le, Mingxia",
+        "short_name": "Le M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jingxian",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China. jingxianli@hunnu.edu.cn.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China. jingxianli@hunnu.edu.cn.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China. jingxianli@hunnu.edu.cn.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China. jingxianli@hunnu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xu, Kun",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Hunan Normal University, Changsha, 410013, Hunan, PR China. xu_kun2022@163.com.",
+          "Key Laboratory of Molecular Epidemiology of Hunan Province, Changsha, 410013, Hunan, PR China. xu_kun2022@163.com.",
+          "Key Laboratory of Model Animals and Stem Cell Biology in Hunan Province, School of Medicine, Hunan Normal University, Changsha, 410013, Hunan, PR China. xu_kun2022@163.com.",
+          "Engineering Research Center of Reproduction and Translational Medicine of Hunan Province, Changsha, China. xu_kun2022@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical and bioanalytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Bioanal Chem"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 05:35",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42702653",
+      "40763823",
+      "40136952",
+      "37870387",
+      "41167881",
+      "41606937",
+      "42467248",
+      "42474386",
+      "42522597",
+      "39115550",
+      "42217635",
+      "36218189",
+      "42533766",
+      "41054568",
+      "42201448",
+      "36940173",
+      "40311721",
+      "39998241",
+      "37027291",
+      "39456285",
+      "38249803",
+      "40277382",
+      "38383404",
+      "40151930",
+      "41676858",
+      "42207849",
+      "41935011",
+      "40280080",
+      "42335835",
+      "42269411",
+      "37840598",
+      "34454111",
+      "36840654",
+      "41938130",
+      "41821244",
+      "32470556",
+      "38472096",
+      "41881766",
+      "35266687",
+      "39345221",
+      "42328982",
+      "42008182",
+      "42405767",
+      "34711321",
+      "34011151",
+      "42610445",
+      "38005468",
+      "38259224",
+      "41743657",
+      "39666765",
+      "41773916",
+      "40347696",
+      "40409480",
+      "36533412",
+      "42027081",
+      "42475469",
+      "36257813",
+      "39597141",
+      "39791925",
+      "40899880",
+      "38659323",
+      "38978209",
+      "42223605",
+      "38740457",
+      "42381438",
+      "38994004",
+      "37722405",
+      "40424009",
+      "37996158",
+      "41135356",
+      "33346665",
+      "42075335",
+      "42652949",
+      "38042054",
+      "40884263",
+      "42617808",
+      "41861746",
+      "35946354",
+      "41277735",
+      "42529880",
+      "37751223",
+      "41271362",
+      "40632760",
+      "40704803",
+      "37107608",
+      "41993032",
+      "38850734",
+      "40286970",
+      "33581428",
+      "41191401",
+      "39254031",
+      "36943040",
+      "41876645",
+      "33608071",
+      "39515055",
+      "42046341",
+      "39287550",
+      "41587498",
+      "40387535",
+      "41070887"
+    ],
+    "review": [
+      "42702653",
+      "40763823",
+      "40136952",
+      "37870387",
+      "41606937",
+      "42467248",
+      "39115550",
+      "42217635",
+      "36218189",
+      "42533766",
+      "42201448",
+      "36940173",
+      "40311721",
+      "39456285",
+      "38249803",
+      "41676858",
+      "42207849",
+      "40280080",
+      "42335835",
+      "34454111",
+      "36840654",
+      "41938130",
+      "41821244",
+      "39345221",
+      "42008182",
+      "42405767",
+      "34711321",
+      "42610445",
+      "38005468",
+      "38259224",
+      "41743657",
+      "40409480",
+      "36533412",
+      "42027081",
+      "36257813",
+      "39597141",
+      "38659323",
+      "42223605",
+      "42381438",
+      "40424009",
+      "42075335",
+      "42652949",
+      "38042054",
+      "40884263",
+      "42617808",
+      "41861746",
+      "41277735",
+      "42529880",
+      "37751223",
+      "41271362",
+      "40632760",
+      "37107608",
+      "38850734",
+      "41876645",
+      "39287550",
+      "41587498",
+      "41070887"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00216-026-06786-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

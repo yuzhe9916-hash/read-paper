@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "42706176",
+    "doi": "10.3760/cma.j.cn121090-20260122-00046",
+    "title": "[Exploring the feasibility and limitations of using large language model to interpret bibliometric findings: a case study in hemophilia gene therapy]."
+  },
+  "content": {
+    "abstract": "Objective: To evaluate the feasibility and limitations of using a large language model to assist in the interpretation of bibliometric findings. Methods: This study retrieved 1599 English-language articles on hemophilia gene therapy published between 1970 and 2024 from the Web of Science Core Collection, comprising 1019 articles from the United States, 174 from China, and 172 from the United Kingdom. VOSviewer was used for keyword co-occurrence and clustering analyses of the global and country-specific datasets, whereas CiteSpace was used for keyword co-occurrence, clustering, and burst-detection analyses of the global dataset. Structured data exported from the two tools were interpreted with DeepSeek-R1-0528 to summarize research hotspots and their temporal evolution. Two domain experts independently interpreted the global data and reviewed the country-specific interpretations generated using DeepSeek. Additional literature searches on CRISPR/Cas9, stem-cell-based approaches, and in utero gene therapy were conducted to cross-validate the national research characteristics inferred by the model. Results: DeepSeek summarized global hemophilia gene therapy research into four major themes: the design and in vivo expression regulation of gene therapy vectors; Adeno-associated virus vector delivery strategies and breakthroughs in immunogenicity; the clinical translation and real-world application of gene therapy; the mechanisms of immune tolerance induction and inhibitor formation. Based on seven major CiteSpace clusters and the temporal and burst information of the keywords, DeepSeek further outlined four stages of development: early exploration of vectors and animal models, optimization of delivery and therapeutic strategies, clinical validation, and increasing attention to clinical application and patient benefits. The core research themes and overall developmental trajectory for the global dataset identified using DeepSeek were broadly consistent with expert interpretations, and the model rapidly generated well-structured summaries. However, expert calibration remained necessary for professional terminology, stage delineation, and historical milestone recognition. In country-specific datasets, DeepSeek demonstrated risks of conceptual conflation, overgeneralization of emerging research directions, and inappropriate cross-country comparisons according to within-country keyword frequencies or cluster strengths. Additional searches revealed that the relative prominence or absence of a keyword within a national dataset could not be directly interpreted as international leadership or a lack of research activity. Conclusions: Large language models can assist in interpreting global bibliometric findings and improve the efficiency of identifying research hotspots and outlining developmental trajectories; however, they cannot replace domain experts. Interpretations of emerging research directions and cross-country differences require expert review and calibration using globally comparable data obtained under a unified search strategy.",
+    "keywords": [
+      "CiteSpace",
+      "DeepSeek",
+      "Gene therapy",
+      "Hemophilia",
+      "VOSviewer"
+    ],
+    "mesh_terms": [
+      "*Hemophilia A/therapy",
+      "*Genetic Therapy",
+      "Large Language Models",
+      "*Bibliometrics",
+      "Humans"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bai, Y",
+        "Bo, H W",
+        "Xue, F",
+        "Wang, Y",
+        "Zhang, J",
+        "Song, Z"
+      ],
+      "short_names": [
+        "Bai Y",
+        "Bo HW",
+        "Xue F",
+        "Wang Y",
+        "Zhang J",
+        "Song Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China.",
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China.",
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China.",
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China.",
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China.",
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bai, Y",
+        "short_name": "Bai Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China."
+        ]
+      },
+      {
+        "full_name": "Bo, H W",
+        "short_name": "Bo HW",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China."
+        ]
+      },
+      {
+        "full_name": "Xue, F",
+        "short_name": "Xue F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Y",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, J",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China."
+        ]
+      },
+      {
+        "full_name": "Song, Z",
+        "short_name": "Song Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China Tianjin Institutes of Health Science, Tianjin 301600, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhonghua xue ye xue za zhi = Zhonghua xueyexue zazhi"
+    ],
+    "journal_abbrev": [
+      "Zhonghua Xue Ye Xue Za Zhi"
+    ],
+    "pub_date": "2026 Jul 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 23:34",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42706176",
+      "36321557",
+      "42616302",
+      "41188895",
+      "42475469",
+      "42474613",
+      "42296533",
+      "41285304",
+      "40580617",
+      "41813192",
+      "42446135",
+      "42583211",
+      "42671666",
+      "42088537",
+      "42293211",
+      "40819059",
+      "41417986",
+      "42474856",
+      "42474606",
+      "42220509",
+      "42185582",
+      "41481873",
+      "42512712",
+      "42566083",
+      "42470053",
+      "33314144",
+      "42018205",
+      "42593713",
+      "42657069",
+      "42422510",
+      "41266707",
+      "41112265",
+      "42496923",
+      "42625412",
+      "41770416",
+      "42474827",
+      "41964595",
+      "42027456",
+      "42583154",
+      "42067694",
+      "42219073",
+      "39811326",
+      "41143096",
+      "42591728",
+      "41284207",
+      "41217596",
+      "41511856",
+      "42158648",
+      "37899564",
+      "42132965",
+      "42223724",
+      "42474909",
+      "41667898",
+      "38296321",
+      "41036300",
+      "42292311",
+      "42503593",
+      "42220476",
+      "42663729",
+      "42616202",
+      "41347128",
+      "42182656",
+      "36224012",
+      "41098017",
+      "42663785",
+      "40797508",
+      "42566601",
+      "42071232",
+      "41540157",
+      "42260883",
+      "42321530",
+      "38145048",
+      "40201996",
+      "40984823",
+      "39264135",
+      "40825311",
+      "42470080",
+      "39299293",
+      "42392306",
+      "42512703",
+      "42358954",
+      "41897233",
+      "42575055",
+      "42324441",
+      "42690937",
+      "40530182",
+      "42568357",
+      "42473738",
+      "41465902",
+      "36761200",
+      "40139212",
+      "41323488",
+      "40983108",
+      "42558339",
+      "41603012",
+      "42684520",
+      "42684563",
+      "42534462",
+      "42643445",
+      "42381149"
+    ],
+    "review": [
+      "42706176",
+      "36321557",
+      "42296533",
+      "41813192",
+      "42446135",
+      "42671666",
+      "42088537",
+      "42293211",
+      "42474856",
+      "42220509",
+      "42512712",
+      "42566083",
+      "42593713",
+      "42657069",
+      "42422510",
+      "41112265",
+      "42027456",
+      "42067694",
+      "42219073",
+      "39811326",
+      "41143096",
+      "41217596",
+      "42132965",
+      "42223724",
+      "38296321",
+      "42292311",
+      "42220476",
+      "42663729",
+      "41347128",
+      "40797508",
+      "42071232",
+      "41540157",
+      "39299293",
+      "42392306",
+      "42358954",
+      "42575055",
+      "40530182",
+      "42568357",
+      "41323488",
+      "42684520",
+      "42534462",
+      "42643445"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.yiigle.com/LinkIn.do?linkin_type=pubmed&DOI=10.3760/cma.j.cn121090-20260122-00046",
+        "provider": "Chinese Medical Association Publishing House Ltd.",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/genesandgenetherapy.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Genes and Gene Therapy"
+      }
+    ],
+    "text_mined": []
+  }
+}

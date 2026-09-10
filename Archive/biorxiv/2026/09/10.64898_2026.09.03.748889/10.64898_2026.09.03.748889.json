@@ -1,0 +1,280 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.03.748889",
+  "title": "Cell-cycle control of chromatin creates a therapeutic window for epigenetic therapy in tumors",
+  "doi": "10.64898/2026.09.03.748889",
+  "abstract": "The relationship between cell cycle length and differentiation competence has been studied in developmental biology, particularly in embryonic stem cells, which show a very short G1 phase required to maintain pluripotency. How and whether this principle operates in cancer— where the cell cycle is deregulated and G1 is frequently shortened — and whether it can be pharmacologically exploited for therapy, has not been explored. Here we show that the duration of G1 is a causal determinant of chromatin state in cancer cells and that extending G1 creates a therapeutic window for epigenetic drugs. Using acute myeloid leukemia (AML) as a model, we demonstrate that low-dose palbociclib — at concentrations well below those required for cytostatic arrest — extends G1 without halting proliferation. This modest prolongation reshapes the histone modification landscape: repressive marks (H3K9me2/3, H4K20me2/3) increase while acetylation decreases, and chromatin accessibility rises broadly in the euchromatic compartment. Naturally slow-cycling AML lines share this epigenetic signature regardless of their oncogenic driver mutations, and pharmacologically extending G1 in fast-cycling cells recapitulates it — establishing G1 length as a causal regulator of the cancer epigenome rather than a passive correlate. To identify epigenetic vulnerabilities created by G1 extension, we performed complementary drug and CRISPR-Cas9 screens in G1-extended AML cells. Both approaches converged on the histone demethylase LSD1 (KDM1A): slow-cycling AML cells are intrinsically sensitive to LSD1 inhibition, while fast-cycling cells become sensitive when G1 is prolonged. The combination of low-dose palbociclib and LSD1 inhibition triggers differentiation and significantly prolongs survival in AML xenograft models. p21 (CDKN1A) emerges as the central molecular determinant of this response. In slow-cycling AML cells, p21 is highly expressed and its knockdown abolishes LSD1 inhibitor sensitivity. Structure-function analysis using p21 mutants separates the two known activities of p21: the CDK-inhibitory function (which extends G1) is required for sensitization, whereas the PCNA-binding function is dispensable. Three pharmacological routes converge on the same endpoint — CDK inhibition, G1 extension, and a differentiation-competent chromatin state: direct CDK4/6 inhibition by palbociclib, p21 overexpression, and p21 induction through treatment with HDAC or EZH1/2 inhibitors. Palbociclib bypasses the requirement for p21 entirely, confirming that G1 length itself — not p21 as a protein — is the critical variable. Mechanistically, the combination of G1 extension and LSD1 inhibition yield a qualitatively distinct chromatin state rather than an additive one. ATAC-seq reveals thousands of combination-exclusive accessible regions, enriched for footprints of myeloid differentiation transcription factors including SPI1/PU.1, IRF1, and STAT1/2. A double-lock principle governs this remodeling: palbociclib drives the removal of repressive marks (H3K9me3 and H3K27me3), while LSD1 inhibition installs active marks at the newly accessible regions. The ncBAF chromatin remodeling complex, identified in our CRISPR screen and validated by knockout of its essential subunits BRD9 and SMARCD1, is specifically required for this response. Loss of ncBAF abolishes the combination-induced chromatin remodeling and differentiation program but does not affect the initial G1 extension or retinoic acid–induced differentiation, indicating that ncBAF specifically couples cell-cycle modulation to chromatin remodeling rather than acting as a general differentiation factor. The principle generalizes beyond AML. In melanoma, breast cancer, and small-cell lung cancer (SCLC), sensitivity to LSD1 inhibition tracks with p21 expression and cycling speed. Primary melanoma samples stratified by p21 expression recapitulate the same pattern: p21-high, slow-cycling cells are sensitive; p21-low, fast-cycling cells are resistant but can be sensitized by palbociclib cotreatment. Cisplatin-induced drug-tolerant persister (DTP) cells — which emerge as a slow-cycling, chemo-resistant population and upregulate both p21 and LSD1 — become vulnerable to LSD1 inhibition and are eradicated by the combination. In melanoma patient-derived xenograft (PDX) models, p21-high tumors respond to LSD1 inhibitor monotherapy, while p21-low tumors are sensitized by palbociclib cotreatment, with p21 knockdown abolishing the response. Together, these findings establish cell-cycle duration as a tunable regulator of the cancer epigenome and demonstrate that pharmacological G1 extension converts cytostatic CDK4/6 inhibition into an epigenetic sensitization strategy. Both fast-proliferating and slow-cycling tumor compartments — including drug-resistant persister cells — can be targeted by matching the epigenomic state to the appropriate combination of cell-cycle modulators and epigenetic drugs. p21 emerges as a candidate biomarker for patient stratification. More broadly, our work repositions the cell cycle from a passive conduit for proliferation signals to an active, druggable regulator of chromatin fate, with implications that extend from cancer therapy to stem cell biology and regenerative medicine.",
+  "authors": [
+    "Hayatigolkhatmi K",
+    "Valzelli R",
+    "Ceccacci E",
+    "Hosseini A",
+    "El Menna O",
+    "Romanenghi M",
+    "Pallavicini I",
+    "Soda E",
+    "Ejlli O",
+    "Villa E",
+    "Falvo P",
+    "Vizan P",
+    "Blanco E",
+    "Aranda S",
+    "Barkhordar R",
+    "Soriani C",
+    "Ronzoni S",
+    "Giardina G",
+    "Rodighiero S",
+    "Bertolini F",
+    "Mai A",
+    "Polletti S",
+    "Lanfrancone L",
+    "Noberini R",
+    "Leuzzi G",
+    "Pelicci PG",
+    "Bonaldi T",
+    "Croce LD",
+    "Minucci S"
+  ],
+  "published_date": "2026-09-06",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.03.748889",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.03.748889.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"dna repair\" OR \"CRISPR\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1313145",
+    "raw_record": {
+      "id": "PPR1313145",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.03.748889",
+      "title": "Cell-cycle control of chromatin creates a therapeutic window for epigenetic therapy in tumors",
+      "authorString": "Hayatigolkhatmi K, Valzelli R, Ceccacci E, Hosseini A, El Menna O, Romanenghi M, Pallavicini I, Soda E, Ejlli O, Villa E, Falvo P, Vizan P, Blanco E, Aranda S, Barkhordar R, Soriani C, Ronzoni S, Giardina G, Rodighiero S, Bertolini F, Mai A, Polletti S, Lanfrancone L, Noberini R, Leuzzi G, Pelicci PG, Bonaldi T, Croce LD, Minucci S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hayatigolkhatmi K",
+            "firstName": "Kourosh",
+            "lastName": "Hayatigolkhatmi",
+            "initials": "K"
+          },
+          {
+            "fullName": "Valzelli R",
+            "firstName": "Riccardo",
+            "lastName": "Valzelli",
+            "initials": "R"
+          },
+          {
+            "fullName": "Ceccacci E",
+            "firstName": "Elena",
+            "lastName": "Ceccacci",
+            "initials": "E"
+          },
+          {
+            "fullName": "Hosseini A",
+            "firstName": "Amir",
+            "lastName": "Hosseini",
+            "initials": "A"
+          },
+          {
+            "fullName": "El Menna O",
+            "firstName": "Oualid",
+            "lastName": "El Menna",
+            "initials": "O"
+          },
+          {
+            "fullName": "Romanenghi M",
+            "firstName": "Mauro",
+            "lastName": "Romanenghi",
+            "initials": "M"
+          },
+          {
+            "fullName": "Pallavicini I",
+            "firstName": "Isabella",
+            "lastName": "Pallavicini",
+            "initials": "I"
+          },
+          {
+            "fullName": "Soda E",
+            "firstName": "Emanuel",
+            "lastName": "Soda",
+            "initials": "E"
+          },
+          {
+            "fullName": "Ejlli O",
+            "firstName": "Ornella",
+            "lastName": "Ejlli",
+            "initials": "O"
+          },
+          {
+            "fullName": "Villa E",
+            "firstName": "Emanuela",
+            "lastName": "Villa",
+            "initials": "E"
+          },
+          {
+            "fullName": "Falvo P",
+            "firstName": "Paolo",
+            "lastName": "Falvo",
+            "initials": "P"
+          },
+          {
+            "fullName": "Vizan P",
+            "firstName": "Pedro",
+            "lastName": "Vizan",
+            "initials": "P"
+          },
+          {
+            "fullName": "Blanco E",
+            "firstName": "Enrique",
+            "lastName": "Blanco",
+            "initials": "E"
+          },
+          {
+            "fullName": "Aranda S",
+            "firstName": "Sergi",
+            "lastName": "Aranda",
+            "initials": "S"
+          },
+          {
+            "fullName": "Barkhordar R",
+            "firstName": "Roxana",
+            "lastName": "Barkhordar",
+            "initials": "R"
+          },
+          {
+            "fullName": "Soriani C",
+            "firstName": "Chiara",
+            "lastName": "Soriani",
+            "initials": "C"
+          },
+          {
+            "fullName": "Ronzoni S",
+            "firstName": "Simona",
+            "lastName": "Ronzoni",
+            "initials": "S"
+          },
+          {
+            "fullName": "Giardina G",
+            "firstName": "Giuseppina",
+            "lastName": "Giardina",
+            "initials": "G"
+          },
+          {
+            "fullName": "Rodighiero S",
+            "firstName": "Simona",
+            "lastName": "Rodighiero",
+            "initials": "S"
+          },
+          {
+            "fullName": "Bertolini F",
+            "firstName": "Francesco",
+            "lastName": "Bertolini",
+            "initials": "F"
+          },
+          {
+            "fullName": "Mai A",
+            "firstName": "Antonello",
+            "lastName": "Mai",
+            "initials": "A"
+          },
+          {
+            "fullName": "Polletti S",
+            "firstName": "Sara",
+            "lastName": "Polletti",
+            "initials": "S"
+          },
+          {
+            "fullName": "Lanfrancone L",
+            "firstName": "Luisa",
+            "lastName": "Lanfrancone",
+            "initials": "L"
+          },
+          {
+            "fullName": "Noberini R",
+            "firstName": "Roberta",
+            "lastName": "Noberini",
+            "initials": "R"
+          },
+          {
+            "fullName": "Leuzzi G",
+            "firstName": "Giuseppe",
+            "lastName": "Leuzzi",
+            "initials": "G"
+          },
+          {
+            "fullName": "Pelicci PG",
+            "firstName": "Pier Giuseppe",
+            "lastName": "Pelicci",
+            "initials": "PG"
+          },
+          {
+            "fullName": "Bonaldi T",
+            "firstName": "Tiziana",
+            "lastName": "Bonaldi",
+            "initials": "T"
+          },
+          {
+            "fullName": "Croce LD",
+            "firstName": "Luciano Di",
+            "lastName": "Croce",
+            "initials": "LD"
+          },
+          {
+            "fullName": "Minucci S",
+            "firstName": "Saverio",
+            "lastName": "Minucci",
+            "initials": "S"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The relationship between cell cycle length and differentiation competence has been studied in developmental biology, particularly in embryonic stem cells, which show a very short G1 phase required to maintain pluripotency. How and whether this principle operates in cancer— where the cell cycle is deregulated and G1 is frequently shortened — and whether it can be pharmacologically exploited for therapy, has not been explored. Here we show that the duration of G1 is a causal determinant of chromatin state in cancer cells and that extending G1 creates a therapeutic window for epigenetic drugs. Using acute myeloid leukemia (AML) as a model, we demonstrate that low-dose palbociclib — at concentrations well below those required for cytostatic arrest — extends G1 without halting proliferation. This modest prolongation reshapes the histone modification landscape: repressive marks (H3K9me2/3, H4K20me2/3) increase while acetylation decreases, and chromatin accessibility rises broadly in the euchromatic compartment. Naturally slow-cycling AML lines share this epigenetic signature regardless of their oncogenic driver mutations, and pharmacologically extending G1 in fast-cycling cells recapitulates it — establishing G1 length as a causal regulator of the cancer epigenome rather than a passive correlate. To identify epigenetic vulnerabilities created by G1 extension, we performed complementary drug and CRISPR-Cas9 screens in G1-extended AML cells. Both approaches converged on the histone demethylase LSD1 (KDM1A): slow-cycling AML cells are intrinsically sensitive to LSD1 inhibition, while fast-cycling cells become sensitive when G1 is prolonged. The combination of low-dose palbociclib and LSD1 inhibition triggers differentiation and significantly prolongs survival in AML xenograft models. p21 (CDKN1A) emerges as the central molecular determinant of this response. In slow-cycling AML cells, p21 is highly expressed and its knockdown abolishes LSD1 inhibitor sensitivity. Structure-function analysis using p21 mutants separates the two known activities of p21: the CDK-inhibitory function (which extends G1) is required for sensitization, whereas the PCNA-binding function is dispensable. Three pharmacological routes converge on the same endpoint — CDK inhibition, G1 extension, and a differentiation-competent chromatin state: direct CDK4/6 inhibition by palbociclib, p21 overexpression, and p21 induction through treatment with HDAC or EZH1/2 inhibitors. Palbociclib bypasses the requirement for p21 entirely, confirming that G1 length itself — not p21 as a protein — is the critical variable. Mechanistically, the combination of G1 extension and LSD1 inhibition yield a qualitatively distinct chromatin state rather than an additive one. ATAC-seq reveals thousands of combination-exclusive accessible regions, enriched for footprints of myeloid differentiation transcription factors including SPI1/PU.1, IRF1, and STAT1/2. A double-lock principle governs this remodeling: palbociclib drives the removal of repressive marks (H3K9me3 and H3K27me3), while LSD1 inhibition installs active marks at the newly accessible regions. The ncBAF chromatin remodeling complex, identified in our CRISPR screen and validated by knockout of its essential subunits BRD9 and SMARCD1, is specifically required for this response. Loss of ncBAF abolishes the combination-induced chromatin remodeling and differentiation program but does not affect the initial G1 extension or retinoic acid–induced differentiation, indicating that ncBAF specifically couples cell-cycle modulation to chromatin remodeling rather than acting as a general differentiation factor. The principle generalizes beyond AML. In melanoma, breast cancer, and small-cell lung cancer (SCLC), sensitivity to LSD1 inhibition tracks with p21 expression and cycling speed. Primary melanoma samples stratified by p21 expression recapitulate the same pattern: p21-high, slow-cycling cells are sensitive; p21-low, fast-cycling cells are resistant but can be sensitized by palbociclib cotreatment. Cisplatin-induced drug-tolerant persister (DTP) cells — which emerge as a slow-cycling, chemo-resistant population and upregulate both p21 and LSD1 — become vulnerable to LSD1 inhibition and are eradicated by the combination. In melanoma patient-derived xenograft (PDX) models, p21-high tumors respond to LSD1 inhibitor monotherapy, while p21-low tumors are sensitized by palbociclib cotreatment, with p21 knockdown abolishing the response. Together, these findings establish cell-cycle duration as a tunable regulator of the cancer epigenome and demonstrate that pharmacological G1 extension converts cytostatic CDK4/6 inhibition into an epigenetic sensitization strategy. Both fast-proliferating and slow-cycling tumor compartments — including drug-resistant persister cells — can be targeted by matching the epigenomic state to the appropriate combination of cell-cycle modulators and epigenetic drugs. p21 emerges as a candidate biomarker for patient stratification. More broadly, our work repositions the cell cycle from a passive conduit for proliferation signals to an active, druggable regulator of chromatin fate, with implications that extend from cancer therapy to stem cell biology and regenerative medicine.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.03.748889"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-07",
+      "firstIndexDate": "2026-09-07",
+      "firstPublicationDate": "2026-09-06"
+    }
+  }
+}

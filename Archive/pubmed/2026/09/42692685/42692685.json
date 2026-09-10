@@ -1,0 +1,302 @@
+{
+  "identity": {
+    "pmid": "42692685",
+    "doi": "10.1016/j.foodres.2026.120273",
+    "title": "Single-cell transcriptomics reveals heterogeneous stress responses and Mg(2+)-mediated survival mechanisms in Lactobacillus delbrueckii subsp. bulgaricus during freeze-drying and storage."
+  },
+  "content": {
+    "abstract": "Maintaining the viability of lactic acid bacteria during dehydration and subsequent storage remains a significant challenge. Here, we employed single-cell RNA sequencing to reveal the heterogeneous stress responses of Lactobacillus delbrueckii subsp. bulgaricus, identifying seven distinct transcriptional clusters across the liquid culture, freeze-drying, and storage phases. The dominant clusters in the freeze-drying and storage were not completely consistent, showing significant functional differentiation. Genomic stability may be important for survival during freeze-drying and storage, while intracellular energy homeostasis appears important for viability during storage. The magnesium transporter mgtB was highly expressed in clusters tolerant to freeze-drying and storage, suggesting a critical role for Mg(2+) homeostasis. Further experimental validation confirmed that Mg(2+) treatment significantly bolstered stress resistance, increasing immediate post-freeze-drying survival by over 2-fold (up to 92.90%) and post-storage survival by over 5-fold (up to 5.98%). Proteomic data indicated that Mg(2+) supplementation correlated with the maintenance of several biological functions potentially relevant to bacterial survival during freeze-drying and storage, including DNA repair, translation, and central carbon metabolism. These findings provide a map of microbial stress resistance through population heterogeneity and offer a potential strategy that may be adapted for enhancing the stability of other industrial lactic acid bacteria products.",
+    "keywords": [
+      "Freeze-drying",
+      "Heterogeneous stress responses",
+      "Single-cell RNA sequencing"
+    ],
+    "mesh_terms": [
+      "Freeze Drying",
+      "*Lactobacillus delbrueckii/genetics/metabolism/physiology",
+      "*Magnesium/metabolism",
+      "*Stress, Physiological/genetics",
+      "Single-Cell Analysis",
+      "*Transcriptome",
+      "*Microbial Viability",
+      "Single-Cell Gene Expression Analysis",
+      "Gene Expression Regulation, Bacterial"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Liang",
+        "Ren, Jing",
+        "Li, Zhongxia",
+        "Hao, Xinyue",
+        "Di, Can",
+        "Fu, Zixin",
+        "Li, Liang",
+        "Ze, Xiaolei",
+        "He, Ruikun",
+        "Zhang, Lanwei",
+        "Gong, Pimin"
+      ],
+      "short_names": [
+        "Liu L",
+        "Ren J",
+        "Li Z",
+        "Hao X",
+        "Di C",
+        "Fu Z",
+        "Li L",
+        "Ze X",
+        "He R",
+        "Zhang L",
+        "Gong P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China.",
+        "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China.",
+        "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China.",
+        "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China.",
+        "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China.",
+        "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China.",
+        "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China.",
+        "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China.",
+        "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China.",
+        "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China.",
+        "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China; School of Food Science and Biotechnology, Zhejiang Gongshang University, Hangzhou, 310018, China. Electronic address: gongpimin@ouc.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Liang",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Jing",
+        "short_name": "Ren J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhongxia",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Xinyue",
+        "short_name": "Hao X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China."
+        ]
+      },
+      {
+        "full_name": "Di, Can",
+        "short_name": "Di C",
+        "identifiers": [],
+        "affiliations": [
+          "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Zixin",
+        "short_name": "Fu Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Liang",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China."
+        ]
+      },
+      {
+        "full_name": "Ze, Xiaolei",
+        "short_name": "Ze X",
+        "identifiers": [],
+        "affiliations": [
+          "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China."
+        ]
+      },
+      {
+        "full_name": "He, Ruikun",
+        "short_name": "He R",
+        "identifiers": [],
+        "affiliations": [
+          "BYHEALTH Institute of Nutrition & Health, No. 916 Huangpu Avenue East, Huangpu District, Guangzhou 510700, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lanwei",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Pimin",
+        "short_name": "Gong P",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Ocean University of China, Qingdao, 266000, China; School of Food Science and Biotechnology, Zhejiang Gongshang University, Hangzhou, 310018, China. Electronic address: gongpimin@ouc.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-10 11:57:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42692685",
+      "38837050",
+      "29241319",
+      "31108781",
+      "36639125",
+      "17718840",
+      "41286623",
+      "24393172",
+      "26675359",
+      "26691481",
+      "30599986",
+      "18045426",
+      "16244855",
+      "14763849",
+      "23181077",
+      "21272570",
+      "17985843",
+      "34643412",
+      "40936029",
+      "23872557",
+      "17434219",
+      "23587387",
+      "36832862",
+      "38242412",
+      "38839237",
+      "31882105",
+      "30022229",
+      "34387638",
+      "28068009",
+      "38988367",
+      "22266474",
+      "18057973",
+      "34772389",
+      "40159693",
+      "29195879",
+      "25773973",
+      "17021195",
+      "27796440",
+      "22410267",
+      "25428024",
+      "40719898",
+      "38157004",
+      "24661271",
+      "42475469",
+      "39003859",
+      "40428596",
+      "21264216",
+      "40484524",
+      "18498349",
+      "12369188",
+      "31931839",
+      "42279623",
+      "24131507",
+      "28375570",
+      "34904273",
+      "40650681",
+      "36981134",
+      "25048227",
+      "19735322",
+      "34365708",
+      "36192613",
+      "40389488",
+      "41956642",
+      "15715882",
+      "29851297",
+      "17024845",
+      "27107115",
+      "36085589",
+      "35962856",
+      "35393671",
+      "33091996",
+      "36677339",
+      "17537423",
+      "41703885",
+      "27244082",
+      "32852726",
+      "27771082",
+      "41274082",
+      "21723344",
+      "21978656",
+      "25823709",
+      "41821971",
+      "35021737",
+      "16756971",
+      "20822567",
+      "32200250",
+      "19302330",
+      "20141947",
+      "33942158",
+      "41185348",
+      "35690436",
+      "18248378",
+      "22986815",
+      "23330741",
+      "18303633",
+      "32447159",
+      "28446905",
+      "35136369",
+      "18323678",
+      "28951887"
+    ],
+    "review": [
+      "42692685",
+      "12369188"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)01960-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

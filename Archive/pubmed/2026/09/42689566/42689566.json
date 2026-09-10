@@ -1,0 +1,274 @@
+{
+  "identity": {
+    "pmid": "42689566",
+    "doi": "10.1021/acs.analchem.6c05179",
+    "title": "Phosphorothioate-Enabled Cas12a Autocatalytic Network for Amplification-Free Ultrasensitive Nucleic Acid Detection."
+  },
+  "content": {
+    "abstract": "Autocatalytic CRISPR/Cas systems offer a promising route toward amplification-free nucleic acid detection, yet their performance is limited by indiscriminate transcleavage of ssDNA activators and the reliance on structurally complex, thermodynamically unstable DNA architectures. A phosphorothioate (PS)-enabled Cas12a autocatalytic network (SCAN) is presented to address these challenges by leveraging the unique compatibility of F. novicida Cas12a (FnCas12a) with fully PS-modified ssDNA activators. An ssDNA mediator is engineered with fully PS-modified activator domains flanking a cleavable, unmodified spacer. The intact mediator remains sterically inactive toward Cas12a ribonucleoproteins, whereas trace-target-induced cleavage liberates split activators that trigger a self-propagating amplification network. The SCAN platform achieves ultrasensitive detection with limits of detection of 889 aM and 341 aM for ssDNA and dsDNA targets, respectively. The platform further enables amplification-free detection of Salmonella enterica and Escherichia coli in real samples, with detection limits of 30 and 20 CFU/mL, respectively. This work establishes fully PS-modified ssDNA as a robust and generalizable design element for CRISPR-based autocatalytic systems, providing a simple, flexible, and efficient strategy to enhance stability, suppress background, and improve analytical performance.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CRISPR-Associated Proteins/metabolism/chemistry",
+      "*DNA, Single-Stranded/chemistry/analysis",
+      "CRISPR-Cas Systems",
+      "*Endodeoxyribonucleases/metabolism/chemistry",
+      "*Bacterial Proteins/metabolism/chemistry",
+      "*DNA/analysis",
+      "Limit of Detection",
+      "*Phosphorothioate Oligonucleotides/chemistry",
+      "*Phosphates/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Runze",
+        "Wen, Zaiwei",
+        "Zhao, Yong",
+        "Cheng, Lu",
+        "Liu, Chenyang",
+        "Bian, Shanshan",
+        "Xu, Lijun",
+        "Pei, Renjun"
+      ],
+      "short_names": [
+        "Zhang R",
+        "Wen Z",
+        "Zhao Y",
+        "Cheng L",
+        "Liu C",
+        "Bian S",
+        "Xu L",
+        "Pei R"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-4229-8931",
+        "ORCID: 0000-0002-7256-6324",
+        "ORCID: 0000-0002-9353-3935"
+      ],
+      "affiliations": [
+        "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China.",
+        "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China.",
+        "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China.",
+        "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China.",
+        "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China.",
+        "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China.",
+        "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China.",
+        "CAS Key Laboratory of Nano-Bio Interface, Suzhou Institute of Nano-Tech and Nano-Bionics, Chinese Academy of Sciences, Suzhou215123, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Runze",
+        "short_name": "Zhang R",
+        "identifiers": [
+          "0009-0000-4229-8931"
+        ],
+        "affiliations": [
+          "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Zaiwei",
+        "short_name": "Wen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yong",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Lu",
+        "short_name": "Cheng L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chenyang",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China."
+        ]
+      },
+      {
+        "full_name": "Bian, Shanshan",
+        "short_name": "Bian S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Lijun",
+        "short_name": "Xu L",
+        "identifiers": [
+          "0000-0002-7256-6324"
+        ],
+        "affiliations": [
+          "Institute for Chemical Biology & Biosensing, College of Life Sciences, Qingdao University, Qingdao266071, China."
+        ]
+      },
+      {
+        "full_name": "Pei, Renjun",
+        "short_name": "Pei R",
+        "identifiers": [
+          "0000-0002-9353-3935"
+        ],
+        "affiliations": [
+          "CAS Key Laboratory of Nano-Bio Interface, Suzhou Institute of Nano-Tech and Nano-Bionics, Chinese Academy of Sciences, Suzhou215123, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689566",
+      "38772660",
+      "32999292",
+      "38652001",
+      "40745870",
+      "42441514",
+      "42485704",
+      "42648078",
+      "36214815",
+      "42689595",
+      "34928030",
+      "40711424",
+      "41191401",
+      "37027291",
+      "42550282",
+      "40886669",
+      "41693124",
+      "40261268",
+      "39831800",
+      "41287270",
+      "41773018",
+      "41800529",
+      "40939440",
+      "42503780",
+      "40610153",
+      "29449511",
+      "41257956",
+      "40435758",
+      "42138212",
+      "42571623",
+      "39283984",
+      "40719616",
+      "39788669",
+      "41990423",
+      "41552883",
+      "42674033",
+      "41652143",
+      "32809800",
+      "41217936",
+      "40152782",
+      "41533584",
+      "41252908",
+      "42330669",
+      "40924964",
+      "41576437",
+      "31403279",
+      "40263707",
+      "39693940",
+      "41614690",
+      "40557869",
+      "40331901",
+      "41039127",
+      "41671823",
+      "37650631",
+      "40980924",
+      "40203601",
+      "40393239",
+      "40286970",
+      "40499611",
+      "41230612",
+      "33159392",
+      "39676682",
+      "40544550",
+      "41505087",
+      "41261856",
+      "42549575",
+      "40157150",
+      "39067412",
+      "42330666",
+      "42390428",
+      "40059372",
+      "41261109",
+      "38866727",
+      "39603211",
+      "40921108",
+      "39643309",
+      "41747377",
+      "40930528",
+      "41361988",
+      "41913088",
+      "40749504",
+      "42160542",
+      "40020637",
+      "39673958",
+      "41892062",
+      "42391661",
+      "41395656",
+      "39588774",
+      "40222509",
+      "38864271",
+      "40877023",
+      "39800499",
+      "42648813",
+      "39163781",
+      "38740457",
+      "40593618",
+      "41330674",
+      "31460749",
+      "41239088",
+      "38477342"
+    ],
+    "review": [
+      "42689566"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c05179",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

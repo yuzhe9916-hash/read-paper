@@ -1,0 +1,352 @@
+{
+  "identity": {
+    "pmid": "42686754",
+    "doi": "10.1038/s41467-026-76374-x",
+    "title": "Surfaceome CRISPR activation screening uncovers ligands regulating tumor sensitivity to NK cell killing."
+  },
+  "content": {
+    "abstract": "Natural killer (NK) cell-based immunotherapies are promising for cancer treatment due to their ability to eliminate cancer cells independently of antigen presentation and \"off-the-shelf\" utility. However, molecular determinants governing tumor susceptibility to NK cytotoxicity remain incompletely understood. Here we employ CRISPR activation (CRISPRa) screening to identify cancer cell surface regulators of NK killing. Using a surfaceome-focused library, we screen human and murine cancer cell lines co-cultured with NK cells, identifying known and novel ligands modulating NK cytotoxicity. Screens reveal established factors including CD43 and previously uncharacterized regulators CD44, PDPN, and Siglec-1/CD169. Validation with orthogonal approaches confirm that disruption of these factors alters NK killing susceptibility in vitro and in humanized mouse models. Mechanistically, we find that CD43-mediated NK resistance operates independently of its proposed interaction with Siglec-7, and that targeting CD43 on NK cells or CAR T cells substantially enhances cytotoxic activity against leukemia. These results establish gain-of-function surfaceome screening as a powerful tool for identifying therapeutic targets for NK cell-based immunotherapy.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Killer Cells, Natural/immunology/metabolism",
+      "Humans",
+      "Animals",
+      "Mice",
+      "Ligands",
+      "Cell Line, Tumor",
+      "*Cytotoxicity, Immunologic",
+      "CRISPR-Cas Systems",
+      "Leukosialin/metabolism/genetics/immunology",
+      "Hyaluronan Receptors/genetics/metabolism/immunology",
+      "Sialic Acid Binding Immunoglobulin-like Lectins/metabolism/genetics/immunology",
+      "Female",
+      "Immunotherapy/methods",
+      "Coculture Techniques"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dinesh, Ravi K",
+        "Wang, Xiaotong",
+        "Mohammad, Imran A",
+        "Gunasekaran, Pari",
+        "Stiklioraitis, Kostas",
+        "Villafuerte, Jeremy R",
+        "Rao, Anirudh",
+        "Hernandez-Lopez, Rogelio A",
+        "Sunwoo, John B",
+        "Cong, Le"
+      ],
+      "short_names": [
+        "Dinesh RK",
+        "Wang X",
+        "Mohammad IA",
+        "Gunasekaran P",
+        "Stiklioraitis K",
+        "Villafuerte JR",
+        "Rao A",
+        "Hernandez-Lopez RA",
+        "Sunwoo JB",
+        "Cong L"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0227-2897",
+        "ORCID: 0000-0003-2288-2887",
+        "ORCID: 0000-0003-4229-1793",
+        "ORCID: 0009-0001-0801-2183",
+        "ORCID: 0000-0003-3968-4908",
+        "ORCID: 0000-0002-8393-4196",
+        "ORCID: 0000-0003-4725-8714"
+      ],
+      "affiliations": [
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA. rdinesh@stanford.edu.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Otolaryngology-Head and Neck Surgery, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Bioengineering, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Bioengineering, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA.",
+        "Parker Institute for Cancer Immunotherapy, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Otolaryngology-Head and Neck Surgery, Stanford University School of Medicine, Stanford, CA, USA. sunwoo@stanford.edu.",
+        "Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA, USA. sunwoo@stanford.edu.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA. congle@stanford.edu.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA. congle@stanford.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dinesh, Ravi K",
+        "short_name": "Dinesh RK",
+        "identifiers": [
+          "0000-0003-0227-2897"
+        ],
+        "affiliations": [
+          "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA. rdinesh@stanford.edu."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaotong",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Mohammad, Imran A",
+        "short_name": "Mohammad IA",
+        "identifiers": [
+          "0000-0003-2288-2887"
+        ],
+        "affiliations": [
+          "Department of Otolaryngology-Head and Neck Surgery, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Gunasekaran, Pari",
+        "short_name": "Gunasekaran P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Stiklioraitis, Kostas",
+        "short_name": "Stiklioraitis K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Villafuerte, Jeremy R",
+        "short_name": "Villafuerte JR",
+        "identifiers": [
+          "0000-0003-4229-1793"
+        ],
+        "affiliations": [
+          "Department of Bioengineering, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Rao, Anirudh",
+        "short_name": "Rao A",
+        "identifiers": [
+          "0009-0001-0801-2183"
+        ],
+        "affiliations": [
+          "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Hernandez-Lopez, Rogelio A",
+        "short_name": "Hernandez-Lopez RA",
+        "identifiers": [
+          "0000-0003-3968-4908"
+        ],
+        "affiliations": [
+          "Department of Bioengineering, Stanford University School of Medicine, Stanford, CA, USA.",
+          "Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA, USA.",
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA.",
+          "Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA.",
+          "Parker Institute for Cancer Immunotherapy, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sunwoo, John B",
+        "short_name": "Sunwoo JB",
+        "identifiers": [
+          "0000-0002-8393-4196"
+        ],
+        "affiliations": [
+          "Department of Otolaryngology-Head and Neck Surgery, Stanford University School of Medicine, Stanford, CA, USA. sunwoo@stanford.edu.",
+          "Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA, USA. sunwoo@stanford.edu."
+        ]
+      },
+      {
+        "full_name": "Cong, Le",
+        "short_name": "Cong L",
+        "identifiers": [
+          "0000-0003-4725-8714"
+        ],
+        "affiliations": [
+          "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA. congle@stanford.edu.",
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA. congle@stanford.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 05:36",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42686754",
+      "41000986",
+      "31143186",
+      "40164474",
+      "41928453",
+      "39579618",
+      "29617289",
+      "41769870",
+      "33741730",
+      "30514403",
+      "24569453",
+      "40316303",
+      "33640457",
+      "31509742",
+      "38331327",
+      "33303573",
+      "34599028",
+      "37858248",
+      "41961075",
+      "29925431",
+      "34686187",
+      "42653216",
+      "28668076",
+      "38161257",
+      "26320191",
+      "40845844",
+      "38245792",
+      "40921629",
+      "19349689",
+      "30734584",
+      "42204417",
+      "34518212",
+      "32082316",
+      "34816323",
+      "39763064",
+      "27887866",
+      "42398968",
+      "35393416",
+      "41734996",
+      "38091953",
+      "34502547",
+      "36361619",
+      "42305549",
+      "26883876",
+      "41111063",
+      "34016721",
+      "33800561",
+      "33925968",
+      "41955354",
+      "42317132",
+      "30651290",
+      "32498368",
+      "34762717",
+      "33741731",
+      "41816338",
+      "40607388",
+      "41516373",
+      "33495350",
+      "31921143",
+      "41233896",
+      "23580577",
+      "40000974",
+      "30761160",
+      "41741641",
+      "19308771",
+      "23014531",
+      "40179832",
+      "35294519",
+      "24292068",
+      "35344181",
+      "42157284",
+      "41050660",
+      "34970253",
+      "41956539",
+      "33452207",
+      "15016654",
+      "27248342",
+      "38943249",
+      "40914422",
+      "36728420",
+      "38475814",
+      "34868059",
+      "42586608",
+      "31304677",
+      "39915004",
+      "9829753",
+      "40527034",
+      "41360426",
+      "15937142",
+      "39349459",
+      "41459521",
+      "11244035",
+      "40707133",
+      "31097020",
+      "20937115",
+      "41280875",
+      "39266215",
+      "35135865",
+      "22084431",
+      "32221015"
+    ],
+    "review": [
+      "42686754",
+      "31143186",
+      "42317132",
+      "34970253",
+      "27248342"
+    ],
+    "pmc": [
+      "13538616"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76374-x",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42686754/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SIGLEC7-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-668",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "identity": {
+    "pmid": "42704368",
+    "doi": "10.1084/jem.20252080",
+    "title": "TNFR1 expression on cancer cells mediates immune escape and an immunosuppressive microenvironment."
+  },
+  "content": {
+    "abstract": "TNFalpha is a proinflammatory cytokine that can mediate immunosuppressive effects in cancer. Tumors in which we silenced TNFR1 by CRISPR/Cas9 showed that TNFR1KO variants poorly engrafted in immunocompetent hosts, while engraftment in immunodeficient or CD8 T lymphocyte-depleted mice was preserved. The mechanism was mediated by secondary chemotactic inflammatory mediators elicited by TNFalpha in the malignant cells themselves. As a result, TNFR1KO variants recruited drastically fewer myeloid-derived suppressor cells (MDSCs) into the tumor microenvironment, thus explaining the immune escape of the WT variants. Interestingly, small amounts of TNFR1-sufficient tumor cells co-engrafted with the TNFR1KO variants rescued tumorigenicity in the same tumor lesion but not in distantly implanted TNFR1KO tumors. Secondary mediators chiefly include CXCR1/2-acting chemokines, prostaglandin E2 and TNFalpha itself. Knocking down TNFR1 in a human tumor cell line rendered comparable MDSC-recruiting results when xenografted. Analyses of scRNA-seq and spatial transcriptomics datasets from human solid tumors corroborate the role of TNFR1 on tumor cells in the induction of secondary pro-tumor inflammatory mediators.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Receptors, Tumor Necrosis Factor, Type I/genetics/metabolism/immunology",
+      "*Tumor Microenvironment/immunology",
+      "Humans",
+      "Mice",
+      "Tumor Necrosis Factor-alpha/metabolism",
+      "*Tumor Escape",
+      "*Neoplasms/immunology/pathology/genetics",
+      "Cell Line, Tumor",
+      "Myeloid-Derived Suppressor Cells/immunology",
+      "Mice, Knockout"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bolanos, Elixabet",
+        "Canas-Zabala, Lorena",
+        "Olivera, Irene",
+        "Ruiz Guillamon, David",
+        "Vercher, Enric",
+        "Gomis, Gabriel",
+        "de Andrea, Carlos E",
+        "Alexandru, Raluca",
+        "Azpilikueta, Arantza",
+        "Soria, Nekane",
+        "Salinas, Dayanna",
+        "Molero-Glez, Paula",
+        "Luri-Rey, Carlos",
+        "Arrieta-Aranzueque, Saioa",
+        "Manzanal, Almudena",
+        "Garcia-Dominguez, Mario",
+        "Alignani, Diego",
+        "Segui, Bruno",
+        "Molina, Angie",
+        "Teijeira, Alvaro",
+        "Berraondo, Pedro",
+        "Melero, Ignacio"
+      ],
+      "short_names": [
+        "Bolanos E",
+        "Canas-Zabala L",
+        "Olivera I",
+        "Ruiz Guillamon D",
+        "Vercher E",
+        "Gomis G",
+        "de Andrea CE",
+        "Alexandru R",
+        "Azpilikueta A",
+        "Soria N",
+        "Salinas D",
+        "Molero-Glez P",
+        "Luri-Rey C",
+        "Arrieta-Aranzueque S",
+        "Manzanal A",
+        "Garcia-Dominguez M",
+        "Alignani D",
+        "Segui B",
+        "Molina A",
+        "Teijeira A",
+        "Berraondo P",
+        "Melero I"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3780-9244",
+        "ORCID: 0009-0007-6211-6622",
+        "ORCID: 0000-0001-5594-2343",
+        "ORCID: 0009-0001-5327-4449",
+        "ORCID: 0000-0002-1594-9898",
+        "ORCID: 0000-0003-4361-3328",
+        "ORCID: 0000-0002-7628-8050",
+        "ORCID: 0009-0002-1903-5636",
+        "ORCID: 0000-0001-8511-6050",
+        "ORCID: 0009-0002-4205-6857",
+        "ORCID: 0009-0009-4396-7127",
+        "ORCID: 0009-0002-5679-8296",
+        "ORCID: 0000-0001-6476-0998",
+        "ORCID: 0009-0007-5294-1338",
+        "ORCID: 0009-0008-1860-0836",
+        "ORCID: 0000-0002-4263-7363",
+        "ORCID: 0000-0003-0241-1375",
+        "ORCID: 0000-0002-6119-1889",
+        "ORCID: 0000-0002-8572-642X",
+        "ORCID: 0000-0002-7339-4464",
+        "ORCID: 0000-0001-7410-1865",
+        "ORCID: 0000-0002-1360-348X"
+      ],
+      "affiliations": [
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Department of Pathology, Anatomy and Physiology, Clinica Universidad de Navarra, Cancer Center Clinica Universidad de Navarra (CCUN), University of Navarra, Pamplona, Spain. ROR: https://ror.org/03phm3r45",
+        "Department of Immunology and Immunotherapy, Clinica University of Navarra, Cancer Center Clinica Universidad de Navarra (CCUN), Pamplona, Spain. ROR: https://ror.org/03phm3r45",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Department of Pathology, Anatomy and Physiology, Clinica Universidad de Navarra, Cancer Center Clinica Universidad de Navarra (CCUN), University of Navarra, Pamplona, Spain. ROR: https://ror.org/03phm3r45",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Centro de Investigacion Biomedica en Red de Cancer (CIBERONC) , Madrid, Spain. ROR: https://ror.org/04hya7017",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Centro de Investigacion Biomedica en Red de Cancer (CIBERONC) , Madrid, Spain. ROR: https://ror.org/04hya7017",
+        "Unite Mixte de Recherche INSERM 1037, CNRS 5071, Universite Toulouse III-Paul Sabatier, Centre de Recherches en Cancerologie de Toulouse (CRCT) , Toulouse, France. ROR: https://ror.org/01ahyrz84",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Centro de Investigacion Biomedica en Red de Cancer (CIBERONC) , Madrid, Spain. ROR: https://ror.org/04hya7017",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Centro de Investigacion Biomedica en Red de Cancer (CIBERONC) , Madrid, Spain. ROR: https://ror.org/04hya7017",
+        "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clinica Universidad de Navarra (CCUN) , Pamplona, Spain. ROR: https://ror.org/01qew8q20",
+        "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+        "Department of Immunology and Immunotherapy, Clinica University of Navarra, Cancer Center Clinica Universidad de Navarra (CCUN), Pamplona, Spain. ROR: https://ror.org/03phm3r45",
+        "Centro de Investigacion Biomedica en Red de Cancer (CIBERONC) , Madrid, Spain. ROR: https://ror.org/04hya7017",
+        "Nuffield Department of Medicine (NDM), University of Oxford, Oxford, UK. ROR: https://ror.org/052gg0110"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bolaños, Elixabet",
+        "short_name": "Bolaños E",
+        "identifiers": [
+          "0000-0003-3780-9244"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Cañas-Zabala, Lorena",
+        "short_name": "Cañas-Zabala L",
+        "identifiers": [
+          "0009-0007-6211-6622"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Olivera, Irene",
+        "short_name": "Olivera I",
+        "identifiers": [
+          "0000-0001-5594-2343"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Ruiz Guillamón, David",
+        "short_name": "Ruiz Guillamón D",
+        "identifiers": [
+          "0009-0001-5327-4449"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Vercher, Enric",
+        "short_name": "Vercher E",
+        "identifiers": [
+          "0000-0002-1594-9898"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Gomis, Gabriel",
+        "short_name": "Gomis G",
+        "identifiers": [
+          "0000-0003-4361-3328"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "de Andrea, Carlos E",
+        "short_name": "de Andrea CE",
+        "identifiers": [
+          "0000-0002-7628-8050"
+        ],
+        "affiliations": [
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+          "Department of Pathology, Anatomy and Physiology, Clinica Universidad de Navarra, Cancer Center Clinica Universidad de Navarra (CCUN), University of Navarra, Pamplona, Spain.",
+          "Department of Immunology and Immunotherapy, Clinica University of Navarra, Cancer Center Clínica Universidad de Navarra (CCUN), Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Alexandru, Raluca",
+        "short_name": "Alexandru R",
+        "identifiers": [
+          "0009-0002-1903-5636"
+        ],
+        "affiliations": [
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+          "Department of Pathology, Anatomy and Physiology, Clinica Universidad de Navarra, Cancer Center Clinica Universidad de Navarra (CCUN), University of Navarra, Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Azpilikueta, Arantza",
+        "short_name": "Azpilikueta A",
+        "identifiers": [
+          "0000-0001-8511-6050"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Soria, Nekane",
+        "short_name": "Soria N",
+        "identifiers": [
+          "0009-0002-4205-6857"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Salinas, Dayanna",
+        "short_name": "Salinas D",
+        "identifiers": [
+          "0009-0009-4396-7127"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Molero-Glez, Paula",
+        "short_name": "Molero-Glez P",
+        "identifiers": [
+          "0009-0002-5679-8296"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Luri-Rey, Carlos",
+        "short_name": "Luri-Rey C",
+        "identifiers": [
+          "0000-0001-6476-0998"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Arrieta-Aranzueque, Saioa",
+        "short_name": "Arrieta-Aranzueque S",
+        "identifiers": [
+          "0009-0007-5294-1338"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Manzanal, Almudena",
+        "short_name": "Manzanal A",
+        "identifiers": [
+          "0009-0008-1860-0836"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Garcia-Dominguez, Mario",
+        "short_name": "Garcia-Dominguez M",
+        "identifiers": [
+          "0000-0002-4263-7363"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Centro de Investigación Biomédica en Red de Cáncer (CIBERONC) , Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Alignani, Diego",
+        "short_name": "Alignani D",
+        "identifiers": [
+          "0000-0003-0241-1375"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+          "Centro de Investigación Biomédica en Red de Cáncer (CIBERONC) , Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Ségui, Bruno",
+        "short_name": "Ségui B",
+        "identifiers": [
+          "0000-0002-6119-1889"
+        ],
+        "affiliations": [
+          "Unité Mixte de Recherche INSERM 1037, CNRS 5071, Université Toulouse III-Paul Sabatier, Centre de Recherches en Cancérologie de Toulouse (CRCT) , Toulouse, France."
+        ]
+      },
+      {
+        "full_name": "Molina, Angie",
+        "short_name": "Molina A",
+        "identifiers": [
+          "0000-0002-8572-642X"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain."
+        ]
+      },
+      {
+        "full_name": "Teijeira, Álvaro",
+        "short_name": "Teijeira Á",
+        "identifiers": [
+          "0000-0002-7339-4464"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+          "Centro de Investigación Biomédica en Red de Cáncer (CIBERONC) , Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Berraondo, Pedro",
+        "short_name": "Berraondo P",
+        "identifiers": [
+          "0000-0001-7410-1865"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+          "Centro de Investigación Biomédica en Red de Cáncer (CIBERONC) , Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Melero, Ignacio",
+        "short_name": "Melero I",
+        "identifiers": [
+          "0000-0002-1360-348X"
+        ],
+        "affiliations": [
+          "Program of Immunology and Immunotherapy, CIMA Universidad de Navarra, Cancer Center, Clínica Universidad de Navarra (CCUN) , Pamplona, Spain.",
+          "Navarra Institute for Health Research (IDISNA) , Pamplona, Spain.",
+          "Department of Immunology and Immunotherapy, Clinica University of Navarra, Cancer Center Clínica Universidad de Navarra (CCUN), Pamplona, Spain.",
+          "Centro de Investigación Biomédica en Red de Cáncer (CIBERONC) , Madrid, Spain.",
+          "Nuffield Department of Medicine (NDM), University of Oxford, Oxford, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of experimental medicine"
+    ],
+    "journal_abbrev": [
+      "J Exp Med"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 11:37",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42704368",
+      "28092866",
+      "23064360",
+      "33202705",
+      "40050048",
+      "42612021",
+      "31409640",
+      "23975421",
+      "40653839",
+      "28533357",
+      "30123776",
+      "33469683",
+      "34906138",
+      "30631042",
+      "39032414",
+      "39825997",
+      "23897411",
+      "41679176",
+      "34070449",
+      "29892300",
+      "27787613",
+      "27979472",
+      "40783744",
+      "22174368",
+      "23079185",
+      "17114246",
+      "17070836",
+      "29233887",
+      "24808361",
+      "38748775",
+      "38969205",
+      "27322081",
+      "39135889",
+      "24098720",
+      "35013108",
+      "28986261",
+      "40409102",
+      "39244897",
+      "41072779",
+      "29752311",
+      "32554751",
+      "31835202",
+      "16267827",
+      "41963079",
+      "34014424",
+      "26519756",
+      "27655678",
+      "41460024",
+      "31439615",
+      "41776053",
+      "32217758",
+      "30414862",
+      "32849585",
+      "31759325",
+      "40437756",
+      "36627143",
+      "39090759",
+      "28092673",
+      "39777898",
+      "41722836",
+      "29635843",
+      "34362833",
+      "41737212",
+      "30979375",
+      "42334497",
+      "38992847",
+      "34976216",
+      "31105691",
+      "26625143",
+      "39236460",
+      "33428904",
+      "32518979",
+      "20160664",
+      "35936010",
+      "23292149",
+      "33177110",
+      "32663198",
+      "38612760",
+      "33129844",
+      "25164013",
+      "27601624",
+      "33203700",
+      "21315783",
+      "26561336",
+      "32036608",
+      "41545307",
+      "41413734",
+      "40134427",
+      "41836430",
+      "30546369",
+      "23817426",
+      "40998135",
+      "29555782",
+      "29752314",
+      "40210238",
+      "42373967",
+      "35154134",
+      "26957562",
+      "32439799",
+      "32488308"
+    ],
+    "review": [
+      "42704368",
+      "29892300",
+      "27787613",
+      "31835202",
+      "34014424",
+      "26519756",
+      "32849585",
+      "29635843",
+      "39236460",
+      "32036608",
+      "41836430",
+      "30546369"
+    ],
+    "pmc": [
+      "13549129"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42704368/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://rupress.org/jem/article-lookup/doi/10.1084/jem.20252080",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

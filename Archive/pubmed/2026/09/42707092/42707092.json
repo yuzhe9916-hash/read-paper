@@ -1,0 +1,299 @@
+{
+  "identity": {
+    "pmid": "42707092",
+    "doi": "10.3389/fphar.2026.1884232",
+    "title": "Integrated multi-omics analysis and functional experiments reveals PPAP2C as a potential prognostic biomarker and therapeutic target in breast cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: This study aims to systematically elucidate the clinical significance and biological function of the phospholipid phosphatase (PLPP) family member (PPAP2C) phosphatidic acid phosphatase type 2C in breast cancer, and to evaluate its potential as a prognostic biomarker and therapeutic target. METHODS: Gene expression data from The Cancer Genome Atlas (TCGA), Genotype-Tissue Expression (GTEx), and Cancer Cell Line Encyclopedia (CCLE) databases were integrated to characterize the expression profile of PLPP family members, focusing on PPAP2C in breast cancer. The prognostic value of PPAP2C, initially identified at the mRNA level (TCGA, (METABRIC) Molecular Taxonomy of Breast Cancer International Consortium, Gene Expression Omnibus (GEO)), was confirmed at the protein level by immunohistochemistry (IHC) on tissue microarrays (TMA). The oncogenic functions of PPAP2C were investigated in triple-negative breast cancer (TNBC) cells through CRISPR-Cas9-mediated knockout and ectopic overexpression, with assessment of key phenotypes including proliferation, colony formation, migration, and invasion. In vivo validation was subsequently performed using an MDA-MB-231 xenograft model. RESULTS: PPAP2C exhibits the most significant overexpression pattern across 33 cancer types (upregulated in 16 cancers, downregulated in only 3). Compared with normal tissues, PPAP2C showed specific overexpression in breast cancer tissues and was significantly associated with advanced clinical stages and aggressive subtypes (HER2(+) and TNBC). Survival analysis demonstrated that high PPAP2C expression correlated with significantly shorter overall survival and disease-free survival, which was further validated in METABRIC and GEO cohorts. Tissue microarray analysis confirmed higher PPAP2C protein positivity in tumor tissues (94.7%) than in adjacent normal tissues (59.7%), with worse OS and RFS in high-expression groups. Multivariate analysis identified PPAP2C as an independent prognostic factor for OS. Functional experiments revealed that PPAP2C knockout (via 5-bp/1-bp frameshift mutations) suppressed TNBC cell proliferation, colony formation, migration, and invasion, while overexpression enhanced these phenotypes. In vivo studies further demonstrated complete tumor regression in MDA-MB-231 xenografts upon PPAP2C knockout. CONCLUSION: This study identifies PPAP2C as a key oncogenic driver and a robust independent prognostic biomarker in breast cancer. The findings provide compelling evidence that PPAP2C represents a promising therapeutic target, offering a new strategic avenue for precision therapy, particularly for aggressive breast cancer subtypes.",
+    "keywords": [
+      "PLPP2",
+      "PPAP2C",
+      "breast cancer",
+      "prognostic biomarker",
+      "therapeutic target"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Xiaoxi",
+        "Cen, Lihang",
+        "Yue, Sihui",
+        "Teng, Liangsen",
+        "Qin, Shuang",
+        "Cheng, Yipeng",
+        "Qiu, Mingyue",
+        "Lu, Yonggang",
+        "Zhang, Jie",
+        "Zuo, Shuguang"
+      ],
+      "short_names": [
+        "Lin X",
+        "Cen L",
+        "Yue S",
+        "Teng L",
+        "Qin S",
+        "Cheng Y",
+        "Qiu M",
+        "Lu Y",
+        "Zhang J",
+        "Zuo S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China.",
+        "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China.",
+        "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China.",
+        "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China.",
+        "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China.",
+        "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China.",
+        "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China.",
+        "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China.",
+        "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China.",
+        "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Xiaoxi",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Cen, Lihang",
+        "short_name": "Cen L",
+        "identifiers": [],
+        "affiliations": [
+          "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Yue, Sihui",
+        "short_name": "Yue S",
+        "identifiers": [],
+        "affiliations": [
+          "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Teng, Liangsen",
+        "short_name": "Teng L",
+        "identifiers": [],
+        "affiliations": [
+          "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Shuang",
+        "short_name": "Qin S",
+        "identifiers": [],
+        "affiliations": [
+          "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Yipeng",
+        "short_name": "Cheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Mingyue",
+        "short_name": "Qiu M",
+        "identifiers": [],
+        "affiliations": [
+          "Chifeng Municipal Hospital, Chifeng Clinical Medical School, Inner Mongolia Medical University, Chifeng, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Yonggang",
+        "short_name": "Lu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jie",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China."
+        ]
+      },
+      {
+        "full_name": "Zuo, Shuguang",
+        "short_name": "Zuo S",
+        "identifiers": [],
+        "affiliations": [
+          "Liuzhou Key Laboratory of Cancer Biotherapy, Liuzhou Municipal Liutie Central Hospital, Affiliated Liuzhou Hospital of Youjiang Medical University for Nationalities, Liuzhou, Guangxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in pharmacology"
+    ],
+    "journal_abbrev": [
+      "Front Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42707092",
+      "41836220",
+      "41351424",
+      "42400726",
+      "42344686",
+      "39181686",
+      "42305508",
+      "39747410",
+      "41451212",
+      "42006149",
+      "37393829",
+      "41299328",
+      "41716413",
+      "39737177",
+      "39834541",
+      "41272569",
+      "41551146",
+      "41307753",
+      "41872824",
+      "42486346",
+      "42595550",
+      "42463566",
+      "42129451",
+      "40462856",
+      "40519297",
+      "42699527",
+      "41009346",
+      "41298748",
+      "42032729",
+      "42530251",
+      "36768478",
+      "34754232",
+      "41319208",
+      "40995974",
+      "41971124",
+      "42180883",
+      "24642040",
+      "31632087",
+      "42321730",
+      "38495206",
+      "42565568",
+      "42135732",
+      "30233209",
+      "41003895",
+      "41556056",
+      "42164352",
+      "41123761",
+      "33569740",
+      "40474193",
+      "42365218",
+      "42436396",
+      "40898185",
+      "34991621",
+      "41918119",
+      "42690047",
+      "42403196",
+      "41209020",
+      "40542771",
+      "42244292",
+      "39936972",
+      "41063153",
+      "41875940",
+      "40099041",
+      "41727639",
+      "42326385",
+      "27998973",
+      "36452344",
+      "41817384",
+      "40460484",
+      "41497890",
+      "41436831",
+      "41364407",
+      "42593582",
+      "41333212",
+      "42089585",
+      "36478884",
+      "30618083",
+      "38172565",
+      "34621746",
+      "41049291",
+      "42039914",
+      "29566741",
+      "40557143",
+      "41993211",
+      "41507361",
+      "42056314",
+      "42511996",
+      "39742381",
+      "42641546",
+      "34879870",
+      "40993621",
+      "25687182",
+      "41566505",
+      "39100096",
+      "40799237",
+      "37275857",
+      "41278293",
+      "41815149",
+      "41884849",
+      "36568373"
+    ],
+    "review": [
+      "42707092",
+      "41319208"
+    ],
+    "pmc": [
+      "13547041"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERBB2-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-192",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fphar.2026.1884232",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

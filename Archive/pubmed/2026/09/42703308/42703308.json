@@ -1,0 +1,257 @@
+{
+  "identity": {
+    "pmid": "42703308",
+    "doi": "10.21037/jgo-2026-0535",
+    "title": "FANCI promotes esophageal squamous cell carcinoma progression and cell cycle regulation and interacts with FANCD2."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Esophageal squamous cell carcinoma (ESCC) is an aggressive malignancy with poor clinical outcomes, and reliable molecular biomarkers and therapeutic targets remain limited. Fanconi anemia group I protein (FANCI) is a core component of the Fanconi anemia (FA) pathway, but its expression pattern, clinical significance, and functional role in ESCC have not been comprehensively defined. This study aimed to investigate FANCI expression and prognostic value in ESCC, assess its effects on malignant cellular phenotypes and tumor growth, and explore its potential mechanistic relationship with Fanconi anemia group D2 protein (FANCD2) and cell-cycle regulation. METHODS: Multi-cohort analyses were performed using The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO) datasets, together with ESCC single-cell RNA sequencing (RNA-seq) data. FANCI functions were assessed by bidirectional gain- and loss-of-function experiments in vitro (proliferation, colony formation, migration, invasion, apoptosis, and cell-cycle assays) and by xenograft models in vivo. Mechanistic studies included protein-protein interaction (PPI) analyses, co-immunoprecipitation (Co-IP), and immunofluorescence (IF) colocalization. RESULTS: FANCI was consistently upregulated in ESCC across bulk transcriptomic datasets and was further supported by quantitative polymerase chain reaction (qPCR), Western blotting, and immunohistochemistry (IHC). FANCI discriminated ESCC from normal tissues in TCGA-ESCC and was independently validated in GSE53624 [area under the curve (AUC) =0.940 and 0.975, respectively]. FANCI was associated with poorer overall survival (OS) and shorter disease-free interval (DFI), and these findings were validated in an independent GEO cohort. Functionally, FANCI promoted ESCC cell proliferation, migration, and invasion, while inhibiting apoptosis; FANCI knockdown suppressed tumor growth in vivo and induced G2/M cell-cycle arrest. Mechanistically, FANCI physically interacted with FANCD2, colocalized with FANCD2 in the nucleus, and was associated with altered FANCD2 protein abundance, consistent with cell-cycle and DNA repair-related programs. Single-cell analysis indicated that FANCI was enriched in epithelial cells and associated with higher activity of malignant functional programs. In TCGA-ESCC, FANCI-high tumors showed distinct mutation profiles, a trend toward increased tumor mutation burden (TMB), and altered immune-associated signatures. CONCLUSIONS: FANCI is upregulated in ESCC and is associated with diagnostic and prognostic value. It promotes malignant phenotypes and tumor growth, potentially through a FANCI-FANCD2-linked cell-cycle/DNA repair program, supporting FANCI as a candidate biomarker and therapeutic target in ESCC.",
+    "keywords": [
+      "Esophageal squamous cell carcinoma (ESCC)",
+      "Fanconi anemia group D2 protein (FANCD2)",
+      "Fanconi anemia group I protein (FANCI)",
+      "cell cycle"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hua, Beibei",
+        "Ye, Tao",
+        "Huang, Huijie",
+        "Wang, Weiwei",
+        "Chang, Xuezhi",
+        "Wang, Ruozheng"
+      ],
+      "short_names": [
+        "Hua B",
+        "Ye T",
+        "Huang H",
+        "Wang W",
+        "Chang X",
+        "Wang R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Xinjiang Key Laboratory of Oncology, The Third Affiliated Teaching Hospital (Affiliated Cancer Hospital) of Xinjiang Medical University, Urumqi, China.",
+        "State Key Laboratory of Pathogenesis, Prevention and Treatment of High Incidence Diseases in Central Asia, Xinjiang Medical University, Urumqi, China.",
+        "State Key Laboratory of Pathogenesis, Prevention and Treatment of High Incidence Diseases in Central Asia, Xinjiang Medical University, Urumqi, China.",
+        "Department of Thoracic Surgery, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China.",
+        "Department of Radiation Oncology, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China.",
+        "Department of Pathology, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China.",
+        "Department of Radiation Oncology, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China.",
+        "Xinjiang Key Laboratory of Oncology, The Third Affiliated Teaching Hospital (Affiliated Cancer Hospital) of Xinjiang Medical University, Urumqi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hua, Beibei",
+        "short_name": "Hua B",
+        "identifiers": [],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Oncology, The Third Affiliated Teaching Hospital (Affiliated Cancer Hospital) of Xinjiang Medical University, Urumqi, China.",
+          "State Key Laboratory of Pathogenesis, Prevention and Treatment of High Incidence Diseases in Central Asia, Xinjiang Medical University, Urumqi, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Tao",
+        "short_name": "Ye T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogenesis, Prevention and Treatment of High Incidence Diseases in Central Asia, Xinjiang Medical University, Urumqi, China.",
+          "Department of Thoracic Surgery, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Huijie",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Weiwei",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Xuezhi",
+        "short_name": "Chang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, The Friendship Hospital of Ili Kazakh Autonomous Prefecture, Yining, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruozheng",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "Xinjiang Key Laboratory of Oncology, The Third Affiliated Teaching Hospital (Affiliated Cancer Hospital) of Xinjiang Medical University, Urumqi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of gastrointestinal oncology"
+    ],
+    "journal_abbrev": [
+      "J Gastrointest Oncol"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 05:35",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42703308",
+      "41229743",
+      "42306765",
+      "41351424",
+      "42703414",
+      "32906798",
+      "41716413",
+      "42287557",
+      "40496864",
+      "39181686",
+      "42030890",
+      "42143313",
+      "41613113",
+      "38682192",
+      "42182760",
+      "42344686",
+      "42486346",
+      "42216222",
+      "36380664",
+      "41234868",
+      "42333228",
+      "38436783",
+      "31331361",
+      "38954215",
+      "42435533",
+      "35608100",
+      "39672175",
+      "30514328",
+      "36197550",
+      "42434278",
+      "40854921",
+      "42305451",
+      "42588712",
+      "37644505",
+      "38418183",
+      "35317779",
+      "42510966",
+      "42400726",
+      "33350074",
+      "36514094",
+      "41039452",
+      "42518368",
+      "42580240",
+      "41741625",
+      "41449178",
+      "32863938",
+      "33932125",
+      "36991467",
+      "31981592",
+      "40612943",
+      "40752539",
+      "32216815",
+      "39891717",
+      "42353827",
+      "35705994",
+      "41505257",
+      "35362384",
+      "32021289",
+      "31324603",
+      "38418184",
+      "42021279",
+      "41006771",
+      "29532228",
+      "39702934",
+      "42438066",
+      "40860827",
+      "41214700",
+      "34544449",
+      "35703356",
+      "28314268",
+      "32167469",
+      "42671759",
+      "36872359",
+      "32867821",
+      "36257352",
+      "38837511",
+      "37796690",
+      "35355934",
+      "40740774",
+      "39234567",
+      "38463028",
+      "40102683",
+      "26956728",
+      "36051093",
+      "41074443",
+      "32518727",
+      "39722009",
+      "29059323",
+      "22753026",
+      "39618426",
+      "25613496",
+      "41250205",
+      "38104669",
+      "41703614",
+      "42591645",
+      "41655531",
+      "39696540",
+      "41556056",
+      "42392347",
+      "41872824"
+    ],
+    "review": [
+      "42703308"
+    ],
+    "pmc": [
+      "13546521"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42703308/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.21037/jgo-2026-0535",
+        "provider": "AME Publishing Company",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-3283",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

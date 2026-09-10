@@ -1,0 +1,434 @@
+{
+  "identity": {
+    "pmid": "42716012",
+    "doi": "10.1016/j.ajhg.2026.08.014",
+    "title": "Functional characterization of the 9q34.13 locus identifies RAPGEF1 as a candidate gene modulating risk for melanoma and nevi via RAS activation."
+  },
+  "content": {
+    "abstract": "Genome-wide association studies identified a melanoma- and nevus count-associated locus on chromosome band 9q34.13. Fine-mapping and melanocyte expression data collectively suggest two potential risk genes with opposite associations with risk: higher levels of Rap guanine nucleotide exchange factor 1 (RAPGEF1) and lower levels of uridine-cytidine kinase 1 (UCK1). Colocalization analyses and conditional transcriptome-wide association studies (TWASs) suggest multiple causal cis-regulatory sequence variants in partial linkage disequilibrium (LD) to each other. Melanocyte capture-HiC and CRISPR inhibition demonstrated regulatory interactions between fine-mapped variants and the RAPGEF1 and UCK1 promoters. Focusing on RAPGEF1, we demonstrate that RAPGEF1 expression promotes melanocyte growth and drives colony formation of human immortalized melanocytes. Following treatment with human epidermal growth factor (EGF), RAPGEF1 overexpression activated both RAP1 and RAS. Further, we show that RAPGEF1 expression is significantly enriched in melanomas that lack strongly activating RAS-MAPK pathway mutations, which suggests that RAPGEF1 may promote oncogenic RAS-MAPK pathway signaling in melanomas. Furthermore, in these tumors, we provide preliminary evidence to support the prognostic relevance of RAPGEF1 expression in individuals whose melanomas lack RAS or BRAF mutations. Together with other recent studies, these data suggest that germline variation influencing RAS activation may play a key role in nevus development and melanoma risk.",
+    "keywords": [
+      "GWAS",
+      "RAP",
+      "RAS",
+      "capture-HiC",
+      "melanoma"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Thakur, Rohit",
+        "Xu, Mai",
+        "Thornock, Alexandra M",
+        "Yon, Joshuah",
+        "Anyaso-Samuel, Samuel",
+        "Lauss, Martin",
+        "Rehling, Thomas",
+        "Bui-Raborn, Linh",
+        "Sowards, Hayley",
+        "Duncan, Gerard",
+        "Jessop, Lea",
+        "Myers, Timothy",
+        "Chari, Raj",
+        "Long, Erping",
+        "Funderburk, Karen",
+        "Yin, Jinhu",
+        "Hennessey, Rebecca",
+        "Hseih, Emory",
+        "Levin, Hannah",
+        "Machiela, Mitchell J",
+        "Zhang, Tongwu",
+        "Jonsson, Goran",
+        "Bishop, D Timothy",
+        "Newton-Bishop, Julia",
+        "Nsengimana, Jeremie",
+        "Iles, Mark M",
+        "Landi, Maria Teresa",
+        "Law, Matthew H",
+        "Andresson, Thorkell",
+        "Choi, Jiyeon",
+        "Zon, Leonard I",
+        "Shi, Jianxin",
+        "Brown, Kevin M"
+      ],
+      "short_names": [
+        "Thakur R",
+        "Xu M",
+        "Thornock AM",
+        "Yon J",
+        "Anyaso-Samuel S",
+        "Lauss M",
+        "Rehling T",
+        "Bui-Raborn L",
+        "Sowards H",
+        "Duncan G",
+        "Jessop L",
+        "Myers T",
+        "Chari R",
+        "Long E",
+        "Funderburk K",
+        "Yin J",
+        "Hennessey R",
+        "Hseih E",
+        "Levin H",
+        "Machiela MJ",
+        "Zhang T",
+        "Jonsson G",
+        "Bishop DT",
+        "Newton-Bishop J",
+        "Nsengimana J",
+        "Iles MM",
+        "Landi MT",
+        "Law MH",
+        "Andresson T",
+        "Choi J",
+        "Zon LI",
+        "Shi J",
+        "Brown KM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Stem Cell Program and Division of Hematology/Oncology, Boston Children's Hospital and Dana Farber Cancer Institute, Howard Hughes Medical Institute, Boston, MA, USA; Stem Cell and Regenerative Biology Department, Harvard University, Cambridge, MA, USA; Harvard Medical School, Boston, MA, USA; Biological and Biomedical Sciences Program, Harvard Medical School, Boston, MA, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Biostatistics Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Division of Oncology, Department of Clinical Sciences, Faculty of Medicine, Lund University, 22185 Lund, Sweden; Lund University Cancer Center, 22185 Lund, Sweden.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Protein Characterization Laboratory, Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, Inc., Frederick, MD, USA.",
+        "Laboratory of Genetic Susceptibility, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Genetic Susceptibility, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Genome Modification Core, Frederick National Laboratory for Cancer Research, Frederick, MD, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA; Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences, Beijing 100005, China.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA; Neuroscience Graduate Program, University of Michigan, Ann Arbor, MI, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Integrative Tumor Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Integrative Tumor Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Division of Oncology, Department of Clinical Sciences, Faculty of Medicine, Lund University, 22185 Lund, Sweden; Lund University Cancer Center, 22185 Lund, Sweden.",
+        "Leeds Institute for Data Analytics, University of Leeds, Leeds, UK.",
+        "Leeds Institute of Medical Research, School of Medicine, University of Leeds, Leeds, UK.",
+        "Population Health Sciences Institute, Faculty of Medical Sciences, Newcastle University and NIHR Biomedical Research Centre, Newcastle Upon Tyne, UK.",
+        "Leeds Institute for Data Analytics, University of Leeds, Leeds, UK; NIHR Leeds Biomedical Research Centre, Leeds Teaching Hospitals NHS Trust, Leeds, UK.",
+        "Integrative Tumor Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Population Health Department, QIMR Berghofer Medical Research Institute, Herston, QLD, Australia; School of Biomedical Sciences, Faculty of Health, Queensland University of Technology, Brisbane, QLD, Australia; School of Biomedical Sciences, University of Queensland, Brisbane, QLD, Australia.",
+        "Protein Characterization Laboratory, Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, Inc., Frederick, MD, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Stem Cell Program and Division of Hematology/Oncology, Boston Children's Hospital and Dana Farber Cancer Institute, Howard Hughes Medical Institute, Boston, MA, USA; Stem Cell and Regenerative Biology Department, Harvard University, Cambridge, MA, USA; Harvard Medical School, Boston, MA, USA.",
+        "Biostatistics Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA.",
+        "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA. Electronic address: kevin.brown3@nih.gov."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Thakur, Rohit",
+        "short_name": "Thakur R",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Mai",
+        "short_name": "Xu M",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Thornock, Alexandra M",
+        "short_name": "Thornock AM",
+        "identifiers": [],
+        "affiliations": [
+          "Stem Cell Program and Division of Hematology/Oncology, Boston Children's Hospital and Dana Farber Cancer Institute, Howard Hughes Medical Institute, Boston, MA, USA; Stem Cell and Regenerative Biology Department, Harvard University, Cambridge, MA, USA; Harvard Medical School, Boston, MA, USA; Biological and Biomedical Sciences Program, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Yon, Joshuah",
+        "short_name": "Yon J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Anyaso-Samuel, Samuel",
+        "short_name": "Anyaso-Samuel S",
+        "identifiers": [],
+        "affiliations": [
+          "Biostatistics Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Lauss, Martin",
+        "short_name": "Lauss M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Clinical Sciences, Faculty of Medicine, Lund University, 22185 Lund, Sweden; Lund University Cancer Center, 22185 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Rehling, Thomas",
+        "short_name": "Rehling T",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Bui-Raborn, Linh",
+        "short_name": "Bui-Raborn L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Sowards, Hayley",
+        "short_name": "Sowards H",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Duncan, Gerard",
+        "short_name": "Duncan G",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Characterization Laboratory, Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, Inc., Frederick, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Jessop, Lea",
+        "short_name": "Jessop L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genetic Susceptibility, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Myers, Timothy",
+        "short_name": "Myers T",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genetic Susceptibility, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Chari, Raj",
+        "short_name": "Chari R",
+        "identifiers": [],
+        "affiliations": [
+          "Genome Modification Core, Frederick National Laboratory for Cancer Research, Frederick, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Long, Erping",
+        "short_name": "Long E",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA; Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences, Beijing 100005, China."
+        ]
+      },
+      {
+        "full_name": "Funderburk, Karen",
+        "short_name": "Funderburk K",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Yin, Jinhu",
+        "short_name": "Yin J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Hennessey, Rebecca",
+        "short_name": "Hennessey R",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Hseih, Emory",
+        "short_name": "Hseih E",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA; Neuroscience Graduate Program, University of Michigan, Ann Arbor, MI, USA."
+        ]
+      },
+      {
+        "full_name": "Levin, Hannah",
+        "short_name": "Levin H",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Machiela, Mitchell J",
+        "short_name": "Machiela MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Tumor Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Tongwu",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Tumor Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Jönsson, Göran",
+        "short_name": "Jönsson G",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Clinical Sciences, Faculty of Medicine, Lund University, 22185 Lund, Sweden; Lund University Cancer Center, 22185 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Bishop, D Timothy",
+        "short_name": "Bishop DT",
+        "identifiers": [],
+        "affiliations": [
+          "Leeds Institute for Data Analytics, University of Leeds, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Newton-Bishop, Julia",
+        "short_name": "Newton-Bishop J",
+        "identifiers": [],
+        "affiliations": [
+          "Leeds Institute of Medical Research, School of Medicine, University of Leeds, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Nsengimana, Jeremie",
+        "short_name": "Nsengimana J",
+        "identifiers": [],
+        "affiliations": [
+          "Population Health Sciences Institute, Faculty of Medical Sciences, Newcastle University and NIHR Biomedical Research Centre, Newcastle Upon Tyne, UK."
+        ]
+      },
+      {
+        "full_name": "Iles, Mark M",
+        "short_name": "Iles MM",
+        "identifiers": [],
+        "affiliations": [
+          "Leeds Institute for Data Analytics, University of Leeds, Leeds, UK; NIHR Leeds Biomedical Research Centre, Leeds Teaching Hospitals NHS Trust, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Landi, Maria Teresa",
+        "short_name": "Landi MT",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Tumor Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Law, Matthew H",
+        "short_name": "Law MH",
+        "identifiers": [],
+        "affiliations": [
+          "Population Health Department, QIMR Berghofer Medical Research Institute, Herston, QLD, Australia; School of Biomedical Sciences, Faculty of Health, Queensland University of Technology, Brisbane, QLD, Australia; School of Biomedical Sciences, University of Queensland, Brisbane, QLD, Australia."
+        ]
+      },
+      {
+        "full_name": "Andresson, Thorkell",
+        "short_name": "Andresson T",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Characterization Laboratory, Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, Inc., Frederick, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Choi, Jiyeon",
+        "short_name": "Choi J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Zon, Leonard I",
+        "short_name": "Zon LI",
+        "identifiers": [],
+        "affiliations": [
+          "Stem Cell Program and Division of Hematology/Oncology, Boston Children's Hospital and Dana Farber Cancer Institute, Howard Hughes Medical Institute, Boston, MA, USA; Stem Cell and Regenerative Biology Department, Harvard University, Cambridge, MA, USA; Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Shi, Jianxin",
+        "short_name": "Shi J",
+        "identifiers": [],
+        "affiliations": [
+          "Biostatistics Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "",
+        "short_name": "",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Brown, Kevin M",
+        "short_name": "Brown KM",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Translational Genomics, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD 20892, USA. Electronic address: kevin.brown3@nih.gov."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "American journal of human genetics"
+    ],
+    "journal_abbrev": [
+      "Am J Hum Genet"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716012"
+    ],
+    "review": [
+      "42716012"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

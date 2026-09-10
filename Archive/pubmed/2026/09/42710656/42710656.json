@@ -1,0 +1,273 @@
+{
+  "identity": {
+    "pmid": "42710656",
+    "doi": "10.1016/j.jgg.2026.09.003",
+    "title": "A transcription factor-focused CRISPR screen identifies SKI as a BCL11A-independent repressor of zeta-globin."
+  },
+  "content": {
+    "abstract": "The regulation of alpha-like globin genes, particularly the embryonic zeta-globin gene (HBZ), remains incompletely understood. To identify transcriptional regulators of HBZ, we establish a GFP reporter system based on the HBZ-P2A-GFP allele in erythroid cell lines and conduct a CRISPR/Cas9 screen targeting 1639 transcription factors. This screen identifies SKI as a potent HBZ repressor. Functional validation shows that SKI loss increases HBZ expression without impairing erythropoiesis, whereas SKI overexpression suppresses HBZ. Tet-on-inducible SKI overexpression and auxin-inducible SKI degradation indicate that SKI rapidly represses HBZ transcription. Transcriptome profiling further reveals that SKI deletion activates HBZ while minimally affecting other erythroid genes. Mechanistically, genome-wide occupancy analyses show that SKI binds the distal enhancers HS-10 and HS-40, with partial co-occupancy by BCL11A. Despite this overlap, dual knockout of SKI and BCL11A synergistically increases HBZ expression, as does base editing of the SKI-binding site within HS-10. We also identify a naturally occurring variant (chr16:193207G>A) within this enhancer in alpha-thalassemia patients with elevated zeta-globin levels. Together, these findings establish SKI as a direct, BCL11A-independent transcriptional repressor of zeta-globin. This work advances our understanding of globin gene regulation and suggests targeted zeta-globin reactivation as a potential therapeutic strategy for alpha-thalassemia.",
+    "keywords": [
+      "Enhancer",
+      "Erythropoiesis",
+      "HBZ",
+      "SKI",
+      "Transcription regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Qing",
+        "Zhang, Jianxiang",
+        "Zhang, Mengli",
+        "Xin, Ye",
+        "Ye, Yuhua",
+        "Jiang, Min",
+        "Xu, Xiangmin",
+        "Xu, Peng"
+      ],
+      "short_names": [
+        "Liu Q",
+        "Zhang J",
+        "Zhang M",
+        "Xin Y",
+        "Ye Y",
+        "Jiang M",
+        "Xu X",
+        "Xu P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medical Genetics, School of Basic Medical Sciences, Innovation Center for Diagnostics and Treatment of Thalassemia, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China.",
+        "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China.",
+        "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China.",
+        "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China.",
+        "Department of Medical Genetics, School of Basic Medical Sciences, Innovation Center for Diagnostics and Treatment of Thalassemia, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China.",
+        "Department of Blood Transfusion, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215123, China. Electronic address: Jiangmin_111@163.com.",
+        "Department of Medical Genetics, School of Basic Medical Sciences, Innovation Center for Diagnostics and Treatment of Thalassemia, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China. Electronic address: xixm@smu.edu.cn.",
+        "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China; Department of Blood Transfusion, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215123, China. Electronic address: pengxu@suda.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Qing",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, School of Basic Medical Sciences, Innovation Center for Diagnostics and Treatment of Thalassemia, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jianxiang",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Mengli",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Ye",
+        "short_name": "Xin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Yuhua",
+        "short_name": "Ye Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, School of Basic Medical Sciences, Innovation Center for Diagnostics and Treatment of Thalassemia, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Min",
+        "short_name": "Jiang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Blood Transfusion, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215123, China. Electronic address: Jiangmin_111@163.com."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiangmin",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, School of Basic Medical Sciences, Innovation Center for Diagnostics and Treatment of Thalassemia, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China. Electronic address: xixm@smu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xu, Peng",
+        "short_name": "Xu P",
+        "identifiers": [],
+        "affiliations": [
+          "Cyrus Tang Medical Institute, National Clinical Research Center for Hematologic Diseases, State Key Laboratory of Radiation Medicine and Protection, Collaborative Innovation Center of Hematology, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China; Department of Blood Transfusion, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215123, China. Electronic address: pengxu@suda.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of genetics and genomics = Yi chuan xue bao"
+    ],
+    "journal_abbrev": [
+      "J Genet Genomics"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 23:35",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710656",
+      "31890812",
+      "35839780",
+      "8455611",
+      "39757769",
+      "39017845",
+      "41650821",
+      "35093321",
+      "32299090",
+      "36734897",
+      "20133935",
+      "41790270",
+      "40448206",
+      "38273654",
+      "40665149",
+      "31039344",
+      "39657657",
+      "33649594",
+      "20395365",
+      "24885809",
+      "23576758",
+      "34174920",
+      "7721747",
+      "35941187",
+      "32406020",
+      "32755585",
+      "23361909",
+      "29471413",
+      "40619594",
+      "23071749",
+      "19607874",
+      "40156013",
+      "15464985",
+      "24800817",
+      "29898395",
+      "32960220",
+      "25107887",
+      "27591578",
+      "37895276",
+      "33066815",
+      "34010599",
+      "10575545",
+      "29610478",
+      "24336657",
+      "34290235",
+      "27340226",
+      "42373543",
+      "27056246",
+      "30911135",
+      "35143940",
+      "29296711",
+      "36178486",
+      "33997100",
+      "7620174",
+      "37586133",
+      "8508028",
+      "41307130",
+      "27668420",
+      "30182035",
+      "39393056",
+      "41191525",
+      "10688646",
+      "7727787",
+      "24371119",
+      "30617196",
+      "41455370",
+      "24751163",
+      "7604012",
+      "37738561",
+      "35739577",
+      "10811875",
+      "9242562",
+      "37744176",
+      "28344999",
+      "19056937",
+      "1701019",
+      "33283989",
+      "21829552",
+      "33735615",
+      "12642582",
+      "29606353",
+      "29186860",
+      "41753033",
+      "41629994",
+      "41345769",
+      "35618846",
+      "30504332",
+      "2263468",
+      "9528789",
+      "37529398",
+      "39754719",
+      "23593217",
+      "26840243",
+      "37906269",
+      "38022811",
+      "33635334",
+      "18941117",
+      "31874177",
+      "9843947",
+      "28916711"
+    ],
+    "review": [
+      "42710656",
+      "39017845",
+      "36734897",
+      "27340226",
+      "41753033",
+      "30504332",
+      "37529398"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1673-8527(26)00278-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3819",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

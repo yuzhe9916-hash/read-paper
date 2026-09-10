@@ -1,0 +1,410 @@
+{
+  "identity": {
+    "pmid": "42707988",
+    "doi": "10.7150/thno.131793",
+    "title": "An integrated SOX4-driven transcriptional and metabolic program governs tumor-infiltrating regulatory T cells in ovarian cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Regulatory T cells (Tregs) suppress antitumor immunity in ovarian cancer (OC) and are promising targets for immunotherapy. However, the heterogeneity and regulatory mechanisms of tumor-infiltrating Tregs (TI-Tregs) remain poorly defined. Here, we aim to delineate TI-Treg programs to identify potential therapeutic targets. METHODS: CD4(+)CD25(+)CD127(-) Tregs from OC, adjacent tissues, and peripheral blood were profiled by single-cell RNA sequencing and spatial transcriptomics, with regulatory networks inferred using SCENIC. Functional and mechanistic studies of SOX4 were performed using hypoxic/tumor-conditioned models, CRISPR-Cas9 perturbation, ectopic overexpression, Cut&Tag profiling, and oxidative phosphorylation (OXPHOS) inhibition. RESULTS: We identified nine transcriptionally distinct Treg subsets, revealing a highly activated and immunosuppressive state among TI-Tregs. These TI-Tregs exhibited strong co-expression of TNFRSF4, TNFRSF9, TNFRSF18, and CTLA4, and their increased intratumoral abundance was independently associated with poorer overall survival. SCENIC analysis identified SOX4 as the top regulon defining TI-Treg identity, with spatial transcriptomics revealing SOX4(+) Tregs forming an immunoregulatory barrier at tumor margins. This phenotypic identity was robustly induced by the hypoxic microenvironment and TCR stimulation in a well-established murine OC model. Mechanistically, SOX4 transactivated MT1X to promote mitochondrial fitness and OXPHOS. Consistently, Cut&Tag profiling showed reduced chromatin accessibility at OXPHOS-related loci following SOX4 depletion. Furthermore, CRISPR-Cas9-mediated disruption of SOX4 reduced FOXP3 expression and other suppressive markers, whereas SOX4 overexpression enhanced FOXP3 expression in an OXPHOS-dependent manner. Notably, pharmacological inhibition of OXPHOS abolished this effect. CONCLUSIONS: SOX4 is a central regulator of TI-Treg suppressive function and metabolic fitness, representing a promising therapeutic target for OC.",
+    "keywords": [
+      "SOX4 transcription factor",
+      "ovarian cancer",
+      "regulatory T cells",
+      "tumor microenvironment"
+    ],
+    "mesh_terms": [
+      "Female",
+      "*SOXC Transcription Factors/metabolism/genetics",
+      "*Ovarian Neoplasms/immunology/genetics/metabolism/pathology",
+      "*T-Lymphocytes, Regulatory/immunology/metabolism",
+      "Animals",
+      "Humans",
+      "*Lymphocytes, Tumor-Infiltrating/immunology/metabolism",
+      "Mice",
+      "Gene Expression Regulation, Neoplastic",
+      "Cell Line, Tumor",
+      "Oxidative Phosphorylation",
+      "Tumor Microenvironment/immunology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Lei",
+        "Tao, Ziqi",
+        "Zhang, Yuelu",
+        "Mao, Yepeng",
+        "Zhang, Lei",
+        "Yan, Lina",
+        "Li, Rong",
+        "Zhou, Lingfei",
+        "Liu, Zhijie",
+        "Shang, Wenwen",
+        "Liu, Shuna",
+        "Lou, Jianfang",
+        "Huang, Xi",
+        "Wang, Ting",
+        "Wang, Fang"
+      ],
+      "short_names": [
+        "Wu L",
+        "Tao Z",
+        "Zhang Y",
+        "Mao Y",
+        "Zhang L",
+        "Yan L",
+        "Li R",
+        "Zhou L",
+        "Liu Z",
+        "Shang W",
+        "Liu S",
+        "Lou J",
+        "Huang X",
+        "Wang T",
+        "Wang F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Gynecology, The Affiliated Huaian NO.1 People's Hospital of Nanjing Medical University, Huaian, 223300, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing, 210004, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing, 210004, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+        "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Lei",
+        "short_name": "Wu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Ziqi",
+        "short_name": "Tao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuelu",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Yepeng",
+        "short_name": "Mao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lei",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+          "Department of Gynecology, The Affiliated Huaian NO.1 People's Hospital of Nanjing Medical University, Huaian, 223300, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Lina",
+        "short_name": "Yan L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+          "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing, 210004, China."
+        ]
+      },
+      {
+        "full_name": "Li, Rong",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China.",
+          "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing, 210004, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Lingfei",
+        "short_name": "Zhou L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhijie",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Wenwen",
+        "short_name": "Shang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shuna",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Lou, Jianfang",
+        "short_name": "Lou J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xi",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ting",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Fang",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The First Affiliated Hospital of Nanjing Medical University, No. 300 of Guangzhou Road, Nanjing, 210029, China.",
+          "Branch of National Clinical Research Center for Laboratory Medicine, Nanjing, 210029, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Theranostics"
+    ],
+    "journal_abbrev": [
+      "Theranostics"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42707988",
+      "41343674",
+      "39551603",
+      "33901495",
+      "33589525",
+      "41620962",
+      "30065096",
+      "34798898",
+      "39080766",
+      "42292348",
+      "41008548",
+      "42433376",
+      "40703514",
+      "40590861",
+      "40960523",
+      "41633986",
+      "42612021",
+      "34766338",
+      "31631566",
+      "41456905",
+      "26166762",
+      "24637664",
+      "40497786",
+      "40698080",
+      "34689996",
+      "39679474",
+      "30999388",
+      "41177805",
+      "42276407",
+      "37713508",
+      "32522204",
+      "33868236",
+      "24244610",
+      "35387780",
+      "28970196",
+      "42380903",
+      "36716293",
+      "41710887",
+      "42066959",
+      "42033075",
+      "41771456",
+      "35738508",
+      "33598101",
+      "41351424",
+      "29712685",
+      "18025205",
+      "22322668",
+      "40186298",
+      "23517245",
+      "42321253",
+      "42334738",
+      "33647370",
+      "42675914",
+      "31709528",
+      "30866047",
+      "41457459",
+      "34599187",
+      "32212317",
+      "24668348",
+      "28537894",
+      "41735641",
+      "30702189",
+      "26482613",
+      "31801611",
+      "28290453",
+      "42196594",
+      "41280919",
+      "29621426",
+      "18453563",
+      "19153062",
+      "39983598",
+      "41814664",
+      "41564348",
+      "41250935",
+      "26433463",
+      "28817117",
+      "32878747",
+      "23098476",
+      "22865582",
+      "41735000",
+      "36837407",
+      "41208977",
+      "34721405",
+      "25278453",
+      "41659847",
+      "39965167",
+      "20454651",
+      "27389040",
+      "37116491",
+      "41380574",
+      "37950246",
+      "29898397",
+      "42510824",
+      "39736083",
+      "27748885",
+      "39762077",
+      "36577929",
+      "24661020",
+      "41199577",
+      "27185917"
+    ],
+    "review": [
+      "42707988",
+      "40703514",
+      "41456905",
+      "39679474",
+      "42066959",
+      "41771456",
+      "42334738",
+      "30866047",
+      "41814664",
+      "24661020"
+    ],
+    "pmc": [
+      "13549143"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/ovariancancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ovarian Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.thno.org/v16p8611.htm",
+        "provider": "Ivyspring International Publisher",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

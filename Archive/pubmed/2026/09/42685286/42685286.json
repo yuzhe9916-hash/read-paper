@@ -1,0 +1,381 @@
+{
+  "identity": {
+    "pmid": "42685286",
+    "doi": "10.1158/2643-3230.BCD-26-0030",
+    "title": "Therapy-persistent leukemia is selectively vulnerable to SLC23A1 restoration via targeting KHSRP."
+  },
+  "content": {
+    "abstract": "Acute myeloid leukemia (AML) is prone to relapse driven by therapy-persistent residual cells. To discover specific vulnerabilities in this population, we performed genome-wide CRISPR interference screens in leukemia cells treated with multiple agents. KHSRP was the top hit, whose depletion sensitized AML cells to therapy and substantially prolonged survival in treated AML-bearing mice. Analysis of in vivo residual disease after venetoclax/azacitidine treatment identified downregulation of the vitamin C and uric acid transporter SLC23A1, which mediated resistance to multiple therapies. KHSRP depletion restored SLC23A1 expression by preventing its ZC3H4-mediated nuclear mRNA degradation. KHSRP depletion therefore enhanced the synergistic cytotoxicity of vitamin C and uric acid, particularly in therapy-persistent leukemia cells. Re-expression of TET2 overrode the chemosensitizing effect of KHSRP depletion in TET2-mutant leukemia, suggesting that KHSRP-linked phenotypes were related to vitamin C and uric acid-mediated TET activation. These findings nominate targeting KHSRP to enhance treatment efficacy and selectively eradicate residual AML.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Luo, Qingyu",
+        "Whalen, Karley S",
+        "Wu, Xiaowei",
+        "Fortune, Amanda L",
+        "Garcia, Jacqueline S",
+        "Marinchev, Kate",
+        "Zhang, Lin",
+        "Qian, Weiye",
+        "Raulston, Evangeline G",
+        "Nan, Yabing",
+        "Booth, Christopher A G",
+        "Yan, Kezhi",
+        "Root, David E",
+        "Doench, John G",
+        "Lane, Andrew A"
+      ],
+      "short_names": [
+        "Luo Q",
+        "Whalen KS",
+        "Wu X",
+        "Fortune AL",
+        "Garcia JS",
+        "Marinchev K",
+        "Zhang L",
+        "Qian W",
+        "Raulston EG",
+        "Nan Y",
+        "Booth CAG",
+        "Yan K",
+        "Root DE",
+        "Doench JG",
+        "Lane AA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4164-637X",
+        "ORCID: 0009-0009-4699-3662",
+        "ORCID: 0000-0003-4176-7198",
+        "ORCID: 0009-0005-6774-8042",
+        "ORCID: 0000-0003-2118-6302",
+        "ORCID: 0009-0004-0647-0342",
+        "ORCID: 0000-0002-2064-8440",
+        "ORCID: 0009-0005-3274-3575",
+        "ORCID: 0009-0005-6828-2950",
+        "ORCID: 0000-0001-8744-9617",
+        "ORCID: 0000-0003-3841-6637",
+        "ORCID: 0000-0002-2964-0963",
+        "ORCID: 0000-0001-5122-861X",
+        "ORCID: 0000-0002-3707-9889",
+        "ORCID: 0000-0001-7380-0226"
+      ],
+      "affiliations": [
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Monash University Australia. ROR: https://ror.org/02bfwt286",
+        "Monash University Australia. ROR: https://ror.org/02bfwt286",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86",
+        "Dana-Farber Cancer Institute United States. ROR: https://ror.org/02jzgtq86",
+        "Broad Institute Cambridge, MA United States. ROR: https://ror.org/05a0ya142",
+        "Broad Institute of MIT and Harvard Cambridge, MA United States.",
+        "Dana-Farber Cancer Institute Boston, MA United States. ROR: https://ror.org/02jzgtq86"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Luo, Qingyu",
+        "short_name": "Luo Q",
+        "identifiers": [
+          "0000-0003-4164-637X"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Whalen, Karley S",
+        "short_name": "Whalen KS",
+        "identifiers": [
+          "0009-0009-4699-3662"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaowei",
+        "short_name": "Wu X",
+        "identifiers": [
+          "0000-0003-4176-7198"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Fortune, Amanda L",
+        "short_name": "Fortune AL",
+        "identifiers": [
+          "0009-0005-6774-8042"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Garcia, Jacqueline S",
+        "short_name": "Garcia JS",
+        "identifiers": [
+          "0000-0003-2118-6302"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Marinchev, Kate",
+        "short_name": "Marinchev K",
+        "identifiers": [
+          "0009-0004-0647-0342"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lin",
+        "short_name": "Zhang L",
+        "identifiers": [
+          "0000-0002-2064-8440"
+        ],
+        "affiliations": [
+          "Monash University Australia."
+        ]
+      },
+      {
+        "full_name": "Qian, Weiye",
+        "short_name": "Qian W",
+        "identifiers": [
+          "0009-0005-3274-3575"
+        ],
+        "affiliations": [
+          "Monash University Australia."
+        ]
+      },
+      {
+        "full_name": "Raulston, Evangeline G",
+        "short_name": "Raulston EG",
+        "identifiers": [
+          "0009-0005-6828-2950"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Nan, Yabing",
+        "short_name": "Nan Y",
+        "identifiers": [
+          "0000-0001-8744-9617"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Booth, Christopher A G",
+        "short_name": "Booth CAG",
+        "identifiers": [
+          "0000-0003-3841-6637"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      },
+      {
+        "full_name": "Yan, Kezhi",
+        "short_name": "Yan K",
+        "identifiers": [
+          "0000-0002-2964-0963"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute United States."
+        ]
+      },
+      {
+        "full_name": "Root, David E",
+        "short_name": "Root DE",
+        "identifiers": [
+          "0000-0001-5122-861X"
+        ],
+        "affiliations": [
+          "Broad Institute Cambridge, MA United States."
+        ]
+      },
+      {
+        "full_name": "Doench, John G",
+        "short_name": "Doench JG",
+        "identifiers": [
+          "0000-0002-3707-9889"
+        ],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard Cambridge, MA United States."
+        ]
+      },
+      {
+        "full_name": "Lane, Andrew A",
+        "short_name": "Lane AA",
+        "identifiers": [
+          "0000-0001-7380-0226"
+        ],
+        "affiliations": [
+          "Dana-Farber Cancer Institute Boston, MA United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Blood cancer discovery"
+    ],
+    "journal_abbrev": [
+      "Blood Cancer Discov"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:13",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42685286",
+      "41845478",
+      "40440957",
+      "37796705",
+      "37507802",
+      "35346671",
+      "39384125",
+      "39285441",
+      "31048321",
+      "41896977",
+      "42082682",
+      "36848231",
+      "31900833",
+      "32203209",
+      "31666400",
+      "36058034",
+      "34790781",
+      "33199836",
+      "29631379",
+      "28224619",
+      "33347715",
+      "39414773",
+      "30508646",
+      "35853161",
+      "37393342",
+      "29559471",
+      "28146632",
+      "31904978",
+      "28823558",
+      "41194272",
+      "32054729",
+      "36722405",
+      "40951718",
+      "30420752",
+      "28055106",
+      "36076608",
+      "41425564",
+      "30482760",
+      "40921629",
+      "35211416",
+      "36240005",
+      "33633448",
+      "35571387",
+      "41160778",
+      "42326325",
+      "34360855",
+      "36477735",
+      "41815287",
+      "41366419",
+      "34497762",
+      "36537913",
+      "37170899",
+      "31391371",
+      "28505595",
+      "38909249",
+      "37414921",
+      "32519423",
+      "35672446",
+      "41618430",
+      "39780285",
+      "40779824",
+      "38066391",
+      "38916965",
+      "35841458",
+      "35852098",
+      "41037397",
+      "42477086",
+      "33902674",
+      "37887047",
+      "39528073",
+      "40768599",
+      "38238299",
+      "25953102",
+      "41407871",
+      "30814062",
+      "33197925",
+      "41952473",
+      "38680863",
+      "41275169",
+      "35364607",
+      "40533864",
+      "40561247",
+      "40443013",
+      "34012921",
+      "41508052",
+      "31301319",
+      "37088806",
+      "37051529",
+      "36774506",
+      "41105301",
+      "41131284",
+      "27353420",
+      "29690909",
+      "42104100",
+      "39777217",
+      "40756330",
+      "32552944",
+      "29780393",
+      "38679209",
+      "42277819"
+    ],
+    "review": [
+      "42685286",
+      "36722405",
+      "37170899",
+      "35841458",
+      "35852098"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://aacrjournals.org/bloodcancerdiscov/article-lookup/doi/10.1158/2643-3230.BCD-26-0030",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "identity": {
+    "pmid": "42706248",
+    "doi": "10.1038/s41419-026-09192-0",
+    "title": "The skin-specific long non-coding RNA TEDAR orchestrates late epidermal differentiation via an ERK-KLF4 cytoplasmic regulatory axis."
+  },
+  "content": {
+    "abstract": "The formation of a functional skin barrier depends on terminal keratinocyte differentiation, yet the contribution of long non-coding RNAs to this process remains incompletely understood. Here, using transcriptome analysis of more than 15,000 RNA-seq samples across 54 human tissues, we identify TEDAR (Terminal Epidermal Differentiation-Associated RNA), a highly skin-enriched lncRNA. Single-molecule RNA in situ hybridization revealed that TEDAR is confined to the uppermost granular layer of the epidermis, representing an exceptionally spatially restricted expression pattern. Functional studies demonstrated that CRISPR-mediated activation of TEDAR promotes keratinocyte differentiation even in the absence of external cues, while its depletion impaired late epidermal differentiation. In three-dimensional skin equivalents, TEDAR depletion severely compromises stratum corneum formation, highlighting its importance for proper epidermal barrier assembly. Mechanistically, TEDAR associates with ERK1/2-containing complexes and restrains ERK phosphorylation, thereby facilitating the nuclear accumulation of KLF4, a key regulator of epidermal differentiation. KLF4 depletion attenuated TEDAR-induced expression of several late differentiation genes, supporting a functional TEDAR-ERK-KLF4 axis. Clinically, TEDAR expression was reduced in cutaneous squamous cell carcinoma (cSCC) and chronic inflammatory skin diseases, including psoriasis and atopic dermatitis. Moreover, IL-22 suppressed TEDAR via STAT3 signalling in epidermal models. These findings identify TEDAR as an important regulator of terminal epidermal differentiation and suggest that its suppression may contribute to disturbed differentiation in inflammatory and neoplastic skin diseases.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Cell Differentiation/genetics",
+      "Kruppel-Like Factor 4",
+      "*RNA, Long Noncoding/metabolism/genetics",
+      "*Kruppel-Like Transcription Factors/metabolism/genetics",
+      "Keratinocytes/metabolism",
+      "*Epidermis/metabolism",
+      "*Cytoplasm/metabolism",
+      "Animals",
+      "*Skin/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Das Mahapatra, Kunal",
+        "Arslan, Ozge",
+        "Luo, Longlong",
+        "Kelemen, Evelyn",
+        "Kalarikkal, Sreeram Peringattu",
+        "Pasquali, Lorenzo",
+        "Ziegler, Christian",
+        "Graf, Johannes",
+        "Hemmer, Nicole",
+        "Sugars, Rachael",
+        "Kretz, Markus",
+        "Sonkoly, Eniko",
+        "Pivarcsi, Andor"
+      ],
+      "short_names": [
+        "Das Mahapatra K",
+        "Arslan O",
+        "Luo L",
+        "Kelemen E",
+        "Kalarikkal SP",
+        "Pasquali L",
+        "Ziegler C",
+        "Graf J",
+        "Hemmer N",
+        "Sugars R",
+        "Kretz M",
+        "Sonkoly E",
+        "Pivarcsi A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2831-0751",
+        "ORCID: 0000-0001-9515-494X",
+        "ORCID: 0000-0003-3420-3925",
+        "ORCID: 0000-0003-2196-1102"
+      ],
+      "affiliations": [
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+        "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden.",
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Sciences, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Sciences, Uppsala University, Uppsala, Sweden.",
+        "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden.",
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Sciences, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Sciences, Uppsala University, Uppsala, Sweden.",
+        "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden.",
+        "Regensburg Center for Biochemistry (RCB), University of Regensburg, Regensburg, Germany.",
+        "Regensburg Center for Biochemistry (RCB), University of Regensburg, Regensburg, Germany.",
+        "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden.",
+        "Eberhard-Karls-Universitat Tubingen, Geschwister-Scholl-Platz, Tubingen, Germany.",
+        "Department of Dental Medicine, Karolinska Institutet, Stockholm, Sweden.",
+        "Institute for Molecular Medicine, MSH Medical School Hamburg, Hamburg, Germany.",
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Sciences, Uppsala University, Uppsala, Sweden.",
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden. andor.pivarcsi@imbim.uu.se.",
+        "Department of Medical Sciences, Uppsala University, Uppsala, Sweden. andor.pivarcsi@imbim.uu.se."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Das Mahapatra, Kunal",
+        "short_name": "Das Mahapatra K",
+        "identifiers": [
+          "0000-0002-2831-0751"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+          "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Arslan, Özge",
+        "short_name": "Arslan Ö",
+        "identifiers": [
+          "0000-0001-9515-494X"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+          "Department of Medical Sciences, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Luo, Longlong",
+        "short_name": "Luo L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+          "Department of Medical Sciences, Uppsala University, Uppsala, Sweden.",
+          "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Kelemen, Evelyn",
+        "short_name": "Kelemen E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+          "Department of Medical Sciences, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Kalarikkal, Sreeram Peringattu",
+        "short_name": "Kalarikkal SP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+          "Department of Medical Sciences, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Pasquali, Lorenzo",
+        "short_name": "Pasquali L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Ziegler, Christian",
+        "short_name": "Ziegler C",
+        "identifiers": [],
+        "affiliations": [
+          "Regensburg Center for Biochemistry (RCB), University of Regensburg, Regensburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Graf, Johannes",
+        "short_name": "Graf J",
+        "identifiers": [],
+        "affiliations": [
+          "Regensburg Center for Biochemistry (RCB), University of Regensburg, Regensburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Hemmer, Nicole",
+        "short_name": "Hemmer N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden.",
+          "Eberhard-Karls-Universität Tübingen, Geschwister-Scholl-Platz, Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Sugars, Rachael",
+        "short_name": "Sugars R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dental Medicine, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Kretz, Markus",
+        "short_name": "Kretz M",
+        "identifiers": [
+          "0000-0003-3420-3925"
+        ],
+        "affiliations": [
+          "Institute for Molecular Medicine, MSH Medical School Hamburg, Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Sonkoly, Eniko",
+        "short_name": "Sonkoly E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+          "Department of Medical Sciences, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Pivarcsi, Andor",
+        "short_name": "Pivarcsi A",
+        "identifiers": [
+          "0000-0003-2196-1102"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden. andor.pivarcsi@imbim.uu.se.",
+          "Department of Medical Sciences, Uppsala University, Uppsala, Sweden. andor.pivarcsi@imbim.uu.se."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell death & disease"
+    ],
+    "journal_abbrev": [
+      "Cell Death Dis"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 05:36",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42706248",
+      "39953783",
+      "41904046",
+      "36869179",
+      "27907090",
+      "31636412",
+      "23599428",
+      "42544840",
+      "31804951",
+      "23157658",
+      "32012357",
+      "22491752",
+      "28506683",
+      "37801430",
+      "23201690",
+      "16417217",
+      "32998444",
+      "37289055",
+      "42066491",
+      "7512582",
+      "38458428",
+      "27742396",
+      "29580988",
+      "27049681",
+      "42008715",
+      "33291448",
+      "36641130",
+      "22936986",
+      "40152495",
+      "18818691",
+      "30622217",
+      "36637891",
+      "35325240",
+      "39409027",
+      "38383230",
+      "22364861",
+      "37365156",
+      "38041107",
+      "34029921",
+      "16628254",
+      "19282840",
+      "9209676",
+      "33608506",
+      "24518171",
+      "38649186",
+      "24115003",
+      "27208706",
+      "22505606",
+      "20499100",
+      "40167775",
+      "36725458",
+      "8648195",
+      "35833307",
+      "23349860",
+      "39939818",
+      "22507538",
+      "41660613",
+      "22177328",
+      "42178907",
+      "22951731",
+      "23748427",
+      "25805135",
+      "32462404",
+      "39342985",
+      "24441097",
+      "38642800",
+      "37259855",
+      "22395315",
+      "40287440",
+      "24940654",
+      "12736219",
+      "28186503",
+      "25851906",
+      "23284675",
+      "27868148",
+      "40200325",
+      "31837949",
+      "27793761",
+      "31112333",
+      "30342896",
+      "40637102",
+      "41032476",
+      "29862564",
+      "32302667",
+      "30933982",
+      "33683743",
+      "42636952",
+      "27097296",
+      "42092950",
+      "18938133",
+      "41151626",
+      "19197145",
+      "38924095",
+      "40712323",
+      "17351639",
+      "28596382",
+      "33528492",
+      "9665394",
+      "35563264",
+      "20846312"
+    ],
+    "review": [
+      "42706248",
+      "18818691",
+      "24115003",
+      "27208706",
+      "22507538",
+      "32462404"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41419-026-09192-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-880",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

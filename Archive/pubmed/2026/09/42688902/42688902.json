@@ -1,0 +1,308 @@
+{
+  "identity": {
+    "pmid": "42688902",
+    "doi": "10.1093/jbmrpl/ziag117",
+    "title": "Generation of spCAS9 expressing human mesenchymal stem cell line to study gene function during osteoblast differentiation."
+  },
+  "content": {
+    "abstract": "Human bone marrow-derived stromal cells (hMSCs) are a great resource for studying how genes influence cell fate and differentiation into various cell types like osteoblasts, adipocytes, and chondrocytes, among other cell types. However, genetic manipulation of primary hMSCs has been challenging due to their short lifespan and cellular senescence after limited passaging. Their low and unstable transfection efficiency also complicates gene delivery or inactivation, hindering long-term functional studies. The limited lifespan has been effectively solved by immortalizing hMSCs with telomerase reverse transcriptase (hMSCs-TERT). The use of these cells is ideal for functional studies of osteoblast and adipocyte differentiation through genetic manipulation, providing a stable and reliable model. Here, we have engineered a stable CAS9 expressing hMSC-TERT cell line (hMSC-TERT(CAS9)) via lentiviral transduction. The constitutive expression of spCas9 enables efficient and reproducible gene editing. We demonstrate the potential of these hMSC-TERT(CAS9) cells for generating gene disruptions using plasmid delivery of guide RNAs as a fast and efficient strategy for targeted genome editing. The edited cells can be sorted and expanded as single cells to obtain homogenous clonal cell lines with mono- as well as bi-allelic gene deletions, a crucial step for producing reliable experimental results. We further validate this cell line as a powerful tool for studying gene function during hMSC proliferation and differentiation, providing 3 distinct examples of its utility. Through the generation of indels, single-cell sorting, and clonal selection, we have efficiently inactivated the vitamin D receptor and created both larger (256 nucleotides) gene disruptions in Forkhead box protein O1 and precise removals of a small genomic sequence (73 nucleotides) coding for microRNA MIR675. This novel hMSC-TERT(CAS9) cell line represents a significant advancement, offering a stable, efficient, and versatile platform for advanced genetic studies, high-throughput screening, and the creation of reliable cellular disease models.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "differentiation",
+      "disease modeling",
+      "gene inactivation",
+      "hMSC-TERTCAS9 gene editing",
+      "osteoblasts",
+      "stem cell research"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Foessl, Ines",
+        "Guo, Yuan",
+        "Mies, Rosinda",
+        "Kassem, Moustapha",
+        "van Leeuwen, Johannes P T M",
+        "van der Eerden, Bram C J",
+        "Obermayer-Pietsch, Barbara",
+        "van de Peppel, Jeroen"
+      ],
+      "short_names": [
+        "Foessl I",
+        "Guo Y",
+        "Mies R",
+        "Kassem M",
+        "van Leeuwen JPTM",
+        "van der Eerden BCJ",
+        "Obermayer-Pietsch B",
+        "van de Peppel J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9804-8859",
+        "ORCID: 0009-0003-6996-545X",
+        "ORCID: 0009-0000-9972-2270",
+        "ORCID: 0000-0003-1557-0869",
+        "ORCID: 0000-0002-2282-4006",
+        "ORCID: 0000-0003-4403-6497",
+        "ORCID: 0000-0003-3543-1807",
+        "ORCID: 0000-0002-6524-727X"
+      ],
+      "affiliations": [
+        "Division of Endocrinology and Diabetology, Department of Internal Medicine, Medical University of Graz, 8010 Graz, Austria.",
+        "COREMED-Centre for Regenerative Medicine and Precisions Medicine, Joanneum Research Forschungsgesellschaft mbH, 8010 Graz, Austria.",
+        "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands.",
+        "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands.",
+        "Department of Molecular Endocrinology, University of Southern Denmark and Odense University Hospital, 5000 Odense, Denmark.",
+        "College of Medicine and Health Sciences and Center for Biotechnology, Khalifa University, PO Box 127788 Abu Dhabi, United Arab Emirates.",
+        "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands.",
+        "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands.",
+        "Division of Endocrinology and Diabetology, Department of Internal Medicine, Medical University of Graz, 8010 Graz, Austria.",
+        "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Foessl, Ines",
+        "short_name": "Foessl I",
+        "identifiers": [
+          "0000-0002-9804-8859"
+        ],
+        "affiliations": [
+          "Division of Endocrinology and Diabetology, Department of Internal Medicine, Medical University of Graz, 8010 Graz, Austria.",
+          "COREMED-Centre for Regenerative Medicine and Precisions Medicine, Joanneum Research Forschungsgesellschaft mbH, 8010 Graz, Austria."
+        ]
+      },
+      {
+        "full_name": "Guo, Yuan",
+        "short_name": "Guo Y",
+        "identifiers": [
+          "0009-0003-6996-545X"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Mies, Rosinda",
+        "short_name": "Mies R",
+        "identifiers": [
+          "0009-0000-9972-2270"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kassem, Moustapha",
+        "short_name": "Kassem M",
+        "identifiers": [
+          "0000-0003-1557-0869"
+        ],
+        "affiliations": [
+          "Department of Molecular Endocrinology, University of Southern Denmark and Odense University Hospital, 5000 Odense, Denmark.",
+          "College of Medicine and Health Sciences and Center for Biotechnology, Khalifa University, PO Box 127788 Abu Dhabi, United Arab Emirates."
+        ]
+      },
+      {
+        "full_name": "van Leeuwen, Johannes P T M",
+        "short_name": "van Leeuwen JPTM",
+        "identifiers": [
+          "0000-0002-2282-4006"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "van der Eerden, Bram C J",
+        "short_name": "van der Eerden BCJ",
+        "identifiers": [
+          "0000-0003-4403-6497"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Obermayer-Pietsch, Barbara",
+        "short_name": "Obermayer-Pietsch B",
+        "identifiers": [
+          "0000-0003-3543-1807"
+        ],
+        "affiliations": [
+          "Division of Endocrinology and Diabetology, Department of Internal Medicine, Medical University of Graz, 8010 Graz, Austria."
+        ]
+      },
+      {
+        "full_name": "van de Peppel, Jeroen",
+        "short_name": "van de Peppel J",
+        "identifiers": [
+          "0000-0002-6524-727X"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Erasmus MC, University Medical Center, PO Box 2040, 3000 CA, Rotterdam, The Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JBMR plus"
+    ],
+    "journal_abbrev": [
+      "JBMR Plus"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 12:09",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42688902",
+      "15068508",
+      "32922451",
+      "18318690",
+      "15596132",
+      "27194745",
+      "42638068",
+      "21603946",
+      "42214710",
+      "30283907",
+      "23515239",
+      "32721120",
+      "26753846",
+      "29617297",
+      "40028019",
+      "30271865",
+      "15712343",
+      "39601181",
+      "32567018",
+      "24857590",
+      "32833346",
+      "32424320",
+      "29019352",
+      "42475469",
+      "36672539",
+      "29031730",
+      "20223822",
+      "15579653",
+      "25887582",
+      "25260929",
+      "34082820",
+      "38468277",
+      "40806493",
+      "33070670",
+      "26204886",
+      "36553630",
+      "26553065",
+      "29332168",
+      "33503825",
+      "15040835",
+      "28377964",
+      "18956727",
+      "42296184",
+      "21988170",
+      "26747759",
+      "38407798",
+      "35403254",
+      "22881458",
+      "38544667",
+      "20196644",
+      "42157281",
+      "19593798",
+      "12150956",
+      "21756067",
+      "21596750",
+      "30040245",
+      "29423804",
+      "28800587",
+      "30190322",
+      "39555789",
+      "27814695",
+      "33372184",
+      "23383279",
+      "34748284",
+      "31051134",
+      "42204401",
+      "21573488",
+      "26264708",
+      "34400685",
+      "38062439",
+      "27499201",
+      "27490926",
+      "35700449",
+      "34904600",
+      "35458632",
+      "23738690",
+      "17352650",
+      "36613947",
+      "25356868",
+      "12234625",
+      "41285723",
+      "22696466",
+      "35333175",
+      "22731654",
+      "26260615",
+      "32441252",
+      "19544410",
+      "41585947",
+      "38628442",
+      "20058600",
+      "42411605",
+      "41296247",
+      "28550913",
+      "24534322",
+      "23830827",
+      "23590815",
+      "15647823",
+      "24937190",
+      "35240315",
+      "33830454"
+    ],
+    "review": [
+      "42688902",
+      "29423804"
+    ],
+    "pmc": [
+      "13537448"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42688902/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-FOXO1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jbmrplus/article-lookup/doi/10.1093/jbmrpl/ziag117",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "identity": {
+    "pmid": "42701218",
+    "doi": "10.1021/jacs.6c05500",
+    "title": "Decoding TnsC Filament Assembly in CRISPR-Associated Transposons Using Interpretable Deep Learning and Molecular Simulations."
+  },
+  "content": {
+    "abstract": "CRISPR-associated transposons (CASTs) enable programmable DNA integration, yet how the TnsC regulator forms processive filaments on DNA to coordinate RNA-guided transposition in type V-K CAST systems remains unknown. Here, we integrate large-scale molecular simulations, interpretable deep learning using graph attention networks (GATs), and causal inference analyses to define the molecular determinants of TnsC filament nucleation and elongation. We show that TnsC nucleates by inducing localized DNA deformation that propagates along extended filaments, with Granger causality revealing that TnsC motions precede and predict DNA deformation. Interpretable GAT models demonstrate that elongation is determined during early recognition between incoming and DNA-bound subunits, followed by structural reorganization that regenerates the recruitment interface and enables processive assembly. These results elucidate the molecular mechanism of processive TnsC filament assembly and explain why isolated TnsC filaments preferentially elongate in the 5' --> 3' direction, while accessory transposition factors can reshape the interaction landscape and alter filament growth polarity. Together, these findings advance our understanding of CAST function and inform the engineering of programmable DNA integration platforms. Beyond CAST systems, this work introduces an interpretable GAT approach as a general and transferable deep learning strategy for uncovering molecular mechanisms in biological systems, while demonstrating the power of causal inference for dissecting directional relationships in molecular dynamics.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Deep Learning",
+      "*DNA Transposable Elements/genetics",
+      "*Molecular Dynamics Simulation",
+      "DNA/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pindi, Chinmai",
+        "Ahsan, Mohd",
+        "Sinha, Souvik",
+        "Kellogg, Elizabeth H",
+        "Palermo, Giulia"
+      ],
+      "short_names": [
+        "Pindi C",
+        "Ahsan M",
+        "Sinha S",
+        "Kellogg EH",
+        "Palermo G"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4964-7713",
+        "ORCID: 0000-0003-1404-8737"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, University of California Los Angeles, 607 Charles E Young Dr E, Los Angeles, California90095, United States.",
+        "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States.",
+        "Department of Chemistry and Biochemistry, University of California Los Angeles, 607 Charles E Young Dr E, Los Angeles, California90095, United States.",
+        "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States.",
+        "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States.",
+        "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, Tennessee38105, United States.",
+        "Department of Chemistry and Biochemistry, University of California Los Angeles, 607 Charles E Young Dr E, Los Angeles, California90095, United States.",
+        "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pindi, Chinmai",
+        "short_name": "Pindi C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of California Los Angeles, 607 Charles E Young Dr E, Los Angeles, California90095, United States.",
+          "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States."
+        ]
+      },
+      {
+        "full_name": "Ahsan, Mohd",
+        "short_name": "Ahsan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of California Los Angeles, 607 Charles E Young Dr E, Los Angeles, California90095, United States.",
+          "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States."
+        ]
+      },
+      {
+        "full_name": "Sinha, Souvik",
+        "short_name": "Sinha S",
+        "identifiers": [
+          "0000-0003-4964-7713"
+        ],
+        "affiliations": [
+          "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States."
+        ]
+      },
+      {
+        "full_name": "Kellogg, Elizabeth H",
+        "short_name": "Kellogg EH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, Tennessee38105, United States."
+        ]
+      },
+      {
+        "full_name": "Palermo, Giulia",
+        "short_name": "Palermo G",
+        "identifiers": [
+          "0000-0003-1404-8737"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of California Los Angeles, 607 Charles E Young Dr E, Los Angeles, California90095, United States.",
+          "Department of Bioengineering and Chemistry, University of California Riverside, 900 University Avenue, Riverside, California92521, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 05:40",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42701218",
+      "40666904",
+      "34759315",
+      "36442503",
+      "40103227",
+      "38834066",
+      "36435179",
+      "42475469",
+      "34385391",
+      "35914146",
+      "36002573",
+      "37557170",
+      "37503092",
+      "37972161",
+      "42282781",
+      "37379212",
+      "42239233",
+      "35173349",
+      "41495894",
+      "40985776",
+      "38041553",
+      "38834067",
+      "36993517",
+      "15257292",
+      "39631148",
+      "42427635",
+      "35051352",
+      "1317955",
+      "36184667",
+      "37078593",
+      "24982178",
+      "33770501",
+      "39383864",
+      "34845024",
+      "40393858",
+      "36332604",
+      "41996895",
+      "39579910",
+      "36711804",
+      "37267904",
+      "38445989",
+      "11179236",
+      "31853065",
+      "39103341",
+      "40121087",
+      "11292332",
+      "9362496",
+      "40310292",
+      "23912807",
+      "36991112",
+      "40909480",
+      "31189177",
+      "39171866",
+      "27936513",
+      "42146515",
+      "40927181",
+      "42465468",
+      "12093750",
+      "11152618",
+      "33984272",
+      "23103864",
+      "8384534",
+      "34450043",
+      "37368499",
+      "14592987",
+      "38926614",
+      "33859629",
+      "40828659",
+      "36384163",
+      "36537206",
+      "36801863",
+      "42461704",
+      "40172964",
+      "38443218",
+      "5538822",
+      "37267947",
+      "9055068",
+      "38864388",
+      "40817912",
+      "24884953",
+      "28985291",
+      "35622886",
+      "11564861",
+      "21830782",
+      "36593413",
+      "38598855",
+      "39696488",
+      "25948416",
+      "39566771",
+      "34619744",
+      "40082411",
+      "10737770",
+      "35690588",
+      "41643048",
+      "40344384",
+      "30816277",
+      "38713612",
+      "41863075",
+      "28811374",
+      "41781609"
+    ],
+    "review": [
+      "42701218",
+      "38041553",
+      "39631148",
+      "40393858",
+      "41996895",
+      "39579910",
+      "38443218",
+      "28985291",
+      "21830782",
+      "38598855",
+      "39696488"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1023",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jacsat/article-lookup/doi/10.1021/jacs.6c05500",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

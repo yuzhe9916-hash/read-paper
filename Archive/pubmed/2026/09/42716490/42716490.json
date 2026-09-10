@@ -1,0 +1,138 @@
+{
+  "identity": {
+    "pmid": "42716490",
+    "doi": "10.1093/bib/bbag478",
+    "title": "SpacerScope: binary-vectorized, genome-wide off-target profiling for RNA-guided nucleases without prior candidate-site bias."
+  },
+  "content": {
+    "abstract": "The precision of CRISPR/Cas systems is fundamental to their application in plant and animal biotechnology. However, comprehensive sequence-based off-target candidate discovery remains a computational bottleneck, particularly in large and complex genomes. Here we developed SpacerScope, an off-target candidate discovery framework that enables unbiased, genome-wide discovery by leveraging binary vectorization, bitwise filtering, and right-end-anchored alignment. Benchmarking against human CIRCLE-seq data demonstrated that SpacerScope recovered 100% of validated off-target sites (6142/6142), matching the sensitivity of exhaustive algorithms. Crucially, SpacerScope achieved this maximum candidate recovery while substantially reducing computational overhead. In large-genome evaluations, SpacerScope maintained low peak memory usage of 2.20 GiB and achieved substantial runtime improvements over indel-aware comparator tools, including more than 50-fold speedup relative to Cas-OFFinder 3 (544 s versus 29 185 s). Furthermore, comparative analyses in polyploid species, such as the octoploid strawberry, revealed that SpacerScope identified larger sequence-compatible candidate burdens than standard web-based design platforms. Our results establish SpacerScope as a high-speed framework for sequence-based genome-wide off-target candidate discovery across diverse and highly repetitive genomic landscapes. The source code and program was publicly available at https://github.com/charlesqu666/SpacerScope. Short Abstract CRISPR/Cas sequence-based off-target candidate discovery remains computationally challenging in large, repetitive, and polyploid genomes. Existing tools either miss indel-containing candidate sites or incur prohibitive runtime and memory costs. We developed SpacerScope, a binary-vectorized framework that enables unbiased, genome-wide off-target candidate discovery without pre-selected candidate sites. By integrating bitwise filtering with right-end-anchored alignment, SpacerScope recovered 100% of validated off-target sites in human CIRCLE-seq data while using only 2.20 GiB of memory and achieving more than 10-fold speedup over indel-aware alternatives. Evaluation in plant genomes, including rice and octoploid strawberry, further demonstrated SpacerScope's capacity to identify larger sequence-compatible candidate burdens overlooked by standard tools. SpacerScope thus provides a high-speed framework for sequence-based genome-wide off-target candidate discovery across diverse and highly repetitive genomic landscapes, supporting downstream prioritization.",
+    "keywords": [
+      "CRISPR/Cas",
+      "binary vectorization",
+      "genome editing",
+      "indel-aware alignment",
+      "off-target prediction",
+      "polyploid genomes"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems",
+      "*Software",
+      "Humans",
+      "Algorithms",
+      "*RNA, Guide, CRISPR-Cas Systems/genetics",
+      "Genome, Plant",
+      "Genomics/methods",
+      "Computational Biology/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qu, Yanji",
+        "Wang, Yaxuan",
+        "Wang, Yan",
+        "Tang, Haoru",
+        "Chen, Qing"
+      ],
+      "short_names": [
+        "Qu Y",
+        "Wang Y",
+        "Wang Y",
+        "Tang H",
+        "Chen Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1276-1064"
+      ],
+      "affiliations": [
+        "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+        "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+        "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+        "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+        "Key Laboratory of Agricultural Bioinformatics, Ministry of Education, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+        "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+        "Key Laboratory of Agricultural Bioinformatics, Ministry of Education, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qu, Yanji",
+        "short_name": "Qu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yaxuan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Haoru",
+        "short_name": "Tang H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+          "Key Laboratory of Agricultural Bioinformatics, Ministry of Education, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Qing",
+        "short_name": "Chen Q",
+        "identifiers": [
+          "0000-0002-1276-1064"
+        ],
+        "affiliations": [
+          "College of Horticulture, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China.",
+          "Key Laboratory of Agricultural Bioinformatics, Ministry of Education, Sichuan Agricultural University, Huimin Road 211, Wenjiang District, Chengdu City 611130, Sichuan Province, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716490"
+    ],
+    "review": [
+      "42716490"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

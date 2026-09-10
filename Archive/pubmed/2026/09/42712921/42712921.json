@@ -1,0 +1,315 @@
+{
+  "identity": {
+    "pmid": "42712921",
+    "doi": "10.1002/mco2.70964",
+    "title": "High-Content CRISPR Screening: Methods and Applications."
+  },
+  "content": {
+    "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR)-Cas9 screening has become a central technology in functional genomics, enabling genome-scale interrogation via pooled perturbations. Early CRISPR screens employed survival or simple phenotypic readouts to identify essential genes and drug resistance mechanisms. However, as biological questions have shifted toward understanding regulatory networks, cellular heterogeneity, and context-dependent gene functions, there has been increasing demand for screening strategies capable of capturing complex cellular phenotypes beyond cell fitness. Recent advances in single-cell sequencing, high-content imaging, and spatial transcriptomics have expanded the resolution of CRISPR screening by enabling multidimensional phenotypic characterization following genetic perturbation. By integrating pooled perturbations with diverse readouts, these approaches systematically map targeted gene edits to transcriptional states, cellular phenotypes, and microenvironmental contexts. Meanwhile, innovations in library design, delivery, and computational pipelines have further improved the robustness and interpretability of high-content screening platforms. This review synthesizes the methodological evolution of CRISPR screening, emphasizing advances in perturbation strategies, delivery systems, and multimodal readouts. Representative applications spanning oncology, immunotherapy, developmental biology, neurobiology, and infectious diseases are delineated to demonstrate refined gene network annotations. Additionally, existing technical bottlenecks, such as scalability, cost constraints, and in vivo limitations, are critically assessed. Finally, future directions are proposed to facilitate the development of precise medicine.",
+    "keywords": [
+      "CRISPR screening",
+      "delivery systems",
+      "functional genomics",
+      "high-content screening",
+      "immunotherapy"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yike",
+        "Zhang, Yimeng",
+        "Tang, Xudong",
+        "Deng, Xinyu",
+        "Zhou, Yitian",
+        "Wu, Yanfeng",
+        "Luo, Jianhua"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Zhang Y",
+        "Tang X",
+        "Deng X",
+        "Zhou Y",
+        "Wu Y",
+        "Luo J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Naval Medical University Shanghai China.",
+        "Naval Medical University Shanghai China.",
+        "Naval Medical University Shanghai China.",
+        "Naval Medical University Shanghai China.",
+        "Naval Medical University Shanghai China.",
+        "Naval Medical University Shanghai China.",
+        "National Key Laboratory of Immunity & Inflammation Institute of Immunology Navy Medical University Shanghai China.",
+        "Naval Medical University Shanghai China.",
+        "National Key Laboratory of Immunity & Inflammation Institute of Immunology Navy Medical University Shanghai China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yike",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Naval Medical University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yimeng",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Naval Medical University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Tang, Xudong",
+        "short_name": "Tang X",
+        "identifiers": [],
+        "affiliations": [
+          "Naval Medical University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Deng, Xinyu",
+        "short_name": "Deng X",
+        "identifiers": [],
+        "affiliations": [
+          "Naval Medical University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yitian",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Naval Medical University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yanfeng",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Naval Medical University Shanghai China.",
+          "National Key Laboratory of Immunity & Inflammation Institute of Immunology Navy Medical University Shanghai China."
+        ]
+      },
+      {
+        "full_name": "Luo, Jianhua",
+        "short_name": "Luo J",
+        "identifiers": [],
+        "affiliations": [
+          "Naval Medical University Shanghai China.",
+          "National Key Laboratory of Immunity & Inflammation Institute of Immunology Navy Medical University Shanghai China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "MedComm"
+    ],
+    "journal_abbrev": [
+      "MedComm (2020)"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 11:38",
+    "fetched_at": "2026-09-10 11:55:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42712921",
+      "42475469",
+      "41826830",
+      "42002657",
+      "39019219",
+      "41711690",
+      "41715150",
+      "30890156",
+      "41356789",
+      "42180850",
+      "42528148",
+      "41952056",
+      "36504444",
+      "39085047",
+      "40401794",
+      "40530689",
+      "26048892",
+      "41910274",
+      "35840661",
+      "36355853",
+      "36479127",
+      "41402283",
+      "29943304",
+      "38186450",
+      "39522648",
+      "29959923",
+      "41329461",
+      "40081369",
+      "33823021",
+      "28558198",
+      "42128985",
+      "40129147",
+      "35189910",
+      "40697666",
+      "35700449",
+      "25854182",
+      "29561791",
+      "41862973",
+      "40113237",
+      "38558968",
+      "42269591",
+      "42196223",
+      "41516041",
+      "42263664",
+      "37989654",
+      "37214176",
+      "36928506",
+      "41732321",
+      "28333914",
+      "31181342",
+      "38531306",
+      "41271362",
+      "26673779",
+      "33609360",
+      "38465224",
+      "28099430",
+      "42185540",
+      "39487259",
+      "40611420",
+      "41854240",
+      "41218606",
+      "33748164",
+      "41759529",
+      "27329784",
+      "25731961",
+      "39263032",
+      "40745001",
+      "29701021",
+      "29913329",
+      "42423795",
+      "42322576",
+      "36797756",
+      "42090053",
+      "33835761",
+      "40763823",
+      "41648157",
+      "36988873",
+      "31763777",
+      "30779043",
+      "39424727",
+      "41057263",
+      "32098761",
+      "33054419",
+      "42190664",
+      "29363560",
+      "40652511",
+      "38809084",
+      "26041264",
+      "39999849",
+      "33119236",
+      "32476557",
+      "30350207",
+      "29019352",
+      "37562410",
+      "37356052",
+      "31727120",
+      "24717434",
+      "26165496",
+      "40214585",
+      "41463023"
+    ],
+    "review": [
+      "42712921",
+      "42002657",
+      "39019219",
+      "41711690",
+      "41715150",
+      "42180850",
+      "42528148",
+      "41952056",
+      "36504444",
+      "39085047",
+      "40401794",
+      "40530689",
+      "26048892",
+      "41910274",
+      "35840661",
+      "36355853",
+      "36479127",
+      "29943304",
+      "38186450",
+      "39522648",
+      "29959923",
+      "41329461",
+      "33823021",
+      "28558198",
+      "42128985",
+      "40129147",
+      "35189910",
+      "40697666",
+      "25854182",
+      "29561791",
+      "41862973",
+      "40113237",
+      "42269591",
+      "42196223",
+      "41516041",
+      "42263664",
+      "37989654",
+      "36928506",
+      "41732321",
+      "31181342",
+      "41271362",
+      "26673779",
+      "39487259",
+      "40611420",
+      "41854240",
+      "33748164",
+      "27329784",
+      "25731961",
+      "39263032",
+      "40745001",
+      "29701021",
+      "29913329",
+      "42423795",
+      "42322576",
+      "36797756",
+      "42090053",
+      "33835761",
+      "40763823",
+      "36988873",
+      "41057263",
+      "32098761",
+      "38809084",
+      "26041264",
+      "39999849",
+      "37562410",
+      "37356052",
+      "31727120",
+      "40214585",
+      "41463023"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

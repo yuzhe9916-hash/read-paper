@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "pmid": "42700248",
+    "doi": "10.1007/s00011-026-02343-1",
+    "title": "Theaflavin attenuates atherosclerosis by targeting GSK-3beta to suppress pyroptosis and Promote Autophagy in macrophages."
+  },
+  "content": {
+    "abstract": "OBJECTIVE AND DESIGN: This experimental study investigated theaflavin (TF) as a potential treatment for atherosclerosis (AS), focusing on its regulation of macrophage pyroptosis and autophagy via GSK-3beta. MATERIAL OR SUBJECTS: Human aortic tissues from controls and subjects with AS, twelve male ApoE(-/-) mice, and ox-LDL-induced Ana-1 mouse macrophages, including Gsdmd/Caspase-1-overexpressing and Gsdmd-deficient cells, were studied. TREATMENT: After 6 weeks of high-fat feeding, mice received TF (10 mg/kg/day, intraperitoneally) or PBS for 6 weeks; macrophages were stimulated with ox-LDL (20 mug/mL) and treated with TF for 48 h. METHODS: Oil Red O staining, immunofluorescence, Western blotting, ELISA, CRISPR/Cas9, molecular docking, cellular thermal shift assay, and co-immunoprecipitation were performed. Data were expressed as mean +/- SD and analyzed using unpaired two-tailed t-tests or ANOVA with Dunnett's test. RESULTS: TF attenuated aortic plaque formation and reduced GSDMD-N, C-CASP1, NLRP3, and IL-1beta. In vitro, TF suppressed lipid uptake in Gsdmd- or Caspase-1-overexpressing macrophages but showed no effect in Gsdmd-deficient cells. TF interacted with GSK-3beta, reduced p-GSK-3beta(Tyr216), promoted autophagy, and enhanced GSK-3beta-cathepsin B interaction. CONCLUSIONS: TF attenuates AS progression by suppressing pyroptosis-mediated foam cell formation and promoting autophagy through modulation of GSK-3beta activity.",
+    "keywords": [
+      "Atherosclerosis",
+      "Autophagy",
+      "GSK-3beta",
+      "Pyroptosis",
+      "Theaflavin"
+    ],
+    "mesh_terms": [
+      "*Biflavonoids/pharmacology/therapeutic use",
+      "Animals",
+      "*Glycogen Synthase Kinase 3 beta/metabolism",
+      "Male",
+      "*Pyroptosis/drug effects",
+      "*Macrophages/drug effects/metabolism",
+      "*Atherosclerosis/drug therapy/metabolism",
+      "Humans",
+      "*Catechin/pharmacology/therapeutic use",
+      "Autophagy/drug effects",
+      "Mice, Inbred C57BL",
+      "Mice"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Sha",
+        "Liao, Liping",
+        "Yang, Qin",
+        "Xia, Tianqin",
+        "Qin, Shihan",
+        "Tang, Qingrui",
+        "Li, Mingzhu",
+        "Bian, Jiaojiao",
+        "Du, Yu",
+        "Yong, Xi",
+        "Fan, Xiaochun",
+        "Xu, Zhengmin"
+      ],
+      "short_names": [
+        "Yang S",
+        "Liao L",
+        "Yang Q",
+        "Xia T",
+        "Qin S",
+        "Tang Q",
+        "Li M",
+        "Bian J",
+        "Du Y",
+        "Yong X",
+        "Fan X",
+        "Xu Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3929-5040"
+      ],
+      "affiliations": [
+        "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China.",
+        "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China.",
+        "Infectious Diseases Department of Affiliated Hospital, North Sichuan Medical College, Nanchong, 637000, China.",
+        "Pharmacy Department of Affiliated Hospital, North Sichuan Medical College, Nanchong, 637000, China.",
+        "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China.",
+        "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China.",
+        "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China.",
+        "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China.",
+        "Department of Anesthesiology, Nanchong Central Hospital, Nanchong, 637000, China.",
+        "Vascular Surgery Department of Affiliated Hospital, North Sichuan Medical College, Nanchong, 637000, China. yongxi@nsmc.edu.cn.",
+        "Traditional Chinese Medicine for Prevention and Treatment of Musculoskeletal Diseases Key Laboratory of Nanchong, Nanchong, 637000, China. 724297789@qq.com.",
+        "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China. xu.zhengmin@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Sha",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Liping",
+        "short_name": "Liao L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qin",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Infectious Diseases Department of Affiliated Hospital, North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Tianqin",
+        "short_name": "Xia T",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmacy Department of Affiliated Hospital, North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Shihan",
+        "short_name": "Qin S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Qingrui",
+        "short_name": "Tang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Mingzhu",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Bian, Jiaojiao",
+        "short_name": "Bian J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Du, Yu",
+        "short_name": "Du Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Nanchong Central Hospital, Nanchong, 637000, China."
+        ]
+      },
+      {
+        "full_name": "Yong, Xi",
+        "short_name": "Yong X",
+        "identifiers": [],
+        "affiliations": [
+          "Vascular Surgery Department of Affiliated Hospital, North Sichuan Medical College, Nanchong, 637000, China. yongxi@nsmc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Fan, Xiaochun",
+        "short_name": "Fan X",
+        "identifiers": [],
+        "affiliations": [
+          "Traditional Chinese Medicine for Prevention and Treatment of Musculoskeletal Diseases Key Laboratory of Nanchong, Nanchong, 637000, China. 724297789@qq.com."
+        ]
+      },
+      {
+        "full_name": "Xu, Zhengmin",
+        "short_name": "Xu Z",
+        "identifiers": [
+          "0000-0002-3929-5040"
+        ],
+        "affiliations": [
+          "Institute of Pharmaceutical Sciences of School of Pharmacy of North Sichuan Medical College, Nanchong, 637000, China. xu.zhengmin@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Inflammation research : official journal of the European Histamine Research Society ... [et al.]"
+    ],
+    "journal_abbrev": [
+      "Inflamm Res"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42700248",
+      "42431105",
+      "36056793",
+      "39819403",
+      "42365690",
+      "39642710",
+      "36870461",
+      "38955059",
+      "40393254",
+      "35182545",
+      "39750046",
+      "41795807",
+      "41914296",
+      "42572427",
+      "39881287",
+      "40577270",
+      "42166224",
+      "38695170",
+      "40594437",
+      "27825167",
+      "31449974",
+      "38812449",
+      "41039585",
+      "38442806",
+      "33886081",
+      "42057475",
+      "33905062",
+      "25512114",
+      "37384401",
+      "40419168",
+      "31386895",
+      "32851768",
+      "36689357",
+      "40307114",
+      "39747459",
+      "39456159",
+      "33568202",
+      "36229750",
+      "36610138",
+      "35969897",
+      "42486828",
+      "38289512",
+      "42036379",
+      "34588488",
+      "20888430",
+      "42144162",
+      "41534127",
+      "36716974",
+      "40045452",
+      "39715879",
+      "42107750",
+      "39805790",
+      "41664203",
+      "38029844",
+      "41237446",
+      "40393213",
+      "42573831",
+      "40486518",
+      "40319296",
+      "42343519",
+      "35550264",
+      "42422952",
+      "40795589",
+      "41239426",
+      "39675109",
+      "36610117",
+      "41467377",
+      "31816893",
+      "42173415",
+      "39214016",
+      "38526033",
+      "41442993",
+      "42543368",
+      "41975022",
+      "33151398",
+      "42508544",
+      "37652272",
+      "29292046",
+      "41469726",
+      "31662443",
+      "39359170",
+      "22334036",
+      "33691258",
+      "33915432",
+      "42543314",
+      "40779351",
+      "42318851",
+      "26440826",
+      "39742694",
+      "38896288",
+      "28468003",
+      "39747738",
+      "41891145",
+      "32181963",
+      "33755271",
+      "38518643",
+      "34646375",
+      "34704457",
+      "23897984",
+      "28365854"
+    ],
+    "review": [
+      "42700248"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/atherosclerosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Atherosclerosis"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00011-026-02343-1",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1087",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

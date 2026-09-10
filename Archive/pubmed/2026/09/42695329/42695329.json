@@ -1,0 +1,372 @@
+{
+  "identity": {
+    "pmid": "42695329",
+    "doi": "10.1111/ppl.71097",
+    "title": "Establishment of a CRISPR-Cas9 Library for Indica Rice and Identification of OsOPR5 (LOC_Os06g11210) as a Regulator of Root Architecture."
+  },
+  "content": {
+    "abstract": "Functional characterization of a large number of rice genes remains a major challenge despite the availability of genome sequences and large-scale transcriptomic datasets. CRISPR-Cas9 library is a powerful approach for high-throughput targeted mutagenesis; however, its application in indica rice cultivars remains limited due to low transformation and regeneration efficiencies. In this study, we developed a CRISPR-Cas9 library targeting 12,000 rice genes and evaluated its utility for functional genomics in the indica cultivar MTU-1010. Sanger sequencing and NGS analysis of the plasmid library revealed high sgRNA coverage and more than 80% accuracy. Transformation of the developed library into the indica cultivar MTU-1010 resulted in a high target editing efficiency, with 90% of analyzed transgenic plants carrying mutations at the intended target site. Functional analysis of one homozygous mutant identified a previously uncharacterized role for OsOPR5 (LOC_Os06g11210), a member of the 12-oxophytodienoate reductase family in root architecture. The opr5 mutants exhibited significant reductions in lateral root number, seminal and crown root number, and root length, demonstrating that OsOPR5 positively regulates root system architecture in rice. Notably, endogenous jasmonic acid (JA) and JA-isoleucine levels were not significantly altered in the mutant, suggesting potential functional specialization or redundancy among rice OPR family members for JA accumulation. The root system architecture is a key determinant of water and nutrient acquisition; our results suggest that OsOPR5 may play an important role in adaptation under adverse environmental conditions. Collectively, this study establishes an efficient genome-editing platform for indica rice and identifies OsOPR5 as a novel regulator of root development.",
+    "keywords": [
+      "CRISPR-Cas9 library",
+      "OPR",
+      "jasmonic acid",
+      "rice",
+      "roots"
+    ],
+    "mesh_terms": [
+      "*Oryza/genetics/metabolism",
+      "*CRISPR-Cas Systems/genetics",
+      "*Plant Roots/genetics/anatomy & histology/growth & development/metabolism",
+      "*Plant Proteins/genetics/metabolism",
+      "Plants, Genetically Modified",
+      "Gene Library",
+      "Gene Expression Regulation, Plant",
+      "Mutation",
+      "Cyclopentanes/metabolism",
+      "Oxylipins/metabolism",
+      "Gene Editing"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chowdhury, Sankhadeep",
+        "Nayak, Suprava Priyadarsini",
+        "Pattanayak, Rajashree",
+        "Sardar, Shaswati",
+        "Majhi, Ashis",
+        "Yadav, Banita",
+        "Dasari, Abhilash",
+        "Mandlik, Rushil",
+        "Sonah, Humira",
+        "Deshmukh, Rupesh",
+        "Gupta, Ishaan",
+        "Bauer, Petra",
+        "Ram, Hasthi"
+      ],
+      "short_names": [
+        "Chowdhury S",
+        "Nayak SP",
+        "Pattanayak R",
+        "Sardar S",
+        "Majhi A",
+        "Yadav B",
+        "Dasari A",
+        "Mandlik R",
+        "Sonah H",
+        "Deshmukh R",
+        "Gupta I",
+        "Bauer P",
+        "Ram H"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-4066-4506",
+        "ORCID: 0009-0008-8872-6979",
+        "ORCID: 0009-0009-8727-4023",
+        "ORCID: 0009-0009-5317-7268",
+        "ORCID: 0009-0003-0789-3905",
+        "ORCID: 0000-0003-1702-2516",
+        "ORCID: 0000-0003-4796-6120",
+        "ORCID: 0000-0003-4167-6552",
+        "ORCID: 0000-0002-0404-4532",
+        "ORCID: 0000-0003-0893-3895"
+      ],
+      "affiliations": [
+        "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+        "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+        "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+        "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+        "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+        "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+        "Indian Institute of Technology, New Delhi, India.",
+        "Central University of Haryana, Mahendergarh, Haryana, India.",
+        "Central University of Haryana, Mahendergarh, Haryana, India.",
+        "Central University of Haryana, Mahendergarh, Haryana, India.",
+        "Indian Institute of Technology, New Delhi, India.",
+        "Institute of Botany, Heinrich Heine University, Dusseldorf, Germany.",
+        "Cluster of Excellence on Plant Science (CEPLAS), Heinrich-Heine-University, Dusseldorf, Germany.",
+        "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+        "Institute of Botany, Heinrich Heine University, Dusseldorf, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chowdhury, Sankhadeep",
+        "short_name": "Chowdhury S",
+        "identifiers": [
+          "0009-0003-4066-4506"
+        ],
+        "affiliations": [
+          "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Nayak, Suprava Priyadarsini",
+        "short_name": "Nayak SP",
+        "identifiers": [
+          "0009-0008-8872-6979"
+        ],
+        "affiliations": [
+          "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Pattanayak, Rajashree",
+        "short_name": "Pattanayak R",
+        "identifiers": [
+          "0009-0009-8727-4023"
+        ],
+        "affiliations": [
+          "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Sardar, Shaswati",
+        "short_name": "Sardar S",
+        "identifiers": [],
+        "affiliations": [
+          "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Majhi, Ashis",
+        "short_name": "Majhi A",
+        "identifiers": [
+          "0009-0009-5317-7268"
+        ],
+        "affiliations": [
+          "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Yadav, Banita",
+        "short_name": "Yadav B",
+        "identifiers": [
+          "0009-0003-0789-3905"
+        ],
+        "affiliations": [
+          "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Dasari, Abhilash",
+        "short_name": "Dasari A",
+        "identifiers": [],
+        "affiliations": [
+          "Indian Institute of Technology, New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Mandlik, Rushil",
+        "short_name": "Mandlik R",
+        "identifiers": [
+          "0000-0003-1702-2516"
+        ],
+        "affiliations": [
+          "Central University of Haryana, Mahendergarh, Haryana, India."
+        ]
+      },
+      {
+        "full_name": "Sonah, Humira",
+        "short_name": "Sonah H",
+        "identifiers": [
+          "0000-0003-4796-6120"
+        ],
+        "affiliations": [
+          "Central University of Haryana, Mahendergarh, Haryana, India."
+        ]
+      },
+      {
+        "full_name": "Deshmukh, Rupesh",
+        "short_name": "Deshmukh R",
+        "identifiers": [
+          "0000-0003-4167-6552"
+        ],
+        "affiliations": [
+          "Central University of Haryana, Mahendergarh, Haryana, India."
+        ]
+      },
+      {
+        "full_name": "Gupta, Ishaan",
+        "short_name": "Gupta I",
+        "identifiers": [],
+        "affiliations": [
+          "Indian Institute of Technology, New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Bauer, Petra",
+        "short_name": "Bauer P",
+        "identifiers": [
+          "0000-0002-0404-4532"
+        ],
+        "affiliations": [
+          "Institute of Botany, Heinrich Heine University, Düsseldorf, Germany.",
+          "Cluster of Excellence on Plant Science (CEPLAS), Heinrich-Heine-University, Düsseldorf, Germany."
+        ]
+      },
+      {
+        "full_name": "Ram, Hasthi",
+        "short_name": "Ram H",
+        "identifiers": [
+          "0000-0003-0893-3895"
+        ],
+        "affiliations": [
+          "BRIC-National Institute of Plant Genome Research (NIPGR), New Delhi, India.",
+          "Institute of Botany, Heinrich Heine University, Düsseldorf, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physiologia plantarum"
+    ],
+    "journal_abbrev": [
+      "Physiol Plant"
+    ],
+    "pub_date": "2026 Sep-Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 17:40",
+    "fetched_at": "2026-09-10 11:57:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42695329",
+      "42611326",
+      "41275110",
+      "30961525",
+      "37446265",
+      "28584922",
+      "38217739",
+      "32803476",
+      "34089089",
+      "28349358",
+      "33775361",
+      "39160350",
+      "36012245",
+      "30645710",
+      "28937992",
+      "31734927",
+      "17470145",
+      "31991936",
+      "41291039",
+      "40029441",
+      "24854982",
+      "31004275",
+      "25917172",
+      "28821602",
+      "33810044",
+      "41942919",
+      "29579147",
+      "39693337",
+      "35067302",
+      "42458955",
+      "40362188",
+      "34619328",
+      "26284791",
+      "34209672",
+      "42325191",
+      "28676963",
+      "28349304",
+      "35168613",
+      "38193234",
+      "39941122",
+      "34681568",
+      "33383688",
+      "33218644",
+      "31264225",
+      "31900582",
+      "24047645",
+      "25627217",
+      "26936792",
+      "37561192",
+      "40139718",
+      "33270810",
+      "42251763",
+      "33113937",
+      "36472361",
+      "29132026",
+      "41097046",
+      "29421512",
+      "42106044",
+      "27747971",
+      "37995578",
+      "31129735",
+      "41139369",
+      "26258667",
+      "40739481",
+      "32652789",
+      "31394891",
+      "32752068",
+      "30208656",
+      "29511025",
+      "27510362",
+      "40011289",
+      "23715469",
+      "32405769",
+      "40457783",
+      "33960379",
+      "40691201",
+      "35700449",
+      "27875019",
+      "41013219",
+      "40464988",
+      "34696530",
+      "36430643",
+      "38656519",
+      "30545904",
+      "41022133",
+      "26689769",
+      "30911123",
+      "31035982",
+      "34143292",
+      "33206358",
+      "32786122",
+      "30691438",
+      "17022177",
+      "30791357",
+      "33884679",
+      "27874087",
+      "37755326",
+      "33471331",
+      "38954114",
+      "42521823"
+    ],
+    "review": [
+      "42695329",
+      "29579147"
+    ],
+    "pmc": [
+      "13543039"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42695329/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1111/ppl.71097",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

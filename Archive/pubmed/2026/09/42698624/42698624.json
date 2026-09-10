@@ -1,0 +1,328 @@
+{
+  "identity": {
+    "pmid": "42698624",
+    "doi": "10.3389/fcell.2026.1918694",
+    "title": "An isogenic hiPSC-derived keratinocyte model reveals CXCL10/CXCL11 inflammatory dysregulation in epidermolysis bullosa simplex."
+  },
+  "content": {
+    "abstract": "Epidermolysis bullosa simplex (EBS) is a genetic skin disorder driven by dominant pathogenic variants in KRT5 or KRT14 genes, leading to cytoskeletal fragility in basal keratinocytes and intraepidermal blistering. No curative therapies are currently available, and the link between keratin mutations and disease mechanisms remains incompletely understood. To further investigate the inflammatory component of EBS, we used a model of hiPSC-derived keratinocytes carrying dominant KRT5 variants, alongside a genetically corrected isogenic counterpart. This approach established a direct link between the KRT5 variants and keratin aggregation, impaired proliferation, and an inflammatory phenotype. The inflammatory signature was confirmed by increased expression of IL1A and IL1B, consistent with previous observations in EBS, while CXCL10 and CXCL11 emerged as newly identified dysregulated chemokines. Their consistent increase across independent cell lines, elevated secretion, and normalization in the CRISPR-corrected isogenic cells indicate that KRT5 variants trigger a keratinocyte-intrinsic CXCL10/CXCL11 inflammatory response. Pharmacological inhibition of the IFN-gamma-JAK1/2-STAT1 pathway suppressed their secretion, supporting JAK inhibition as a potential therapeutic strategy to modulate EBS-associated inflammatory dysregulation. In conclusion, this study shows that beyond structural defects, KRT5 variants establish a keratinocyte-intrinsic inflammatory phenotype in which the CXCL10 and CXCL11 axis emerges as a key disease-associated signature and a promising therapeutic target.",
+    "keywords": [
+      "CXCL10/CXCL11",
+      "epidermolysis bullosa simplex",
+      "induced pluripotent stem cells",
+      "inflammation",
+      "keratinocytes"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saidani, Manoubia",
+        "Martineau, Sabrina",
+        "Mahmoud, Marwa",
+        "Domingues, Sophie",
+        "Doyen, Manon",
+        "El Kassar, Lina",
+        "Hadj-Rabia, Smail",
+        "Bodemer, Christine",
+        "Allouche, Jennifer",
+        "Baldeschi, Christine",
+        "Holic, Nathalie"
+      ],
+      "short_names": [
+        "Saidani M",
+        "Martineau S",
+        "Mahmoud M",
+        "Domingues S",
+        "Doyen M",
+        "El Kassar L",
+        "Hadj-Rabia S",
+        "Bodemer C",
+        "Allouche J",
+        "Baldeschi C",
+        "Holic N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "CECS/AFM, I- STEM, Corbeil-Essonnes, France.",
+        "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France.",
+        "Human Medical Molecular Genetics Department, Human Genetics and Genome Research Institute, National Research Centre (NRC), Cairo, Egypt.",
+        "Stem Cell Research Unit, Medical Research Centre of Excellence, NRC, Cairo, Egypt.",
+        "CECS/AFM, I- STEM, Corbeil-Essonnes, France.",
+        "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France.",
+        "CECS/AFM, I- STEM, Corbeil-Essonnes, France.",
+        "Department of Dermatology, Reference Centre for Genodermatoses and Rare Skin Disease (MAGEC), Filiere FIMARAD, Hopital Universitaire Necker-Enfants Malades, APHP-Centre, Paris, France.",
+        "Paris Cite University, Paris, France.",
+        "Department of Dermatology, Reference Centre for Genodermatoses and Rare Skin Disease (MAGEC), Filiere FIMARAD, Hopital Universitaire Necker-Enfants Malades, APHP-Centre, Paris, France.",
+        "Paris Cite University, Paris, France.",
+        "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France.",
+        "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France.",
+        "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saidani, Manoubia",
+        "short_name": "Saidani M",
+        "identifiers": [],
+        "affiliations": [
+          "CECS/AFM, I- STEM, Corbeil-Essonnes, France."
+        ]
+      },
+      {
+        "full_name": "Martineau, Sabrina",
+        "short_name": "Martineau S",
+        "identifiers": [],
+        "affiliations": [
+          "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France."
+        ]
+      },
+      {
+        "full_name": "Mahmoud, Marwa",
+        "short_name": "Mahmoud M",
+        "identifiers": [],
+        "affiliations": [
+          "Human Medical Molecular Genetics Department, Human Genetics and Genome Research Institute, National Research Centre (NRC), Cairo, Egypt.",
+          "Stem Cell Research Unit, Medical Research Centre of Excellence, NRC, Cairo, Egypt."
+        ]
+      },
+      {
+        "full_name": "Domingues, Sophie",
+        "short_name": "Domingues S",
+        "identifiers": [],
+        "affiliations": [
+          "CECS/AFM, I- STEM, Corbeil-Essonnes, France."
+        ]
+      },
+      {
+        "full_name": "Doyen, Manon",
+        "short_name": "Doyen M",
+        "identifiers": [],
+        "affiliations": [
+          "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France."
+        ]
+      },
+      {
+        "full_name": "El Kassar, Lina",
+        "short_name": "El Kassar L",
+        "identifiers": [],
+        "affiliations": [
+          "CECS/AFM, I- STEM, Corbeil-Essonnes, France."
+        ]
+      },
+      {
+        "full_name": "Hadj-Rabia, Smail",
+        "short_name": "Hadj-Rabia S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Reference Centre for Genodermatoses and Rare Skin Disease (MAGEC), Filière FIMARAD, Hopital Universitaire Necker-Enfants Malades, APHP-Centre, Paris, France.",
+          "Paris Cite University, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Bodemer, Christine",
+        "short_name": "Bodemer C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, Reference Centre for Genodermatoses and Rare Skin Disease (MAGEC), Filière FIMARAD, Hopital Universitaire Necker-Enfants Malades, APHP-Centre, Paris, France.",
+          "Paris Cite University, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Allouche, Jennifer",
+        "short_name": "Allouche J",
+        "identifiers": [],
+        "affiliations": [
+          "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France."
+        ]
+      },
+      {
+        "full_name": "Baldeschi, Christine",
+        "short_name": "Baldeschi C",
+        "identifiers": [],
+        "affiliations": [
+          "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France."
+        ]
+      },
+      {
+        "full_name": "Holic, Nathalie",
+        "short_name": "Holic N",
+        "identifiers": [],
+        "affiliations": [
+          "INSERM/UEPS UMR 861, Paris Saclay University, I-STEM, Corbeil-Essonnes, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-10 11:56:42"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42698624",
+      "20301543",
+      "40406951",
+      "20128788",
+      "20030639",
+      "35490743",
+      "35265936",
+      "30099737",
+      "34643242",
+      "26432462",
+      "32884918",
+      "39273442",
+      "38053334",
+      "31078522",
+      "16786515",
+      "32885477",
+      "21623745",
+      "28561874",
+      "28765827",
+      "12655565",
+      "19157792",
+      "16098032",
+      "32096448",
+      "35334406",
+      "38414793",
+      "31302245",
+      "21375516",
+      "12890194",
+      "21490615",
+      "34830328",
+      "34680898",
+      "9036937",
+      "34912369",
+      "16882168",
+      "26929861",
+      "22639907",
+      "32616561",
+      "20060687",
+      "12930305",
+      "19267394",
+      "35247839",
+      "20199538",
+      "25961909",
+      "40371845",
+      "29932457",
+      "17274000",
+      "35862015",
+      "17255201",
+      "20571545",
+      "21877134",
+      "20849457",
+      "33471381",
+      "37827535",
+      "10494094",
+      "35691363",
+      "8586658",
+      "14987259",
+      "40700032",
+      "25830653",
+      "27882080",
+      "24981776",
+      "40835085",
+      "11480251",
+      "34740256",
+      "19797037",
+      "32179493",
+      "17039244",
+      "38474236",
+      "41247183",
+      "30078200",
+      "33135329",
+      "21326298",
+      "38742646",
+      "20301481",
+      "42383160",
+      "32657488",
+      "26668653",
+      "41224305",
+      "31579952",
+      "19847192",
+      "27384765",
+      "18713255",
+      "31772641",
+      "11069768",
+      "20923750",
+      "36004757",
+      "28888469",
+      "12707098",
+      "20055872",
+      "39141798",
+      "14660619",
+      "12101866",
+      "40330923",
+      "25017986",
+      "40819920",
+      "7692916",
+      "25473227",
+      "22363617",
+      "10383750",
+      "10765693"
+    ],
+    "review": [
+      "42698624",
+      "39273442",
+      "12655565",
+      "34830328",
+      "33471381",
+      "30078200",
+      "18713255"
+    ],
+    "pmc": [
+      "13541660"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42698624/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcell.2026.1918694",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

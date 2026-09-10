@@ -1,0 +1,337 @@
+{
+  "identity": {
+    "pmid": "42686672",
+    "doi": "10.1002/advs.202519508",
+    "title": "Attomolar Detection of HIV-1 With Label-Free RCA-rCRISPR on Smartphone."
+  },
+  "content": {
+    "abstract": "HIV remains a major global public health challenge, causing 42.3 million deaths since its discovery in the early 1980s. Despite progress in prevention and treatment, around 60% of people with HIV (PWH) remain undiagnosed in resource-limited regions due to the lack of inexpensive and equipment-free detection methods. Here, we developed a low-cost, robust, and label-free CRISPR-based diagnostic platform for detecting HIV viral load with minimal instrumentation. Our strategy combines rolling circle amplification (RCA) with plasmid reporter-based ratiometric CRISPR (rCRISPR) that enables the detection of HIV RNA down to single-digit aM sensitivity from PWH-derived HIV samples ex vivo. Unlike conventional RCA, which requires fragmentations of long RNA target sequences, our design harnesses the triple functions of the phi29 DNA polymerase (namely exonuclease activity, polymerization, and strand displacement), enabling the detection of the long HIV genome without pre-fragmentation. Cas12a reaction then detected RCA products by converting supercoiled PhiX174 plasmid reporters to relaxed forms. The target concentration was quantified based on the supercoil-to-relaxed plasmid ratio. Further, we constructed an all-in-one smartphone-based minigel electrophoresis device to demonstrate equipment-free HIV viral load testing. Finally, the assay has demonstrated for BRAF point mutation detection, showcasing the robustness of our strategy for broad disease diagnostic applications.",
+    "keywords": [
+      "CRISPR",
+      "HIV",
+      "minigel electrophoresis",
+      "plasmid DNA reporter",
+      "point-of-care diagnostics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mohammad, Noor",
+        "Steksova, Anastasiia",
+        "Tang, Yuyang",
+        "Huang, Leyao",
+        "Velayati, Alireza",
+        "Zhang, Shengwei",
+        "Dey Poonam, Aditi",
+        "Jamalzadegan, Sina",
+        "Breen, Matthew",
+        "Chen, Hongjie",
+        "Bagi, Mahsa",
+        "Jiang, Guochun",
+        "Wei, Qingshan"
+      ],
+      "short_names": [
+        "Mohammad N",
+        "Steksova A",
+        "Tang Y",
+        "Huang L",
+        "Velayati A",
+        "Zhang S",
+        "Dey Poonam A",
+        "Jamalzadegan S",
+        "Breen M",
+        "Chen H",
+        "Bagi M",
+        "Jiang G",
+        "Wei Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1214-010X"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Department of Chemical Engineering, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "UNC HIV Cure Center and Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, North Carolina, USA.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Department of Molecular Biomedical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Comparative Medicine Institute, North Carolina State University, Raleigh, North Carolina, USA.",
+        "UNC HIV Cure Center and Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, North Carolina, USA.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+        "UNC HIV Cure Center and Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, North Carolina, USA.",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mohammad, Noor",
+        "short_name": "Mohammad N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA.",
+          "Department of Chemical Engineering, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Steksova, Anastasiia",
+        "short_name": "Steksova A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Tang, Yuyang",
+        "short_name": "Tang Y",
+        "identifiers": [],
+        "affiliations": [
+          "UNC HIV Cure Center and Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Leyao",
+        "short_name": "Huang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Velayati, Alireza",
+        "short_name": "Velayati A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shengwei",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Dey Poonam, Aditi",
+        "short_name": "Dey Poonam A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Jamalzadegan, Sina",
+        "short_name": "Jamalzadegan S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Breen, Matthew",
+        "short_name": "Breen M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biomedical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, North Carolina, USA.",
+          "Comparative Medicine Institute, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Hongjie",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "UNC HIV Cure Center and Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Bagi, Mahsa",
+        "short_name": "Bagi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Jiang, Guochun",
+        "short_name": "Jiang G",
+        "identifiers": [],
+        "affiliations": [
+          "UNC HIV Cure Center and Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, North Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Wei, Qingshan",
+        "short_name": "Wei Q",
+        "identifiers": [
+          "0000-0003-1214-010X"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 05:37",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42686672",
+      "40667362",
+      "38851849",
+      "42622251",
+      "40749819",
+      "40393239",
+      "42669262",
+      "30212088",
+      "40763823",
+      "29019352",
+      "32755809",
+      "37683439",
+      "40803011",
+      "36774734",
+      "42072757",
+      "41161233",
+      "34920665",
+      "42474386",
+      "40815833",
+      "42296867",
+      "41321596",
+      "41257956",
+      "41093528",
+      "38472096",
+      "41710969",
+      "40236689",
+      "42571623",
+      "42554489",
+      "40606523",
+      "40945113",
+      "33980009",
+      "41955813",
+      "41707426",
+      "42269411",
+      "41451985",
+      "41791397",
+      "37977804",
+      "34271038",
+      "40419416",
+      "39806080",
+      "37162995",
+      "36943040",
+      "40517335",
+      "41081763",
+      "42184674",
+      "25542364",
+      "36641878",
+      "29594734",
+      "42027134",
+      "36716431",
+      "38182379",
+      "36192055",
+      "32226587",
+      "28335318",
+      "39491486",
+      "34210120",
+      "41644836",
+      "42707723",
+      "36321557",
+      "41993032",
+      "42330669",
+      "42424186",
+      "38882085",
+      "37179057",
+      "41663226",
+      "35132857",
+      "34543826",
+      "41590404",
+      "40277382",
+      "42704380",
+      "25470558",
+      "34602188",
+      "41789624",
+      "36106530",
+      "33813702",
+      "39637742",
+      "42266926",
+      "36853410",
+      "40917009",
+      "40157150",
+      "37432138",
+      "38319081",
+      "34637281",
+      "35477153",
+      "40179699",
+      "36219232",
+      "33229132",
+      "24420245",
+      "36878066",
+      "28740223",
+      "40758649",
+      "28723196",
+      "34555130",
+      "35623783",
+      "41277692",
+      "41397613",
+      "41652143",
+      "38653014",
+      "42485704",
+      "42148800"
+    ],
+    "review": [
+      "42686672",
+      "40763823",
+      "32226587",
+      "36321557",
+      "40917009",
+      "34637281"
+    ],
+    "pmc": [
+      "13538080"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42686672/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BRAF-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

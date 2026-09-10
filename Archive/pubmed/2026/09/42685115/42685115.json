@@ -1,0 +1,337 @@
+{
+  "identity": {
+    "pmid": "42685115",
+    "doi": "10.1371/journal.pone.0357365",
+    "title": "Integrative proteomics reveals MSH6 to modulate PARP inhibitor sensitivity in BRCA1/2-proficient ovarian cancer."
+  },
+  "content": {
+    "abstract": "Ovarian cancer remains a leading cause of gynecologic cancer-related deaths worldwide. Deficiencies in BRCA1/2 are well-established biomarkers that predict sensitivity to poly(ADP-ribose) polymerase inhibitors (PARPis). However, emerging evidence indicates that a subset of BRCA-proficient tumors also responds to PARPi therapy, suggesting the presence of additional molecular mechanisms. We hypothesized that the composition of the PARP1 protein complex and PARylation-mediated signaling contribute to PARPi response in BRCA-proficient HGSOC. We assessed PARPi response across a panel of BRCA-proficient ovarian cancer cell lines and identified distinct sensitive and resistant groups. Chemical proteomics with rucaparib revealed different PARP1 complexes including higher enrichment of MSH6 in sensitive cells. Co-immunoprecipitation analyses further confirmed differential assembly of PARP1-MSH6-PARP2 complexes between sensitive and resistant models. To explore PARylation signaling, we performed ADP-ribosylation proteomics using clickable NAD(+) analogs, revealing distinct PARylation profiles between sensitive and resistant cell lines. CHAF1A, a known MSH6 interactor and PARP1 substrate, showed more pronounced reduction in ADP-ribosylation in PARPi-sensitive cells. Targeting MSH6 using CRISPR or siRNA decreased PARPi sensitivity. In addition, mTOR signaling was reduced in sensitive, but increased in resistant cells, following rucaparib treatment. Notably, MSH6 knockdown led to increased CHAF1A expression regardless of rucaparib treatment. Importantly, knockdown of CHAF1A significantly impaired cell viability, especially in A2780 cells, and suppressed mTOR signaling, suggesting that CHAF1A acts downstream of MSH6 to regulate the mTOR axis. Furthermore, co-treatment with mTORC1 inhibitors enhanced the cellular effects of rucaparib in resistant cells, suggesting a therapeutic potential of targeting downstream mTOR effectors to overcome intrinsic resistance. In conclusion, this study identifies the PARP1-MSH6 interaction to modulate PARPi sensitivity via CHAF1A-mTOR signaling in BRCA-proficient ovarian cancer. By integrating chemical proteomics and ADP-ribosylation proteomics, we delineate the interplay between PARP1 complex composition and signaling dynamics, highlighting MSH6 as a critical modulator of PARPi response and potential biomarker to enhance therapeutic efficacy in BRCA-proficient HGSOC.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*Poly(ADP-ribose) Polymerase Inhibitors/pharmacology",
+      "*Ovarian Neoplasms/metabolism/drug therapy/genetics/pathology",
+      "*Proteomics/methods",
+      "Cell Line, Tumor",
+      "Poly (ADP-Ribose) Polymerase-1/metabolism",
+      "*BRCA2 Protein/metabolism/genetics",
+      "*BRCA1 Protein/metabolism/genetics",
+      "*DNA-Binding Proteins/metabolism/genetics",
+      "Drug Resistance, Neoplasm",
+      "Signal Transduction/drug effects",
+      "Indoles/pharmacology",
+      "TOR Serine-Threonine Kinases/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Deng, Ou",
+        "Nepomuceno, Thales Da Costa",
+        "Fang, Bin",
+        "Welsh, Eric A",
+        "Izumi, Victoria",
+        "Martin, Rachael H",
+        "George, Erin M",
+        "Koomen, John M",
+        "Monteiro, Alvaro N",
+        "Rix, Uwe"
+      ],
+      "short_names": [
+        "Deng O",
+        "Nepomuceno TDC",
+        "Fang B",
+        "Welsh EA",
+        "Izumi V",
+        "Martin RH",
+        "George EM",
+        "Koomen JM",
+        "Monteiro AN",
+        "Rix U"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9933-1832",
+        "ORCID: 0000-0002-3818-1762"
+      ],
+      "affiliations": [
+        "Department of Drug Discovery, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Proteomics & Metabolomics Core, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Biostatistics and Bioinformatics Shared Resource, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Proteomics & Metabolomics Core, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Department of Gynecologic Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida, United States of America.",
+        "Molecular Oncology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Department of Molecular Biosciences, University of South Florida, Tampa, Florida, United States of America.",
+        "Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Department of Molecular Biosciences, University of South Florida, Tampa, Florida, United States of America.",
+        "Department of Drug Discovery, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+        "Department of Molecular Biosciences, University of South Florida, Tampa, Florida, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Deng, Ou",
+        "short_name": "Deng O",
+        "identifiers": [
+          "0000-0002-9933-1832"
+        ],
+        "affiliations": [
+          "Department of Drug Discovery, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Nepomuceno, Thales Da Costa",
+        "short_name": "Nepomuceno TDC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Fang, Bin",
+        "short_name": "Fang B",
+        "identifiers": [],
+        "affiliations": [
+          "Proteomics & Metabolomics Core, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Welsh, Eric A",
+        "short_name": "Welsh EA",
+        "identifiers": [],
+        "affiliations": [
+          "Biostatistics and Bioinformatics Shared Resource, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Izumi, Victoria",
+        "short_name": "Izumi V",
+        "identifiers": [],
+        "affiliations": [
+          "Proteomics & Metabolomics Core, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Martin, Rachael H",
+        "short_name": "Martin RH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "George, Erin M",
+        "short_name": "George EM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecologic Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Koomen, John M",
+        "short_name": "Koomen JM",
+        "identifiers": [
+          "0000-0002-3818-1762"
+        ],
+        "affiliations": [
+          "Molecular Oncology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+          "Department of Molecular Biosciences, University of South Florida, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Monteiro, Alvaro N",
+        "short_name": "Monteiro AN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+          "Department of Molecular Biosciences, University of South Florida, Tampa, Florida, United States of America."
+        ]
+      },
+      {
+        "full_name": "Rix, Uwe",
+        "short_name": "Rix U",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Drug Discovery, H. Lee Moffitt Cancer Center & Research Institute, Tampa, Florida, United States of America.",
+          "Department of Molecular Biosciences, University of South Florida, Tampa, Florida, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:13",
+    "fetched_at": "2026-09-10 11:57:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42685115",
+      "36183837",
+      "34572083",
+      "28925391",
+      "38985679",
+      "34958553",
+      "41465250",
+      "39594596",
+      "36142803",
+      "29615458",
+      "42466612",
+      "34445211",
+      "31219654",
+      "29567272",
+      "38778348",
+      "39187844",
+      "22983061",
+      "39536107",
+      "28242626",
+      "42092176",
+      "40669753",
+      "33352723",
+      "33332934",
+      "40460005",
+      "40234721",
+      "31534014",
+      "35332131",
+      "39461277",
+      "27908594",
+      "35964058",
+      "27884198",
+      "38973255",
+      "41382186",
+      "37048111",
+      "39557132",
+      "41830441",
+      "29606854",
+      "29894693",
+      "30929564",
+      "26546619",
+      "29750868",
+      "41616389",
+      "32755579",
+      "36284291",
+      "32709856",
+      "39863903",
+      "40118782",
+      "42589411",
+      "30630446",
+      "40333991",
+      "39844055",
+      "40138020",
+      "22778154",
+      "36609487",
+      "33551306",
+      "30266954",
+      "26931795",
+      "41735312",
+      "40036611",
+      "37209095",
+      "36270832",
+      "42108466",
+      "24085845",
+      "41995687",
+      "41191919",
+      "39408764",
+      "27002934",
+      "30589644",
+      "40543584",
+      "38374229",
+      "29635390",
+      "28034904",
+      "33920140",
+      "40274769",
+      "33412559",
+      "38961202",
+      "42456201",
+      "33213473",
+      "34140467",
+      "27055253",
+      "33514515",
+      "31775874",
+      "31685558",
+      "33236159",
+      "40773674",
+      "39819384",
+      "23729402",
+      "37891662",
+      "41654913",
+      "27993965",
+      "32980128",
+      "30737031",
+      "40931049",
+      "29180466",
+      "39007266",
+      "24962108",
+      "36539830",
+      "38747337",
+      "39914419",
+      "35897700"
+    ],
+    "review": [
+      "42685115",
+      "39461277",
+      "27884198",
+      "41382186",
+      "29606854",
+      "36284291",
+      "42589411",
+      "33551306",
+      "26931795",
+      "39007266",
+      "38747337"
+    ],
+    "pmc": [
+      "13537606"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/ovariancancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ovarian Cancer"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0357365",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42685115/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-916",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

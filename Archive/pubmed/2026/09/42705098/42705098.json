@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42705098",
+    "doi": "10.1016/j.compbiolchem.2026.109328",
+    "title": "CRISPGen: A deep generative framework for multi-objective CRISPR/Cas9 guide RNA design via Conditional Latent Diffusion and Dual-Critic Reinforcement Learning."
+  },
+  "content": {
+    "abstract": "MOTIVATION: The CRISPR-Cas9 system offers transformative potential for precision genome editing, yet its clinical translation remains constrained by the risk of unintended off-target double-strand breaks. While current discriminative models excel at evaluating pre-specified candidate guides, resolving the fundamental antagonism between on-target cleavage efficiency and off-target specificity within a fixed sequence search space remains a major challenge. RESULTS: We present CRISPGen, a unified deep generative framework that reframes sgRNA design as a multi-objective constrained sequence synthesis problem. It integrates (i) DNABERT-2 genomic-language embeddings, (ii) a conditional latent diffusion generator conditioned on a user-specified on-target efficiency target, and (iii) a dual-critic reinforcement-learning (RL) stage that couples a frozen on-target efficiency critic with a cross-attention off-target discriminator (validation Pearson R=0.8157) trained on a unified corpus of experimental off-target events from six detection platforms. Across 1000 generated sgRNAs, CRISPGen reduces the mean off-target discriminator score by 99.7% relative to the pre-RL baseline and, under an exhaustive whole-genome screen of all 302,631,056 NGG PAM sites in GRCh38, yields zero perfect-match and only 55 one-mismatch genomic hits. We further show, transparently, that the internal on-target critic saturates under RL optimization - an instance of Goodhart's Law - and therefore assess on-target viability using an independent external CRISPRon screen (mean 47.10/100). Repeating the RL fine-tuning stage under three random seeds (with the diffusion generator, DNABERT-2 embeddings, and off-target discriminator held fixed) yields a stable operating point across seeds. Full diversity, per-mismatch, and reproducibility statistics are reported in the Results. AVAILABILITY: Source code is available at https://github.com/malekpouri/CRISPGen; the pre-trained checkpoints and the 3,000,000-sequence library are hosted on Hugging Face (https://huggingface.co/malekpouri/CRISPGen-Checkpoints) and archived on Zenodo under DOI 10.5281/zenodo.21428641.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "DNABERT-2",
+      "Deep generative model",
+      "Guide RNA design",
+      "Latent diffusion",
+      "Off-target cleavage",
+      "Reinforcement learning"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Malekpouri, Mohammad",
+        "Lotfi, Somayeh"
+      ],
+      "short_names": [
+        "Malekpouri M",
+        "Lotfi S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Computer Engineering, BA.C., Islamic Azad University, Bandar Abbas, Iran. Electronic address: m.malekpouri@iau.ir.",
+        "Department of Computer Engineering, BA.C., Islamic Azad University, Bandar Abbas, Iran. Electronic address: somayeh.lotfi@iau.ac.ir."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Malekpouri, Mohammad",
+        "short_name": "Malekpouri M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Engineering, BA.C., Islamic Azad University, Bandar Abbas, Iran. Electronic address: m.malekpouri@iau.ir."
+        ]
+      },
+      {
+        "full_name": "Lotfi, Somayeh",
+        "short_name": "Lotfi S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Engineering, BA.C., Islamic Azad University, Bandar Abbas, Iran. Electronic address: somayeh.lotfi@iau.ac.ir."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Aug 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 23:34",
+    "fetched_at": "2026-09-10 11:56:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42705098",
+      "42475469",
+      "42525385",
+      "33841753",
+      "42653378",
+      "29219081",
+      "30423072",
+      "30423065",
+      "42412801",
+      "35758815",
+      "32041517",
+      "40481308",
+      "31821359",
+      "36321557",
+      "38199209",
+      "40949776",
+      "42261595",
+      "42046128",
+      "32494309",
+      "31494246",
+      "24956386",
+      "29476306",
+      "28506212",
+      "35140885",
+      "36271848",
+      "42261185",
+      "24838573",
+      "36481904",
+      "42391025",
+      "40282347",
+      "35580855",
+      "39073893",
+      "39758829",
+      "38260716",
+      "41223195",
+      "41508607",
+      "41218403",
+      "39275984",
+      "41051673",
+      "32643177",
+      "30369475",
+      "42366734",
+      "38545983",
+      "37080758",
+      "33599251",
+      "30485088",
+      "38483980",
+      "35915475",
+      "42421200",
+      "34122355",
+      "38537809",
+      "31040331",
+      "40600900",
+      "25247697",
+      "41678668",
+      "30169558",
+      "41230494",
+      "40004545",
+      "37840905",
+      "31971562",
+      "37279759",
+      "40811392",
+      "32926384",
+      "31060546",
+      "42192532",
+      "25664545",
+      "42635193",
+      "38974867",
+      "27210042",
+      "35078987",
+      "29036168",
+      "42590551",
+      "40004186",
+      "28273945",
+      "40401239",
+      "26582526",
+      "24253446",
+      "31139538",
+      "39654539",
+      "29019352",
+      "37364719",
+      "30649181",
+      "39456727",
+      "26813419",
+      "26535798",
+      "33373406",
+      "34055482",
+      "36699447",
+      "31230441",
+      "31754336",
+      "38426328",
+      "31764961",
+      "37775147",
+      "26305040",
+      "40501348",
+      "34946828",
+      "37615574",
+      "34069050",
+      "42022690",
+      "42503868"
+    ],
+    "review": [
+      "42705098",
+      "36321557",
+      "42261595",
+      "42046128",
+      "38260716",
+      "30369475",
+      "37080758",
+      "27210042",
+      "26582526",
+      "26535798"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00455-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
