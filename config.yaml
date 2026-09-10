@@ -34,7 +34,7 @@ platforms:
     max_results: 100
     query: >
       ("staggered cleavage"
-      OR "CRISPR")
+      OR "CRISPR" AND "structure")
   biorxiv:
     # 与 arXiv 同构的括号两段式（对象 A∪B × 方法；纯短语、无字段前缀）。实测（2026-09-07，见 idp-interaction-ai）：
     #   为什么必须保留括号、不能改平铺 DNF：Europe PMC（Lucene）对无括号的 AND/OR 混排会拍平错乱
@@ -43,7 +43,7 @@ platforms:
     #   对象短语与 pubmed tiab 同源（3D/染色质 A ∪ 结合/调控元件 B 中心词），方法 = AI ∪ 模拟
     query: >
       ("staggered cleavage"
-      OR "CRISPR")
+      OR "CRISPR" AND "structure")
   medrxiv:
     # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）
     # 混合：Europe PMC 严格 + Crossref 超集，
@@ -51,11 +51,11 @@ platforms:
     # 蛋白质–DNA 计算在 medRxiv 本就稀疏，空属正常
     query: >
       ("staggered cleavage"
-      OR "CRISPR")
+      OR "CRISPR" AND "structure")
   chemrxiv:
     # 与 bioRxiv 同串（ChemRxiv Crossref prefix 10.26434）。chemRxiv 只有 Crossref，Europe PMC 不收录
     # （实测前缀 10.26434 无命中）→ 括号两段式无法严格。是唯一无 Europe PMC 覆盖的，
     # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）
     query: >
       ("staggered cleavage"
-      OR "CRISPR")
+      OR "CRISPR" AND "structure")
