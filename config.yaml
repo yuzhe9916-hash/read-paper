@@ -22,7 +22,7 @@ platforms:
     #   B（TF–DNA 互作/转录调控）：仅收「结合/结合位点/cis-regulatory/调控元件/可及性/regulatory genomics/
     #     enhancer-promoter/CTCF」等互作中心词；不装 Mesh Transcription Factors/DNA-Binding Proteins，也不用裸 TF/promoter/enhancer
     query: >
-       ("dna repair"[tiab]
+      ("dna repair"[tiab]
       OR "CRISPR"[tiab])
   arxiv:
     # arXiv 原生布尔：写 all: 字段形式原样透传（无 : 的纯词会被强制全 AND，OR 失效）
@@ -33,7 +33,7 @@ platforms:
     # max_results：native 后端不加会翻整周全部命中 → 限速挂起；精确腿周 ~0-5，100 足够
     max_results: 100
     query: >
-       ("dna repair"
+      ("dna repair"
       OR "CRISPR")
   biorxiv:
     # 与 arXiv 同构的括号两段式（对象 A∪B × 方法；纯短语、无字段前缀）。实测（2026-09-07，见 idp-interaction-ai）：
@@ -42,7 +42,7 @@ platforms:
     #   Europe PMC 严格 + Crossref 超集 + 每周 Zotero 筛 = 最优，维持括号两段式
     #   对象短语与 pubmed tiab 同源（3D/染色质 A ∪ 结合/调控元件 B 中心词），方法 = AI ∪ 模拟
     query: >
-       ("dna repair"
+      ("dna repair"
       OR "CRISPR")
   medrxiv:
     # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）
