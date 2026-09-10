@@ -22,84 +22,8 @@ platforms:
     #   B（TF–DNA 互作/转录调控）：仅收「结合/结合位点/cis-regulatory/调控元件/可及性/regulatory genomics/
     #     enhancer-promoter/CTCF」等互作中心词；不装 Mesh Transcription Factors/DNA-Binding Proteins，也不用裸 TF/promoter/enhancer
     query: >
-      ( "Chromatin"[Mesh]
-      OR "Chromatin Assembly and Disassembly"[Mesh]
-      OR "Nucleosomes"[Mesh]
-      OR "CCCTC-Binding Factor"[Mesh]
-      OR "Cohesins"[Mesh]
-      OR "Chromosomal Proteins, Non-Histone"[Mesh]
-      OR "3D genome*"[tiab]
-      OR "three-dimensional genome"[tiab]
-      OR "genome organization"[tiab]
-      OR "genome architecture"[tiab]
-      OR "genome folding"[tiab]
-      OR "nuclear organization"[tiab]
-      OR "nuclear architecture"[tiab]
-      OR "chromatin organization"[tiab]
-      OR "chromatin architecture"[tiab]
-      OR "chromatin conformation"[tiab]
-      OR "chromatin topology"[tiab]
-      OR "chromatin structure*"[tiab]
-      OR "chromatin loop*"[tiab]
-      OR "chromatin interaction*"[tiab]
-      OR "chromatin domain*"[tiab]
-      OR "topologically associating domain*"[tiab]
-      OR "A/B compartment*"[tiab]
-      OR "chromosome conformation capture"[tiab]
-      OR "Hi-C"[tiab]
-      OR HiChIP[tiab]
-      OR "loop extrusion"[tiab]
-      OR "loop-extrusion"[tiab]
-      OR CTCF[tiab]
-      OR cohesin*[tiab]
-      OR "cis-regulatory"[tiab]
-      OR "cis-regulatory element*"[tiab]
-      OR "regulatory element*"[tiab]
-      OR "regulatory genomics"[tiab]
-      OR "chromatin accessibility"[tiab]
-      OR "enhancer-promoter"[tiab]
-      OR "promoter-enhancer"[tiab])
-      AND 
-      ( "Transcription Factors"[Mesh]
-      OR "DNA-Binding Proteins"[Mesh]
-      OR "Zinc Fingers"[Mesh]
-      OR "CYS2-HIS2 Zinc Fingers"[Mesh]
-      OR "transcription factor*"[tiab]
-      OR "transcription factor binding"[tiab]
-      OR "transcription factor binding site*"[tiab]
-      OR "TF binding"[tiab]
-      OR TFBS[tiab]
-      OR "DNA binding"[tiab]
-      OR "DNA-binding"[tiab]
-      OR "DNA-binding protein*"[tiab]
-      OR "DNA protein interaction*"[tiab]
-      OR "DNA protein binding"[tiab]
-      OR "DNA-binding factor*"[tiab]
-      OR "DNA-binding site*"[tiab]                                                                                                                                
-      OR "DNA binding site*"[tiab]                                                                                                                                
-      OR "protein-DNA binding"[tiab]                                                                                                                              
-      OR "protein-DNA binding site*"[tiab]
-      )
-      AND
-      ( "Artificial Intelligence"[Mesh]
-      OR "Deep Learning"[Mesh]
-      OR "Machine Learning"[Mesh]
-      OR "Neural Networks, Computer"[Mesh]
-      OR "artificial intelligence"[tiab]
-      OR "deep learning"[tiab]
-      OR "machine learning"[tiab]
-      OR "neural network*"[tiab]
-      OR "graph neural network*"[tiab]
-      OR "convolutional neural network*"[tiab]
-      OR transformer*[tiab]
-      OR "language model*"[tiab]
-      OR "foundation model*"[tiab]
-      OR "diffusion model*"[tiab]
-      OR "generative*"[tiab]
-      OR "flow matching"[tiab]
-      OR alphafold*[tiab]
-      OR "molecular dynamics"[tiab]
-      OR simulation*[tiab])
+       ("dna repair"[tiab]
+      OR "CRISPR"[tiab])
   arxiv:
     # arXiv 原生布尔：写 all: 字段形式原样透传（无 : 的纯词会被强制全 AND，OR 失效）
     # ⚠️ 本课题 arXiv 用「精确短语精查腿」（2026-09-09 实测）：
@@ -109,45 +33,8 @@ platforms:
     # max_results：native 后端不加会翻整周全部命中 → 限速挂起；精确腿周 ~0-5，100 足够
     max_results: 100
     query: >
-      (all:"3D genome"
-      OR all:"genome organization"
-      OR all:"genome architecture"
-      OR all:"chromatin organization"
-      OR all:"chromatin architecture"
-      OR all:"chromatin conformation"
-      OR all:"chromatin loop"
-      OR all:"chromatin interaction"
-      OR all:"topologically associating domain"
-      OR all:"chromosome conformation capture"
-      OR all:"Hi-C"
-      OR all:HiChIP
-      OR all:CTCF
-      OR all:cohesin
-      OR all:"loop extrusion"
-      OR all:"enhancer-promoter"
-      OR all:"transcription factor binding"
-      OR all:"TF binding"
-      OR all:"DNA binding"
-      OR all:"binding site"
-      OR all:"cis-regulatory"
-      OR all:"regulatory element"
-      OR all:"chromatin accessibility"
-      OR all:"gene regulation"
-      OR all:"transcriptional regulation"
-      OR all:"gene regulatory network")
-      AND
-      (all:"deep learning"
-      OR all:"machine learning"
-      OR all:"neural network"
-      OR all:"graph neural network"
-      OR all:transformer
-      OR all:"language model"
-      OR all:"foundation model"
-      OR all:"diffusion model"
-      OR all:generative
-      OR all:alphafold
-      OR all:"molecular dynamics"
-      OR all:simulation)
+       ("dna repair"
+      OR "CRISPR")
   biorxiv:
     # 与 arXiv 同构的括号两段式（对象 A∪B × 方法；纯短语、无字段前缀）。实测（2026-09-07，见 idp-interaction-ai）：
     #   为什么必须保留括号、不能改平铺 DNF：Europe PMC（Lucene）对无括号的 AND/OR 混排会拍平错乱
@@ -155,146 +42,20 @@ platforms:
     #   Europe PMC 严格 + Crossref 超集 + 每周 Zotero 筛 = 最优，维持括号两段式
     #   对象短语与 pubmed tiab 同源（3D/染色质 A ∪ 结合/调控元件 B 中心词），方法 = AI ∪ 模拟
     query: >
-      ("3D genome"
-      OR "three-dimensional genome"
-      OR "genome organization"
-      OR "genome architecture"
-      OR "genome folding"
-      OR "nuclear organization"
-      OR "chromatin organization"
-      OR "chromatin architecture"
-      OR "chromatin conformation"
-      OR "chromatin structure"
-      OR "chromatin loop"
-      OR "chromatin interaction"
-      OR "chromatin domain"
-      OR "topologically associating domain"
-      OR "chromosome conformation capture"
-      OR "Hi-C"
-      OR HiChIP
-      OR CTCF
-      OR cohesin
-      OR condensin
-      OR "loop extrusion"
-      OR "DNA binding"
-      OR "TF binding"
-      OR TFBS
-      OR "binding site"
-      OR "cis-regulatory"
-      OR "regulatory element"
-      OR "regulatory genomics"
-      OR "chromatin accessibility"
-      OR "gene regulatory network"
-      OR "enhancer-promoter")
-      AND
-      ("deep learning"
-      OR "machine learning"
-      OR "neural network"
-      OR "graph neural network"
-      OR transformer
-      OR "language model"
-      OR "foundation model"
-      OR "diffusion model"
-      OR generative
-      OR alphafold
-      OR "molecular dynamics"
-      OR simulation)
+       ("dna repair"
+      OR "CRISPR")
   medrxiv:
     # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）
     # 混合：Europe PMC 严格 + Crossref 超集，
     # 每周 Zotero 筛（详见 bioRxiv 注释：为何不能改平铺 DNF、边界短语如何补齐）
     # 蛋白质–DNA 计算在 medRxiv 本就稀疏，空属正常
     query: >
-      ("3D genome"
-      OR "three-dimensional genome"
-      OR "genome organization"
-      OR "genome architecture"
-      OR "genome folding"
-      OR "nuclear organization"
-      OR "chromatin organization"
-      OR "chromatin architecture"
-      OR "chromatin conformation"
-      OR "chromatin structure"
-      OR "chromatin loop"
-      OR "chromatin interaction"
-      OR "chromatin domain"
-      OR "topologically associating domain"
-      OR "chromosome conformation capture"
-      OR "Hi-C"
-      OR HiChIP
-      OR CTCF
-      OR cohesin
-      OR condensin
-      OR "loop extrusion"
-      OR "DNA binding"
-      OR "TF binding"
-      OR TFBS
-      OR "binding site"
-      OR "cis-regulatory"
-      OR "regulatory element"
-      OR "regulatory genomics"
-      OR "chromatin accessibility"
-      OR "gene regulatory network"
-      OR "enhancer-promoter")
-      AND
-      ("deep learning"
-      OR "machine learning"
-      OR "neural network"
-      OR "graph neural network"
-      OR transformer
-      OR "language model"
-      OR "foundation model"
-      OR "diffusion model"
-      OR generative
-      OR alphafold
-      OR "molecular dynamics"
-      OR simulation)
+      ("dna repair"
+      OR "CRISPR")
   chemrxiv:
     # 与 bioRxiv 同串（ChemRxiv Crossref prefix 10.26434）。chemRxiv 只有 Crossref，Europe PMC 不收录
     # （实测前缀 10.26434 无命中）→ 括号两段式无法严格。是唯一无 Europe PMC 覆盖的，
     # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）
     query: >
-      ("3D genome"
-      OR "three-dimensional genome"
-      OR "genome organization"
-      OR "genome architecture"
-      OR "genome folding"
-      OR "nuclear organization"
-      OR "chromatin organization"
-      OR "chromatin architecture"
-      OR "chromatin conformation"
-      OR "chromatin structure"
-      OR "chromatin loop"
-      OR "chromatin interaction"
-      OR "chromatin domain"
-      OR "topologically associating domain"
-      OR "chromosome conformation capture"
-      OR "Hi-C"
-      OR HiChIP
-      OR CTCF
-      OR cohesin
-      OR condensin
-      OR "loop extrusion"
-      OR "DNA binding"
-      OR "TF binding"
-      OR TFBS
-      OR "binding site"
-      OR "cis-regulatory"
-      OR "regulatory element"
-      OR "regulatory genomics"
-      OR "chromatin accessibility"
-      OR "gene regulatory network"
-      OR "enhancer-promoter")
-      AND
-      ("deep learning"
-      OR "machine learning"
-      OR "neural network"
-      OR "graph neural network"
-      OR transformer
-      OR "language model"
-      OR "foundation model"
-      OR "diffusion model"
-      OR generative
-      OR alphafold
-      OR "molecular dynamics"
-      OR simulation)
+      ("dna repair"
+      OR "CRISPR")
