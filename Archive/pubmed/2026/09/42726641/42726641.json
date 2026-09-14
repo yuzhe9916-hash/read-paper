@@ -1,0 +1,485 @@
+{
+  "identity": {
+    "pmid": "42726641",
+    "doi": "10.1016/j.celrep.2026.117961",
+    "title": "Genome-wide CRISPR screens map synthetic lethal interactions across recurrent cancer driver alterations."
+  },
+  "content": {
+    "abstract": "Synthetic lethality (SL) provides a treatment paradigm for targeting cancer with alterations in driver genes that are not conventionally druggable, including tumor suppressor genes. We execute a series of genome-wide CRISPR screens using functionally validated isogenic cell lines and conduct a large-scale SL analysis using data from the cancer dependency map (DepMap). We chart SL interactions across 15 driver alterations: FBXW7, CCNE1, CDK12, ARID1A, KMT2D, DNMT3A, TET2, KEAP1, STK11, IDH1, SF3B1, SRSF2, U2AF1, chromosome 18q loss, and chromosome 13q loss. We show validation of several SL interactions, including ARID1A and the hexosamine biosynthetic pathway aminotransferase GFPT1, STK11 with CAMK protein kinase MARK2, FBXW7 and the CDK1 regulatory kinase PKMYT1, and CCNE1 amplification and the anaphase-promoting complex or cyclosome (APC/C). In summary, this study offers a rich resource of genetic interactions across cancer drivers enabling the discovery of biological insights and drug targets for future therapeutic development.",
+    "keywords": [
+      "CP: cancer",
+      "CP: genomics",
+      "CRISPR screening",
+      "cancer driver mutations",
+      "cancer therapeutics",
+      "drug development",
+      "functional genomics",
+      "gene dependency",
+      "genetic vulnerabilities",
+      "genome-wide knockout",
+      "oncogene addiction",
+      "personalized medicine",
+      "precision oncology",
+      "synthetic lethality",
+      "target discovery",
+      "targeted oncology",
+      "tumor suppressor genes"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Desjardins, Jessica",
+        "Bowlan, Julian",
+        "Bernier, Cynthia",
+        "Jain, Srishti",
+        "Goullet de Rugy, Theo",
+        "Gallo, David",
+        "Orcholski, Mark E",
+        "Laterreur, Nancy",
+        "Rajah, Abira",
+        "Miller, Joshua",
+        "Lafontaine, Jennifer",
+        "Bhaskaran, Vivek",
+        "Li, Li",
+        "Ling, Alexanda",
+        "Leblanc, Jesse H",
+        "Mathieu, Marie-Claude",
+        "Zinda, Michael",
+        "Morris, Stephen J",
+        "Durocher, Daniel",
+        "Zimmermann, Michal",
+        "Roulston, Anne",
+        "Veloso, Artur",
+        "Fiore, Chris",
+        "Alvarez-Quilon, Alejandro",
+        "Young, Jordan T F"
+      ],
+      "short_names": [
+        "Desjardins J",
+        "Bowlan J",
+        "Bernier C",
+        "Jain S",
+        "Goullet de Rugy T",
+        "Gallo D",
+        "Orcholski ME",
+        "Laterreur N",
+        "Rajah A",
+        "Miller J",
+        "Lafontaine J",
+        "Bhaskaran V",
+        "Li L",
+        "Ling A",
+        "Leblanc JH",
+        "Mathieu MC",
+        "Zinda M",
+        "Morris SJ",
+        "Durocher D",
+        "Zimmermann M",
+        "Roulston A",
+        "Veloso A",
+        "Fiore C",
+        "Alvarez-Quilon A",
+        "Young JTF"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Cambridge, MA, USA.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada; Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Cambridge, MA, USA.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada.",
+        "Repare Therapeutics, Cambridge, MA, USA.",
+        "Repare Therapeutics, Cambridge, MA, USA.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada. Electronic address: aaquilon@dcxbio.com.",
+        "Repare Therapeutics, Saint-Laurent, QC, Canada. Electronic address: jordan.young@astrazeneca.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Desjardins, Jessica",
+        "short_name": "Desjardins J",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Bowlan, Julian",
+        "short_name": "Bowlan J",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bernier, Cynthia",
+        "short_name": "Bernier C",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Jain, Srishti",
+        "short_name": "Jain S",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Goullet de Rugy, Théo",
+        "short_name": "Goullet de Rugy T",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Gallo, David",
+        "short_name": "Gallo D",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada; Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Orcholski, Mark E",
+        "short_name": "Orcholski ME",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Laterreur, Nancy",
+        "short_name": "Laterreur N",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Rajah, Abira",
+        "short_name": "Rajah A",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Miller, Joshua",
+        "short_name": "Miller J",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Lafontaine, Jennifer",
+        "short_name": "Lafontaine J",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Bhaskaran, Vivek",
+        "short_name": "Bhaskaran V",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Li, Li",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Ling, Alexanda",
+        "short_name": "Ling A",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Leblanc, Jesse H",
+        "short_name": "Leblanc JH",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Mathieu, Marie-Claude",
+        "short_name": "Mathieu MC",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Zinda, Michael",
+        "short_name": "Zinda M",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Morris, Stephen J",
+        "short_name": "Morris SJ",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Durocher, Daniel",
+        "short_name": "Durocher D",
+        "identifiers": [],
+        "affiliations": [
+          "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Zimmermann, Michal",
+        "short_name": "Zimmermann M",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Roulston, Anne",
+        "short_name": "Roulston A",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Veloso, Artur",
+        "short_name": "Veloso A",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Fiore, Chris",
+        "short_name": "Fiore C",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Álvarez-Quilón, Alejandro",
+        "short_name": "Álvarez-Quilón A",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada. Electronic address: aaquilon@dcxbio.com."
+        ]
+      },
+      {
+        "full_name": "Young, Jordan T F",
+        "short_name": "Young JTF",
+        "identifiers": [],
+        "affiliations": [
+          "Repare Therapeutics, Saint-Laurent, QC, Canada. Electronic address: jordan.young@astrazeneca.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42726641",
+      "34454516",
+      "31436504",
+      "41390513",
+      "28569207",
+      "29566768",
+      "37863651",
+      "41131861",
+      "37612728",
+      "40851437",
+      "40888991",
+      "35559673",
+      "33795234",
+      "27438146",
+      "41463023",
+      "42207998",
+      "30683138",
+      "34469736",
+      "39198848",
+      "40914134",
+      "32101536",
+      "29300844",
+      "37729426",
+      "38215750",
+      "40483544",
+      "35444283",
+      "41609417",
+      "26937901",
+      "37866880",
+      "39578878",
+      "42339999",
+      "40276038",
+      "26427375",
+      "30482246",
+      "41727639",
+      "27296290",
+      "32990596",
+      "42422981",
+      "36517508",
+      "26673326",
+      "28675450",
+      "39272807",
+      "42083788",
+      "39901548",
+      "34529928",
+      "29599409",
+      "27613601",
+      "39003371",
+      "42039299",
+      "33808217",
+      "27956228",
+      "27260157",
+      "32463358",
+      "42526071",
+      "38886809",
+      "39229040",
+      "30890549",
+      "41537447",
+      "26781748",
+      "40516634",
+      "24874471",
+      "31712683",
+      "35905712",
+      "41725108",
+      "41727066",
+      "34050264",
+      "42704265",
+      "31217031",
+      "38106093",
+      "21142664",
+      "42634504",
+      "40654945",
+      "40200332",
+      "33850477",
+      "34561273",
+      "41402909",
+      "38218178",
+      "36187556",
+      "41101730",
+      "42226181",
+      "33554860",
+      "37357968",
+      "41480181",
+      "39210507",
+      "31439014",
+      "33335681",
+      "33059726",
+      "26029013",
+      "40968372",
+      "31709193",
+      "41803859",
+      "20976469",
+      "33326793",
+      "34881774",
+      "32893711",
+      "39305329",
+      "35055413",
+      "24025726",
+      "36980521",
+      "40674704"
+    ],
+    "review": [
+      "42726641",
+      "40851437",
+      "33795234",
+      "41463023",
+      "42207998",
+      "40914134",
+      "28675450",
+      "39901548",
+      "33808217",
+      "41537447",
+      "40516634",
+      "31712683",
+      "34050264",
+      "21142664",
+      "38218178",
+      "26029013",
+      "20976469",
+      "34881774",
+      "32893711",
+      "39305329"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01039-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3715",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

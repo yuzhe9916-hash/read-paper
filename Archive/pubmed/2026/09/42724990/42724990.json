@@ -1,0 +1,362 @@
+{
+  "identity": {
+    "pmid": "42724990",
+    "doi": "10.1002/jgh3.70461",
+    "title": "Current Helicobacter pylori Diagnostics: Established Methods, Resistance Testing, and Emerging Approaches."
+  },
+  "content": {
+    "abstract": "AIMS: Accurate diagnosis of Helicobacter pylori infection is required to detect active infection, confirm eradication, assess gastric pathology when indicated, and obtain antimicrobial resistance information that may guide treatment. This review evaluates the clinical roles, limitations, and implementation maturity of established, molecular, and emerging diagnostic approaches. METHODS AND RESULTS: A narrative review was conducted using PubMed/MEDLINE, Embase, Web of Science, the Cochrane Library, and Google Scholar, prioritizing clinical guidelines, systematic reviews, diagnostic accuracy studies, multicenter validation studies, and directly relevant method-development research. Histology, rapid urease testing, and culture remain established biopsy-based methods, whereas urea breath testing and validated monoclonal stool antigen testing are the leading non-invasive options for detecting active infection and confirming eradication. Serology is useful only in selected settings because it cannot reliably distinguish current from previous infection. Culture provides phenotypic susceptibility results but is technically demanding. qPCR and targeted PCR provide faster, target-specific genotypic information, while next-generation sequencing may broaden resistance-variant detection in specialist or surveillance settings. Genotypic findings require antibiotic-specific interpretation because genotype-phenotype concordance varies. AI-assisted endoscopic interpretation, biosensors, LAMP, CRISPR-based assays, and string test-based sampling may address specific workflow gaps, but most remain adjunctive, selectively implemented, early translational, or investigational. CONCLUSION: Diagnostic selection should begin with the clinical question and integrate patient risk, treatment history, medication exposure, local resistance patterns, specimen access, laboratory capacity, turnaround time, and available resources. Wider adoption of newer technologies requires external validation, standardization, quality assurance, regulatory readiness, economic assessment, and evidence that results improve clinical management.",
+    "keywords": [
+      "Helicobacter pylori",
+      "bacterial",
+      "diagnostic techniques and procedures",
+      "drug resistance",
+      "microbial sensitivity tests",
+      "molecular diagnostic techniques"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Tianhua",
+        "Paz, Erwin A",
+        "Yu, Kan",
+        "Lee, Khui Hung",
+        "Tay, Chin Yen",
+        "Wang, Jingjing",
+        "Marshall, Barry James",
+        "Hu, Linli",
+        "Fu, Wanting",
+        "Yang, Ziyao"
+      ],
+      "short_names": [
+        "Tang T",
+        "Paz EA",
+        "Yu K",
+        "Lee KH",
+        "Tay CY",
+        "Wang J",
+        "Marshall BJ",
+        "Hu L",
+        "Fu W",
+        "Yang Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4093-7415",
+        "ORCID: 0000-0001-5906-4664",
+        "ORCID: 0000-0001-9705-4010",
+        "ORCID: 0009-0004-6613-9395",
+        "ORCID: 0000-0003-4853-5015"
+      ],
+      "affiliations": [
+        "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China.",
+        "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia.",
+        "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia.",
+        "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia.",
+        "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia.",
+        "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China.",
+        "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia.",
+        "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia.",
+        "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China.",
+        "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China.",
+        "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Tianhua",
+        "short_name": "Tang T",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China."
+        ]
+      },
+      {
+        "full_name": "Paz, Erwin A",
+        "short_name": "Paz EA",
+        "identifiers": [
+          "0000-0003-4093-7415"
+        ],
+        "affiliations": [
+          "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia."
+        ]
+      },
+      {
+        "full_name": "Yu, Kan",
+        "short_name": "Yu K",
+        "identifiers": [],
+        "affiliations": [
+          "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia."
+        ]
+      },
+      {
+        "full_name": "Lee, Khui Hung",
+        "short_name": "Lee KH",
+        "identifiers": [
+          "0000-0001-5906-4664"
+        ],
+        "affiliations": [
+          "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia."
+        ]
+      },
+      {
+        "full_name": "Tay, Chin Yen",
+        "short_name": "Tay CY",
+        "identifiers": [
+          "0000-0001-9705-4010"
+        ],
+        "affiliations": [
+          "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia."
+        ]
+      },
+      {
+        "full_name": "Wang, Jingjing",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0009-0004-6613-9395"
+        ],
+        "affiliations": [
+          "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China.",
+          "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia."
+        ]
+      },
+      {
+        "full_name": "Marshall, Barry James",
+        "short_name": "Marshall BJ",
+        "identifiers": [
+          "0000-0003-4853-5015"
+        ],
+        "affiliations": [
+          "The Marshall Centre for Infectious Diseases Research and Training, School of Biomedical Sciences, the University of Western Australia Nedlands WA Australia."
+        ]
+      },
+      {
+        "full_name": "Hu, Linli",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China."
+        ]
+      },
+      {
+        "full_name": "Fu, Wanting",
+        "short_name": "Fu W",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ziyao",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital of Zhengzhou University Zhengzhou Henan China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JGH open : an open access journal of gastroenterology and hepatology"
+    ],
+    "journal_abbrev": [
+      "JGH Open"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42724990",
+      "36321557",
+      "42661832",
+      "29543326",
+      "31528091",
+      "35593869",
+      "33085409",
+      "41912385",
+      "12700494",
+      "21289901",
+      "28465629",
+      "33036834",
+      "32605705",
+      "42475469",
+      "25071324",
+      "38309959",
+      "36321689",
+      "36828668",
+      "9795468",
+      "10378353",
+      "41422268",
+      "22951652",
+      "40455698",
+      "37473423",
+      "25952553",
+      "36263754",
+      "33760236",
+      "42506921",
+      "39718517",
+      "37578257",
+      "26523098",
+      "41095688",
+      "35866452",
+      "35404105",
+      "32845525",
+      "42141854",
+      "36125827",
+      "28522904",
+      "41797598",
+      "34441392",
+      "39530235",
+      "25110421",
+      "25278682",
+      "30414090",
+      "37839810",
+      "41081795",
+      "35470432",
+      "33314144",
+      "25353401",
+      "42715733",
+      "30038469",
+      "41834619",
+      "9737564",
+      "42200756",
+      "39679670",
+      "15983844",
+      "38463019",
+      "40583969",
+      "42505093",
+      "14679424",
+      "41013956",
+      "42142806",
+      "42044246",
+      "33536295",
+      "40839831",
+      "22188917",
+      "11276169",
+      "32918354",
+      "26391269",
+      "35784633",
+      "35883980",
+      "32853411",
+      "34169821",
+      "42056897",
+      "40170571",
+      "29405526",
+      "10422391",
+      "14571700",
+      "41312797",
+      "42214384",
+      "21749752",
+      "28515219",
+      "15722982",
+      "12362100",
+      "41453373",
+      "9394768",
+      "42505636",
+      "36394900",
+      "36065889",
+      "26632710",
+      "15165260",
+      "42684932",
+      "42602232",
+      "41384933",
+      "8722384",
+      "42587639",
+      "23074402",
+      "12733331",
+      "33252328",
+      "41733544"
+    ],
+    "review": [
+      "42724990",
+      "36321557",
+      "42661832",
+      "29543326",
+      "31528091",
+      "41912385",
+      "12700494",
+      "28465629",
+      "32605705",
+      "25071324",
+      "36321689",
+      "36828668",
+      "9795468",
+      "37473423",
+      "25952553",
+      "33760236",
+      "39718517",
+      "26523098",
+      "41095688",
+      "35866452",
+      "35404105",
+      "32845525",
+      "42141854",
+      "36125827",
+      "28522904",
+      "41797598",
+      "34441392",
+      "25110421",
+      "25278682",
+      "30414090",
+      "37839810",
+      "35470432",
+      "25353401",
+      "42715733",
+      "9737564",
+      "42200756",
+      "15983844",
+      "38463019",
+      "42142806",
+      "40839831",
+      "32918354",
+      "26391269",
+      "35784633",
+      "35883980",
+      "32853411",
+      "34169821",
+      "29405526",
+      "41312797",
+      "21749752",
+      "15722982",
+      "9394768",
+      "42505636",
+      "36394900",
+      "36065889",
+      "8722384",
+      "42587639",
+      "33252328",
+      "41733544"
+    ],
+    "pmc": [
+      "13559797"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/jgh3.70461",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

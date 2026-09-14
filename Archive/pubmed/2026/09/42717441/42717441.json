@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42717441",
+    "doi": "10.1093/neuonc/noag225",
+    "title": "EFTUD2-Regulated Alternative Splicing of MSH5 Drives Radioresistance in Recurrent IDH-Mutant Glioma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Recurrent IDH-mutant gliomas frequently acquire increased radioresistance, leading to poorer outcomes. Their underlying mechanisms, however, remain largely unknown. We hypothesize that dysregulated RNA alternative splicing (AS) during IDH-mutant glioma recurrence contributes to the enhanced radioresistance by influencing critical cellular pathways. METHODS: RNA sequencing of paired primary and recurrent IDH-mutant gliomas were analyzed to identify recurrence-associated AS events. Functional effects were assessed in patient-derived glioma stem cells using RNA interference and CRISPR-dCas13-mediated isoform switching. Candidate upstream RNA-binding proteins and antisense oligonucleotide (ASO)-based therapeutic strategies were evaluated in vitro and in vivo. RESULTS: We identified differentially spliced MutS homolog 5 (MSH5) isoforms between primary and recurrent IDH-mutant gliomas. Primary gliomas predominantly expressed an exon 11/12-skipped MSH5 transcript, whereas recurrent tumors largely retained the full-length isoform. Exon 11/12 skipping introduced a premature termination codon, leading to nonsense-mediated decay and diminished MSH5 expression in primary tumors. Further analyses identified elongation factor Tu GTP binding domain containing 2 (EFTUD2) as an upstream splicing regulator that was upregulated in recurrent tumors and promoted exon 11/12 inclusion, thereby maintaining MSH5 expression and enhancing the repair of radiation-induced DNA double-strand breaks. Inducing MSH5 exon 11/12 skipping with CRISPR-dCas13 or inhibiting EFTUD2 with ASOs reduced MSH5 expression, impaired DNA repair, and sensitized recurrent IDH-mutant glioma to radiotherapy in vitro and in vivo. CONCLUSIONS: These findings identify an EFTUD2-MSH5 splicing axis that contributes to radioresistance in recurrent IDH-mutant glioma. Therapeutic disruption of this splicing program may represent a strategy to enhance the radiation response in recurrent IDH-mutant glioma.",
+    "keywords": [
+      "Alternative splicing",
+      "EFTUD2",
+      "IDH-mutant glioma",
+      "MSH5",
+      "Radiotherapy"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "He, Qiu",
+        "Wu, Runxin",
+        "Yu, Xiaozhou",
+        "Song, Xiao",
+        "Walker, Maya",
+        "Tiek, Deanna",
+        "Jiang, Tongchao",
+        "Li, Xiao-Nan",
+        "Her, Chengtao",
+        "Hu, Bo",
+        "Cheng, Shi-Yuan"
+      ],
+      "short_names": [
+        "He Q",
+        "Wu R",
+        "Yu X",
+        "Song X",
+        "Walker M",
+        "Tiek D",
+        "Jiang T",
+        "Li XN",
+        "Her C",
+        "Hu B",
+        "Cheng SY"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
+        "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
+        "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
+        "Department of Neurosciences, Medical University of South Carolina, Charleston, SC 29425, USA.",
+        "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
+        "Cleveland Clinic Research, Cancer Sciences, Cleveland Clinic, Cleveland, OH 44195, USA.",
+        "Ann & Robert H. Lurie Children's Hospital of Chicago, Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
+        "Ann & Robert H. Lurie Children's Hospital of Chicago, Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
+        "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164-4660, USA.",
+        "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
+        "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "He, Qiu",
+        "short_name": "He Q",
+        "identifiers": [],
+        "affiliations": [
+          "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Runxin",
+        "short_name": "Wu R",
+        "identifiers": [],
+        "affiliations": [
+          "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Xiaozhou",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Song, Xiao",
+        "short_name": "Song X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Medical University of South Carolina, Charleston, SC 29425, USA."
+        ]
+      },
+      {
+        "full_name": "Walker, Maya",
+        "short_name": "Walker M",
+        "identifiers": [],
+        "affiliations": [
+          "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Tiek, Deanna",
+        "short_name": "Tiek D",
+        "identifiers": [],
+        "affiliations": [
+          "Cleveland Clinic Research, Cancer Sciences, Cleveland Clinic, Cleveland, OH 44195, USA."
+        ]
+      },
+      {
+        "full_name": "Jiang, Tongchao",
+        "short_name": "Jiang T",
+        "identifiers": [],
+        "affiliations": [
+          "Ann & Robert H. Lurie Children's Hospital of Chicago, Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Xiao-Nan",
+        "short_name": "Li XN",
+        "identifiers": [],
+        "affiliations": [
+          "Ann & Robert H. Lurie Children's Hospital of Chicago, Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Her, Chengtao",
+        "short_name": "Her C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164-4660, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Bo",
+        "short_name": "Hu B",
+        "identifiers": [],
+        "affiliations": [
+          "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Cheng, Shi-Yuan",
+        "short_name": "Cheng SY",
+        "identifiers": [],
+        "affiliations": [
+          "The Ken & Ruth Davee Department of Neurology, The Lou and Jean Malnati Brain Tumor Institute, The Robert H. Lurie Comprehensive Cancer Center, Simpson Querrey Institute for Epigenetics, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neuro-oncology"
+    ],
+    "journal_abbrev": [
+      "Neuro Oncol"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 05:36",
+    "fetched_at": "2026-09-14 15:57:02"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42717441",
+      "40128633",
+      "40202138",
+      "30397180",
+      "27116977",
+      "27899647",
+      "41864998",
+      "31462429",
+      "41356219",
+      "42631023",
+      "41954618",
+      "37439405",
+      "32560659",
+      "38447610",
+      "40379848",
+      "29582423",
+      "42358823",
+      "40448601",
+      "36739454",
+      "33096928",
+      "39117866",
+      "42477458",
+      "24077826",
+      "41130168",
+      "40555777",
+      "39256867",
+      "41318461",
+      "34763709",
+      "33583081",
+      "33216206",
+      "35685361",
+      "28621624",
+      "41908147",
+      "40840404",
+      "30953555",
+      "29437008",
+      "36040792",
+      "32494639",
+      "42085879",
+      "41962162",
+      "42193012",
+      "39520565",
+      "41652635",
+      "39042445",
+      "30429088",
+      "24366912",
+      "37608093",
+      "30887243",
+      "39530009",
+      "35856894",
+      "36352183",
+      "26595814",
+      "28392842",
+      "29692895",
+      "39287090",
+      "42346151",
+      "40968608",
+      "38711090",
+      "27852048",
+      "42475469",
+      "17051156",
+      "25878102",
+      "41771572",
+      "38417135",
+      "23028987",
+      "40297463",
+      "41866488",
+      "41680848",
+      "38718141",
+      "30548945",
+      "40058165",
+      "36522653",
+      "37952042",
+      "38685786",
+      "37055795",
+      "40365337",
+      "9647183",
+      "29438510",
+      "31304552",
+      "42236943",
+      "35972603",
+      "35609569",
+      "37118755",
+      "19252415",
+      "19435898",
+      "35467128",
+      "29547090",
+      "37060388",
+      "38339779",
+      "33823014",
+      "25578778",
+      "42281170",
+      "22747664",
+      "42652791",
+      "41928225",
+      "34850159",
+      "30006485",
+      "33772213",
+      "37823694",
+      "36696363"
+    ],
+    "review": [
+      "42717441",
+      "42085879",
+      "36352183",
+      "42346151",
+      "37060388",
+      "38339779"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/neuro-oncology/article-lookup/doi/10.1093/neuonc/noag225",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

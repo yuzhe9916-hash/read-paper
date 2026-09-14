@@ -1,0 +1,330 @@
+{
+  "identity": {
+    "pmid": "42717497",
+    "doi": "10.1002/advs.77704",
+    "title": "CRISPR and Gene Augmentation Rescue Trabecular Meshwork Dysfunction in iPSC Models of Lowe Syndrome."
+  },
+  "content": {
+    "abstract": "Lowe syndrome is a rare, currently incurable multisystem disorder that affects the eyes, kidneys, and central nervous system. It is caused by mutations in the OCRL gene, which encodes an inositol 5-phosphatase. The disorder remains incurable, and the pathways underlying the ocular symptoms remain poorly understood, largely due to the lack of appropriate models. In this study, trabecular meshwork cell models of Lowe syndrome were generated to test two distinct gene therapy strategies: a mutation-agnostic OCRL DNA augmentation therapy and a patient-specific CRISPR-mediated gene correction strategy. The results showed that AAV2-OCRL demonstrated the highest transduction efficiency in patient iPSC-derived trabecular meshwork models (iHTM) among the three AAV-OCRL vectors evaluated, establishing it as a promising delivery vector. Targeted CRISPR-based gene therapy restored OCRL enzyme activity and corrected cellular defects in patient iPSC-derived trabecular meshwork cell models. Furthermore, RNA-sequencing analysis of these models revealed dysregulation of extracellular matrix organization, cell adhesion, focal adhesion, and cytoskeletal regulatory pathways, suggesting that disruption of interconnected ECM-adhesion-cytoskeletal networks may contribute to trabecular meshwork dysfunction in Lowe syndrome-associated glaucoma. These findings indicate the feasibility of OCRL gene augmentation and CRISPR-based gene editing in patient-derived ocular models and position AAV2-OCRL as a leading therapeutic candidate for Lowe syndrome.",
+    "keywords": [
+      "CRISPR",
+      "DNA augmentation",
+      "OCRL",
+      "base editing",
+      "lowe syndrome",
+      "trabecular meshwork cells"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Siyu",
+        "Liu, Zhiquan",
+        "Wang, Wenmin",
+        "Wang, Qing",
+        "Kowal, Tia J",
+        "Zhang, Fan",
+        "Walkiewicz, Grzegorz",
+        "Hossen, Faruk",
+        "Lachman, Herbert M",
+        "Zhou, Jinqiong",
+        "Wang, Yiting",
+        "Sun, Yang"
+      ],
+      "short_names": [
+        "Chen S",
+        "Liu Z",
+        "Wang W",
+        "Wang Q",
+        "Kowal TJ",
+        "Zhang F",
+        "Walkiewicz G",
+        "Hossen F",
+        "Lachman HM",
+        "Zhou J",
+        "Wang Y",
+        "Sun Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-9801-4917",
+        "ORCID: 0000-0001-5433-5656",
+        "ORCID: 0009-0006-8194-5680",
+        "ORCID: 0000-0002-5331-0358",
+        "ORCID: 0000-0002-2864-3046",
+        "ORCID: 0000-0001-8735-4765"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Genetics, Albert Einstein College of Medicine, Bronx, New York, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+        "Palo Alto Veterans Administration, Palo Alto, California, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Siyu",
+        "short_name": "Chen S",
+        "identifiers": [
+          "0009-0004-9801-4917"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhiquan",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0000-0001-5433-5656"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenmin",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Qing",
+        "short_name": "Wang Q",
+        "identifiers": [
+          "0009-0006-8194-5680"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Kowal, Tia J",
+        "short_name": "Kowal TJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fan",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Walkiewicz, Grzegorz",
+        "short_name": "Walkiewicz G",
+        "identifiers": [
+          "0000-0002-5331-0358"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Hossen, Faruk",
+        "short_name": "Hossen F",
+        "identifiers": [
+          "0000-0002-2864-3046"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Lachman, Herbert M",
+        "short_name": "Lachman HM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Albert Einstein College of Medicine, Bronx, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jinqiong",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Yiting",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Sun, Yang",
+        "short_name": "Sun Y",
+        "identifiers": [
+          "0000-0001-8735-4765"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology, Stanford University School of Medicine, Palo Alto, California, USA.",
+          "Palo Alto Veterans Administration, Palo Alto, California, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 05:36",
+    "fetched_at": "2026-09-14 15:57:02"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42717497",
+      "42285468",
+      "38557732",
+      "30147856",
+      "27790796",
+      "31376231",
+      "23805271",
+      "32393163",
+      "30590522",
+      "28871046",
+      "32394213",
+      "16420990",
+      "23389333",
+      "25305077",
+      "33540283",
+      "34586410",
+      "27011217",
+      "34488756",
+      "20872266",
+      "41344486",
+      "29300302",
+      "22543976",
+      "9430698",
+      "39553960",
+      "20301653",
+      "40778266",
+      "28669993",
+      "7761412",
+      "35919034",
+      "41278199",
+      "34680992",
+      "22915452",
+      "33528045",
+      "36176266",
+      "31676724",
+      "25107275",
+      "25143588",
+      "27625841",
+      "28473699",
+      "26351914",
+      "27059748",
+      "19684004",
+      "24614960",
+      "31707643",
+      "31967472",
+      "27766457",
+      "15870597",
+      "15108291",
+      "33139981",
+      "30906929",
+      "9632163",
+      "37172724",
+      "22378746",
+      "27895154",
+      "38589698",
+      "29524673",
+      "35074682",
+      "41493779",
+      "28803024",
+      "41358000",
+      "38061729",
+      "8504307",
+      "32712215",
+      "42465034",
+      "42513527",
+      "32666344",
+      "32340490",
+      "34877514",
+      "25480730",
+      "15505052",
+      "9682219",
+      "24778696",
+      "41219536",
+      "40485688",
+      "37508663",
+      "27131906",
+      "32707085",
+      "16506246",
+      "10767176",
+      "16381338",
+      "41657308",
+      "24750831",
+      "31676009",
+      "24711037",
+      "40728983",
+      "38641184",
+      "33987909",
+      "40565289",
+      "31811534",
+      "36256770",
+      "33765594",
+      "39368692",
+      "31037510",
+      "38151067",
+      "8634694",
+      "30625706",
+      "27867521",
+      "11146467",
+      "21183592",
+      "16101675"
+    ],
+    "review": [
+      "42717497",
+      "27011217",
+      "34488756",
+      "40778266",
+      "28669993",
+      "41278199",
+      "27625841",
+      "26351914",
+      "42465034",
+      "27131906",
+      "31676009"
+    ],
+    "pmc": [
+      "13558910"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

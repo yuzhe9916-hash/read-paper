@@ -1,0 +1,324 @@
+{
+  "identity": {
+    "pmid": "42720665",
+    "doi": "10.1111/pce.70866",
+    "title": "Cold-Induced Downregulation of TaSAP7-A2 Activates the TaCOLD1-2D-TaCML5-7B Module to Enhance Cold Tolerance in Wheat."
+  },
+  "content": {
+    "abstract": "Cold stress, including chilling and freezing, severely limits global wheat (Triticum aestivum L.) production. Although many cold-responsive genes have been identified, the mechanisms that connect early cold sensing to transcriptional regulation and downstream physiological adaptation are still not fully understood. By generating TaCOLD1-2D overexpression and CRISPR/Cas9 knockout lines in wheat and integrating protein interaction assays, transcriptional regulation analyses, physiological measurements, and haplotype analysis of 143 Chinese wheat accessions, we characterized the TaSAP7-A2/TaCOLD1-2D/TaCML5-7B regulatory module. TaSAP7-A2 functions as a transcriptional repressor that directly binds the TaCOLD1-2D promoter under normal conditions. Cold exposure rapidly downregulates TaSAP7-A2, relieving this repression and elevating TaCOLD1-2D expression. The increased TaCOLD1-2D then recruits TaCML5-7B in a Ca(2+)-dependent manner. This cascade activates ABA biosynthesis and signalling, promotes rapid stomatal closure, maintains ROS homoeostasis, and fine-tunes CBF-COR gene expression, conferring robust tolerance at both seedling and booting stages without affecting growth under non-stress conditions. A natural TaSAP7-A2 promoter haplotype (Hap-7A-2) with weakened repressive activity shows strong artificial selection in high-latitude cultivars. These results uncover an efficient derepression strategy that integrates early cold perception with Ca(2+)-ABA-mediated protective responses. The module provides valuable genetic targets for developing climate-resilient wheat while avoiding the growth penalties associated with constitutive defence activation.",
+    "keywords": [
+      "ABA biosynthesis",
+      "TaCML5-7B",
+      "TaCOLD1-2D",
+      "TaSAP7-A2",
+      "calcium signalling",
+      "transcriptional derepression",
+      "wheat cold tolerance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Teng",
+        "Liu, Yang",
+        "Fu, Liang",
+        "Zheng, Yan",
+        "Yu, Yang",
+        "Tian, Yesong",
+        "Li, Huaqing",
+        "Guo, Pengxia",
+        "Zhao, Yue",
+        "Zhang, Xiaohong",
+        "Song, Yulong",
+        "Min, Donghong"
+      ],
+      "short_names": [
+        "Li T",
+        "Liu Y",
+        "Fu L",
+        "Zheng Y",
+        "Yu Y",
+        "Tian Y",
+        "Li H",
+        "Guo P",
+        "Zhao Y",
+        "Zhang X",
+        "Song Y",
+        "Min D"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-7282-1942",
+        "ORCID: 0009-0009-4068-8480"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "Xinxiang Academy of Agricultural Sciences of He'nan Province, Xinxiang, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "College of Life Sciences, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China.",
+        "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Teng",
+        "short_name": "Li T",
+        "identifiers": [
+          "0009-0006-7282-1942"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0009-0009-4068-8480"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Liang",
+        "short_name": "Fu L",
+        "identifiers": [],
+        "affiliations": [
+          "Xinxiang Academy of Agricultural Sciences of He'nan Province, Xinxiang, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Yan",
+        "short_name": "Zheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yang",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Yesong",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Li, Huaqing",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Pengxia",
+        "short_name": "Guo P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yue",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiaohong",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Song, Yulong",
+        "short_name": "Song Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Min, Donghong",
+        "short_name": "Min D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Xianyang, Shaanxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant, cell & environment"
+    ],
+    "journal_abbrev": [
+      "Plant Cell Environ"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-14 15:57:02"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42720665",
+      "42160837",
+      "41220776",
+      "19491090",
+      "33828570",
+      "42231184",
+      "40239777",
+      "30183124",
+      "41273775",
+      "42350942",
+      "41201374",
+      "18061465",
+      "26150199",
+      "12715154",
+      "39375249",
+      "40613268",
+      "42107029",
+      "42475469",
+      "23641182",
+      "36097863",
+      "42636936",
+      "41012001",
+      "35996876",
+      "25577733",
+      "24626953",
+      "42624258",
+      "41977472",
+      "25912720",
+      "42119893",
+      "18433415",
+      "34078280",
+      "42024829",
+      "41342959",
+      "42334636",
+      "41515090",
+      "16172531",
+      "28178571",
+      "29568301",
+      "42212637",
+      "42386493",
+      "39054416",
+      "32480933",
+      "41319199",
+      "17240477",
+      "21502188",
+      "28302069",
+      "41896705",
+      "31615063",
+      "20230648",
+      "31548866",
+      "22531790",
+      "39977116",
+      "35629367",
+      "41802919",
+      "27541276",
+      "42485580",
+      "39488840",
+      "19309505",
+      "40947544",
+      "38773371",
+      "42423212",
+      "40252980",
+      "35882853",
+      "36958153",
+      "35351310",
+      "41398116",
+      "41168415",
+      "40195617",
+      "20401645",
+      "42472482",
+      "38668327",
+      "42322845",
+      "41618557",
+      "42718787",
+      "40692058",
+      "41254527",
+      "40391385",
+      "38177998",
+      "21331631",
+      "42345821",
+      "33805821",
+      "42098648",
+      "41916486",
+      "42255307",
+      "39447050",
+      "38807787",
+      "27969000",
+      "41038133",
+      "39502336",
+      "35820806",
+      "41025889",
+      "24331416",
+      "42552950",
+      "42474938",
+      "37107602",
+      "39323012",
+      "37175676",
+      "37734712",
+      "36000923",
+      "41705414"
+    ],
+    "review": [
+      "42720665",
+      "42386493",
+      "35629367",
+      "42423212",
+      "36958153"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/pce.70866",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-177",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

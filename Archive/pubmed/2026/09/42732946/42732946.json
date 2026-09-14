@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42732946",
+    "doi": "10.1002/cnr2.70685",
+    "title": "Comprehensive In Silico Analysis Identifies MSTO1 and LIG1 as Candidate Biomarkers With Diagnostic and Prognostic Relevance in Hepatocellular Carcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Hepatocellular carcinoma (HCC) is the most common primary liver malignancy and remains a major cause of cancer-related mortality worldwide. Its poor clinical outcomes are largely attributed to late-stage diagnosis and the limited accuracy of currently available diagnostic and prognostic biomarkers. Therefore, identifying novel molecular markers with improved sensitivity, specificity, and therapeutic relevance is essential for enhancing early detection and guiding personalized treatment strategies. AIMS: To identify and prioritize novel candidate HCC biomarkers with diagnostic and prognostic value and potential therapeutic vulnerability using integrated multi-omics, survival, functional dependency, and tumor microenvironment analyses. METHODS AND RESULTS: We examined the mRNA and protein expression levels of 8 DEGs in HCC tissues in the TCGA and CPTAC datasets using UALCAN, which showed that MSTO1 and LIG1 were overexpressed consistently in HCC relative to normal liver tissues. Moreover, elevated expression levels of these genes were significantly associated with higher tumor grade and advanced stage. Kaplan-Meier plotter survival data confirmed that increased expression of MSTO1 and LIG1 was associated with poorer overall survival. The DepMap CRISPR knockout data confirmed a functional dependency of both genes in HCC cell lines. CBioPortal analyses provided characterization of genomic alterations and enabled enrichment analysis of co-expressed genes, and the TCGA-UALCAN pan-cancer analyses supported the assessment of tissue specificity across tumor types. TIMER3 analyses linked candidate gene expression with immune cell infiltration patterns. Diagnostic performance by ROC analysis showed excellent discrimination for MSTO1 (AUC = 0.987) and good discrimination for LIG1 (AUC = 0.897). Multivariate Cox regression with Benjamini-Hochberg FDR correction across the eight genes supported MSTO1 as a candidate independent prognostic factor after adjustment for tumor stage, grade, etiology, age, and sex (HR = 1.29, p = 0.035), whilst LIG1 showed no independent prognostic value. Promoter methylation of MSTO1 and ADH4, assessed via UALCAN, showed that both genes were significantly differentially methylated in the promoter region of primary HCC tissues compared with normal liver tissues. Our study also confirmed the biological and clinical relevance of established HCC biomarkers: TERT, IRAK1, and ADH4. CONCLUSION: MSTO1 and LIG1 emerged as candidate diagnostic biomarkers in HCC. Additionally, MSTO1 showed a candidate prognostic association with overall survival that remained significant after adjusting for tumor stage, grade, and etiology, as well as patients' age, but not after further adjustment for AFP status. Functional data also highlighted MSTO1 as a candidate therapeutic dependency. On the other hand, LIG1 showed no independent prognostic association in either multivariate model. Their differential expression and functional essentiality in HCC cell lines highlighted their value for further experimental and independent-cohort validation before potential integration into biomarker development pipelines aimed at improving early detection and targeted therapy in HCC.",
+    "keywords": [
+      "HCC",
+      "LIG1",
+      "MSTO1",
+      "bioinformatics",
+      "biomarkers"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Carcinoma, Hepatocellular/genetics/diagnosis/mortality/pathology",
+      "*Liver Neoplasms/genetics/diagnosis/pathology/mortality/metabolism",
+      "*Biomarkers, Tumor/genetics/metabolism",
+      "Prognosis",
+      "*DNA Ligase ATP/genetics/metabolism",
+      "Gene Expression Regulation, Neoplastic",
+      "Female",
+      "Male",
+      "Computer Simulation",
+      "Gene Expression Profiling",
+      "Tumor Microenvironment/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hamad, Jana",
+        "Fayyad-Kazan, Hussein",
+        "Abdel-Sater, Fadi"
+      ],
+      "short_names": [
+        "Hamad J",
+        "Fayyad-Kazan H",
+        "Abdel-Sater F"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-9484-8303",
+        "ORCID: 0000-0002-3465-4630",
+        "ORCID: 0000-0003-3590-140X"
+      ],
+      "affiliations": [
+        "Faculty of Sciences I, Laboratory of Cancer Biology & Molecular Immunology, Lebanese University, Beirut, Lebanon.",
+        "Faculty of Sciences I, Laboratory of Cancer Biology & Molecular Immunology, Lebanese University, Beirut, Lebanon.",
+        "Faculty of Sciences I, Laboratory of Cancer Biology & Molecular Immunology, Lebanese University, Beirut, Lebanon."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hamad, Jana",
+        "short_name": "Hamad J",
+        "identifiers": [
+          "0009-0002-9484-8303"
+        ],
+        "affiliations": [
+          "Faculty of Sciences I, Laboratory of Cancer Biology & Molecular Immunology, Lebanese University, Beirut, Lebanon."
+        ]
+      },
+      {
+        "full_name": "Fayyad-Kazan, Hussein",
+        "short_name": "Fayyad-Kazan H",
+        "identifiers": [
+          "0000-0002-3465-4630"
+        ],
+        "affiliations": [
+          "Faculty of Sciences I, Laboratory of Cancer Biology & Molecular Immunology, Lebanese University, Beirut, Lebanon."
+        ]
+      },
+      {
+        "full_name": "Abdel-Sater, Fadi",
+        "short_name": "Abdel-Sater F",
+        "identifiers": [
+          "0000-0003-3590-140X"
+        ],
+        "affiliations": [
+          "Faculty of Sciences I, Laboratory of Cancer Biology & Molecular Immunology, Lebanese University, Beirut, Lebanon."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer reports (Hoboken, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Cancer Rep (Hoboken)"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 23:34",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42732946",
+      "40374855",
+      "41817384",
+      "42486346",
+      "42244292",
+      "41674779",
+      "41507915",
+      "41872824",
+      "39155614",
+      "41345488",
+      "37743471",
+      "39044829",
+      "42292467",
+      "41986494",
+      "41774333",
+      "42298533",
+      "40211257",
+      "42026805",
+      "42317344",
+      "39090641",
+      "42403196",
+      "33679751",
+      "40765359",
+      "33456356",
+      "34280005",
+      "41895243",
+      "32231177",
+      "41131597",
+      "39738479",
+      "41993211",
+      "41766871",
+      "33878734",
+      "39920250",
+      "33562824",
+      "34493238",
+      "42470438",
+      "39615209",
+      "40956482",
+      "41778427",
+      "42500561",
+      "39445019",
+      "40596892",
+      "33897701",
+      "39548390",
+      "39085893",
+      "41086720",
+      "41039793",
+      "32046766",
+      "41935591",
+      "34612781",
+      "40051634",
+      "41290912",
+      "40525440",
+      "31908394",
+      "41491166",
+      "41126341",
+      "39798003",
+      "41171436",
+      "34925311",
+      "40574404",
+      "42601689",
+      "37898914",
+      "42196147",
+      "41432972",
+      "40821770",
+      "42074524",
+      "40660541",
+      "35065633",
+      "41699549",
+      "42029602",
+      "40875626",
+      "40295654",
+      "40255404",
+      "42104475",
+      "41492111",
+      "41187981",
+      "39888492",
+      "32399086",
+      "29117471",
+      "31969776",
+      "40260250",
+      "41174063",
+      "39537209",
+      "41436831",
+      "41741801",
+      "42130143",
+      "40074769",
+      "39160363",
+      "41779475",
+      "40265593",
+      "40595076",
+      "33662631",
+      "34115569",
+      "42021884",
+      "42689985",
+      "41310383",
+      "40330470",
+      "33376723",
+      "38742112",
+      "40391218"
+    ],
+    "review": [
+      "42732946"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LIG1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-930",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

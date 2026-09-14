@@ -1,0 +1,373 @@
+{
+  "identity": {
+    "pmid": "42729649",
+    "doi": "10.34133/cancomm.0048",
+    "title": "NBR1-Mediated Autophagic Degradation of YTHDF1 Curtails FDX1 Translation to Drive Concurrent Multikinase Inhibitor Resistance and Cuproptosis Tolerance."
+  },
+  "content": {
+    "abstract": "Background: Cancer cells frequently acquire adaptive resistance to targeted therapies; however, strategies capable of concurrently overcoming treatment tolerance and reactivating cell death pathways are currently lacking. Here, we investigated the dual role of ferredoxin 1 (FDX1) in modulating both multikinase inhibitor (MKI) sensitivity and cuproptosis susceptibility in hepatocellular carcinoma (HCC), and sought to develop a therapeutic approach for reversing resistance. Methods: HCC models, both in vitro and in vivo, were employed to investigate the role of FDX1 in MKI resistance and cuproptosis evasion. Polysome profiling, SunTag translation reporters, CRISPR-Cas9 mutagenesis, and mass spectrometry were employed to delineate the underlying mechanisms. A codelivery nanoliposome system was engineered and tested in orthotopic HCC models. Results: Prolonged exposure to MKIs led to the down-regulation of FDX1 protein levels, resulting in MKI resistance and cuproptosis tolerance in HCC both in vitro and in vivo. Mechanistically, we found that MKIs inactivated protein kinase B (PKB, also known as AKT)-mechanistic target of rapamycin (mTOR) signaling, thereby suppressing the SET and MYND domain-containing protein 2 (SMYD2)-mediated methylation of YTH domain family protein 1 (YTHDF1) at lysine 515 (K515). Hypomethylated YTHDF1 was degraded via next to BRCA1 gene 1 protein (NBR1)-dependent autophagy, leading to the repression of N6-methyladenosine modification-dependent translation of FDX1 mRNA. FDX1 deficiency drove MKI resistance by reactivating AKT survival signaling while impairing cuproptosis through reduced divalent copper ions (Cu(2+)) to monovalent copper ions (Cu(+)) conversion and the loss of protein lipoylation. Additionally, restoring FDX1 expression through NBR1 knockdown or YTHDF1 overexpression overcame MKI resistance and resensitized HCC cells to cuproptosis. Finally, a nanoliposomal system, super cuproptosis detonator liposome, designed for the codelivery of NBR1 small interfering RNA, a copper ionophore, and sorafenib restored FDX1-dependent cuproptosis and exhibited marked anti-HCC efficacy, suppressing HCC growth in vivo. Conclusions: MKIs suppressed SMYD2-mediated YTHDF1 methylation at K515 via the inactivation of AKT-mTOR signaling. This led to the inhibition of FDX1 translation, resulting in AKT signaling reactivation and protein lipoylation impairment, effects that contributed to both MKI resistance and cuproptosis tolerance in HCC. Overcoming MKI resistance and resensitizing cells to cuproptosis by targeting NBR1-mediated YTHDF1 degradation using a nanoliposomal codelivery system represents a promising strategy for HCC treatment.",
+    "keywords": [],
+    "mesh_terms": [
+      "Cuproptosis",
+      "Humans",
+      "Animals",
+      "Mice",
+      "*Drug Resistance, Neoplasm/genetics",
+      "*RNA-Binding Proteins/metabolism/genetics",
+      "*Protein Kinase Inhibitors/pharmacology",
+      "*Liver Neoplasms/drug therapy/metabolism/pathology/genetics",
+      "Autophagy",
+      "Cell Line, Tumor",
+      "*Carcinoma, Hepatocellular/drug therapy/metabolism/pathology/genetics",
+      "Xenograft Model Antitumor Assays",
+      "Intracellular Signaling Peptides and Proteins/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Weikai",
+        "Jiang, Xin",
+        "Chen, Xiaona",
+        "Liang, Kaiyu",
+        "Chen, Miaoqin",
+        "Lu, Kaizhong",
+        "Wei, Qi",
+        "Wu, Yuchen",
+        "Zhu, Liyuan",
+        "Chen, Yuan",
+        "Hou, Tianlun",
+        "Luo, Jingfeng",
+        "Li, Chentao",
+        "Wang, Xian",
+        "Jin, Hongchuan",
+        "Feng, Lifeng"
+      ],
+      "short_names": [
+        "Wang W",
+        "Jiang X",
+        "Chen X",
+        "Liang K",
+        "Chen M",
+        "Lu K",
+        "Wei Q",
+        "Wu Y",
+        "Zhu L",
+        "Chen Y",
+        "Hou T",
+        "Luo J",
+        "Li C",
+        "Wang X",
+        "Jin H",
+        "Feng L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Orthopaedic Surgery, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China.",
+        "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Weikai",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xin",
+        "short_name": "Jiang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaona",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liang, Kaiyu",
+        "short_name": "Liang K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedic Surgery, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Miaoqin",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Lu, Kaizhong",
+        "short_name": "Lu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wei, Qi",
+        "short_name": "Wei Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yuchen",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Liyuan",
+        "short_name": "Zhu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yuan",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Hou, Tianlun",
+        "short_name": "Hou T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Luo, Jingfeng",
+        "short_name": "Luo J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Chentao",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xian",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Jin, Hongchuan",
+        "short_name": "Jin H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Feng, Lifeng",
+        "short_name": "Feng L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Zhejiang Key Laboratory of Multi-omics Precision Diagnosis and Treatment of Liver Diseases, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer communications (London, England)"
+    ],
+    "journal_abbrev": [
+      "Cancer Commun (Lond)"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42729649",
+      "40609277",
+      "41501140",
+      "40902896",
+      "21858812",
+      "40274982",
+      "39128228",
+      "41740302",
+      "37459919",
+      "33962073",
+      "38241695",
+      "33619246",
+      "40630211",
+      "40336047",
+      "41589439",
+      "39585643",
+      "33174013",
+      "42035173",
+      "40991144",
+      "38743191",
+      "42088427",
+      "40362400",
+      "42026685",
+      "40103455",
+      "26311740",
+      "32368828",
+      "39897540",
+      "42506898",
+      "40715090",
+      "21835141",
+      "39735272",
+      "33638162",
+      "41198556",
+      "39030964",
+      "40747694",
+      "33378944",
+      "33051131",
+      "31053148",
+      "23299930",
+      "41621698",
+      "31337603",
+      "42031700",
+      "24705351",
+      "28079894",
+      "40831000",
+      "40634958",
+      "40610622",
+      "29604056",
+      "39159723",
+      "32786108",
+      "40294285",
+      "41035649",
+      "39826668",
+      "42469533",
+      "30657254",
+      "40912516",
+      "35062934",
+      "42561667",
+      "41136937",
+      "42628147",
+      "41672222",
+      "41616891",
+      "40126852",
+      "40426058",
+      "41212484",
+      "40412057",
+      "38811968",
+      "41832339",
+      "41820949",
+      "33875785",
+      "28065789",
+      "38769286",
+      "40582902",
+      "41308386",
+      "27614046",
+      "22787432",
+      "41097083",
+      "31151472",
+      "23393227",
+      "40834984",
+      "32554246",
+      "41933872",
+      "33203790",
+      "42251352",
+      "42052746",
+      "28284560",
+      "39629121",
+      "34366628",
+      "38967794",
+      "26099525",
+      "25047655",
+      "42171939",
+      "41593671",
+      "39514400",
+      "39054531",
+      "30770740",
+      "23818948",
+      "33186656",
+      "30801960",
+      "42069175"
+    ],
+    "review": [
+      "42729649",
+      "41593671"
+    ],
+    "pmc": [
+      "13562797"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-OTUB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-916",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

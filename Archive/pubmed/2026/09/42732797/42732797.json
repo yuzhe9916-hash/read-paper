@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42732797",
+    "doi": "10.1016/j.biortech.2026.135793",
+    "title": "Highly efficient production of 1,3-propanediol by CRISPR-Cas12a-edited Klebsiella pneumoniae using glycerol and lignocellulosic hydrolysate as co-substrates."
+  },
+  "content": {
+    "abstract": "Efficient biosynthesis of 1,3-PDO, a key bio-based chemical, depends on precise regulation of the host metabolic network. In this study, a heterologous CRISPR-Cas12a genome editing system was established and systematically optimized in Klebsiella pneumoniae, enabling efficient and stable genome editing (75-100% efficiency). Using on this platform, by-product pathways were reduced through multi-gene deletions (frdA, poxB, adhE, ldhA, glpK, ptsG and dhaM) to enhance the yield of 1,3-PDO from glycerol. By heterologously expressing GPD1/GPP2 and optimizing promoter, a metabolic network for the \"glucose-glycerol-1,3-PDO\" pathways was reconstructed. Cometabolism studies indicated that low concentrations of xylose and arabinose as co-substrates enhanced conversion efficiency of glycerol, whereas glucose alleviated metabolic competition. Under cometabolism of glucose and glycerol, the engineered strain K. pneumoniae S2 DeltaABEAKGM-1-2 produced 1003.7 mmol/L (76.4 g/L) of 1,3-PDO with a yield of 0.83 mol/mol glycerol, an overall molar yield of 0.78 mol/mol based on total substrate consumption, and a productivity of 27.9 mmol/L/h. When lignocellulosic hydrolysate was used as co-substrate, 981.1 mmol/L (74.7 g/L) of 1,3-PDO was produced with a yield of 0.77 mol/mol glycerol and a productivity of 27.3 mmol/L/h. This study achieved efficient redirection of carbon flux toward 1,3-PDO through systematic metabolic engineering, providing valuable strain resources and technical guidance for the sustainable and cost-effective biomanufacturing of bio-based 1,3-PDO.",
+    "keywords": [
+      "1,3-propanediol",
+      "Genome editing system",
+      "Glycerol",
+      "Klebsiellapneumoniae",
+      "Lignocellulosic hydrolysate"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Li",
+        "Zhao, Mingyang",
+        "Ye, Yuanming",
+        "Feng, Cai",
+        "Sun, Yaqin",
+        "Zhu, Zhiwei",
+        "Yang, Shihui",
+        "Xiu, Zhilong"
+      ],
+      "short_names": [
+        "Wang L",
+        "Zhao M",
+        "Ye Y",
+        "Feng C",
+        "Sun Y",
+        "Zhu Z",
+        "Yang S",
+        "Xiu Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: wl17854115755@163.com.",
+        "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: 15550142912@163.com.",
+        "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: yeym@mail.dlut.edu.cn.",
+        "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: fengcai111@163.com.",
+        "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: sunyaqin@dlut.edu.cn.",
+        "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: zwzhu@dlut.edu.cn.",
+        "School of Life Sciences, Hubei University, Hubei 430062, China. Electronic address: Shihui.Yang@hubu.edu.cn.",
+        "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: zhlxiu@dlut.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Li",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: wl17854115755@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhao, Mingyang",
+        "short_name": "Zhao M",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: 15550142912@163.com."
+        ]
+      },
+      {
+        "full_name": "Ye, Yuanming",
+        "short_name": "Ye Y",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: yeym@mail.dlut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Feng, Cai",
+        "short_name": "Feng C",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: fengcai111@163.com."
+        ]
+      },
+      {
+        "full_name": "Sun, Yaqin",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: sunyaqin@dlut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhiwei",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: zwzhu@dlut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Shihui",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Hubei University, Hubei 430062, China. Electronic address: Shihui.Yang@hubu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xiu, Zhilong",
+        "short_name": "Xiu Z",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Intelligent Bio-Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian 116024, China. Electronic address: zhlxiu@dlut.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioresource technology"
+    ],
+    "journal_abbrev": [
+      "Bioresour Technol"
+    ],
+    "pub_date": "2026 Sep 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 23:34",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42732797",
+      "41398278",
+      "42731635",
+      "41796369",
+      "29657579",
+      "35416488",
+      "29907119",
+      "39923861",
+      "28549809",
+      "27761634",
+      "36747250",
+      "30902851",
+      "21336929",
+      "32898717",
+      "25644946",
+      "29297957",
+      "27998670",
+      "35731629",
+      "31808287",
+      "35490247",
+      "35298861",
+      "40902719",
+      "35038553",
+      "35845395",
+      "26379778",
+      "24657752",
+      "36470488",
+      "31863348",
+      "22684326",
+      "42362952",
+      "30056370",
+      "40254891",
+      "31931797",
+      "29178875",
+      "26822953",
+      "32909101",
+      "34971623",
+      "41900474",
+      "36964595",
+      "40358974",
+      "26750307",
+      "21404260",
+      "34899654",
+      "34298333",
+      "27800016",
+      "23586646",
+      "22055092",
+      "39174460",
+      "28040869",
+      "32901814",
+      "29046721",
+      "41624986",
+      "41079773",
+      "28863426",
+      "33722653",
+      "33625207",
+      "38518554",
+      "26345096",
+      "38454489",
+      "30719552",
+      "22952017",
+      "29201141",
+      "24885849",
+      "25499652",
+      "31617952",
+      "31267386",
+      "42088838",
+      "42153632",
+      "32964453",
+      "42177502",
+      "24886501",
+      "27342556",
+      "40796070",
+      "34187467",
+      "29636817",
+      "28760443",
+      "20219100",
+      "39174459",
+      "31245364",
+      "30978585",
+      "38995045",
+      "28176878",
+      "25888986",
+      "27056473",
+      "39167552",
+      "27717386",
+      "29651644",
+      "39044245",
+      "31404755",
+      "21883732",
+      "23192305",
+      "23400350",
+      "30716606",
+      "41067385",
+      "41060588",
+      "42301349",
+      "40602668",
+      "25588555",
+      "28396036",
+      "42595042"
+    ],
+    "review": [
+      "42732797",
+      "39174459"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-91",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

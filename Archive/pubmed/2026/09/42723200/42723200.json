@@ -1,0 +1,350 @@
+{
+  "identity": {
+    "pmid": "42723200",
+    "doi": "10.1002/adma.74941",
+    "title": "Bioinspired, Spontaneously Formed Air-Encapsulated Cavity for Sample-Mediated Optical Signal Enhancement."
+  },
+  "content": {
+    "abstract": "Optical signal enhancement in biomedical, chemical, and environmental analyses typically relies on engineered optical components, which increase system complexity and cost. Bioinspired approaches, such as enriching analytes via droplet evaporation on superhydrophobic surfaces or shaping sessile droplets into microlenses, have been explored as alternatives. However, these platforms generally support only a single spectroscopic modality, depend on evaporation dynamics, and require specialized readout instruments. Here we report a bioinspired, spontaneously formed air-encapsulated cavity (BIOSAC) that overcomes these constraints by combining a superhydrophobic coating with V-shaped geometric confinement inside a sample container. Upon liquid loading, the sample spontaneously forms a stable air-encapsulated droplet that functions as a built-in liquid lens, modifying excitation-light propagation and signal collection without auxiliary optics or additional sample preparation. BIOSAC achieved maximum measured signal enhancements of 40.3-fold for fluorescence, 56.4-fold for surface-enhanced Raman scattering, and 8.6-fold for UV-vis absorbance. Coupled with an amplification-free CRISPR/Cas13a assay, the platform detected SARS-CoV-2 RNA at 78 copies/microL within 30 min using a standard microplate reader. This work shows that interfacial wetting and geometric confinement can be jointly engineered to make the sample itself a built-in optical element, decoupling signal gain from system complexity and providing an adaptable framework for high-sensitivity optical sensing.",
+    "keywords": [
+      "amplification-free diagnostics",
+      "bio-inspired microlens",
+      "interfacial engineering",
+      "intrinsic optical gain",
+      "sample-mediated architecture"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Mengfan",
+        "Zhang, Chuyan",
+        "Yang, Zongyin",
+        "Zhang, Yifeng",
+        "Niu, Guanghui",
+        "Zeng, Lingwei",
+        "Rao, Yu",
+        "He, Xingliang",
+        "Zhao, Zhao",
+        "Wang, Xu",
+        "Wang, Jingting",
+        "Li, Yongxin",
+        "Duan, Yixiang"
+      ],
+      "short_names": [
+        "Wu M",
+        "Zhang C",
+        "Yang Z",
+        "Zhang Y",
+        "Niu G",
+        "Zeng L",
+        "Rao Y",
+        "He X",
+        "Zhao Z",
+        "Wang X",
+        "Wang J",
+        "Li Y",
+        "Duan Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4939-6953",
+        "ORCID: 0000-0003-2869-406X",
+        "ORCID: 0000-0002-2832-2277",
+        "ORCID: 0009-0009-1944-9821"
+      ],
+      "affiliations": [
+        "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China.",
+        "Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, China.",
+        "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China.",
+        "West China Hospital, Sichuan University, Chengdu, China.",
+        "College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China.",
+        "Department of Environmental & Resource Engineering, Technical University of Denmark, Kongens Lyngby, Denmark.",
+        "Research and Development Center, Baowu Heavy Industry, Shanghai, China.",
+        "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China.",
+        "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China.",
+        "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China.",
+        "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China.",
+        "China National Analytical Center, Guangzhou Institute of Analysis, Guangdong Academy of Sciences, Guangzhou, China.",
+        "Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, China.",
+        "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China.",
+        "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Mengfan",
+        "short_name": "Wu M",
+        "identifiers": [
+          "0000-0002-4939-6953"
+        ],
+        "affiliations": [
+          "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China.",
+          "Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chuyan",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China.",
+          "West China Hospital, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zongyin",
+        "short_name": "Yang Z",
+        "identifiers": [
+          "0000-0003-2869-406X"
+        ],
+        "affiliations": [
+          "College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yifeng",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0002-2832-2277"
+        ],
+        "affiliations": [
+          "Department of Environmental & Resource Engineering, Technical University of Denmark, Kongens Lyngby, Denmark."
+        ]
+      },
+      {
+        "full_name": "Niu, Guanghui",
+        "short_name": "Niu G",
+        "identifiers": [],
+        "affiliations": [
+          "Research and Development Center, Baowu Heavy Industry, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Lingwei",
+        "short_name": "Zeng L",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Rao, Yu",
+        "short_name": "Rao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "He, Xingliang",
+        "short_name": "He X",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhao",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xu",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "China National Analytical Center, Guangzhou Institute of Analysis, Guangdong Academy of Sciences, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jingting",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0009-0009-1944-9821"
+        ],
+        "affiliations": [
+          "Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yongxin",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Yixiang",
+        "short_name": "Duan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Analytical Instrumentation, School of Mechanical Engineering, Sichuan University, Chengdu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced materials (Deerfield Beach, Fla.)"
+    ],
+    "journal_abbrev": [
+      "Adv Mater"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42723200",
+      "42475469",
+      "40728278",
+      "34514084",
+      "34904892",
+      "33034318",
+      "28362085",
+      "42674042",
+      "38482463",
+      "41298381",
+      "30682798",
+      "33498106",
+      "29096056",
+      "26269925",
+      "38747627",
+      "35624601",
+      "26844322",
+      "25380327",
+      "41816930",
+      "36789152",
+      "30648179",
+      "37851522",
+      "37910547",
+      "38249803",
+      "42009554",
+      "31680511",
+      "34974260",
+      "42184674",
+      "19954162",
+      "27624554",
+      "40202271",
+      "32456923",
+      "29470090",
+      "24134617",
+      "41881766",
+      "41570708",
+      "34486843",
+      "31200118",
+      "31851676",
+      "32597162",
+      "40255478",
+      "36958206",
+      "38598338",
+      "39017814",
+      "42061344",
+      "41663226",
+      "33306959",
+      "33050697",
+      "42287190",
+      "40382098",
+      "38521567",
+      "32589403",
+      "33179927",
+      "26446177",
+      "41573851",
+      "34939798",
+      "28925681",
+      "31944645",
+      "40719649",
+      "27228748",
+      "37382220",
+      "35399094",
+      "39862805",
+      "29616797",
+      "40959136",
+      "42645301",
+      "42027143",
+      "40035496",
+      "40440480",
+      "23928092",
+      "36965355",
+      "35581026",
+      "30125483",
+      "33796478",
+      "38078412",
+      "36731397",
+      "26083081",
+      "18173651",
+      "38785448",
+      "41753900",
+      "30411042",
+      "42191297",
+      "37665340",
+      "16885981",
+      "42215315",
+      "42447530",
+      "40872400",
+      "34582179",
+      "41710866",
+      "38309959",
+      "41149348",
+      "40515279",
+      "29442108",
+      "36163635",
+      "33103337",
+      "18605739",
+      "42447891",
+      "41896971",
+      "35370361",
+      "35561670"
+    ],
+    "review": [
+      "42723200",
+      "41298381",
+      "30682798",
+      "38249803",
+      "34974260",
+      "19954162",
+      "40202271",
+      "40255478",
+      "41753900",
+      "40872400",
+      "41149348",
+      "18605739"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/adma.74941",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

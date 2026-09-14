@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "42725430",
+    "doi": "10.1093/nar/gkag893",
+    "title": "Repeat region engineering of Cas13a crRNA enables conformational gating-based autocatalytic CRISPR biosensing."
+  },
+  "content": {
+    "abstract": "CrRNA engineering has emerged as a pivotal strategy for extending CRISPR-Cas13a biosensing. However, structural modulation of the direct repeat (DR) region remains exceptionally challenging due to its intricate architecture and the high energetic barrier of the Cas13a-crRNA interface, which is conventionally viewed as a rigid and immutable scaffold. Here, we demonstrate that the DR region is instead a programmable topological element with unexpected structural plasticity. By systematically engineering the DR through sequence insertion and structural splitting, we identified multiple DR variants that retain robust catalytic activity. Crucially, this topological reconfiguration enables Cas13a activity to be precisely gated by unmodified nucleic acid blockers, a level of regulation unattainable with the wild-type crRNA. Building on this flexible modulation, we developed Dre-CRISPR, a DR-engineered platform that couples target-triggered DR restoration to a self-reinforcing autocatalytic loop. This self-amplifying system provides a 2 x 106-fold sensitivity enhancement over nonamplified systems. Furthermore, the Dre-CRISPR platform extends the diagnostic scope of Cas13a to a broader spectrum of analytes, ranging from microRNAs to enzymatic activities and heavy metal ions. Our findings redefine the crRNA scaffold as a versatile signaling node and provide a generalizable framework for developing high-sensitivity, self-amplifying CRISPR biosensors through topology-driven guide RNA engineering.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CRISPR-Associated Proteins/genetics/metabolism/chemistry",
+      "*Biosensing Techniques/methods",
+      "*CRISPR-Cas Systems",
+      "*Repetitive Sequences, Nucleic Acid",
+      "Nucleic Acid Conformation",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ding, Wei",
+        "Yang, Xiaomin",
+        "Yang, Yutong",
+        "Liu, Mingxin",
+        "Liu, Chenghui",
+        "Wang, Jinyi",
+        "Liu, Xiaoling"
+      ],
+      "short_names": [
+        "Ding W",
+        "Yang X",
+        "Yang Y",
+        "Liu M",
+        "Liu C",
+        "Wang J",
+        "Liu X"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8375-0242",
+        "ORCID: 0009-0003-5015-2053"
+      ],
+      "affiliations": [
+        "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China.",
+        "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China.",
+        "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China.",
+        "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China.",
+        "Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education; Key Laboratory of Analytical Chemistry for Life Science of Shaanxi Province; School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710119, P.R. China.",
+        "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China.",
+        "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ding, Wei",
+        "short_name": "Ding W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiaomin",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yutong",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Mingxin",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chenghui",
+        "short_name": "Liu C",
+        "identifiers": [
+          "0000-0001-8375-0242"
+        ],
+        "affiliations": [
+          "Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education; Key Laboratory of Analytical Chemistry for Life Science of Shaanxi Province; School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710119, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jinyi",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaoling",
+        "short_name": "Liu X",
+        "identifiers": [
+          "0009-0003-5015-2053"
+        ],
+        "affiliations": [
+          "College of Chemistry and Pharmacy, Northwest A&F University, Yangling, Shaanxi 712100, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42725430",
+      "41686171",
+      "40812128",
+      "30503773",
+      "28475872",
+      "31186424",
+      "27096362",
+      "39831307",
+      "37228594",
+      "40555854",
+      "40763823",
+      "40825745",
+      "40996239",
+      "42138212",
+      "27096363",
+      "32999292",
+      "29348170",
+      "31232162",
+      "39834214",
+      "30153081",
+      "40691444",
+      "37824705",
+      "35193353",
+      "40689881",
+      "39676682",
+      "41834687",
+      "38552526",
+      "37442412",
+      "41966922",
+      "38981827",
+      "42674033",
+      "33379087",
+      "41606937",
+      "30639408",
+      "28781236",
+      "38641067",
+      "25921071",
+      "28757251",
+      "40226913",
+      "41773016",
+      "41474879",
+      "41855972",
+      "35586918",
+      "28595896",
+      "33472057",
+      "30873832",
+      "23500492",
+      "41576437",
+      "28781234",
+      "29551514",
+      "42184674",
+      "35016109",
+      "28431230",
+      "32376630",
+      "40136952",
+      "41330674",
+      "41928005",
+      "39516870",
+      "41475348",
+      "23594992",
+      "35777218",
+      "39375921",
+      "41747377",
+      "28892041",
+      "28375731",
+      "42152766",
+      "32467331",
+      "25367038",
+      "42240620",
+      "41135510",
+      "25368186",
+      "40354613",
+      "28602637",
+      "24256227",
+      "39912765",
+      "30872121",
+      "32008319",
+      "30691647",
+      "38575571",
+      "35946354",
+      "41026506",
+      "28893837",
+      "36840654",
+      "41784267",
+      "30503774",
+      "42161120",
+      "38073045",
+      "38033317",
+      "40596718",
+      "36569102",
+      "41796733",
+      "25373540",
+      "37908718",
+      "31325492",
+      "41913088",
+      "39643309",
+      "40335033",
+      "31270316",
+      "39009379",
+      "40199100"
+    ],
+    "review": [
+      "42725430",
+      "40555854",
+      "40763823",
+      "40996239",
+      "41606937",
+      "38641067",
+      "40136952",
+      "35777218",
+      "28375731",
+      "24256227",
+      "36840654",
+      "36569102",
+      "41796733"
+    ],
+    "pmc": [
+      "13563088"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag893",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "identity": {
+    "pmid": "42725884",
+    "doi": "10.7554/eLife.111773",
+    "title": "Intersecting experimental evolution and CRISPR screens to identify novel toxin resistance loci."
+  },
+  "content": {
+    "abstract": "Understanding toxin resistance in insects is key to appreciating niche adaptations but remains challenging due to its often-polygenic basis. A well-known example is the specialized association of Drosophila sechellia with noni fruit (Morinda citrifolia), which is toxic to other insects, including Drosophila simulans and Drosophila melanogaster. The main noni toxin is octanoic acid (OA), but the mechanisms that determine sensitivity or resistance to OA in different species remain unclear. Here, we experimentally evolved D. simulans with increased OA resistance, identifying multiple loci under selection. Cross-referencing these with a genome-wide, OA resistance CRISPR screen in a D. melanogaster cell line highlighted two proteins: Kraken, a putative detoxification enzyme expressed in digestive and renal tissues, and Alkbh7, a mitochondrial protein linked to fatty acid metabolism. Both genes show elevated expression in D. sechellia and OA-resistant D. simulans. In D. melanogaster, kraken mutants are more OA-sensitive, while Alkbh7 overexpression increased OA resistance. Mutation of these genes in D. sechellia reduced OA tolerance. Our identification of genes contributing to OA resistance in laboratory and natural contexts demonstrates how complementary selection approaches can provide insights into complex mechanisms of toxin susceptibility and adaptation. Such methods could have practical applications in the characterization of natural and artificial insecticides.",
+    "keywords": [
+      "D. melanogaster",
+      "D. sechellia",
+      "D. simulans",
+      "S2R+ cells",
+      "evolutionary biology",
+      "experimental evolution",
+      "genetics",
+      "genomics",
+      "selection",
+      "toxicology"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Caprylates/toxicity",
+      "*Drosophila/genetics/drug effects",
+      "Drosophila Proteins/genetics/metabolism",
+      "Drosophila melanogaster/genetics/drug effects",
+      "Morinda/chemistry",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats",
+      "*Drosophila simulans/genetics/drug effects",
+      "CRISPR-Cas Systems",
+      "*Drug Resistance/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Marconcini, Michele",
+        "Cruchet, Steeve",
+        "Goswami, Srishti",
+        "Viswanatha, Raghuvir",
+        "Butnaru, Matthew",
+        "De, Joydeep",
+        "Roselli, Camilla",
+        "Hadjieconomou, Dafni",
+        "Perrimon, Norbert",
+        "Mohr, Stephanie E",
+        "Benton, Richard"
+      ],
+      "short_names": [
+        "Marconcini M",
+        "Cruchet S",
+        "Goswami S",
+        "Viswanatha R",
+        "Butnaru M",
+        "De J",
+        "Roselli C",
+        "Hadjieconomou D",
+        "Perrimon N",
+        "Mohr SE",
+        "Benton R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6785-9106",
+        "ORCID: 0000-0002-9457-6953",
+        "ORCID: 0009-0003-1162-4417",
+        "ORCID: 0000-0001-7542-472X",
+        "ORCID: 0000-0001-9639-7708",
+        "ORCID: 0000-0003-4305-8301"
+      ],
+      "affiliations": [
+        "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland.",
+        "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland.",
+        "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States.",
+        "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States.",
+        "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States.",
+        "Howard Hughes Medical Institute, Boston, United States.",
+        "Institut du Cerveau-Paris Brain Institute, Sorbonne Universite, Inserm, CNRS, Paris, France.",
+        "Institut du Cerveau-Paris Brain Institute, Sorbonne Universite, Inserm, CNRS, Paris, France.",
+        "Institut du Cerveau-Paris Brain Institute, Sorbonne Universite, Inserm, CNRS, Paris, France.",
+        "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States.",
+        "Howard Hughes Medical Institute, Boston, United States.",
+        "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States.",
+        "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Marconcini, Michele",
+        "short_name": "Marconcini M",
+        "identifiers": [
+          "0000-0002-6785-9106"
+        ],
+        "affiliations": [
+          "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Cruchet, Steeve",
+        "short_name": "Cruchet S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Goswami, Srishti",
+        "short_name": "Goswami S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States."
+        ]
+      },
+      {
+        "full_name": "Viswanatha, Raghuvir",
+        "short_name": "Viswanatha R",
+        "identifiers": [
+          "0000-0002-9457-6953"
+        ],
+        "affiliations": [
+          "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States."
+        ]
+      },
+      {
+        "full_name": "Butnaru, Matthew",
+        "short_name": "Butnaru M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States.",
+          "Howard Hughes Medical Institute, Boston, United States."
+        ]
+      },
+      {
+        "full_name": "De, Joydeep",
+        "short_name": "De J",
+        "identifiers": [],
+        "affiliations": [
+          "Institut du Cerveau-Paris Brain Institute, Sorbonne Université, Inserm, CNRS, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Roselli, Camilla",
+        "short_name": "Roselli C",
+        "identifiers": [],
+        "affiliations": [
+          "Institut du Cerveau-Paris Brain Institute, Sorbonne Université, Inserm, CNRS, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Hadjieconomou, Dafni",
+        "short_name": "Hadjieconomou D",
+        "identifiers": [
+          "0009-0003-1162-4417"
+        ],
+        "affiliations": [
+          "Institut du Cerveau-Paris Brain Institute, Sorbonne Université, Inserm, CNRS, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Perrimon, Norbert",
+        "short_name": "Perrimon N",
+        "identifiers": [
+          "0000-0001-7542-472X"
+        ],
+        "affiliations": [
+          "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States.",
+          "Howard Hughes Medical Institute, Boston, United States."
+        ]
+      },
+      {
+        "full_name": "Mohr, Stephanie E",
+        "short_name": "Mohr SE",
+        "identifiers": [
+          "0000-0001-9639-7708"
+        ],
+        "affiliations": [
+          "Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, United States."
+        ]
+      },
+      {
+        "full_name": "Benton, Richard",
+        "short_name": "Benton R",
+        "identifiers": [
+          "0000-0003-4305-8301"
+        ],
+        "affiliations": [
+          "Center for Integrative Genomics, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42725884",
+      "42079102",
+      "41692494",
+      "28035709",
+      "29021218",
+      "26224784",
+      "11865712",
+      "30977928",
+      "34718544",
+      "28703934",
+      "19033155",
+      "24037270",
+      "26430061",
+      "30847082",
+      "9691045",
+      "36637369",
+      "17456006",
+      "37179396",
+      "30480548",
+      "15088651",
+      "35736356",
+      "24416303",
+      "1900368",
+      "19040187",
+      "31575638",
+      "28111079",
+      "9926614",
+      "9868925",
+      "18296696",
+      "32132713",
+      "26022241",
+      "42397734",
+      "24773151",
+      "37078570",
+      "8224853",
+      "25487989",
+      "25263841",
+      "33505786",
+      "7993320",
+      "15238524",
+      "37864792",
+      "34530638",
+      "36464279",
+      "16401429",
+      "26523848",
+      "11102384",
+      "30281656",
+      "15088648",
+      "40659672",
+      "8355601",
+      "31774527",
+      "38184848",
+      "31919111",
+      "22534282",
+      "15881686",
+      "17360391",
+      "40299832",
+      "15088644",
+      "8913769",
+      "1334916",
+      "33064591",
+      "37037625",
+      "21156200",
+      "17616977",
+      "31127048",
+      "28968391",
+      "39415010",
+      "33383708",
+      "36496985",
+      "24463528",
+      "39901145",
+      "8436278",
+      "34115120",
+      "38336393",
+      "27044093",
+      "24033178",
+      "29228179",
+      "25193377",
+      "30980655",
+      "33211537",
+      "25424548",
+      "35052398",
+      "35137042",
+      "28546383",
+      "30503619",
+      "39607704",
+      "28743761",
+      "25747007",
+      "31763777",
+      "42225167",
+      "9164172",
+      "16244705",
+      "3107542",
+      "24974378",
+      "40827645",
+      "42475469",
+      "10333568",
+      "22457639",
+      "34933779",
+      "36171290"
+    ],
+    "review": [
+      "42725884",
+      "34530638",
+      "15881686",
+      "15088644"
+    ],
+    "pmc": [
+      "13568702"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42725884/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7554/eLife.111773",
+        "provider": "eLife Sciences Publications, Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

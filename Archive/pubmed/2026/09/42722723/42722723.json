@@ -1,0 +1,199 @@
+{
+  "identity": {
+    "pmid": "42722723",
+    "doi": "10.1038/s41417-026-01080-1",
+    "title": "Clinical translation of senescence-related pan-cancer multi-omics: tools for assessment and immunotherapy prediction."
+  },
+  "content": {
+    "abstract": "Cellular senescence (CS) exerts dual roles in tumorigenesis, yet its pan-cancer molecular characteristics and clinical value remain unclear, hindering its translation to oncology and personalized therapy. To address the lack of specific and universal tools for senescence assessment and immunotherapy response prediction, this study systematically analyzed 1259 CS-related genes from the CellAge database across 31 cancer types by integrating multi-omics data, including bulk RNA-seq, single-cell/spatial transcriptomics, and CRISPR screening. We developed a rank-based algorithm SenScoreR (publicly available at https://gxhub.shinyapps.io/SenScoreR/ ) for senescence quantification, validated with 10 independent datasets, and constructed a machine learning-based predictive model CS.Sig for immunotherapy response. Results showed that tumors had significantly lower Rank-based Senescence Score (RSS) than normal tissues across 31 cancers (average diagnostic AUC = 0.895), with low RSS linked to poor survival; high RSS correlated with reduced genomic instability, enriched CD8(+) T/NK cell/macrophage infiltration, upregulated PD-L1 expression, and elevated immune cytolytic activity. CS.Sig demonstrated robust performance in predicting ICI response (AUC = 0.716 across 10 cohorts), outperforming 13 existing signatures, while CRISPR screening identified 17 senescence-related targets (e.g., CEP55, PPP1CC) whose knockout enhanced anti-tumor immunity. Our findings clarify CS's role in maintaining tumor genomic stability and shaping immune microenvironments, and the developed SenScoreR, CS.Sig, and identified targets bridge basic CS research with clinical oncology, providing a translational resource and hypothesis basis for future experimental and clinical validation.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Xin",
+        "Zhou, Xue-Jian"
+      ],
+      "short_names": [
+        "Gao X",
+        "Zhou XJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8736-1172"
+      ],
+      "affiliations": [
+        "Department of Clinical Laboratory, Xiangya Hospital, Central South University, Changsha, China. gaoxin@xiangya.com.cn.",
+        "Intensive Care Unit, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Xin",
+        "short_name": "Gao X",
+        "identifiers": [
+          "0000-0001-8736-1172"
+        ],
+        "affiliations": [
+          "Department of Clinical Laboratory, Xiangya Hospital, Central South University, Changsha, China. gaoxin@xiangya.com.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xue-Jian",
+        "short_name": "Zhou XJ",
+        "identifiers": [],
+        "affiliations": [
+          "Intensive Care Unit, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer gene therapy"
+    ],
+    "journal_abbrev": [
+      "Cancer Gene Ther"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42722723",
+      "40777041",
+      "40423850",
+      "39703515",
+      "35488273",
+      "38664705",
+      "41436831",
+      "41656832",
+      "40816003",
+      "41716413",
+      "40771813",
+      "42475469",
+      "36978029",
+      "41225066",
+      "42391672",
+      "41770477",
+      "41726702",
+      "39367493",
+      "42253970",
+      "41419193",
+      "38226313",
+      "41112295",
+      "42244292",
+      "40375605",
+      "30120041",
+      "41939867",
+      "42419189",
+      "41080584",
+      "41925746",
+      "42359574",
+      "35419596",
+      "37807645",
+      "42228240",
+      "42393336",
+      "40574864",
+      "41674779",
+      "41535649",
+      "40936719",
+      "40438115",
+      "41685312",
+      "40025576",
+      "39726597",
+      "41020834",
+      "41049291",
+      "40406120",
+      "41342434",
+      "39735553",
+      "41423668",
+      "41699549",
+      "41438751",
+      "41263399",
+      "41463470",
+      "42233387",
+      "40855439",
+      "33830879",
+      "41305714",
+      "37275552",
+      "42195052",
+      "41815152",
+      "42023218",
+      "42458112",
+      "36458010",
+      "41944918",
+      "41596347",
+      "36275676",
+      "36505892",
+      "39904693",
+      "41684520",
+      "42327787",
+      "37275857",
+      "40642093",
+      "42445431",
+      "40761790",
+      "42045587",
+      "41344266",
+      "39033098",
+      "41601657",
+      "40165405",
+      "42715652",
+      "41776634",
+      "42034671",
+      "42328167",
+      "42035196",
+      "42337485",
+      "41234865",
+      "41798945",
+      "39732954",
+      "41938517",
+      "38878852",
+      "40496857",
+      "41249595",
+      "35990668",
+      "36761753",
+      "40236779",
+      "40766320",
+      "42008769",
+      "41488744",
+      "41872824",
+      "37965307",
+      "41000388"
+    ],
+    "review": [
+      "42722723"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41417-026-01080-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD274-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

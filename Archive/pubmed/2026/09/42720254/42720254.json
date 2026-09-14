@@ -1,0 +1,344 @@
+{
+  "identity": {
+    "pmid": "42720254",
+    "doi": "10.1002/1878-0261.70335",
+    "title": "p190A/ARHGAP35 and p190B/ARHGAP5 proteins in endometrial cancer: a novel cancer-relevant paralog interplay."
+  },
+  "content": {
+    "abstract": "Endometrial cancer is one of the main gynecological malignancies worldwide. Several studies highlight ARHGAP35 as a significantly mutated gene in these tumors. It encodes for p190RhoGAP-A (p190A), which is a major regulator of the small GTPase family of proteins. ARHGAP5 is a paralog of ARHGAP35 that encodes p190RhoGAP-B (p190B). By analyzing human endometrial cancer samples, we found a co-occurrence of mutations in ARHGAP35 and ARHGAP5 genes and reported that both are less expressed at the mRNA level in tumoral samples compared to healthy tissues. We then studied the impact of p190A/B under-expression in endometrial cancer and the relationship between the two paralogs. We generated CRISPR/Cas9-mediated HEC-1-A knockout cells for p190A and p190B. We showed that removal of each paralog led to a similar actin remodeling phenotype with the formation of Cross-Linked Actin Networks (CLANs), dependent on the Rho/ROCK pathway. Moreover, proteomic analysis of p190A and p190B knockout cells highlighted similar affected cell functions. Finally, our study demonstrates a functional interaction between p190A and p190B where removal of both paralogs is deleterious in endometrial cancer cells, unveiling a potential actionable vulnerability.",
+    "keywords": [
+      "RhoGAPs",
+      "cytoskeleton",
+      "endometrial cancer",
+      "paralogs"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pinault, Mathilde",
+        "Heraud, Capucine",
+        "Oliveira, Melissa Correia de",
+        "Neaud, Veronique",
+        "Valesco, Valerie",
+        "Prouzet-Mauleon, Valerie",
+        "Turcq, Beatrice",
+        "Dupuy, Jean-William",
+        "Raymond, Anne-Aurelie",
+        "Croce, Sabrina",
+        "Saltel, Frederic",
+        "Lagree, Valerie",
+        "Moreau, Violaine"
+      ],
+      "short_names": [
+        "Pinault M",
+        "Heraud C",
+        "Oliveira MC",
+        "Neaud V",
+        "Valesco V",
+        "Prouzet-Mauleon V",
+        "Turcq B",
+        "Dupuy JW",
+        "Raymond AA",
+        "Croce S",
+        "Saltel F",
+        "Lagree V",
+        "Moreau V"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0724-9680",
+        "ORCID: 0000-0002-4513-7022"
+      ],
+      "affiliations": [
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "Department of Biopathology, Institut Bergonie, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "CRISP'edit, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "CRISP'edit, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France.",
+        "Plateforme Proteome, Univ. Bordeaux, Bordeaux, France.",
+        "OncoProt, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "OncoProt, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "Department of Biopathology, Institut Bergonie, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "OncoProt, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+        "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pinault, Mathilde",
+        "short_name": "Pinault M",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Heraud, Capucine",
+        "short_name": "Heraud C",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Oliveira, Mélissa Correia de",
+        "short_name": "Oliveira MC",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Neaud, Véronique",
+        "short_name": "Neaud V",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Valesco, Valérie",
+        "short_name": "Valesco V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biopathology, Institut Bergonié, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Prouzet-Mauleon, Valérie",
+        "short_name": "Prouzet-Mauleon V",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+          "CRISP'edit, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Turcq, Béatrice",
+        "short_name": "Turcq B",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+          "CRISP'edit, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Dupuy, Jean-William",
+        "short_name": "Dupuy JW",
+        "identifiers": [],
+        "affiliations": [
+          "Plateforme Protéome, Univ. Bordeaux, Bordeaux, France.",
+          "OncoProt, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Raymond, Anne-Aurélie",
+        "short_name": "Raymond AA",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+          "OncoProt, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Croce, Sabrina",
+        "short_name": "Croce S",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+          "Department of Biopathology, Institut Bergonié, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Saltel, Frédéric",
+        "short_name": "Saltel F",
+        "identifiers": [
+          "0000-0002-0724-9680"
+        ],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France.",
+          "OncoProt, TBMCore, Univ. Bordeaux, CNRS UAR 3427, Inserm US05, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Lagrée, Valérie",
+        "short_name": "Lagrée V",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France."
+        ]
+      },
+      {
+        "full_name": "Moreau, Violaine",
+        "short_name": "Moreau V",
+        "identifiers": [
+          "0000-0002-4513-7022"
+        ],
+        "affiliations": [
+          "Univ. Bordeaux, INSERM, BRIC, U1312, Bordeaux, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular oncology"
+    ],
+    "journal_abbrev": [
+      "Mol Oncol"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-14 15:57:02"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42720254",
+      "29934311",
+      "31013840",
+      "36178483",
+      "37887276",
+      "32457342",
+      "17028431",
+      "36516886",
+      "36257976",
+      "28007963",
+      "37995182",
+      "26859289",
+      "37292741",
+      "18502760",
+      "41253923",
+      "27646271",
+      "21945077",
+      "32641858",
+      "19673492",
+      "42475469",
+      "18505793",
+      "20860838",
+      "22582143",
+      "38546045",
+      "35758029",
+      "39005443",
+      "29072354",
+      "32483433",
+      "21985251",
+      "32663194",
+      "19703301",
+      "10385430",
+      "20675588",
+      "38452349",
+      "35266250",
+      "15016316",
+      "34370213",
+      "41176659",
+      "37906351",
+      "18948007",
+      "18783612",
+      "19435801",
+      "16603086",
+      "42177550",
+      "28321286",
+      "30514771",
+      "31072327",
+      "29595187",
+      "23302125",
+      "37227120",
+      "19692654",
+      "37544501",
+      "24858043",
+      "34270712",
+      "8499348",
+      "30983484",
+      "15067356",
+      "32555395",
+      "35700449",
+      "39368791",
+      "11356684",
+      "23028188",
+      "23717689",
+      "32173521",
+      "35244291",
+      "30594556",
+      "33872388",
+      "30395288",
+      "30250020",
+      "40663777",
+      "34187415",
+      "27956228",
+      "40111664",
+      "36376931",
+      "26859414",
+      "24674991",
+      "23555582",
+      "24403595",
+      "34469736",
+      "37218920",
+      "40437196",
+      "26642367",
+      "38012557",
+      "36946043",
+      "23921077",
+      "38992643",
+      "40898098",
+      "35971034",
+      "30174148",
+      "35085395",
+      "31734653",
+      "24316134",
+      "35081534",
+      "34314753",
+      "33514561",
+      "35273078",
+      "25961434",
+      "28123568",
+      "40803503",
+      "23454913"
+    ],
+    "review": [
+      "42720254",
+      "31013840",
+      "30514771"
+    ],
+    "pmc": [
+      "13560762"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42720254/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/1878-0261.70335",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

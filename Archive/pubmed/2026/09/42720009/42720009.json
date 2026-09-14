@@ -1,0 +1,344 @@
+{
+  "identity": {
+    "pmid": "42720009",
+    "doi": "10.1021/acssensors.6c02330",
+    "title": "Input-Triggered Allosteric Activation of CRISPR-Cas12a by Modular Loop-Engineered Hairpins."
+  },
+  "content": {
+    "abstract": "Achieving precise control over CRISPR-Cas12a activity remains a fundamental challenge in the development of versatile sensing platforms, particularly for applications in diagnostics. Herein, we report an allosteric strategy that employs modular loop-engineered hairpin (MLEH) to precisely control Cas12a activation, thereby establishing a plug-and-play sensing framework with enhanced versatility. The MLEH comprises both the loop‑embedded ssDNA activator sequence and its complementary blocking domain. The input-triggered linearization of the MLEH via toehold-mediated strand displacement governs the accessibility of the activator, thereby controlling the binding and activation of Cas12a. A distinct advantage of this strategy is its elimination of the reliance on protospacer adjacent motif (PAM) sequences, customized CRISPR RNA (crRNA), or external activators. By merely substituting the responsive region of the MLEH, the system can be flexibly reconfigured to detect a wide range of targets, encompassing nucleic acids, proteins, and small molecules. MLEH-Cas12a broadens the scope of CRISPR technologies, offering a robust tool for diverse diagnostic applications. Collectively, our work delineates a novel allosteric regulatory mechanism for Cas12a activation and highlights the potential of engineered hairpins as key components in next-generation molecular sensing platforms, overcoming current limitations in CRISPR-based diagnostics and enabling broader target detection.",
+    "keywords": [
+      "Cas12a",
+      "allosteric activation",
+      "engineered activators",
+      "molecular diagnosis",
+      "toehold-mediated strand displacement"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yin, Na",
+        "Zhang, Li",
+        "Lu, Ruiling",
+        "Yu, Hongyan",
+        "Wang, Weitao",
+        "Lv, Ke",
+        "Peng, Yang",
+        "Han, Xiaole",
+        "Zhang, Yaoyi",
+        "Chen, Yuhan",
+        "Zhang, Ziheng",
+        "Guo, Bianqin",
+        "Yang, Gang",
+        "Xie, Guoming"
+      ],
+      "short_names": [
+        "Yin N",
+        "Zhang L",
+        "Lu R",
+        "Yu H",
+        "Wang W",
+        "Lv K",
+        "Peng Y",
+        "Han X",
+        "Zhang Y",
+        "Chen Y",
+        "Zhang Z",
+        "Guo B",
+        "Yang G",
+        "Xie G"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7497-1964"
+      ],
+      "affiliations": [
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, PR China.",
+        "Chongqing University cancer hospital , Chongqing400030, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China.",
+        "Chongqing University cancer hospital , Chongqing400030, PR China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, PR China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yin, Na",
+        "short_name": "Yin N",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Li",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Lu, Ruiling",
+        "short_name": "Lu R",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Yu, Hongyan",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Weitao",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Lv, Ke",
+        "short_name": "Lv K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Peng, Yang",
+        "short_name": "Peng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University cancer hospital , Chongqing400030, PR China."
+        ]
+      },
+      {
+        "full_name": "Han, Xiaole",
+        "short_name": "Han X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yaoyi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yuhan",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ziheng",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Guo, Bianqin",
+        "short_name": "Guo B",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing University cancer hospital , Chongqing400030, PR China."
+        ]
+      },
+      {
+        "full_name": "Yang, Gang",
+        "short_name": "Yang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Xie, Guoming",
+        "short_name": "Xie G",
+        "identifiers": [
+          "0000-0002-7497-1964"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Chinese Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, PR China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-14 15:57:02"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42720009",
+      "38284432",
+      "41603277",
+      "41747377",
+      "41505087",
+      "39516870",
+      "40610153",
+      "35946354",
+      "42213084",
+      "42144912",
+      "41587498",
+      "40557869",
+      "41648912",
+      "40958477",
+      "40354613",
+      "39449688",
+      "38880387",
+      "36824842",
+      "36778248",
+      "39315702",
+      "42674033",
+      "35719360",
+      "38114763",
+      "38867016",
+      "41576437",
+      "41834690",
+      "40199100",
+      "41330674",
+      "42475469",
+      "36641031",
+      "34542728",
+      "41500123",
+      "36327313",
+      "35250172",
+      "37531567",
+      "38516796",
+      "38521316",
+      "40222509",
+      "42399613",
+      "42217400",
+      "42485704",
+      "34399899",
+      "35966585",
+      "40865357",
+      "37669948",
+      "40882515",
+      "40930528",
+      "40689881",
+      "39954412",
+      "40607956",
+      "42549572",
+      "41718462",
+      "39788669",
+      "41628563",
+      "33221511",
+      "41614690",
+      "40711424",
+      "34011151",
+      "41702192",
+      "38609257",
+      "38477377",
+      "40825745",
+      "41206049",
+      "39831307",
+      "42641278",
+      "42138212",
+      "41144643",
+      "39135699",
+      "38319081",
+      "41389042",
+      "32272843",
+      "40886669",
+      "38245957",
+      "42648842",
+      "36318259",
+      "40151256",
+      "35266687",
+      "40802893",
+      "40469012",
+      "31800219",
+      "38860917",
+      "38604773",
+      "38573977",
+      "42648078",
+      "39914548",
+      "36043114",
+      "39643309",
+      "40814131",
+      "39912765",
+      "42080260",
+      "37405277",
+      "36484104",
+      "38726809",
+      "40811645",
+      "42080258",
+      "42027081",
+      "42696818",
+      "41217936",
+      "41783155",
+      "33839534"
+    ],
+    "review": [
+      "42720009",
+      "42213084",
+      "42144912",
+      "41587498",
+      "41834690",
+      "41500123",
+      "35250172",
+      "42027081"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c02330",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

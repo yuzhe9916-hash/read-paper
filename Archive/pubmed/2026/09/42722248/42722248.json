@@ -1,0 +1,269 @@
+{
+  "identity": {
+    "pmid": "42722248",
+    "doi": "10.1016/j.ijbiomac.2026.154428",
+    "title": "Spacer-engineered donor DNA enhances CRISPR-Cas9-mediated knockin to establish a chemical knockdown platform for endogenous proteins."
+  },
+  "content": {
+    "abstract": "Precise installation of functional protein domains at endogenous loci is a powerful approach for interrogating protein functions, but its broad application is limited by the low efficiency of homology-directed repair (HDR)-mediated knockin during Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas9 gene editing. Here, we investigated a simple donor DNA engineering strategy that enhances HDR-mediated gene knockin by appending additional gRNA-recognizable spacer sequences to donor templates. Systematic analysis of linear dsDNA and plasmid donors showed that spacer position, length, and orientation influenced HDR efficiency, and that spacer-containing donors improved knockin across multiple genomic loci, insertion sizes, cell types and delivery modalities. Mechanistic analyses revealed that spacer-containing donors formed stable complexes with Cas9/gRNA and showed increased nuclear localization, supporting nuclear delivery as a key contributor to improved editing outcomes. We then applied this gene-editing strategy to establish a chemical knockdown platform by installing drug-responsive degrons at endogenous loci, generating cell lines in which GSK3beta or Lin28A protein could be rapidly, potently and reversibly depleted by drug treatment. These platforms enable selective modulation of endogenous proteins and reveal cellular responses that may differ from those obtained using conventional genetic perturbation. Together, this work establishes a readily implementable framework that integrates improved gene editing with on-demand chemical knockdown of endogenous proteins.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "Degron",
+      "Donor DNA engineering",
+      "Gene knockin",
+      "Protein degradation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jang, Seeun",
+        "Shin, Siyoon",
+        "Jeong, Yujin",
+        "An, Yubhin",
+        "Han, Yeyoung",
+        "Kim, Hyeon Seok",
+        "Lim, Donghyun"
+      ],
+      "short_names": [
+        "Jang S",
+        "Shin S",
+        "Jeong Y",
+        "An Y",
+        "Han Y",
+        "Kim HS",
+        "Lim D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea; School of Biopharmaceutical and Medical Sciences, College of Engineering, Sungshin Women's University, Seoul, Republic of Korea.",
+        "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea.",
+        "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea.",
+        "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea.",
+        "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea.",
+        "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea.",
+        "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea. Electronic address: limdh@hanyang.ac.kr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jang, Seeun",
+        "short_name": "Jang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea; School of Biopharmaceutical and Medical Sciences, College of Engineering, Sungshin Women's University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Shin, Siyoon",
+        "short_name": "Shin S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jeong, Yujin",
+        "short_name": "Jeong Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "An, Yubhin",
+        "short_name": "An Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Han, Yeyoung",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Hyeon Seok",
+        "short_name": "Kim HS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Donghyun",
+        "short_name": "Lim D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, College of Engineering, and BK21 FOUR Education and Research Group for Biopharmaceutical Innovation Leader, Hanyang University, Seoul, Republic of Korea. Electronic address: limdh@hanyang.ac.kr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 23:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42722248",
+      "31597252",
+      "28219395",
+      "29898980",
+      "39494147",
+      "33097066",
+      "29672770",
+      "37248464",
+      "39647515",
+      "35975201",
+      "29019352",
+      "26199327",
+      "35187887",
+      "28177771",
+      "33689695",
+      "37642232",
+      "40043077",
+      "37027099",
+      "27340770",
+      "28815492",
+      "38385153",
+      "41049828",
+      "30199041",
+      "29980561",
+      "36106983",
+      "36384669",
+      "42214710",
+      "28558198",
+      "32694104",
+      "41985988",
+      "41093192",
+      "27159230",
+      "30926729",
+      "42488191",
+      "24478335",
+      "36726409",
+      "31955009",
+      "31015609",
+      "25039742",
+      "37266832",
+      "31363085",
+      "39122671",
+      "29809142",
+      "40130092",
+      "32440478",
+      "40362595",
+      "33989385",
+      "36449402",
+      "29622782",
+      "31051134",
+      "27845164",
+      "28462777",
+      "30675496",
+      "26131852",
+      "31805916",
+      "31242412",
+      "40436684",
+      "36919203",
+      "35677600",
+      "32899704",
+      "25733849",
+      "37039773",
+      "34137093",
+      "36549468",
+      "28928041",
+      "29114029",
+      "34713240",
+      "41648661",
+      "33606203",
+      "33609360",
+      "39981890",
+      "31127573",
+      "29462720",
+      "41244575",
+      "31099266",
+      "29680088",
+      "41674724",
+      "42276945",
+      "34523974",
+      "37877400",
+      "27941919",
+      "31434745",
+      "27180908",
+      "40985725",
+      "38937969",
+      "33097539",
+      "35238390",
+      "42090053",
+      "36358971",
+      "33309880",
+      "41656257",
+      "34127194",
+      "42439519",
+      "29145843",
+      "35929067",
+      "29509513",
+      "28300641",
+      "35700449",
+      "30478227",
+      "29500194"
+    ],
+    "review": [
+      "42722248",
+      "39494147",
+      "35975201",
+      "28177771",
+      "37642232",
+      "37027099",
+      "27340770",
+      "28558198",
+      "32694104",
+      "40130092",
+      "40436684",
+      "32899704",
+      "34713240",
+      "42090053"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-8130(26)04374-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LIN28A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

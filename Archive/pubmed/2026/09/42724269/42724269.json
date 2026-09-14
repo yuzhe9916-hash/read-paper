@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42724269",
+    "doi": "10.21769/BioProtoc.5793",
+    "title": "scDynaBar: A Step-By-Step Experimental and Computational Guide for Time-Resolved CRISPR Barcoding at Single-Cell Resolution."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 barcoding technologies enable cells to record molecular events as permanent genetic changes that can be read out retrospectively. This protocol describes the implementation of a CRISPR-based recording system that gradually accumulates mutations over extended periods and is compatible with standard single-cell RNA sequencing (scRNA-seq) workflows. By temporally regulating CRISPR activity, the system generates mutational barcodes that can be captured together with individual cell transcriptomes. These barcodes are subsequently decoded using computational reconstruction approaches to infer temporal information, enabling the joint analysis of cellular states and time-resolved molecular histories. This approach provides a single-cell-compatible framework for studying dynamic biological processes in heterogeneous mouse embryonic stem cell (mESC)-derived systems, with potential extension to other biological systems. Key features * Extended temporal recording: Self-targeting guide RNAs drive progressive and cumulative barcode divergence over time. * Simultaneous barcode and transcriptome detection: Joint recovery of genetic barcodes and whole transcriptomes from the same single cell using standard scRNA-seq workflows. * In inducible scDynaBar designs: Cas9 barcode editing can be coupled to specific biological stimuli or cell-state transitions, e.g., transition of mESCs into the 2C-like state.",
+    "keywords": [
+      "CRISPR barcoding",
+      "Molecular clock",
+      "Mouse embryonic stem cells",
+      "Self-targeting guide RNA",
+      "Single-cell RNA-seq",
+      "Temporal recording"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Andres-Lopez, Yolanda",
+        "El Khouri-Gonzalez, Carla",
+        "Hernando-Herraez, Irene"
+      ],
+      "short_names": [
+        "Andres-Lopez Y",
+        "El Khouri-Gonzalez C",
+        "Hernando-Herraez I"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Instituto de Biologia Molecular de Barcelona, Consejo Superior de Investigaciones Cientificas (IBMB-CSIC), Barcelona, Spain.",
+        "PhD program in Bioinformatics, University of Barcelona, Barcelona, Spain.",
+        "Instituto de Biologia Molecular de Barcelona, Consejo Superior de Investigaciones Cientificas (IBMB-CSIC), Barcelona, Spain.",
+        "PhD program in Biotechnology, University of Barcelona, Barcelona, Spain.",
+        "Instituto de Biologia Molecular de Barcelona, Consejo Superior de Investigaciones Cientificas (IBMB-CSIC), Barcelona, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Andres-Lopez, Yolanda",
+        "short_name": "Andres-Lopez Y",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Biología Molecular de Barcelona, Consejo Superior de Investigaciones Científicas (IBMB-CSIC), Barcelona, Spain.",
+          "PhD program in Bioinformatics, University of Barcelona, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "El Khouri-Gonzalez, Carla",
+        "short_name": "El Khouri-Gonzalez C",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Biología Molecular de Barcelona, Consejo Superior de Investigaciones Científicas (IBMB-CSIC), Barcelona, Spain.",
+          "PhD program in Biotechnology, University of Barcelona, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Hernando-Herraez, Irene",
+        "short_name": "Hernando-Herraez I",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Biología Molecular de Barcelona, Consejo Superior de Investigaciones Científicas (IBMB-CSIC), Barcelona, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bio-protocol"
+    ],
+    "journal_abbrev": [
+      "Bio Protoc"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 11:38",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42724269",
+      "42067223",
+      "42475469",
+      "30353175",
+      "41758996",
+      "42308418",
+      "39937081",
+      "39745647",
+      "27869821",
+      "27534536",
+      "35094325",
+      "31457047",
+      "33899013",
+      "39908076",
+      "39745646",
+      "31110297",
+      "36880749",
+      "42369763",
+      "40119004",
+      "35195064",
+      "33692551",
+      "37852258",
+      "37856015",
+      "42031935",
+      "35752172",
+      "36147664",
+      "32173285",
+      "30093604",
+      "23912807",
+      "35700449",
+      "36087201",
+      "26747759",
+      "31601489",
+      "33835452",
+      "40399693",
+      "40422408",
+      "33147453",
+      "38844553",
+      "34748280",
+      "38949306",
+      "27918539",
+      "39745636",
+      "41959170",
+      "29187729",
+      "40121084",
+      "39543397",
+      "40816522",
+      "32931539",
+      "38187699",
+      "39172488",
+      "38609853",
+      "30874552",
+      "22782131",
+      "32231336",
+      "30912039",
+      "35441356",
+      "38558968",
+      "35530514",
+      "35389262",
+      "34976020",
+      "36190192",
+      "31740838",
+      "32413320",
+      "41062702",
+      "42619824",
+      "38282330",
+      "39745643",
+      "35978187",
+      "37864134",
+      "36069759",
+      "31085639",
+      "35236300",
+      "42649204",
+      "38628442",
+      "29590089",
+      "41373592",
+      "35412632",
+      "39745644",
+      "42677405",
+      "33261648",
+      "31756390",
+      "42230636",
+      "29608178",
+      "42620363",
+      "30912047",
+      "35507169",
+      "39976408",
+      "37024980",
+      "34324191",
+      "34220932",
+      "34694606",
+      "33625849",
+      "29155789",
+      "27909575",
+      "41967853",
+      "26042329",
+      "34432381",
+      "37059915",
+      "30967106",
+      "41218139"
+    ],
+    "review": [
+      "42724269",
+      "41758996",
+      "42308418",
+      "40119004",
+      "36147664",
+      "40422408",
+      "38844553",
+      "35441356",
+      "34976020",
+      "41062702",
+      "42677405",
+      "31756390",
+      "37059915"
+    ],
+    "pmc": [
+      "13558868"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42724269/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://bio-protocol.org/e5793",
+        "provider": "Bio-Protocol, LLC",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

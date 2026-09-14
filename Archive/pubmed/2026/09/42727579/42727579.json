@@ -1,0 +1,896 @@
+{
+  "identity": {
+    "pmid": "42727579",
+    "doi": "10.1016/j.ajhg.2026.08.016",
+    "title": "A highly prevalent lupus risk haplotype increases IRF7-dependent induction of IFN-alpha, enhancing antiviral defense and exacerbating autoimmunity."
+  },
+  "content": {
+    "abstract": "Genome-wide association studies have identified genetic polymorphisms at 11p15 associated with systemic lupus erythematosus (lupus). Statistical fine mapping prioritizes a highly prevalent coding haplotype within IRF7. Analysis of ancient DNA confirms that this haplotype has persisted at high frequencies in the global population for millennia. The IRF7 risk haplotype is sufficient to increase nuclear localization of IRF7 and transcriptional activity downstream of pattern recognition receptor pathways. This risk haplotype increases IRF7 DNA-binding strength and alters IRF7 DNA sequence specificity, resulting in genotype-dependent increases in interferon-alpha production in numerous biological systems, including monocytes and airway epithelial cells. CRISPR engineering of the corresponding risk variant in mouse Irf7 results in both enhanced innate control of virus infection and increased autoantibody titers in a model of autoimmunity. Altogether, we establish a persistent and prominent IRF7 haplotype that amplifies IRF7 activity in a manner that has immunological risks and benefits.",
+    "keywords": [
+      "ancient DNA",
+      "antiviral response",
+      "autoreactivity",
+      "host defense",
+      "interferon regulatory factors",
+      "population genetics",
+      "systemic lupus erythematosus",
+      "transcription"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Virolainen, Samuel J",
+        "Creighton, Kathryn",
+        "Dashtiahangar, Maryam",
+        "Krishnamurthy, Durga",
+        "Parks, Lois",
+        "Forney, Carmy",
+        "Ampadu, Britney",
+        "Rudrapatna, Akshata N",
+        "Dunn, Katelyn A",
+        "Parameswaran, Sreeja",
+        "Hesse, Hayley K",
+        "Chen, Xiaoting",
+        "VonHandorf, Andrew",
+        "Edsall, Lee E",
+        "Yin, Cailing",
+        "Lynch, Arthur",
+        "Gittens, Olivia",
+        "Diouf, Arame A",
+        "Jones, Sydney H",
+        "Hass, Matthew",
+        "Javier, Ellen",
+        "Donmez, Omer",
+        "Keddari, Yasine",
+        "Danzinger, Oded",
+        "Seelamneni, Harsha",
+        "Namjou-Khales, Bahram",
+        "Ainsworth, Hannah C",
+        "Comeau, Mary E",
+        "Marion, Miranda C",
+        "Glenn, Stuart B",
+        "Nath, Swapan K",
+        "Freedman, Barry I",
+        "Tsao, Betty P",
+        "Kamen, Diane L",
+        "Brown, Elizabeth E",
+        "Gilkeson, Gary S",
+        "Alarcon, Graciela S",
+        "Reveille, John D",
+        "James, Judith A",
+        "Criswell, Lindsey A",
+        "Vila, Luis M",
+        "Alarcon-Riquelme, Marta E",
+        "Petri, Michelle",
+        "Scofield, R Hal",
+        "Kimberly, Robert P",
+        "Ramsey-Goldman, Rosalind",
+        "Bae, Sang-Cheol",
+        "Graham, Deborah Cunninghame",
+        "Vyse, Timothy J",
+        "Guthridge, Joel M",
+        "Gaffney, Patrick M",
+        "Langefeld, Carl D",
+        "Kelly, Jennifer A",
+        "Kaufman, Kenneth M",
+        "Sivils, Kathy L",
+        "Harley, John B",
+        "Shen, Nan",
+        "Lawson, Lucinda P",
+        "Baglaenko, Yuriy",
+        "Miraldi, Emily R",
+        "Rosenberg, Brad R",
+        "Siggers, Trevor",
+        "Waggoner, Stephen N",
+        "Weirauch, Matthew T",
+        "Kottyan, Leah C"
+      ],
+      "short_names": [
+        "Virolainen SJ",
+        "Creighton K",
+        "Dashtiahangar M",
+        "Krishnamurthy D",
+        "Parks L",
+        "Forney C",
+        "Ampadu B",
+        "Rudrapatna AN",
+        "Dunn KA",
+        "Parameswaran S",
+        "Hesse HK",
+        "Chen X",
+        "VonHandorf A",
+        "Edsall LE",
+        "Yin C",
+        "Lynch A",
+        "Gittens O",
+        "Diouf AA",
+        "Jones SH",
+        "Hass M",
+        "Javier E",
+        "Donmez O",
+        "Keddari Y",
+        "Danzinger O",
+        "Seelamneni H",
+        "Namjou-Khales B",
+        "Ainsworth HC",
+        "Comeau ME",
+        "Marion MC",
+        "Glenn SB",
+        "Nath SK",
+        "Freedman BI",
+        "Tsao BP",
+        "Kamen DL",
+        "Brown EE",
+        "Gilkeson GS",
+        "Alarcon GS",
+        "Reveille JD",
+        "James JA",
+        "Criswell LA",
+        "Vila LM",
+        "Alarcon-Riquelme ME",
+        "Petri M",
+        "Scofield RH",
+        "Kimberly RP",
+        "Ramsey-Goldman R",
+        "Bae SC",
+        "Graham DC",
+        "Vyse TJ",
+        "Guthridge JM",
+        "Gaffney PM",
+        "Langefeld CD",
+        "Kelly JA",
+        "Kaufman KM",
+        "Sivils KL",
+        "Harley JB",
+        "Shen N",
+        "Lawson LP",
+        "Baglaenko Y",
+        "Miraldi ER",
+        "Rosenberg BR",
+        "Siggers T",
+        "Waggoner SN",
+        "Weirauch MT",
+        "Kottyan LC"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
+        "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Rutgers MD-PhD Program, New Jersey Medical School, Newark, NJ 03103, USA.",
+        "Department of Biology, Boston University, Boston, MA 02215, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Harvard College, Harvard University, Cambridge, MA 02138, USA.",
+        "Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH 45229, USA; Biomedical Informatics Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
+        "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA; Center for Precision Medicine, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA.",
+        "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA.",
+        "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA.",
+        "Genes and Human Disease Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA.",
+        "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA.",
+        "Section on Nephrology, Department of Internal Medicine, Wake Forest University School of Medicine, Winston-Salem, NC 27157, USA.",
+        "Division of Rheumatology and Immunology, Medical University of South Carolina, Charleston, SC 29425, USA.",
+        "Division of Rheumatology and Immunology, Medical University of South Carolina, Charleston, SC 29425, USA.",
+        "Division of Molecular and Cellular Pathology, Department of Pathology, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Division of Rheumatology, University of Texas McGovern Medical School, Houston, TX 77030, USA.",
+        "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA.",
+        "Genomics of Autoimmune Rheumatic Disease Section, National Human Genome Research Institute, NIH, Bethesda, MD 20892, USA.",
+        "Division of Rheumatology, University of Puerto Rico Medical Sciences Campus, San Juan, PR 00936, USA.",
+        "Institute for Environmental Medicine, Karolinska Institutet, 171 67 Solna, Sweden; Center for Genomics and Oncological Research Pfizer/University of Granada/Andalusian Government, 18016 Granada, Spain.",
+        "Division of Rheumatology, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.",
+        "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA; Department of Medicine, College of Medicine, University of Oklahoma, Oklahoma City, OK 73104, USA; Oklahoma City Department of Veterans Affairs Medical Center, Oklahoma City, OK 73104, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Division of Rheumatology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA.",
+        "Department of Rheumatology, Hanyang University Hospital for Rheumatic Diseases, Seoul 04763, Korea; Hanyang University Institute for Rheumatology Research and Hanyang Institute of Bioscience and Biotechnology, Seoul 04763, Korea.",
+        "Division of Rheumatology, School of Medicine, University of Colorado, Aurora, CO 80045, USA.",
+        "Department of Medical & Molecular Genetics, Guy's Hospital, King's College London, London SE1 9RT, UK.",
+        "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA.",
+        "Genes and Human Disease Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA.",
+        "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA; Center for Precision Medicine, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA.",
+        "Genes and Human Disease Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
+        "The Janssen Pharmaceutical Companies of Johnson & Johnson, Raritan, NJ 08869, USA.",
+        "Research Service, US Department of Veterans Affairs Medical Center, Cincinnati, OH 45229, USA.",
+        "Shanghai Institute of Rheumatology, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
+        "Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
+        "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.",
+        "Department of Biology, Boston University, Boston, MA 02215, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Rheumatology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA. Electronic address: matthew.weirauch@cchmc.org.",
+        "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA. Electronic address: leah.kottyan@cchmc.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Virolainen, Samuel J",
+        "short_name": "Virolainen SJ",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Creighton, Kathryn",
+        "short_name": "Creighton K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Rutgers MD-PhD Program, New Jersey Medical School, Newark, NJ 03103, USA."
+        ]
+      },
+      {
+        "full_name": "Dashtiahangar, Maryam",
+        "short_name": "Dashtiahangar M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Boston University, Boston, MA 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Krishnamurthy, Durga",
+        "short_name": "Krishnamurthy D",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Parks, Lois",
+        "short_name": "Parks L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Forney, Carmy",
+        "short_name": "Forney C",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Ampadu, Britney",
+        "short_name": "Ampadu B",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Harvard College, Harvard University, Cambridge, MA 02138, USA."
+        ]
+      },
+      {
+        "full_name": "Rudrapatna, Akshata N",
+        "short_name": "Rudrapatna AN",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH 45229, USA; Biomedical Informatics Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Dunn, Katelyn A",
+        "short_name": "Dunn KA",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Parameswaran, Sreeja",
+        "short_name": "Parameswaran S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Hesse, Hayley K",
+        "short_name": "Hesse HK",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaoting",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "VonHandorf, Andrew",
+        "short_name": "VonHandorf A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Edsall, Lee E",
+        "short_name": "Edsall LE",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Yin, Cailing",
+        "short_name": "Yin C",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Lynch, Arthur",
+        "short_name": "Lynch A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Gittens, Olivia",
+        "short_name": "Gittens O",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Diouf, Arame A",
+        "short_name": "Diouf AA",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Jones, Sydney H",
+        "short_name": "Jones SH",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Hass, Matthew",
+        "short_name": "Hass M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Javier, Ellen",
+        "short_name": "Javier E",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Donmez, Omer",
+        "short_name": "Donmez O",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Keddari, Yasine",
+        "short_name": "Keddari Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Danzinger, Oded",
+        "short_name": "Danzinger O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+        ]
+      },
+      {
+        "full_name": "Seelamneni, Harsha",
+        "short_name": "Seelamneni H",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Namjou-Khales, Bahram",
+        "short_name": "Namjou-Khales B",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Ainsworth, Hannah C",
+        "short_name": "Ainsworth HC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA; Center for Precision Medicine, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA."
+        ]
+      },
+      {
+        "full_name": "Comeau, Mary E",
+        "short_name": "Comeau ME",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA."
+        ]
+      },
+      {
+        "full_name": "Marion, Miranda C",
+        "short_name": "Marion MC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA."
+        ]
+      },
+      {
+        "full_name": "Glenn, Stuart B",
+        "short_name": "Glenn SB",
+        "identifiers": [],
+        "affiliations": [
+          "Genes and Human Disease Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA."
+        ]
+      },
+      {
+        "full_name": "Nath, Swapan K",
+        "short_name": "Nath SK",
+        "identifiers": [],
+        "affiliations": [
+          "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA."
+        ]
+      },
+      {
+        "full_name": "Freedman, Barry I",
+        "short_name": "Freedman BI",
+        "identifiers": [],
+        "affiliations": [
+          "Section on Nephrology, Department of Internal Medicine, Wake Forest University School of Medicine, Winston-Salem, NC 27157, USA."
+        ]
+      },
+      {
+        "full_name": "Tsao, Betty P",
+        "short_name": "Tsao BP",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology and Immunology, Medical University of South Carolina, Charleston, SC 29425, USA."
+        ]
+      },
+      {
+        "full_name": "Kamen, Diane L",
+        "short_name": "Kamen DL",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology and Immunology, Medical University of South Carolina, Charleston, SC 29425, USA."
+        ]
+      },
+      {
+        "full_name": "Brown, Elizabeth E",
+        "short_name": "Brown EE",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular and Cellular Pathology, Department of Pathology, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Gilkeson, Gary S",
+        "short_name": "Gilkeson GS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Alarcón, Graciela S",
+        "short_name": "Alarcón GS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Reveille, John D",
+        "short_name": "Reveille JD",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology, University of Texas McGovern Medical School, Houston, TX 77030, USA."
+        ]
+      },
+      {
+        "full_name": "James, Judith A",
+        "short_name": "James JA",
+        "identifiers": [],
+        "affiliations": [
+          "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA."
+        ]
+      },
+      {
+        "full_name": "Criswell, Lindsey A",
+        "short_name": "Criswell LA",
+        "identifiers": [],
+        "affiliations": [
+          "Genomics of Autoimmune Rheumatic Disease Section, National Human Genome Research Institute, NIH, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Vilá, Luis M",
+        "short_name": "Vilá LM",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology, University of Puerto Rico Medical Sciences Campus, San Juan, PR 00936, USA."
+        ]
+      },
+      {
+        "full_name": "Alarcón-Riquelme, Marta E",
+        "short_name": "Alarcón-Riquelme ME",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Environmental Medicine, Karolinska Institutet, 171 67 Solna, Sweden; Center for Genomics and Oncological Research Pfizer/University of Granada/Andalusian Government, 18016 Granada, Spain."
+        ]
+      },
+      {
+        "full_name": "Petri, Michelle",
+        "short_name": "Petri M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+        ]
+      },
+      {
+        "full_name": "Scofield, R Hal",
+        "short_name": "Scofield RH",
+        "identifiers": [],
+        "affiliations": [
+          "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA; Department of Medicine, College of Medicine, University of Oklahoma, Oklahoma City, OK 73104, USA; Oklahoma City Department of Veterans Affairs Medical Center, Oklahoma City, OK 73104, USA."
+        ]
+      },
+      {
+        "full_name": "Kimberly, Robert P",
+        "short_name": "Kimberly RP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Ramsey-Goldman, Rosalind",
+        "short_name": "Ramsey-Goldman R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Bae, Sang-Cheol",
+        "short_name": "Bae SC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Rheumatology, Hanyang University Hospital for Rheumatic Diseases, Seoul 04763, Korea; Hanyang University Institute for Rheumatology Research and Hanyang Institute of Bioscience and Biotechnology, Seoul 04763, Korea."
+        ]
+      },
+      {
+        "full_name": "Graham, Deborah Cunninghame",
+        "short_name": "Graham DC",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology, School of Medicine, University of Colorado, Aurora, CO 80045, USA."
+        ]
+      },
+      {
+        "full_name": "Vyse, Timothy J",
+        "short_name": "Vyse TJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical & Molecular Genetics, Guy's Hospital, King's College London, London SE1 9RT, UK."
+        ]
+      },
+      {
+        "full_name": "Guthridge, Joel M",
+        "short_name": "Guthridge JM",
+        "identifiers": [],
+        "affiliations": [
+          "Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA."
+        ]
+      },
+      {
+        "full_name": "Gaffney, Patrick M",
+        "short_name": "Gaffney PM",
+        "identifiers": [],
+        "affiliations": [
+          "Genes and Human Disease Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA."
+        ]
+      },
+      {
+        "full_name": "Langefeld, Carl D",
+        "short_name": "Langefeld CD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics and Data Science, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA; Center for Precision Medicine, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA."
+        ]
+      },
+      {
+        "full_name": "Kelly, Jennifer A",
+        "short_name": "Kelly JA",
+        "identifiers": [],
+        "affiliations": [
+          "Genes and Human Disease Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA."
+        ]
+      },
+      {
+        "full_name": "Kaufman, Kenneth M",
+        "short_name": "Kaufman KM",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Sivils, Kathy L",
+        "short_name": "Sivils KL",
+        "identifiers": [],
+        "affiliations": [
+          "The Janssen Pharmaceutical Companies of Johnson & Johnson, Raritan, NJ 08869, USA."
+        ]
+      },
+      {
+        "full_name": "Harley, John B",
+        "short_name": "Harley JB",
+        "identifiers": [],
+        "affiliations": [
+          "Research Service, US Department of Veterans Affairs Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Shen, Nan",
+        "short_name": "Shen N",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Rheumatology, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Lawson, Lucinda P",
+        "short_name": "Lawson LP",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Baglaenko, Yuriy",
+        "short_name": "Baglaenko Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Miraldi, Emily R",
+        "short_name": "Miraldi ER",
+        "identifiers": [],
+        "affiliations": [
+          "Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Rosenberg, Brad R",
+        "short_name": "Rosenberg BR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+        ]
+      },
+      {
+        "full_name": "Siggers, Trevor",
+        "short_name": "Siggers T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Boston University, Boston, MA 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Waggoner, Stephen N",
+        "short_name": "Waggoner SN",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Rheumatology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA."
+        ]
+      },
+      {
+        "full_name": "Weirauch, Matthew T",
+        "short_name": "Weirauch MT",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA. Electronic address: matthew.weirauch@cchmc.org."
+        ]
+      },
+      {
+        "full_name": "Kottyan, Leah C",
+        "short_name": "Kottyan LC",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA. Electronic address: leah.kottyan@cchmc.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "American journal of human genetics"
+    ],
+    "journal_abbrev": [
+      "Am J Hum Genet"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 23:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42727579",
+      "41646825",
+      "31578290",
+      "20112359",
+      "25520509",
+      "21632682",
+      "21360504",
+      "21575916",
+      "42504115",
+      "15664995",
+      "17522209",
+      "41919938",
+      "25911105",
+      "30518647",
+      "21680532",
+      "28077651",
+      "37638030",
+      "30598516",
+      "36511697",
+      "38043800",
+      "22088620",
+      "22674082",
+      "18668568",
+      "36287016",
+      "37328105",
+      "20668674",
+      "35114420",
+      "29867973",
+      "33213505",
+      "41202593",
+      "31154625",
+      "20470398",
+      "40281593",
+      "19283778",
+      "27469204",
+      "32235406",
+      "25410392",
+      "40161609",
+      "30685201",
+      "25285625",
+      "35196784",
+      "38508315",
+      "33497733",
+      "28768858",
+      "27600904",
+      "27527596",
+      "22433914",
+      "40391431",
+      "24760883",
+      "40407345",
+      "28768861",
+      "26810609",
+      "35792897",
+      "15767254",
+      "34389779",
+      "22455868",
+      "42196527",
+      "11073981",
+      "26120731",
+      "30232186",
+      "36164603",
+      "20154210",
+      "21926187",
+      "18922877",
+      "20007534",
+      "19124725",
+      "35685361",
+      "12374802",
+      "42549921",
+      "41813805",
+      "31172279",
+      "36394357",
+      "36448809",
+      "17301153",
+      "37737190",
+      "27697837",
+      "31413136",
+      "15800576",
+      "37289084",
+      "31960143",
+      "23633948",
+      "25010440",
+      "20483768",
+      "42262137",
+      "31804013",
+      "17277150",
+      "28342865",
+      "26702560",
+      "23251221",
+      "28059021",
+      "32252379",
+      "35710306",
+      "31381973",
+      "26186542",
+      "25882064",
+      "38972975",
+      "35434592",
+      "29914621",
+      "40704898",
+      "34751274"
+    ],
+    "review": [
+      "42727579",
+      "21575916",
+      "37638030",
+      "22455868",
+      "42196527",
+      "21926187",
+      "25010440"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0002-9297(26)00317-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

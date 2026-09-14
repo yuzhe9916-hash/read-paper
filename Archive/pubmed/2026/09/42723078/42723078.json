@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42723078",
+    "doi": "10.1186/s12967-026-08886-5",
+    "title": "Multi-omics characterization of a GPRC5A(+) epithelial subpopulation associated with malignant features in colorectal cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Colorectal cancer (CRC) exhibits marked cellular heterogeneity, and the cellular context of malignancy-associated epithelial programs remains incompletely defined. METHODS: We integrated 2,993 CRC samples spanning bulk RNA-seq (n = 2,568; two OS/RFS cohorts), scRNA-seq (281,961 cells/152 specimens), spatial transcriptomics (n = 6), and proteomics (n = 267). Analyses included single-cell integration/annotation, GSVA/HALLMARK, interactome, pseudotime, and ligand-receptor mapping; functional CRISPR assays, EMT immunoblotting, and xenografts; TF profiling (SCENIC/JASPAR/ChIP-qPCR); and exploratory drug-response prediction (OncoPredict), cell-sensitivity assays, and docking/MD modeling. RESULTS: We constructed a stage-stratified single-cell atlas and resolved eleven malignant epithelial subsets, characterizing Epi_4 as late-stage-enriched with EMT, hypoxia, and inflammatory programs and adverse OS/RFS. GPRC5A marked this subset, which we define as GPRC5A(+)Epi; its expression rose from stage I-->IV and was associated with poor outcomes across cohorts, with concordant spatial/proteomic observations. GPRC5A perturbation affected CRC proliferation, migration/invasion, EMT, and xenograft tumorigenicity, supporting a functionally important role in the tested models. SCENIC and ChIP-qPCR supported FOSL1 as an upstream regulator that occupies the GPRC5A promoter. Spatial and ligand-receptor analyses predicted close association and potentially reciprocal signaling between GPRC5A(+)Epi and POSTN(+)fibroblasts (COL1A1-SDC4, COL1A1/1A2-ITGA2/ITGB1, PPIA-BSG); concurrent high GPRC5A(+)Epi/POSTN(+)Fib signatures were associated with inferior OS/RFS. Drug-response analyses identified an association between GPRC5A status and trametinib sensitivity. Docking/MD produced a computational model of a possible trametinib-GPRC5A interaction, which remains experimentally unvalidated. CONCLUSIONS: GPRC5A(+)Epi is a malignancy-associated epithelial state in CRC, and GPRC5A is functionally important for malignant phenotypes in the tested models. Its inferred relationships with POSTN(+) fibroblasts and the trametinib findings should be regarded as hypothesis-generating pending functional crosstalk, direct-binding, and therapeutic validation.",
+    "keywords": [
+      "Colorectal cancer",
+      "FOSL1",
+      "GPRC5A+ epithelial subset",
+      "POSTN+ fibroblasts",
+      "Trametinib"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, G-Protein-Coupled/metabolism/genetics",
+      "*Colorectal Neoplasms/pathology/genetics/metabolism",
+      "Animals",
+      "*Multiomics",
+      "Gene Expression Regulation, Neoplastic",
+      "*Epithelial Cells/metabolism/pathology",
+      "Epithelial-Mesenchymal Transition/genetics/drug effects",
+      "Proteomics",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Weichun",
+        "Xu, Pengchen",
+        "Wang, Shengli",
+        "Su, Guizhen",
+        "Li, Qiang",
+        "Gu, Biao",
+        "Wang, Nannan"
+      ],
+      "short_names": [
+        "Tang W",
+        "Xu P",
+        "Wang S",
+        "Su G",
+        "Li Q",
+        "Gu B",
+        "Wang N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Blood Transfusion, The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, No. 38 Shengli Road, Bengshan District, Bengbu, Anhui, 233000, China. T18895670552@163.com.",
+        "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China. T18895670552@163.com.",
+        "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China. T18895670552@163.com.",
+        "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China.",
+        "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China.",
+        "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China. victory1030@sina.com.",
+        "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China.",
+        "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China.",
+        "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China.",
+        "Department of Blood Transfusion, The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, No. 38 Shengli Road, Bengshan District, Bengbu, Anhui, 233000, China.",
+        "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Weichun",
+        "short_name": "Tang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Blood Transfusion, The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, No. 38 Shengli Road, Bengshan District, Bengbu, Anhui, 233000, China. T18895670552@163.com.",
+          "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China. T18895670552@163.com.",
+          "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China. T18895670552@163.com."
+        ]
+      },
+      {
+        "full_name": "Xu, Pengchen",
+        "short_name": "Xu P",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China.",
+          "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shengli",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China. victory1030@sina.com."
+        ]
+      },
+      {
+        "full_name": "Su, Guizhen",
+        "short_name": "Su G",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China.",
+          "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qiang",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory of Tumor Evolution and Inteligent Diagnosis and Treatment, Bengbu Medical Uaivesity, Bengbu, Anhui, 233030, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Biao",
+        "short_name": "Gu B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Blood Transfusion, The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, No. 38 Shengli Road, Bengshan District, Bengbu, Anhui, 233000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Nannan",
+        "short_name": "Wang N",
+        "identifiers": [],
+        "affiliations": [
+          "The Third People's Hospital of Bengbu Affiliated to Bengbu Medical University, Bengbu, Anhui, 233000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of translational medicine"
+    ],
+    "journal_abbrev": [
+      "J Transl Med"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42723078",
+      "41028408",
+      "42143353",
+      "39374811",
+      "42163252",
+      "41716413",
+      "39835715",
+      "41814682",
+      "41567189",
+      "40574852",
+      "42260568",
+      "41194017",
+      "40050872",
+      "41485251",
+      "41743703",
+      "41784732",
+      "42606648",
+      "41502509",
+      "42717115",
+      "41951422",
+      "42639041",
+      "41496273",
+      "42045762",
+      "41086679",
+      "42456992",
+      "41578299",
+      "41559659",
+      "42618857",
+      "41380489",
+      "40496864",
+      "42218401",
+      "42143313",
+      "38657117",
+      "39712016",
+      "40826474",
+      "42401341",
+      "41286944",
+      "38386274",
+      "40933995",
+      "41710887",
+      "40520021",
+      "42479224",
+      "42304476",
+      "41952208",
+      "42558886",
+      "42238572",
+      "42205755",
+      "42616187",
+      "42065055",
+      "42486346",
+      "42611083",
+      "41491934",
+      "41917876",
+      "41601676",
+      "39973554",
+      "42144424",
+      "41319751",
+      "42192326",
+      "41235227",
+      "41246334",
+      "42212140",
+      "42625209",
+      "41418870",
+      "41204349",
+      "41164195",
+      "41071325",
+      "40345591",
+      "42172061",
+      "40770837",
+      "28316092",
+      "41662163",
+      "42001187",
+      "42317343",
+      "40804742",
+      "42089585",
+      "42259894",
+      "41776080",
+      "42215810",
+      "40640171",
+      "41286470",
+      "42048995",
+      "41436831",
+      "41782869",
+      "41845425",
+      "32641995",
+      "41972476",
+      "41405822",
+      "42159784",
+      "42279338",
+      "41145614",
+      "42079653",
+      "37940972",
+      "42370143",
+      "42589604",
+      "42372471",
+      "42018572",
+      "41715092",
+      "30717807",
+      "39242474",
+      "31182919"
+    ],
+    "review": [
+      "42723078"
+    ],
+    "pmc": [
+      "13563896"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-026-08886-5",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/colorectalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Colorectal Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42723078/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3831",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

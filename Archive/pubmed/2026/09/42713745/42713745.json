@@ -203,7 +203,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/09 11:38",
-    "fetched_at": "2026-09-10 12:05:19"
+    "fetched_at": "2026-09-14 15:57:02"
   },
   "links": {
     "cites": [],
@@ -233,8 +233,8 @@
       "34289555",
       "42244309",
       "39672175",
-      "28188753",
       "29532618",
+      "28188753",
       "34347390",
       "33628589",
       "38837511",
@@ -316,7 +316,22 @@
     ],
     "pmc": [],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/path.70106",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1516",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

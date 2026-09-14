@@ -1,0 +1,327 @@
+{
+  "identity": {
+    "pmid": "42722935",
+    "doi": "10.1007/s11248-026-00513-9",
+    "title": "Bridging the bench-to-field gap: a quantitative multi-omics and CRISPR/Cas9 framework for climate-resilient agriculture."
+  },
+  "content": {
+    "abstract": "Global climate change and shrinking freshwater supplies threaten agricultural sustainability. A major translational bottleneck exists: drought-tolerant genotypes developed in labs often fail in open-field conditions due to phenotypic mismatch. Traditional single-gene approaches and static lab tests overlook genotype-by-environment (G x E) interactions, hormonal tradeoffs (involving Abscisic Acid, Jasmonic Acid, Brassinosteroids, and Melatonin), and artificial effects of pots. This review presents an integrated quantitative selection framework to bridge lab and field results. In this review, we propose a conceptual three-stage Predictive Translational Workflow designed to bridge lab and field outcomes by integrating multi-omics envirotyping with advanced mixed models like (G x E)-BLUP and MegaLMM. These methods group complex transcriptomic and metabolomic data into functional networks, filtering out lab artifacts and pinpointing core regulatory nodes stable in real climates. Finally, we show how this pipeline enables precise CRISPR/Cas9 editing of native promoters, reducing agronomic yield penalties in normal conditions and offering a streamlined, non-GMO path to field-resilient crops.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "Drought tolerance",
+      "GxE modeling",
+      "Multi-omics integration",
+      "Native promoter editing",
+      "Predictive translational workflow"
+    ],
+    "mesh_terms": [
+      "Multiomics",
+      "*CRISPR-Cas Systems/genetics",
+      "*Crops, Agricultural/genetics/growth & development",
+      "*Plants, Genetically Modified/genetics/growth & development",
+      "Climate Change",
+      "Gene Editing",
+      "*Agriculture/methods",
+      "Drought Resistance"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Demir, Busranur",
+        "Aydin, Erkan Anil",
+        "Saglam, Aykut"
+      ],
+      "short_names": [
+        "Demir B",
+        "Aydin EA",
+        "Saglam A"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-7714-6257",
+        "ORCID: 0009-0003-3117-3844",
+        "ORCID: 0000-0003-4102-7990"
+      ],
+      "affiliations": [
+        "Faculty of Science, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey.",
+        "Graduate School of Natural and Applied Sciences, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey.",
+        "Faculty of Science, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey.",
+        "Graduate School of Natural and Applied Sciences, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey.",
+        "Faculty of Science, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey. saglama@ktu.edu.tr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Demir, Büşranur",
+        "short_name": "Demir B",
+        "identifiers": [
+          "0009-0001-7714-6257"
+        ],
+        "affiliations": [
+          "Faculty of Science, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey.",
+          "Graduate School of Natural and Applied Sciences, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey."
+        ]
+      },
+      {
+        "full_name": "Aydin, Erkan Anıl",
+        "short_name": "Aydin EA",
+        "identifiers": [
+          "0009-0003-3117-3844"
+        ],
+        "affiliations": [
+          "Faculty of Science, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey.",
+          "Graduate School of Natural and Applied Sciences, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey."
+        ]
+      },
+      {
+        "full_name": "Sağlam, Aykut",
+        "short_name": "Sağlam A",
+        "identifiers": [
+          "0000-0003-4102-7990"
+        ],
+        "affiliations": [
+          "Faculty of Science, Department of Molecular Biology and Genetics, Karadeniz Technical University, 61080, Ortahisar, Trabzon, Turkey. saglama@ktu.edu.tr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Transgenic research"
+    ],
+    "journal_abbrev": [
+      "Transgenic Res"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-14 15:56:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42722935",
+      "42278532",
+      "41125905",
+      "42469498",
+      "41665762",
+      "41662977",
+      "41546796",
+      "40472129",
+      "41688767",
+      "42690503",
+      "42405245",
+      "39196449",
+      "33471328",
+      "40663257",
+      "33842017",
+      "40725465",
+      "42600524",
+      "40055491",
+      "41099996",
+      "42371202",
+      "34506262",
+      "31644801",
+      "40526281",
+      "39304579",
+      "39520794",
+      "40450609",
+      "32450202",
+      "41634205",
+      "34889892",
+      "32915213",
+      "41165418",
+      "35927945",
+      "41828461",
+      "27442592",
+      "39637703",
+      "33074435",
+      "33525517",
+      "41687992",
+      "42475469",
+      "30646772",
+      "40473489",
+      "35457271",
+      "29628199",
+      "41533202",
+      "41376168",
+      "40902040",
+      "37666372",
+      "42334519",
+      "35606905",
+      "36913066",
+      "31430902",
+      "29103811",
+      "39105945",
+      "41751548",
+      "38860212",
+      "29194606",
+      "34068886",
+      "31126133",
+      "34769204",
+      "30779952",
+      "33256828",
+      "40612601",
+      "41074985",
+      "37294468",
+      "40986203",
+      "28430356",
+      "42133116",
+      "32516948",
+      "35460444",
+      "41594895",
+      "37369103",
+      "34498163",
+      "40216127",
+      "39078500",
+      "33202909",
+      "33420514",
+      "40622492",
+      "41011981",
+      "34263445",
+      "42035969",
+      "33916772",
+      "40459840",
+      "41470599",
+      "40082271",
+      "36973619",
+      "39481911",
+      "38278939",
+      "37204621",
+      "34070430",
+      "39453513",
+      "41622828",
+      "32091256",
+      "42123673",
+      "41148514",
+      "28581909",
+      "28731201",
+      "40931807",
+      "40632351",
+      "35628407",
+      "41589633"
+    ],
+    "review": [
+      "42722935",
+      "42278532",
+      "41125905",
+      "42469498",
+      "41665762",
+      "41662977",
+      "41546796",
+      "40472129",
+      "41688767",
+      "42690503",
+      "42405245",
+      "39196449",
+      "40663257",
+      "33842017",
+      "40725465",
+      "42600524",
+      "40055491",
+      "41099996",
+      "42371202",
+      "34506262",
+      "40526281",
+      "39304579",
+      "39520794",
+      "40450609",
+      "32450202",
+      "41634205",
+      "34889892",
+      "32915213",
+      "41165418",
+      "35927945",
+      "41828461",
+      "39637703",
+      "33525517",
+      "41687992",
+      "30646772",
+      "40473489",
+      "35457271",
+      "29628199",
+      "41533202",
+      "41376168",
+      "40902040",
+      "37666372",
+      "42334519",
+      "35606905",
+      "36913066",
+      "31430902",
+      "29103811",
+      "41751548",
+      "38860212",
+      "29194606",
+      "34068886",
+      "31126133",
+      "34769204",
+      "30779952",
+      "33256828",
+      "40612601",
+      "41074985",
+      "37294468",
+      "40986203",
+      "28430356",
+      "42133116",
+      "32516948",
+      "35460444",
+      "41594895",
+      "34498163",
+      "40216127",
+      "39078500",
+      "33202909",
+      "33420514",
+      "40622492",
+      "41011981",
+      "34263445",
+      "42035969",
+      "33916772",
+      "40459840",
+      "41470599",
+      "40082271",
+      "36973619",
+      "39481911",
+      "37204621",
+      "34070430",
+      "39453513",
+      "41622828",
+      "32091256",
+      "42123673",
+      "41148514",
+      "28581909",
+      "28731201",
+      "40931807",
+      "40632351"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11248-026-00513-9",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -92,7 +92,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/09 11:38",
-    "fetched_at": "2026-09-10 12:05:19"
+    "fetched_at": "2026-09-14 15:57:02"
   },
   "links": {
     "cites": [],
@@ -188,6 +188,7 @@
       "30727949",
       "41857245",
       "26209618",
+      "42265583",
       "42700232",
       "40671355",
       "42641249",
@@ -196,8 +197,7 @@
       "42589116",
       "33430800",
       "42163092",
-      "41389375",
-      "42265583"
+      "41389375"
     ],
     "review": [
       "42712938",
@@ -229,9 +229,26 @@
       "33145840",
       "41857245"
     ],
-    "pmc": [],
+    "pmc": [
+      "13551550"
+    ],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42712938/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1944974",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

@@ -1,0 +1,359 @@
+{
+  "identity": {
+    "pmid": "42716927",
+    "doi": "10.1038/s41467-026-76778-9",
+    "title": "Ultra-sensitive profiling of CRISPR-Cas off-target effects with Tracking-seq2."
+  },
+  "content": {
+    "abstract": "Accurate detection of off-target activity in primary human cells is crucial for ensuring the safety of gene therapies, yet existing methods often lack sufficient sensitivity. To address this limitation, we develop Tracking-seq2, an advanced technology that integrates exogenous 5' --> 3' exonuclease treatment and non-homologous end joining (NHEJ) pathway inhibitors with the original Tracking-seq. Tracking-seq2 exhibits enhanced sensitivity in profiling off-target sites of diverse genome editors-including Cas9, Cas12a, cytosine base editors (CBEs), adenine base editors (ABEs), and prime editors (PEs). Critically, Tracking-seq2 is directly applicable to clinically relevant primary human cell types, such as T cells and CD34(+) hematopoietic stem and progenitor cells (HSPCs). Furthermore, our findings reveal that genomic variations drive distinct off-target heterogeneity across different individuals, highlighting the necessity for personalized safety assessment in clinical genome editing applications. Tracking-seq2 provides a robust platform for sensitive off-target detection in primary cells, with sensitivity comparable to or exceeding current state-of-the-art methods.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*CRISPR-Cas Systems/genetics",
+      "*Gene Editing/methods",
+      "Hematopoietic Stem Cells/metabolism",
+      "T-Lymphocytes/metabolism",
+      "DNA End-Joining Repair"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cong, Tingting",
+        "Xu, Runda",
+        "Chen, Xuancheng",
+        "Yuan, Junsong",
+        "Lin, Zuomiao",
+        "Yang, Wenqin",
+        "Ju, Anji",
+        "Wang, Liren",
+        "Wang, Qingcan",
+        "Zhang, Jiqin",
+        "Li, Yinqing",
+        "Li, Dali",
+        "Zhu, Ming"
+      ],
+      "short_names": [
+        "Cong T",
+        "Xu R",
+        "Chen X",
+        "Yuan J",
+        "Lin Z",
+        "Yang W",
+        "Ju A",
+        "Wang L",
+        "Wang Q",
+        "Zhang J",
+        "Li Y",
+        "Li D",
+        "Zhu M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2062-844X",
+        "ORCID: 0009-0005-8922-2201",
+        "ORCID: 0000-0001-5264-0921",
+        "ORCID: 0000-0002-9096-8482",
+        "ORCID: 0000-0002-0046-8493",
+        "ORCID: 0009-0003-6466-9686"
+      ],
+      "affiliations": [
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Tsinghua-Peking Joint Center for Life Sciences, Tsinghua University, Beijing, 100084, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Tsinghua-Peking Joint Center for Life Sciences, Tsinghua University, Beijing, 100084, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China.",
+        "Tsinghua-Peking Joint Center for Life Sciences, Tsinghua University, Beijing, 100084, China.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China. dlli@bio.ecnu.edu.cn.",
+        "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China. mzhu@bio.ecnu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cong, Tingting",
+        "short_name": "Cong T",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Runda",
+        "short_name": "Xu R",
+        "identifiers": [
+          "0000-0002-2062-844X"
+        ],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xuancheng",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Junsong",
+        "short_name": "Yuan J",
+        "identifiers": [
+          "0009-0005-8922-2201"
+        ],
+        "affiliations": [
+          "Tsinghua-Peking Joint Center for Life Sciences, Tsinghua University, Beijing, 100084, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Zuomiao",
+        "short_name": "Lin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Wenqin",
+        "short_name": "Yang W",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ju, Anji",
+        "short_name": "Ju A",
+        "identifiers": [],
+        "affiliations": [
+          "Tsinghua-Peking Joint Center for Life Sciences, Tsinghua University, Beijing, 100084, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Liren",
+        "short_name": "Wang L",
+        "identifiers": [
+          "0000-0001-5264-0921"
+        ],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qingcan",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiqin",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yinqing",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0002-9096-8482"
+        ],
+        "affiliations": [
+          "Tsinghua-Peking Joint Center for Life Sciences, Tsinghua University, Beijing, 100084, China."
+        ]
+      },
+      {
+        "full_name": "Li, Dali",
+        "short_name": "Li D",
+        "identifiers": [
+          "0000-0002-0046-8493"
+        ],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China. dlli@bio.ecnu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhu, Ming",
+        "short_name": "Zhu M",
+        "identifiers": [
+          "0009-0003-6466-9686"
+        ],
+        "affiliations": [
+          "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Shanghai, China. mzhu@bio.ecnu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 05:36",
+    "fetched_at": "2026-09-14 15:57:02"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716927",
+      "33309880",
+      "38956324",
+      "35507169",
+      "42681183",
+      "41876887",
+      "31543367",
+      "32630835",
+      "41928060",
+      "36357719",
+      "36702837",
+      "39529170",
+      "35953477",
+      "36592306",
+      "40175512",
+      "39332185",
+      "42581041",
+      "42033211",
+      "42134322",
+      "36793210",
+      "42192532",
+      "32727031",
+      "27783956",
+      "32978399",
+      "41073543",
+      "38623982",
+      "34737067",
+      "35507170",
+      "36624149",
+      "31099553",
+      "33170255",
+      "37679541",
+      "36750230",
+      "32042165",
+      "34622618",
+      "32872311",
+      "27340770",
+      "35915475",
+      "36374037",
+      "34478654",
+      "37070192",
+      "29751014",
+      "30340517",
+      "40685751",
+      "31477922",
+      "29878242",
+      "36305010",
+      "39547118",
+      "33774156",
+      "37095570",
+      "41629994",
+      "33322084",
+      "31433621",
+      "34391646",
+      "29019352",
+      "40207628",
+      "32926376",
+      "40764055",
+      "36995619",
+      "32763143",
+      "32632303",
+      "39298405",
+      "34503562",
+      "29843790",
+      "34099937",
+      "35524459",
+      "34174439",
+      "32334589",
+      "29889198",
+      "37024653",
+      "36553630",
+      "32483363",
+      "27601644",
+      "42344907",
+      "38521763",
+      "32292501",
+      "36864759",
+      "38709433",
+      "32424272",
+      "38644403",
+      "34162850",
+      "41445188",
+      "34416913",
+      "41620000",
+      "31673055",
+      "33372184",
+      "31000663",
+      "40492429",
+      "37848112",
+      "25517468",
+      "40495486",
+      "42106677",
+      "36610813",
+      "35139891",
+      "32899704",
+      "33261648",
+      "37762535",
+      "29483683",
+      "40324075",
+      "35658035"
+    ],
+    "review": [
+      "42716927",
+      "41876887",
+      "32630835",
+      "39332185",
+      "42033211",
+      "38623982",
+      "33170255",
+      "34622618",
+      "32872311",
+      "27340770",
+      "36305010",
+      "39547118",
+      "31433621",
+      "34391646",
+      "32763143",
+      "34503562",
+      "32292501",
+      "38709433",
+      "38644403",
+      "41620000",
+      "36610813",
+      "32899704",
+      "37762535"
+    ],
+    "pmc": [
+      "13558771"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76778-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

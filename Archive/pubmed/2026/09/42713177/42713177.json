@@ -169,7 +169,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/09 11:38",
-    "fetched_at": "2026-09-10 12:05:19"
+    "fetched_at": "2026-09-14 15:57:02"
   },
   "links": {
     "cites": [],
@@ -238,8 +238,8 @@
       "41412287",
       "31855399",
       "30339358",
-      "42211656",
       "41533480",
+      "42211656",
       "17240921",
       "34677927",
       "42405767",
@@ -273,8 +273,8 @@
       "41898338",
       "41739086",
       "42573848",
-      "41808396",
-      "41930767"
+      "41930767",
+      "41808396"
     ],
     "review": [
       "42713177",
@@ -311,8 +311,8 @@
       "41313971",
       "41803510",
       "41412287",
-      "42211656",
       "41533480",
+      "42211656",
       "17240921",
       "34677927",
       "42405767",
@@ -340,11 +340,35 @@
       "41898338",
       "41739086",
       "42573848",
-      "41808396"
+      "41930767"
     ],
-    "pmc": [],
+    "pmc": [
+      "13551432"
+    ],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42713177/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1039/d6na00472e",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1744",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }
