@@ -1,0 +1,319 @@
+{
+  "identity": {
+    "pmid": "42750591",
+    "doi": "10.1080/2162402X.2026.2717853",
+    "title": "Immune checkpoint knockout screen reveals TIGIT-CD155 interaction as a significant modulator of adapter CAR-T cell function in acute myeloid leukemia."
+  },
+  "content": {
+    "abstract": "Chimeric antigen receptor (CAR) T cell therapy for acute myeloid leukemia (AML) faces critical challenges, including severe on-target off-tumor toxicities, antigen heterogeneity, and primary immune evasion mechanisms. To address these limitations, we previously developed an adapter CAR (AdCAR) platform that enables transient and combinatorial targeting to improve the safety and efficacy of CAR-T-cell therapy in AML. In this study, we further optimized the AdCAR system by investigating the role of immune checkpoint receptors (ICRs), particularly PD-1, CD96, LAG-3, TIM-3, and TIGIT, as well as the immunomodulatory molecule CD276, in suppressing AdCAR-T-cell function. Using multiparametric flow cytometry, we analyzed the expression of immune checkpoint ligands (ICLs) across multiple cancer entities, including three well-characterized AML cell lines, primary AML bone marrow samples, and healthy bone marrow as a reference. We then examined the inducibility of ICLs on AML cells after AdCAR-T-cell engagement. To evaluate the functional impact of immune checkpoint inhibition (ICI), we generated AdCAR-T-cells with CRISPR/Cas9-mediated knockouts (KOs) of PD-1, CD96, CD276, LAG-3, TIM-3, or TIGIT, and analyzed their cytotoxic potential in vitro. In our setting, PD-1 disruption did not significantly enhance AdCAR-T cytotoxicity against MOLM-13 wildtype, while TIGIT KO significantly enhanced AdCAR-T cytotoxicity specifically across five leukemia- and lymphoma-cell lines. Notably, pharmacological PD-1 blockade resulted in greater cytotoxicity than PD-1 gene disruption, whereas TIGIT blockade showed comparable effects to TIGIT KO. Our study identified TIGIT KO as a potent enhancer of AdCAR-T-cell function and supports ICR gene disruption as a promising approach to improve therapeutic efficacy while reducing the systemic toxicities commonly associated with ICI therapy.",
+    "keywords": [
+      "AML",
+      "Adapter CAR T cell therapy",
+      "immune checkpoint receptor"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, Immunologic/metabolism/genetics",
+      "*Leukemia, Myeloid, Acute/immunology/therapy/metabolism/genetics/pathology",
+      "*Receptors, Virus/metabolism/genetics/immunology",
+      "Cell Line, Tumor",
+      "*Immunotherapy, Adoptive/methods",
+      "Hepatitis A Virus Cellular Receptor 2/metabolism/genetics",
+      "*Receptors, Chimeric Antigen/immunology/metabolism",
+      "*T-Lymphocytes/immunology/metabolism",
+      "Gene Knockout Techniques",
+      "*Immune Checkpoint Proteins/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mast, Anna-Sophia",
+        "Atar, Daniel",
+        "Ruoff, Lara",
+        "Scheuermann, Sophia",
+        "Kristmann, Beate",
+        "Lang, Peter",
+        "Seitz, Christian Martin",
+        "Schlegel, Patrick"
+      ],
+      "short_names": [
+        "Mast AS",
+        "Atar D",
+        "Ruoff L",
+        "Scheuermann S",
+        "Kristmann B",
+        "Lang P",
+        "Seitz CM",
+        "Schlegel P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0520-7866",
+        "ORCID: 0000-0002-5425-2049"
+      ],
+      "affiliations": [
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "iFIT Cluster of Excellence EXC 2180 'Image-Guided and Functionally Instructed Tumor Therapies', University of Tuebingen, Tuebingen, Germany.",
+        "Hopp-Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Clinical Cooperation Unit Pediatric Oncology, German Cancer Research Center (DKFZ), Germany.",
+        "Department of Pediatric Oncology, Hematology, and Immunology, Heidelberg University Hospital, Heidelberg, Germany.",
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "Hopp-Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Clinical Cooperation Unit Pediatric Oncology, German Cancer Research Center (DKFZ), Germany.",
+        "Department of Pediatric Oncology, Hematology, and Immunology, Heidelberg University Hospital, Heidelberg, Germany.",
+        "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+        "iFIT Cluster of Excellence EXC 2180 'Image-Guided and Functionally Instructed Tumor Therapies', University of Tuebingen, Tuebingen, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, University of Regensburg, Regensburg, Germany.",
+        "Leibniz Institute for Immunotherapy, Regensburg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mast, Anna-Sophia",
+        "short_name": "Mast AS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Atar, Daniel",
+        "short_name": "Atar D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Ruoff, Lara",
+        "short_name": "Ruoff L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Scheuermann, Sophia",
+        "short_name": "Scheuermann S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+          "iFIT Cluster of Excellence EXC 2180 'Image-Guided and Functionally Instructed Tumor Therapies', University of Tuebingen, Tuebingen, Germany.",
+          "Hopp-Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Clinical Cooperation Unit Pediatric Oncology, German Cancer Research Center (DKFZ), Germany.",
+          "Department of Pediatric Oncology, Hematology, and Immunology, Heidelberg University Hospital, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Kristmann, Beate",
+        "short_name": "Kristmann B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Lang, Peter",
+        "short_name": "Lang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Seitz, Christian Martin",
+        "short_name": "Seitz CM",
+        "identifiers": [
+          "0000-0002-0520-7866"
+        ],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+          "Hopp-Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Clinical Cooperation Unit Pediatric Oncology, German Cancer Research Center (DKFZ), Germany.",
+          "Department of Pediatric Oncology, Hematology, and Immunology, Heidelberg University Hospital, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Schlegel, Patrick",
+        "short_name": "Schlegel P",
+        "identifiers": [
+          "0000-0002-5425-2049"
+        ],
+        "affiliations": [
+          "Department of Hematology, Oncology, Gastroenterology, Nephrology, Rheumatology, University Children's Hospital Tuebingen, Tuebingen, Germany.",
+          "iFIT Cluster of Excellence EXC 2180 'Image-Guided and Functionally Instructed Tumor Therapies', University of Tuebingen, Tuebingen, Germany.",
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, University of Regensburg, Regensburg, Germany.",
+          "Leibniz Institute for Immunotherapy, Regensburg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Oncoimmunology"
+    ],
+    "journal_abbrev": [
+      "Oncoimmunology"
+    ],
+    "pub_date": "2026 Dec 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 05:35",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42750591",
+      "39095503",
+      "42316369",
+      "40457441",
+      "40722088",
+      "36361619",
+      "40943160",
+      "41419632",
+      "42135452",
+      "40789664",
+      "41845478",
+      "41485047",
+      "30309710",
+      "33384686",
+      "40317320",
+      "41394877",
+      "33531429",
+      "41721623",
+      "40921629",
+      "28629373",
+      "41265176",
+      "39535595",
+      "41324594",
+      "41702366",
+      "40659447",
+      "39387839",
+      "29077054",
+      "38967649",
+      "39571145",
+      "40214805",
+      "39294295",
+      "34628052",
+      "37106163",
+      "39285441",
+      "40425009",
+      "34211801",
+      "32592688",
+      "41800605",
+      "40478751",
+      "34129052",
+      "28883004",
+      "36163179",
+      "42745268",
+      "32894141",
+      "40090006",
+      "25887778",
+      "39008193",
+      "39243430",
+      "40652308",
+      "42440668",
+      "42157270",
+      "41985065",
+      "39379118",
+      "42035126",
+      "41213188",
+      "34531250",
+      "40386773",
+      "28676343",
+      "37808405",
+      "41225489",
+      "36271406",
+      "41051510",
+      "42225613",
+      "34896980",
+      "36845088",
+      "40025231",
+      "42528842",
+      "37359558",
+      "35686214",
+      "42098093",
+      "40257412",
+      "27907031",
+      "33457105",
+      "41591545",
+      "21385853",
+      "41297423",
+      "38855110",
+      "31376919",
+      "35803613",
+      "42435781",
+      "37731380",
+      "38754420",
+      "30500073",
+      "29855615",
+      "41925920",
+      "29316944",
+      "42259008",
+      "34913594",
+      "37712633",
+      "41313840",
+      "33669431",
+      "39133622",
+      "26961084",
+      "38451195",
+      "41961479",
+      "34380639",
+      "35437609",
+      "28893624",
+      "42654087",
+      "37524506"
+    ],
+    "review": [
+      "42750591",
+      "41800605",
+      "42440668",
+      "39379118",
+      "40386773",
+      "42528842",
+      "41925920",
+      "41313840",
+      "33669431"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/2162402X.2026.2717853?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/acutemyeloidleukemia.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Acute Myeloid Leukemia"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HAVCR2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

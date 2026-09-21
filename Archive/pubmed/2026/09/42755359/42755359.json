@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42755359",
+    "doi": "10.1093/nar/gkag907",
+    "title": "Large serine recombinase-mediated gene insertion for high-throughput screens: advantages, design principles, and applications."
+  },
+  "content": {
+    "abstract": "High-throughput functional assays, such as multiplexed assays of variant effect (MAVE), increasingly demand stable, precise integration of large DNA libraries into mammalian genomes. While CRISPR-based technologies excel at localized, small-scale edits, they are constrained by payload size limits, heterogeneous editing outcomes, and, depending on the specific modality and repair pathway utilized, potential variability in junction fidelity during multikilobase insertions. In this review, we highlight large serine recombinases (LSRs) as highly efficient, single-enzyme alternatives for unidirectional, site-specific integration of large payloads with deterministic junctions. We survey targeted genomic integration strategies and detail best practices for implementing recombinase-based landing pad architectures. By enforcing single-copy, orientation-fixed integration at defined loci, landing pads decouple variant delivery from local chromatin effects to ensure the uniform, isogenic expression required for quantitative genotype-phenotype mapping. We further outline scalable applications of LSR-mediated integration across pooled and arrayed MAVE, CRISPR screens, and precise gene expression tuning. Finally, we assess current technological bottlenecks, particularly large donor delivery and the requisite pre-installation of canonical att recognition sites, while exploring emerging innovations in virus-like particle delivery, one-step CRISPR-recombinase systems, and computationally engineered programmable recombinases that promise to bypass these limitations and broaden mammalian genome engineering.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Animals",
+      "*DNA Nucleotidyltransferases/metabolism/genetics",
+      "*Mutagenesis, Insertional/methods",
+      "*High-Throughput Screening Assays/methods",
+      "*Recombinases/metabolism/genetics",
+      "CRISPR-Cas Systems",
+      "*Gene Editing/methods"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Martella, Andrea",
+        "Matreyek, Kenneth A",
+        "Fisher, David I"
+      ],
+      "short_names": [
+        "Martella A",
+        "Matreyek KA",
+        "Fisher DI"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-9629-1344",
+        "ORCID: 0009-0003-6681-1877"
+      ],
+      "affiliations": [
+        "Discovery Sciences, R&D, Astra Zeneca, Cambridge, CB2 0AA, United Kingdom.",
+        "Department of Pathology, Case Western Reserve University School of Medicine, Cleveland, OH 44106, United States.",
+        "Discovery Sciences, R&D, Astra Zeneca, Cambridge, CB2 0AA, United Kingdom."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Martella, Andrea",
+        "short_name": "Martella A",
+        "identifiers": [
+          "0009-0005-9629-1344"
+        ],
+        "affiliations": [
+          "Discovery Sciences, R&D, Astra Zeneca, Cambridge, CB2 0AA, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Matreyek, Kenneth A",
+        "short_name": "Matreyek KA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Case Western Reserve University School of Medicine, Cleveland, OH 44106, United States."
+        ]
+      },
+      {
+        "full_name": "Fisher, David I",
+        "short_name": "Fisher DI",
+        "identifiers": [
+          "0009-0003-6681-1877"
+        ],
+        "affiliations": [
+          "Discovery Sciences, R&D, Astra Zeneca, Cambridge, CB2 0AA, United Kingdom."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 05:36",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42755359",
+      "42026979",
+      "41477711",
+      "42212714",
+      "41642947",
+      "33596056",
+      "38858586",
+      "39676077",
+      "42020736",
+      "41495889",
+      "28186334",
+      "41330932",
+      "37851522",
+      "28511701",
+      "33170255",
+      "41751840",
+      "37922210",
+      "40887498",
+      "42173386",
+      "32883366",
+      "38297187",
+      "41365890",
+      "29617873",
+      "39680738",
+      "12006158",
+      "31247227",
+      "42447864",
+      "36536089",
+      "41199024",
+      "26930114",
+      "28438207",
+      "26747759",
+      "40205048",
+      "30645710",
+      "40119516",
+      "42411453",
+      "30554945",
+      "29463653",
+      "29637495",
+      "41187057",
+      "35134245",
+      "31742433",
+      "41813887",
+      "15602922",
+      "41820622",
+      "33649239",
+      "42002657",
+      "23934893",
+      "27543296",
+      "34232061",
+      "40763736",
+      "34862378",
+      "24139482",
+      "33616439",
+      "31189177",
+      "42097949",
+      "28815498",
+      "40121601",
+      "29019352",
+      "37039773",
+      "41653634",
+      "36217031",
+      "28985510",
+      "33309880",
+      "30003320",
+      "36424489",
+      "40503884",
+      "25398336",
+      "30807689",
+      "32513816",
+      "42139565",
+      "31277550",
+      "40401794",
+      "39120640",
+      "36610369",
+      "41901428",
+      "32835482",
+      "28985508",
+      "41435996",
+      "36209487",
+      "33230293",
+      "42618444",
+      "31857575",
+      "28177771",
+      "41762821",
+      "40806610",
+      "39437714",
+      "41288355",
+      "38412306",
+      "33823021",
+      "27261176",
+      "33147260",
+      "29327641",
+      "30987444",
+      "20972794",
+      "32053108",
+      "30372609",
+      "42595042",
+      "38224812",
+      "18691430"
+    ],
+    "review": [
+      "42755359",
+      "42026979",
+      "41477711",
+      "42212714",
+      "33596056",
+      "39676077",
+      "41330932",
+      "33170255",
+      "41751840",
+      "40887498",
+      "42173386",
+      "39680738",
+      "12006158",
+      "40119516",
+      "29637495",
+      "35134245",
+      "41820622",
+      "42002657",
+      "42097949",
+      "40121601",
+      "28985510",
+      "30003320",
+      "40401794",
+      "36610369",
+      "41901428",
+      "28985508",
+      "41435996",
+      "36209487",
+      "28177771",
+      "41762821",
+      "40806610",
+      "33823021",
+      "20972794"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag907",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

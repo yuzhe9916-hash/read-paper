@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "42744910",
+    "doi": "10.1038/s42255-026-01616-7",
+    "title": "Cysteine excess triggers a mitochondrial iron-dependent cell death."
+  },
+  "content": {
+    "abstract": "Thiol-containing metabolites are central to cellular redox homeostasis(1). Among these, cysteine functions as a proteogenic amino acid, supports redox balance and iron-sulfur cluster biogenesis, and, when depleted, triggers ferroptosis(2). Cells nevertheless maintain cysteine at low levels, reflecting its intrinsic toxicity, but the mechanisms by which excess cysteine causes cell death remain unclear(3). Here we performed a genome-wide CRISPR screen and identified mitochondrial iron transporters as essential mediators of cysteine toxicity. Limiting mitochondrial iron availability suppresses cysteine-induced cell death and prevents impairment of iron-sulfur cluster proteins and respiration. Mechanistically, cysteine mobilizes iron from ferritin, expands the cytosolic iron pool and drives mitochondrial iron accumulation. Enhancing glutathione reductase activity specifically within mitochondria restores redox balance downstream of iron accumulation and protects cells by maintaining iron-sulfur cluster integrity. Our findings suggest that maintaining low cysteine levels safeguards mitochondrial iron homeostasis, and that excess cysteine triggers a distinct mitochondrial iron-dependent cell death under conditions of thiol imbalance.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nakamura, Toshitaka",
+        "Inoki, Ayaka",
+        "Das, Nupur K",
+        "Chen, Brandon",
+        "Khan, Artem",
+        "Liu, Yuyang",
+        "Uygur, Beste",
+        "Yen, Frederick S",
+        "Unlu, Gokhan",
+        "Shah, Yatrik M",
+        "Birsoy, Kivanc"
+      ],
+      "short_names": [
+        "Nakamura T",
+        "Inoki A",
+        "Das NK",
+        "Chen B",
+        "Khan A",
+        "Liu Y",
+        "Uygur B",
+        "Yen FS",
+        "Unlu G",
+        "Shah YM",
+        "Birsoy K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4248-2058",
+        "ORCID: 0000-0002-5652-1134",
+        "ORCID: 0000-0001-5632-7764",
+        "ORCID: 0000-0002-0528-9099",
+        "ORCID: 0000-0002-2704-2724",
+        "ORCID: 0000-0002-2487-4816",
+        "ORCID: 0000-0002-7579-9895"
+      ],
+      "affiliations": [
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, MI, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, MI, USA.",
+        "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, USA.",
+        "Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan, Ann Arbor, MI, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA. kbirsoy@rockefeller.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nakamura, Toshitaka",
+        "short_name": "Nakamura T",
+        "identifiers": [
+          "0000-0002-4248-2058"
+        ],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Inoki, Ayaka",
+        "short_name": "Inoki A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Das, Nupur K",
+        "short_name": "Das NK",
+        "identifiers": [
+          "0000-0002-5652-1134"
+        ],
+        "affiliations": [
+          "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, MI, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Brandon",
+        "short_name": "Chen B",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Khan, Artem",
+        "short_name": "Khan A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Yuyang",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0001-5632-7764"
+        ],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Uygur, Beste",
+        "short_name": "Uygur B",
+        "identifiers": [
+          "0000-0002-0528-9099"
+        ],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Yen, Frederick S",
+        "short_name": "Yen FS",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Unlu, Gokhan",
+        "short_name": "Unlu G",
+        "identifiers": [
+          "0000-0002-2704-2724"
+        ],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Shah, Yatrik M",
+        "short_name": "Shah YM",
+        "identifiers": [
+          "0000-0002-2487-4816"
+        ],
+        "affiliations": [
+          "Department of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, MI, USA.",
+          "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, USA.",
+          "Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan, Ann Arbor, MI, USA."
+        ]
+      },
+      {
+        "full_name": "Birsoy, Kıvanç",
+        "short_name": "Birsoy K",
+        "identifiers": [
+          "0000-0002-7579-9895"
+        ],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA. kbirsoy@rockefeller.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature metabolism"
+    ],
+    "journal_abbrev": [
+      "Nat Metab"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42744910",
+      "40216096",
+      "38762605",
+      "30419257",
+      "32336105",
+      "31978346",
+      "41844496",
+      "42681644",
+      "42034254",
+      "28576762",
+      "39716489",
+      "42600612",
+      "39207139",
+      "19290777",
+      "34571846",
+      "42265110",
+      "16950927",
+      "25460804",
+      "31168542",
+      "41542927",
+      "16142896",
+      "40631118",
+      "32652997",
+      "36091397",
+      "40381394",
+      "26099175",
+      "24217246",
+      "39251117",
+      "39409161",
+      "39191736",
+      "41872136",
+      "22101253",
+      "34965856",
+      "12382200",
+      "42099806",
+      "16847322",
+      "26396185",
+      "10748136",
+      "33494450",
+      "29309586",
+      "26975213",
+      "32605459",
+      "10595578",
+      "25398879",
+      "40202733",
+      "42294685",
+      "42618147",
+      "41260099",
+      "25245479",
+      "28001042",
+      "16527810",
+      "26342079",
+      "41828457",
+      "31935115",
+      "41687756",
+      "2538628",
+      "36611912",
+      "37917749",
+      "27456428",
+      "10551871",
+      "34381026",
+      "19454487",
+      "30570704",
+      "40743993",
+      "42285513",
+      "24192298",
+      "39506934",
+      "22609301",
+      "18227070",
+      "21478822",
+      "38918793",
+      "39069366",
+      "34583624",
+      "39159312",
+      "41418755",
+      "42409663",
+      "24028658",
+      "33357455",
+      "30824435",
+      "38157846",
+      "30557609",
+      "42425685",
+      "41688901",
+      "37225108",
+      "40074084",
+      "29773647",
+      "36899871",
+      "17828297",
+      "29523684",
+      "33773039",
+      "36613888",
+      "42716792",
+      "40388557",
+      "27026139",
+      "24573684",
+      "24462711",
+      "20233928",
+      "36180832",
+      "32929878",
+      "34823116"
+    ],
+    "review": [
+      "42744910",
+      "41844496",
+      "34571846",
+      "25460804",
+      "26099175",
+      "12382200",
+      "33494450",
+      "10595578",
+      "42618147",
+      "41260099",
+      "25245479",
+      "41828457",
+      "31935115",
+      "27456428",
+      "42285513",
+      "22609301",
+      "39069366",
+      "42409663",
+      "41688901",
+      "36613888",
+      "27026139",
+      "24462711"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s42255-026-01616-7",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

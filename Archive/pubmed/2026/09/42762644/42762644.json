@@ -1,0 +1,354 @@
+{
+  "identity": {
+    "pmid": "42762644",
+    "doi": "10.1016/j.bios.2026.119251",
+    "title": "Universal contamination-free nucleic acid biosensing enabled by guide-independent Argonaute amplicon elimination."
+  },
+  "content": {
+    "abstract": "Amplicon contamination remains a major challenge in nucleic acid biosensing, frequently compromising diagnostic accuracy in both clinical testing and field-deployable sensing systems. Although strategies such as uracil-DNA glycosylase (UDG) treatment and CRISPR-based approaches have been developed to mitigate this problem, their broader implementation is often limited by incomplete decontamination, increased assay cost, and the complexity associated with exogenous guide design. Here we introduce CREDIT (chopping-based Argonaute-mediated testing), a molecular diagnostic biosensor platform that harnesses the intrinsic chopping activity of Pyrococcus furiosus Argonaute (PfAgo). Unlike conventional Argonaute-based biosensing assays that primarily use Argonaute as a signal-generating enzyme, CREDIT operates as a dual-function system: it degrades amplification products into short fragments that are inert to further amplification, while simultaneously repurposing these chopping-derived fragments as guides to direct sequence-specific cleavage of reporter probes for signal generation. We demonstrate that this integrated detect-and-destroy mechanism enables seamless coupling of CREDIT with both PCR and isothermal amplification for ultrasensitive nucleic acid detection. The platform preserves the attomolar sensitivity of the amplification-based assay without compromising assay speed. Notably, a stringent 20-round consecutive open-lid stress test confirms complete suppression of amplicon contamination, thereby enabling uncapped post-amplification handling for lateral flow strip (LFS) sensor readout-an operation previously considered unsafe in field-deployable molecular testing. Together, these results establish CREDIT as a contamination-resistant biosensing strategy for molecular diagnostics that enables reliable and consecutive nucleic acid detection, particularly in resource-limited settings.",
+    "keywords": [
+      "Argonaute",
+      "Contamination-free nucleic acid amplification",
+      "Guide-free Argonaute activity",
+      "Point-of-care testing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Jinyi",
+        "Ding, Sheng",
+        "Du, Feng",
+        "Dong, Juan",
+        "Wang, Sifan",
+        "Ren, Kaiyuan",
+        "Li, Jing",
+        "Li, Haiyan",
+        "Wu, Chengze",
+        "Zhao, Song",
+        "Yang, Xijun",
+        "Wang, Fei",
+        "Wang, Wei",
+        "Chen, Rong",
+        "Cui, Xin",
+        "Tang, Zhuo"
+      ],
+      "short_names": [
+        "Shi J",
+        "Ding S",
+        "Du F",
+        "Dong J",
+        "Wang S",
+        "Ren K",
+        "Li J",
+        "Li H",
+        "Wu C",
+        "Zhao S",
+        "Yang X",
+        "Wang F",
+        "Wang W",
+        "Chen R",
+        "Cui X",
+        "Tang Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Clinical Medical College & Affiliated Hospital, Chengdu University, Chengdu, 610106, PR China. Electronic address: dingsheng@cdu.edu.cn.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Clinical Medical College & Affiliated Hospital, Chengdu University, Chengdu, 610106, PR China.",
+        "Clinical Medical College & Affiliated Hospital, Chengdu University, Chengdu, 610106, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China. Electronic address: wangfei@cib.ac.cn.",
+        "Key Laboratory of Monitoring and Assessment on Novel Food Raw Materials, State Administration for Market Regulation, Chengdu Institute of Food Inspection, Chengdu, 611130, PR China.",
+        "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Ethnic Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China.",
+        "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; College of Food and Bioengineering, Xihua University, Chengdu, 610039, PR China. Electronic address: tangzhuo1975@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Jinyi",
+        "short_name": "Shi J",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Ding, Sheng",
+        "short_name": "Ding S",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College & Affiliated Hospital, Chengdu University, Chengdu, 610106, PR China. Electronic address: dingsheng@cdu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Du, Feng",
+        "short_name": "Du F",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Dong, Juan",
+        "short_name": "Dong J",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Sifan",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Ren, Kaiyuan",
+        "short_name": "Ren K",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Jing",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College & Affiliated Hospital, Chengdu University, Chengdu, 610106, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Haiyan",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical College & Affiliated Hospital, Chengdu University, Chengdu, 610106, PR China."
+        ]
+      },
+      {
+        "full_name": "Wu, Chengze",
+        "short_name": "Wu C",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Song",
+        "short_name": "Zhao S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xijun",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; University of Chinese Academy of Sciences, Beijing, 100049, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Fei",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China. Electronic address: wangfei@cib.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Wei",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Monitoring and Assessment on Novel Food Raw Materials, State Administration for Market Regulation, Chengdu Institute of Food Inspection, Chengdu, 611130, PR China."
+        ]
+      },
+      {
+        "full_name": "Chen, Rong",
+        "short_name": "Chen R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Ethnic Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, PR China."
+        ]
+      },
+      {
+        "full_name": "Cui, Xin",
+        "short_name": "Cui X",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China."
+        ]
+      },
+      {
+        "full_name": "Tang, Zhuo",
+        "short_name": "Tang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Bioresource Utilization Center, Chengdu Institute of Biology, Chinese Academy of Science, Chengdu, 610213, PR China; College of Food and Bioengineering, Xihua University, Chengdu, 610039, PR China. Electronic address: tangzhuo1975@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42762644",
+      "42529885",
+      "41494257",
+      "39582041",
+      "42018680",
+      "39208510",
+      "38954110",
+      "40763823",
+      "42715083",
+      "40674804",
+      "41629044",
+      "40480715",
+      "37947312",
+      "36943040",
+      "42439795",
+      "36992305",
+      "42067293",
+      "38653014",
+      "40896942",
+      "42187444",
+      "42674031",
+      "39307577",
+      "38876521",
+      "42554217",
+      "32387190",
+      "34011690",
+      "40916246",
+      "41813346",
+      "42091428",
+      "35042129",
+      "41383046",
+      "40659552",
+      "37996158",
+      "37244082",
+      "41903381",
+      "38543748",
+      "37931440",
+      "42599083",
+      "40829398",
+      "32364943",
+      "42648078",
+      "42558649",
+      "38174972",
+      "41818662",
+      "38259216",
+      "41932456",
+      "42184674",
+      "40162959",
+      "42330669",
+      "29999513",
+      "39034177",
+      "41361988",
+      "31589231",
+      "41410535",
+      "38676965",
+      "40156991",
+      "39122278",
+      "42468431",
+      "38785719",
+      "39396286",
+      "39984107",
+      "37195043",
+      "38472096",
+      "42480270",
+      "42296867",
+      "37805919",
+      "39119294",
+      "29137710",
+      "38518558",
+      "41812405",
+      "40970715",
+      "41603277",
+      "39900931",
+      "42405767",
+      "38506607",
+      "38650261",
+      "41026506",
+      "37592176",
+      "42684932",
+      "41505099",
+      "42166834",
+      "35689948",
+      "41876983",
+      "40015794",
+      "42645051",
+      "42522597",
+      "38640680",
+      "40701722",
+      "38734187",
+      "41663226",
+      "37722405",
+      "33857727",
+      "42239534",
+      "41191401",
+      "40857860",
+      "39992215",
+      "38669843",
+      "42018089",
+      "37524043",
+      "41039127"
+    ],
+    "review": [
+      "42762644",
+      "40763823",
+      "39307577",
+      "42554217",
+      "41932456",
+      "39034177",
+      "39984107",
+      "42405767"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00884-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

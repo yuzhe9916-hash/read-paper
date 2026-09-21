@@ -1,0 +1,268 @@
+{
+  "identity": {
+    "pmid": "42734752",
+    "doi": "10.1007/978-1-0716-5539-9_12",
+    "title": "Systematic Dissection of Key Driver Perturbation Signatures in Single Cells via ECCITE-seq."
+  },
+  "content": {
+    "abstract": "CRISPR screens, such as expanded CRISPR-compatible cellular indexing of transcriptomes and epitopes by sequencing (ECCITE-seq), enable the simultaneous measurement of transcriptomes, gRNA identity, and cell-surface protein expression at single-cell resolution to systematically interrogate gene function. This platform provides a powerful and scalable experimental approach for validating disease-associated regulators identified by large-scale association studies and other computational methods, including network-based analyses of multi-omics data. Here, as an example application, we describe an ECCITE-seq framework to characterize the transcriptomic consequences of perturbing multiple neuronal key driver genes associated with Alzheimer's disease (AD) in human-induced pluripotent stem cell (hiPSC)-derived neurons. More broadly, by integrating customized pooled gRNA libraries with different CRISPR effectors across multiple cell types, this approach allows for the assessment of the regulatory impact of candidate genes implicated in development and disease processes.",
+    "keywords": [
+      "Alzheimer's disease",
+      "CRISPR",
+      "ECCITE-seq",
+      "Gene perturbation",
+      "Human-induced pluripotent stem cells (hiPSCs)",
+      "Signaling pathways"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Induced Pluripotent Stem Cells/metabolism/cytology",
+      "*Single-Cell Analysis/methods",
+      "Alzheimer Disease/genetics/metabolism",
+      "Single-Cell Gene Expression Analysis",
+      "CRISPR-Cas Systems",
+      "Neurons/metabolism/cytology",
+      "*Transcriptome",
+      "*Gene Expression Profiling/methods",
+      "Clustered Regularly Interspaced Short Palindromic Repeats",
+      "High-Throughput Nucleotide Sequencing/methods",
+      "RNA, Guide, CRISPR-Cas Systems/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Jinglong",
+        "Brennand, Kristen J",
+        "Zhang, Bin",
+        "Wang, Minghui",
+        "Li, Aiqun"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Brennand KJ",
+        "Zhang B",
+        "Wang M",
+        "Li A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Departments of Psychiatry and Genetics, Wu Tsai Institute, Yale University School of Medicine, New Haven, CT, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. minghui.wang@mssm.edu.",
+        "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA. minghui.wang@mssm.edu.",
+        "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA. minghui.wang@mssm.edu.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. aiqun.li@mssm.edu.",
+        "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA. aiqun.li@mssm.edu.",
+        "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA. aiqun.li@mssm.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Jinglong",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Brennand, Kristen J",
+        "short_name": "Brennand KJ",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Psychiatry and Genetics, Wu Tsai Institute, Yale University School of Medicine, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Bin",
+        "short_name": "Zhang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Minghui",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. minghui.wang@mssm.edu.",
+          "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA. minghui.wang@mssm.edu.",
+          "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA. minghui.wang@mssm.edu."
+        ]
+      },
+      {
+        "full_name": "Li, Aiqun",
+        "short_name": "Li A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. aiqun.li@mssm.edu.",
+          "Mount Sinai Center for Transformative Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA. aiqun.li@mssm.edu.",
+          "Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, USA. aiqun.li@mssm.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 17:40",
+    "fetched_at": "2026-09-21 15:58:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734752",
+      "31011186",
+      "28099430",
+      "37749268",
+      "41218606",
+      "41826830",
+      "40081369",
+      "34059827",
+      "32231336",
+      "39914388",
+      "39572737",
+      "39294132",
+      "30353175",
+      "33711017",
+      "35347694",
+      "28985507",
+      "39023463",
+      "32242071",
+      "41715004",
+      "33625849",
+      "31110232",
+      "38526223",
+      "41237780",
+      "32513233",
+      "34302664",
+      "31422865",
+      "32989329",
+      "41330380",
+      "26740550",
+      "39585363",
+      "31672284",
+      "32476557",
+      "42269591",
+      "42669708",
+      "28522326",
+      "38741048",
+      "28416141",
+      "41390089",
+      "34215255",
+      "34151300",
+      "40419657",
+      "25398343",
+      "40735840",
+      "39265120",
+      "27984733",
+      "37566069",
+      "39083383",
+      "37741886",
+      "39924789",
+      "31959800",
+      "33899013",
+      "29457792",
+      "37340466",
+      "31028650",
+      "41356789",
+      "36858582",
+      "30449619",
+      "42185540",
+      "42411605",
+      "32001747",
+      "25722368",
+      "36572121",
+      "41839318",
+      "37989654",
+      "29959923",
+      "42526067",
+      "38936509",
+      "37189441",
+      "24984853",
+      "40011560",
+      "37704762",
+      "27120160",
+      "39213067",
+      "34031600",
+      "35831290",
+      "38782298",
+      "31584620",
+      "30114933",
+      "28321286",
+      "28757163",
+      "39797397",
+      "40499551",
+      "36880749",
+      "34582693",
+      "29039415",
+      "31367015",
+      "39546202",
+      "31933196",
+      "42308418",
+      "25765079",
+      "40503836",
+      "27984734",
+      "42002657",
+      "38324621",
+      "29446747",
+      "39526384",
+      "38918213",
+      "35236300",
+      "30199041",
+      "42230636"
+    ],
+    "review": [
+      "42734752",
+      "38526223",
+      "39585363",
+      "42269591",
+      "39924789",
+      "37989654",
+      "29959923",
+      "24984853",
+      "31584620",
+      "34582693",
+      "42308418",
+      "42002657"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5539-9_12",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

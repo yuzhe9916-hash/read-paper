@@ -1,0 +1,358 @@
+{
+  "identity": {
+    "pmid": "42760426",
+    "doi": "10.1007/s00438-026-02509-w",
+    "title": "The phosphate specific transport system protein PhoU modulates persister cell formation of Klebsiella pneumoniae."
+  },
+  "content": {
+    "abstract": "The indiscriminate use of antibiotics has exacerbated the clinical challenge posed by Klebsiella pneumoniae, with persisters often evading antibiotic treatment. To investigate the mechanisms underlying persister formation, we identified the phosphate transporter gene phoU as differentially expressed during persister emergence and recovery. Using CRISPR-Cas9 gene editing, we created a ∆phoU knockout strain in K. pneumoniae ATCC 700603, along with its complemented (CphoU) and various overexpression strains (OE phoU, OE metE, and OE phoA). While growth rates and antibiotic susceptibility remained unchanged in the ∆phoU strain, its capacity to form persisters under levofloxacin and tobramycin stress was significantly reduced. Metabolomic and transcriptomic analyses linked phoU deletion to downregulation of metE (involved in methionine synthesis) and phoA (encoding alkaline phosphatase). ∆phoU also exhibited impaired biofilm formation and reduced extracellular polymeric substance (EPS) production compared to WT, CphoU, and the OE metE and OE phoA overexpression strains. Complementation of metE or phoA partially restored both biofilm formation and persister levels. Importantly, the reduction in persisters is primarily attributed to metabolic defects in planktonic cells-specifically, impaired methionine synthesis and stress response-rather than to reduced biofilm mass, which is considered a parallel phenotype. We conclude that PhoU promotes K. pneumoniae persistence by transcriptionally upregulating metE and phoA, thereby supporting the stress response capacity of planktonic cells. This study elucidates a novel pathway for persister formation and identifies PhoU and its downstream targets as potential therapeutic vulnerabilities.",
+    "keywords": [
+      "Klebsiella pneumoniae",
+      "Biofilm",
+      "Metabolomic analysis",
+      "Persisters",
+      "PhoU"
+    ],
+    "mesh_terms": [
+      "*Klebsiella pneumoniae/genetics/drug effects/metabolism",
+      "Biofilms/drug effects/growth & development",
+      "*Bacterial Proteins/genetics/metabolism",
+      "Gene Expression Regulation, Bacterial/drug effects",
+      "Anti-Bacterial Agents/pharmacology",
+      "Phosphates/metabolism",
+      "CRISPR-Cas Systems"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Yanxin",
+        "Xu, Weihao",
+        "Chen, Kexu",
+        "Hong, Xinyu",
+        "Sun, Xuhong",
+        "Ma, Wenru",
+        "Wang, Xin",
+        "Cao, Qingmei",
+        "Xue, Zhaoping",
+        "Zhou, Bingcun",
+        "Zhang, Yuhui",
+        "Liu, Zhijun",
+        "Cui, Zimai",
+        "Wang, Dahui",
+        "Dong, Zhouyan",
+        "Zhang, Yumei"
+      ],
+      "short_names": [
+        "Sun Y",
+        "Xu W",
+        "Chen K",
+        "Hong X",
+        "Sun X",
+        "Ma W",
+        "Wang X",
+        "Cao Q",
+        "Xue Z",
+        "Zhou B",
+        "Zhang Y",
+        "Liu Z",
+        "Cui Z",
+        "Wang D",
+        "Dong Z",
+        "Zhang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Second Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China.",
+        "Inspection Center of Yantai Yuhuangding Hospital, Yantai, 264000, Shandong, China.",
+        "School of Health, Yantai Institute of Technology, Yantai, 264003, Shandong, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China.",
+        "Jinan Second Maternal and Child Health Hospital Laboratory Department, Jinan, 271100, Shandong, China.",
+        "The 109th Hospital of Shanxi Province, Taiyuan, 030024, Shanxi, China.",
+        "Inspection Center of Yantai Yuhuangding Hospital, Yantai, 264000, Shandong, China.",
+        "Inspection Center of Yantai Yuhuangding Hospital, Yantai, 264000, Shandong, China.",
+        "The Second Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China.",
+        "The First Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China.",
+        "The Second Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China.",
+        "Malvern college Qingdao, Qingdao, 266106, Shandong, China.",
+        "Liangshan College (Li Shui) China, Lishui University, Lishui, 323000, Zhejiang, China. leiningzi123@yeah.net.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China. 458476705@qq.com.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China. zhangyumei@sdmpu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Yanxin",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Weihao",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "Inspection Center of Yantai Yuhuangding Hospital, Yantai, 264000, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Kexu",
+        "short_name": "Chen K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Health, Yantai Institute of Technology, Yantai, 264003, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Hong, Xinyu",
+        "short_name": "Hong X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xuhong",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Wenru",
+        "short_name": "Ma W",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Second Maternal and Child Health Hospital Laboratory Department, Jinan, 271100, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xin",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "The 109th Hospital of Shanxi Province, Taiyuan, 030024, Shanxi, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Qingmei",
+        "short_name": "Cao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Inspection Center of Yantai Yuhuangding Hospital, Yantai, 264000, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Zhaoping",
+        "short_name": "Xue Z",
+        "identifiers": [],
+        "affiliations": [
+          "Inspection Center of Yantai Yuhuangding Hospital, Yantai, 264000, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Bingcun",
+        "short_name": "Zhou B",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuhui",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhijun",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Clinical Medical School, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Zimai",
+        "short_name": "Cui Z",
+        "identifiers": [],
+        "affiliations": [
+          "Malvern college Qingdao, Qingdao, 266106, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dahui",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Liangshan College (Li Shui) China, Lishui University, Lishui, 323000, Zhejiang, China. leiningzi123@yeah.net."
+        ]
+      },
+      {
+        "full_name": "Dong, Zhouyan",
+        "short_name": "Dong Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China. 458476705@qq.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yumei",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, 264003, Shandong, China. zhangyumei@sdmpu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular genetics and genomics : MGG"
+    ],
+    "journal_abbrev": [
+      "Mol Genet Genomics"
+    ],
+    "pub_date": "2026 Sep 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 05:39",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42760426",
+      "28698272",
+      "40387367",
+      "28947672",
+      "41574295",
+      "37451649",
+      "29166860",
+      "17420206",
+      "39150249",
+      "41416578",
+      "32522779",
+      "28731269",
+      "41031838",
+      "40372035",
+      "42262135",
+      "33104852",
+      "40609853",
+      "38117954",
+      "29458540",
+      "21858144",
+      "41081388",
+      "39240091",
+      "39615707",
+      "40480594",
+      "40814887",
+      "31693234",
+      "42684540",
+      "40758696",
+      "40883727",
+      "39182027",
+      "32670206",
+      "39745369",
+      "42690138",
+      "41663922",
+      "39047663",
+      "41455904",
+      "30269858",
+      "39660905",
+      "25583711",
+      "32123985",
+      "40301709",
+      "31994223",
+      "41266360",
+      "40602447",
+      "35457654",
+      "42636267",
+      "29857815",
+      "39162533",
+      "41975405",
+      "40980928",
+      "33484812",
+      "39810095",
+      "41277859",
+      "42554629",
+      "31246167",
+      "40793764",
+      "18453274",
+      "39586335",
+      "39490595",
+      "39655914",
+      "38708509",
+      "34098732",
+      "42709211",
+      "20600864",
+      "35019689",
+      "32652494",
+      "36475972",
+      "39744154",
+      "42455397",
+      "39472242",
+      "41790256",
+      "28416708",
+      "42226104",
+      "38949961",
+      "27801293",
+      "42461018",
+      "40920103",
+      "29248513",
+      "39963410",
+      "35410114",
+      "38064019",
+      "24852171",
+      "41816737",
+      "16861646",
+      "37228667",
+      "40768400",
+      "27140200",
+      "31837416",
+      "30217854",
+      "42301421",
+      "38718417",
+      "22566508",
+      "42214370",
+      "42159499",
+      "42310482",
+      "26282408",
+      "41749113",
+      "41791283",
+      "41454999",
+      "26311842"
+    ],
+    "review": [
+      "42760426",
+      "29857815",
+      "18453274"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s00438-026-02509-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "identity": {
+    "pmid": "42747551",
+    "doi": "10.1007/s11011-026-01968-9",
+    "title": "CRISPR-Enabled functional genomics in hPSCs-derived neural models for autism spectrum disorder."
+  },
+  "content": {
+    "abstract": "Autism Spectrum Disorder (ASD) is a genetically heterogeneous neurodevelopmental condition in which hundreds of individually rare risk variants converge on a small number of shared biological pathways, including synaptic scaffolding, chromatin remodeling, excitation-inhibition balance, and cellular energy metabolism. Translating this genetic heterogeneity into mechanistic insight requires experimental systems capable of interrogating individual gene functions in human-relevant neural contexts at scale. CRISPR-enabled functional genomics in human pluripotent stem cell (hPSC)-derived neural models, spanning neural progenitors, cortical and inhibitory neurons, astrocytes, microglia, and brain organoids, provides precisely this capability. By integrating pooled perturbation screens with multimodal readouts including single-cell and spatial transcriptomics, chromatin accessibility profiling, proximity labeling proteomics, multi-electrode array electrophysiology, and metabolic flux analysis, these platforms enable systematic, causal mapping of ASD gene function at system resolution. Early applications have already revealed convergent mechanisms: BAF complex disruption expands the ventral progenitor pool and biases its fate toward oligodendrocyte and interneuron lineages; ADNP loss impairs microglial synaptic pruning through altered endocytic trafficking; and mTOR pathway dysregulation in PTEN- and TSC2-perturbed models links genetic risk directly to metabolic and mitochondrial dysfunction. Computational frameworks including MIMOSCA and SCEPTRE enable causal network reconstruction and pseudotime inference from these datasets, moving the field from gene lists toward pathway-level models of ASD pathobiology. Translational applications leverage isogenic iPSC panels and variant-level base and prime editing to stratify ASD variants by functional impact, informing gene therapy design for haploinsufficient targets such as CHD8 and SCN2A via AAV or antisense oligonucleotide delivery. Remaining challenges, including model developmental immaturity, batch variability, and the difficulty of modeling polygenic risk, are addressed by a roadmap integrating spatial perturbomics, AI-driven causal inference, and population-scale standardized biobanks. This review synthesizes the current state of CRISPR-based functional genomics in human stem cell neural models as a coherent experimental framework for converting ASD genetic associations into mechanistic understanding and therapeutic opportunity.",
+    "keywords": [
+      "ASD",
+      "CRISPR-Perturbomics",
+      "Functional Genomics",
+      "HPSCs-Derived Neural Models",
+      "Mental Health",
+      "Precision Medicine",
+      "Public Health",
+      "Single-Cell Multiomics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Genomics/methods",
+      "*Autism Spectrum Disorder/genetics/metabolism",
+      "*Pluripotent Stem Cells/metabolism",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats/genetics",
+      "*Neurons/metabolism",
+      "*Neural Stem Cells/metabolism",
+      "*CRISPR-Cas Systems"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gopukumar, S T",
+        "Saha, Madhumita",
+        "Soni, Tanveen Kaur",
+        "Alatwi, Eid Semer",
+        "Khan, Gazala Afreen",
+        "Asad, Mohammad Rehan",
+        "Shamshad, Samer",
+        "Tadakod, Sunil",
+        "Sharma, Alok",
+        "Das, Uddalak"
+      ],
+      "short_names": [
+        "Gopukumar ST",
+        "Saha M",
+        "Soni TK",
+        "Alatwi ES",
+        "Khan GA",
+        "Asad MR",
+        "Shamshad S",
+        "Tadakod S",
+        "Sharma A",
+        "Das U"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-0007-5691"
+      ],
+      "affiliations": [
+        "Nanobioinformatics Unit, Department of General Surgery, Saveetha Institute of Medical and Technical Sciences (SIMATS), Saveetha Medical College and Hospital, Saveetha University, Chennai, Tamil Nadu, 602105, India.",
+        "Institute of Nano science and Technology, Sector 81, Mohali, Knowledge City, Mohali, Punjab, 140306, India.",
+        "Department of Biosciences, JIS University, Kolkata, West Bengal, 700109, India.",
+        "Department of Pharmacology, College of Pharmacy, Jouf University, King Khalid Road, Sakaka, 72388, Saudi Arabia.",
+        "Department of Pharmaceutical Sciences, College of Pharmacy, Dubai Medical University, Muhaisnah 1, Dubai, United Arab Emirates.",
+        "Department of Basic Medical Science, College of Medicine, Majmaah University, Al Majmaah, 11952, Saudi Arabia.",
+        "ICAR- National Institute of Veterinary Epidemiology and Disease Informatics, Bengaluru, 560119, India.",
+        "Department of Biotechnology, School of Applied Science, Reva University, Rukmini Knowledge Park, Kattigenahalli Yelahanka, Bengaluru, 560064, India.",
+        "NeuroGen Brain & Spine Institute, Nerul, Navi Mumbai, 400706, India.",
+        "KLS Wellness Institute, Sanpada, Navi Mumbai, 400705, India.",
+        "Developmental Biology and Genetics (DBG), Division of Biological Sciences, Indian Institute of Science (IISc), Bengaluru, 560012, India. uddalak_2025@jnu.ac.in.",
+        "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, 110067, India. uddalak_2025@jnu.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gopukumar, S T",
+        "short_name": "Gopukumar ST",
+        "identifiers": [],
+        "affiliations": [
+          "Nanobioinformatics Unit, Department of General Surgery, Saveetha Institute of Medical and Technical Sciences (SIMATS), Saveetha Medical College and Hospital, Saveetha University, Chennai, Tamil Nadu, 602105, India."
+        ]
+      },
+      {
+        "full_name": "Saha, Madhumita",
+        "short_name": "Saha M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Nano science and Technology, Sector 81, Mohali, Knowledge City, Mohali, Punjab, 140306, India."
+        ]
+      },
+      {
+        "full_name": "Soni, Tanveen Kaur",
+        "short_name": "Soni TK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, JIS University, Kolkata, West Bengal, 700109, India."
+        ]
+      },
+      {
+        "full_name": "Alatwi, Eid Semer",
+        "short_name": "Alatwi ES",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, College of Pharmacy, Jouf University, King Khalid Road, Sakaka, 72388, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Khan, Gazala Afreen",
+        "short_name": "Khan GA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, College of Pharmacy, Dubai Medical University, Muhaisnah 1, Dubai, United Arab Emirates."
+        ]
+      },
+      {
+        "full_name": "Asad, Mohammad Rehan",
+        "short_name": "Asad MR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic Medical Science, College of Medicine, Majmaah University, Al Majmaah, 11952, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Shamshad, Samer",
+        "short_name": "Shamshad S",
+        "identifiers": [],
+        "affiliations": [
+          "ICAR- National Institute of Veterinary Epidemiology and Disease Informatics, Bengaluru, 560119, India."
+        ]
+      },
+      {
+        "full_name": "Tadakod, Sunil",
+        "short_name": "Tadakod S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, School of Applied Science, Reva University, Rukmini Knowledge Park, Kattigenahalli Yelahanka, Bengaluru, 560064, India."
+        ]
+      },
+      {
+        "full_name": "Sharma, Alok",
+        "short_name": "Sharma A",
+        "identifiers": [],
+        "affiliations": [
+          "NeuroGen Brain & Spine Institute, Nerul, Navi Mumbai, 400706, India.",
+          "KLS Wellness Institute, Sanpada, Navi Mumbai, 400705, India."
+        ]
+      },
+      {
+        "full_name": "Das, Uddalak",
+        "short_name": "Das U",
+        "identifiers": [
+          "0009-0004-0007-5691"
+        ],
+        "affiliations": [
+          "Developmental Biology and Genetics (DBG), Division of Biological Sciences, Indian Institute of Science (IISc), Bengaluru, 560012, India. uddalak_2025@jnu.ac.in.",
+          "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, 110067, India. uddalak_2025@jnu.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Metabolic brain disease"
+    ],
+    "journal_abbrev": [
+      "Metab Brain Dis"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 17:36",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42747551",
+      "40188316",
+      "42475469",
+      "39585363",
+      "37704762",
+      "28321286",
+      "31893020",
+      "34259569",
+      "32578146",
+      "26426199",
+      "40081369",
+      "39718245",
+      "41611887",
+      "39605704",
+      "37098352",
+      "41534496",
+      "38525876",
+      "37802044",
+      "33076974",
+      "42526765",
+      "42706412",
+      "31311581",
+      "37344450",
+      "32560742",
+      "40780524",
+      "41908337",
+      "36635662",
+      "39419027",
+      "35459617",
+      "41656303",
+      "42411605",
+      "42528148",
+      "41779288",
+      "32000856",
+      "34299197",
+      "36152629",
+      "32887689",
+      "41236708",
+      "38499656",
+      "31402430",
+      "34946850",
+      "39637139",
+      "32503625",
+      "39294132",
+      "42712921",
+      "40090136",
+      "40745001",
+      "36069759",
+      "41711690",
+      "32711817",
+      "40940813",
+      "32393347",
+      "36222238",
+      "37101616",
+      "30139379",
+      "34525970",
+      "42019823",
+      "39243986",
+      "41360269",
+      "37552395",
+      "32712198",
+      "25398343",
+      "39989339",
+      "41977462",
+      "31921404",
+      "30747104",
+      "42402632",
+      "42431437",
+      "42571089",
+      "32653109",
+      "42405393",
+      "36830629",
+      "41370235",
+      "29129319",
+      "21647150",
+      "25294932",
+      "38526223",
+      "29961565",
+      "41826830",
+      "31540669",
+      "32887745",
+      "42154377",
+      "27378147",
+      "42418076",
+      "41943166",
+      "26491539",
+      "31500805",
+      "30970261",
+      "41539592",
+      "39485283",
+      "42352912",
+      "40865855",
+      "40192983",
+      "39758604",
+      "38547564",
+      "29020615",
+      "25752243",
+      "41759529",
+      "30392976",
+      "29914921"
+    ],
+    "review": [
+      "42747551",
+      "39585363",
+      "26426199",
+      "39718245",
+      "41534496",
+      "37344450",
+      "40780524",
+      "41908337",
+      "35459617",
+      "41656303",
+      "42528148",
+      "41236708",
+      "42712921",
+      "40090136",
+      "40745001",
+      "41711690",
+      "32711817",
+      "32393347",
+      "37101616",
+      "30139379",
+      "41360269",
+      "32712198",
+      "39989339",
+      "41977462",
+      "42402632",
+      "42431437",
+      "42571089",
+      "36830629",
+      "38526223",
+      "42154377",
+      "41539592",
+      "42352912",
+      "40865855"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/autismspectrumdisorder.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Autism Spectrum Disorder"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11011-026-01968-9",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PTEN-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/autismspectrumdisorder.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Autism Spectrum Disorder"
+      }
+    ],
+    "text_mined": []
+  }
+}

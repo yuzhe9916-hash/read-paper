@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42758584",
+    "doi": "10.1016/j.xpro.2026.104817",
+    "title": "Protocol to establish endogenous knockins in Jurkat T-ALL cells using CRISPR-Cas9-mediated homology-directed repair."
+  },
+  "content": {
+    "abstract": "Jurkat cells are a versatile cell-line model utilized across multiple areas of biology. Here, we present a protocol for inserting DNA sequences (knockins) at an endogenous locus using CRISPR-Cas9 technology via homology-directed repair (HDR). We describe steps for designing, constructing, and validating endogenous knockins in T-ALL Jurkat cells. This protocol has potential application in gene regulatory studies, cancer biology, HIV research, and T-cell signaling, among others. For complete details on the use and execution of this protocol, please refer to Costa JR et al.(1).",
+    "keywords": [
+      "CRISPR",
+      "Cancer",
+      "Cell Biology",
+      "Cell culture",
+      "Cell-based Assays",
+      "Flow Cytometry",
+      "Molecular Biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Costa, Joana R",
+        "Li, Yang",
+        "Ahrabi, Sara",
+        "Li, Zhaodong",
+        "Rapoz-D'Silva, Tanya",
+        "Krulik, Mateja E",
+        "Hyseni, Sara",
+        "Morrow, George",
+        "Guo, Yanping",
+        "Look, A Thomas",
+        "Mansour, Marc R"
+      ],
+      "short_names": [
+        "Costa JR",
+        "Li Y",
+        "Ahrabi S",
+        "Li Z",
+        "Rapoz-D'Silva T",
+        "Krulik ME",
+        "Hyseni S",
+        "Morrow G",
+        "Guo Y",
+        "Look AT",
+        "Mansour MR"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Haematology, UCL Cancer Institute, University College London, London, UK. Electronic address: joana.rodrigues-simoes-da-costa@lsbu.ac.uk.",
+        "Department of Haematology, UCL Cancer Institute, University College London, London, UK.",
+        "Department of Haematology, UCL Cancer Institute, University College London, London, UK.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA.",
+        "Department of Haematology, UCL Cancer Institute, University College London, London, UK.",
+        "Faculty of Biology, University of Wurzburg, Wurzburg, Germany.",
+        "Department of Haematology, UCL Cancer Institute, University College London, London, UK.",
+        "Flow Cytometry Translational Technology Platform, University College London, London, UK.",
+        "Flow Cytometry Translational Technology Platform, University College London, London, UK.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA; Division of Pediatric Hematology-Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Haematology, UCL Cancer Institute, University College London, London, UK; Developmental Biology and Cancer, UCL Great Ormond Street Institute of Child Health, London, UK; University College London Hospitals NHS Foundation Trust, London, UK. Electronic address: m.mansour@ucl.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Costa, Joana R",
+        "short_name": "Costa JR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Haematology, UCL Cancer Institute, University College London, London, UK. Electronic address: joana.rodrigues-simoes-da-costa@lsbu.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Li, Yang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Haematology, UCL Cancer Institute, University College London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Ahrabi, Sara",
+        "short_name": "Ahrabi S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Haematology, UCL Cancer Institute, University College London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Li, Zhaodong",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Rapoz-D'Silva, Tanya",
+        "short_name": "Rapoz-D'Silva T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Haematology, UCL Cancer Institute, University College London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Krulik, Mateja E",
+        "short_name": "Krulik ME",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Biology, University of Wurzburg, Wurzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Hyseni, Sara",
+        "short_name": "Hyseni S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Haematology, UCL Cancer Institute, University College London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Morrow, George",
+        "short_name": "Morrow G",
+        "identifiers": [],
+        "affiliations": [
+          "Flow Cytometry Translational Technology Platform, University College London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Guo, Yanping",
+        "short_name": "Guo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Flow Cytometry Translational Technology Platform, University College London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Look, A Thomas",
+        "short_name": "Look AT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA; Division of Pediatric Hematology-Oncology, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Mansour, Marc R",
+        "short_name": "Mansour MR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Haematology, UCL Cancer Institute, University College London, London, UK; Developmental Biology and Cancer, UCL Great Ormond Street Institute of Child Health, London, UK; University College London Hospitals NHS Foundation Trust, London, UK. Electronic address: m.mansour@ucl.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 17:36",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42758584",
+      "40517388",
+      "40768339",
+      "37252842",
+      "40773349",
+      "37000620",
+      "34977677",
+      "40173037",
+      "37432856",
+      "40674218",
+      "38972040",
+      "38354082",
+      "40618370",
+      "39427309",
+      "37178110",
+      "38996063",
+      "38640065",
+      "34849487",
+      "38048220",
+      "37220001",
+      "40700012",
+      "35330963",
+      "35769926",
+      "39494147",
+      "37967017",
+      "42479489",
+      "37862173",
+      "39180746",
+      "38096061",
+      "39277866",
+      "40198219",
+      "39661507",
+      "37590151",
+      "37195868",
+      "33870225",
+      "40362595",
+      "29946437",
+      "41201092",
+      "39673702",
+      "37948185",
+      "42213769",
+      "37355992",
+      "38768032",
+      "31597252",
+      "35921985",
+      "33948565",
+      "41686641",
+      "42012982",
+      "33855309",
+      "42037768",
+      "35386712",
+      "36595926",
+      "30507915",
+      "39128010",
+      "40190710",
+      "39116199",
+      "32628328",
+      "41433155",
+      "32534122",
+      "37389994",
+      "36115027",
+      "33786461",
+      "39134754",
+      "37729058",
+      "35853277",
+      "34382013",
+      "24478335",
+      "35496795",
+      "33989385",
+      "36107342",
+      "35005644",
+      "36317180",
+      "36853729",
+      "35496799",
+      "42276945",
+      "38007480",
+      "38041822",
+      "28228480",
+      "41903144",
+      "41909468",
+      "35865001",
+      "41886459",
+      "39756031",
+      "40120111",
+      "34430917",
+      "39342621",
+      "28928041",
+      "39756033",
+      "40124668",
+      "36097388",
+      "32899704",
+      "31571107",
+      "40946305",
+      "39709609",
+      "38324448",
+      "37432855",
+      "36919203",
+      "38401123",
+      "37922314",
+      "25497837"
+    ],
+    "review": [
+      "42758584",
+      "39494147"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00470-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

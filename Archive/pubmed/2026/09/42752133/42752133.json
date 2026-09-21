@@ -1,0 +1,473 @@
+{
+  "identity": {
+    "pmid": "42752133",
+    "doi": "10.1126/science.aei0498",
+    "title": "A noncontiguous code for RNA-guided DNA recognition at the origin of CRISPR-Cas."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas provides RNA-mediated adaptive immunity, but how its first RNA-guided effector arose is unclear. In this study, we report the discovery of Viral Interference Programmable Repeat (VIPR) systems consisting of a Vipr protein ancestral to the earliest CRISPR-Cas effectors and VIPR RNAs (vrRNAs) comprising alternating GGY/NN motifs. Unlike canonical guide RNAs that pair with target nucleic acids through contiguous complementarity, vrRNAs recognize double-stranded DNA through a noncontiguous code in which the variable NN dinucleotides collectively specify a gapped target sequence. Natural vrRNA targets suggest that VIPR systems act against competing phages, and we demonstrate programmable phage defense by redirecting the complex for transcriptional repression. These results suggest that adaptive immunity originated from ancient warfare between viruses, revealing a previously unidentified logic for encoding information in sequence.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "*DNA/chemistry/metabolism/genetics",
+      "*RNA, Guide, CRISPR-Cas Systems/genetics/chemistry/metabolism",
+      "Evolution, Molecular",
+      "*Viral Proteins/genetics/chemistry",
+      "*RNA, Viral/genetics/chemistry",
+      "*Bacteriophages/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yoon, Peter H",
+        "Loi, Kenneth J",
+        "Zhang, Zeyuan Terry",
+        "Docter, Trevor A",
+        "Lopez, Santiago C",
+        "Langeberg, Conner J",
+        "Ur-Rehman, Muhammad Moez",
+        "Vohra, Kamakshi",
+        "Zhou, Zehan",
+        "Esain-Garcia, Isabel",
+        "Trinidad, Marena I",
+        "Shi, Honglue",
+        "Boger, Ron",
+        "Wang, Peter Y",
+        "Adler, Benjamin A",
+        "Brohawn, Stephen G",
+        "Doudna, Jennifer A"
+      ],
+      "short_names": [
+        "Yoon PH",
+        "Loi KJ",
+        "Zhang ZT",
+        "Docter TA",
+        "Lopez SC",
+        "Langeberg CJ",
+        "Ur-Rehman MM",
+        "Vohra K",
+        "Zhou Z",
+        "Esain-Garcia I",
+        "Trinidad MI",
+        "Shi H",
+        "Boger R",
+        "Wang PY",
+        "Adler BA",
+        "Brohawn SG",
+        "Doudna JA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9156-1393",
+        "ORCID: 0009-0009-5508-6511",
+        "ORCID: 0009-0001-2619-6502",
+        "ORCID: 0000-0003-2647-9649",
+        "ORCID: 0000-0001-7576-2438",
+        "ORCID: 0000-0002-5609-3758",
+        "ORCID: 0000-0003-1931-4563",
+        "ORCID: 0000-0001-7839-4642",
+        "ORCID: 0000-0003-3847-1652",
+        "ORCID: 0000-0002-4467-271X",
+        "ORCID: 0000-0002-6129-2815",
+        "ORCID: 0000-0002-7488-3040",
+        "ORCID: 0000-0001-6768-3406",
+        "ORCID: 0000-0001-9161-999X"
+      ],
+      "affiliations": [
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+        "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+        "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA.",
+        "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+        "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley CA, USA.",
+        "Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "Gladstone Institutes, University of California, San Francisco, San Francisco, CA, USA.",
+        "Department of Chemistry, University of California, Berkeley, Berkeley, CA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yoon, Peter H",
+        "short_name": "Yoon PH",
+        "identifiers": [
+          "0000-0002-9156-1393"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Loi, Kenneth J",
+        "short_name": "Loi KJ",
+        "identifiers": [
+          "0009-0009-5508-6511"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zeyuan Terry",
+        "short_name": "Zhang ZT",
+        "identifiers": [
+          "0009-0001-2619-6502"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Docter, Trevor A",
+        "short_name": "Docter TA",
+        "identifiers": [
+          "0000-0003-2647-9649"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Lopez, Santiago C",
+        "short_name": "Lopez SC",
+        "identifiers": [
+          "0000-0001-7576-2438"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Langeberg, Conner J",
+        "short_name": "Langeberg CJ",
+        "identifiers": [
+          "0000-0002-5609-3758"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ur-Rehman, Muhammad Moez",
+        "short_name": "Ur-Rehman MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Vohra, Kamakshi",
+        "short_name": "Vohra K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zehan",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Esain-Garcia, Isabel",
+        "short_name": "Esain-Garcia I",
+        "identifiers": [
+          "0000-0003-1931-4563"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+          "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley CA, USA."
+        ]
+      },
+      {
+        "full_name": "Trinidad, Marena I",
+        "short_name": "Trinidad MI",
+        "identifiers": [
+          "0000-0001-7839-4642"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Shi, Honglue",
+        "short_name": "Shi H",
+        "identifiers": [
+          "0000-0003-3847-1652"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Boger, Ron",
+        "short_name": "Boger R",
+        "identifiers": [
+          "0000-0002-4467-271X"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Peter Y",
+        "short_name": "Wang PY",
+        "identifiers": [
+          "0000-0002-6129-2815"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley CA, USA."
+        ]
+      },
+      {
+        "full_name": "Adler, Benjamin A",
+        "short_name": "Adler BA",
+        "identifiers": [
+          "0000-0002-7488-3040"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Brohawn, Stephen G",
+        "short_name": "Brohawn SG",
+        "identifiers": [
+          "0000-0001-6768-3406"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+          "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Doudna, Jennifer A",
+        "short_name": "Doudna JA",
+        "identifiers": [
+          "0000-0001-9161-999X"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+          "Innovative Genomics Institute, University of California, Berkeley, CA, USA.",
+          "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences, University of California, Berkeley, Berkeley, CA, USA.",
+          "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley CA, USA.",
+          "Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+          "Gladstone Institutes, University of California, San Francisco, San Francisco, CA, USA.",
+          "Department of Chemistry, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Science"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:32",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42752133",
+      "42094414",
+      "42752121",
+      "30606466",
+      "32483187",
+      "36190192",
+      "27096362",
+      "28602637",
+      "31142834",
+      "32817336",
+      "37380027",
+      "33333018",
+      "39024377",
+      "41831437",
+      "31228550",
+      "28634160",
+      "39698811",
+      "32467331",
+      "37020030",
+      "29748239",
+      "41555077",
+      "33785624",
+      "34694606",
+      "38994567",
+      "38641067",
+      "25274302",
+      "41495894",
+      "31730297",
+      "40121070",
+      "38926585",
+      "41781609",
+      "41617991",
+      "30872121",
+      "31278272",
+      "28781236",
+      "27588603",
+      "27256883",
+      "31819217",
+      "28781234",
+      "40372912",
+      "28695850",
+      "30718774",
+      "31290648",
+      "38702571",
+      "32186918",
+      "28375731",
+      "25959775",
+      "26113724",
+      "34757726",
+      "33733999",
+      "28749735",
+      "30916546",
+      "30122537",
+      "38811761",
+      "28448066",
+      "28985502",
+      "37058530",
+      "34381246",
+      "29348170",
+      "30523077",
+      "26300258",
+      "31325492",
+      "40869944",
+      "39551936",
+      "33472057",
+      "26755632",
+      "30053228",
+      "36427491",
+      "28757251",
+      "42059198",
+      "41630633",
+      "41027434",
+      "35051352",
+      "40996239",
+      "31585845",
+      "27493190",
+      "29303478",
+      "27174938",
+      "40014690",
+      "36344504",
+      "28187792",
+      "28985291",
+      "29940185",
+      "31189177",
+      "24463574",
+      "28977458",
+      "25934119",
+      "22986408",
+      "41553775",
+      "26422227",
+      "27936513",
+      "41712528",
+      "28826484",
+      "27342128",
+      "28431230",
+      "33049228",
+      "41428733",
+      "32857635",
+      "30208287",
+      "40273258"
+    ],
+    "review": [
+      "42752133",
+      "32817336",
+      "29748239",
+      "38641067",
+      "31730297",
+      "38702571",
+      "32186918",
+      "28375731",
+      "28749735",
+      "28985502",
+      "31325492",
+      "40869944",
+      "40996239",
+      "27493190",
+      "28187792",
+      "28985291",
+      "29940185",
+      "25934119",
+      "32857635"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/science.aei0498",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://addgene.org/browse/pubmed/42752133",
+        "provider": "Addgene Non-profit plasmid repository",
+        "category": "Research Materials",
+        "attribute": "subscription/membership/fee required",
+        "linkname": "Get Article's Plasmids - Addgene"
+      }
+    ],
+    "text_mined": []
+  }
+}

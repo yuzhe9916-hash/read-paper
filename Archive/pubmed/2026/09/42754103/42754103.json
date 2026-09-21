@@ -1,0 +1,193 @@
+{
+  "identity": {
+    "pmid": "42754103",
+    "doi": "10.1016/j.mimet.2026.107715",
+    "title": "Auditing bacterial dark-gene screens for superimposed open reading frame artefacts: A multi-layer analysis of Rv2438A in Mycobacterium tuberculosis."
+  },
+  "content": {
+    "abstract": "Essentiality and knockdown-vulnerability screens can promote spurious bacterial open reading frames when those frames overlap essential genes, because such a frame inherits its neighbour's signals undiluted and therefore satisfies the screen's criteria better than a genuine small gene. We present a multi-layer audit that tests this failure mode across genome annotation, transposon mutagenesis, CRISPR interference, homology, transcript mapping, proteomics, and population variation. We apply it to Rv2438A, a 92-codon conserved hypothetical open reading frame of Mycobacterium tuberculosis ranked first by our own dark-gene target screen. Rv2438A is superimposed on the essential NAD synthetase locus nadE: 44% lies within its coding sequence on the opposite strand, and the remainder covers its promoter and transcription start site. Consequently, three of five Himar1 sites lie within nadE, no CRISPRi guide can target Rv2438A without binding nadE, and the cross-species hit maps to the same nadE start junction. Rv2438A lacks its own transcription start site and is absent from every proteomic dataset that detects nadE. A genome-wide scan identifies six short, overlapping, uncharacterised loci among 3907 annotated genes, but only Rv2438A combines overlap and essentiality with non-detection across all proteomic datasets; rare genome-wide, it ranked first among screen hits. We provide an implementable audit workflow and a codon-position control, but measure the control's sensitivity as only two of five genes with attested protein, limiting it to confirmatory use. Overlap coordinates and neighbour-specific experimental resolution should therefore be reported before bacterial dark genes are prioritised.",
+    "keywords": [
+      "CRISPR interference",
+      "Gene essentiality",
+      "Genome annotation",
+      "Mycobacterium tuberculosis",
+      "Overlapping genes",
+      "Spurious open reading frames",
+      "Transposon sequencing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Guyeux, Christophe"
+      ],
+      "short_names": [
+        "Guyeux C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Universite Marie et Louis Pasteur, CNRS, FEMTO-ST Institute, F-90000 Belfort, France. Electronic address: christophe.guyeux@univ-fcomte.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Guyeux, Christophe",
+        "short_name": "Guyeux C",
+        "identifiers": [],
+        "affiliations": [
+          "Université Marie et Louis Pasteur, CNRS, FEMTO-ST Institute, F-90000 Belfort, France. Electronic address: christophe.guyeux@univ-fcomte.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of microbiological methods"
+    ],
+    "journal_abbrev": [
+      "J Microbiol Methods"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 23:34",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42754103",
+      "34126767",
+      "37350613",
+      "15478601",
+      "29433444",
+      "28096490",
+      "23273318",
+      "8202080",
+      "42003616",
+      "15805780",
+      "21969609",
+      "40527579",
+      "24308365",
+      "21030493",
+      "9461351",
+      "38837392",
+      "19118359",
+      "12775759",
+      "16646984",
+      "15487498",
+      "29038160",
+      "8014987",
+      "11879526",
+      "8491714",
+      "27599549",
+      "18597682",
+      "26677845",
+      "25903347",
+      "36507678",
+      "35004921",
+      "30026186",
+      "9557715",
+      "23127152",
+      "30259084",
+      "9868784",
+      "20041161",
+      "27737786",
+      "40808296",
+      "8208617",
+      "34665010",
+      "24549842",
+      "38399966",
+      "30009986",
+      "10743554",
+      "9784063",
+      "35343439",
+      "10698976",
+      "15367594",
+      "42475469",
+      "41663044",
+      "24103077",
+      "26462475",
+      "27561358",
+      "3935797",
+      "27492286",
+      "24118942",
+      "39207104",
+      "15247104",
+      "27016733",
+      "17965159",
+      "21863554",
+      "31750990",
+      "36321557",
+      "35598869",
+      "25747261",
+      "33765270",
+      "11836410",
+      "11410670",
+      "33155979",
+      "19706172",
+      "37326679",
+      "12958174",
+      "33257523",
+      "24642337",
+      "1845885",
+      "17038047",
+      "20822531",
+      "40919935",
+      "30403660",
+      "14583187",
+      "15673735",
+      "42474837",
+      "30683138",
+      "9034315",
+      "30657448",
+      "15253419",
+      "2658304",
+      "1716692",
+      "9140972",
+      "25709069",
+      "3011964",
+      "26084810",
+      "24484385",
+      "21225241",
+      "12740027",
+      "8366036",
+      "22470422",
+      "25999286",
+      "30377286",
+      "37350592"
+    ],
+    "review": [
+      "42754103",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0167-7012(26)00327-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0167-7012(26)00327-1",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

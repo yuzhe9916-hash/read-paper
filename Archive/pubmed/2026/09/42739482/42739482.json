@@ -1,0 +1,435 @@
+{
+  "identity": {
+    "pmid": "42739482",
+    "doi": "10.3390/plants15172715",
+    "title": "Genome Editing in Solanaceae: Harnessing CRISPR-Cas Technology for Precision Crop Improvement."
+  },
+  "content": {
+    "abstract": "Malnutrition and climate-induced stress remain major constraints to global food and nutritional security despite the yield gains of the Green Revolution. Solanaceae crops such as tomato, potato, brinjal, and pepper are key sources of vitamins, minerals, and bioactive compounds. Yet, their genetic improvement has been limited by narrow diversity and complex polygenic traits. The advent of CRISPR/Cas-mediated genome editing provides a transformative platform for precision crop improvement by enabling targeted modification of genes controlling stress tolerance, yield, and nutritional quality. In Solanaceae, CRISPR/Cas applications have successfully enhanced resistance against major pathogens (SlMlo1, SlPelo, SlDCL2), improved abiotic stress tolerance through editing of SlMAPK3, SlCBF1, and SlBZR1, and optimized fruit quality traits via modulation of Psy1, CrtR-b2, and fiAD2/3. Emerging innovations, such as base and prime editing, and RNP-mediated transgene-free delivery, are expanding the precision and scope of editing. However, challenges persist, including genotype-dependent transformation, low HDR efficiency, and incomplete understanding of off-target and epigenetic effects. Integrating CRISPR with omics-guided gene discovery, efficient transformation systems, and regulatory harmonization can accelerate the development of nutritionally enriched, stress-resilient, and sustainable Solanaceae varieties. This review synthesizes recent advances, identifies critical limitations, and outlines future opportunities for deploying CRISPR/Cas technology to achieve next-generation breeding and food system resilience.",
+    "keywords": [
+      "CRISPR/Cas",
+      "Solanaceae crops",
+      "base editing",
+      "genome editing",
+      "nutritional biofortification",
+      "prime editing",
+      "stress tolerance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Thakur, Vandana",
+        "Vats, Akshay Kumar",
+        "Kumar, Rahul",
+        "Kumar, Anand",
+        "Vyas, Shalu",
+        "Chakravarty, Snehel",
+        "Bardhan, Kirti",
+        "Paul, Mouli",
+        "More, Ambika",
+        "Johar, Vishal",
+        "Kumar, Vinod",
+        "M S, Nimmy",
+        "Teja, R Ravi"
+      ],
+      "short_names": [
+        "Thakur V",
+        "Vats AK",
+        "Kumar R",
+        "Kumar A",
+        "Vyas S",
+        "Chakravarty S",
+        "Bardhan K",
+        "Paul M",
+        "More A",
+        "Johar V",
+        "Kumar V",
+        "M S N",
+        "Teja RR"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0168-0776",
+        "ORCID: 0000-0002-2419-2428",
+        "ORCID: 0000-0003-2765-4322",
+        "ORCID: 0000-0003-3436-4921"
+      ],
+      "affiliations": [
+        "Department of Horticulture, School of Agriculture, Lovely Professional University, Phagwara 144411, Punjab, India.",
+        "Department of Genetics and Plant Breeding, Dr Kalam Agricultural College, Bihar Agricultural University, Bhagalpur 813210, Bihar, India.",
+        "Faculty of Agricultural Sciences, DAV University, Jalandhar 144008, Punjab, India.",
+        "Faculty of Agricultural Sciences, GLA University, Mathura 281406, Uttar Pradesh, India.",
+        "Department of Agriculture, Sant Baba Bhag Singh University, Jalandhar 144030, Punjab, India.",
+        "Advance Center on Sericulture, Bihar Agricultural University, Kishanganj 855107, Bihar, India.",
+        "Department of Basic Sciences and Humanities, Navsari Agricultural University, Navsari 396450, Gujarat, India.",
+        "Department of Genetics and Plant Breeding, Ramakrishna Mission Vivekananda Educational and Research Institute, Narendrapur Campus, Kolkata 743145, West Bengal, India.",
+        "Department of Genetics and Plant Breeding, Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani 431402, Maharashtra, India.",
+        "Department of Horticulture, School of Agriculture, Lovely Professional University, Phagwara 144411, Punjab, India.",
+        "Department of Molecular Biology & Biotechnology, Bihar Agricultural University, Bhagalpur 813210, Bihar, India.",
+        "ICAR-National Institute of Plant Biotechnology, Indian Agricultural Research Institute, PUSA Campus, New Delhi 110012, India.",
+        "ICAR-National Academy of Agricultural Research Management, Rajendranagar, Hyderabad 500030, Telangana, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Thakur, Vandana",
+        "short_name": "Thakur V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Horticulture, School of Agriculture, Lovely Professional University, Phagwara 144411, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Vats, Akshay Kumar",
+        "short_name": "Vats AK",
+        "identifiers": [
+          "0000-0003-0168-0776"
+        ],
+        "affiliations": [
+          "Department of Genetics and Plant Breeding, Dr Kalam Agricultural College, Bihar Agricultural University, Bhagalpur 813210, Bihar, India."
+        ]
+      },
+      {
+        "full_name": "Kumar, Rahul",
+        "short_name": "Kumar R",
+        "identifiers": [
+          "0000-0002-2419-2428"
+        ],
+        "affiliations": [
+          "Faculty of Agricultural Sciences, DAV University, Jalandhar 144008, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Kumar, Anand",
+        "short_name": "Kumar A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Agricultural Sciences, GLA University, Mathura 281406, Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Vyas, Shalu",
+        "short_name": "Vyas S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agriculture, Sant Baba Bhag Singh University, Jalandhar 144030, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Chakravarty, Snehel",
+        "short_name": "Chakravarty S",
+        "identifiers": [],
+        "affiliations": [
+          "Advance Center on Sericulture, Bihar Agricultural University, Kishanganj 855107, Bihar, India."
+        ]
+      },
+      {
+        "full_name": "Bardhan, Kirti",
+        "short_name": "Bardhan K",
+        "identifiers": [
+          "0000-0003-2765-4322"
+        ],
+        "affiliations": [
+          "Department of Basic Sciences and Humanities, Navsari Agricultural University, Navsari 396450, Gujarat, India."
+        ]
+      },
+      {
+        "full_name": "Paul, Mouli",
+        "short_name": "Paul M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Plant Breeding, Ramakrishna Mission Vivekananda Educational and Research Institute, Narendrapur Campus, Kolkata 743145, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "More, Ambika",
+        "short_name": "More A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Plant Breeding, Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani 431402, Maharashtra, India."
+        ]
+      },
+      {
+        "full_name": "Johar, Vishal",
+        "short_name": "Johar V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Horticulture, School of Agriculture, Lovely Professional University, Phagwara 144411, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Kumar, Vinod",
+        "short_name": "Kumar V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology & Biotechnology, Bihar Agricultural University, Bhagalpur 813210, Bihar, India."
+        ]
+      },
+      {
+        "full_name": "M S, Nimmy",
+        "short_name": "M S N",
+        "identifiers": [
+          "0000-0003-3436-4921"
+        ],
+        "affiliations": [
+          "ICAR-National Institute of Plant Biotechnology, Indian Agricultural Research Institute, PUSA Campus, New Delhi 110012, India."
+        ]
+      },
+      {
+        "full_name": "Teja, R Ravi",
+        "short_name": "Teja RR",
+        "identifiers": [],
+        "affiliations": [
+          "ICAR-National Academy of Agricultural Research Management, Rajendranagar, Hyderabad 500030, Telangana, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plants (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Plants (Basel)"
+    ],
+    "pub_date": "2026 Sep 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42739482",
+      "42405245",
+      "41828461",
+      "42469498",
+      "42402524",
+      "40526281",
+      "42713468",
+      "41755886",
+      "41688767",
+      "39376239",
+      "42109576",
+      "40918304",
+      "41665762",
+      "35460444",
+      "40986203",
+      "34367194",
+      "40632351",
+      "42064300",
+      "41546796",
+      "36562862",
+      "31644801",
+      "35891620",
+      "33842017",
+      "42477308",
+      "41649714",
+      "35732256",
+      "35910205",
+      "33742256",
+      "41354981",
+      "36276961",
+      "34070430",
+      "42690503",
+      "41533202",
+      "42106593",
+      "36913066",
+      "33835761",
+      "40869244",
+      "36497186",
+      "40129518",
+      "41751548",
+      "41740122",
+      "36685816",
+      "39637703",
+      "32516948",
+      "35927945",
+      "30835493",
+      "42452277",
+      "41452514",
+      "29655033",
+      "40450609",
+      "34073848",
+      "33445555",
+      "40244221",
+      "30483283",
+      "42245112",
+      "35032250",
+      "39891757",
+      "26930114",
+      "35910203",
+      "40459840",
+      "41165418",
+      "41346247",
+      "42339381",
+      "36326904",
+      "36740587",
+      "39163906",
+      "30809237",
+      "40931807",
+      "33825100",
+      "37997999",
+      "31430902",
+      "36909403",
+      "37143874",
+      "42643124",
+      "34962611",
+      "32864285",
+      "37395789",
+      "34807378",
+      "37326044",
+      "40860342",
+      "41096720",
+      "38860212",
+      "33977326",
+      "39982542",
+      "35774509",
+      "36812799",
+      "32194972",
+      "36993865",
+      "33734711",
+      "35647578",
+      "40963829",
+      "37789479",
+      "40923633",
+      "42173386",
+      "38403466",
+      "39525414",
+      "38331711",
+      "34517092",
+      "42328080",
+      "35764748"
+    ],
+    "review": [
+      "42739482",
+      "42405245",
+      "41828461",
+      "42469498",
+      "42402524",
+      "40526281",
+      "42713468",
+      "41755886",
+      "41688767",
+      "39376239",
+      "42109576",
+      "40918304",
+      "41665762",
+      "35460444",
+      "40986203",
+      "34367194",
+      "40632351",
+      "42064300",
+      "41546796",
+      "36562862",
+      "33842017",
+      "42477308",
+      "41649714",
+      "35732256",
+      "35910205",
+      "33742256",
+      "41354981",
+      "36276961",
+      "34070430",
+      "42690503",
+      "41533202",
+      "42106593",
+      "36913066",
+      "33835761",
+      "40869244",
+      "36497186",
+      "40129518",
+      "41751548",
+      "41740122",
+      "36685816",
+      "39637703",
+      "32516948",
+      "35927945",
+      "30835493",
+      "42452277",
+      "41452514",
+      "29655033",
+      "40450609",
+      "34073848",
+      "33445555",
+      "40244221",
+      "42245112",
+      "35032250",
+      "39891757",
+      "35910203",
+      "40459840",
+      "41165418",
+      "41346247",
+      "42339381",
+      "36326904",
+      "36740587",
+      "39163906",
+      "30809237",
+      "40931807",
+      "33825100",
+      "37997999",
+      "31430902",
+      "36909403",
+      "37143874",
+      "42643124",
+      "34962611",
+      "32864285",
+      "37395789",
+      "34807378",
+      "37326044",
+      "40860342",
+      "41096720",
+      "38860212",
+      "33977326",
+      "39982542",
+      "35774509",
+      "32194972",
+      "36993865",
+      "33734711",
+      "35647578",
+      "40963829",
+      "37789479",
+      "40923633",
+      "42173386",
+      "38403466",
+      "39525414",
+      "38331711",
+      "34517092",
+      "42328080",
+      "35764748"
+    ],
+    "pmc": [
+      "13568163"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=plants15172715",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42739482/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

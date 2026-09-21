@@ -1,0 +1,601 @@
+{
+  "identity": {
+    "pmid": "42735679",
+    "doi": "10.1016/j.ccell.2026.07.014",
+    "title": "Pancreatic ductal adenocarcinoma: The Vision of Heracles."
+  },
+  "content": {
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains among the deadliest malignancies, as tumors evolve faster than therapies. Resistance is ecological, not merely KRAS driven, involving overlooked players like high-grade pancreatic intraepithelial neoplasias (PanINs), peripancreatic fat, stromal mechanics, myeloid-neural circuits, metabolic rewiring, and systemic host responses. We propose precision interception targeting PanIN/intraductal papillary mucinous neoplasm (IPMN) biology, spatial-functional-proteogenomic classification beyond transcriptomics, the Heracles Protocol (measure, prime, strike, and adapt), and integrated technologies from AI pathology to exosomal delivery and CRISPR-based synergy mapping, together making PDAC more tractable.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Carcinoma, Pancreatic Ductal/genetics/pathology/therapy/drug therapy",
+      "*Pancreatic Neoplasms/genetics/pathology/drug therapy/therapy",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mota Reyes, Carmen",
+        "Goetz, Mara R",
+        "Algul, Hana",
+        "Dogruoez, Alper",
+        "Falcomata, Chiara",
+        "Gaida, Matthias M",
+        "Gorgulu, Kivanc",
+        "Gultekin, Yetis",
+        "Gurcinar, Ibrahim Halil",
+        "Hasselluhn, Marie C",
+        "Istvanffy, Rouzanna",
+        "Kalluri, Raghu",
+        "Kalluri, Valerie S",
+        "Kiemen, Ashley",
+        "Kim, Pilhan",
+        "Lee, Sang-Won",
+        "Lesina, Marina",
+        "Yu, Peter",
+        "Maitra, Anirban",
+        "Muller, Clara M",
+        "Muller, Sebastian",
+        "Nam, Dowoon",
+        "Olive, Kenneth P",
+        "Pasca Di Magliano, Marina",
+        "Rad, Roland",
+        "Saur, Dieter",
+        "Vander Heiden, Matthew G",
+        "Vormehr, Mathias",
+        "Wood, Laura D",
+        "Yondem, Eyup",
+        "Zschapitz, David",
+        "Karakas, Didem",
+        "Friess, Helmut",
+        "Ceyhan, Guralp O",
+        "Demir, Ihsan Ekin"
+      ],
+      "short_names": [
+        "Mota Reyes C",
+        "Goetz MR",
+        "Algul H",
+        "Dogruoez A",
+        "Falcomata C",
+        "Gaida MM",
+        "Gorgulu K",
+        "Gultekin Y",
+        "Gurcinar IH",
+        "Hasselluhn MC",
+        "Istvanffy R",
+        "Kalluri R",
+        "Kalluri VS",
+        "Kiemen A",
+        "Kim P",
+        "Lee SW",
+        "Lesina M",
+        "Yu P",
+        "Maitra A",
+        "Muller CM",
+        "Muller S",
+        "Nam D",
+        "Olive KP",
+        "Pasca Di Magliano M",
+        "Rad R",
+        "Saur D",
+        "Vander Heiden MG",
+        "Vormehr M",
+        "Wood LD",
+        "Yondem E",
+        "Zschapitz D",
+        "Karakas D",
+        "Friess H",
+        "Ceyhan GO",
+        "Demir IE"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Bavarian Cancer Research Center (BZKF), Munich, Germany; Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany; German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany; Department of General, Visceral and Thoracic Surgery, University Center Hamburg-Eppendorf, University of Hamburg, Hamburg, Germany.",
+        "Comprehensive Cancer Center Munchen, Institute for Tumor Metabolism, Klinikum rechts der Isar, Technical University of Munich, School of Medicine and Health, Munich, Bavaria, Germany.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Icahn Genomics Institute & Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Institute of Pathology, University Medical Center, Johannes Gutenberg University Mainz, Mainz, Germany; Translational Oncology (TRON gGmbH), University Medical Center, Johannes Gutenberg University Mainz, Mainz, Germany; Research Center for Immunotherapy, University Medical Center, Johannes Gutenberg University Mainz, Mainz, Germany.",
+        "Comprehensive Cancer Center Munchen, Institute for Tumor Metabolism, Klinikum rechts der Isar, Technical University of Munich, School of Medicine and Health, Munich, Bavaria, Germany; Institute of Metabolism and Cell Death, Helmholtz Zentrum Munchen, Munich, Germany.",
+        "Koch Institute for Integrative Cancer Research and the Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Department of Medicine, Division of Digestive and Liver Diseases, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Department of Cancer Biology, University of Texas MD Anderson Cancer Center & partner institutions, Houston, TX, USA.",
+        "Department of Cancer Biology, Metastasis Research Center, UT MD Anderson Cancer Center, Houston, TX, USA; Division of Cancer Medicine, University of Texas MD Anderson Cancer Center, Houston, TX, USA.",
+        "Department of Pathology, Sol Goldman Pancreatic Research Center, Johns Hopkins University, Baltimore, MD, USA; Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD, USA; Convergence Institute, Johns Hopkins University, Baltimore, MD, USA.",
+        "Graduate School of Medical Science and Engineering, KAIST, Daejeon, Republic of Korea.",
+        "Department of Chemistry and National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea.",
+        "Comprehensive Cancer Center Munchen, Institute for Tumor Metabolism, Klinikum rechts der Isar, Technical University of Munich, School of Medicine and Health, Munich, Bavaria, Germany.",
+        "Department of Medicine, NYU Grossman School of Medicine, New York, NY, USA.",
+        "Department of Medicine, NYU Grossman School of Medicine, New York, NY, USA; Department of Pathology, NYU Grossman School of Medicine, New York, NY, USA.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Institute of Molecular Oncology and Functional Genomics, School of Medicine, Technical University Munich, Munich, Germany; Center for Translational Cancer Research (TranslaTUM), School of Medicine, Technical University Munich, Munich, Germany.",
+        "Department of Chemistry and National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea.",
+        "Department of Medicine, Division of Digestive and Liver Diseases, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA.",
+        "Department of Surgery, University of Michigan Medical School, Ann Arbor, MI, USA; Rogel Cancer Center, University of Michigan, Ann Arbor, MI, USA; Department of Cell and Developmental Biology, University of Michigan, Ann Arbor, MI, USA.",
+        "Institute of Molecular Oncology and Functional Genomics, School of Medicine, Technical University Munich, Munich, Germany; Center for Translational Cancer Research (TranslaTUM), School of Medicine, Technical University Munich, Munich, Germany; German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Center for Translational Cancer Research (TranslaTUM), School of Medicine, Technical University Munich, Munich, Germany; German Cancer Consortium (DKTK), Partner Site Munich; CRC 1321 \"Modelling and Targeting Pancreatic Cancer,\" Munich, Germany; Division of Translational Cancer Research, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), 69120 Heidelberg, Germany; Klinikum rechts der Isar, TUM School of Medicine and Health, Technical University of Munich, Germany.",
+        "Koch Institute for Integrative Cancer Research and the Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA; Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "BioNTech SE, Mainz, Germany.",
+        "Department of Pathology, Sol Goldman Pancreatic Research Center, Johns Hopkins University, Baltimore, MD, USA; Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD, USA; Convergence Institute, Johns Hopkins University, Baltimore, MD, USA.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Acibadem University, HPB Surgery Unit, Istanbul, Turkey.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Acibadem University, HPB Surgery Unit, Istanbul, Turkey.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany; Neural Influences in Cancer (NIC) International Research Consortium, Munich, Germany; Department of Surgery, Technical University of Munich, Munich, Germany; Acibadem University, HPB Surgery Unit, Istanbul, Turkey; Department of Molecular Medicine, University of Southern Denmark, Odense, Denmark. Electronic address: ekin.demir@tum.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mota Reyes, Carmen",
+        "short_name": "Mota Reyes C",
+        "identifiers": [],
+        "affiliations": [
+          "Bavarian Cancer Research Center (BZKF), Munich, Germany; Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany; German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Goetz, Mara R",
+        "short_name": "Goetz MR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany; Department of General, Visceral and Thoracic Surgery, University Center Hamburg-Eppendorf, University of Hamburg, Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Algül, Hana",
+        "short_name": "Algül H",
+        "identifiers": [],
+        "affiliations": [
+          "Comprehensive Cancer Center München, Institute for Tumor Metabolism, Klinikum rechts der Isar, Technical University of Munich, School of Medicine and Health, Munich, Bavaria, Germany."
+        ]
+      },
+      {
+        "full_name": "Dogruoez, Alper",
+        "short_name": "Dogruoez A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Falcomatà, Chiara",
+        "short_name": "Falcomatà C",
+        "identifiers": [],
+        "affiliations": [
+          "Icahn Genomics Institute & Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Gaida, Matthias M",
+        "short_name": "Gaida MM",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pathology, University Medical Center, Johannes Gutenberg University Mainz, Mainz, Germany; Translational Oncology (TRON gGmbH), University Medical Center, Johannes Gutenberg University Mainz, Mainz, Germany; Research Center for Immunotherapy, University Medical Center, Johannes Gutenberg University Mainz, Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Görgülü, Kıvanç",
+        "short_name": "Görgülü K",
+        "identifiers": [],
+        "affiliations": [
+          "Comprehensive Cancer Center München, Institute for Tumor Metabolism, Klinikum rechts der Isar, Technical University of Munich, School of Medicine and Health, Munich, Bavaria, Germany; Institute of Metabolism and Cell Death, Helmholtz Zentrum München, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Gültekin, Yetiş",
+        "short_name": "Gültekin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Koch Institute for Integrative Cancer Research and the Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gürcinar, Ibrahim Halil",
+        "short_name": "Gürcinar IH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Hasselluhn, Marie C",
+        "short_name": "Hasselluhn MC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Division of Digestive and Liver Diseases, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Istvanffy, Rouzanna",
+        "short_name": "Istvanffy R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Kalluri, Raghu",
+        "short_name": "Kalluri R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Biology, University of Texas MD Anderson Cancer Center & partner institutions, Houston, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Kalluri, Valerie S",
+        "short_name": "Kalluri VS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Biology, Metastasis Research Center, UT MD Anderson Cancer Center, Houston, TX, USA; Division of Cancer Medicine, University of Texas MD Anderson Cancer Center, Houston, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Kiemen, Ashley",
+        "short_name": "Kiemen A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Sol Goldman Pancreatic Research Center, Johns Hopkins University, Baltimore, MD, USA; Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD, USA; Convergence Institute, Johns Hopkins University, Baltimore, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Kim, Pilhan",
+        "short_name": "Kim P",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Medical Science and Engineering, KAIST, Daejeon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Sang-Won",
+        "short_name": "Lee SW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lesina, Marina",
+        "short_name": "Lesina M",
+        "identifiers": [],
+        "affiliations": [
+          "Comprehensive Cancer Center München, Institute for Tumor Metabolism, Klinikum rechts der Isar, Technical University of Munich, School of Medicine and Health, Munich, Bavaria, Germany."
+        ]
+      },
+      {
+        "full_name": "Yu, Peter",
+        "short_name": "Yu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, NYU Grossman School of Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Maitra, Anirban",
+        "short_name": "Maitra A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, NYU Grossman School of Medicine, New York, NY, USA; Department of Pathology, NYU Grossman School of Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Müller, Clara M",
+        "short_name": "Müller CM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Müller, Sebastian",
+        "short_name": "Müller S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Oncology and Functional Genomics, School of Medicine, Technical University Munich, Munich, Germany; Center for Translational Cancer Research (TranslaTUM), School of Medicine, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Nam, Dowoon",
+        "short_name": "Nam D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Olive, Kenneth P",
+        "short_name": "Olive KP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Division of Digestive and Liver Diseases, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Pasca Di Magliano, Marina",
+        "short_name": "Pasca Di Magliano M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, University of Michigan Medical School, Ann Arbor, MI, USA; Rogel Cancer Center, University of Michigan, Ann Arbor, MI, USA; Department of Cell and Developmental Biology, University of Michigan, Ann Arbor, MI, USA."
+        ]
+      },
+      {
+        "full_name": "Rad, Roland",
+        "short_name": "Rad R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Oncology and Functional Genomics, School of Medicine, Technical University Munich, Munich, Germany; Center for Translational Cancer Research (TranslaTUM), School of Medicine, Technical University Munich, Munich, Germany; German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Saur, Dieter",
+        "short_name": "Saur D",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Translational Cancer Research (TranslaTUM), School of Medicine, Technical University Munich, Munich, Germany; German Cancer Consortium (DKTK), Partner Site Munich; CRC 1321 \"Modelling and Targeting Pancreatic Cancer,\" Munich, Germany; Division of Translational Cancer Research, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), 69120 Heidelberg, Germany; Klinikum rechts der Isar, TUM School of Medicine and Health, Technical University of Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Vander Heiden, Matthew G",
+        "short_name": "Vander Heiden MG",
+        "identifiers": [],
+        "affiliations": [
+          "Koch Institute for Integrative Cancer Research and the Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA; Dana-Farber Cancer Institute, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Vormehr, Mathias",
+        "short_name": "Vormehr M",
+        "identifiers": [],
+        "affiliations": [
+          "BioNTech SE, Mainz, Germany."
+        ]
+      },
+      {
+        "full_name": "Wood, Laura D",
+        "short_name": "Wood LD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Sol Goldman Pancreatic Research Center, Johns Hopkins University, Baltimore, MD, USA; Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD, USA; Convergence Institute, Johns Hopkins University, Baltimore, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Yöndem, Eyüp",
+        "short_name": "Yöndem E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Zschäpitz, David",
+        "short_name": "Zschäpitz D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Karakas, Didem",
+        "short_name": "Karakas D",
+        "identifiers": [],
+        "affiliations": [
+          "Acibadem University, HPB Surgery Unit, Istanbul, Turkey."
+        ]
+      },
+      {
+        "full_name": "Friess, Helmut",
+        "short_name": "Friess H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Ceyhan, Güralp O",
+        "short_name": "Ceyhan GO",
+        "identifiers": [],
+        "affiliations": [
+          "Acibadem University, HPB Surgery Unit, Istanbul, Turkey."
+        ]
+      },
+      {
+        "full_name": "",
+        "short_name": "",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Demir, Ihsan Ekin",
+        "short_name": "Demir IE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, TUM University Hospital, Rechts der Isar, Technical University Munich, Munich, Germany; Neural Influences in Cancer (NIC) International Research Consortium, Munich, Germany; Department of Surgery, Technical University of Munich, Munich, Germany; Acibadem University, HPB Surgery Unit, Istanbul, Turkey; Department of Molecular Medicine, University of Southern Denmark, Odense, Denmark. Electronic address: ekin.demir@tum.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer cell"
+    ],
+    "journal_abbrev": [
+      "Cancer Cell"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:06",
+    "fetched_at": "2026-09-21 15:58:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42735679",
+      "23475261",
+      "28539816",
+      "39684873",
+      "40268349",
+      "30269131",
+      "21056895",
+      "39086101",
+      "29273451",
+      "42449956",
+      "29248441",
+      "41724060",
+      "40127814",
+      "42550393",
+      "25900667",
+      "41638478",
+      "23887057",
+      "41455615",
+      "40662372",
+      "24308063",
+      "17323019",
+      "27523981",
+      "40317966",
+      "25796395",
+      "15191688",
+      "41182487",
+      "16183479",
+      "19077454",
+      "41818359",
+      "39111635",
+      "39660530",
+      "26587698",
+      "23465281",
+      "38474199",
+      "28369074",
+      "40184234",
+      "32468246",
+      "42730833",
+      "27318148",
+      "23532108",
+      "40840404",
+      "31352001",
+      "22723370",
+      "35606470",
+      "39733817",
+      "38319513",
+      "33524436",
+      "23146920",
+      "40012027",
+      "32571902",
+      "39969959",
+      "21777948",
+      "18820670",
+      "24561622",
+      "23958541",
+      "15085289",
+      "35730473",
+      "41886796",
+      "39243602",
+      "14505145",
+      "29363536",
+      "26408346",
+      "36522260",
+      "20485640",
+      "29604291",
+      "15832194",
+      "15879625",
+      "21412023",
+      "31473224",
+      "30539678",
+      "31046123",
+      "19384908",
+      "41904584",
+      "41758444",
+      "21499212",
+      "11385247",
+      "39329457",
+      "41763448",
+      "39684385",
+      "22056954",
+      "25840541",
+      "34201897",
+      "41924551",
+      "35915375",
+      "14657708",
+      "41531168",
+      "17198188",
+      "28776573",
+      "30315093",
+      "19218165",
+      "35287096",
+      "39839479",
+      "24607504",
+      "12000709",
+      "27017163",
+      "40450826",
+      "24743378",
+      "26646266",
+      "39277181",
+      "42506374"
+    ],
+    "review": [
+      "42735679",
+      "30269131",
+      "42449956",
+      "40127814",
+      "42550393",
+      "25900667",
+      "40662372",
+      "17323019",
+      "15191688",
+      "16183479",
+      "19077454",
+      "42730833",
+      "39733817",
+      "40012027",
+      "35730473",
+      "41886796",
+      "39243602",
+      "30539678",
+      "41904584",
+      "41758444",
+      "11385247",
+      "41763448",
+      "39684385",
+      "34201897",
+      "41924551",
+      "19218165",
+      "39839479",
+      "40450826"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/pancreaticcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Pancreatic Cancer"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1550",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

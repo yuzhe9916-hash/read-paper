@@ -1,0 +1,222 @@
+{
+  "identity": {
+    "pmid": "42747956",
+    "doi": "10.1016/j.xpro.2026.104837",
+    "title": "Protocol for robust gene knockout and reliable validation in human cell lines using quad-guide RNA vectors."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 is a powerful tool for editing genomic loci, however achieving high knockout efficiency at certain targets remains challenging. Here, we present a protocol for gene knockout using an all-in-one, quad-guide RNA-expressing vector. We describe steps for plasmid construction, virus preparation, transduction, and subsequent gene editing and functional validation within DLD-1 colorectal adenocarcinoma cells. This strategy provides an efficient workflow for gene knockout that is rapidly confirmed through PCR amplification of mRNA derived from the targeted gene loci.",
+    "keywords": [
+      "Biotechnology and bioengineering",
+      "CRISPR",
+      "Genetics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tobin, Michael",
+        "Dai, Jie",
+        "Chan, Li-Chuan",
+        "Guo, Weiwei"
+      ],
+      "short_names": [
+        "Tobin M",
+        "Dai J",
+        "Chan LC",
+        "Guo W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA.",
+        "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA.",
+        "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA. Electronic address: li-chuan.chan@boehringer-ingelheim.com.",
+        "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA. Electronic address: weiwei_2.guo@boehringer-ingelheim.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tobin, Michael",
+        "short_name": "Tobin M",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA."
+        ]
+      },
+      {
+        "full_name": "Dai, Jie",
+        "short_name": "Dai J",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA."
+        ]
+      },
+      {
+        "full_name": "Chan, Li-Chuan",
+        "short_name": "Chan LC",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA. Electronic address: li-chuan.chan@boehringer-ingelheim.com."
+        ]
+      },
+      {
+        "full_name": "Guo, Weiwei",
+        "short_name": "Guo W",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Department, Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA. Electronic address: weiwei_2.guo@boehringer-ingelheim.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 17:36",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42747956",
+      "34748280",
+      "42638068",
+      "31413125",
+      "41307817",
+      "35950852",
+      "41586841",
+      "40655415",
+      "33070670",
+      "30535704",
+      "35284843",
+      "38972040",
+      "30043367",
+      "29540148",
+      "30912049",
+      "41627753",
+      "38886809",
+      "29176845",
+      "35766512",
+      "42296184",
+      "37222511",
+      "31875277",
+      "37755326",
+      "42470562",
+      "37481731",
+      "31348845",
+      "42214710",
+      "36598849",
+      "27172204",
+      "42479489",
+      "27832534",
+      "39994413",
+      "38468277",
+      "30317165",
+      "28851809",
+      "39937081",
+      "41057262",
+      "32053639",
+      "36135557",
+      "25997509",
+      "33960379",
+      "31523744",
+      "25864574",
+      "27606350",
+      "35197604",
+      "29221488",
+      "38407798",
+      "29019352",
+      "40095971",
+      "36401042",
+      "42310064",
+      "31763795",
+      "30139026",
+      "39729269",
+      "40328723",
+      "27531614",
+      "40019805",
+      "39494910",
+      "31607332",
+      "30912042",
+      "41553913",
+      "40995763",
+      "26305040",
+      "29617297",
+      "40045211",
+      "29036671",
+      "32150344",
+      "42106044",
+      "41653634",
+      "36546759",
+      "27713537",
+      "38974867",
+      "40028019",
+      "33484202",
+      "33482173",
+      "25260929",
+      "40139718",
+      "33704703",
+      "38795356",
+      "29855514",
+      "42688902",
+      "38936509",
+      "37421616",
+      "29434956",
+      "36640150",
+      "37985205",
+      "29332168",
+      "27856772",
+      "28800587",
+      "40186294",
+      "27203437",
+      "36630019",
+      "33335945",
+      "42427441",
+      "39555789",
+      "34236684",
+      "31016787",
+      "33554142",
+      "35355475",
+      "39535522"
+    ],
+    "review": [
+      "42747956",
+      "39994413"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00490-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3704",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

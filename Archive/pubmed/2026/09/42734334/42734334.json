@@ -1,0 +1,336 @@
+{
+  "identity": {
+    "pmid": "42734334",
+    "doi": "10.1128/mbio.01789-26",
+    "title": "Monitoring kinetic changes and restriction of influenza A virus RNA species during infection using a Flu-Stranded CRISPR platform."
+  },
+  "content": {
+    "abstract": "Influenza A virus (IAV) generates three closely related RNA species: viral RNA (vRNA), complementary RNA (cRNA), and messenger RNA (mRNA), whose strand-specific quantification remains limited by sensitivity and quantitative dynamic range, particularly at low RNA abundance. Here, we developed Flu-Stranded CRISPR-Cas12a, a strand-specific detection platform integrating tagged reverse transcription, segment-specific PCR, and Cas12a collateral cleavage to support quantitative analysis of all three RNA species across a broad dynamic range. The assay enables reliable detection down to 10(2) copies per reaction, extending the lower quantitative boundary relative to both SYBR Green and TaqMan reverse transcription quantitative PCR (RT-qPCR) under matched conditions. Validated in infected cell lines, murine lung tissues, and clinical nasopharyngeal specimens, the platform enabled subtype-discriminating, strand-resolved detection, including samples near or below the quantitative range of SYBR Green RT-qPCR. Using finely resolved infection time-course analyses in NP and NA segments, we identified a reproducible early vRNA decline within the early post-infection phase. This decline was partially attenuated in RIG-I knockout A549 cells, while subsequent vRNA accumulation was enhanced, consistent with a modulatory rather than essential role for RIG-I in early viral RNA dynamics. Subcellular fractionation localized this decline to cytoplasmic incoming genomes. In contrast, importazole-mediated inhibition of nuclear import abolished vRNA recovery without affecting the early decline, indicating that nuclear entry functionally separates early genome reduction from subsequent productive replication. These findings establish Flu-Stranded CRISPR-Cas12a as a strand-resolved framework for monitoring IAV RNA dynamics and reveal an early window of genome vulnerability during cytoplasmic transit that shapes infection outcome. IMPORTANCE: The early fate of incoming influenza virus genomes remains unclear, limiting our understanding of how infection is established or aborted in host cells. We developed Flu-Stranded CRISPR-Cas12a, a strand-specific platform for sensitive and quantitative analysis of influenza viral RNA (vRNA), complementary RNA (cRNA), and messenger RNA (mRNA) across experimental and clinical samples. Using high-resolution time-course analysis, we identified a reproducible early decline in vRNA during the post-entry phase. Our data suggest that this early genome loss arises from multiple processes, with RIG-I acting as a modulatory factor rather than a primary driver. Subcellular fractionation localized this effect to cytoplasmic incoming genomes, whereas importin-beta-mediated nuclear entry was required for subsequent vRNA recovery. These findings support a model of an early cytoplasmic phase of genome attrition that is distinct from replication and provide a framework for understanding early influenza RNA kinetics and for guiding strand-resolved diagnostics and antiviral evaluation.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "RIG-I",
+      "clinical diagnostics",
+      "early infection",
+      "influenza A virus",
+      "nuclear import",
+      "strand-specific RNA detection",
+      "viral RNA kinetics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tran, Anh-Tu",
+        "Tang, Wen-Fang",
+        "Hsieh, Chung-Fan",
+        "Chiu, Ya-Fang",
+        "Huang, Chung-Guei",
+        "Lee, Kuo-Ming",
+        "Kuo, Rei-Lin",
+        "Hsiung, Kuei-Ching",
+        "Chiu, Cheng-Hsun",
+        "Horng, Jim-Tong"
+      ],
+      "short_names": [
+        "Tran A-T",
+        "Tang W-F",
+        "Hsieh C-F",
+        "Chiu Y-F",
+        "Huang C-G",
+        "Lee K-M",
+        "Kuo R-L",
+        "Hsiung K-C",
+        "Chiu C-H",
+        "Horng J-T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8488-4058",
+        "ORCID: 0000-0002-3215-8342",
+        "ORCID: 0000-0003-4324-7743",
+        "ORCID: 0000-0001-6294-9981"
+      ],
+      "affiliations": [
+        "Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 210836. ROR: https://ror.org/05t77d857",
+        "Department of Biochemistry and Molecular Biology, College of Medicine, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 71589. ROR: https://ror.org/00d80zx46",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "Department of Biochemistry and Molecular Biology, College of Medicine, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 71589. ROR: https://ror.org/00d80zx46",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital at Linkou, Taoyuan, Taiwan. ROR: https://ror.org/02dnn6q67",
+        "Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 210836. ROR: https://ror.org/05t77d857",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "Division of Infectious Diseases, Department of Medicine, Chang Gung Memorial Hospital, New Taipei, Taiwan. ROR: https://ror.org/02dnn6q67",
+        "Department of Microbiology and Immunology, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 56081. ROR: https://ror.org/00d80zx46",
+        "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan. RINGGOLD: 548158. ROR: https://ror.org/02dnn6q67",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "International Master Degree Program for Molecular Medicine in Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 56081. ROR: https://ror.org/00d80zx46",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "International Master Degree Program for Molecular Medicine in Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 56081. ROR: https://ror.org/00d80zx46",
+        "Department of Medical Biotechnology and Laboratory Science, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 56081. ROR: https://ror.org/00d80zx46",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital at Linkou, Taoyuan, Taiwan. ROR: https://ror.org/02dnn6q67",
+        "Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 210836. ROR: https://ror.org/05t77d857",
+        "Department of Biochemistry and Molecular Biology, College of Medicine, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 71589. ROR: https://ror.org/00d80zx46",
+        "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan. RINGGOLD: 847150. ROR: https://ror.org/00d80zx46",
+        "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital at Linkou, Taoyuan, Taiwan. ROR: https://ror.org/02dnn6q67",
+        "Research Center for Chinese Herbal Medicine, College of Human Ecology, Chang Gung University of Science and Technology, Taoyuan City, Taiwan. RINGGOLD: 684826. ROR: https://ror.org/009knm296"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tran, Anh-Tu",
+        "short_name": "Tran A-T",
+        "identifiers": [
+          "0000-0001-8488-4058"
+        ],
+        "affiliations": [
+          "Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, Taiwan.",
+          "Department of Biochemistry and Molecular Biology, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Tang, Wen-Fang",
+        "short_name": "Tang W-F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hsieh, Chung-Fan",
+        "short_name": "Hsieh C-F",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan.",
+          "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital at Linkou, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chiu, Ya-Fang",
+        "short_name": "Chiu Y-F",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, Taiwan.",
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan.",
+          "Division of Infectious Diseases, Department of Medicine, Chang Gung Memorial Hospital, New Taipei, Taiwan.",
+          "Department of Microbiology and Immunology, Chang Gung University, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Huang, Chung-Guei",
+        "short_name": "Huang C-G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lee, Kuo-Ming",
+        "short_name": "Lee K-M",
+        "identifiers": [
+          "0000-0002-3215-8342"
+        ],
+        "affiliations": [
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan.",
+          "International Master Degree Program for Molecular Medicine in Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Kuo, Rei-Lin",
+        "short_name": "Kuo R-L",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan.",
+          "International Master Degree Program for Molecular Medicine in Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan.",
+          "Department of Medical Biotechnology and Laboratory Science, Chang Gung University, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hsiung, Kuei-Ching",
+        "short_name": "Hsiung K-C",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chiu, Cheng-Hsun",
+        "short_name": "Chiu C-H",
+        "identifiers": [
+          "0000-0003-4324-7743"
+        ],
+        "affiliations": [
+          "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital at Linkou, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Horng, Jim-Tong",
+        "short_name": "Horng J-T",
+        "identifiers": [
+          "0000-0001-6294-9981"
+        ],
+        "affiliations": [
+          "Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, Taiwan.",
+          "Department of Biochemistry and Molecular Biology, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+          "Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan, Taiwan.",
+          "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital at Linkou, Taoyuan, Taiwan.",
+          "Research Center for Chinese Herbal Medicine, College of Human Ecology, Chang Gung University of Science and Technology, Taoyuan City, Taiwan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mBio"
+    ],
+    "journal_abbrev": [
+      "mBio"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-21 15:58:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734334",
+      "21185869",
+      "33658346",
+      "30731189",
+      "42475469",
+      "40733623",
+      "40762499",
+      "32245834",
+      "30602605",
+      "40277382",
+      "37166301",
+      "32148224",
+      "34935435",
+      "34190596",
+      "36796598",
+      "41415435",
+      "32295915",
+      "11252672",
+      "28724771",
+      "22982076",
+      "833937",
+      "29643234",
+      "20433869",
+      "19264657",
+      "35654259",
+      "34448455",
+      "25168591",
+      "29513570",
+      "36645303",
+      "39887213",
+      "16934156",
+      "24942585",
+      "35467364",
+      "30305352",
+      "33317417",
+      "32762666",
+      "37957729",
+      "28250118",
+      "28978704",
+      "22484663",
+      "22593159",
+      "35240312",
+      "36823664",
+      "35044211",
+      "33087462",
+      "28115197",
+      "34311580",
+      "24899174",
+      "38655256",
+      "29976658",
+      "38629840",
+      "40599263",
+      "26423941",
+      "39878213",
+      "40488282",
+      "40919898",
+      "41406559",
+      "23403209",
+      "22114566",
+      "39522826",
+      "39419543",
+      "21899695",
+      "25031340",
+      "36321557",
+      "31694949",
+      "40910953",
+      "41582136",
+      "30258002",
+      "16927127",
+      "26862753",
+      "12367737",
+      "31937643",
+      "40434105",
+      "32321802",
+      "9658066",
+      "18701591",
+      "26608315",
+      "41247244",
+      "24478437",
+      "35923314",
+      "25379553",
+      "23152507",
+      "20534471",
+      "37961440",
+      "40347696",
+      "33568513",
+      "1202245",
+      "33103132",
+      "35916513",
+      "29651275",
+      "41036852",
+      "3806797",
+      "14520871",
+      "26378160",
+      "28768860",
+      "39605425",
+      "28911100",
+      "35593869",
+      "22626565",
+      "40964347"
+    ],
+    "review": [
+      "42734334",
+      "11252672",
+      "28115197",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/mbio.01789-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-570",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

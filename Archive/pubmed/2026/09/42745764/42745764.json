@@ -1,0 +1,315 @@
+{
+  "identity": {
+    "pmid": "42745764",
+    "doi": "10.64898/2026.08.04.742562",
+    "title": "Loss of riboflavin biosynthesis leads to accumulation of select aromatic amino acids and loss of infectivity in Mycobacterium tuberculosis."
+  },
+  "content": {
+    "abstract": "Riboflavin biosynthesis is required for in vitro survival of the human pathogen Mycobacterium tuberculosis ( Mtb ). However, despite the lack of a known transporter, growth can be rescued by exogenous riboflavin. The riboflavin biosynthesis pathway is also predicted essential in vivo , but whether riboflavin levels available in the host can support survival has not been directly tested. Here we constructed a set of inducible CRISPR interference (CRISPRi) knockdown and targeted gene deletion strains for known riboflavin biosynthesis genes ( ribA2, ribG, ribH, ribC ) as tools to characterize riboflavin requirements, uptake, and metabolite changes and to assess in vivo essentiality. We found that riboflavin, but not flavin adenine dinucleotide or flavin mononucleotide, rescued auxotrophy for all strains tested. Further, riboflavin uptake did not show strong evidence of being dependent on active or facilitated transport, supporting the mechanism of passive diffusion. Targeted metabolite profiling after removal of riboflavin from growth medium confirmed reduced riboflavin levels. While other riboflavin intermediates were not detected, significant accumulation of aromatic amino acids (Phe, Tyr) was observed across all assayed strains, as well as alteration in a vitamin B9 metabolite. Selecting the ribC knockout as a representative strain, we found that riboflavin depletion had a bacteriostatic effect as late as 3 weeks after removal. Unexpectedly, Delta ribC lacked infectivity in an aerosol mouse infection, suggesting that the potential to scavenge riboflavin from the host is not sufficient to survive in vivo . Overall, our results show that altered metabolism upon loss of riboflavin biosynthesis leads to compromised Mtb infectivity. IMPORTANCE: Tuberculosis remains one of the world's most deadly infectious diseases, underscoring the need to explore new drug targets. Riboflavin (vitamin B2) biosynthesis has emerged as a promising target because Mycobacterium tuberculosis ( Mtb ) depends on this pathway for survival. The riboflavin pathway also produces metabolites that modulate host mucosal-associated invariant T (MAIT) cell activity, towards understanding potential strategies for host-directed therapies. Here we found that disrupting riboflavin biosynthesis led to not only compromised survival, but also widespread changes to metabolism and loss of the ability to establish infection in an animal model. These findings improve our understanding of how Mtb adapts to metabolic stress, with implications for developing drugs that target riboflavin biosynthesis and for alterations in host immunity to be explored in future studies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jaisinghani, Neetika",
+        "Arasappan, Arshia",
+        "Pradhan, Atul",
+        "Kaur, Rimanpreet",
+        "Li, Kelin",
+        "Aube, Jeffrey",
+        "Cross, Justin R",
+        "Jesus Faustino Ramos, Ruben J",
+        "Hartman, Travis",
+        "Previti, Mary L",
+        "Vorkas, Charles K",
+        "Seeliger, Jessica C"
+      ],
+      "short_names": [
+        "Jaisinghani N",
+        "Arasappan A",
+        "Pradhan A",
+        "Kaur R",
+        "Li K",
+        "Aube J",
+        "Cross JR",
+        "Jesus Faustino Ramos RJ",
+        "Hartman T",
+        "Previti ML",
+        "Vorkas CK",
+        "Seeliger JC"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5469-594X",
+        "ORCID: 0000-0001-6085-791X",
+        "ORCID: 0009-0003-5120-349X",
+        "ORCID: 0000-0002-8630-2928",
+        "ORCID: 0000-0003-1049-5767",
+        "ORCID: 0000-0002-6356-057X",
+        "ORCID: 0000-0002-3350-0437",
+        "ORCID: 0009-0009-7462-7387",
+        "ORCID: 0009-0003-0694-1207",
+        "ORCID: 0000-0003-4952-7041",
+        "ORCID: 0000-0001-7148-1073"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Jaisinghani, Neetika",
+        "short_name": "Jaisinghani N",
+        "identifiers": [
+          "0000-0002-5469-594X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Arasappan, Arshia",
+        "short_name": "Arasappan A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pradhan, Atul",
+        "short_name": "Pradhan A",
+        "identifiers": [
+          "0000-0001-6085-791X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kaur, Rimanpreet",
+        "short_name": "Kaur R",
+        "identifiers": [
+          "0009-0003-5120-349X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Kelin",
+        "short_name": "Li K",
+        "identifiers": [
+          "0000-0002-8630-2928"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Aubé, Jeffrey",
+        "short_name": "Aubé J",
+        "identifiers": [
+          "0000-0003-1049-5767"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cross, Justin R",
+        "short_name": "Cross JR",
+        "identifiers": [
+          "0000-0002-6356-057X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jesus Faustino Ramos, Ruben J",
+        "short_name": "Jesus Faustino Ramos RJ",
+        "identifiers": [
+          "0000-0002-3350-0437"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hartman, Travis",
+        "short_name": "Hartman T",
+        "identifiers": [
+          "0009-0009-7462-7387"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Previti, Mary L",
+        "short_name": "Previti ML",
+        "identifiers": [
+          "0009-0003-0694-1207"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Vorkas, Charles K",
+        "short_name": "Vorkas CK",
+        "identifiers": [
+          "0000-0003-4952-7041"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Seeliger, Jessica C",
+        "short_name": "Seeliger JC",
+        "identifiers": [
+          "0000-0001-7148-1073"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Aug 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42745764",
+      "38916330",
+      "37693561",
+      "40591719",
+      "42003616",
+      "35164552",
+      "9473052",
+      "37090677",
+      "42475469",
+      "41207939",
+      "36321557",
+      "30212088",
+      "17240921",
+      "39404356",
+      "24795723",
+      "41207940",
+      "31621379",
+      "24245755",
+      "33077636",
+      "41595436",
+      "30853958",
+      "24549842",
+      "39150724",
+      "16245793",
+      "10488170",
+      "34904892",
+      "37350592",
+      "33042083",
+      "41870089",
+      "36475748",
+      "31072689",
+      "42004594",
+      "33468593",
+      "38806590",
+      "25027702",
+      "34311585",
+      "26221021",
+      "41659414",
+      "42400496",
+      "26510950",
+      "42690184",
+      "37195232",
+      "34937164",
+      "38918706",
+      "18156273",
+      "42552792",
+      "28239422",
+      "33500344",
+      "38639995",
+      "33879592",
+      "38179948",
+      "30143580",
+      "40472191",
+      "37851522",
+      "42007726",
+      "41763182",
+      "37350613",
+      "39949767",
+      "37009497",
+      "29157227",
+      "41474325",
+      "22081402",
+      "42381233",
+      "29356555",
+      "38916320",
+      "33751426",
+      "42638633",
+      "40787981",
+      "41618135",
+      "39063103",
+      "34033342",
+      "41400401",
+      "41738749",
+      "31113891",
+      "14672050",
+      "40982672",
+      "42239409",
+      "41624833",
+      "26063000",
+      "17965203",
+      "42133578",
+      "24405035",
+      "21092312",
+      "32057291",
+      "41278802",
+      "41224155",
+      "42695500",
+      "39873486",
+      "38558993",
+      "40637416",
+      "32914199",
+      "32038652",
+      "42729219",
+      "40586596",
+      "32811991",
+      "27143301",
+      "37439558",
+      "31872748",
+      "30123778",
+      "30814998"
+    ],
+    "review": [
+      "42745764",
+      "41207939",
+      "36321557",
+      "17240921",
+      "24795723",
+      "41207940",
+      "31621379",
+      "39150724",
+      "26510950",
+      "41624833"
+    ],
+    "pmc": [
+      "13573722"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42745764/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.08.04.742562",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

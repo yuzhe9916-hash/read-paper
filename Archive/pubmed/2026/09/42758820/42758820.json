@@ -1,0 +1,449 @@
+{
+  "identity": {
+    "pmid": "42758820",
+    "doi": "10.1126/sciadv.aec0722",
+    "title": "A high-density CRISPR activation platform for mapping cancer dependencies and resistance pathways ex vivo and in vivo."
+  },
+  "content": {
+    "abstract": "CRISPR activation (CRISPRa) enables precise up-regulation of gene expression for ex vivo and in vivo applications. However, a lack of scalable, high-coverage tools has limited comprehensive genetic screening in murine models. Here, we introduce Partita, a next-generation mouse whole-genome CRISPRa sgRNA platform, designed for unparalleled efficiency in gene activation studies. Partita uses a high-density targeting strategy, deploying 10 sgRNAs per transcriptional start site, structured into five gene class-specific sublibraries to maximize transcriptional induction. To demonstrate the capabilities of Partita, we performed a series of large-scale screens: an in vitro enrichment/depletion screen, whole-genome CRISPRa screens in a double-hit lymphoma model to uncover resistance factors to proapoptotic drugs (venetoclax, nutlin-3a, and etoposide) and an in vivo screen to identify accelerators of MYC-driven lymphomagenesis. Each experiment revealed both expected and unexpected regulators, with high validation rates. By enabling robust gain-of-function screening, Partita unlocks new avenues for functional genomics and expands the toolkit for discovering key drivers of biological processes across diverse research fields.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "*Drug Resistance, Neoplasm/genetics",
+      "*CRISPR-Cas Systems",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats",
+      "Gene Expression Regulation, Neoplastic",
+      "Humans",
+      "Lymphoma/genetics/drug therapy",
+      "Proto-Oncogene Proteins c-myc/genetics",
+      "RNA, Guide, CRISPR-Cas Systems/genetics",
+      "*Neoplasms/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Diepstraten, Sarah T",
+        "Deng, Yexuan",
+        "Potts, Margaret A",
+        "Heidersbach, Amy",
+        "Konig, Christina",
+        "Dorighi, Kristel M",
+        "Tai, Lin",
+        "Kueh, Andrew J",
+        "Whelan, Lauren",
+        "Chang, Catherine",
+        "Brown, Felix",
+        "Kelly, Gemma L",
+        "Fortin, Jean-Philippe",
+        "Haley, Benjamin",
+        "La Marca, John E",
+        "Herold, Marco J"
+      ],
+      "short_names": [
+        "Diepstraten ST",
+        "Deng Y",
+        "Potts MA",
+        "Heidersbach A",
+        "Konig C",
+        "Dorighi KM",
+        "Tai L",
+        "Kueh AJ",
+        "Whelan L",
+        "Chang C",
+        "Brown F",
+        "Kelly GL",
+        "Fortin JP",
+        "Haley B",
+        "La Marca JE",
+        "Herold MJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1946-5161",
+        "ORCID: 0000-0001-9796-9683",
+        "ORCID: 0000-0002-6982-9701",
+        "ORCID: 0009-0002-7695-572X",
+        "ORCID: 0000-0002-3881-8938",
+        "ORCID: 0009-0002-9679-6615",
+        "ORCID: 0009-0004-8697-7230",
+        "ORCID: 0000-0002-0074-0020",
+        "ORCID: 0000-0001-6442-9947",
+        "ORCID: 0000-0001-7539-7581"
+      ],
+      "affiliations": [
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "The State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing, China.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "Department of Molecular Biology, Genentech Inc., South San Francisco, CA, USA.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "Department of Molecular Biology, Genentech Inc., South San Francisco, CA, USA.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "Computational Sciences, Genentech Inc., South San Francisco, CA, USA.",
+        "Department of Molecular Biology, Genentech Inc., South San Francisco, CA, USA.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+        "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Diepstraten, Sarah T",
+        "short_name": "Diepstraten ST",
+        "identifiers": [
+          "0000-0002-1946-5161"
+        ],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Deng, Yexuan",
+        "short_name": "Deng Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+          "The State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Potts, Margaret A",
+        "short_name": "Potts MA",
+        "identifiers": [
+          "0000-0001-9796-9683"
+        ],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Heidersbach, Amy",
+        "short_name": "Heidersbach A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Genentech Inc., South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "König, Christina",
+        "short_name": "König C",
+        "identifiers": [
+          "0000-0002-6982-9701"
+        ],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Dorighi, Kristel M",
+        "short_name": "Dorighi KM",
+        "identifiers": [
+          "0009-0002-7695-572X"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology, Genentech Inc., South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Tai, Lin",
+        "short_name": "Tai L",
+        "identifiers": [
+          "0000-0002-3881-8938"
+        ],
+        "affiliations": [
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Kueh, Andrew J",
+        "short_name": "Kueh AJ",
+        "identifiers": [],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Whelan, Lauren",
+        "short_name": "Whelan L",
+        "identifiers": [],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Chang, Catherine",
+        "short_name": "Chang C",
+        "identifiers": [
+          "0009-0002-9679-6615"
+        ],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Brown, Felix",
+        "short_name": "Brown F",
+        "identifiers": [
+          "0009-0004-8697-7230"
+        ],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Kelly, Gemma L",
+        "short_name": "Kelly GL",
+        "identifiers": [],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Fortin, Jean-Philippe",
+        "short_name": "Fortin JP",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Genentech Inc., South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Haley, Benjamin",
+        "short_name": "Haley B",
+        "identifiers": [
+          "0000-0002-0074-0020"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology, Genentech Inc., South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "La Marca, John E",
+        "short_name": "La Marca JE",
+        "identifiers": [
+          "0000-0001-6442-9947"
+        ],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Herold, Marco J",
+        "short_name": "Herold MJ",
+        "identifiers": [
+          "0000-0001-7539-7581"
+        ],
+        "affiliations": [
+          "The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne, Australia.",
+          "Department of Medical Biology, University of Melbourne, Parkville, Melbourne, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 17:36",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42758820",
+      "29091290",
+      "35961968",
+      "42225068",
+      "27956228",
+      "38886809",
+      "27260157",
+      "39761726",
+      "40841511",
+      "38493051",
+      "42185540",
+      "41805294",
+      "40966091",
+      "39424727",
+      "40674704",
+      "30779043",
+      "27661255",
+      "41715004",
+      "33253175",
+      "41005541",
+      "31451697",
+      "41649152",
+      "29709259",
+      "40176181",
+      "40401794",
+      "37749268",
+      "40659672",
+      "32657546",
+      "42559426",
+      "25494202",
+      "24535568",
+      "34916221",
+      "35666804",
+      "33835761",
+      "36587138",
+      "40875132",
+      "41763219",
+      "30588718",
+      "40728527",
+      "29959923",
+      "28985510",
+      "40261966",
+      "31601489",
+      "27261176",
+      "28177825",
+      "40745001",
+      "42028950",
+      "42528148",
+      "25398342",
+      "27829120",
+      "29353886",
+      "24336569",
+      "41247804",
+      "29473500",
+      "34480847",
+      "30683138",
+      "33823546",
+      "30890156",
+      "32470463",
+      "26322839",
+      "37904134",
+      "29031730",
+      "38841800",
+      "29327641",
+      "34321217",
+      "40829801",
+      "35700449",
+      "41977403",
+      "28890334",
+      "38864609",
+      "30640520",
+      "28030843",
+      "33969526",
+      "42092764",
+      "37078570",
+      "27789686",
+      "27708104",
+      "33753930",
+      "29150005",
+      "38265239",
+      "33956155",
+      "40842235",
+      "31763777",
+      "39227830",
+      "33757429",
+      "33712601",
+      "34160808",
+      "41999750",
+      "31730408",
+      "38243310",
+      "41507205",
+      "27032928",
+      "38598861",
+      "31147612",
+      "39119666",
+      "40499551",
+      "33609360",
+      "36231007",
+      "40442371",
+      "28499832"
+    ],
+    "review": [
+      "42758820",
+      "38493051",
+      "29709259",
+      "40401794",
+      "33835761",
+      "40875132",
+      "29959923",
+      "28985510",
+      "40745001",
+      "42528148",
+      "29473500",
+      "38598861",
+      "31147612",
+      "39119666",
+      "36231007",
+      "28499832"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aec0722?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      }
+    ],
+    "text_mined": []
+  }
+}

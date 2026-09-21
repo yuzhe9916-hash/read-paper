@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "42753299",
+    "doi": "10.1016/j.bios.2026.119234",
+    "title": "Engineering a leakage-resistant CHA-CRISPR/Cas12a biosensor via cis-cleavage-triggered split activator assembly for ultrasensitive miRNA detection."
+  },
+  "content": {
+    "abstract": "MicroRNAs (miRNAs) have emerged as important biomarkers for cancer diagnosis and prognosis, yet their accurate detection remains challenging due to low abundance, short sequences, and sequence homology. Herein, we report a novel biosensing platform based on a cascade cis-cleavage-triggered split activator assembly strategy by integrating catalytic hairpin assembly (CHA) with dual CRISPR/Cas12a amplification for ultrasensitive and selective miRNA detection. In contrast to conventional CHA-CRISPR assays that directly couple CHA products with Cas12a activation and suffer from crRNA-induced leakage and elevated background signals, the proposed system decouples target recognition from signal output through a split activator architecture. Target miRNA initiates CHA to generate a duplex intermediate, which is first processed by Cas12a/crRNA1 via cis-cleavage to release a fragmentary DNA trigger. This fragment subsequently assembles with a predesigned auxiliary strand to form a complete activator, enabling secondary activation of Cas12a/crRNA2 and leading to amplified trans-cleavage signals. This cascade design significantly suppresses nonspecific background while enabling sequential signal amplification, resulting in substantially improved signal-to-noise ratios and enhanced analytical performance. The developed biosensor achieves sensitive miRNA detection with a low detection limit and excellent specificity. Furthermore, the practical applicability of the platform was demonstrated in cell lysates and human plasma samples with satisfactory accuracy and recovery. Owing to its modular and programmable design, this split activator-mediated CHA-CRISPR strategy provides a general and versatile framework for constructing low-background CRISPR biosensors and may facilitate the development of sensitive miRNA sensing platforms.",
+    "keywords": [
+      "Biosensor",
+      "CRISPR/Cas12a",
+      "Catalytic hairpin assembly",
+      "Split activator",
+      "miRNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiao, Shuifang",
+        "Deng, Qianqian",
+        "Wan, Qun",
+        "Huang, Nan",
+        "Jiang, Juan",
+        "Luo, Shiyi",
+        "Xia, Yongzhen",
+        "Liu, Yan",
+        "Zhang, Decai",
+        "Jiang, Guanmin"
+      ],
+      "short_names": [
+        "Xiao S",
+        "Deng Q",
+        "Wan Q",
+        "Huang N",
+        "Jiang J",
+        "Luo S",
+        "Xia Y",
+        "Liu Y",
+        "Zhang D",
+        "Jiang G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China; College of Laboratory Medicine, Zhuhai Campus of Zunyi Medical University, Zhuhai, 519041, China.",
+        "Department of Microbial and Biochemical Pharmacy, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, 510006, China.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China; College of Laboratory Medicine, Zhuhai Campus of Zunyi Medical University, Zhuhai, 519041, China.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China. Electronic address: liuyan@mail.sysu.edu.cn.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China. Electronic address: zhangdecai2000@163.com.",
+        "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China; College of Laboratory Medicine, Zhuhai Campus of Zunyi Medical University, Zhuhai, 519041, China. Electronic address: jianggm3@mail.sysu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiao, Shuifang",
+        "short_name": "Xiao S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China; College of Laboratory Medicine, Zhuhai Campus of Zunyi Medical University, Zhuhai, 519041, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Qianqian",
+        "short_name": "Deng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbial and Biochemical Pharmacy, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, 510006, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Qun",
+        "short_name": "Wan Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Nan",
+        "short_name": "Huang N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Juan",
+        "short_name": "Jiang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Shiyi",
+        "short_name": "Luo S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China; College of Laboratory Medicine, Zhuhai Campus of Zunyi Medical University, Zhuhai, 519041, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Yongzhen",
+        "short_name": "Xia Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China. Electronic address: liuyan@mail.sysu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Decai",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China. Electronic address: zhangdecai2000@163.com."
+        ]
+      },
+      {
+        "full_name": "Jiang, Guanmin",
+        "short_name": "Jiang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, China; College of Laboratory Medicine, Zhuhai Campus of Zunyi Medical University, Zhuhai, 519041, China. Electronic address: jianggm3@mail.sysu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 23:34",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753299",
+      "40745870",
+      "42424186",
+      "41747377",
+      "39982896",
+      "41960606",
+      "41330674",
+      "42417866",
+      "41222482",
+      "42077856",
+      "40701727",
+      "34011151",
+      "41873844",
+      "41800529",
+      "40886669",
+      "40354126",
+      "41719905",
+      "40610153",
+      "42659818",
+      "42600477",
+      "33379087",
+      "33133487",
+      "42379036",
+      "38816160",
+      "41831412",
+      "39740588",
+      "41614690",
+      "33517231",
+      "40517662",
+      "40435758",
+      "38182395",
+      "38573977",
+      "37294549",
+      "35987123",
+      "42669262",
+      "37116358",
+      "41073014",
+      "42641282",
+      "38740457",
+      "42028881",
+      "41052489",
+      "41091592",
+      "37922816",
+      "40213154",
+      "42648842",
+      "39552005",
+      "41628563",
+      "40441113",
+      "40015791",
+      "42296867",
+      "40924991",
+      "41590404",
+      "41590269",
+      "36602461",
+      "36738621",
+      "40254669",
+      "40983039",
+      "38503125",
+      "42689595",
+      "42242804",
+      "37579676",
+      "41285661",
+      "41935002",
+      "39739998",
+      "38245957",
+      "40749504",
+      "39831800",
+      "39643311",
+      "42391661",
+      "42702425",
+      "41744692",
+      "40331901",
+      "40179681",
+      "37683439",
+      "40955638",
+      "39718242",
+      "41834690",
+      "41555514",
+      "41905041",
+      "41355773",
+      "39904298",
+      "40701703",
+      "40214787",
+      "38078412",
+      "39406093",
+      "41506042",
+      "38280789",
+      "35946354",
+      "35306273",
+      "30682689",
+      "42567578",
+      "42489285",
+      "31987215",
+      "42546382",
+      "41552883",
+      "41252908",
+      "41261109",
+      "40160100",
+      "40882515",
+      "42142405"
+    ],
+    "review": [
+      "42753299",
+      "41834690"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00867-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

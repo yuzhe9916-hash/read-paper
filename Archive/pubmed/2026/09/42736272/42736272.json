@@ -1,0 +1,564 @@
+{
+  "identity": {
+    "pmid": "42736272",
+    "doi": "10.1038/s41392-026-02848-5",
+    "title": "Interleukin-1 receptor-associated kinase 1 controls chemoresistance and immuno-killing in non-small cell lung cancer."
+  },
+  "content": {
+    "abstract": "Non-small cell lung cancer (NSCLC) shows partial chemoimmunoresistance, driven by the upregulation of the drug efflux transporters ABCB1 and ABCC1 and the downregulation of the immunosensitizer protein ABCA1. To elucidate the molecular mechanisms underlying this chemoimmunoresistant phenotype, by performing a CRISPR-KO kinome screening, we identified interleukin-1 receptor-associated kinase 1 (IRAK1) as a key determinant of chemoimmunosensitive and chemoimmunoresistant phenotypes, defined as ABCB1/ABCC1(low)ABCA1(high) and ABCB1/ABCC1(high)ABCA1(low), respectively. IRAK1 expression was significantly associated with poor prognosis in the TCGA-LUAD cohort and in early-stage NSCLC patients. The IRAK1/ABCB1/ABCC1(high)ABCA1(low) signature was predictive of poor response to chemotherapy and immunotherapy in advanced-stage patients. Mechanistically, IRAK1 silencing resensitized NSCLC cells to cisplatin by decreasing IL-1R/NFkappaB and IL-1R/AP-1 signaling, which in turn downregulated the drug efflux transporters ABCB1 and ABCC1. Concurrently, IRAK1 silencing activated the LXRalpha/ABCA1 axis, which enhanced Vgamma9Vdelta2 Tcell-mediated cytotoxicity and facilitated the recruitment of memory and effector CD4(+) and CD8(+) T cells in both ex vivo autologous cocultures and immunoxenografts, increasing the immuno-killing ability of tumor cells. Newly developed synthetic inhibitors of IRAK1 efficiently promoted chemo- and immunosensitization in immunoxenografts, resulting in good pharmacokinetic and safety profiles. These findings identify IRAK1 as a novel, druggable target that controls both chemoresistance and immune evasion in NSCLC. We suggest the pharmacological inhibition of IRAK1 as a future promising strategy to overcome resistance to chemotherapy and improve patient outcomes.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Interleukin-1 Receptor-Associated Kinases/genetics/immunology",
+      "*Carcinoma, Non-Small-Cell Lung/genetics/immunology/pathology/drug therapy/therapy",
+      "*Drug Resistance, Neoplasm/genetics/immunology",
+      "*Lung Neoplasms/genetics/immunology/pathology/drug therapy",
+      "ATP-Binding Cassette, Sub-Family C Proteins/genetics/immunology",
+      "Animals",
+      "ATP Binding Cassette Transporter, Subfamily B/genetics/immunology",
+      "Gene Expression Regulation, Neoplastic/immunology/drug effects/genetics",
+      "Cisplatin/pharmacology",
+      "Signal Transduction/genetics/immunology",
+      "ATP Binding Cassette Transporter 1/genetics/immunology",
+      "Mice"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Digiovanni, Sabrina",
+        "Giannotta, Claudia",
+        "Alessandri, Luca",
+        "Fontana, Simona",
+        "Meoli, Angelo",
+        "Bironzo, Paolo",
+        "Merlini, Alessandra",
+        "Doronzo, Gabriella",
+        "Sushant, Parab",
+        "Balmas, Elisa",
+        "Akman, Muhlis",
+        "Kopecka, Joanna",
+        "Arigoni, Maddalena",
+        "Napoli, Francesca",
+        "Wens, Julia",
+        "Tarallo, Samuele",
+        "Bertero, Alessandro",
+        "Guglielmo, Stefano",
+        "Rolando, Barbara",
+        "Palma, Davide",
+        "Righi, Luisella",
+        "Massaia, Massimo",
+        "Calogero, Raffaele",
+        "Bussolino, Federico",
+        "Novello, Silvia",
+        "Scagliotti, Giorgio Vittorio",
+        "Salaroglio, Iris Chiara",
+        "Riganti, Chiara"
+      ],
+      "short_names": [
+        "Digiovanni S",
+        "Giannotta C",
+        "Alessandri L",
+        "Fontana S",
+        "Meoli A",
+        "Bironzo P",
+        "Merlini A",
+        "Doronzo G",
+        "Sushant P",
+        "Balmas E",
+        "Akman M",
+        "Kopecka J",
+        "Arigoni M",
+        "Napoli F",
+        "Wens J",
+        "Tarallo S",
+        "Bertero A",
+        "Guglielmo S",
+        "Rolando B",
+        "Palma D",
+        "Righi L",
+        "Massaia M",
+        "Calogero R",
+        "Bussolino F",
+        "Novello S",
+        "Scagliotti GV",
+        "Salaroglio IC",
+        "Riganti C"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-1815-3285",
+        "ORCID: 0000-0002-9350-9652",
+        "ORCID: 0000-0002-4919-9087",
+        "ORCID: 0000-0002-0021-1428",
+        "ORCID: 0000-0002-5348-1341",
+        "ORCID: 0000-0002-6043-3794"
+      ],
+      "affiliations": [
+        "Department of Oncology, University of Torino, 10126, Torino, Italy. sabrina.digiovanni@unito.it.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy. sabrina.digiovanni@unito.it.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+        "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+        "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy.",
+        "Translational Oncology Laboratory \"Paola Gilardi\", Department of Oncology at AOU San Luigi Hospital, University of Torino, 10043, Orbassano, Italy.",
+        "University of Toulouse, CNRS, INSERM, CRCT, 31037, Toulouse, France.",
+        "Candiolo Cancer Institute-IRCCS-FPO, 10060, Candiolo, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy.",
+        "Neurooncology Laboratory, Faculty of Medicine, Bahcesehir University, 34353, Istanbul, Turkey.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy.",
+        "Pathology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy.",
+        "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy.",
+        "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy.",
+        "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy.",
+        "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy.",
+        "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy.",
+        "Pathology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy.",
+        "Division of Hematology, AO Santa Croce e Carle, 12100, Cuneo, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+        "Candiolo Cancer Institute-IRCCS-FPO, 10060, Candiolo, Italy.",
+        "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy.",
+        "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+        "Department of Oncology, University of Torino, 10126, Torino, Italy. chiara.riganti@unito.it.",
+        "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy. chiara.riganti@unito.it."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Digiovanni, Sabrina",
+        "short_name": "Digiovanni S",
+        "identifiers": [
+          "0009-0006-1815-3285"
+        ],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy. sabrina.digiovanni@unito.it.",
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy. sabrina.digiovanni@unito.it."
+        ]
+      },
+      {
+        "full_name": "Giannotta, Claudia",
+        "short_name": "Giannotta C",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+          "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy."
+        ]
+      },
+      {
+        "full_name": "Alessandri, Luca",
+        "short_name": "Alessandri L",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+          "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy."
+        ]
+      },
+      {
+        "full_name": "Fontana, Simona",
+        "short_name": "Fontana S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Meoli, Angelo",
+        "short_name": "Meoli A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Bironzo, Paolo",
+        "short_name": "Bironzo P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+          "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy."
+        ]
+      },
+      {
+        "full_name": "Merlini, Alessandra",
+        "short_name": "Merlini A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+          "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy."
+        ]
+      },
+      {
+        "full_name": "Doronzo, Gabriella",
+        "short_name": "Doronzo G",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Oncology Laboratory \"Paola Gilardi\", Department of Oncology at AOU San Luigi Hospital, University of Torino, 10043, Orbassano, Italy."
+        ]
+      },
+      {
+        "full_name": "Sushant, Parab",
+        "short_name": "Sushant P",
+        "identifiers": [],
+        "affiliations": [
+          "University of Toulouse, CNRS, INSERM, CRCT, 31037, Toulouse, France.",
+          "Candiolo Cancer Institute-IRCCS-FPO, 10060, Candiolo, Italy."
+        ]
+      },
+      {
+        "full_name": "Balmas, Elisa",
+        "short_name": "Balmas E",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+          "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy."
+        ]
+      },
+      {
+        "full_name": "Akman, Muhlis",
+        "short_name": "Akman M",
+        "identifiers": [
+          "0000-0002-9350-9652"
+        ],
+        "affiliations": [
+          "Neurooncology Laboratory, Faculty of Medicine, Bahcesehir University, 34353, Istanbul, Turkey."
+        ]
+      },
+      {
+        "full_name": "Kopecka, Joanna",
+        "short_name": "Kopecka J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Arigoni, Maddalena",
+        "short_name": "Arigoni M",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+          "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy."
+        ]
+      },
+      {
+        "full_name": "Napoli, Francesca",
+        "short_name": "Napoli F",
+        "identifiers": [],
+        "affiliations": [
+          "Pathology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy."
+        ]
+      },
+      {
+        "full_name": "Wens, Julia",
+        "short_name": "Wens J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Tarallo, Samuele",
+        "short_name": "Tarallo S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Bertero, Alessandro",
+        "short_name": "Bertero A",
+        "identifiers": [
+          "0000-0002-4919-9087"
+        ],
+        "affiliations": [
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+          "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy."
+        ]
+      },
+      {
+        "full_name": "Guglielmo, Stefano",
+        "short_name": "Guglielmo S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Rolando, Barbara",
+        "short_name": "Rolando B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Palma, Davide",
+        "short_name": "Palma D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Drug Science and Technology, University of Torino, 10124, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Righi, Luisella",
+        "short_name": "Righi L",
+        "identifiers": [],
+        "affiliations": [
+          "Pathology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy."
+        ]
+      },
+      {
+        "full_name": "Massaia, Massimo",
+        "short_name": "Massaia M",
+        "identifiers": [
+          "0000-0002-0021-1428"
+        ],
+        "affiliations": [
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy.",
+          "Department of Molecular Biotechnology and Health Sciences, University of Torino, Torino, 10126, Italy.",
+          "Division of Hematology, AO Santa Croce e Carle, 12100, Cuneo, Italy."
+        ]
+      },
+      {
+        "full_name": "Calogero, Raffaele",
+        "short_name": "Calogero R",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Bussolino, Federico",
+        "short_name": "Bussolino F",
+        "identifiers": [
+          "0000-0002-5348-1341"
+        ],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+          "Candiolo Cancer Institute-IRCCS-FPO, 10060, Candiolo, Italy."
+        ]
+      },
+      {
+        "full_name": "Novello, Silvia",
+        "short_name": "Novello S",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy."
+        ]
+      },
+      {
+        "full_name": "Scagliotti, Giorgio Vittorio",
+        "short_name": "Scagliotti GV",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Oncology Unit, Department of Oncology at AOU San Luigi Hospital, 10043, Orbassano, Italy."
+        ]
+      },
+      {
+        "full_name": "Salaroglio, Iris Chiara",
+        "short_name": "Salaroglio IC",
+        "identifiers": [
+          "0000-0002-6043-3794"
+        ],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy.",
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy."
+        ]
+      },
+      {
+        "full_name": "Riganti, Chiara",
+        "short_name": "Riganti C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, University of Torino, 10126, Torino, Italy. chiara.riganti@unito.it.",
+          "Molecular Biotechnology Center \"Guido Tarone\", University of Torino, 10126, Torino, Italy. chiara.riganti@unito.it."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Signal transduction and targeted therapy"
+    ],
+    "journal_abbrev": [
+      "Signal Transduct Target Ther"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-21 15:58:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42736272",
+      "39107857",
+      "35953814",
+      "40091029",
+      "30718500",
+      "41613813",
+      "32155954",
+      "26351321",
+      "27822706",
+      "28340578",
+      "36314103",
+      "32114419",
+      "33570734",
+      "33617838",
+      "26512959",
+      "27581532",
+      "42062253",
+      "33537094",
+      "28042952",
+      "42474358",
+      "32446175",
+      "39694700",
+      "32690037",
+      "29318780",
+      "27367030",
+      "31121484",
+      "41271647",
+      "41343113",
+      "38228910",
+      "41554474",
+      "34523261",
+      "27590272",
+      "30146342",
+      "26556876",
+      "32854746",
+      "38396325",
+      "31659146",
+      "39626921",
+      "39481798",
+      "33658304",
+      "41981457",
+      "41950861",
+      "40152390",
+      "38133750",
+      "42087187",
+      "31823748",
+      "34339285",
+      "41832968",
+      "33276757",
+      "41846011",
+      "30064446",
+      "40654256",
+      "42722717",
+      "41199296",
+      "32768937",
+      "25339370",
+      "35719112",
+      "35551652",
+      "41579303",
+      "39283477",
+      "31739702",
+      "29990841",
+      "34906138",
+      "21883677",
+      "32755614",
+      "19107236",
+      "37913733",
+      "32627280",
+      "29960010",
+      "32006253",
+      "26513225",
+      "41672191",
+      "33097055",
+      "27270491",
+      "40619029",
+      "41583476",
+      "42231351",
+      "32382008",
+      "36430819",
+      "41045681",
+      "30515553",
+      "41380312",
+      "18829547",
+      "39256686",
+      "31774615",
+      "20700484",
+      "28762597",
+      "41592891",
+      "37852738",
+      "29483095",
+      "40362377",
+      "33078469",
+      "27706681",
+      "37634597",
+      "41515995",
+      "34107856",
+      "41204108",
+      "39004699",
+      "32878625",
+      "33649818"
+    ],
+    "review": [
+      "42736272"
+    ],
+    "pmc": [
+      "13575119"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41392-026-02848-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42736272/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

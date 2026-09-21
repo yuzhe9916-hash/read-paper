@@ -1,0 +1,311 @@
+{
+  "identity": {
+    "pmid": "42740595",
+    "doi": "10.1111/1751-7915.70443",
+    "title": "Endogenous CRISPR-Based Removal of Tetracycline Resistance in Bifidobacterium animalis subsp. lactis Through a Safe-by-Design Approach."
+  },
+  "content": {
+    "abstract": "Bifidobacterium animalis subsp. lactis is widely used as a probiotic; however, the presence of the tetracycline resistance gene tetW raises safety and regulatory concerns due to its potential mobility within the gut microbiome. Here, we applied a Safe-by-Design strategy using the endogenous CRISPR-Cas system of B. animalis subsp. lactis BLC01 to inactivate tetW through the introduction of premature stop codons. Whole-genome sequencing confirmed the intended editing and excluded relevant off-target effects. tetW inactivation markedly reduced the tetracycline minimum inhibitory concentration, restoring susceptibility below the tetracycline cut-off value for bifidobacteria (8 mug/mL). Comparative phenotypic analyses demonstrated that the edited strain (BLC01-2F3G10) retained key probiotic traits, including tolerance to acid, bile, and osmotic stress, exopolysaccharide production, aggregation capacity, survival during simulated gastrointestinal digestion and adhesion to intestinal epithelial cells. Importantly, no reversion to tetracycline resistance was observed after prolonged exposure to sub-inhibitory minimal selective antimicrobial concentration, indicating genetic stability of the edited phenotype. Collectively, these findings demonstrate that endogenous CRISPR-based genome editing can be leveraged to selectively remove antimicrobial resistance determinants from probiotic strains while preserving functionality, supporting the development of next-generation probiotics with an improved safety profile and reduced potential for antimicrobial resistance dissemination in the human gut.",
+    "keywords": [
+      "Bifidobacterium animalis subsp. lactis",
+      "CRISPR-Cas",
+      "Safe-by-Design approach",
+      "antimicrobial resistance gene (ARG)",
+      "genome editing",
+      "probiotic",
+      "tetracycline"
+    ],
+    "mesh_terms": [
+      "*Tetracycline Resistance/genetics",
+      "*Bifidobacterium animalis/genetics/drug effects",
+      "Tetracycline/pharmacology",
+      "Anti-Bacterial Agents/pharmacology",
+      "*CRISPR-Cas Systems",
+      "Microbial Sensitivity Tests",
+      "*Gene Editing/methods",
+      "Probiotics",
+      "Humans",
+      "Genome, Bacterial",
+      "Whole Genome Sequencing"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bozzetti, Marianna",
+        "Raneri, Matteo",
+        "Cortimiglia, Claudia",
+        "Milani, Giovanni",
+        "Volonte, Federica",
+        "Lucchini, Franco",
+        "Bassi, Daniela",
+        "Cocconcelli, Pier Sandro"
+      ],
+      "short_names": [
+        "Bozzetti M",
+        "Raneri M",
+        "Cortimiglia C",
+        "Milani G",
+        "Volonte F",
+        "Lucchini F",
+        "Bassi D",
+        "Cocconcelli PS"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-5019-4421",
+        "ORCID: 0009-0009-1961-2908",
+        "ORCID: 0000-0001-6884-091X",
+        "ORCID: 0000-0002-5812-9531",
+        "ORCID: 0000-0003-4256-4798",
+        "ORCID: 0000-0003-0280-7062",
+        "ORCID: 0000-0001-9020-3853",
+        "ORCID: 0000-0003-2212-7611"
+      ],
+      "affiliations": [
+        "Department for Sustainable Food Process-DiSTAS, Universita Cattolica del Sacro Cuore, Cremona, Italy.",
+        "Sacco srl, Cadorago, Como, Italy.",
+        "Department for Sustainable Food Process-DiSTAS, Universita Cattolica del Sacro Cuore, Cremona, Italy.",
+        "Sacco srl, Cadorago, Como, Italy.",
+        "Sacco srl, Cadorago, Como, Italy.",
+        "Department for Sustainable Food Process-DiSTAS, Universita Cattolica del Sacro Cuore, Cremona, Italy.",
+        "Department for Sustainable Food Process-DiSTAS, Universita Cattolica del Sacro Cuore, Cremona, Italy.",
+        "Department for Sustainable Food Process-DiSTAS, Universita Cattolica del Sacro Cuore, Cremona, Italy.",
+        "Institute of Advanced Science for Agriculture, Jolanda di Savoia (FE), Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bozzetti, Marianna",
+        "short_name": "Bozzetti M",
+        "identifiers": [
+          "0009-0003-5019-4421"
+        ],
+        "affiliations": [
+          "Department for Sustainable Food Process-DiSTAS, Università Cattolica del Sacro Cuore, Cremona, Italy."
+        ]
+      },
+      {
+        "full_name": "Raneri, Matteo",
+        "short_name": "Raneri M",
+        "identifiers": [
+          "0009-0009-1961-2908"
+        ],
+        "affiliations": [
+          "Sacco srl, Cadorago, Como, Italy."
+        ]
+      },
+      {
+        "full_name": "Cortimiglia, Claudia",
+        "short_name": "Cortimiglia C",
+        "identifiers": [
+          "0000-0001-6884-091X"
+        ],
+        "affiliations": [
+          "Department for Sustainable Food Process-DiSTAS, Università Cattolica del Sacro Cuore, Cremona, Italy."
+        ]
+      },
+      {
+        "full_name": "Milani, Giovanni",
+        "short_name": "Milani G",
+        "identifiers": [
+          "0000-0002-5812-9531"
+        ],
+        "affiliations": [
+          "Sacco srl, Cadorago, Como, Italy."
+        ]
+      },
+      {
+        "full_name": "Volontè, Federica",
+        "short_name": "Volontè F",
+        "identifiers": [
+          "0000-0003-4256-4798"
+        ],
+        "affiliations": [
+          "Sacco srl, Cadorago, Como, Italy."
+        ]
+      },
+      {
+        "full_name": "Lucchini, Franco",
+        "short_name": "Lucchini F",
+        "identifiers": [
+          "0000-0003-0280-7062"
+        ],
+        "affiliations": [
+          "Department for Sustainable Food Process-DiSTAS, Università Cattolica del Sacro Cuore, Cremona, Italy."
+        ]
+      },
+      {
+        "full_name": "Bassi, Daniela",
+        "short_name": "Bassi D",
+        "identifiers": [
+          "0000-0001-9020-3853"
+        ],
+        "affiliations": [
+          "Department for Sustainable Food Process-DiSTAS, Università Cattolica del Sacro Cuore, Cremona, Italy."
+        ]
+      },
+      {
+        "full_name": "Cocconcelli, Pier Sandro",
+        "short_name": "Cocconcelli PS",
+        "identifiers": [
+          "0000-0003-2212-7611"
+        ],
+        "affiliations": [
+          "Department for Sustainable Food Process-DiSTAS, Università Cattolica del Sacro Cuore, Cremona, Italy.",
+          "Institute of Advanced Science for Agriculture, Jolanda di Savoia (FE), Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbial biotechnology"
+    ],
+    "journal_abbrev": [
+      "Microb Biotechnol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42740595",
+      "30266728",
+      "41524418",
+      "35857876",
+      "17207972",
+      "31707173",
+      "29080807",
+      "39235395",
+      "20348299",
+      "21078530",
+      "30306201",
+      "16698847",
+      "41596914",
+      "23995933",
+      "23645200",
+      "25097108",
+      "36165644",
+      "39969280",
+      "36746921",
+      "39320367",
+      "39038499",
+      "41866907",
+      "41016814",
+      "34335493",
+      "26795356",
+      "25707999",
+      "30709821",
+      "39731060",
+      "27333286",
+      "41117771",
+      "38319094",
+      "39868792",
+      "40815227",
+      "41313018",
+      "41489362",
+      "28911187",
+      "37932698",
+      "37022212",
+      "42494331",
+      "34431764",
+      "38682181",
+      "41508465",
+      "41983001",
+      "34523984",
+      "34232082",
+      "35299968",
+      "40732105",
+      "17198739",
+      "36802222",
+      "37308875",
+      "28108391",
+      "42235799",
+      "29747442",
+      "17827318",
+      "37515711",
+      "31035617",
+      "35003031",
+      "42153625",
+      "28790996",
+      "35347713",
+      "42075050",
+      "41873084",
+      "42333117",
+      "40966844",
+      "35209838",
+      "29896319",
+      "41957702",
+      "38494884",
+      "20474053",
+      "39915700",
+      "42215211",
+      "41982656",
+      "40965632",
+      "36170451",
+      "38054827",
+      "20139616",
+      "35150575",
+      "39505088",
+      "33761872",
+      "40431355",
+      "42273689",
+      "40437776",
+      "29451876",
+      "27554155",
+      "20167618",
+      "40340669",
+      "42315553",
+      "21535508",
+      "39055336",
+      "36364717",
+      "41369876",
+      "38025274",
+      "35477272",
+      "38219862",
+      "42005543",
+      "39887239",
+      "42459333",
+      "40146366",
+      "19426473",
+      "40367596"
+    ],
+    "review": [
+      "42740595",
+      "41489362"
+    ],
+    "pmc": [
+      "13575638"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42740595/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.70443",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

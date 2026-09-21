@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42738492",
+    "doi": "10.3390/ani16172704",
+    "title": "Asexual Development and Virulence Are Not Affected by Knockout of Five Sexual-Stage Candidate Genes in Toxoplasma gondii."
+  },
+  "content": {
+    "abstract": "Toxoplasma gondii is a widespread intracellular parasite posing serious risks to immunocompromised individuals and pregnant women, and causing significant economic losses to the livestock industry. Current clinical drugs mainly target acute-stage tachyzoites but are ineffective against chronic cysts, necessitating new interventions. The parasite's sexual stage in the feline intestine remains poorly understood but is critical for transmission. Here, based on our unpublished weighted gene co-expression network analysis of single-cell transcriptomic data of cat intestine after infection with T. gondii, we selected five previously uncharacterized genes, including three CCCH-type zinc finger proteins (TGME49_257130, TGME49_500318, TGME49_313740) and two subtilisin-like proteases (TGME49_248760/sub7, TGME49_235950/sub8). Using the CRISPR-Cas9 system, individual knockout strains were generated from the type II Pru strain. And, we performed phenotypic assessments at this stage as an essential validation to confirm neutrality before feline infection experiments. Phenotypic analyses revealed that none of the knockout strains showed significant differences in vitro growth, replication, egress, in vivo virulence, or cyst formation from the wild-type strain, corroborating the transcriptional prediction. Publicly available ToxoDB transcriptomic data confirmed that four of these genes were highly expressed at the oocyst or feline enteroepithelial stages, but barely expressed in tachyzoites and bradyzoites, consistent with our phenotypic observations. Collectively, these findings indicate that these genes are dispensable for asexual development, while their expression pattern suggests potential involvement in sexual reproduction, a hypothesis that warrants direct experimental validation. This study provides validated knockout strains and candidate genes, establishing an experimental foundation for future functional studies on Toxoplasma sexual development and transmission-blocking strategies.",
+    "keywords": [
+      "CCCH-type zinc finger protein",
+      "CRISPR-Cas9",
+      "Toxoplasma gondii",
+      "phenotype",
+      "subtilisin-like protease"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tian, Xing",
+        "Tian, Chen-Ran",
+        "Lu, Xin-Sheng",
+        "Hao, Wen-Bo",
+        "Zheng, Zhi",
+        "He, Jun-Jun",
+        "Zhu, Xing-Quan",
+        "Zheng, Xiao-Nan"
+      ],
+      "short_names": [
+        "Tian X",
+        "Tian CR",
+        "Lu XS",
+        "Hao WB",
+        "Zheng Z",
+        "He JJ",
+        "Zhu XQ",
+        "Zheng XN"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-4013-8520",
+        "ORCID: 0009-0003-1528-3904",
+        "ORCID: 0009-0006-6974-4472",
+        "ORCID: 0000-0003-3188-4550",
+        "ORCID: 0000-0003-2530-4628",
+        "ORCID: 0009-0004-6224-3603"
+      ],
+      "affiliations": [
+        "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China.",
+        "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China.",
+        "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China.",
+        "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China.",
+        "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China.",
+        "The Yunnan Key Laboratory of Veterinary Etiological Biology, College of Veterinary Medicine, Yunnan Agricultural University, Kunming 650201, China.",
+        "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China.",
+        "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tian, Xing",
+        "short_name": "Tian X",
+        "identifiers": [
+          "0009-0000-4013-8520"
+        ],
+        "affiliations": [
+          "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Chen-Ran",
+        "short_name": "Tian CR",
+        "identifiers": [],
+        "affiliations": [
+          "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Xin-Sheng",
+        "short_name": "Lu XS",
+        "identifiers": [
+          "0009-0003-1528-3904"
+        ],
+        "affiliations": [
+          "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Wen-Bo",
+        "short_name": "Hao WB",
+        "identifiers": [],
+        "affiliations": [
+          "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Zhi",
+        "short_name": "Zheng Z",
+        "identifiers": [
+          "0009-0006-6974-4472"
+        ],
+        "affiliations": [
+          "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+        ]
+      },
+      {
+        "full_name": "He, Jun-Jun",
+        "short_name": "He JJ",
+        "identifiers": [
+          "0000-0003-3188-4550"
+        ],
+        "affiliations": [
+          "The Yunnan Key Laboratory of Veterinary Etiological Biology, College of Veterinary Medicine, Yunnan Agricultural University, Kunming 650201, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Xing-Quan",
+        "short_name": "Zhu XQ",
+        "identifiers": [
+          "0000-0003-2530-4628"
+        ],
+        "affiliations": [
+          "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Xiao-Nan",
+        "short_name": "Zheng XN",
+        "identifiers": [
+          "0009-0004-6224-3603"
+        ],
+        "affiliations": [
+          "Shanxi Key Laboratory of Animal Disease Research, Prevention and Control, College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030801, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Animals : an open access journal from MDPI"
+    ],
+    "journal_abbrev": [
+      "Animals (Basel)"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42738492",
+      "36515555",
+      "39272328",
+      "33883265",
+      "37832712",
+      "30662874",
+      "41754403",
+      "32065584",
+      "41975467",
+      "42475469",
+      "39237959",
+      "41965856",
+      "30849416",
+      "36041485",
+      "38392859",
+      "37887748",
+      "40407413",
+      "30211128",
+      "27165797",
+      "42565651",
+      "39063076",
+      "40941387",
+      "32686022",
+      "40823841",
+      "39150246",
+      "34499198",
+      "24962434",
+      "35446124",
+      "36321557",
+      "32468190",
+      "31040239",
+      "29359192",
+      "39207100",
+      "31266861",
+      "42735467",
+      "42651858",
+      "30333181",
+      "42231480",
+      "40879678",
+      "34384491",
+      "39936920",
+      "36471092",
+      "25444863",
+      "30635773",
+      "41226474",
+      "42153709",
+      "33504659",
+      "40730529",
+      "31864855",
+      "42068418",
+      "37851522",
+      "38576040",
+      "40362164",
+      "40731026",
+      "31728720",
+      "35083211",
+      "42304443",
+      "33521087",
+      "24885521",
+      "35652638",
+      "38075902",
+      "39080770",
+      "34163449",
+      "40885463",
+      "32044321",
+      "28323833",
+      "26432517",
+      "31387907",
+      "32374791",
+      "37808860",
+      "15003495",
+      "25714710",
+      "29180989",
+      "36786611",
+      "31726967",
+      "42655070",
+      "34531837",
+      "35730903",
+      "35603560",
+      "41761089",
+      "26499803",
+      "41673701",
+      "28626452",
+      "31867292",
+      "40087603",
+      "37491273",
+      "40156024",
+      "40783178",
+      "41751114",
+      "21531875",
+      "31996457",
+      "38052278",
+      "31508380",
+      "28624132",
+      "42276404",
+      "40859392",
+      "30428922",
+      "25757795",
+      "42187178",
+      "27247232"
+    ],
+    "review": [
+      "42738492",
+      "36321557"
+    ],
+    "pmc": [
+      "13564330"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ani16172704",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42738492/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-472",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

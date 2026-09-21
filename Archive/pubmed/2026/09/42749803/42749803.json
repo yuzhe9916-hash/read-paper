@@ -1,0 +1,476 @@
+{
+  "identity": {
+    "pmid": "42749803",
+    "doi": "10.1038/s41586-026-11024-2",
+    "title": "Targeted genomic integration and rearrangement using prime assembly."
+  },
+  "content": {
+    "abstract": "Although therapeutic genome editing holds great potential to remedy diverse inherited and acquired disorders, targeted installation of medium-to-large genomic modifications in therapeutically relevant cells remains challenging(1). Here we develop prime assembly, an approach that permits DNA sequence assembly and integration in human cells leveraging CRISPR-targeted dual flap synthesis. This method enables RNA-programmable site-specific integration of single or double-stranded DNA fragments. Unlike homology-directed repair, prime assembly is similarly active in dividing and non-dividing cells. We applied prime assembly to perform targeted exon recoding, transgene integration and megabase-scale rearrangements, including at therapeutically relevant loci in primary human cells. Prime assembly expands the capabilities of genome engineering by enabling the targeted integration of medium to large-sized DNA sequences without relying on double-stranded DNA donors, nuclease-driven double-strand breaks or cell cycle progression.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Levesque, Sebastien",
+        "Kawashima, Nozomu",
+        "Hwang, Gue-Ho",
+        "Zeng, Jing",
+        "Toskov, Vasil",
+        "Barry, Timothy",
+        "Mannherz, William",
+        "Homfeldt, Luke",
+        "Becerra, Basheer",
+        "Schoonenberg, Vivien A C",
+        "Pinello, Luca",
+        "Agarwal, Suneet",
+        "Bauer, Daniel E"
+      ],
+      "short_names": [
+        "Levesque S",
+        "Kawashima N",
+        "Hwang GH",
+        "Zeng J",
+        "Toskov V",
+        "Barry T",
+        "Mannherz W",
+        "Homfeldt L",
+        "Becerra B",
+        "Schoonenberg VAC",
+        "Pinello L",
+        "Agarwal S",
+        "Bauer DE"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1671-1929",
+        "ORCID: 0000-0001-5700-4481",
+        "ORCID: 0009-0001-2131-344X",
+        "ORCID: 0000-0003-4472-7394",
+        "ORCID: 0009-0006-7164-784X",
+        "ORCID: 0000-0003-4403-7959",
+        "ORCID: 0000-0002-7865-7120",
+        "ORCID: 0000-0003-4910-3118",
+        "ORCID: 0000-0001-5076-7945"
+      ],
+      "affiliations": [
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+        "Broad Institute, Cambridge, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+        "CHU de Quebec Research Center, Universite Laval, Quebec, Quebec, Canada. sebastien.levesque@crchudequebec.ulaval.ca.",
+        "Department of Pediatrics, Faculty of Medicine, Universite Laval, Quebec, Quebec, Canada. sebastien.levesque@crchudequebec.ulaval.ca.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Broad Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Broad Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+        "Department of Pathology, Harvard Medical School, Boston, MA, USA.",
+        "Department of Chemistry, Hanyang University, Seoul, Republic of Korea.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Broad Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Broad Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Broad Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+        "Department of Pathology, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Harvard/MIT MD-PhD program, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Broad Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+        "Department of Pathology, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Broad Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+        "Department of Pathology, Harvard Medical School, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+        "Department of Pathology, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA. daniel.bauer@childrens.harvard.edu.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA. daniel.bauer@childrens.harvard.edu.",
+        "Harvard Stem Cell Institute, Cambridge, MA, USA. daniel.bauer@childrens.harvard.edu.",
+        "Broad Institute, Cambridge, MA, USA. daniel.bauer@childrens.harvard.edu.",
+        "Department of Pediatrics, Harvard Medical School, Boston, MA, USA. daniel.bauer@childrens.harvard.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Levesque, Sébastien",
+        "short_name": "Levesque S",
+        "identifiers": [
+          "0000-0002-1671-1929"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+          "Broad Institute, Cambridge, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA. sebastien.levesque@crchudequebec.ulaval.ca.",
+          "CHU de Québec Research Center, Université Laval, Quebec, Quebec, Canada. sebastien.levesque@crchudequebec.ulaval.ca.",
+          "Department of Pediatrics, Faculty of Medicine, Université Laval, Quebec, Quebec, Canada. sebastien.levesque@crchudequebec.ulaval.ca."
+        ]
+      },
+      {
+        "full_name": "Kawashima, Nozomu",
+        "short_name": "Kawashima N",
+        "identifiers": [
+          "0000-0001-5700-4481"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Broad Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Hwang, Gue-Ho",
+        "short_name": "Hwang GH",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Broad Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+          "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+          "Department of Pathology, Harvard Medical School, Boston, MA, USA.",
+          "Department of Chemistry, Hanyang University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Zeng, Jing",
+        "short_name": "Zeng J",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Broad Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Toskov, Vasil",
+        "short_name": "Toskov V",
+        "identifiers": [
+          "0009-0001-2131-344X"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Broad Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Barry, Timothy",
+        "short_name": "Barry T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Broad Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+          "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+          "Department of Pathology, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Mannherz, William",
+        "short_name": "Mannherz W",
+        "identifiers": [
+          "0000-0003-4472-7394"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+          "Harvard/MIT MD-PhD program, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Homfeldt, Luke",
+        "short_name": "Homfeldt L",
+        "identifiers": [
+          "0009-0006-7164-784X"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Becerra, Basheer",
+        "short_name": "Becerra B",
+        "identifiers": [
+          "0000-0003-4403-7959"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Broad Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+          "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+          "Department of Pathology, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Schoonenberg, Vivien A C",
+        "short_name": "Schoonenberg VAC",
+        "identifiers": [
+          "0000-0002-7865-7120"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Broad Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA.",
+          "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+          "Department of Pathology, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Pinello, Luca",
+        "short_name": "Pinello L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Molecular Pathology Unit, Krantz Family Center for Cancer Research, Massachusetts General Hospital Research Institute, Boston, MA, USA.",
+          "Department of Pathology, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Agarwal, Suneet",
+        "short_name": "Agarwal S",
+        "identifiers": [
+          "0000-0003-4910-3118"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bauer, Daniel E",
+        "short_name": "Bauer DE",
+        "identifiers": [
+          "0000-0001-5076-7945"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, USA. daniel.bauer@childrens.harvard.edu.",
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA. daniel.bauer@childrens.harvard.edu.",
+          "Harvard Stem Cell Institute, Cambridge, MA, USA. daniel.bauer@childrens.harvard.edu.",
+          "Broad Institute, Cambridge, MA, USA. daniel.bauer@childrens.harvard.edu.",
+          "Department of Pediatrics, Harvard Medical School, Boston, MA, USA. daniel.bauer@childrens.harvard.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 05:35",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749803",
+      "40667027",
+      "36424489",
+      "34887556",
+      "42665685",
+      "33309880",
+      "42062564",
+      "37402729",
+      "31634902",
+      "42056515",
+      "35228726",
+      "37365642",
+      "30220095",
+      "39386429",
+      "42026979",
+      "37693500",
+      "35332138",
+      "42486986",
+      "35440051",
+      "30003320",
+      "37291100",
+      "28939824",
+      "40082411",
+      "36069759",
+      "42020736",
+      "35006470",
+      "30340581",
+      "36773157",
+      "42328791",
+      "24685129",
+      "37961210",
+      "40667017",
+      "32085662",
+      "42706407",
+      "42662231",
+      "33499763",
+      "41121349",
+      "23934893",
+      "33805897",
+      "36928106",
+      "41954977",
+      "28550913",
+      "32809547",
+      "20530528",
+      "42396174",
+      "41000906",
+      "31360827",
+      "23042119",
+      "40341582",
+      "36344749",
+      "39937081",
+      "42453142",
+      "39663372",
+      "34509669",
+      "36969373",
+      "22732945",
+      "32604839",
+      "41638449",
+      "30355591",
+      "40873035",
+      "37537500",
+      "30415341",
+      "36991112",
+      "28883826",
+      "32001098",
+      "38532479",
+      "36898908",
+      "41820622",
+      "27464799",
+      "41359386",
+      "30085411",
+      "41261774",
+      "35929067",
+      "24179142",
+      "36252276",
+      "41728946",
+      "42265375",
+      "30610624",
+      "40263274",
+      "40379664",
+      "26691863",
+      "40362308",
+      "37166088",
+      "26789497",
+      "25774080",
+      "42481864",
+      "39496933",
+      "34416913",
+      "28095454",
+      "36993517",
+      "33596056",
+      "29183983",
+      "38379727",
+      "41656257",
+      "39709560",
+      "25497837",
+      "39789389",
+      "40067628",
+      "37769783",
+      "34509668"
+    ],
+    "review": [
+      "42749803",
+      "42026979",
+      "30003320",
+      "42706407",
+      "42662231",
+      "41121349",
+      "42396174",
+      "36344749",
+      "34509669",
+      "36969373",
+      "41638449",
+      "41820622",
+      "42265375",
+      "30610624",
+      "40362308",
+      "37166088",
+      "25774080",
+      "42481864",
+      "33596056",
+      "38379727",
+      "39709560",
+      "37769783"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11024-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

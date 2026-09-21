@@ -1,0 +1,308 @@
+{
+  "identity": {
+    "pmid": "42738829",
+    "doi": "10.3390/cells15171535",
+    "title": "Modeling Cohen Syndrome in Phoenix Cells: VPS13B Loss Causes Organelle Stress, G1/S Delay, and Fibrillary Inclusion Bodies Formation."
+  },
+  "content": {
+    "abstract": "Cohen syndrome, caused by pathogenic variants in VPS13B, is characterized by microcephaly, developmental delay, and progressive retinal degeneration, yet the cellular mechanisms linking VPS13B dysfunction to disease pathology remain incompletely understood. Here, we used CRISPR-Cas9 to delete VPS13B exons 2-4 in Phoenix HEK293 cells, generating five independent knockout clones. In all mutant lines, VPS13B disruption caused a marked slowing of cell proliferation due to prolongation of the G1 phase. Immunocytochemistry and transmission electron microscopy revealed that VPS13B mutations causes Golgi apparatus fragmentation, loss of VPS13B Golgi localization, ER lumen dilation with rigid membrane morphology, mitochondrial damage, impaired autophagic maturation, and the appearance of cytoplasmic fibrillary inclusions located close to ER and absent from control cells. RNA-seq analysis identified 27 differentially expressed genes common to all four mutant clones, including downregulation of genes involved in transcriptional regulation, lipid metabolism, and neuronal signaling, alongside upregulation of the stress-response genes CLU and CDKN1A (p21). While our results do not support classical unfolded protein response activation, they are consistent with a model in which lipid bilayer stress and disrupted ER-Golgi trafficking may play a role in the pathophysiology of Cohen syndrome. Together, these findings demonstrate that VPS13B deficiency results in coordinated defects in organelle homeostasis, proteostasis, and cell-cycle progression, providing new dates for understanding Cohen syndrome pathogenesis.",
+    "keywords": [
+      "COH1",
+      "CRISPR-Cas9",
+      "Cohen syndrome",
+      "ER stress",
+      "Golgi fragmentation",
+      "VPS13B",
+      "cell-cycle arrest",
+      "fibrillary inclusions",
+      "proteostasis",
+      "ultrastructure"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Microcephaly/genetics/pathology/metabolism",
+      "*Vesicular Transport Proteins/genetics/metabolism",
+      "*Intellectual Disability/genetics/pathology/metabolism",
+      "Golgi Apparatus/metabolism/ultrastructure",
+      "*Muscle Hypotonia/genetics/pathology/metabolism",
+      "*Inclusion Bodies/metabolism/pathology/ultrastructure",
+      "Endoplasmic Reticulum/metabolism/ultrastructure",
+      "HEK293 Cells",
+      "*Retinal Degeneration/genetics/pathology/metabolism",
+      "*Models, Biological",
+      "Cell Proliferation",
+      "Mutation/genetics",
+      "Mitochondria/metabolism",
+      "Autophagy",
+      "Developmental Disabilities",
+      "Fingers/abnormalities",
+      "Myopia",
+      "Obesity"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Morozova, Ksenia N",
+        "Wolf, Ekaterina R",
+        "Kiseleva, Elena V",
+        "Smirnov, Alexander V",
+        "Pershina, Elena G",
+        "Pristyazhnyuk, Inna E"
+      ],
+      "short_names": [
+        "Morozova KN",
+        "Wolf ER",
+        "Kiseleva EV",
+        "Smirnov AV",
+        "Pershina EG",
+        "Pristyazhnyuk IE"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3307-8819",
+        "ORCID: 0000-0002-8786-499X",
+        "ORCID: 0000-0001-5152-9914",
+        "ORCID: 0000-0003-2658-7906",
+        "ORCID: 0000-0003-0226-4213"
+      ],
+      "affiliations": [
+        "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia.",
+        "Department of Genetics and Genetic Technologies, Sirius University of Science and Technology, Sirius 354340, Russia.",
+        "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia.",
+        "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia.",
+        "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia.",
+        "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia.",
+        "Department of Genetics and Genetic Technologies, Sirius University of Science and Technology, Sirius 354340, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Morozova, Ksenia N",
+        "short_name": "Morozova KN",
+        "identifiers": [
+          "0000-0003-3307-8819"
+        ],
+        "affiliations": [
+          "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia."
+        ]
+      },
+      {
+        "full_name": "Wolf, Ekaterina R",
+        "short_name": "Wolf ER",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genetic Technologies, Sirius University of Science and Technology, Sirius 354340, Russia."
+        ]
+      },
+      {
+        "full_name": "Kiseleva, Elena V",
+        "short_name": "Kiseleva EV",
+        "identifiers": [
+          "0000-0002-8786-499X"
+        ],
+        "affiliations": [
+          "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia."
+        ]
+      },
+      {
+        "full_name": "Smirnov, Alexander V",
+        "short_name": "Smirnov AV",
+        "identifiers": [
+          "0000-0001-5152-9914"
+        ],
+        "affiliations": [
+          "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia."
+        ]
+      },
+      {
+        "full_name": "Pershina, Elena G",
+        "short_name": "Pershina EG",
+        "identifiers": [
+          "0000-0003-2658-7906"
+        ],
+        "affiliations": [
+          "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia."
+        ]
+      },
+      {
+        "full_name": "Pristyazhnyuk, Inna E",
+        "short_name": "Pristyazhnyuk IE",
+        "identifiers": [
+          "0000-0003-0226-4213"
+        ],
+        "affiliations": [
+          "Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk 630090, Russia.",
+          "Department of Genetics and Genetic Technologies, Sirius University of Science and Technology, Sirius 354340, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42738829",
+      "39352497",
+      "21865173",
+      "30602132",
+      "32375900",
+      "34041686",
+      "42104376",
+      "31825161",
+      "32605629",
+      "32505691",
+      "29149870",
+      "33025479",
+      "35690661",
+      "31444703",
+      "32170714",
+      "29634382",
+      "30843084",
+      "24334764",
+      "32915983",
+      "32402540",
+      "26104215",
+      "31752730",
+      "31580008",
+      "38067130",
+      "29758347",
+      "21605373",
+      "37573958",
+      "40813981",
+      "41591480",
+      "40583715",
+      "29264741",
+      "39397257",
+      "41390316",
+      "41645382",
+      "41402289",
+      "27832746",
+      "29972126",
+      "25502226",
+      "34425733",
+      "26358774",
+      "39331042",
+      "28631888",
+      "25060287",
+      "30793471",
+      "23188044",
+      "25492866",
+      "33974487",
+      "36067876",
+      "36073289",
+      "37090188",
+      "28779532",
+      "37690893",
+      "20461111",
+      "39010945",
+      "20921020",
+      "15211651",
+      "19533689",
+      "40751625",
+      "20683995",
+      "25409455",
+      "34385517",
+      "38439002",
+      "24311531",
+      "36780047",
+      "42062868",
+      "39531071",
+      "30144585",
+      "27203176",
+      "38187698",
+      "42220485",
+      "38090145",
+      "31218450",
+      "7865879",
+      "30464055",
+      "15154116",
+      "40565173",
+      "31794024",
+      "33632302",
+      "32919079",
+      "41294855",
+      "41730960",
+      "24056303",
+      "34450031",
+      "23172909",
+      "9624457",
+      "29969945",
+      "23770576",
+      "25470234",
+      "35173048",
+      "32487759",
+      "38092262",
+      "25006245",
+      "17383910",
+      "20301655",
+      "26298469",
+      "41910405",
+      "41522673",
+      "15911352",
+      "33164986",
+      "31495077"
+    ],
+    "review": [
+      "42738829",
+      "32605629",
+      "41390316",
+      "39010945",
+      "30144585"
+    ],
+    "pmc": [
+      "13564750"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15171535",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42738829/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CLU-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-478",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

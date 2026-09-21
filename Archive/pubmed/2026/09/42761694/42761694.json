@@ -1,0 +1,237 @@
+{
+  "identity": {
+    "pmid": "42761694",
+    "doi": "10.3389/fphar.2026.1859926",
+    "title": "DepPrior: integrating CRISPR dependency predictability with multi-omics reproducibility to prioritize candidate LUAD therapeutic targets."
+  },
+  "content": {
+    "abstract": "Lung adenocarcinoma (LUAD) remains molecularly heterogeneous, and many tumors lack clearly tractable vulnerabilities. We developed DepPrior, a computational framework that ranks candidate LUAD therapeutic targets by requiring concordant evidence of CRISPR dependency separability, molecular predictability, and cross-cohort expression/protein reproducibility. DepMap dependency scores were modeled from matched expression and copy-number features using linear and non-linear learners, and gene-level AUROC and R(2) were combined into a heuristic DepScore. The final candidate set included FERMT2, CRKL, MYC, CHMP4B and related genes. The set formed a coherent tumor expression module in TCGA-LUAD, was strongly associated with proliferation-linked features, and showed rank-based concordance across GEO transcriptomic cohorts and CPTAC transcriptomic/proteomic resources. Five-fold cross-validation supported the ranking of non-linear models, although performance gains were moderate and should be interpreted as model-ranking evidence rather than as large effect-size proof. Orthogonal experiments in HCC827 cells showed modest but reproducible protein-level reductions after FERMT2 and CRKL knockdown, accompanied by a directionally stronger apoptosis-associated protein shift after combined suppression than after single perturbation. These findings support DepPrior as a reproducibility-oriented, hypothesis-generating approach for target nomination. Because cross-cohort expression concordance does not prove patient-tumor dependency conservation, and experimental validation was restricted to selected genes and cell-line systems without rescue or proliferation/clonogenic assays, the prioritized genes should be considered candidates for further perturbation, rescue, patient-derived model, and therapeutic tractability studies.",
+    "keywords": [
+      "CRISPR dependency",
+      "DepMap",
+      "DepScore",
+      "cohort reproducibility",
+      "lung adenocarcinoma",
+      "tumor multi-omics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Feng",
+        "Wang, Cheng",
+        "Mo, Lizhi",
+        "Sun, Xuan",
+        "Zhang, Ji"
+      ],
+      "short_names": [
+        "Zhou F",
+        "Wang C",
+        "Mo L",
+        "Sun X",
+        "Zhang J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China.",
+        "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China.",
+        "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China.",
+        "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China.",
+        "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Feng",
+        "short_name": "Zhou F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Cheng",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Mo, Lizhi",
+        "short_name": "Mo L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xuan",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ji",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Changde First People's Hospital, Changde, Hunan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in pharmacology"
+    ],
+    "journal_abbrev": [
+      "Front Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42761694",
+      "41716413",
+      "42504199",
+      "41611834",
+      "41375045",
+      "40474806",
+      "33850477",
+      "42634199",
+      "42079738",
+      "42495647",
+      "42163891",
+      "41609946",
+      "42385356",
+      "42435052",
+      "38186574",
+      "42193012",
+      "42122127",
+      "42422066",
+      "32241274",
+      "42464299",
+      "41634895",
+      "41556056",
+      "42381064",
+      "42486346",
+      "42591440",
+      "42110542",
+      "41312363",
+      "42368459",
+      "42295485",
+      "41815152",
+      "40888991",
+      "42624177",
+      "42352501",
+      "41491011",
+      "42171853",
+      "41659265",
+      "41938520",
+      "42707325",
+      "42445428",
+      "42180849",
+      "42475469",
+      "41566241",
+      "42040897",
+      "42465359",
+      "39735553",
+      "42732946",
+      "41341805",
+      "42089585",
+      "40761262",
+      "41862916",
+      "42647531",
+      "42198421",
+      "41567189",
+      "42238598",
+      "41339815",
+      "40547013",
+      "42240917",
+      "42674820",
+      "42358820",
+      "41186509",
+      "41502520",
+      "41609417",
+      "42443906",
+      "41827671",
+      "41383634",
+      "42682961",
+      "42046060",
+      "42305460",
+      "42500538",
+      "42472420",
+      "41583466",
+      "42678580",
+      "41971124",
+      "42001433",
+      "41158314",
+      "41351424",
+      "41158328",
+      "42288924",
+      "40860289",
+      "42192776",
+      "41656832",
+      "42074514",
+      "34951053",
+      "39539551",
+      "39687501",
+      "41601623",
+      "42472388",
+      "41504052",
+      "41699549",
+      "41836446",
+      "41624864",
+      "42725278",
+      "41164195",
+      "42631563",
+      "39346927",
+      "42000935",
+      "41500779",
+      "41674975",
+      "40598552",
+      "41430351"
+    ],
+    "review": [
+      "42761694"
+    ],
+    "pmc": [
+      "13586944"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://proteomics.cancer.gov/programs/cptac",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fphar.2026.1859926",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

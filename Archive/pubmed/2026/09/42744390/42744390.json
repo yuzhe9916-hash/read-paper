@@ -1,0 +1,388 @@
+{
+  "identity": {
+    "pmid": "42744390",
+    "doi": "10.1136/jitc-2026-015730",
+    "title": "LRIG2 suppresses NK cell-induced GSDME-mediated pyroptosis via the LAMP1-STAT3 pathway in glioma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Gliomas are resistant to current therapies, and natural killer (NK) cell-based immunotherapy shows limited efficacy. Gasdermin E (GSDME)-mediated pyroptosis contributes to NK-induced tumor killing, but NK cell dysfunction in the glioma microenvironment remains poorly understood. This study investigates whether leucine-rich repeats and immunoglobulin-like domains 2 (LRIG2) enable glioma cells to evade NK-induced pyroptosis and elucidates the underlying mechanism. METHODS: We used in vitro co-culture systems with glioma cell lines (LN229, HS683, FU) and primary NK cells or NK92-MI cells to assess cytotoxicity, pyroptosis (lactate dehydrogenase release, morphology, GSDME cleavage by western blot), and cytokine release (Cytometric Bead Array). In vivo, orthotopic glioma models in C57BL/6 and RAG1-KO mice received intracranial stimulator of interferon genes agonist diABZI. Mechanistic dissection involved biochemical approaches (co-immunoprecipitation-mass spectrometry and membrane protein extraction), cellular imaging (immunofluorescence), and genetic perturbation via CRISPR-mediated knockdown. RESULTS: NK cells induced GSDME-dependent pyroptosis in glioma cells in vitro, but this was impaired in vivo due to suppressed NK cytotoxicity. LRIG2 was highly expressed in gliomas; its overexpression inhibited GSDME cleavage, pyroptosis, and glioma cell death, whereas LRIG2 knockdown enhanced these effects. Mechanistically, soluble LRIG2 shed from glioma cells bound to lysosomal-associated membrane protein 1 (LAMP1) on NK cells, upregulating phosphorylated-signal transducer and activator of transcription (p-STAT3) via Janus kinase 1 (JAK1) and reducing granzyme B and perforin release. Disrupting the LRIG2-LAMP1-STAT3 axis by LRIG2 knockdown or STAT3 knockout restored NK cytotoxicity and GSDME cleavage. Combining LRIG2 knockdown with diABZI significantly enhanced NK granzyme B expression and prolonged mouse survival. CONCLUSIONS: LRIG2 enables glioma immune evasion by suppressing NK-induced GSDME-mediated pyroptosis via the LAMP1-STAT3 pathway. Targeting this axis represents a promising strategy to enhance NK cell-based immunotherapy for gliomas, positioning LRIG2 as a potential biomarker and therapeutic target.",
+    "keywords": [
+      "Central Nervous System Cancer",
+      "Immunosuppression",
+      "Natural killer - NK"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Killer Cells, Natural/immunology/metabolism",
+      "*Pyroptosis",
+      "*STAT3 Transcription Factor/metabolism",
+      "*Glioma/pathology/immunology/metabolism/genetics",
+      "Mice",
+      "Humans",
+      "Gasdermins",
+      "*Lysosomal-Associated Membrane Protein 1/metabolism",
+      "Signal Transduction",
+      "Mice, Inbred C57BL",
+      "Cell Line, Tumor",
+      "*Lysosomal Membrane Proteins/metabolism",
+      "Coculture Techniques"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hou, Xiaoshuang",
+        "Lin, Lan",
+        "Zhang, Po",
+        "Li, Youwei",
+        "Dong, Minhai",
+        "Chen, Sui",
+        "Oyang, Xiaohu",
+        "Wang, Jingbo",
+        "Cheng, Fangling",
+        "Li, Xiaopeng",
+        "Zhao, Min",
+        "Mao, Feng",
+        "Yu, Xingjiang",
+        "Hu, Desheng",
+        "Wang, Baofeng",
+        "Guo, Dongsheng"
+      ],
+      "short_names": [
+        "Hou X",
+        "Lin L",
+        "Zhang P",
+        "Li Y",
+        "Dong M",
+        "Chen S",
+        "Oyang X",
+        "Wang J",
+        "Cheng F",
+        "Li X",
+        "Zhao M",
+        "Mao F",
+        "Yu X",
+        "Hu D",
+        "Wang B",
+        "Guo D"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-3363-7692"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology，Chinese Academy of Sciences, Wuhan, China.",
+        "Department of Neurosurgery, Union Hospital, Wuhan, China.",
+        "Department of Pain Management, Southeast University, Nanjing, China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Wuhan, China.",
+        "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Wuhan, China.",
+        "Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Histology and Embryology, College of Basic Medicine, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Wuhan, China.",
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China tjguodongsheng@163.com wbf620@163.com.",
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China tjguodongsheng@163.com wbf620@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hou, Xiaoshuang",
+        "short_name": "Hou X",
+        "identifiers": [
+          "0009-0002-3363-7692"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Lan",
+        "short_name": "Lin L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology，Chinese Academy of Sciences, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Po",
+        "short_name": "Zhang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Union Hospital, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Youwei",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pain Management, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Minhai",
+        "short_name": "Dong M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Sui",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Oyang, Xiaohu",
+        "short_name": "Oyang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jingbo",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Fangling",
+        "short_name": "Cheng F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaopeng",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Min",
+        "short_name": "Zhao M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Feng",
+        "short_name": "Mao F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xingjiang",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Histology and Embryology, College of Basic Medicine, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Desheng",
+        "short_name": "Hu D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Baofeng",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China tjguodongsheng@163.com wbf620@163.com."
+        ]
+      },
+      {
+        "full_name": "Guo, Dongsheng",
+        "short_name": "Guo D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China tjguodongsheng@163.com wbf620@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal for immunotherapy of cancer"
+    ],
+    "journal_abbrev": [
+      "J Immunother Cancer"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 23:34",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42744390",
+      "41654150",
+      "38456763",
+      "41144149",
+      "39419722",
+      "41699675",
+      "42148118",
+      "37272107",
+      "41325865",
+      "40296045",
+      "41225629",
+      "39832720",
+      "40440957",
+      "41413917",
+      "42607555",
+      "41530756",
+      "42676762",
+      "38750472",
+      "42214820",
+      "41447776",
+      "34108030",
+      "40479862",
+      "40695147",
+      "42492635",
+      "41787734",
+      "38547615",
+      "42163353",
+      "39792075",
+      "39321515",
+      "41670696",
+      "41071519",
+      "40334628",
+      "40744660",
+      "40316303",
+      "41621761",
+      "39215364",
+      "40353627",
+      "32963939",
+      "41923736",
+      "39034990",
+      "42475390",
+      "33858847",
+      "22349830",
+      "42085840",
+      "39366751",
+      "27765614",
+      "39904995",
+      "29693186",
+      "40597187",
+      "40704967",
+      "36878534",
+      "39579618",
+      "39103324",
+      "37474992",
+      "33741730",
+      "31088566",
+      "39884449",
+      "41845478",
+      "40707178",
+      "42608556",
+      "30554487",
+      "41039578",
+      "39915005",
+      "40148810",
+      "41689202",
+      "40338058",
+      "28865178",
+      "24168060",
+      "42032729",
+      "33800561",
+      "40050048",
+      "35104792",
+      "42204417",
+      "35623158",
+      "39742906",
+      "23634213",
+      "39643123",
+      "35918054",
+      "40168141",
+      "40001231",
+      "31324197",
+      "35863214",
+      "42315669",
+      "38636689",
+      "24742303",
+      "38655652",
+      "42373282",
+      "41622228",
+      "26266810",
+      "42398968",
+      "37921870",
+      "29925431",
+      "42483202",
+      "41784457",
+      "39445538",
+      "38971897",
+      "39748129",
+      "35114597",
+      "33472858",
+      "41687749"
+    ],
+    "review": [
+      "42744390"
+    ],
+    "pmc": [
+      "13583707"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://jitc.bmj.com/lookup/pmidlookup?view=long&pmid=42744390",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42744390/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-JAK1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

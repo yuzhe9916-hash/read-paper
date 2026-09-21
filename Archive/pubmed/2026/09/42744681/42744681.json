@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42744681",
+    "doi": "10.1016/j.tibtech.2026.08.014",
+    "title": "Cross-target and cell-preferential CRISPR-Cas9 inhibition with carbohydrate-tagged oligonucleotides."
+  },
+  "content": {
+    "abstract": "Precise control of clustered regularly interspaced short palindromic repeats (CRISPR)-CRISPR-associated protein 9 (Cas9) activity is important for limiting off-target effects and chromosomal rearrangements. Existing inhibitors, including anti-CRISPR proteins and spacer-targeting oligonucleotides, can be constrained by immunogenicity, target-sequence dependence, or delivery challenges. Here, we developed single-stranded DNA oligonucleotides that target conserved regions of the Streptococcus pyogenes Cas9 single-guide RNA (sgRNA) scaffold rather than the variable spacer. Screening identified single-stranded DNA 7 (ssDNA7), which targets stem-loop-1 and the adjacent linker and inhibits Cas9 activity across multiple tested spacer sequences and genomic loci without redesigning the inhibitor. Carbohydrate conjugation improved oligonucleotide stability and preferentially enhanced inhibitory activity in selected liver-derived or cancer cell models. Amplicon sequencing confirmed inhibition of endogenous editing in multiple cell models and normal liver-derived organoids, and supported cell-preferential inhibition in matched cell comparisons. These findings establish sgRNA-scaffold targeting as a strategy for cross-target inhibition of Cas9 and show that carbohydrate conjugation can tune its cellular activity.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "inhibitor",
+      "oligonucleotide",
+      "sgRNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Bingzhi",
+        "Wang, Shulin",
+        "Cao, Min",
+        "Ma, Shuyao",
+        "Wang, Xin",
+        "Yang, Guang",
+        "Wu, Jing",
+        "Zhang, Xing"
+      ],
+      "short_names": [
+        "Li B",
+        "Wang S",
+        "Cao M",
+        "Ma S",
+        "Wang X",
+        "Yang G",
+        "Wu J",
+        "Zhang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China.",
+        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China.",
+        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China.",
+        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China.",
+        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China.",
+        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Shanghai Institute for Advanced Immunochemical Studies, ShanghaiTech University, Shanghai 201210, China.",
+        "School of Biotechnology and Key Laboratory of Industrial Biotechnology Ministry of Education, Jiangnan University, Wuxi 214122, China.",
+        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China. Electronic address: zhangxing@njnu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Bingzhi",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shulin",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Min",
+        "short_name": "Cao M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Shuyao",
+        "short_name": "Ma S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xin",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Guang",
+        "short_name": "Yang G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Shanghai Institute for Advanced Immunochemical Studies, ShanghaiTech University, Shanghai 201210, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jing",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology and Key Laboratory of Industrial Biotechnology Ministry of Education, Jiangnan University, Wuxi 214122, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xing",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China. Electronic address: zhangxing@njnu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Trends in biotechnology"
+    ],
+    "journal_abbrev": [
+      "Trends Biotechnol"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 23:34",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42744681",
+      "29082289",
+      "30068653",
+      "28706995",
+      "35139474",
+      "39777970",
+      "38859956",
+      "25742428",
+      "27342565",
+      "29019352",
+      "39816115",
+      "26305040",
+      "38260716",
+      "36209487",
+      "27185399",
+      "30894153",
+      "33661348",
+      "28375731",
+      "31601489",
+      "26945042",
+      "35856642",
+      "29219081",
+      "30990769",
+      "42488191",
+      "41678668",
+      "32486929",
+      "39510079",
+      "40542569",
+      "30673820",
+      "33687760",
+      "28140746",
+      "25274302",
+      "34122355",
+      "40501348",
+      "31139538",
+      "29680088",
+      "39647515",
+      "35700449",
+      "32643177",
+      "41430372",
+      "33609360",
+      "31079595",
+      "30231914",
+      "26782639",
+      "42015511",
+      "33322084",
+      "30340786",
+      "29497118",
+      "25275497",
+      "37325144",
+      "32220383",
+      "38186450",
+      "42261185",
+      "32807781",
+      "38545983",
+      "28435892",
+      "25239977",
+      "40004545",
+      "26324940",
+      "28527117",
+      "32048826",
+      "26535798",
+      "42541388",
+      "28484024",
+      "28459459",
+      "40697666",
+      "28177825",
+      "29331077",
+      "37080758",
+      "25184501",
+      "37037965",
+      "37562129",
+      "33718515",
+      "41017153",
+      "30978509",
+      "31821359",
+      "40763823",
+      "31754336",
+      "28851809",
+      "27340770",
+      "27210042",
+      "31971562",
+      "30190322",
+      "37525893",
+      "32426802",
+      "33448189",
+      "30683138",
+      "27832534",
+      "40688512",
+      "35915475",
+      "30926729",
+      "36350691",
+      "24651067",
+      "42187704",
+      "28605576",
+      "30606466",
+      "27733506",
+      "26063738",
+      "32079396",
+      "30833733"
+    ],
+    "review": [
+      "42744681",
+      "38859956",
+      "38260716",
+      "36209487",
+      "28375731",
+      "28140746",
+      "30340786",
+      "38186450",
+      "28527117",
+      "26535798",
+      "40697666",
+      "37080758",
+      "40763823",
+      "27340770",
+      "27210042",
+      "37525893",
+      "33448189",
+      "40688512",
+      "24651067"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0167-7799(26)00367-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0167-7799(26)00367-7",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

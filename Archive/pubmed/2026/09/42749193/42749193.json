@@ -1,0 +1,292 @@
+{
+  "identity": {
+    "pmid": "42749193",
+    "doi": "10.1016/j.plantsci.2026.113456",
+    "title": "GmMYB29 activates Gm4CL3 to enhance soybean resistance to Heterodera glycines."
+  },
+  "content": {
+    "abstract": "Soybean cyst nematode is a devastating soil-borne pathogen that severely limits soybean yield worldwide. To uncover downstream target genes of the resistance-associated transcription factor GmMYB29, we combined ChIP-seq and RNA-seq data from T(3)-generation GmMYB29-overexpressing soybean plants, alongside Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses, to screen candidate genes carrying transcription factor binding peaks within the 2000 bp region upstream of transcription start sites (TSS). Four orthogonal molecular assays-yeast one-hybrid (Y(1)H), electrophoretic mobility shift assay (EMSA), dual-luciferase reporter (LUC) system, and GUS histochemical staining-collectively confirmed the specific physical interaction between GmMYB29 and the promoter of Gm4CL3. We generated transgenic soybean hairy roots overexpressing Gm4CL3 (OX-Gm4CL3) and CRISPR-Cas9-mediated Gm4CL3 knockout lines (KO-Gm4CL3), with wild-type (WT) plants serving as controls. Inoculation assays using SCN 3 demonstrated that OX-Gm4CL3 roots displayed substantially improved SCN resistance, while KO-Gm4CL3 roots were hypersusceptible to nematode infection. Mechanistic investigations revealed that Gm4CL3 promotes lignin deposition in root tissues to block SCN penetration. Furthermore, GmMYB29 and Gm4CL3 act synergistically to activate lignin biosynthetic pathways and strengthen soybean resistance against SCN 3 (SCN Race 3, the dominant physiological race in Northeast China). In summary, this study functionally characterizes Gm4CL3 and defines a previously unreported GmMYB29-Gm4CL3 regulatory cascade that mediates plant defense against SCN. This module functions independent of classic SCN resistance loci rhg1/Rhg4, providing new genetic resources for SCN-resistant soybean molecular breeding.",
+    "keywords": [
+      "Glycine max",
+      "Gm4CL3",
+      "GmMYB29",
+      "Soybean cyst nematode",
+      "disease resistance",
+      "lignin deposition"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qu, Shuo",
+        "Zhang, Jinyuan",
+        "Zhang, Miaoli",
+        "Du, Shibo",
+        "Zhao, Xunchao",
+        "Li, Haiyan",
+        "Teng, Weili",
+        "Li, Yongguang",
+        "Zhao, Xue",
+        "Han, Yingpeng"
+      ],
+      "short_names": [
+        "Qu S",
+        "Zhang J",
+        "Zhang M",
+        "Du S",
+        "Zhao X",
+        "Li H",
+        "Teng W",
+        "Li Y",
+        "Zhao X",
+        "Han Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China.",
+        "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China. Electronic address: hyp234286@aliyun.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qu, Shuo",
+        "short_name": "Qu S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jinyuan",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Miaoli",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Du, Shibo",
+        "short_name": "Du S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xunchao",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Haiyan",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Teng, Weili",
+        "short_name": "Teng W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yongguang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xue",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Han, Yingpeng",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Soybean Biology in Chinese Ministry of Education (key Laboratory of Soybean Biology and Breeding/Genetics of Chinese Agriculture Ministry), Northeast Agricultural University, Harbin, China. Electronic address: hyp234286@aliyun.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant science : an international journal of experimental plant biology"
+    ],
+    "journal_abbrev": [
+      "Plant Sci"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749193",
+      "41375322",
+      "20529370",
+      "39831827",
+      "31031779",
+      "29169106",
+      "23136498",
+      "32645235",
+      "38976643",
+      "35133563",
+      "40394901",
+      "25880563",
+      "40465328",
+      "36959928",
+      "26268218",
+      "27582748",
+      "27064027",
+      "32152894",
+      "37409347",
+      "22857610",
+      "38733408",
+      "40982379",
+      "31230117",
+      "41150743",
+      "33449807",
+      "41548341",
+      "40515504",
+      "41834347",
+      "35381870",
+      "28856099",
+      "24739302",
+      "38053759",
+      "33185711",
+      "25903750",
+      "24034273",
+      "40960553",
+      "39822960",
+      "35371127",
+      "38695657",
+      "28710561",
+      "27581541",
+      "42461806",
+      "27441552",
+      "40898604",
+      "30688400",
+      "33394061",
+      "30335911",
+      "15883792",
+      "40772058",
+      "34343024",
+      "32968350",
+      "33846373",
+      "37313012",
+      "31570969",
+      "26566850",
+      "41652776",
+      "39966671",
+      "39311099",
+      "41591297",
+      "38171485",
+      "36160998",
+      "38478699",
+      "18324383",
+      "35860531",
+      "40918954",
+      "35665156",
+      "20565617",
+      "35787008",
+      "41776743",
+      "41591312",
+      "37948664",
+      "19429603",
+      "28615053",
+      "24169883",
+      "39392447",
+      "42095455",
+      "25356812",
+      "42050218",
+      "38003422",
+      "36912956",
+      "21335526",
+      "31960590",
+      "34532941",
+      "34943269",
+      "42452220",
+      "30722601",
+      "41254880",
+      "39135406",
+      "19856174",
+      "35050680",
+      "40115955",
+      "28489859",
+      "32757880",
+      "28852059",
+      "19277315",
+      "34884977",
+      "34851539",
+      "34282930",
+      "27323148",
+      "35205078"
+    ],
+    "review": [
+      "42749193",
+      "41652776",
+      "41591312"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0168-9452(26)00484-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

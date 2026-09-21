@@ -1,0 +1,531 @@
+{
+  "identity": {
+    "pmid": "42735493",
+    "doi": "10.1016/j.neo.2026.101359",
+    "title": "Understanding tumor adaptations and resistance to MET inhibitors in MET-altered non-small cell lung cancer."
+  },
+  "content": {
+    "abstract": "AIM: Type Ib MET inhibitors are clinically active in selected MET-altered non-small cell lung cancer, particularly tumors with MET exon 14 skipping or MET amplification, but acquired resistance remains incompletely understood. Here, we investigated resistance across biologically distinct MET-altered contexts, including MET exon 14 skipping, MET amplification, and MET overexpression. METHODS: Paired baseline and progression samples from seven patients treated with tepotinib or capmatinib were analyzed using spatial transcriptomics, whole-exome sequencing, RNA sequencing, CRISPR screening, and drug-combination assays. Patient-derived cultures and resistant cell-line models were used to explore resistance-associated changes. RESULTS: MET inhibitor resistance was heterogeneous, with persistence of the initial MET alteration in most evaluable cases and emergence of patient-specific genomic events. Three main resistance-associated, often overlapping, routes were identified: on-target MET evolution through kinase-domain alterations; extracellular matrix and tumor-microenvironment remodeling, including collagen and fibronectin upregulation, complement-related signaling, and partial EMT-associated programs; and bypass signaling involving EGFR/HER, MAPK, and PI3K/Akt pathways. In vitro models reproduced several tumor-cell-intrinsic features but only partially captured microenvironment-associated changes. CONCLUSIONS: MET inhibitor resistance in this cohort involved overlapping, context-dependent genomic, phenotypic, and signaling adaptations, supporting combination strategies for MET-altered lung cancer.",
+    "keywords": [
+      "CRISPR screen",
+      "Lung cancer (NSCLC)",
+      "MET exon 14",
+      "MET inhibition",
+      "Resistance",
+      "Spatial transcriptomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Simard, Manon A",
+        "Marin, Elba",
+        "Garcia-Roman, Silvia",
+        "Aguado, Cristina",
+        "Yekelchyk, Michail",
+        "Schmelas, Carolin",
+        "Berges, Nina",
+        "Mardin, Balca R",
+        "Ockfen, Sophie",
+        "Schaefer, Rebecca",
+        "Esser, Markus",
+        "Yang, Jing",
+        "Geist, Felix",
+        "Schadt, Oliver",
+        "Reusch, Christof",
+        "Bender, Sebastian",
+        "Jordana-Ariza, Nuria",
+        "Esparre, Carlos",
+        "Roman, Ruth",
+        "Apata, Tolulope",
+        "Teixido, Cristina",
+        "Rico-Pasto, Marc",
+        "Hijazo-Pechero, Sara",
+        "Querol, Marina",
+        "Morfouace, Marie",
+        "Molina-Vila, Miguel Angel",
+        "Reguart, Noemi",
+        "Karachaliou, Niki"
+      ],
+      "short_names": [
+        "Simard MA",
+        "Marin E",
+        "Garcia-Roman S",
+        "Aguado C",
+        "Yekelchyk M",
+        "Schmelas C",
+        "Berges N",
+        "Mardin BR",
+        "Ockfen S",
+        "Schaefer R",
+        "Esser M",
+        "Yang J",
+        "Geist F",
+        "Schadt O",
+        "Reusch C",
+        "Bender S",
+        "Jordana-Ariza N",
+        "Esparre C",
+        "Roman R",
+        "Apata T",
+        "Teixido C",
+        "Rico-Pasto M",
+        "Hijazo-Pechero S",
+        "Querol M",
+        "Morfouace M",
+        "Molina-Vila MA",
+        "Reguart N",
+        "Karachaliou N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Hospital Clinic, Barcelona, Spain; Department of Medicine, University of Barcelona, Barcelona, Spain.",
+        "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain.",
+        "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Discovery Development Technologies, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany; Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany; Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Discovery Development Technologies, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain.",
+        "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain; Facultat de Medicina i Ciencies de la Salut, Universitat de Barcelona, Barcelona, Spain.",
+        "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain.",
+        "Hospital Clinic, Barcelona, Spain.",
+        "Department of Medicine, University of Barcelona, Barcelona, Spain; Translational Genomics and Targeted Therapeutics in Solid Tumors, IDIBAPS, Barcelona, Spain; Molecular Biology CORE & Department of Pathology, Hospital Clinic Barcelona, Barcelona, Spain.",
+        "Hospital Clinic, Barcelona, Spain; Institute for Bioengineering of Catalonia (IBEC), The Barcelona Institute for Science and Technology (BIST), Barcelona, Spain; Unit of Biophysics and Bioengineering, Department of Biomedicine, School of Medicine and Health Sciences, Universitat de Barcelona, Barcelona, Spain.",
+        "Hospital Clinic, Barcelona, Spain.",
+        "Hospital Clinic, Barcelona, Spain.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany.",
+        "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain.",
+        "Hospital Clinic, Barcelona, Spain.",
+        "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany; Global Clinical Development, Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany. Electronic address: niki.karachaliou@emdgroup.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Simard, Manon A",
+        "short_name": "Simard MA",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Marín, Elba",
+        "short_name": "Marín E",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital Clinic, Barcelona, Spain; Department of Medicine, University of Barcelona, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "García-Roman, Silvia",
+        "short_name": "García-Roman S",
+        "identifiers": [],
+        "affiliations": [
+          "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Aguado, Cristina",
+        "short_name": "Aguado C",
+        "identifiers": [],
+        "affiliations": [
+          "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Yekelchyk, Michail",
+        "short_name": "Yekelchyk M",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Schmelas, Carolin",
+        "short_name": "Schmelas C",
+        "identifiers": [],
+        "affiliations": [
+          "Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Berges, Nina",
+        "short_name": "Berges N",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Development Technologies, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Mardin, Balca R",
+        "short_name": "Mardin BR",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Ockfen, Sophie",
+        "short_name": "Ockfen S",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany; Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Schaefer, Rebecca",
+        "short_name": "Schaefer R",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany; Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Esser, Markus",
+        "short_name": "Esser M",
+        "identifiers": [],
+        "affiliations": [
+          "Lab Services, Site Management, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Yang, Jing",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Geist, Felix",
+        "short_name": "Geist F",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Schadt, Oliver",
+        "short_name": "Schadt O",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Development Technologies, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Reusch, Christof",
+        "short_name": "Reusch C",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Bender, Sebastian",
+        "short_name": "Bender S",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Jordana-Ariza, Núria",
+        "short_name": "Jordana-Ariza N",
+        "identifiers": [],
+        "affiliations": [
+          "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Esparré, Carlos",
+        "short_name": "Esparré C",
+        "identifiers": [],
+        "affiliations": [
+          "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain; Facultat de Medicina i Ciències de la Salut, Universitat de Barcelona, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Román, Ruth",
+        "short_name": "Román R",
+        "identifiers": [],
+        "affiliations": [
+          "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Apata, Tolulope",
+        "short_name": "Apata T",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital Clinic, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Teixido, Cristina",
+        "short_name": "Teixido C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Barcelona, Barcelona, Spain; Translational Genomics and Targeted Therapeutics in Solid Tumors, IDIBAPS, Barcelona, Spain; Molecular Biology CORE & Department of Pathology, Hospital Clinic Barcelona, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Rico-Pastó, Marc",
+        "short_name": "Rico-Pastó M",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital Clinic, Barcelona, Spain; Institute for Bioengineering of Catalonia (IBEC), The Barcelona Institute for Science and Technology (BIST), Barcelona, Spain; Unit of Biophysics and Bioengineering, Department of Biomedicine, School of Medicine and Health Sciences, Universitat de Barcelona, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Hijazo-Pechero, Sara",
+        "short_name": "Hijazo-Pechero S",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital Clinic, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Querol, Marina",
+        "short_name": "Querol M",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital Clinic, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Morfouace, Marie",
+        "short_name": "Morfouace M",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany."
+        ]
+      },
+      {
+        "full_name": "Molina-Vila, Miguel Ángel",
+        "short_name": "Molina-Vila MÁ",
+        "identifiers": [],
+        "affiliations": [
+          "Pangaea Oncology, Hospital Universitari Dexeus, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Reguart, Noemí",
+        "short_name": "Reguart N",
+        "identifiers": [],
+        "affiliations": [
+          "Hospital Clinic, Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Karachaliou, Niki",
+        "short_name": "Karachaliou N",
+        "identifiers": [],
+        "affiliations": [
+          "Research Unit Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany; Global Clinical Development, Oncology, the healthcare business of Merck KGaA, Darmstadt, Germany. Electronic address: niki.karachaliou@emdgroup.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neoplasia (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Neoplasia"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:06",
+    "fetched_at": "2026-09-21 15:58:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42735493",
+      "42174600",
+      "41981677",
+      "42450152",
+      "42087187",
+      "30309221",
+      "38361741",
+      "36338758",
+      "33621951",
+      "39089913",
+      "42201505",
+      "36698189",
+      "41152910",
+      "30072474",
+      "36338701",
+      "28961841",
+      "37941971",
+      "41865688",
+      "35690785",
+      "33740553",
+      "26580964",
+      "30674502",
+      "41934258",
+      "39430327",
+      "36101520",
+      "31368815",
+      "30098066",
+      "42583423",
+      "42728536",
+      "36999526",
+      "39743377",
+      "33305187",
+      "28024693",
+      "42031983",
+      "42526383",
+      "35855460",
+      "40224983",
+      "36811415",
+      "34945842",
+      "34425853",
+      "36136211",
+      "31548343",
+      "41226501",
+      "40456875",
+      "42170254",
+      "34365406",
+      "41588951",
+      "34918545",
+      "34295201",
+      "30453282",
+      "42741742",
+      "33889528",
+      "26351321",
+      "34476332",
+      "37041472",
+      "32615820",
+      "31747941",
+      "33545388",
+      "32306194",
+      "32034073",
+      "28469968",
+      "42055889",
+      "39024976",
+      "40251527",
+      "32169477",
+      "26791794",
+      "26124204",
+      "41595127",
+      "35078819",
+      "30352902",
+      "25831463",
+      "35116995",
+      "32877583",
+      "36521334",
+      "30156984",
+      "37509224",
+      "33643443",
+      "36248327",
+      "35679833",
+      "42381268",
+      "32479794",
+      "40056282",
+      "26729443",
+      "28765324",
+      "36999986",
+      "42351126",
+      "34642436",
+      "40799414",
+      "39241297",
+      "27472392",
+      "32920200",
+      "38074875",
+      "38981315",
+      "27343442",
+      "40470164",
+      "33007380",
+      "38480027",
+      "41510126",
+      "19381876",
+      "35266116"
+    ],
+    "review": [
+      "42735493",
+      "41981677",
+      "42450152",
+      "36338701",
+      "37941971",
+      "33740553",
+      "41934258",
+      "31368815",
+      "42583423",
+      "28024693",
+      "42526383",
+      "35855460",
+      "34945842",
+      "34425853",
+      "41226501",
+      "42170254",
+      "41588951",
+      "34295201",
+      "33889528",
+      "32615820",
+      "32306194",
+      "40251527",
+      "32169477",
+      "41595127",
+      "37509224",
+      "33643443",
+      "36999986",
+      "40799414",
+      "38480027",
+      "41510126"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-5586(26)00091-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-8",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-802",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S1476-5586(26)00091-6",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

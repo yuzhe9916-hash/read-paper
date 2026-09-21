@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42764010",
+    "doi": "10.1016/j.bios.2026.119227",
+    "title": "CRISPR-AMPED: A CRISPR/Cas-based immunoassay with attomolar sensitivity enabled by magnetic proximity extension and detection."
+  },
+  "content": {
+    "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR)/Cas-associated systems have emerged as powerful tools for next-generation molecular diagnostics, particularly for nucleic acid detection. However, ultrasensitive protein detection is equally critical across diverse applications in biology and medicine, especially for diagnosing and prognosing diseases such as cancer, traumatic brain injury (TBI), Alzheimer's disease, and cardiovascular diseases. Despite recent efforts to adapt CRISPR/Cas systems for protein detection, these methods have typically achieved sensitivity in the femtomolar to picomolar range, underscoring the need for enhanced detection capabilities. Here, we developed CRISPR-AMPED, a CRISPR/Cas-based immunoassay enhanced by magnetic proximity extension and detection. This approach combines proximity extension assay (PEA) with magnetic beads to convert protein targets into DNA barcodes while enabling effective washing to reduce background noise. The resulting DNA barcodes are detected through recombinase polymerase amplification (RPA) coupled with CRISPR/Cas12a, eliminating thermocycling and providing simultaneous target and signal amplification. CRISPR-AMPED achieves attomolar-level sensitivity, surpassing ELISA by over three orders of magnitude and outperforming existing immunoassays and CRISPR/Cas-based protein detection systems. As an initial demonstration of clinical utility, we applied CRISPR-AMPED to detect the inflammatory biomarker interleukin-8 (IL-8) in serum samples from patients with TBI and healthy controls. Further integration with a smartphone-based detection device demonstrates its potential for portable testing, while the digital format extends the dynamic range and enhances quantitation precision. Together, these results establish CRISPR-AMPED as a sensitive protein detection approach using IL-8 as an initial model target and provide a framework for future adaptation to additional protein biomarkers.",
+    "keywords": [
+      "CRISPR/Cas",
+      "Digitization",
+      "Isothermal nucleic acid amplification",
+      "Point-of-care",
+      "Protein detection",
+      "Proximity extension assay"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shao, Fangchi",
+        "Hu, Jiumei",
+        "Traylor, Amelia",
+        "Lei, Hanran",
+        "Zhang, Pengfei",
+        "Akarapipad, Patarajarin",
+        "Park, Joon Soo",
+        "Hsieh, Kuangwen",
+        "Wang, Tza-Huei"
+      ],
+      "short_names": [
+        "Shao F",
+        "Hu J",
+        "Traylor A",
+        "Lei H",
+        "Zhang P",
+        "Akarapipad P",
+        "Park JS",
+        "Hsieh K",
+        "Wang TH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA.",
+        "Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA.",
+        "Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA.",
+        "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA.",
+        "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA.",
+        "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA.",
+        "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA.",
+        "Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA. Electronic address: khsieh4@jhu.edu.",
+        "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA; Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA. Electronic address: thwang@jhu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shao, Fangchi",
+        "short_name": "Shao F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Jiumei",
+        "short_name": "Hu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA."
+        ]
+      },
+      {
+        "full_name": "Traylor, Amelia",
+        "short_name": "Traylor A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA."
+        ]
+      },
+      {
+        "full_name": "Lei, Hanran",
+        "short_name": "Lei H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Pengfei",
+        "short_name": "Zhang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA."
+        ]
+      },
+      {
+        "full_name": "Akarapipad, Patarajarin",
+        "short_name": "Akarapipad P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA."
+        ]
+      },
+      {
+        "full_name": "Park, Joon Soo",
+        "short_name": "Park JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA."
+        ]
+      },
+      {
+        "full_name": "Hsieh, Kuangwen",
+        "short_name": "Hsieh K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA. Electronic address: khsieh4@jhu.edu."
+        ]
+      },
+      {
+        "full_name": "Wang, Tza-Huei",
+        "short_name": "Wang TH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA; Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD, 21218, USA. Electronic address: thwang@jhu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/20 23:34",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42764010",
+      "39314939",
+      "40763823",
+      "40277382",
+      "38472096",
+      "42217635",
+      "38647075",
+      "38383404",
+      "41288291",
+      "41161575",
+      "42474386",
+      "35303554",
+      "40286970",
+      "39666765",
+      "38653014",
+      "42529880",
+      "33717855",
+      "41881766",
+      "39974464",
+      "41361988",
+      "41054568",
+      "36686235",
+      "39211481",
+      "40151930",
+      "39724853",
+      "42522597",
+      "39459882",
+      "37079992",
+      "36533412",
+      "37612816",
+      "39881979",
+      "39754554",
+      "38809001",
+      "40387535",
+      "38128320",
+      "40704803",
+      "35461116",
+      "35127671",
+      "42533766",
+      "40347696",
+      "38249803",
+      "37874890",
+      "42046341",
+      "40599263",
+      "42239534",
+      "39396286",
+      "41606937",
+      "38319081",
+      "34305865",
+      "39348463",
+      "32470556",
+      "40274667",
+      "40840128",
+      "42212930",
+      "40938680",
+      "42704380",
+      "38717584",
+      "41955813",
+      "42559496",
+      "34990457",
+      "32758911",
+      "41135356",
+      "40884263",
+      "42328982",
+      "42075335",
+      "33581428",
+      "40899880",
+      "41914763",
+      "41885207",
+      "38069533",
+      "39078660",
+      "41149312",
+      "39307577",
+      "41371329",
+      "41431195",
+      "38530904",
+      "40498068",
+      "38651662",
+      "36974023",
+      "42027081",
+      "38978209",
+      "39702333",
+      "34280652",
+      "42179772",
+      "39663809",
+      "42485704",
+      "40087758",
+      "39902531",
+      "40063799",
+      "40170086",
+      "38994004",
+      "42687281",
+      "41991300",
+      "34454111",
+      "36318504",
+      "40749819",
+      "39647408",
+      "37722405",
+      "42475469",
+      "41316351"
+    ],
+    "review": [
+      "42764010",
+      "40763823",
+      "42217635",
+      "41161575",
+      "35303554",
+      "42529880",
+      "39974464",
+      "39211481",
+      "39724853",
+      "39459882",
+      "36533412",
+      "37612816",
+      "42533766",
+      "38249803",
+      "41606937",
+      "40274667",
+      "40938680",
+      "32758911",
+      "40884263",
+      "42075335",
+      "41149312",
+      "39307577",
+      "41371329",
+      "36974023",
+      "42027081",
+      "42179772",
+      "40087758",
+      "39902531",
+      "42687281",
+      "41991300"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

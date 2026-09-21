@@ -1,0 +1,304 @@
+{
+  "identity": {
+    "pmid": "42753192",
+    "doi": "10.1002/cpz1.70444",
+    "title": "Protoplasting and Transformation Using CRISPR/Cas9 in Coccidioides."
+  },
+  "content": {
+    "abstract": "Coccidioides posadasii and C. immitis are human fungal pathogens endemic to the American Southwest. C. posadasii and C. immitis are the causative agents of coccidioidomycosis, or Valley fever. They are pathogens of growing concern, as reported cases of coccidioidomycosis have increased 20-fold in the last two decades. Despite their importance as pathogens, Coccidioides spp. are understudied, especially compared to other human fungal pathogens with similar infectious burdens. The reasons Coccidioides spp. are understudied are multifactorial, including requirement of high biocontainment, technical difficulties in lab-based culture growth, and a historic lack of genetic tools. Previous methods of genetic manipulation have been technically challenging, time consuming, and inefficient. Here, we present protocols for designing gene deletion constructs, generating protoplasts from both genetically engineered biosafety level 2 (BSL2) and wildtype biosafety level 3 (BSL3) strains, and performing transformations with CRISPR/Cas9. The protoplasting protocol described here uses a cell wall digestion enzyme employed in the wine-making industry and results in high-quality protoplasts that have the potential to be used for applications beyond transformations. We also present a high-efficiency transformation method using CRISPR/Cas9. The protocols described here will allow for genetic manipulation of Coccidioides, using both BSL2 and BSL3 strains. This resource can be applied to expand research done in Coccidioides spp., build molecular tools, and expand overall knowledge of these important pathogens. (c) 2026 The Author(s). Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: Construction of gene deletion construct Alternate Protocol 1: Construction of gene deletion construct Basic Protocol 2: Creation of protoplasts in BSL3 Alternate Protocol 2: Creation of protoplasts in BSL2 Basic Protocol 3: CRISPR/Cas9 transformation in BSL3 Alternate Protocol 3: CRISPR/Cas9 transformation in BSL2 Support Protocol: Passaging of mutants and PCR confirmation.",
+    "keywords": [
+      "CRISPR",
+      "Coccidioides",
+      "fungal genetics",
+      "homology-directed repair",
+      "protoplasting"
+    ],
+    "mesh_terms": [
+      "*Coccidioides/genetics",
+      "*Protoplasts/metabolism",
+      "*Transformation, Genetic",
+      "*CRISPR-Cas Systems/genetics",
+      "Gene Deletion",
+      "Coccidioidomycosis/microbiology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jackson, Katrina M",
+        "Morales, Matthew M",
+        "Szewczyk, Edyta",
+        "Homer, Christina M",
+        "Itogawa, Ashley N",
+        "Brem, Rachel B",
+        "Sil, Anita",
+        "Barker, Bridget M"
+      ],
+      "short_names": [
+        "Jackson KM",
+        "Morales MM",
+        "Szewczyk E",
+        "Homer CM",
+        "Itogawa AN",
+        "Brem RB",
+        "Sil A",
+        "Barker BM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2944-8015",
+        "ORCID: 0009-0004-3137-2429",
+        "ORCID: 0000-0002-2054-5855",
+        "ORCID: 0000-0003-4835-090X",
+        "ORCID: 0000-0002-8587-9434",
+        "ORCID: 0000-0002-3987-7534",
+        "ORCID: 0000-0002-3439-4517"
+      ],
+      "affiliations": [
+        "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona.",
+        "These authors contributed equally to this work.",
+        "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona.",
+        "These authors contributed equally to this work.",
+        "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, California.",
+        "Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, California.",
+        "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona.",
+        "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, California.",
+        "Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, California.",
+        "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jackson, Katrina M",
+        "short_name": "Jackson KM",
+        "identifiers": [
+          "0000-0002-2944-8015"
+        ],
+        "affiliations": [
+          "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona.",
+          "These authors contributed equally to this work."
+        ]
+      },
+      {
+        "full_name": "Morales, Matthew M",
+        "short_name": "Morales MM",
+        "identifiers": [
+          "0009-0004-3137-2429"
+        ],
+        "affiliations": [
+          "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona.",
+          "These authors contributed equally to this work."
+        ]
+      },
+      {
+        "full_name": "Szewczyk, Edyta",
+        "short_name": "Szewczyk E",
+        "identifiers": [
+          "0000-0002-2054-5855"
+        ],
+        "affiliations": [
+          "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, California."
+        ]
+      },
+      {
+        "full_name": "Homer, Christina M",
+        "short_name": "Homer CM",
+        "identifiers": [
+          "0000-0003-4835-090X"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, California."
+        ]
+      },
+      {
+        "full_name": "Itogawa, Ashley N",
+        "short_name": "Itogawa AN",
+        "identifiers": [],
+        "affiliations": [
+          "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona."
+        ]
+      },
+      {
+        "full_name": "Brem, Rachel B",
+        "short_name": "Brem RB",
+        "identifiers": [
+          "0000-0002-8587-9434"
+        ],
+        "affiliations": [
+          "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, California."
+        ]
+      },
+      {
+        "full_name": "Sil, Anita",
+        "short_name": "Sil A",
+        "identifiers": [
+          "0000-0002-3987-7534"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, California."
+        ]
+      },
+      {
+        "full_name": "Barker, Bridget M",
+        "short_name": "Barker BM",
+        "identifiers": [
+          "0000-0002-3439-4517"
+        ],
+        "affiliations": [
+          "Pathogen and Microbiome Institute, Northern Arizona University, Flagstaff, Arizona."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current protocols"
+    ],
+    "journal_abbrev": [
+      "Curr Protoc"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:32",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753192",
+      "34529679",
+      "33853870",
+      "27118594",
+      "32894648",
+      "35319247",
+      "34730378",
+      "33491919",
+      "41467789",
+      "30737491",
+      "33871031",
+      "24577001",
+      "40995763",
+      "37021953",
+      "10992492",
+      "32878930",
+      "31772050",
+      "33315302",
+      "40985725",
+      "39365073",
+      "34748280",
+      "27191589",
+      "24004977",
+      "41459970",
+      "35950852",
+      "36294626",
+      "40815159",
+      "39601181",
+      "39656015",
+      "38153181",
+      "24576996",
+      "40126178",
+      "34529358",
+      "41134192",
+      "41273185",
+      "31208390",
+      "29444806",
+      "22366717",
+      "41674084",
+      "35076277",
+      "42084692",
+      "40421923",
+      "33165782",
+      "22328372",
+      "32887261",
+      "36598341",
+      "35129865",
+      "24270069",
+      "30179067",
+      "40014012",
+      "35612314",
+      "36426905",
+      "39999224",
+      "36066245",
+      "33471331",
+      "35339702",
+      "39240247",
+      "16672423",
+      "19487479",
+      "41961403",
+      "30972865",
+      "22911737",
+      "31132514",
+      "37851522",
+      "17484074",
+      "39535522",
+      "31539511",
+      "37984376",
+      "39688406",
+      "34454980",
+      "37755326",
+      "40559615",
+      "18154078",
+      "29540148",
+      "35137016",
+      "31420023",
+      "29790449",
+      "34370406",
+      "32933485",
+      "32501639",
+      "16699492",
+      "41968243",
+      "19435693",
+      "23167705",
+      "38340191",
+      "17257105",
+      "34432381",
+      "29593263",
+      "29130603",
+      "37131068",
+      "34748284",
+      "42475469",
+      "29754231",
+      "26275879",
+      "41297174",
+      "12065484",
+      "29437615",
+      "41986936",
+      "25908652",
+      "28566083"
+    ],
+    "review": [
+      "42753192",
+      "39365073",
+      "24576996",
+      "24270069",
+      "30179067"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cpz1.70444",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

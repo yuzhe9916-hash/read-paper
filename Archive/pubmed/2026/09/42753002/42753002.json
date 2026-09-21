@@ -1,0 +1,368 @@
+{
+  "identity": {
+    "pmid": "42753002",
+    "doi": "10.1155/jimr/8131644",
+    "title": "Cancer-Testis Antigens in Immuno Oncology Mechanisms Therapeutic Strategies and Clinical Perspectives."
+  },
+  "content": {
+    "abstract": "Cancer-testis antigens (CTAs) represent a unique class of tumor-associated antigens (TAAs) with highly restricted expression in immune-privileged tissues and widespread aberrant activation in various malignancies. Their potent immunogenicity and tumor specificity make CTAs promising targets for cancer immunotherapy. This review provides a comprehensive overview of the molecular regulation, biological functions, and therapeutic applications of CTAs. We detail the genetic and epigenetic mechanisms that drive CTA expression in cancer, their roles in tumor progression, and their capacity to elicit robust CD8(+) T cell responses. Recent clinical advances in peptide- and dendritic cell-based vaccines, T-cell receptor (TCR)-engineered adoptive cell therapies, and combination strategies with immune checkpoint inhibitors (ICIs) are highlighted, emphasizing NY-ESO-1 and MAGE family antigens as leading candidates. We further discuss the major challenges limiting clinical translation, emphasizing that despite promising immunogenicity, most CTA-directed modalities remain in early clinical evaluation with heterogeneous response rates, intratumoral heterogeneity, antigen loss, and risks of off-target toxicity. The review also explores emerging approaches-such as epigenetic modulators, multiantigen targeting, and CRISPR-based gene editing-that aim to enhance the precision and efficacy of CTA-based immunotherapies. Together, these insights underscore the strategic potential of CTAs in next-generation immunotherapy and outline the future directions required to bring these promising agents from bench to bedside.",
+    "keywords": [
+      "antigen-specific vaccines",
+      "cancer-testis antigens (CTAs)",
+      "immune checkpoint inhibitors",
+      "tumor heterogeneity",
+      "tumor immunotherapy"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Antigens, Neoplasm/immunology/genetics/metabolism",
+      "Cancer Vaccines/immunology/therapeutic use",
+      "Animals",
+      "*Neoplasms/therapy/immunology",
+      "*Immunotherapy/methods",
+      "Male",
+      "Epigenesis, Genetic",
+      "Immune Checkpoint Inhibitors/therapeutic use",
+      "*Testis/immunology"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Ranran",
+        "Ran, Ling",
+        "Song, Tiantian",
+        "Zhou, Xiaowen",
+        "Zhao, Wenshan",
+        "Zhang, Yijie"
+      ],
+      "short_names": [
+        "Shi R",
+        "Ran L",
+        "Song T",
+        "Zhou X",
+        "Zhao W",
+        "Zhang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0178-7581",
+        "ORCID: 0000-0002-8018-5978"
+      ],
+      "affiliations": [
+        "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+        "Henan Province Engineering and Technology Research Center of Foods for Special Medical Purpose, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+        "Respiratory Medicine Department, Luohe Central Hospital, Luohe 462000, China, lhzxyy.com.cn.",
+        "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+        "Henan Province Engineering and Technology Research Center of Foods for Special Medical Purpose, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+        "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+        "Henan Province Engineering and Technology Research Center of Foods for Special Medical Purpose, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+        "School of Life Sciences, Zhengzhou University, Zhengzhou 450001, China, zzu.edu.cn.",
+        "School of Life Sciences, Zhengzhou University, Zhengzhou 450001, China, zzu.edu.cn.",
+        "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+        "Respiratory Medicine Department, Luohe Central Hospital, Luohe 462000, China, lhzxyy.com.cn.",
+        "Translational Medicine Center, Huaihe Hospital of Henan University, Kaifeng 475000, China, henu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Ranran",
+        "short_name": "Shi R",
+        "identifiers": [
+          "0000-0003-0178-7581"
+        ],
+        "affiliations": [
+          "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+          "Henan Province Engineering and Technology Research Center of Foods for Special Medical Purpose, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+          "Respiratory Medicine Department, Luohe Central Hospital, Luohe 462000, China, lhzxyy.com.cn."
+        ]
+      },
+      {
+        "full_name": "Ran, Ling",
+        "short_name": "Ran L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+          "Henan Province Engineering and Technology Research Center of Foods for Special Medical Purpose, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Song, Tiantian",
+        "short_name": "Song T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+          "Henan Province Engineering and Technology Research Center of Foods for Special Medical Purpose, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaowen",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Zhengzhou University, Zhengzhou 450001, China, zzu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhao, Wenshan",
+        "short_name": "Zhao W",
+        "identifiers": [
+          "0000-0002-8018-5978"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Zhengzhou University, Zhengzhou 450001, China, zzu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yijie",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic Medical Sciences, Luohe Medical College, Luohe 462000, China, lhmc.edu.cn.",
+          "Respiratory Medicine Department, Luohe Central Hospital, Luohe 462000, China, lhzxyy.com.cn.",
+          "Translational Medicine Center, Huaihe Hospital of Henan University, Kaifeng 475000, China, henu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of immunology research"
+    ],
+    "journal_abbrev": [
+      "J Immunol Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:33",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753002",
+      "29770138",
+      "27603913",
+      "42419156",
+      "33933558",
+      "42632040",
+      "39275923",
+      "35872653",
+      "41846058",
+      "34174699",
+      "30171980",
+      "42622964",
+      "41521168",
+      "12171503",
+      "41209563",
+      "42220535",
+      "42520865",
+      "30656409",
+      "40952557",
+      "41730382",
+      "36464170",
+      "39970827",
+      "30909205",
+      "39848687",
+      "38886115",
+      "20981248",
+      "40336045",
+      "41367288",
+      "12445278",
+      "30185136",
+      "42724148",
+      "40818568",
+      "39048489",
+      "25933181",
+      "28274891",
+      "41694348",
+      "42068906",
+      "41689608",
+      "22710665",
+      "41578757",
+      "41349781",
+      "26158218",
+      "33910064",
+      "20420535",
+      "41129177",
+      "37857483",
+      "31634526",
+      "19719775",
+      "33017150",
+      "41187575",
+      "40898324",
+      "40629076",
+      "39139570",
+      "42035063",
+      "40550431",
+      "39457036",
+      "39062753",
+      "19795170",
+      "37731507",
+      "11150901",
+      "40746887",
+      "33795383",
+      "39257225",
+      "41963297",
+      "17786175",
+      "40127471",
+      "41989053",
+      "42475469",
+      "18677478",
+      "32841942",
+      "29032737",
+      "42266677",
+      "40126885",
+      "40125430",
+      "42629524",
+      "22306901",
+      "41016975",
+      "42189068",
+      "41493661",
+      "40649958",
+      "36587382",
+      "42070646",
+      "34083416",
+      "25483639",
+      "41920287",
+      "41912068",
+      "42004970",
+      "40152219",
+      "42317132",
+      "32808760",
+      "27235694",
+      "40713697",
+      "40266514",
+      "22770803",
+      "40442904",
+      "27846884",
+      "39398476",
+      "42128147",
+      "39662393",
+      "42261754"
+    ],
+    "review": [
+      "42753002",
+      "29770138",
+      "27603913",
+      "42419156",
+      "33933558",
+      "42632040",
+      "39275923",
+      "35872653",
+      "41846058",
+      "34174699",
+      "30171980",
+      "42622964",
+      "41521168",
+      "12171503",
+      "41209563",
+      "42220535",
+      "42520865",
+      "30656409",
+      "40952557",
+      "41730382",
+      "36464170",
+      "39970827",
+      "39848687",
+      "20981248",
+      "40336045",
+      "41367288",
+      "12445278",
+      "30185136",
+      "42724148",
+      "40818568",
+      "39048489",
+      "25933181",
+      "41694348",
+      "42068906",
+      "41689608",
+      "22710665",
+      "41578757",
+      "41349781",
+      "26158218",
+      "33910064",
+      "20420535",
+      "31634526",
+      "19719775",
+      "41187575",
+      "40898324",
+      "40629076",
+      "39139570",
+      "42035063",
+      "40550431",
+      "39457036",
+      "39062753",
+      "37731507",
+      "11150901",
+      "40746887",
+      "39257225",
+      "41963297",
+      "17786175",
+      "40127471",
+      "41989053",
+      "32841942",
+      "29032737",
+      "42266677",
+      "40126885",
+      "40125430",
+      "42629524",
+      "41016975",
+      "42189068",
+      "41493661",
+      "40649958",
+      "42070646",
+      "34083416",
+      "25483639",
+      "41920287",
+      "41912068",
+      "42004970",
+      "40152219",
+      "42317132",
+      "27235694",
+      "40713697",
+      "40266514",
+      "40442904",
+      "39398476",
+      "42128147",
+      "39662393",
+      "42261754"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/jimr/8131644",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

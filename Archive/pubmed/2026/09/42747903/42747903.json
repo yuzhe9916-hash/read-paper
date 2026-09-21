@@ -1,0 +1,324 @@
+{
+  "identity": {
+    "pmid": "42747903",
+    "doi": "10.1042/CS20250850",
+    "title": "Histone demethylase Kdm2a aggravates pressure overload-induced myocardial fibrosis through global and locus-specific H3K36me2 chromatin remodeling."
+  },
+  "content": {
+    "abstract": "Subclinical hypertensive heart disease (SHHD) is a precursor to heart failure and ultimately progresses to impaired left ventricular systolic function, which is characterized by myocardial hypertrophy leading to compromised contractility and by myofibroblast proliferation and activation leading to decreased myocardial compliance. However, the epigenetic mechanisms that coordinate fibroblast-mediated fibrosis during pressure overload remain incompletely understood. Here, we identified the histone demethylase Kdm2a as an important regulator of cardiac remodeling in a mouse transverse aortic constriction (TAC) model. Kdm2a was upregulated and enriched in activated cardiac fibroblasts during TAC-induced remodeling. Fibroblast-enriched Kdm2a knockdown improved cardiac function, reduced myocardial hypertrophy, and markedly attenuated interstitial and perivascular fibrosis in TAC hearts. In cultured primary cardiac fibroblasts, profibrotic stimulation increased Kdm2a expression, whereas CRISPR-mediated Kdm2a knockout suppressed fibroblast activation, collagen production, and extracellular matrix deposition. Conversely, Kdm2a overexpression enhanced profibrotic responses. RNA sequencing and network analyses further showed that Kdm2a modulates extracellular matrix-associated pathways and remodeling-related gene programs. Mechanistically, Kdm2a modulation was associated with both global and locus-specific remodeling of H3K36me2. Kdm2a upregulation was accompanied by altered bulk H3K36me2 levels, while CUT&RUN-qPCR demonstrated locus-specific changes in H3K36me2 enrichment at remodeling-associated genes, including Col1a1, Col4a1, and Cdkn2b/p15. These findings suggest that Kdm2a reshapes the H3K36me2 chromatin landscape in a context- and locus-dependent manner to promote fibroblast activation and extracellular matrix remodeling and identify Kdm2a as an epigenetic driver of fibroblast-mediated cardiac remodeling and a potential therapeutic target for sustained pressure overload-induced heart failure.",
+    "keywords": [
+      "Extracellular Matrix",
+      "Fibroblasts",
+      "Fibrosis",
+      "Heart Failure",
+      "Histone Demethylases",
+      "Ventricular Remodeling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Lianpin",
+        "Chen, Jiaqi",
+        "Wang, Yizhe",
+        "Jin, Maoxiang",
+        "Zhou, Puyu",
+        "Liu, Xing",
+        "Zheng, Qiang",
+        "Huang, Jinxiang",
+        "Wu, Shujie",
+        "Ren, Fangfang",
+        "Zheng, Peng",
+        "Zhang, Xinming",
+        "Li, Lei"
+      ],
+      "short_names": [
+        "Wu L",
+        "Chen J",
+        "Wang Y",
+        "Jin M",
+        "Zhou P",
+        "Liu X",
+        "Zheng Q",
+        "Huang J",
+        "Wu S",
+        "Ren F",
+        "Zheng P",
+        "Zhang X",
+        "Li L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China.",
+        "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Lianpin",
+        "short_name": "Wu L",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jiaqi",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yizhe",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Maoxiang",
+        "short_name": "Jin M",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Puyu",
+        "short_name": "Zhou P",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xing",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Qiang",
+        "short_name": "Zheng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jinxiang",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Shujie",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Fangfang",
+        "short_name": "Ren F",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Peng",
+        "short_name": "Zheng P",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xinming",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Lei",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Wenzhou Medical University Second Affiliated Hospital, Wenzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical science (London, England : 1979)"
+    ],
+    "journal_abbrev": [
+      "Clin Sci (Lond)"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 17:36",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42747903",
+      "41120885",
+      "38899461",
+      "39365672",
+      "28249877",
+      "31968347",
+      "41853297",
+      "40960950",
+      "42019016",
+      "42726410",
+      "39306883",
+      "32418505",
+      "40955564",
+      "29949382",
+      "27789290",
+      "41208894",
+      "28432058",
+      "39931769",
+      "42535577",
+      "41302188",
+      "35600469",
+      "31409188",
+      "37047522",
+      "30686120",
+      "36200607",
+      "41859105",
+      "23168040",
+      "25181347",
+      "23840758",
+      "41882094",
+      "35330931",
+      "40619438",
+      "29481819",
+      "22984613",
+      "31177814",
+      "30004258",
+      "42170739",
+      "39304904",
+      "29535165",
+      "40709455",
+      "32611237",
+      "35218467",
+      "42003465",
+      "31801360",
+      "29438665",
+      "42554055",
+      "41376590",
+      "30901275",
+      "41958066",
+      "31830829",
+      "25941940",
+      "28453726",
+      "16505197",
+      "29931050",
+      "32647865",
+      "29196344",
+      "30341569",
+      "29255073",
+      "21775709",
+      "30571348",
+      "34376812",
+      "32028169",
+      "21986284",
+      "34563985",
+      "18391093",
+      "29283973",
+      "40387641",
+      "34155901",
+      "42147194",
+      "41774289",
+      "38847080",
+      "17569887",
+      "42069297",
+      "36240436",
+      "34992607",
+      "39311911",
+      "27920122",
+      "42353106",
+      "41999816",
+      "29653926",
+      "42245802",
+      "42669162",
+      "32999189",
+      "9493122",
+      "30362822",
+      "26706286",
+      "30820965",
+      "40610856",
+      "30689697",
+      "41907527",
+      "27821723",
+      "24249711",
+      "27068635",
+      "24315909",
+      "35126818",
+      "31854513",
+      "35616049",
+      "24322055",
+      "20217135",
+      "41607775"
+    ],
+    "review": [
+      "42747903",
+      "35600469"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3568",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://portlandpress.com/clinsci/article-lookup/doi/10.1042/CS20250850",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

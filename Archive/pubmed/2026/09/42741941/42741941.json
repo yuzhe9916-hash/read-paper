@@ -1,0 +1,387 @@
+{
+  "identity": {
+    "pmid": "42741941",
+    "doi": "10.1172/JCI207530",
+    "title": "Reverse genetics in humanized mice reveals CARD8-mediated pyroptosis causing pancytopenia in human DPP9 deficiency."
+  },
+  "content": {
+    "abstract": "Loss-of-function mutation in the human gene dipeptidyl peptidase 9 (DPP9) causes Hatipoglu syndrome leading to severe inflammasomopathy. A key feature of the disease is pancytopenia, and patients require bone marrow transplantation, but the mechanism of cell loss is unclear, since Dpp9-mutant mice have normal hematopoiesis, suggesting that a distinct mechanism of disease occurs in humans. Here, we present a model of human DPP9 deficiency leveraging reverse genetics in the MISTRG6 humanized mice. We found that CRISPR editing of human CD34+ hematopoietic stem and progenitor cells (HSPCs) led to very efficient and persistent gene deletion in vivo. Human DPP9 deletion recapitulated cytopenia in peripheral blood and in the bone marrow, and cell loss was cell intrinsic. However, DPP9 deletion led to few transcriptional changes suggesting posttranscriptional regulation in human HSPCs. Mechanistically, DPP9 deficiency led to activation of the CARD8 inflammasome, resulting in HSPC pyroptosis, whereas NLRP1 was dispensable for cell death. Thus, our results reveal a unique human mechanism of disease and offer therapeutic insight for this inflammasomopathy.",
+    "keywords": [
+      "Hematology",
+      "Hematopoietic stem cells",
+      "Immunology",
+      "Innate immunity"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "*Pancytopenia/genetics/pathology/metabolism",
+      "Mice",
+      "*Dipeptidyl-Peptidases and Tripeptidyl-Peptidases/deficiency/genetics",
+      "Hematopoietic Stem Cells/pathology/metabolism",
+      "*Pyroptosis/genetics",
+      "*CARD Signaling Adaptor Proteins/genetics/metabolism",
+      "Mice, Knockout",
+      "Disease Models, Animal",
+      "*Neoplasm Proteins/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiao, Tianli",
+        "Brewer, J Richard",
+        "Carlino, Maximillian",
+        "Han, Ailin",
+        "Takabe, Yamato J",
+        "Lee, Chia-Yi",
+        "Zhang, Fengrui",
+        "Chen, Mi",
+        "Blackburn, Holly Nicole",
+        "Nassar, Amin H",
+        "Wang, Qiankun",
+        "Brennand, Kristen",
+        "Shan, Liang",
+        "Sefik, Esen",
+        "Krause, Diane S",
+        "Flavell, Richard A"
+      ],
+      "short_names": [
+        "Xiao T",
+        "Brewer JR",
+        "Carlino M",
+        "Han A",
+        "Takabe YJ",
+        "Lee CY",
+        "Zhang F",
+        "Chen M",
+        "Blackburn HN",
+        "Nassar AH",
+        "Wang Q",
+        "Brennand K",
+        "Shan L",
+        "Sefik E",
+        "Krause DS",
+        "Flavell RA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Immunobiology.",
+        "Howard Hughes Medical Institute, and.",
+        "Department of Immunobiology.",
+        "Yale Stem Cell Center, Yale School of Medicine, New Haven, Connecticut, USA.",
+        "Department of Pathology and Molecular Medicine, Yale University, New Haven, Connecticut, USA.",
+        "Department of Immunobiology.",
+        "Department of Immunobiology.",
+        "Department Jof Genetics, Yale University School of Medicine, New Haven, Connecticut, USA.",
+        "Department of Immunobiology.",
+        "Department of Laboratory Medicine, Yale University, New Haven, Connecticut, USA.",
+        "Department of Immunobiology.",
+        "Department of Surgery, Yale School of Medicine, New Haven, Connecticut, USA.",
+        "Department of Immunobiology.",
+        "Division of Medical Oncology, Yale Cancer Center, New Haven, Connecticut, USA.",
+        "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China.",
+        "Department Jof Genetics, Yale University School of Medicine, New Haven, Connecticut, USA.",
+        "Department of Psychiatry, Division of Molecular Psychiatry, Yale University School of Medicine, New Haven, Connecticut, USA.",
+        "Institute of Human Immunology, Shenzhen Medical Academy of Research and Translation, Shenzhen, China.",
+        "Department of Immunobiology.",
+        "Yale Stem Cell Center, Yale School of Medicine, New Haven, Connecticut, USA.",
+        "Department of Laboratory Medicine, Yale University, New Haven, Connecticut, USA.",
+        "Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut, USA.",
+        "Department of Immunobiology.",
+        "Howard Hughes Medical Institute, and."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiao, Tianli",
+        "short_name": "Xiao T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology.",
+          "Howard Hughes Medical Institute, and."
+        ]
+      },
+      {
+        "full_name": "Brewer, J Richard",
+        "short_name": "Brewer JR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology."
+        ]
+      },
+      {
+        "full_name": "Carlino, Maximillian",
+        "short_name": "Carlino M",
+        "identifiers": [],
+        "affiliations": [
+          "Yale Stem Cell Center, Yale School of Medicine, New Haven, Connecticut, USA.",
+          "Department of Pathology and Molecular Medicine, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Han, Ailin",
+        "short_name": "Han A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology."
+        ]
+      },
+      {
+        "full_name": "Takabe, Yamato J",
+        "short_name": "Takabe YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology."
+        ]
+      },
+      {
+        "full_name": "Lee, Chia-Yi",
+        "short_name": "Lee CY",
+        "identifiers": [],
+        "affiliations": [
+          "Department Jof Genetics, Yale University School of Medicine, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fengrui",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology."
+        ]
+      },
+      {
+        "full_name": "Chen, Mi",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Blackburn, Holly Nicole",
+        "short_name": "Blackburn HN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology.",
+          "Department of Surgery, Yale School of Medicine, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Nassar, Amin H",
+        "short_name": "Nassar AH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology.",
+          "Division of Medical Oncology, Yale Cancer Center, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Qiankun",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Brennand, Kristen",
+        "short_name": "Brennand K",
+        "identifiers": [],
+        "affiliations": [
+          "Department Jof Genetics, Yale University School of Medicine, New Haven, Connecticut, USA.",
+          "Department of Psychiatry, Division of Molecular Psychiatry, Yale University School of Medicine, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Shan, Liang",
+        "short_name": "Shan L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Immunology, Shenzhen Medical Academy of Research and Translation, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Sefik, Esen",
+        "short_name": "Sefik E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology."
+        ]
+      },
+      {
+        "full_name": "Krause, Diane S",
+        "short_name": "Krause DS",
+        "identifiers": [],
+        "affiliations": [
+          "Yale Stem Cell Center, Yale School of Medicine, New Haven, Connecticut, USA.",
+          "Department of Laboratory Medicine, Yale University, New Haven, Connecticut, USA.",
+          "Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Flavell, Richard A",
+        "short_name": "Flavell RA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology.",
+          "Howard Hughes Medical Institute, and."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of clinical investigation"
+    ],
+    "journal_abbrev": [
+      "J Clin Invest"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-21 15:57:54"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42741941",
+      "42427515",
+      "30291141",
+      "37544411",
+      "31525884",
+      "40608794",
+      "36112693",
+      "30718379",
+      "39854601",
+      "31086209",
+      "34019797",
+      "29709545",
+      "33193358",
+      "23219391",
+      "32840892",
+      "32796818",
+      "29967349",
+      "33731932",
+      "33053349",
+      "41638572",
+      "33731929",
+      "30129680",
+      "40187163",
+      "34260881",
+      "38920661",
+      "23704821",
+      "38531482",
+      "32364536",
+      "28256001",
+      "33378691",
+      "38227660",
+      "33420028",
+      "40498275",
+      "34292326",
+      "37721854",
+      "24223149",
+      "28527810",
+      "38902833",
+      "33414485",
+      "38506770",
+      "27682012",
+      "36044633",
+      "26930324",
+      "34303016",
+      "36413407",
+      "25434823",
+      "39615677",
+      "39676095",
+      "20826813",
+      "33335275",
+      "27733558",
+      "34079130",
+      "26272069",
+      "33420033",
+      "32640751",
+      "30133344",
+      "29789357",
+      "26188064",
+      "28527722",
+      "25170611",
+      "38428396",
+      "27095138",
+      "34620229",
+      "12459266",
+      "33785922",
+      "37074642",
+      "22614124",
+      "26644450",
+      "41348733",
+      "24498346",
+      "21622624",
+      "19268648",
+      "24510783",
+      "31383852",
+      "22645180",
+      "38461970",
+      "42277107",
+      "25542002",
+      "40293537",
+      "32576672",
+      "28436588",
+      "39399507",
+      "38637559",
+      "36309085",
+      "33309880",
+      "30683472",
+      "26175140",
+      "28392147",
+      "30326247",
+      "27647347",
+      "35740994",
+      "24072711",
+      "29762163",
+      "28887018",
+      "39340736",
+      "26550777",
+      "40954215",
+      "36129453",
+      "31147717",
+      "8630375"
+    ],
+    "review": [
+      "42741941",
+      "38920661",
+      "32640751",
+      "38461970"
+    ],
+    "pmc": [
+      "13574144"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1172/JCI207530",
+        "provider": "American Society for Clinical Investigation",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42741941/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "identity": {
+    "pmid": "42754663",
+    "doi": "10.1038/s41388-026-03977-5",
+    "title": "CRISPR/Cas9 screening revealed BIRC6-AS1/BIRC6 mediates abiraterone resistance via NHEJ pathway-dependent A20 degradation in prostate cancer."
+  },
+  "content": {
+    "abstract": "Abiraterone acetate is a standard-of-care therapy for prostate cancer (PCa). However, resistance frequently emerges, often characterized by the progression to AR-independent phenotypes. Employing a genome-wide CRISPR/Cas9 library screening strategy, we identified 523 long non-coding RNAs (lncRNAs) and 2,183 protein-coding genes as potential candidates associated with abiraterone resistance. Notably, a pair of sense-antisense genes, BIRC6-AS1/BIRC6, was identified as a significant contributor to abiraterone resistance, serving as a critical survival factor in AR-independent contexts. BIRC6-AS1 depletion led to a reduction in both the mRNA and protein levels of BIRC6. Moreover, depletion of either BIRC6-AS1 or BIRC6 enhanced the sensitivity of PCa cells to abiraterone in both in vitro and in vivo settings. Further investigation revealed that BIRC6-AS1 stabilized the mRNA of BIRC6 through interaction with ILF2. Suppression of either BIRC6-AS1 or BIRC6 attenuated non-homologous end joining (NHEJ) repair activity, resulting in the disassembly of 53BP1 foci at DNA damage sites and an increased accumulation of DNA damage, thereby exposing a vulnerability in AR-independent resistant cells. Mechanistically, BIRC6 interacted with A20 and facilitated the K48-linked ubiquitination and subsequent degradation of A20 at the K337 residue. Additionally, A20 knockdown effectively reversed the abiraterone sensitivity induced by BIRC6-AS1 depletion. Collectively, our study provides a landscape of lncRNAs and protein-coding genes associated with abiraterone resistance and suggests that targeting the BIRC6-AS1/BIRC6 axis represents a potential therapeutic strategy to eradicate AR-independent resistant tumors in prostate cancer.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Lan",
+        "An, Xue-Ni",
+        "Ruan, Yong-Tong",
+        "Yang, Rong",
+        "Li, Peng",
+        "Shen, Pei-Tong",
+        "Zeng, Han-Yu",
+        "Wu, Xiao-Yu",
+        "Huang, Xian-Chao",
+        "Song, Ming-Yuan",
+        "Hao, Jing-Lan",
+        "Gao, Ping",
+        "Dong, Xiao-Ming"
+      ],
+      "short_names": [
+        "Li L",
+        "An XN",
+        "Ruan YT",
+        "Yang R",
+        "Li P",
+        "Shen PT",
+        "Zeng HY",
+        "Wu XY",
+        "Huang XC",
+        "Song MY",
+        "Hao JL",
+        "Gao P",
+        "Dong XM"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6490-2271",
+        "ORCID: 0000-0003-1383-3290"
+      ],
+      "affiliations": [
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China. jlhao1128@163.com.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China. ping.gao2016@outlook.com.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China. dongxm2008duzhe@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Lan",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "An, Xue-Ni",
+        "short_name": "An XN",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Ruan, Yong-Tong",
+        "short_name": "Ruan YT",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Rong",
+        "short_name": "Yang R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Li, Peng",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Pei-Tong",
+        "short_name": "Shen PT",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Han-Yu",
+        "short_name": "Zeng HY",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiao-Yu",
+        "short_name": "Wu XY",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xian-Chao",
+        "short_name": "Huang XC",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Song, Ming-Yuan",
+        "short_name": "Song MY",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Jing-Lan",
+        "short_name": "Hao JL",
+        "identifiers": [
+          "0000-0001-6490-2271"
+        ],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China. jlhao1128@163.com."
+        ]
+      },
+      {
+        "full_name": "Gao, Ping",
+        "short_name": "Gao P",
+        "identifiers": [
+          "0000-0003-1383-3290"
+        ],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China. ping.gao2016@outlook.com."
+        ]
+      },
+      {
+        "full_name": "Dong, Xiao-Ming",
+        "short_name": "Dong XM",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China. dongxm2008duzhe@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Oncogene"
+    ],
+    "journal_abbrev": [
+      "Oncogene"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 05:36",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42754663",
+      "39550701",
+      "41566241",
+      "42163353",
+      "31935634",
+      "34381019",
+      "38859837",
+      "29233925",
+      "30105831",
+      "41339287",
+      "37693143",
+      "40033417",
+      "35986274",
+      "42456201",
+      "39737136",
+      "32982430",
+      "38153696",
+      "39844055",
+      "36509750",
+      "29995557",
+      "29266182",
+      "41446858",
+      "32982585",
+      "33931086",
+      "25071009",
+      "34367984",
+      "27049719",
+      "42220127",
+      "28487115",
+      "41029829",
+      "36593255",
+      "31761329",
+      "41204108",
+      "33138677",
+      "42524562",
+      "40481489",
+      "32884284",
+      "26936914",
+      "34790665",
+      "42498731",
+      "41639912",
+      "36457025",
+      "40940753",
+      "37563661",
+      "33101368",
+      "33782099",
+      "33807106",
+      "34126893",
+      "41868912",
+      "39246994",
+      "42331201",
+      "37037853",
+      "36606191",
+      "33552680",
+      "27342777",
+      "37726723",
+      "33664852",
+      "33614501",
+      "32068491",
+      "27663589",
+      "30227111",
+      "34225779",
+      "35037287",
+      "33177288",
+      "25196217",
+      "33121524",
+      "38583010",
+      "40365288",
+      "38410545",
+      "42374482",
+      "33510812",
+      "31266892",
+      "33981362",
+      "30038597",
+      "39825964",
+      "31551012",
+      "42435930",
+      "41331871",
+      "41236806",
+      "25184630",
+      "32010621",
+      "32430485",
+      "37232341",
+      "40072551",
+      "38405482",
+      "41642421",
+      "33692839",
+      "40470696",
+      "38282153",
+      "30599235",
+      "40646641",
+      "34233322",
+      "33165437",
+      "41249119",
+      "33581689",
+      "39629121",
+      "40634956",
+      "39401197",
+      "40385018",
+      "39145066"
+    ],
+    "review": [
+      "42754663",
+      "39825964"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41388-026-03977-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-AKR1B1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-223",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

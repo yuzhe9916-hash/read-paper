@@ -1,0 +1,444 @@
+{
+  "identity": {
+    "pmid": "42733068",
+    "doi": "10.1038/s41392-026-02963-3",
+    "title": "IFNAR1-dependent metabolic circuit drives pathogenic neutrophil activation in chronic mucosal inflammation."
+  },
+  "content": {
+    "abstract": "Neutrophils are double-edged effectors of the innate immune system: while essential for host defense, they can drive significant tissue damage in the context of chronic inflammatory diseases. Identifying strategies to selectively dampen their pathogenic functions without compromising antimicrobial immunity remains a major clinical challenge. Here, we define a conserved IFNAR1-driven circuit mediated by iron homeostasis that sustains neutrophil pathogenicity across distinct mucosal tissues. Using single-cell transcriptomics and a CRISPR-based functional screen, we identified the mitochondrial iron transporter Mitoferrin-1 (SLC25A37) as a key regulator of neutrophil inflammatory programming. Mechanistically, our data indicate that Mitoferrin-1 mediates a feedforward loop in which NET-derived histones activate toll-like receptor 9 (TLR9), which in turn sustains IFN-alpha/IFNAR1 signaling, rewires mitochondrial metabolism, and ultimately drives tissue damage through markedly increased of NETosis, reactive oxygen species production, and degranulation. Notably, this IFNAR1-driven inflammatory circuit operates entirely independently of antimicrobial function, as pharmacological IFNAR1 blockade fully preserves phagocytic activity against bacterial pathogens in vivo. Targeting this pathway selectively attenuates neutrophil-driven inflammation in both murine models of colitis and acute lung injury, as well as in primary human intestinal organoid systems. Together, these findings identify a targetable metabolic node for selectively disarming pathogenic neutrophil responses in the setting of chronic inflammatory disease.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "*Neutrophils/immunology/pathology",
+      "Humans",
+      "*Receptor, Interferon alpha-beta/genetics/immunology",
+      "*Neutrophil Activation/genetics/immunology",
+      "*Inflammation/genetics/immunology/pathology",
+      "Signal Transduction/immunology/genetics",
+      "Toll-Like Receptor 9/genetics/immunology",
+      "Mice, Knockout",
+      "Chronic Disease"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pessoa Rodrigues, Cecilia",
+        "R Calcada, Raquel",
+        "Arnaud, Mafalda",
+        "Kaltenbach, Lukas",
+        "Manser, Mika",
+        "Scheidegger, Anja",
+        "Strauss, Leon Sidney",
+        "Gavrilov, Alina",
+        "Kulkarni, Sharang",
+        "Yildiz, Ece",
+        "Liberati, Daniela",
+        "Coto-Llerena, Mairene",
+        "Hoening, Tamara",
+        "Kramberg, Markus Martin",
+        "Behr, Julian",
+        "Mechling, Anna",
+        "Hering, Marvin",
+        "Lassen, Kara G",
+        "Soehnlein, Oliver",
+        "Doran, Emma",
+        "Regan-Komito, Daniel"
+      ],
+      "short_names": [
+        "Pessoa Rodrigues C",
+        "R Calcada R",
+        "Arnaud M",
+        "Kaltenbach L",
+        "Manser M",
+        "Scheidegger A",
+        "Strauss LS",
+        "Gavrilov A",
+        "Kulkarni S",
+        "Yildiz E",
+        "Liberati D",
+        "Coto-Llerena M",
+        "Hoening T",
+        "Kramberg MM",
+        "Behr J",
+        "Mechling A",
+        "Hering M",
+        "Lassen KG",
+        "Soehnlein O",
+        "Doran E",
+        "Regan-Komito D"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8617-6565",
+        "ORCID: 0000-0002-7854-0694",
+        "ORCID: 0009-0000-6457-0641"
+      ],
+      "affiliations": [
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Pharmaceutical Sciences, Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Institute of Human Biology (IHB), Pharma Research and Early Development (pRED), F. Hoffmann-La Roche Ltd, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research & Early Development, Strategy, Portfolio and Operations Organisation, 360 Labs, Roche Cell and Organoid Biorepository, Roche Innovation Center Basel.F. Hoffmann-La Roche Ltd., Basel, Switzerland.",
+        "Roche Pharma Research & Early Development, Strategy, Portfolio and Operations Organisation, 360 Labs, Roche Cell and Organoid Biorepository, Roche Innovation Center Basel.F. Hoffmann-La Roche Ltd., Basel, Switzerland.",
+        "Roche Pharma Research & Early Development, Strategy, Portfolio and Operations Organisation, 360 Labs, Roche Cell and Organoid Biorepository, Roche Innovation Center Basel.F. Hoffmann-La Roche Ltd., Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+        "Institute of Experimental Pathology, Center for Molecular Biology of Inflammation, University of Munster, Munster, Germany.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland. emma.doran@roche.com.",
+        "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland. daniel.regan-komito@roche.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pessoa Rodrigues, Cecilia",
+        "short_name": "Pessoa Rodrigues C",
+        "identifiers": [
+          "0000-0001-8617-6565"
+        ],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "R Calçada, Raquel",
+        "short_name": "R Calçada R",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Pharmaceutical Sciences, Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Arnaud, Mafalda",
+        "short_name": "Arnaud M",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Kaltenbach, Lukas",
+        "short_name": "Kaltenbach L",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland.",
+          "Institute of Human Biology (IHB), Pharma Research and Early Development (pRED), F. Hoffmann-La Roche Ltd, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Manser, Mika",
+        "short_name": "Manser M",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Scheidegger, Anja",
+        "short_name": "Scheidegger A",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Strauss, Leon Sidney",
+        "short_name": "Strauss LS",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Gavrilov, Alina",
+        "short_name": "Gavrilov A",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Kulkarni, Sharang",
+        "short_name": "Kulkarni S",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Yildiz, Ece",
+        "short_name": "Yildiz E",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research & Early Development, Strategy, Portfolio and Operations Organisation, 360 Labs, Roche Cell and Organoid Biorepository, Roche Innovation Center Basel.F. Hoffmann-La Roche Ltd., Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Liberati, Daniela",
+        "short_name": "Liberati D",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research & Early Development, Strategy, Portfolio and Operations Organisation, 360 Labs, Roche Cell and Organoid Biorepository, Roche Innovation Center Basel.F. Hoffmann-La Roche Ltd., Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Coto-Llerena, Mairene",
+        "short_name": "Coto-Llerena M",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research & Early Development, Strategy, Portfolio and Operations Organisation, 360 Labs, Roche Cell and Organoid Biorepository, Roche Innovation Center Basel.F. Hoffmann-La Roche Ltd., Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hoening, Tamara",
+        "short_name": "Hoening T",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Kramberg, Markus Martin",
+        "short_name": "Kramberg MM",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Behr, Julian",
+        "short_name": "Behr J",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Mechling, Anna",
+        "short_name": "Mechling A",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hering, Marvin",
+        "short_name": "Hering M",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Lassen, Kara G",
+        "short_name": "Lassen KG",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Soehnlein, Oliver",
+        "short_name": "Soehnlein O",
+        "identifiers": [
+          "0000-0002-7854-0694"
+        ],
+        "affiliations": [
+          "Institute of Experimental Pathology, Center for Molecular Biology of Inflammation, University of Münster, Münster, Germany."
+        ]
+      },
+      {
+        "full_name": "Doran, Emma",
+        "short_name": "Doran E",
+        "identifiers": [
+          "0009-0000-6457-0641"
+        ],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland. emma.doran@roche.com."
+        ]
+      },
+      {
+        "full_name": "Regan-Komito, Daniel",
+        "short_name": "Regan-Komito D",
+        "identifiers": [],
+        "affiliations": [
+          "Roche Pharma Research and Early Development, Cardiovascular, Metabolism and Immunology (CMI), Roche Innovation Center Basel, Basel, Switzerland. daniel.regan-komito@roche.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Signal transduction and targeted therapy"
+    ],
+    "journal_abbrev": [
+      "Signal Transduct Target Ther"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 05:35",
+    "fetched_at": "2026-09-21 15:58:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42733068",
+      "34047696",
+      "42288745",
+      "38375579",
+      "42292369",
+      "25557335",
+      "40521205",
+      "41775627",
+      "20727895",
+      "39884393",
+      "34624928",
+      "40980929",
+      "40806230",
+      "31939811",
+      "27262927",
+      "24782112",
+      "24375615",
+      "42420283",
+      "17982084",
+      "24648449",
+      "23994464",
+      "25660689",
+      "25667264",
+      "22532075",
+      "25078697",
+      "28011892",
+      "26371124",
+      "30914379",
+      "40859255",
+      "35833131",
+      "35878041",
+      "15585866",
+      "42520679",
+      "41530536",
+      "40852713",
+      "41723906",
+      "33472905",
+      "38880789",
+      "26787880",
+      "40397760",
+      "42332748",
+      "30610165",
+      "41764721",
+      "41697746",
+      "31572395",
+      "18250968",
+      "42031118",
+      "24263067",
+      "23904165",
+      "42413984",
+      "29686303",
+      "31896593",
+      "42056229",
+      "42614197",
+      "31980536",
+      "31619554",
+      "32873853",
+      "32131150",
+      "41891753",
+      "29440369",
+      "18759305",
+      "25855125",
+      "41812975",
+      "32209688",
+      "31045897",
+      "42155595",
+      "31417560",
+      "32796063",
+      "26086549",
+      "41786157",
+      "41889338",
+      "28507954",
+      "42131921",
+      "23686399",
+      "41856250",
+      "42148583",
+      "28295449",
+      "31972159",
+      "27807193",
+      "40558091",
+      "26021804",
+      "23372731",
+      "21187437",
+      "41664708",
+      "30851061",
+      "31989925",
+      "33746988",
+      "42598105",
+      "24555997",
+      "28289093",
+      "26609155",
+      "41324991",
+      "38330550",
+      "41972671",
+      "31708926",
+      "25114104",
+      "32841647",
+      "18941247",
+      "41248570",
+      "34937175"
+    ],
+    "review": [
+      "42733068",
+      "25557335",
+      "40806230",
+      "27262927",
+      "23994464",
+      "41530536",
+      "18250968",
+      "42031118",
+      "24263067",
+      "41889338",
+      "28507954",
+      "33746988",
+      "42598105",
+      "41324991",
+      "41972671"
+    ],
+    "pmc": [
+      "13572512"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41392-026-02963-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42733068/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

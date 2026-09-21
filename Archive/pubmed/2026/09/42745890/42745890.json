@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "42745890",
+    "doi": "10.3389/fcell.2026.1919659",
+    "title": "PAFAH1B1 governs follicular development by modulating the protein complex of CCNE1-CDK2-CDK1 to induce cell cycle arrest."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Ovarian follicle development plays a crucial role in mammalian fertility, which is primarily regulated by granulosa cell (GC) proliferation and cell cycle. Cell cycle dysregulation collectively might drive follicular atresia through GC dysfunction. However, the underlying molecular mechanisms remain largely unexplored. METHODS: The scRNA-seq and integrative analysis revealed that PAFAH1B1 was involved in cell cycle. Functional assays, including overexpression/knockdown, flow cytometry, EdU, HE, and TUNEL, confirmed that PAFAH1B1 regulated cell cycle and follicular development in vitro and in vivo. CoIP showed that PAFAH1B1 bound CCNE1-CDK2-CDK1 to arrest G2/M phase. Chromatin accessibility and CRISPR/dCas9-TET1 demonstrated that DNA methylation modulated PAFAH1B1 transcription. RESULTS: A novel regulator of cell cycle, PAFAH1B1, was identified in Pig Genotype-Tissue Expression (PigGTEx). During GC proliferation, we found that PAFAH1B1 transcription was correlated with the distribution rate of G1 phase in GCs. PAFAH1B1 protein was confirmed to specifically bind to CCNE1-CDK2-CDK1 to arrest G2/M phase. Notably, PAFAH1B1 appeared to hinder the development of follicles. Furthermore, the demethylation significantly promoted the transcription activity and chromatin accessibility of CpG island (-7 bp to +170 bp) of PAFAH1B1. Taken together, PAFAH1B1 physically interacted with the CCNE1-CDK2-CDK1 complex to arrest G2/M phase and inhibit the GCs proliferation and follicular development. Additionally, demethylation of CpG island significantly promoted the transcription of PAFAH1B1. CONCLUSION: These findings not only advance understanding of cell proliferation and cycle regulation but also identify PAFAH1B1 as a candidate gene for further investigation in follicular development.",
+    "keywords": [
+      "CCNE1-CDK2-CDK1 complex",
+      "DNA methylation",
+      "PAFAH1B1",
+      "cell cycle",
+      "follicular development"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "He, Yingting",
+        "Zhou, Yinqi",
+        "Wang, Ruiqi",
+        "Liao, Weili",
+        "Li, Nian",
+        "Li, Jiaqi",
+        "Sun, Zewen",
+        "Zhao, Jianguo",
+        "Yuan, Xiaolong"
+      ],
+      "short_names": [
+        "He Y",
+        "Zhou Y",
+        "Wang R",
+        "Liao W",
+        "Li N",
+        "Li J",
+        "Sun Z",
+        "Zhao J",
+        "Yuan X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "National Center of Technology Innovation for Pigs, Chongqing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "National Center of Technology Innovation for Pigs, Chongqing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "He, Yingting",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yinqi",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruiqi",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Weili",
+        "short_name": "Liao W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Nian",
+        "short_name": "Li N",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiaqi",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+          "National Center of Technology Innovation for Pigs, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Zewen",
+        "short_name": "Sun Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jianguo",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Xiaolong",
+        "short_name": "Yuan X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+          "National Center of Technology Innovation for Pigs, Chongqing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42745890",
+      "29337271",
+      "34175894",
+      "31455378",
+      "39521729",
+      "10218984",
+      "34152408",
+      "40782258",
+      "37257219",
+      "31476383",
+      "37643502",
+      "38713167",
+      "42580240",
+      "39991589",
+      "40252583",
+      "40691521",
+      "30371869",
+      "41406818",
+      "38473715",
+      "31852787",
+      "41516279",
+      "31292056",
+      "42316346",
+      "40605115",
+      "25627688",
+      "21258042",
+      "23787781",
+      "35843311",
+      "40020834",
+      "41555212",
+      "29277717",
+      "16081423",
+      "34577105",
+      "42482127",
+      "39986531",
+      "39482412",
+      "42384246",
+      "26555773",
+      "29789527",
+      "7780000",
+      "40214477",
+      "30104887",
+      "25395673",
+      "30537743",
+      "29071385",
+      "37672890",
+      "30837041",
+      "40516295",
+      "31207099",
+      "37015904",
+      "42264139",
+      "31555388",
+      "28869606",
+      "28100484",
+      "41543195",
+      "37660474",
+      "38412717",
+      "33014855",
+      "40512073",
+      "42612344",
+      "37557938",
+      "39180863",
+      "31333841",
+      "27603133",
+      "31888761",
+      "38763409",
+      "27035875",
+      "38006806",
+      "38793618",
+      "32620578",
+      "37149988",
+      "38752903",
+      "24119616",
+      "30145177",
+      "26053095",
+      "25485505",
+      "11980914",
+      "38001999",
+      "42208847",
+      "9210954",
+      "31260798",
+      "30761814",
+      "33907854",
+      "19688288",
+      "30200804",
+      "38612240",
+      "41227350",
+      "21120602",
+      "28521470",
+      "41268607",
+      "28678347",
+      "41351424",
+      "33288583",
+      "36604147",
+      "33548212",
+      "11283255",
+      "32019334",
+      "41007921",
+      "41257985",
+      "32915362"
+    ],
+    "review": [
+      "42745890",
+      "40782258"
+    ],
+    "pmc": [
+      "13574969"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42745890/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-797",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcell.2026.1919659",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

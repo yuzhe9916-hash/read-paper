@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "42754710",
+    "doi": "10.1038/s41564-026-02471-8",
+    "title": "In vivo CRISPRi screens reveal Escherichia coli functional adaptations in the mouse gut."
+  },
+  "content": {
+    "abstract": "Escherichia coli exhibits remarkable genetic diversity that enables it to adapt to the intestinal environment. Here we establish an in vivo CRISPR interference platform that leverages bacterial gene fitness as a high-resolution functional reporter of E. coli adaptations within mice harbouring a defined minimal microbial community (OligoMM12). The screen revealed that diet profoundly shapes the metabolic landscape of E. coli and the essential gene profile identified cross-feeding interactions. Comparison between a laboratory strain (MG1655), a uropathogenic strain (CFT073) and an adherent-invasive E. coli (AIEC LF82) identified distinct genetic requirements for intestinal colonization, highlighting divergent motility, stress response and respiration strategies. In a host inflammatory environment, we found that AIEC LF82 preferably colonized the small intestine with a mobile genetic element, Gally prophage, playing an important role in modulating fitness. These findings provide a high-resolution genetic atlas of E. coli's functional adaptation and demonstrate the utility of functional genomics to probe the gut environment itself.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Maire, Amandine",
+        "Ortelli, Monica",
+        "Tkacz, Emma",
+        "Dehio, Christoph",
+        "Chassaing, Benoit",
+        "Sokol, Harry",
+        "Rolhion, Nathalie",
+        "Bikard, David"
+      ],
+      "short_names": [
+        "Maire A",
+        "Ortelli M",
+        "Tkacz E",
+        "Dehio C",
+        "Chassaing B",
+        "Sokol H",
+        "Rolhion N",
+        "Bikard D"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-3256-3987",
+        "ORCID: 0000-0001-7288-1052",
+        "ORCID: 0000-0002-4285-769X",
+        "ORCID: 0000-0002-2946-4808",
+        "ORCID: 0000-0002-5729-1211"
+      ],
+      "affiliations": [
+        "Institut Pasteur, Universite Paris-Cite, UMR CNRS 3525, Synthetic Biology, Paris, France.",
+        "College Doctoral, Sorbonne Universite, Paris, France.",
+        "Biozentrum, University of Basel, Basel, Switzerland.",
+        "Centre de Recherche Saint-Antoine, Assistance Publique-Hopitaux de Paris, Sorbonne Universite, INSERM UMRS-938, Paris, France.",
+        "Gut, Liver and Microbiome Research (GLIMMER), Federation Hospitalo-Universitaire, Paris, France.",
+        "Biozentrum, University of Basel, Basel, Switzerland.",
+        "Institut Pasteur, Universite Paris Cite, INSERM U1306, CNRS UMR6047, Microbiome-Host Interactions, Paris, France.",
+        "Centre de Recherche Saint-Antoine, Assistance Publique-Hopitaux de Paris, Sorbonne Universite, INSERM UMRS-938, Paris, France.",
+        "Gut, Liver and Microbiome Research (GLIMMER), Federation Hospitalo-Universitaire, Paris, France.",
+        "Department of Gastroenterology, Saint-Antoine Hospital, Assistance Publique-Hopitaux de Paris, Paris, France.",
+        "INRAE, UMR1319 Micalis, AgroParisTech, Jouy-en-Josas, France.",
+        "Centre de Recherche Saint-Antoine, Assistance Publique-Hopitaux de Paris, Sorbonne Universite, INSERM UMRS-938, Paris, France. nathalie.rolhion@inserm.fr.",
+        "Gut, Liver and Microbiome Research (GLIMMER), Federation Hospitalo-Universitaire, Paris, France. nathalie.rolhion@inserm.fr.",
+        "Institut Pasteur, Universite Paris-Cite, UMR CNRS 3525, Synthetic Biology, Paris, France. david.bikard@pasteur.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Maire, Amandine",
+        "short_name": "Maire A",
+        "identifiers": [],
+        "affiliations": [
+          "Institut Pasteur, Université Paris-Cité, UMR CNRS 3525, Synthetic Biology, Paris, France.",
+          "Collège Doctoral, Sorbonne Université, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Ortelli, Monica",
+        "short_name": "Ortelli M",
+        "identifiers": [
+          "0009-0009-3256-3987"
+        ],
+        "affiliations": [
+          "Biozentrum, University of Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Tkacz, Emma",
+        "short_name": "Tkacz E",
+        "identifiers": [],
+        "affiliations": [
+          "Centre de Recherche Saint-Antoine, Assistance Publique-Hôpitaux de Paris, Sorbonne Université, INSERM UMRS-938, Paris, France.",
+          "Gut, Liver and Microbiome Research (GLIMMER), Federation Hospitalo-Universitaire, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Dehio, Christoph",
+        "short_name": "Dehio C",
+        "identifiers": [
+          "0000-0001-7288-1052"
+        ],
+        "affiliations": [
+          "Biozentrum, University of Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Chassaing, Benoit",
+        "short_name": "Chassaing B",
+        "identifiers": [
+          "0000-0002-4285-769X"
+        ],
+        "affiliations": [
+          "Institut Pasteur, Université Paris Cité, INSERM U1306, CNRS UMR6047, Microbiome-Host Interactions, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Sokol, Harry",
+        "short_name": "Sokol H",
+        "identifiers": [],
+        "affiliations": [
+          "Centre de Recherche Saint-Antoine, Assistance Publique-Hôpitaux de Paris, Sorbonne Université, INSERM UMRS-938, Paris, France.",
+          "Gut, Liver and Microbiome Research (GLIMMER), Federation Hospitalo-Universitaire, Paris, France.",
+          "Department of Gastroenterology, Saint-Antoine Hospital, Assistance Publique-Hôpitaux de Paris, Paris, France.",
+          "INRAE, UMR1319 Micalis, AgroParisTech, Jouy-en-Josas, France."
+        ]
+      },
+      {
+        "full_name": "Rolhion, Nathalie",
+        "short_name": "Rolhion N",
+        "identifiers": [
+          "0000-0002-2946-4808"
+        ],
+        "affiliations": [
+          "Centre de Recherche Saint-Antoine, Assistance Publique-Hôpitaux de Paris, Sorbonne Université, INSERM UMRS-938, Paris, France. nathalie.rolhion@inserm.fr.",
+          "Gut, Liver and Microbiome Research (GLIMMER), Federation Hospitalo-Universitaire, Paris, France. nathalie.rolhion@inserm.fr."
+        ]
+      },
+      {
+        "full_name": "Bikard, David",
+        "short_name": "Bikard D",
+        "identifiers": [
+          "0000-0002-5729-1211"
+        ],
+        "affiliations": [
+          "Institut Pasteur, Université Paris-Cité, UMR CNRS 3525, Synthetic Biology, Paris, France. david.bikard@pasteur.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature microbiology"
+    ],
+    "journal_abbrev": [
+      "Nat Microbiol"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 05:36",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42754710",
+      "38124090",
+      "37214858",
+      "38205998",
+      "29494278",
+      "41263350",
+      "38700334",
+      "26578673",
+      "36910191",
+      "30120269",
+      "36094114",
+      "26595556",
+      "26125937",
+      "42747193",
+      "42068556",
+      "21298102",
+      "33013734",
+      "33795670",
+      "23684751",
+      "37184392",
+      "42438716",
+      "32586195",
+      "25666140",
+      "25605769",
+      "36730457",
+      "26499863",
+      "29195141",
+      "32477289",
+      "17449627",
+      "36809030",
+      "20118249",
+      "26986695",
+      "23358328",
+      "38403884",
+      "27600504",
+      "20862302",
+      "36883813",
+      "41659525",
+      "36445110",
+      "30683582",
+      "10456892",
+      "21108814",
+      "35381031",
+      "30291119",
+      "30634511",
+      "34149655",
+      "33509285",
+      "41729883",
+      "32583714",
+      "23598352",
+      "30142321",
+      "34612688",
+      "27096607",
+      "38769708",
+      "19737864",
+      "36172858",
+      "41619420",
+      "33769191",
+      "41594692",
+      "31686025",
+      "19709415",
+      "24866805",
+      "26398709",
+      "39069423",
+      "39140732",
+      "34576719",
+      "23404396",
+      "17900983",
+      "35336113",
+      "27980034",
+      "32142697",
+      "32358013",
+      "30576451",
+      "32466328",
+      "32737335",
+      "33563644",
+      "17367388",
+      "34978926",
+      "33805299",
+      "25569734",
+      "41163391",
+      "40521885",
+      "28806140",
+      "33177212",
+      "42684808",
+      "42060842",
+      "31036531",
+      "24898815",
+      "30778122",
+      "37881369",
+      "37145326",
+      "29867868",
+      "31689478",
+      "14977974",
+      "30496418",
+      "17074858",
+      "18338780",
+      "22439600",
+      "38470052",
+      "33027280"
+    ],
+    "review": [
+      "42754710",
+      "32466328"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41564-026-02471-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

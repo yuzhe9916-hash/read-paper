@@ -1,0 +1,346 @@
+{
+  "identity": {
+    "pmid": "42750845",
+    "doi": "10.3389/fcell.2026.1912633",
+    "title": "Dual role of ferroptosis in embryonic development, cascade amplification regulatory mechanism and targeted intervention."
+  },
+  "content": {
+    "abstract": "Ferroptosis is an iron-dependent regulated cell death driven by lipid peroxide accumulation. This review discusses its dual role in embryonic development. Physiologically, ferroptosis regulates cell fate and tissue remodeling through the synergistic GPX4-GSH and FSP1-CoQ10 pathways. Beyond passive cell death, iron-dependent trigger waves mediate spatially restricted cell clearance and limb muscle remodeling in avian models, integrating with Bone Morphogenetic Protein, Fibroblast Growth Factor, and Hedgehog signaling to sculpt tissue architecture as an integral component of normal morphogenesis. Pathologically, environmental stress and maternal genetic abnormalities activate ferroptosis, triggering an \"iron overload --> Fenton reaction --> lipid peroxidation --> GSH depletion/GPX4 inactivation\" cascade that causes embryonic malformations. However, ferroptosis can also be directly induced by GPX4 inhibition or cysteine deprivation without prior iron overload. Current evidence relies mainly on animal models, and extrapolation to humans requires caution due to interspecies differences. Intervention targets include ferroportin regulation, GPX4/FSP1 activation, and NRF2 stabilization. Iron chelators, Ferrostatin-1, and antioxidants (NAC, astaxanthin) block the cascade at multiple nodes. Clinical use during pregnancy demands careful evaluation of off-target effects on physiological tissue sculpting. Future research should develop stage-specific and tissue-specific modulators. This review highlights the double-edged sword nature of ferroptosis, summarizes its regulatory network and intervention strategies, and proposes molecular markers (MDA, 4-HNE) for perinatal screening. Prospects include CRISPR/Cas9 and mesenchymal stem cell therapy, while multi-omics and human-specific models will accelerate clinical translation for preventing birth defects.",
+    "keywords": [
+      "cascade amplification",
+      "developmental toxicity",
+      "embryonic development",
+      "embryonic development regulation",
+      "ferroptosis",
+      "targeted intervention"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Meng, Fan",
+        "Li, Shilong",
+        "Wang, Xue-Ting",
+        "Zhao, Nian",
+        "Xiong, Dong",
+        "Zhang, Weihang",
+        "Liu, Bin",
+        "Wang, Shaoqiang",
+        "Li, Niannian"
+      ],
+      "short_names": [
+        "Meng F",
+        "Li S",
+        "Wang XT",
+        "Zhao N",
+        "Xiong D",
+        "Zhang W",
+        "Liu B",
+        "Wang S",
+        "Li N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "School of Life Science and Technology, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+        "School of Life Science and Technology, Shandong Second Medical University, Weifang, Shandong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Meng, Fan",
+        "short_name": "Meng F",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+          "School of Life Science and Technology, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shilong",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xue-Ting",
+        "short_name": "Wang XT",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Nian",
+        "short_name": "Zhao N",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Dong",
+        "short_name": "Xiong D",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Weihang",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Bin",
+        "short_name": "Liu B",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shaoqiang",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Niannian",
+        "short_name": "Li N",
+        "identifiers": [],
+        "affiliations": [
+          "Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, China.",
+          "School of Life Science and Technology, Shandong Second Medical University, Weifang, Shandong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 15:36",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42750845",
+      "42471867",
+      "40334339",
+      "42382128",
+      "41084069",
+      "42048727",
+      "42450198",
+      "41425599",
+      "42475469",
+      "41975604",
+      "41540791",
+      "41425591",
+      "42565568",
+      "42567394",
+      "41684242",
+      "42391815",
+      "40861444",
+      "42630571",
+      "41278690",
+      "41121022",
+      "40806353",
+      "37856990",
+      "41038426",
+      "41847387",
+      "42568949",
+      "42614916",
+      "40282232",
+      "42599343",
+      "42458449",
+      "36009223",
+      "41096949",
+      "40782345",
+      "41558707",
+      "41538121",
+      "41485541",
+      "40383404",
+      "42322794",
+      "39483963",
+      "42465990",
+      "42472836",
+      "41479924",
+      "42301498",
+      "36497089",
+      "37094356",
+      "41219373",
+      "37474886",
+      "41076867",
+      "38056585",
+      "41538060",
+      "40706206",
+      "40185165",
+      "39067746",
+      "42199338",
+      "38473913",
+      "41738060",
+      "37580393",
+      "42510591",
+      "37203397",
+      "31597407",
+      "28204974",
+      "41170180",
+      "29378335",
+      "42072050",
+      "42136673",
+      "38394733",
+      "42126673",
+      "36613888",
+      "40148662",
+      "40239722",
+      "41795043",
+      "41007850",
+      "41596060",
+      "42724247",
+      "41962336",
+      "41371372",
+      "40902893",
+      "42293762",
+      "41638508",
+      "39581576",
+      "39273151",
+      "42383859",
+      "42336003",
+      "40977890",
+      "39009325",
+      "42068228",
+      "35337799",
+      "40145657",
+      "41601548",
+      "41443917",
+      "38510679",
+      "42094210",
+      "41208920",
+      "38369090",
+      "40456495",
+      "40280044",
+      "42233093",
+      "34626772",
+      "36503029",
+      "38139106",
+      "37209607"
+    ],
+    "review": [
+      "42750845",
+      "42471867",
+      "42382128",
+      "41084069",
+      "42048727",
+      "42450198",
+      "41425599",
+      "41540791",
+      "41425591",
+      "42567394",
+      "41684242",
+      "40861444",
+      "42630571",
+      "42568949",
+      "42614916",
+      "40282232",
+      "42599343",
+      "42458449",
+      "36009223",
+      "41096949",
+      "40782345",
+      "42322794",
+      "39483963",
+      "42465990",
+      "42472836",
+      "41479924",
+      "42301498",
+      "36497089",
+      "38056585",
+      "40706206",
+      "42199338",
+      "38473913",
+      "41738060",
+      "37580393",
+      "42510591",
+      "37203397",
+      "31597407",
+      "28204974",
+      "41170180",
+      "42136673",
+      "36613888",
+      "40148662",
+      "41795043",
+      "41007850",
+      "41596060",
+      "41962336",
+      "42293762",
+      "41638508",
+      "40977890",
+      "41601548",
+      "42094210",
+      "41208920",
+      "42233093"
+    ],
+    "pmc": [
+      "13578633"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42750845/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-S100A4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcell.2026.1912633",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "identity": {
+    "pmid": "42754893",
+    "doi": "10.1186/s13073-026-01772-1",
+    "title": "Accurate characterization of CRISPR-Cas9 genome editing outcomes and mosaicism with near-perfect long reads."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Genetic mosaicism is a well-recognized consequence of CRISPR-Cas9 genome editing, yet its characterization remains challenging, especially when it involves low-frequency structural variants. A comprehensive analysis of mosaicism requires deep and unbiased sequencing of the target loci, with accurate single-molecule reads. METHODS: We performed amplification-free PureTarget PacBio sequencing to investigate CRISPR-Cas9 outcomes at on-target and off-target sites in genome edited zebrafish and their offspring. CRISPR-Cas9 genome editing was performed by micro-injection in fertilized eggs at the single-cell stage. RESULTS: Thirty samples from pooled larvae and individual zebrafish were successfully sequenced, resulting in > 1100x average target coverage. The PacBio reads reached an exceptional accuracy (QV39) over the target regions, with every read originating from a unique DNA molecule. The two haplotypes of the target loci displayed a balanced depth of coverage, while long-range PCR of the same samples resulted in skewed data. Further analysis of the PureTarget data revealed widespread genetic mosaicism in individual founder (F0) fish, with up to 18 distinct on-target events and 11 off-target events present in a single adult founder. Several CRISPR-Cas9 editing outcomes, including large structural variants and off-target mutations, were inherited to the F1 generation. Notably, as many as seven unique editing events were found among sibling F1 juvenile offspring derived from a single founder pair, thereby confirming the presence of genetic mosaicism in germ cells of founder zebrafish. This implies that some consequences of CRISPR-Cas9 editing may emerge only in the second generation. We also analyzed DNA methylation signals in the PureTarget data but did not observe altered 5mC CpG levels in genome edited samples. CONCLUSIONS: PureTarget enables efficient, accurate, and unbiased profiling of genetic mosaicism and DNA methylation at pre-defined genomic regions. Our results show that CRISPR-Cas9-induced mosaicism is widespread and represents an important factor to consider in genome editing experiments.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "Genome editing",
+      "Long-read sequencing",
+      "Mosaicism",
+      "Off-target mutations",
+      "PureTarget",
+      "Single-molecule sequencing",
+      "Structural variation",
+      "Targeted sequencing"
+    ],
+    "mesh_terms": [
+      "*Mosaicism",
+      "Animals",
+      "Zebrafish/genetics",
+      "*CRISPR-Cas Systems",
+      "*Gene Editing/methods",
+      "High-Throughput Nucleotide Sequencing",
+      "Genome"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hoijer, Ida",
+        "van Schendel, Robin",
+        "Emmanouilidou, Anastasia",
+        "Ostlund, Rebecka",
+        "Bunikis, Ignas",
+        "Tijsterman, Marcel",
+        "den Hoed, Marcel",
+        "Ameur, Adam"
+      ],
+      "short_names": [
+        "Hoijer I",
+        "van Schendel R",
+        "Emmanouilidou A",
+        "Ostlund R",
+        "Bunikis I",
+        "Tijsterman M",
+        "den Hoed M",
+        "Ameur A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3915-3384",
+        "ORCID: 0000-0001-6085-6749"
+      ],
+      "affiliations": [
+        "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden. ida.hoijer@igp.uu.se.",
+        "SciLifeLab, Uppsala University, Uppsala, Sweden. ida.hoijer@igp.uu.se.",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden, The Netherlands.",
+        "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+        "SciLifeLab, Uppsala University, Uppsala, Sweden.",
+        "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+        "SciLifeLab, Uppsala University, Uppsala, Sweden.",
+        "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+        "SciLifeLab, Uppsala University, Uppsala, Sweden.",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden, The Netherlands.",
+        "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+        "SciLifeLab, Uppsala University, Uppsala, Sweden.",
+        "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden. adam.ameur@igp.uu.se.",
+        "SciLifeLab, Uppsala University, Uppsala, Sweden. adam.ameur@igp.uu.se."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Höijer, Ida",
+        "short_name": "Höijer I",
+        "identifiers": [
+          "0000-0002-3915-3384"
+        ],
+        "affiliations": [
+          "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden. ida.hoijer@igp.uu.se.",
+          "SciLifeLab, Uppsala University, Uppsala, Sweden. ida.hoijer@igp.uu.se."
+        ]
+      },
+      {
+        "full_name": "van Schendel, Robin",
+        "short_name": "van Schendel R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, Leiden University Medical Center, Leiden, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Emmanouilidou, Anastasia",
+        "short_name": "Emmanouilidou A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+          "SciLifeLab, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Östlund, Rebecka",
+        "short_name": "Östlund R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+          "SciLifeLab, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Bunikis, Ignas",
+        "short_name": "Bunikis I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+          "SciLifeLab, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Tijsterman, Marcel",
+        "short_name": "Tijsterman M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, Leiden University Medical Center, Leiden, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "den Hoed, Marcel",
+        "short_name": "den Hoed M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.",
+          "SciLifeLab, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Ameur, Adam",
+        "short_name": "Ameur A",
+        "identifiers": [
+          "0000-0001-6085-6749"
+        ],
+        "affiliations": [
+          "Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden. adam.ameur@igp.uu.se.",
+          "SciLifeLab, Uppsala University, Uppsala, Sweden. adam.ameur@igp.uu.se."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome medicine"
+    ],
+    "journal_abbrev": [
+      "Genome Med"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 05:36",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42754893",
+      "33261648",
+      "35110541",
+      "41678668",
+      "29801435",
+      "33322084",
+      "29019352",
+      "37301944",
+      "31681410",
+      "33339870",
+      "31492696",
+      "33609360",
+      "24257628",
+      "29295818",
+      "25587897",
+      "30359560",
+      "26048245",
+      "40483517",
+      "31601489",
+      "29973285",
+      "27698232",
+      "31708433",
+      "31116473",
+      "37803452",
+      "30291759",
+      "36553615",
+      "35333175",
+      "31797925",
+      "37626063",
+      "37741117",
+      "37486124",
+      "31407391",
+      "27461955",
+      "40437234",
+      "24854982",
+      "33582298",
+      "27895053",
+      "34139989",
+      "34376154",
+      "27272521",
+      "41331675",
+      "30894153",
+      "32006412",
+      "34042501",
+      "42758354",
+      "32652159",
+      "27866656",
+      "32831134",
+      "27317783",
+      "34986794",
+      "39848539",
+      "40131558",
+      "28499063",
+      "24984260",
+      "35950852",
+      "36773157",
+      "30355591",
+      "38545958",
+      "32327447",
+      "37802026",
+      "32887910",
+      "29569825",
+      "35507169",
+      "42192532",
+      "35752289",
+      "36714391",
+      "32926386",
+      "29332168",
+      "30706614",
+      "29941452",
+      "31964350",
+      "31060546",
+      "30837529",
+      "42628215",
+      "31450868",
+      "30652290",
+      "31821359",
+      "40244417",
+      "32926384",
+      "40897994",
+      "35700449",
+      "34549979",
+      "24253446",
+      "31071448",
+      "32887261",
+      "26747759",
+      "33337558",
+      "32643177",
+      "36617193",
+      "42477873",
+      "29173171",
+      "26683213",
+      "31295471",
+      "34050011",
+      "38557805",
+      "36416551",
+      "25431076",
+      "40688512",
+      "41808208",
+      "34502338"
+    ],
+    "review": [
+      "42754893",
+      "30359560",
+      "27272521",
+      "42758354",
+      "40244417",
+      "40897994",
+      "31071448",
+      "29173171",
+      "31295471",
+      "40688512"
+    ],
+    "pmc": [
+      "13587479"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-026-01772-1",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42754893/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "identity": {
+    "pmid": "42762127",
+    "doi": "10.1111/jipb.70401",
+    "title": "T2T genome assembly and CRISPR/Cas9 editing of Medicago lupulina."
+  },
+  "content": {
+    "abstract": "A complete, gap-free genome of Medicago lupulina, a tough, high-protein forage legume, and a gene-editing tool for this species, which was used to alter its leaf shape, provide key resources for improving alfalfa and breeding better forage crops for high-altitude environments.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yuan, Qing",
+        "Li, Cheng",
+        "Wang, Guangyan",
+        "Dai, Wenfei",
+        "Eerdungaridi",
+        "Wu, Di",
+        "Fan, Qingdun",
+        "Yang, Yongping",
+        "Duan, Yuanwen",
+        "Sun, Xudong"
+      ],
+      "short_names": [
+        "Yuan Q",
+        "Li C",
+        "Wang G",
+        "Dai W",
+        "Eerdungaridi",
+        "Wu D",
+        "Fan Q",
+        "Yang Y",
+        "Duan Y",
+        "Sun X"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-3479-5547",
+        "ORCID: 0000-0002-3956-9718",
+        "ORCID: 0000-0001-5974-6358",
+        "ORCID: 0000-0002-8766-6977",
+        "ORCID: 0009-0002-3809-9731",
+        "ORCID: 0009-0007-5833-6550",
+        "ORCID: 0009-0001-2581-3759",
+        "ORCID: 0000-0002-0327-2664",
+        "ORCID: 0000-0002-8399-5116",
+        "ORCID: 0000-0002-2434-8031"
+      ],
+      "affiliations": [
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+        "School of Ecology and Environmental Science, Yunnan University, Kunming, 650500, China.",
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+        "National Technology Innovation Center for Prataculture, Hohhot, 010000, China.",
+        "National Technology Innovation Center for Prataculture, Hohhot, 010000, China.",
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+        "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yuan, Qing",
+        "short_name": "Yuan Q",
+        "identifiers": [
+          "0009-0005-3479-5547"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.",
+          "School of Ecology and Environmental Science, Yunnan University, Kunming, 650500, China."
+        ]
+      },
+      {
+        "full_name": "Li, Cheng",
+        "short_name": "Li C",
+        "identifiers": [
+          "0000-0002-3956-9718"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Guangyan",
+        "short_name": "Wang G",
+        "identifiers": [
+          "0000-0001-5974-6358"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Wenfei",
+        "short_name": "Dai W",
+        "identifiers": [
+          "0000-0002-8766-6977"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+        ]
+      },
+      {
+        "full_name": "Eerdungaridi",
+        "short_name": "Eerdungaridi",
+        "identifiers": [
+          "0009-0002-3809-9731"
+        ],
+        "affiliations": [
+          "National Technology Innovation Center for Prataculture, Hohhot, 010000, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Di",
+        "short_name": "Wu D",
+        "identifiers": [
+          "0009-0007-5833-6550"
+        ],
+        "affiliations": [
+          "National Technology Innovation Center for Prataculture, Hohhot, 010000, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Qingdun",
+        "short_name": "Fan Q",
+        "identifiers": [
+          "0009-0001-2581-3759"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yongping",
+        "short_name": "Yang Y",
+        "identifiers": [
+          "0000-0002-0327-2664"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Yuanwen",
+        "short_name": "Duan Y",
+        "identifiers": [
+          "0000-0002-8399-5116"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xudong",
+        "short_name": "Sun X",
+        "identifiers": [
+          "0000-0002-2434-8031"
+        ],
+        "affiliations": [
+          "Yunnan Key Laboratory of Crop Wild Relatives Omics, The Germplasm Bank of Wild Species, Institute of Tibetan Plateau Research at Kunming, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of integrative plant biology"
+    ],
+    "journal_abbrev": [
+      "J Integr Plant Biol"
+    ],
+    "pub_date": "2026 Sep 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-21 15:56:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42762127",
+      "36371870",
+      "42322299",
+      "32765553",
+      "32427850",
+      "37249896",
+      "29492697",
+      "36964962",
+      "42064040",
+      "42106593",
+      "41533202",
+      "38504900",
+      "40060182",
+      "29082721",
+      "35585381",
+      "40312015",
+      "40244221",
+      "26475194",
+      "37395789",
+      "37050104",
+      "36142353",
+      "19174379",
+      "33842017",
+      "36993865",
+      "40618724",
+      "31430902",
+      "26479970",
+      "33957908",
+      "33328470",
+      "37666372",
+      "35836569",
+      "33004008",
+      "38371406",
+      "33679892",
+      "36740587",
+      "41674084",
+      "36304421",
+      "35095953",
+      "33687760",
+      "41681611",
+      "27834007",
+      "38395768",
+      "35766512",
+      "35457271",
+      "34962045",
+      "35606905",
+      "40299063",
+      "35751797",
+      "28430356",
+      "32642859",
+      "34115267",
+      "27148329",
+      "36311091",
+      "39579237",
+      "40474866",
+      "31847196",
+      "39738613",
+      "35677236",
+      "30646772",
+      "37981496",
+      "32117392",
+      "36200515",
+      "32638190",
+      "41901471",
+      "41620642",
+      "26930114",
+      "37810593",
+      "36824201",
+      "32516948",
+      "36659580",
+      "34498163",
+      "28581909",
+      "40995763",
+      "32508867",
+      "37508466",
+      "37698072",
+      "29868073",
+      "36812799",
+      "37131068",
+      "29515313",
+      "35187531",
+      "34517092",
+      "27995308",
+      "41627753",
+      "35055026",
+      "25147192",
+      "28489251",
+      "27098585",
+      "29898980",
+      "29019352",
+      "37541970",
+      "28879855",
+      "28778889",
+      "30835493",
+      "34124996",
+      "32450802",
+      "41159723",
+      "37446265",
+      "41740122",
+      "33373406"
+    ],
+    "review": [
+      "42762127",
+      "36371870",
+      "42064040",
+      "42106593",
+      "41533202",
+      "29082721",
+      "35585381",
+      "40244221",
+      "26475194",
+      "37395789",
+      "37050104",
+      "36142353",
+      "33842017",
+      "36993865",
+      "31430902",
+      "37666372",
+      "35836569",
+      "33679892",
+      "36740587",
+      "36304421",
+      "35457271",
+      "35606905",
+      "35751797",
+      "28430356",
+      "27148329",
+      "39579237",
+      "40474866",
+      "31847196",
+      "35677236",
+      "30646772",
+      "37981496",
+      "32117392",
+      "32638190",
+      "37810593",
+      "36824201",
+      "32516948",
+      "36659580",
+      "34498163",
+      "28581909",
+      "37508466",
+      "29868073",
+      "29515313",
+      "35187531",
+      "34517092",
+      "37541970",
+      "28879855",
+      "30835493",
+      "32450802"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/jipb.70401",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42745954",
+    "doi": "10.1093/nargab/lqag111",
+    "title": "Customizable host and viral transcript enrichment using CRISPR-Cas9 long-read sequencing for characterization of low-to-moderate abundance isoforms."
+  },
+  "content": {
+    "abstract": "One of the main challenges of whole transcriptome sequencing is the difficulty in detecting and quantifying low-to-moderate abundance transcripts. Methods that address this are either complicated to scale or customize; long-range PCR is problematic to scale, and probe hybridization panels are expensive to customize. In this study, we developed an RNA-guided CRISPR-Cas9 nuclease-based enrichment strategy combined with long-read sequencing, which achieved up to 60-fold enrichment of the target. Our findings demonstrate that the CRISPR-Cas system is a highly effective method for customizable long-read sequencing of target transcripts, which preserves estimation of relative abundance.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems",
+      "Humans",
+      "Protein Isoforms/genetics",
+      "High-Throughput Nucleotide Sequencing/methods",
+      "*Sequence Analysis, RNA/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nguyen, An N T",
+        "Zhang, Jianshu",
+        "Zhang, Shuxin",
+        "Pitt, Miranda E",
+        "Ganesamoorthy, Devika",
+        "Fritzlar, Svenja",
+        "Chang, Jessie J-Y",
+        "Londrigan, Sarah L",
+        "Coin, Lachlan J M"
+      ],
+      "short_names": [
+        "Nguyen ANT",
+        "Zhang J",
+        "Zhang S",
+        "Pitt ME",
+        "Ganesamoorthy D",
+        "Fritzlar S",
+        "Chang JJ",
+        "Londrigan SL",
+        "Coin LJM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4300-455X"
+      ],
+      "affiliations": [
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+        "Australian Institute for Microbiology and Infection, University of Technology Sydney, Ultimo, New South Wales 2007, Australia.",
+        "Children's Intensive Care Research Program, Child Health Research Centre, The University of Queensland, Brisbane 4101, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nguyen, An N T",
+        "short_name": "Nguyen ANT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jianshu",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shuxin",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+        ]
+      },
+      {
+        "full_name": "Pitt, Miranda E",
+        "short_name": "Pitt ME",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia.",
+          "Australian Institute for Microbiology and Infection, University of Technology Sydney, Ultimo, New South Wales 2007, Australia."
+        ]
+      },
+      {
+        "full_name": "Ganesamoorthy, Devika",
+        "short_name": "Ganesamoorthy D",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Intensive Care Research Program, Child Health Research Centre, The University of Queensland, Brisbane 4101, Australia."
+        ]
+      },
+      {
+        "full_name": "Fritzlar, Svenja",
+        "short_name": "Fritzlar S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+        ]
+      },
+      {
+        "full_name": "Chang, Jessie J-Y",
+        "short_name": "Chang JJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+        ]
+      },
+      {
+        "full_name": "Londrigan, Sarah L",
+        "short_name": "Londrigan SL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+        ]
+      },
+      {
+        "full_name": "Coin, Lachlan J M",
+        "short_name": "Coin LJM",
+        "identifiers": [
+          "0000-0002-4300-455X"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, The University of Melbourne, at the Peter Doherty Institute for Infection and Immunity, Victoria 3000, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "NAR genomics and bioinformatics"
+    ],
+    "journal_abbrev": [
+      "NAR Genom Bioinform"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42745954",
+      "39772804",
+      "30232196",
+      "37883581",
+      "37137666",
+      "37553321",
+      "39350015",
+      "38287261",
+      "34872615",
+      "33835462",
+      "35064117",
+      "38153158",
+      "29767360",
+      "39158328",
+      "35612954",
+      "26721485",
+      "40037841",
+      "31379921",
+      "35079129",
+      "37291427",
+      "33261648",
+      "32831134",
+      "39487981",
+      "27531712",
+      "35862996",
+      "33907296",
+      "31165880",
+      "39134520",
+      "33830997",
+      "36841425",
+      "37843096",
+      "33835463",
+      "34705568",
+      "36915055",
+      "22162623",
+      "33126848",
+      "32926386",
+      "40389438",
+      "26854539",
+      "39567235",
+      "30837529",
+      "33791773",
+      "26831908",
+      "30600412",
+      "34244540",
+      "41325434",
+      "33582298",
+      "39870451",
+      "34167576",
+      "41258015",
+      "41563484",
+      "38509328",
+      "34262076",
+      "32788667",
+      "38302873",
+      "36001233",
+      "32345633",
+      "26699225",
+      "26944702",
+      "32733532",
+      "29440222",
+      "34255396",
+      "37196057",
+      "30341435",
+      "37311684",
+      "21431761",
+      "42400787",
+      "38787419",
+      "33376219",
+      "39993709",
+      "32268080",
+      "30998719",
+      "36525464",
+      "37326047",
+      "35736235",
+      "36478271",
+      "35787470",
+      "40155769",
+      "41851882",
+      "40090530",
+      "25409780",
+      "30514211",
+      "27798563",
+      "39443694",
+      "26111100",
+      "35535560",
+      "37314295",
+      "41902223",
+      "30808306",
+      "39794120",
+      "29973285",
+      "38782298",
+      "42308418",
+      "42019502",
+      "25251678",
+      "41777069",
+      "32504042",
+      "39563027",
+      "35236300",
+      "36318117"
+    ],
+    "review": [
+      "42745954",
+      "39158328",
+      "36841425",
+      "39567235",
+      "41258015",
+      "32733532",
+      "38787419",
+      "37326047",
+      "40155769",
+      "37314295",
+      "42308418"
+    ],
+    "pmc": [
+      "13575421"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42745954/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nargab/article-lookup/doi/10.1093/nargab/lqag111",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

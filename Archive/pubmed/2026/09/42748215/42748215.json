@@ -1,0 +1,524 @@
+{
+  "identity": {
+    "pmid": "42748215",
+    "doi": "10.1126/scitranslmed.aef2648",
+    "title": "A rapid CRISPR-based nanodroplet assay enables direct clinical identification of mycobacteria species."
+  },
+  "content": {
+    "abstract": "The global incidence and mortality of nontuberculous mycobacterial infections have risen sharply with population aging. In some regions, they are now surpassing Mycobacterium tuberculosis complex infections, imposing a substantial clinical and economic burden. Because nontuberous mycobacteria exhibit species-level heterogeneity and require prolonged culture for identification, their diagnosis remains slow and is frequently inaccurate. Here, we describe a multiplexed clustered regularly interspaced short palindromic repeats (CRISPR)-assisted nanodroplet differential identification (CANDI) diagnostic platform that integrates species-agnostic target amplification with species-specific CRISPR-associated protein 12a (Cas12a) detection in fluorescence-barcoded nanodroplets. By spatially compartmentalizing CRISPR reactions into color-encoded nanodroplets, CANDI overcomes the multiplexing limitations of conventional CRISPR diagnostics and enables simultaneous interrogation of multiple mycobacterial targets in a single assay. We designed a 16-plex panel that distinguishes 15 clinically relevant Mycobacterium species and subspecies. CANDI achieved high analytical sensitivity and accurate discrimination in samples containing coinfections with multiple species or subspecies. When applied to 230 clinical specimens, including sputum, tracheal aspirates, and other respiratory fluids, CANDI delivered subspecies-level results within 3.5 hours, achieving 97.08% sensitivity and 99.7% specificity relative to culture-based identification. By combining multiplexed, high-specificity CRISPR detection with scalable droplet-based engineering, CANDI has the potential to overcome the culture dependency of current diagnostics and enable species- and subspecies-level identification across the genetically complex Mycobacterium genus, offering a clinically adaptable framework for rapid, precision diagnosis of mycobacterial infections.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Mycobacterium/genetics/classification/isolation & purification",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats/genetics",
+      "Species Specificity",
+      "Mycobacterium tuberculosis/genetics",
+      "CRISPR-Cas Systems/genetics",
+      "*Nanoparticles/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gou, Hongquan",
+        "Chen, Long",
+        "Eick, Kelly L",
+        "Bao, Duran",
+        "Miner, Taryn A",
+        "Tran, Duy",
+        "Gan, Mingyu",
+        "Zheng, Wenshu",
+        "Wang, Shu",
+        "Wu, Zhiyuan",
+        "Huang, Zhen",
+        "Dial, Courtney N",
+        "Seo, Seungyeon",
+        "Mollin, Sheila",
+        "Miller, Melissa B",
+        "Zelazny, Adrian Marcelo",
+        "Lyon, Christopher J",
+        "Fan, Jia",
+        "Wu, Xiaocui",
+        "Yu, Fangyou",
+        "Zhu, Xiaoli",
+        "Liu, Qingyun",
+        "Ning, Bo",
+        "Hu, Tony"
+      ],
+      "short_names": [
+        "Gou H",
+        "Chen L",
+        "Eick KL",
+        "Bao D",
+        "Miner TA",
+        "Tran D",
+        "Gan M",
+        "Zheng W",
+        "Wang S",
+        "Wu Z",
+        "Huang Z",
+        "Dial CN",
+        "Seo S",
+        "Mollin S",
+        "Miller MB",
+        "Zelazny AM",
+        "Lyon CJ",
+        "Fan J",
+        "Wu X",
+        "Yu F",
+        "Zhu X",
+        "Liu Q",
+        "Ning B",
+        "Hu T"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9890-4088",
+        "ORCID: 0009-0004-0750-863X",
+        "ORCID: 0009-0009-0787-8063",
+        "ORCID: 0000-0001-9049-1947",
+        "ORCID: 0000-0002-1751-1267",
+        "ORCID: 0000-0002-3990-7350",
+        "ORCID: 0000-0003-0004-7418",
+        "ORCID: 0009-0006-3945-1994",
+        "ORCID: 0009-0003-0576-8430",
+        "ORCID: 0000-0002-0296-3535",
+        "ORCID: 0000-0003-2847-7428",
+        "ORCID: 0009-0007-3003-3275",
+        "ORCID: 0000-0003-3384-0834",
+        "ORCID: 0000-0001-5497-4538",
+        "ORCID: 0000-0002-2284-5050",
+        "ORCID: 0000-0001-9437-7244",
+        "ORCID: 0000-0002-5166-4937"
+      ],
+      "affiliations": [
+        "Department of Clinical Laboratory Medicine, Shanghai Tenth People's Hospital, School of Medicine, Tongji University, Shanghai 200072, China.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+        "Department of Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+        "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+        "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Medicine, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Pathology and Laboratory Medicine, University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA.",
+        "Department of Laboratory Medicine, NIH Clinical Center, National Institutes of Health, Bethesda, MD 20892, USA.",
+        "Department of Pathology and Laboratory Medicine, University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA.",
+        "Department of Pathology and Laboratory Medicine, University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA.",
+        "Department of Laboratory Medicine, NIH Clinical Center, National Institutes of Health, Bethesda, MD 20892, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Clinical Laboratory, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai 200433, China.",
+        "Department of Clinical Laboratory, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai 200433, China.",
+        "Department of Clinical Laboratory Medicine, Shanghai Tenth People's Hospital, School of Medicine, Tongji University, Shanghai 200072, China.",
+        "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+        "Department of Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+        "School of Biomedical Engineering, Tsinghua University, Beijing 100084, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gou, Hongquan",
+        "short_name": "Gou H",
+        "identifiers": [
+          "0000-0002-9890-4088"
+        ],
+        "affiliations": [
+          "Department of Clinical Laboratory Medicine, Shanghai Tenth People's Hospital, School of Medicine, Tongji University, Shanghai 200072, China.",
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Long",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0009-0004-0750-863X"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Eick, Kelly L",
+        "short_name": "Eick KL",
+        "identifiers": [
+          "0009-0009-0787-8063"
+        ],
+        "affiliations": [
+          "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+          "Department of Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Bao, Duran",
+        "short_name": "Bao D",
+        "identifiers": [
+          "0000-0001-9049-1947"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Miner, Taryn A",
+        "short_name": "Miner TA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Tran, Duy",
+        "short_name": "Tran D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Gan, Mingyu",
+        "short_name": "Gan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Zheng, Wenshu",
+        "short_name": "Zheng W",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Shu",
+        "short_name": "Wang S",
+        "identifiers": [
+          "0000-0002-1751-1267"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhiyuan",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Zhen",
+        "short_name": "Huang Z",
+        "identifiers": [
+          "0000-0002-3990-7350"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Medicine, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Dial, Courtney N",
+        "short_name": "Dial CN",
+        "identifiers": [
+          "0000-0003-0004-7418"
+        ],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Seo, Seungyeon",
+        "short_name": "Seo S",
+        "identifiers": [
+          "0009-0006-3945-1994"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine, NIH Clinical Center, National Institutes of Health, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Mollin, Sheila",
+        "short_name": "Mollin S",
+        "identifiers": [
+          "0009-0003-0576-8430"
+        ],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Miller, Melissa B",
+        "short_name": "Miller MB",
+        "identifiers": [
+          "0000-0002-0296-3535"
+        ],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Zelazny, Adrian Marcelo",
+        "short_name": "Zelazny AM",
+        "identifiers": [
+          "0000-0003-2847-7428"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine, NIH Clinical Center, National Institutes of Health, Bethesda, MD 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Lyon, Christopher J",
+        "short_name": "Lyon CJ",
+        "identifiers": [
+          "0009-0007-3003-3275"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Fan, Jia",
+        "short_name": "Fan J",
+        "identifiers": [
+          "0000-0003-3384-0834"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaocui",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai 200433, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Fangyou",
+        "short_name": "Yu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai 200433, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Xiaoli",
+        "short_name": "Zhu X",
+        "identifiers": [
+          "0000-0001-5497-4538"
+        ],
+        "affiliations": [
+          "Department of Clinical Laboratory Medicine, Shanghai Tenth People's Hospital, School of Medicine, Tongji University, Shanghai 200072, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qingyun",
+        "short_name": "Liu Q",
+        "identifiers": [
+          "0000-0002-2284-5050"
+        ],
+        "affiliations": [
+          "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+          "Department of Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Ning, Bo",
+        "short_name": "Ning B",
+        "identifiers": [
+          "0000-0001-9437-7244"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "Department of Biochemistry and Molecular Biology, Tulane University School of Medicine, New Orleans, LA 70112, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Tony",
+        "short_name": "Hu T",
+        "identifiers": [
+          "0000-0002-5166-4937"
+        ],
+        "affiliations": [
+          "Center for Cellular and Molecular Diagnostics, Tulane University School of Medicine, New Orleans, LA 70112, USA.",
+          "School of Biomedical Engineering, Tsinghua University, Beijing 100084, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science translational medicine"
+    ],
+    "journal_abbrev": [
+      "Sci Transl Med"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 17:36",
+    "fetched_at": "2026-09-21 15:57:23"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42748215",
+      "41611404",
+      "32470556",
+      "40763823",
+      "42474386",
+      "42522597",
+      "40899880",
+      "39725131",
+      "41757938",
+      "40444944",
+      "42239534",
+      "37093012",
+      "42214384",
+      "31723010",
+      "40347696",
+      "42365130",
+      "41581366",
+      "40277382",
+      "42439557",
+      "31992616",
+      "42206706",
+      "38383404",
+      "41608958",
+      "41855972",
+      "41239609",
+      "42148572",
+      "38653014",
+      "41240805",
+      "41040984",
+      "39212838",
+      "42328982",
+      "40802893",
+      "39552996",
+      "39998241",
+      "38809001",
+      "18283915",
+      "42681611",
+      "36819015",
+      "39264585",
+      "42283516",
+      "18436594",
+      "38860462",
+      "21653780",
+      "39554814",
+      "39881979",
+      "40818353",
+      "40704803",
+      "41084992",
+      "39115550",
+      "28604333",
+      "40063799",
+      "9508282",
+      "40768573",
+      "37378523",
+      "29559518",
+      "31522608",
+      "39233906",
+      "38350859",
+      "38647075",
+      "38881611",
+      "41005481",
+      "40748247",
+      "35659882",
+      "40983646",
+      "41276946",
+      "41881766",
+      "38190702",
+      "12202580",
+      "39203350",
+      "12791887",
+      "29378893",
+      "41686849",
+      "39513757",
+      "40555854",
+      "39570020",
+      "40552123",
+      "40503836",
+      "40488470",
+      "37287467",
+      "33238709",
+      "9163468",
+      "39182694",
+      "38651877",
+      "30523201",
+      "31228476",
+      "30763943",
+      "8586707",
+      "40403612",
+      "41277692",
+      "38994004",
+      "42276421",
+      "42217400",
+      "41792598",
+      "12454166",
+      "34298016",
+      "42416743",
+      "41707427",
+      "33961413",
+      "36297268",
+      "39387718"
+    ],
+    "review": [
+      "42748215",
+      "40763823",
+      "41608958",
+      "41240805",
+      "39212838",
+      "39552996",
+      "38860462",
+      "39115550",
+      "40555854"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/scitranslmed.aef2648?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
