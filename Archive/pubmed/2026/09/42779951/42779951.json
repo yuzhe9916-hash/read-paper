@@ -1,0 +1,346 @@
+{
+  "identity": {
+    "pmid": "42779951",
+    "doi": "10.64898/2026.09.15.751489",
+    "title": "An ancestral mitochondrial DNA insertion disrupts RNAi and enables persistence of a novel mycovirus in Cryptococcus neoformans."
+  },
+  "content": {
+    "abstract": "RNA interference (RNAi) is a widely conserved genome-defense mechanism that protects eukaryotes against viruses and transposable elements. We previously showed that RNAi loss can lead to hypermutation and antifungal drug resistance in the human fungal pathogen Cryptococcus neoformans, illuminating the potential clinical relevance of this pathway. In this study, we identified another function of RNAi in C. neoformans: mycovirus restriction. By screening known RNAi-deficient C. neoformans isolates, we identified a novel dsRNA mycovirus of the Orthototiviridae family, which we named CnTV1. We subsequently detected CnTV1 in three additional RNAi-deficient isolates. All CnTV1-positive isolates shared an ancestral nuclear mitochondrial DNA segment (NUMT) insertion that disrupts the gene encoding Argonaute (Ago1). Restoration of RNAi in sexually produced zygotes efficiently eliminated CnTV1. RNAi rescue by CRISPR-Cas9-mediated allele exchange eliminated CnTV1 during vegetative growth, further demonstrating RNAi is sufficient for mycoviral control. Loss of the RNA helicase Ski2 or the exoribonuclease Xrn1 increased CnTV1 abundance, revealing RNAi-independent restriction of the virus. Restoration of RNAi cleared the virus even in the absence of Ski2 or Xrn1, indicating a dominant role for RNAi in antiviral defense. To investigate the biological implications of CnTV1 infection, we developed a cytoplasmic-mixing approach and generated isogenic strain pairs in an RNAi-deficient background that differ only in viral infection status. Leveraging these strains, we show that CnTV1 infection leads to coordinated, low-magnitude transcriptomic changes and that strains lacking the mycovirus were moderately less virulent in a murine infection model. Our findings reveal that RNAi serves as a dominant antiviral defense system in C. neoformans and suggest that naturally occurring RNAi deficiency may be more prevalent than previously appreciated. This work highlights mycovirus persistence as an important consequence of RNAi loss in this WHO-designated critical priority fungal pathogen.",
+    "keywords": [
+      "Biological Sciences",
+      "Genetics",
+      "Mycovirus",
+      "NUMT",
+      "RNAi"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Jun",
+        "Larmore, Connor J",
+        "Davenport, Timothy C",
+        "Averette, Anna Floyd",
+        "Choi, Yeseul",
+        "Debat, Humberto",
+        "Gupta, Purav",
+        "Babaian, Artem",
+        "Meneghini, Marc D",
+        "Sun, Sheng",
+        "Heitman, Joseph"
+      ],
+      "short_names": [
+        "Huang J",
+        "Larmore CJ",
+        "Davenport TC",
+        "Averette AF",
+        "Choi Y",
+        "Debat H",
+        "Gupta P",
+        "Babaian A",
+        "Meneghini MD",
+        "Sun S",
+        "Heitman J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4071-0926",
+        "ORCID: 0000-0002-5341-7788",
+        "ORCID: 0009-0005-1043-822X",
+        "ORCID: 0000-0002-5877-0812",
+        "ORCID: 0000-0002-9369-902X",
+        "ORCID: 0000-0003-3056-3739",
+        "ORCID: 0009-0009-8855-9215",
+        "ORCID: 0000-0002-4315-6262",
+        "ORCID: 0000-0003-0887-4311",
+        "ORCID: 0000-0002-2895-1153",
+        "ORCID: 0000-0001-6369-5995"
+      ],
+      "affiliations": [
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA.",
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA.",
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA.",
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA.",
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA.",
+        "Instituto Nacional de Tecnologia Agropecuaria (IPAVE-CIAP-INTA), X5020ICA, Cordoba, Argentina.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON M5G 1M1, Canada.",
+        "The Donnelly Centre for Cellular & Biomolecular Research, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON M5G 1M1, Canada.",
+        "The Donnelly Centre for Cellular & Biomolecular Research, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON M5G 1M1, Canada.",
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA.",
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Jun",
+        "short_name": "Huang J",
+        "identifiers": [
+          "0000-0002-4071-0926"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Larmore, Connor J",
+        "short_name": "Larmore CJ",
+        "identifiers": [
+          "0000-0002-5341-7788"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Davenport, Timothy C",
+        "short_name": "Davenport TC",
+        "identifiers": [
+          "0009-0005-1043-822X"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Averette, Anna Floyd",
+        "short_name": "Averette AF",
+        "identifiers": [
+          "0000-0002-5877-0812"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Choi, Yeseul",
+        "short_name": "Choi Y",
+        "identifiers": [
+          "0000-0002-9369-902X"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Debat, Humberto",
+        "short_name": "Debat H",
+        "identifiers": [
+          "0000-0003-3056-3739"
+        ],
+        "affiliations": [
+          "Instituto Nacional de Tecnología Agropecuaria (IPAVE-CIAP-INTA), X5020ICA, Córdoba, Argentina."
+        ]
+      },
+      {
+        "full_name": "Gupta, Purav",
+        "short_name": "Gupta P",
+        "identifiers": [
+          "0009-0009-8855-9215"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON M5G 1M1, Canada.",
+          "The Donnelly Centre for Cellular & Biomolecular Research, University of Toronto, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Babaian, Artem",
+        "short_name": "Babaian A",
+        "identifiers": [
+          "0000-0002-4315-6262"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON M5G 1M1, Canada.",
+          "The Donnelly Centre for Cellular & Biomolecular Research, University of Toronto, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Meneghini, Marc D",
+        "short_name": "Meneghini MD",
+        "identifiers": [
+          "0000-0003-0887-4311"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON M5G 1M1, Canada."
+        ]
+      },
+      {
+        "full_name": "Sun, Sheng",
+        "short_name": "Sun S",
+        "identifiers": [
+          "0000-0002-2895-1153"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Heitman, Joseph",
+        "short_name": "Heitman J",
+        "identifiers": [
+          "0000-0001-6369-5995"
+        ],
+        "affiliations": [
+          "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779951",
+      "39536081",
+      "39185155",
+      "40518142",
+      "36240494",
+      "21067947",
+      "42475469",
+      "29437977",
+      "32753500",
+      "21078820",
+      "32873760",
+      "40996288",
+      "42593111",
+      "29895639",
+      "28325765",
+      "29898980",
+      "39158293",
+      "39969183",
+      "26401037",
+      "41288339",
+      "33910680",
+      "31311883",
+      "40460280",
+      "35918426",
+      "41562596",
+      "34033342",
+      "41384733",
+      "37851522",
+      "36321557",
+      "26943821",
+      "19706170",
+      "29950414",
+      "40013801",
+      "27334583",
+      "32071275",
+      "30059538",
+      "42523092",
+      "25827419",
+      "37746227",
+      "35726920",
+      "34338631",
+      "40996037",
+      "33975945",
+      "28400515",
+      "37310732",
+      "37052496",
+      "40994739",
+      "41622198",
+      "23151511",
+      "33095387",
+      "36441873",
+      "31092606",
+      "40310102",
+      "40516488",
+      "39601580",
+      "31597720",
+      "38916308",
+      "37309240",
+      "36496203",
+      "38980038",
+      "19197349",
+      "34904892",
+      "40690290",
+      "27165800",
+      "28559486",
+      "38279937",
+      "31712431",
+      "31266878",
+      "9884835",
+      "37019633",
+      "32873759",
+      "18366655",
+      "39879188",
+      "32518190",
+      "31694940",
+      "32900807",
+      "32947034",
+      "42239448",
+      "27165801",
+      "37546757",
+      "34066062",
+      "35865921",
+      "37924080",
+      "38948804",
+      "31228117",
+      "42474189",
+      "41544091",
+      "19073734",
+      "33269400",
+      "29089435",
+      "39440979",
+      "38625945",
+      "38033556",
+      "28154486",
+      "40444466",
+      "31848271",
+      "24643864",
+      "41736794",
+      "2576873",
+      "34343211"
+    ],
+    "review": [
+      "42779951",
+      "36321557",
+      "37746227",
+      "37052496",
+      "40994739"
+    ],
+    "pmc": [
+      "13596313"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42779951/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.15.751489",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

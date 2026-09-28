@@ -1,0 +1,320 @@
+{
+  "identity": {
+    "pmid": "42766034",
+    "doi": "10.1007/s00439-026-02880-z",
+    "title": "Mitochondrial dysfunction drives metabolic reprogramming in Gitelman syndrome: insights from proteomics and isogenic modeling."
+  },
+  "content": {
+    "abstract": "Gitelman syndrome (GS) is an autosomal recessive tubulopathy caused by SLC12A3gene mutations. While electrolyte disturbances are well-defined, the systemic metabolic consequences and underlying mechanisms remain unclear. This study investigated whether SLC12A3mutation drives mitochondrial dysfunction and consequent metabolic reprogramming in GS, utilizing a genetically homogeneous founder population with a homozygous SLC12A3p.C421F mutation. We conducted quantitative plasma proteomic analysis (directDIA) in wild-type (WT) and homozygous (HOM) individuals (n = 6/group) and established an isogenic SLC12A3p.C421F homozygous 293T cell model via CRISPR-Cas9. A series of functional assays were performed, including assessment of mitochondrial DNA copy number, membrane potential (JC-1), oxidative stress markers (SOD, MDA, ROS), lipid metabolism (lipid droplets, triglycerides, glycerol, cholesterol), NAD(H)/NADP(H) pools, intracellular ATP levels, enzymatic activities of all five mitochondrial respiratory chain complexes, extracellular acidification rate (ECAR), and expression of key oxidative phosphorylation proteins. Plasma proteomics revealed a significant downregulation of mitochondrial oxidative phosphorylation, TCA cycle, and fatty acid oxidation proteins in HOM individuals. In the cellular model, the mutation recapitulated this signature, showing reduced expression of core respiratory chain subunits (SDHA, UQCRC1, ATP5D). Functionally, HOM cells exhibited impaired activities of respiratory chain complexes I-V, reduced ATP content, and a compensatory increase in glycolytic flux (ECAR). This bioenergetic deficit was accompanied by diminished mtDNA copy number, dissipated mitochondrial membrane potential, elevated oxidative stress, and aberrant lipid metabolism (decreased lipid droplets and triglycerides). Notably, redox cofactor profiling showed a contracted NADP(H) pool alongside an expanded NAD(H) pool. Our integrated multi-omics and functional approach establishes a strong association between the SLC12A3 p.C421F mutation and a state of mitochondrial bioenergetic failure-characterized by impaired oxidative phosphorylation, an ATP deficit, and a compensatory metabolic shift towards glycolysis-in GS. The distinct NAD(H)/NADP(H) imbalance further indicates profound metabolic reprogramming. These findings extend the pathophysiological understanding of GS beyond a pure tubulopathy to a systemic disorder involving mitochondrial dysfunction, offering new mechanistic insights and potential therapeutic targets.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Mitochondria/metabolism/genetics/pathology",
+      "Proteomics/methods",
+      "*Gitelman Syndrome/genetics/metabolism/pathology",
+      "Metabolic Reprogramming",
+      "Oxidative Stress/genetics",
+      "Mutation",
+      "*Solute Carrier Family 12, Member 3/genetics/metabolism",
+      "Oxidative Phosphorylation",
+      "HEK293 Cells",
+      "DNA, Mitochondrial/genetics",
+      "Lipid Metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Honghan",
+        "Zhao, Wenqian",
+        "Ma, Lanxin",
+        "Yang, Xueli",
+        "Gao, Jinghua",
+        "Liu, Xiaoling",
+        "Xie, Y-G",
+        "Hu, Ying",
+        "Luo, Heng",
+        "Han, Jian"
+      ],
+      "short_names": [
+        "Zhang H",
+        "Zhao W",
+        "Ma L",
+        "Yang X",
+        "Gao J",
+        "Liu X",
+        "Xie YG",
+        "Hu Y",
+        "Luo H",
+        "Han J"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-5022-2239"
+      ],
+      "affiliations": [
+        "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China.",
+        "Department of Clinical Laboratory, Kunming Medical University Second Affiliated Hospital, Kunming, China.",
+        "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China.",
+        "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China.",
+        "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China.",
+        "Department of Clinical Laboratory, Kunming Medical University Second Affiliated Hospital, Kunming, China.",
+        "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China.",
+        "Department of Clinical Laboratory, Kunming Medical University Second Affiliated Hospital, Kunming, China. hy2002@126.com.",
+        "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China. lh18987837533@163.com.",
+        "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China. hanjian2025@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Honghan",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Wenqian",
+        "short_name": "Zhao W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunming Medical University Second Affiliated Hospital, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Lanxin",
+        "short_name": "Ma L",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xueli",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jinghua",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaoling",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunming Medical University Second Affiliated Hospital, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Y-G",
+        "short_name": "Xie YG",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Ying",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Kunming Medical University Second Affiliated Hospital, Kunming, China. hy2002@126.com."
+        ]
+      },
+      {
+        "full_name": "Luo, Heng",
+        "short_name": "Luo H",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China. lh18987837533@163.com."
+        ]
+      },
+      {
+        "full_name": "Han, Jian",
+        "short_name": "Han J",
+        "identifiers": [
+          "0009-0005-5022-2239"
+        ],
+        "affiliations": [
+          "Precision Medicine Center, Chuxiong Yi Autonomous Prefecture People's Hospital and The Fourth Affiliated Hospital of Dali University, Chuxiong, China. hanjian2025@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Human genetics"
+    ],
+    "journal_abbrev": [
+      "Hum Genet"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 17:47",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42766034",
+      "34607911",
+      "42056734",
+      "40804395",
+      "24606795",
+      "40429707",
+      "42526665",
+      "27582097",
+      "35163779",
+      "32642858",
+      "42129767",
+      "41704484",
+      "41664057",
+      "40667385",
+      "40424214",
+      "27083476",
+      "42251941",
+      "42558552",
+      "41507423",
+      "40701258",
+      "40702043",
+      "26770037",
+      "42531761",
+      "41348646",
+      "39940939",
+      "42723719",
+      "42385796",
+      "41508092",
+      "8549853",
+      "40045642",
+      "30999883",
+      "30251684",
+      "29704241",
+      "42019832",
+      "42432720",
+      "41427835",
+      "41779224",
+      "40849623",
+      "42175955",
+      "39615461",
+      "30171159",
+      "42253978",
+      "41559755",
+      "23969228",
+      "42276167",
+      "39934873",
+      "28700713",
+      "22433607",
+      "41512010",
+      "34054724",
+      "41787450",
+      "42173417",
+      "40197337",
+      "27888691",
+      "27784896",
+      "42208346",
+      "41812834",
+      "30084681",
+      "42647426",
+      "37675119",
+      "34046503",
+      "42461144",
+      "33462018",
+      "32702863",
+      "41689138",
+      "31628462",
+      "32712837",
+      "23378588",
+      "30657636",
+      "42025918",
+      "42217683",
+      "40766447",
+      "42384343",
+      "40527371",
+      "38346661",
+      "30938481",
+      "38200266",
+      "25239759",
+      "22009145",
+      "41580786",
+      "42725896",
+      "20628647",
+      "29604498",
+      "31122841",
+      "42760790",
+      "42232504",
+      "40876441",
+      "40228677",
+      "32041178",
+      "41626527",
+      "42140371",
+      "23856898",
+      "41615849",
+      "42731994",
+      "32758178",
+      "20808761",
+      "29378538",
+      "34348722",
+      "23287468",
+      "31110224"
+    ],
+    "review": [
+      "42766034",
+      "42558552",
+      "39940939",
+      "8549853",
+      "42432720",
+      "42208346",
+      "32712837",
+      "23378588",
+      "40527371",
+      "42760790",
+      "23856898",
+      "23287468"
+    ],
+    "pmc": [
+      "13593708"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42766034/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00439-026-02880-z",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-440",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

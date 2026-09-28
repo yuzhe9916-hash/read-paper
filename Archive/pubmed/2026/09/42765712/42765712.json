@@ -1,0 +1,365 @@
+{
+  "identity": {
+    "pmid": "42765712",
+    "doi": "10.1128/mbio.02340-25",
+    "title": "Targeted, genome-scale overexpression in Proteobacteria."
+  },
+  "content": {
+    "abstract": "Targeted, genome-scale gene perturbation screens using clustered regularly interspaced short palindromic repeats interference (CRISPRi) and activation (CRISPRa) have revolutionized eukaryotic genetics, advancing medical, industrial, and basic research. Although CRISPRi knockdowns have been broadly applied in bacteria, options for genome-scale gene overexpression face key limitations. Here, we develop a facile approach for genome-scale overexpression in bacteria we call CRISPR transposition and overexpression (CRISPRtOE). We first create a platform for comprehensive gene targeting using CRISPR-associated transposons (CASTs) and show that transposition occurs at a higher frequency in non-transcribed DNA. We then demonstrate that CRISPRtOE can upregulate gene expression in Proteobacteria with medical and industrial relevance by integrating synthetic promoters of varying strength upstream of target genes. Finally, we employ CRISPRtOE screening at the genome scale in the model bacterium Escherichia coli and the non-model biofuel producer Zymomonas mobilis, recovering known and novel antibiotic and engineering targets. We envision that CRISPRtOE will be a valuable overexpression tool for antibiotic mode of action, industrial strain optimization, and gene function discovery in bacteria.IMPORTANCESystematic alteration of bacterial gene expression enables identification of genes relevant to diverse fields of study and practical applications. Although many targeted, genome-scale genetic tools exist for reducing or eliminating gene expression, there are few facile approaches for systematic gene overexpression in bacteria. Here, we develop a targeted overexpression approach for Proteobacteria of medical and industrial importance that precisely inserts strong promoters upstream of genes using clustered regularly interspaced short palindromic repeats (CRISPR)-associated transposons. We demonstrate that this approach can be used to systematically overexpress genes in both model (Escherichia coli K-12) and non-model (Zymomonas mobilis) Proteobacteria for the purpose of understanding antibiotic resistance mechanisms and improving strain resilience in biofuel production conditions, respectively.",
+    "keywords": [
+      "Acinetobacter",
+      "Enterobacter",
+      "Klebsiella",
+      "Pseudomonas",
+      "Shewanella",
+      "antibiotic resistance",
+      "bacterial genetic engineering",
+      "bioenergy",
+      "functional genomics",
+      "industrial microbe optimization",
+      "synthetic biology",
+      "systems biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Banta, Amy B",
+        "Hall, Ashley N",
+        "Myers, Kevin S",
+        "Ward, Ryan D",
+        "Davis, Bryce C",
+        "Cuellar, Rodrigo A",
+        "Place, Michael",
+        "Freeh, Claire C",
+        "Bacon, Emily E",
+        "Peters, Jason M"
+      ],
+      "short_names": [
+        "Banta AB",
+        "Hall AN",
+        "Myers KS",
+        "Ward RD",
+        "Davis BC",
+        "Cuellar RA",
+        "Place M",
+        "Freeh CC",
+        "Bacon EE",
+        "Peters JM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1843-5059",
+        "ORCID: 0000-0003-3302-3877",
+        "ORCID: 0000-0001-9537-2461",
+        "ORCID: 0000-0001-8090-7689",
+        "ORCID: 0000-0003-2722-8382"
+      ],
+      "affiliations": [
+        "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Wisconsin Energy Institute, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 732059. ROR: https://ror.org/01y2jtd41",
+        "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Laboratory of Genetics, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Microbiology Doctoral Training Program, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Microbiology Doctoral Training Program, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Department of Bacteriology, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 205263. ROR: https://ror.org/01y2jtd41",
+        "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41",
+        "Center for Genomic Science Innovation, University of Wisconsin-Madison, Madison, Wisconsin, USA. RINGGOLD: 5228. ROR: https://ror.org/01y2jtd41"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Banta, Amy B",
+        "short_name": "Banta AB",
+        "identifiers": [
+          "0000-0002-1843-5059"
+        ],
+        "affiliations": [
+          "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Hall, Ashley N",
+        "short_name": "Hall AN",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Myers, Kevin S",
+        "short_name": "Myers KS",
+        "identifiers": [
+          "0000-0003-3302-3877"
+        ],
+        "affiliations": [
+          "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "Wisconsin Energy Institute, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Ward, Ryan D",
+        "short_name": "Ward RD",
+        "identifiers": [
+          "0000-0001-9537-2461"
+        ],
+        "affiliations": [
+          "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "Laboratory of Genetics, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Davis, Bryce C",
+        "short_name": "Davis BC",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Cuellar, Rodrigo A",
+        "short_name": "Cuellar RA",
+        "identifiers": [],
+        "affiliations": [
+          "Microbiology Doctoral Training Program, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Place, Michael",
+        "short_name": "Place M",
+        "identifiers": [],
+        "affiliations": [
+          "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Freeh, Claire C",
+        "short_name": "Freeh CC",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Bacon, Emily E",
+        "short_name": "Bacon EE",
+        "identifiers": [
+          "0000-0001-8090-7689"
+        ],
+        "affiliations": [
+          "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "Microbiology Doctoral Training Program, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      },
+      {
+        "full_name": "Peters, Jason M",
+        "short_name": "Peters JM",
+        "identifiers": [
+          "0000-0003-2722-8382"
+        ],
+        "affiliations": [
+          "Pharmaceutical Sciences Division, School of Pharmacy, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "DOE Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "Department of Bacteriology, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, Wisconsin, USA.",
+          "Center for Genomic Science Innovation, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mBio"
+    ],
+    "journal_abbrev": [
+      "mBio"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 11:44",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42765712",
+      "38496613",
+      "32978126",
+      "38809084",
+      "39324814",
+      "31581942",
+      "42475469",
+      "41342542",
+      "38775491",
+      "38925657",
+      "37368499",
+      "33332762",
+      "39631148",
+      "29621180",
+      "40434115",
+      "30617347",
+      "40842235",
+      "38265239",
+      "37815340",
+      "39163848",
+      "40401794",
+      "39628933",
+      "36450451",
+      "29786424",
+      "26238567",
+      "30217854",
+      "31451697",
+      "27814687",
+      "40113237",
+      "38909984",
+      "29316926",
+      "36655998",
+      "33285498",
+      "40521885",
+      "30254120",
+      "36094654",
+      "31898252",
+      "26729910",
+      "32657546",
+      "35813973",
+      "29717009",
+      "29980561",
+      "25968642",
+      "33751237",
+      "41524400",
+      "41173724",
+      "26451892",
+      "28381263",
+      "33710766",
+      "38722179",
+      "30979834",
+      "37078570",
+      "42272755",
+      "32064678",
+      "38344439",
+      "30911332",
+      "29031730",
+      "27566508",
+      "41826830",
+      "38126782",
+      "29326075",
+      "29019352",
+      "37813387",
+      "39227830",
+      "34858961",
+      "38837392",
+      "29330178",
+      "37107664",
+      "33001599",
+      "34288704",
+      "34412573",
+      "39302127",
+      "33782056",
+      "32310310",
+      "33757429",
+      "29463653",
+      "30478227",
+      "42148575",
+      "35700449",
+      "41910237",
+      "33609360",
+      "39085047",
+      "32045111",
+      "39162514",
+      "31992616",
+      "37833755",
+      "25742428",
+      "36417506",
+      "41670347",
+      "38186450",
+      "27496775",
+      "27226589",
+      "40393858",
+      "29255251",
+      "31959800",
+      "35809388",
+      "38952047",
+      "24639266",
+      "24409757",
+      "28258147"
+    ],
+    "review": [
+      "42765712",
+      "38809084",
+      "38925657",
+      "39631148",
+      "29621180",
+      "40401794",
+      "39628933",
+      "27814687",
+      "40113237",
+      "38909984",
+      "33285498",
+      "36094654",
+      "31898252",
+      "35813973",
+      "33751237",
+      "42272755",
+      "32064678",
+      "38344439",
+      "27566508",
+      "29326075",
+      "34858961",
+      "34412573",
+      "39085047",
+      "38186450",
+      "40393858",
+      "35809388",
+      "24639266"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/mbio.02340-25?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://addgene.org/browse/pubmed/42765712",
+        "provider": "Addgene Non-profit plasmid repository",
+        "category": "Research Materials",
+        "attribute": "subscription/membership/fee required",
+        "linkname": "Get Article's Plasmids - Addgene"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3993",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

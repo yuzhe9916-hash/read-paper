@@ -1,0 +1,198 @@
+{
+  "identity": {
+    "pmid": "42780087",
+    "doi": "10.3389/fsysb.2026.1859256",
+    "title": "Covariate-adjusted AP-1 motif architecture and footprinting track olaparib-adaptive chromatin remodelling."
+  },
+  "content": {
+    "abstract": "Transcription-factor involvement in drug-adaptive chromatin remodelling is often inferred from motif enrichment in differential ATAC-seq peaks, but such analyses can be distorted by sequence composition, peak length, baseline accessibility and redundant motif models. We reanalysed 105,048 consensus ATAC-seq peaks from an olaparib-adapted Kuramochi ovarian-cancer continuum using HOMER-calibrated AP-1/bZIP models with coordinate-level de-duplication. At T320, 27,154 peaks gained and 30,050 lost accessibility. AP-1 motif-occurrence density remained higher in gained chromatin under complementary adjustments: an all-peak spline-adjusted Poisson model gave a rate ratio of 1.90 (95% CI 1.80-2.01), overlap weighting gave 1.95 (1.82-2.11), and 14,046 covariate-matched pairs gave 1.97 (1.90-2.05). Following 35,325 fixed motif-positive/motif-negative peak pairs across the adapted series showed a positive accessibility trend of 0.0363 contrast units per dose doubling (95% CI 0.0195-0.0531). Raw paired-end ATAC-seq footprinting provided an orthogonal signal: AP-1 motif intervals scored above same-length motif-free controls selected within the same accessible peaks in every sample, and the AP-1-specific footprint score increased by 0.00509 per dose doubling after replicate adjustment (HC3 95% CI 0.00081-0.00937; exact stratified permutation P = 0.00211). In a matched-background genome-wide scan, related AP-1/bZIP models occupied the nine highest ranks. Within gained chromatin, motif-positive peaks showed greater adjusted overlap with pooled public AP-1 summits (OR 3.82, 95% CI 3.52-4.15); after collapsing related files by study, 71 study clusters gave a random-effects OR of 2.68 (2.51-2.87), with substantial heterogeneity and a prediction interval of 1.58-4.54. Multi-model single-cell and independent bulk-RNA analyses indicated context-dependent downstream AP-1 output, whereas the two valid comparable drug-free CRISPR contrasts were not FDR-significant. Exploratory nearest-TSS mapping of AP-1-rich gained peaks identified 899 protein-coding genes; recurring GO, Reactome and KEGG themes and STRING associations were used only to provide qualitative, hypothesis-generating functional context. Together, the data support a robust association between AP-1-compatible chromatin architecture and olaparib adaptation, while not establishing AP-1 occupancy, necessity or sufficiency in the studied cells.",
+    "keywords": [
+      "AP-1",
+      "ATAC-seq",
+      "chromatin accessibility",
+      "covariate adjustment",
+      "digital genomic footprinting",
+      "motif enrichment",
+      "olaparib adaptation",
+      "ovarian cancer"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dutta, Subhajit"
+      ],
+      "short_names": [
+        "Dutta S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Cell Biology (IBMZ), Center for Experimental Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dutta, Subhajit",
+        "short_name": "Dutta S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Cell Biology (IBMZ), Center for Experimental Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in systems biology"
+    ],
+    "journal_abbrev": [
+      "Front Syst Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42780087",
+      "36321557",
+      "42475469",
+      "34699533",
+      "41924246",
+      "42749447",
+      "33937014",
+      "41318386",
+      "42393511",
+      "41418650",
+      "41639613",
+      "41923161",
+      "36106702",
+      "41731605",
+      "36276837",
+      "39326643",
+      "37107573",
+      "40250421",
+      "42367874",
+      "37751945",
+      "36232500",
+      "35195064",
+      "41453673",
+      "27993786",
+      "41757207",
+      "33191916",
+      "38066591",
+      "42015003",
+      "22849236",
+      "40516868",
+      "35695574",
+      "25179504",
+      "38654130",
+      "42193012",
+      "42265104",
+      "36719906",
+      "35037783",
+      "32309280",
+      "39150724",
+      "42477823",
+      "42235720",
+      "40141276",
+      "36738683",
+      "30791920",
+      "41310253",
+      "29982337",
+      "35685361",
+      "37118773",
+      "34552866",
+      "42438676",
+      "41831316",
+      "39501301",
+      "41721429",
+      "32029221",
+      "32405341",
+      "41716379",
+      "37211599",
+      "34544361",
+      "41473285",
+      "40649857",
+      "35277199",
+      "42559600",
+      "40167783",
+      "39908890",
+      "31164146",
+      "42216123",
+      "41663439",
+      "40795153",
+      "29487567",
+      "32376693",
+      "41719189",
+      "32321567",
+      "29561703",
+      "28538187",
+      "37732899",
+      "42296381",
+      "37634200",
+      "39881144",
+      "26977395",
+      "29553669",
+      "38443979",
+      "32967096",
+      "34488759",
+      "40280635",
+      "42114111",
+      "32424069",
+      "36069349",
+      "34273560",
+      "27008018",
+      "40754687",
+      "42653105",
+      "31053165",
+      "41676133",
+      "41768797",
+      "33934724",
+      "35581287",
+      "35874611",
+      "34722266",
+      "11515188",
+      "32293531"
+    ],
+    "review": [
+      "42780087",
+      "36321557",
+      "36106702",
+      "39150724"
+    ],
+    "pmc": [
+      "13597331"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42780087/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fsysb.2026.1859256",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

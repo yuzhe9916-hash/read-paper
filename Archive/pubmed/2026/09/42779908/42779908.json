@@ -1,0 +1,317 @@
+{
+  "identity": {
+    "pmid": "42779908",
+    "doi": "10.64898/2026.09.14.751564",
+    "title": "High-resolution CRISPR/Cas9 screens identify PAK2 as a suppressor of macrophage proliferation."
+  },
+  "content": {
+    "abstract": "Macrophage abundance is regulated by pathways controlling survival and proliferation, yet the genetic determinants of macrophage fitness remain poorly understood. Here, we performed replicate genome-wide CRISPR/Cas9 screens in primary murine bone marrow-derived macrophages (BMDMs) to identify positive and negative regulators of macrophage fitness. Validity of the screens is supported by finding previously characterized core essential genes such as those encoding translation machinery, while disruption of established tumor suppressors increased BMDM representation in the culture. As expected, Csf1r encoding the macrophage growth factor emerged as a positive regulator of macrophage fitness. Unexpectedly, Pak2, encoding p21-activated kinase 2 (PAK2), emerged as a negative regulator of macrophage fitness. Targeted Pak2 disruption increased BMDM accumulation and was associated with elevated cyclin-D1 expression, identifying PAK2 as a suppressor of macrophage proliferation. PAK2 also localized to CSF1-induced actin-rich membrane ruffles, yet its depletion did not impair ruffle formation. Instead, PAK2-depleted macrophages exhibited persistent F-actin-rich ruffles, larger macropinosomes, and increased fluid-phase uptake. These changes were accompanied by altered LIMK/cofilin signaling and persistent cofilin localization at macropinocytic structures. Phosphoproteomic analysis further identified reduced phosphorylation of proteins associated with cytoskeletal regulation, phosphoinositide signaling, and endosomal trafficking. Together, these findings identify PAK2 as a context-dependent regulator that restrains macrophage proliferation and membrane-remodeling activity and demonstrate that PAK2 has markedly different fitness functions in primary macrophages than previously identified in several transformed cell types.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wanniarachchi, Kevin N",
+        "Neupane, Astha",
+        "Kasu, Bidhi",
+        "Pradhan, Bijaya",
+        "Poudel, Susmita",
+        "Balster, Joshua J",
+        "Kerkvliet, Jason G",
+        "Hoppe, Adam D",
+        "Thiex, Natalie W"
+      ],
+      "short_names": [
+        "Wanniarachchi KN",
+        "Neupane A",
+        "Kasu B",
+        "Pradhan B",
+        "Poudel S",
+        "Balster JJ",
+        "Kerkvliet JG",
+        "Hoppe AD",
+        "Thiex NW"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-9903-7802",
+        "ORCID: 0000-0002-2391-058X",
+        "ORCID: 0009-0007-9056-334X",
+        "ORCID: 0009-0004-7793-7704",
+        "ORCID: 0009-0008-0386-7298",
+        "ORCID: 0009-0001-0617-2319",
+        "ORCID: 0000-0003-4180-0840",
+        "ORCID: 0000-0001-7028-094X"
+      ],
+      "affiliations": [
+        "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA.",
+        "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA.",
+        "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA.",
+        "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA.",
+        "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA.",
+        "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA.",
+        "Department of Chemistry, Biochemistry, and Physics, South Dakota State University, Brookings, SD, USA.",
+        "Department of Chemistry, Biochemistry, and Physics, South Dakota State University, Brookings, SD, USA.",
+        "Department of Chemistry, Biochemistry, and Physics, South Dakota State University, Brookings, SD, USA.",
+        "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wanniarachchi, Kevin N",
+        "short_name": "Wanniarachchi KN",
+        "identifiers": [
+          "0009-0008-9903-7802"
+        ],
+        "affiliations": [
+          "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Neupane, Astha",
+        "short_name": "Neupane A",
+        "identifiers": [
+          "0000-0002-2391-058X"
+        ],
+        "affiliations": [
+          "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Kasu, Bidhi",
+        "short_name": "Kasu B",
+        "identifiers": [
+          "0009-0007-9056-334X"
+        ],
+        "affiliations": [
+          "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Pradhan, Bijaya",
+        "short_name": "Pradhan B",
+        "identifiers": [
+          "0009-0004-7793-7704"
+        ],
+        "affiliations": [
+          "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Poudel, Susmita",
+        "short_name": "Poudel S",
+        "identifiers": [
+          "0009-0008-0386-7298"
+        ],
+        "affiliations": [
+          "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Balster, Joshua J",
+        "short_name": "Balster JJ",
+        "identifiers": [
+          "0009-0001-0617-2319"
+        ],
+        "affiliations": [
+          "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA.",
+          "Department of Chemistry, Biochemistry, and Physics, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Kerkvliet, Jason G",
+        "short_name": "Kerkvliet JG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Biochemistry, and Physics, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Hoppe, Adam D",
+        "short_name": "Hoppe AD",
+        "identifiers": [
+          "0000-0003-4180-0840"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Biochemistry, and Physics, South Dakota State University, Brookings, SD, USA."
+        ]
+      },
+      {
+        "full_name": "Thiex, Natalie W",
+        "short_name": "Thiex NW",
+        "identifiers": [
+          "0000-0001-7028-094X"
+        ],
+        "affiliations": [
+          "Department of Biology and Microbiology, South Dakota State University, Brookings, SD, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779908",
+      "27956228",
+      "42475469",
+      "39211167",
+      "42762268",
+      "26932803",
+      "39949198",
+      "38828848",
+      "24843022",
+      "41423632",
+      "34088832",
+      "25824689",
+      "25586960",
+      "15187108",
+      "29296839",
+      "7884321",
+      "42675978",
+      "38343537",
+      "14559914",
+      "24025335",
+      "41218112",
+      "27224507",
+      "35775626",
+      "16617111",
+      "15259023",
+      "30068946",
+      "26350970",
+      "31676439",
+      "10644687",
+      "41792242",
+      "20147394",
+      "39504444",
+      "36869386",
+      "32767816",
+      "38886809",
+      "42106714",
+      "30009820",
+      "19923322",
+      "38413020",
+      "16709817",
+      "23737530",
+      "42336198",
+      "34789150",
+      "42152025",
+      "31088931",
+      "22028782",
+      "41309249",
+      "10510349",
+      "39350056",
+      "42028950",
+      "30134165",
+      "31209047",
+      "41902694",
+      "23213469",
+      "19876919",
+      "21177766",
+      "41529726",
+      "41216335",
+      "41265697",
+      "9867252",
+      "41843980",
+      "42476336",
+      "18411304",
+      "35986102",
+      "9722538",
+      "15542629",
+      "27958762",
+      "21819585",
+      "21610095",
+      "22247700",
+      "27648129",
+      "16501114",
+      "40842027",
+      "41571298",
+      "35316296",
+      "27040307",
+      "11567999",
+      "10942577",
+      "42321533",
+      "28216158",
+      "24945926",
+      "34075397",
+      "24621074",
+      "27353657",
+      "26459636",
+      "37301510",
+      "25065596",
+      "35700449",
+      "34917911",
+      "21632535",
+      "26391956",
+      "42402044",
+      "16280551",
+      "25979836",
+      "16281055",
+      "21699731",
+      "25857347",
+      "18768756",
+      "42111497",
+      "24148319"
+    ],
+    "review": [
+      "42779908"
+    ],
+    "pmc": [
+      "13596332"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42779908/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CCND1-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3547",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.14.751564",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

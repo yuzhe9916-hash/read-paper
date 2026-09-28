@@ -1,0 +1,347 @@
+{
+  "identity": {
+    "pmid": "42769312",
+    "doi": "10.3389/fpls.2026.1915693",
+    "title": "Speed breeding in upland cotton (Gossypium hirsutum L): scientific foundations and integrated implementation of a next-generation cotton breeding platform."
+  },
+  "content": {
+    "abstract": "Conventional cotton (Gossypium spp.) variety development requires 8-12 years - a timeline structurally incompatible with the accelerating urgency of climate-change adaptation, soil salinisation, and textile-industry demands for novel varieties within 3-5 years. Speed breeding (SB) compresses the generation interval by 30-80% through synergistic optimisation of LED spectra, temperature, nutrition, and immature embryo rescue (IER). However, SB alone is a temporal accelerator, not a breeding system: its transformative potential is realised only when it functions as the central engine of a genomics-assisted speed breeding (GASB) platform that integrates molecular marker-assisted selection (MAS), genomic selection (GS), CRISPR and New Genomic Technique (NGT) editing, high-throughput phenotyping (HTP), and AI-assisted decision-support tools. Building on previous reviews of cotton speed breeding and genomics-assisted breeding, the present review provides a mechanistic and implementation-oriented synthesis of these complementary technologies within a unified GASB framework. We evaluate: (i) the molecular architecture of photoperiodic flowering in predominantly Gossypium hirsutum, together with currently available evidence from other Gossypium species where appropriate and its manipulation through LED protocol design and CRISPR targeting of flowering suppressors; (ii) the mechanistic basis of multi-channel LED recipe design from SB 1.0 to SB 3.0; (iii) stage-specific thermal management including the operationally critical 33 degrees C pollen safety ceiling; (iv) nutritional physiology, phytohormones, and biochemical monitoring; (v) in vitro biotechnologies-including callus culture, microspore-derived doubled haploids, and immature embryo rescue (IER)-together with the operational coordination of immature embryo rescue and pollen-stage temperature management within speed-breeding facilities; (vi) high-throughput phenotyping technologies experimentally validated in cotton, encompassing five cotton-specific applications reviewed in a dedicated section; and (vii) AI-assisted phenotyping and digital twin architectures for real-time decision support within the GASB pipeline. Critical analysis identifies allotetraploid genome redundancy, genotype x light environment (GxL) interaction with landrace germplasm, IER scalability, bioinformatics infrastructure gaps, SB-to-field correlation uncertainties, and SVT regulatory requirements as the primary barriers to widespread GASB deployment. A structured 2025-2035 roadmap with three time-horizon priorities and measurable KPIs is presented.",
+    "keywords": [
+      "CRISPR",
+      "GASB",
+      "Gossypium hirsutum",
+      "LED photobiology",
+      "genomic selection",
+      "immature embryo rescue",
+      "integrated breeding system",
+      "salt tolerance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kurbonov, Abrorjon Y",
+        "Mamedova, Feruza F",
+        "Isayeva, Rayhona M",
+        "Khamirayev, Ural A",
+        "Liu, Shengli",
+        "Lizhi, Wang",
+        "Makhmadjanov, Sabir P",
+        "Kostakov, Amandyk K",
+        "Aliyev, Amangeldy I",
+        "Kostak, Olzhas A",
+        "Makhmadjanov, Djanibek S"
+      ],
+      "short_names": [
+        "Kurbonov AY",
+        "Mamedova FF",
+        "Isayeva RM",
+        "Khamirayev UA",
+        "Liu S",
+        "Lizhi W",
+        "Makhmadjanov SP",
+        "Kostakov AK",
+        "Aliyev AI",
+        "Kostak OA",
+        "Makhmadjanov DS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Cotton Biotechnology Laboratory, Research Institute of Cotton Breeding, Seed Production and Agrotechnologies (CBSPARI), Tashkent, Uzbekistan.",
+        "Cotton Biotechnology Laboratory, Research Institute of Cotton Breeding, Seed Production and Agrotechnologies (CBSPARI), Tashkent, Uzbekistan.",
+        "Cotton Biotechnology Laboratory, Research Institute of Cotton Breeding, Seed Production and Agrotechnologies (CBSPARI), Tashkent, Uzbekistan.",
+        "Fruit Crop Biotechnology Laboratory, Academician M. Mirzaev Research Institute of Horticulture, Viticulture and Winemaking, Tashkent, Uzbekistan.",
+        "State Key Laboratory of Cotton Bio-Breeding and Integrated Utilization, School of Agriculture and Biomanufacturing, Zhengzhou University, Zhengzhou, China.",
+        "Fruit Crop Biotechnology Laboratory, Academician M. Mirzaev Research Institute of Horticulture, Viticulture and Winemaking, Tashkent, Uzbekistan.",
+        "State Key Laboratory of Cotton Biology, Institute of Cotton Research of the Chinese Academy of Agricultural Sciences, Anyang, China.",
+        "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan.",
+        "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan.",
+        "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan.",
+        "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan.",
+        "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kurbonov, Abrorjon Y",
+        "short_name": "Kurbonov AY",
+        "identifiers": [],
+        "affiliations": [
+          "Cotton Biotechnology Laboratory, Research Institute of Cotton Breeding, Seed Production and Agrotechnologies (CBSPARI), Tashkent, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "Mamedova, Feruza F",
+        "short_name": "Mamedova FF",
+        "identifiers": [],
+        "affiliations": [
+          "Cotton Biotechnology Laboratory, Research Institute of Cotton Breeding, Seed Production and Agrotechnologies (CBSPARI), Tashkent, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "Isayeva, Rayhona M",
+        "short_name": "Isayeva RM",
+        "identifiers": [],
+        "affiliations": [
+          "Cotton Biotechnology Laboratory, Research Institute of Cotton Breeding, Seed Production and Agrotechnologies (CBSPARI), Tashkent, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "Khamirayev, Ural A",
+        "short_name": "Khamirayev UA",
+        "identifiers": [],
+        "affiliations": [
+          "Fruit Crop Biotechnology Laboratory, Academician M. Mirzaev Research Institute of Horticulture, Viticulture and Winemaking, Tashkent, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "Liu, Shengli",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Cotton Bio-Breeding and Integrated Utilization, School of Agriculture and Biomanufacturing, Zhengzhou University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lizhi, Wang",
+        "short_name": "Lizhi W",
+        "identifiers": [],
+        "affiliations": [
+          "Fruit Crop Biotechnology Laboratory, Academician M. Mirzaev Research Institute of Horticulture, Viticulture and Winemaking, Tashkent, Uzbekistan.",
+          "State Key Laboratory of Cotton Biology, Institute of Cotton Research of the Chinese Academy of Agricultural Sciences, Anyang, China."
+        ]
+      },
+      {
+        "full_name": "Makhmadjanov, Sabir P",
+        "short_name": "Makhmadjanov SP",
+        "identifiers": [],
+        "affiliations": [
+          "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Kostakov, Amandyk K",
+        "short_name": "Kostakov AK",
+        "identifiers": [],
+        "affiliations": [
+          "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Aliyev, Amangeldy I",
+        "short_name": "Aliyev AI",
+        "identifiers": [],
+        "affiliations": [
+          "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Kostak, Olzhas A",
+        "short_name": "Kostak OA",
+        "identifiers": [],
+        "affiliations": [
+          "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Makhmadjanov, Djanibek S",
+        "short_name": "Makhmadjanov DS",
+        "identifiers": [],
+        "affiliations": [
+          "Agricultural Experimental Station of Cotton and Melon Growing, Atakent, Kazakhstan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 12:42",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42769312",
+      "42475469",
+      "25401149",
+      "36226594",
+      "42588892",
+      "37239463",
+      "42470460",
+      "42560466",
+      "25359292",
+      "36275563",
+      "41081913",
+      "27067834",
+      "41804045",
+      "38440193",
+      "40536536",
+      "28835210",
+      "42074505",
+      "36321557",
+      "35646011",
+      "41595428",
+      "42330268",
+      "34272194",
+      "42690503",
+      "37510388",
+      "42240951",
+      "35009100",
+      "32844253",
+      "31771502",
+      "32652678",
+      "42756168",
+      "28886694",
+      "42650093",
+      "31473809",
+      "40941969",
+      "42715733",
+      "29016665",
+      "28809947",
+      "27499678",
+      "33051724",
+      "30220108",
+      "24886099",
+      "41546796",
+      "39637703",
+      "27776497",
+      "31980282",
+      "22733444",
+      "25908569",
+      "33270669",
+      "41113176",
+      "31404956",
+      "25501533",
+      "30975072",
+      "18801424",
+      "21078138",
+      "42278532",
+      "29559536",
+      "36432741",
+      "28755130",
+      "24306319",
+      "35722519",
+      "41594895",
+      "39725167",
+      "34206949",
+      "41557518",
+      "41153370",
+      "41068364",
+      "41829781",
+      "25672505",
+      "37875695",
+      "30506522",
+      "27829353",
+      "36738104",
+      "23064252",
+      "29116883",
+      "42245112",
+      "30253066",
+      "31921240",
+      "30050555",
+      "42464962",
+      "26730964",
+      "35164736",
+      "32239588",
+      "41606509",
+      "25894395",
+      "42661016",
+      "40105917",
+      "25403726",
+      "39506826",
+      "22297564",
+      "37020180",
+      "19840401",
+      "38934790",
+      "42159171",
+      "41602532",
+      "32586283",
+      "24170350",
+      "30725667",
+      "22163052",
+      "28158969",
+      "41423625"
+    ],
+    "review": [
+      "42769312",
+      "25401149",
+      "36226594",
+      "42588892",
+      "37239463",
+      "42560466",
+      "36275563",
+      "41081913",
+      "38440193",
+      "40536536",
+      "36321557",
+      "35646011",
+      "42690503",
+      "37510388",
+      "42756168",
+      "42650093",
+      "42715733",
+      "41546796",
+      "39637703",
+      "31980282",
+      "41113176",
+      "25501533",
+      "42278532",
+      "41594895",
+      "34206949",
+      "41068364",
+      "41829781",
+      "29116883",
+      "42245112",
+      "31921240",
+      "42464962",
+      "39506826"
+    ],
+    "pmc": [
+      "13591094"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42769312/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1915693",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

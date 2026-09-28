@@ -1,0 +1,456 @@
+{
+  "identity": {
+    "pmid": "42789384",
+    "doi": "10.1016/j.celrep.2026.118042",
+    "title": "Transcriptional and epigenomic analysis of insulin sensitivity in human adipocytes."
+  },
+  "content": {
+    "abstract": "Insulin resistance is a key feature of type 2 diabetes (T2D) and is also associated with a wide variety of other disease states. We isolated adipocytes from subjects with and without insulin resistance and subjected them to transcriptional and epigenomic profiling, allowing us to identify genes, cis-regulatory elements, and pathways that associate with insulin resistance in this critical cell type. We focused on several differentially enriched regions near the IRS1 gene that were close to, but distinct from, single-nucleotide polymorphisms associated with T2D and insulin resistance. CRISPR interference (CRISPRi)-mediated repression of these elements identified two major enhancer regions that regulate IRS1 expression in a cell-state-dependent manner. Finally, we identified specific transcription factors that act through these sites to enhance IRS1 gene expression. These studies help to define the molecular events that characterize, and potentially determine, human insulin sensitivity and resistance.",
+    "keywords": [
+      "CP: metabolism",
+      "CP: molecular biology",
+      "CRISPRi",
+      "H3K27ac",
+      "IRS1",
+      "RNA-seq",
+      "adipocyte",
+      "epigenomics",
+      "human",
+      "insulin resistance",
+      "insulin sensitivity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Qianbin",
+        "Zhou, Audrey",
+        "Maynard, Adam G",
+        "Emont, Margo P",
+        "Jacobs, Christopher",
+        "Nagesh, Soumya",
+        "Batista, Thiago M",
+        "Gibson, Renee M",
+        "Huang, Yi",
+        "Kaalia, Rama",
+        "Perez-Schindler, Joaquin",
+        "Min, Bellis",
+        "Lyubetskaya, Anna",
+        "Dawes, Brian",
+        "Chen, Anlu",
+        "Tenen, Danielle",
+        "De Filippis, Eleanna",
+        "Merkel, Erin",
+        "Ivison, Rachael",
+        "Kar, Amrita",
+        "Dashti, Hesam",
+        "Claussnitzer, Melina",
+        "Tsai, Linus",
+        "Rosen, Evan D"
+      ],
+      "short_names": [
+        "Zhang Q",
+        "Zhou A",
+        "Maynard AG",
+        "Emont MP",
+        "Jacobs C",
+        "Nagesh S",
+        "Batista TM",
+        "Gibson RM",
+        "Huang Y",
+        "Kaalia R",
+        "Perez-Schindler J",
+        "Min B",
+        "Lyubetskaya A",
+        "Dawes B",
+        "Chen A",
+        "Tenen D",
+        "De Filippis E",
+        "Merkel E",
+        "Ivison R",
+        "Kar A",
+        "Dashti H",
+        "Claussnitzer M",
+        "Tsai L",
+        "Rosen ED"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; Diabetes Unit and Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA. Electronic address: melina@broadinstitute.org.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Harvard Medical School, Boston, MA, USA. Electronic address: ltsai@bidmc.harvard.edu.",
+        "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA; Harvard Medical School, Boston, MA, USA. Electronic address: erosen@bidmc.harvard.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Qianbin",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Audrey",
+        "short_name": "Zhou A",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Maynard, Adam G",
+        "short_name": "Maynard AG",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Emont, Margo P",
+        "short_name": "Emont MP",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Jacobs, Christopher",
+        "short_name": "Jacobs C",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Nagesh, Soumya",
+        "short_name": "Nagesh S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Batista, Thiago M",
+        "short_name": "Batista TM",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Gibson, Renee M",
+        "short_name": "Gibson RM",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Yi",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Kaalia, Rama",
+        "short_name": "Kaalia R",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Pérez-Schindler, Joaquín",
+        "short_name": "Pérez-Schindler J",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Min, Bellis",
+        "short_name": "Min B",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Lyubetskaya, Anna",
+        "short_name": "Lyubetskaya A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Dawes, Brian",
+        "short_name": "Dawes B",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Anlu",
+        "short_name": "Chen A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Tenen, Danielle",
+        "short_name": "Tenen D",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "De Filippis, Eleanna",
+        "short_name": "De Filippis E",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Merkel, Erin",
+        "short_name": "Merkel E",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ivison, Rachael",
+        "short_name": "Ivison R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Kar, Amrita",
+        "short_name": "Kar A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Dashti, Hesam",
+        "short_name": "Dashti H",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Claussnitzer, Melina",
+        "short_name": "Claussnitzer M",
+        "identifiers": [],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA; Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; Diabetes Unit and Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA. Electronic address: melina@broadinstitute.org."
+        ]
+      },
+      {
+        "full_name": "Tsai, Linus",
+        "short_name": "Tsai L",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Harvard Medical School, Boston, MA, USA. Electronic address: ltsai@bidmc.harvard.edu."
+        ]
+      },
+      {
+        "full_name": "Rosen, Evan D",
+        "short_name": "Rosen ED",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical Center, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA; Harvard Medical School, Boston, MA, USA. Electronic address: erosen@bidmc.harvard.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 17:33",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42789384",
+      "32029221",
+      "29396371",
+      "27226562",
+      "30284014",
+      "41862973",
+      "37506691",
+      "32992037",
+      "27739225",
+      "28580277",
+      "33057195",
+      "25606440",
+      "37111057",
+      "15634339",
+      "27347941",
+      "37486064",
+      "34922464",
+      "33362275",
+      "14633864",
+      "27490187",
+      "34456865",
+      "23281828",
+      "34896253",
+      "21655096",
+      "30099506",
+      "29385209",
+      "28570579",
+      "34018016",
+      "24584551",
+      "42771182",
+      "19567513",
+      "12732648",
+      "24451368",
+      "28122230",
+      "41793632",
+      "28052964",
+      "36368230",
+      "22028663",
+      "33046126",
+      "25174657",
+      "14694850",
+      "27563694",
+      "26977395",
+      "21917432",
+      "23055543",
+      "27432476",
+      "17575262",
+      "34635154",
+      "28683826",
+      "41721429",
+      "27833659",
+      "40753770",
+      "19734900",
+      "29487953",
+      "28193859",
+      "36907599",
+      "11978627",
+      "36224569",
+      "31739742",
+      "41398680",
+      "19300518",
+      "31050198",
+      "37090552",
+      "30598071",
+      "14530283",
+      "40413649",
+      "25320095",
+      "27902686",
+      "42214482",
+      "29067487",
+      "29369529",
+      "21084393",
+      "39273245",
+      "31407623",
+      "39562742",
+      "27935966",
+      "40982369",
+      "25503565",
+      "38967666",
+      "23308243",
+      "40737125",
+      "36656641",
+      "31253200",
+      "22733784",
+      "34380013",
+      "31031182",
+      "42475469",
+      "20369014",
+      "38600550",
+      "19587264",
+      "31010960",
+      "9769709",
+      "24606795",
+      "41380609",
+      "39163202",
+      "40383406",
+      "34686520",
+      "34957483",
+      "12832613",
+      "14610248"
+    ],
+    "review": [
+      "42789384",
+      "41862973",
+      "27739225",
+      "23281828",
+      "14694850",
+      "27563694",
+      "31050198",
+      "9769709"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01120-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

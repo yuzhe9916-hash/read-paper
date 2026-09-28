@@ -1,0 +1,305 @@
+{
+  "identity": {
+    "pmid": "42767804",
+    "doi": "10.1101/gr.281734.125",
+    "title": "Decoding cell division history and lineage-resolved phenotypic patterns from single-cell barcode and transcriptomic data."
+  },
+  "content": {
+    "abstract": "The cell division tree encodes how proliferation and differentiation generate cellular diversity during multicellular development. Advances in single-cell RNA sequencing and CRISPR-based lineage tracing have enabled retrospective reconstruction of these histories at single-cell resolution. Here, we present FateScape, a statistical framework that integrates paired lineage barcodes and transcriptomic profiles to infer cell division topology and characterize depth-resolved phenotypic patterns. FateScape combines barcode consistency with transcriptome-derived state continuity through overlapping state-lineage decomposition and barcode-guided subtree integration. To analyze phenotypic patterns on the inferred tree, we introduce entropy paths, which measure how cells of each state are distributed across depth-defined subtrees, and Moran's I-derived statistics for same-state autocorrelation and cross-state association. In simulations, FateScape shows robust reconstruction performance across varying mutation rates, dropout levels, sample sizes, and barcode target-site numbers. In the Caenorhabditis elegans data analysis, FateScape accurately recovers lineage topology and identifies depth-resolved state patterns, including concentrated intestinal cells and broadly distributed neuronal and glial states. In mouse embryos, FateScape quantifies distinct germ-layer patterns, including early endodermal concentration, broad ectodermal distribution across shallow-to-intermediate depths, and intermediate mesodermal distribution followed by deeper concentration. Together, FateScape provides a framework for reconstructing cell division histories and quantifying state dispersion, concentration, and tree-based association across lineage depth.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Xiaochen",
+        "Wang, Zihao",
+        "Zhang, Zhenquan",
+        "Wang, Yuxin",
+        "Lin, Yuting",
+        "Hong, Lijun",
+        "Chen, Xiaoshu",
+        "He, Xionglei",
+        "Yang, Jian-Rong",
+        "Zhang, Jiajun"
+      ],
+      "short_names": [
+        "Yu X",
+        "Wang Z",
+        "Zhang Z",
+        "Wang Y",
+        "Lin Y",
+        "Hong L",
+        "Chen X",
+        "He X",
+        "Yang JR",
+        "Zhang J"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-0859-7077",
+        "ORCID: 0000-0001-5440-843X",
+        "ORCID: 0000-0002-2913-4905",
+        "ORCID: 0000-0002-2705-2076",
+        "ORCID: 0000-0002-7807-9455",
+        "ORCID: 0000-0001-7107-4814"
+      ],
+      "affiliations": [
+        "Sun Yat-Sen University.",
+        "Sun Yat-Sen University.",
+        "Guangdong University of Technology.",
+        "Sun Yat-Sen University.",
+        "Sun Yat-Sen University.",
+        "Sun Yat-Sen University.",
+        "Sun Yat-Sen University.",
+        "Sun Yat-Sen University.",
+        "Sun Yat-Sen University.",
+        "Sun Yat-Sen University; zhjiajun@mail.sysu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Xiaochen",
+        "short_name": "Yu X",
+        "identifiers": [
+          "0009-0006-0859-7077"
+        ],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "Wang, Zihao",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0000-0001-5440-843X"
+        ],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhenquan",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0000-0002-2913-4905"
+        ],
+        "affiliations": [
+          "Guangdong University of Technology."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuxin",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "Lin, Yuting",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "Hong, Lijun",
+        "short_name": "Hong L",
+        "identifiers": [
+          "0000-0002-2705-2076"
+        ],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaoshu",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "He, Xionglei",
+        "short_name": "He X",
+        "identifiers": [],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "Yang, Jian-Rong",
+        "short_name": "Yang JR",
+        "identifiers": [
+          "0000-0002-7807-9455"
+        ],
+        "affiliations": [
+          "Sun Yat-Sen University."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiajun",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0000-0001-7107-4814"
+        ],
+        "affiliations": [
+          "Sun Yat-Sen University; zhjiajun@mail.sysu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome research"
+    ],
+    "journal_abbrev": [
+      "Genome Res"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 23:33",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42767804",
+      "37292889",
+      "38104156",
+      "37090498",
+      "40795361",
+      "38076815",
+      "42475469",
+      "35412632",
+      "39745636",
+      "41648248",
+      "41998716",
+      "42258486",
+      "40119004",
+      "37852258",
+      "39976408",
+      "42629163",
+      "39745643",
+      "39721023",
+      "32546686",
+      "42724269",
+      "42619824",
+      "38496496",
+      "27229144",
+      "30353175",
+      "35441356",
+      "29608178",
+      "36321557",
+      "30753182",
+      "42074484",
+      "31488706",
+      "42619846",
+      "41041551",
+      "40950163",
+      "42635227",
+      "41173524",
+      "35990087",
+      "41648299",
+      "35094325",
+      "42373956",
+      "29746690",
+      "42700375",
+      "42706574",
+      "32290857",
+      "39005367",
+      "41584927",
+      "34035045",
+      "28264564",
+      "36841849",
+      "38940146",
+      "38319699",
+      "34400634",
+      "41726901",
+      "40816522",
+      "42737863",
+      "39745646",
+      "31212208",
+      "35563412",
+      "36396800",
+      "39139100",
+      "34590075",
+      "39745647",
+      "27869821",
+      "41292775",
+      "35696651",
+      "41774717",
+      "39160220",
+      "30874552",
+      "36350216",
+      "39870610",
+      "32522880",
+      "41808446",
+      "34773081",
+      "34020630",
+      "42723953",
+      "42661799",
+      "39820752",
+      "31442438",
+      "42215861",
+      "41676548",
+      "32386163",
+      "31092926",
+      "39824184",
+      "28094016",
+      "37524958",
+      "42031935",
+      "16107479",
+      "39745637",
+      "42263684",
+      "39314473",
+      "40999372",
+      "32398457",
+      "42587306",
+      "40934910",
+      "38554991",
+      "37269980",
+      "42413813",
+      "42706790",
+      "34187545",
+      "42185262",
+      "42677405"
+    ],
+    "review": [
+      "42767804",
+      "40119004",
+      "35441356",
+      "36321557",
+      "29746690",
+      "41584927",
+      "31212208",
+      "35563412",
+      "32398457",
+      "38554991",
+      "37269980"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genome.cshlp.org/lookup/pmidlookup?view=long&pmid=42767804",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

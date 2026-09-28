@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42770331",
+    "doi": "10.1093/nar/gkag915",
+    "title": "BaCas12a3 represents a new subtype of type V CRISPR effector with collateral activity toward tRNA."
+  },
+  "content": {
+    "abstract": "The CRISPR-Cas12 family encompasses diverse RNA-guided nucleases with both DNA- and RNA-targeting subtypes. They can trigger antiviral activities through either direct elimination of invading nucleic acids or activating broad collateral cleavage to induce abortive infection. Here, we report a novel type V CRISPR effector BaCas12a3 that causes growth inhibition through a unique tRNA-cleavage mechanism. Plasmid interference and western blot assays showed that BaCas12a3 induces host growth arrest without DNA damage response, suggestive of the absence of double-strand DNA breaks. Indeed, biochemical characterization of the BaCas12a3-crRNA ribonucleoprotein unraveled that the effector is an RNA-activating nuclease that cleaves the 3' terminal CCA of tRNAs. Cryo-EM structures of BaCas12a3 reveal a conserved bilobed architecture featuring a unique tRNA-loading domain (tRLD) adjacent to the RuvC catalytic center. Structural and mutagenesis analyses show that the tRLD domain, together with a zinc ribbon domain, form a gated substrate groove. Target RNA binding induces conformational changes that open the groove and expose the RuvC active site, enabling specific tRNA 3' end cleavage while preventing other non-specific degradation. Our findings identify the tRLD domain aside the RuvC active site responsible for the tRNA recognition in BaCas12a3, expanding the functional diversity of CRISPR immunity.",
+    "keywords": [],
+    "mesh_terms": [
+      "*RNA, Transfer/metabolism/genetics/chemistry",
+      "*CRISPR-Cas Systems",
+      "Models, Molecular",
+      "*CRISPR-Associated Proteins/metabolism/chemistry/genetics",
+      "*Bacterial Proteins/metabolism/genetics/chemistry",
+      "Cryoelectron Microscopy",
+      "Catalytic Domain"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Xin",
+        "Wu, Chenwei",
+        "Guo, Jinshan",
+        "Zheng, Ruyi",
+        "Kong, Jingwen",
+        "Du, Lei",
+        "She, Qunxin",
+        "Ji, Shiqi"
+      ],
+      "short_names": [
+        "Li X",
+        "Wu C",
+        "Guo J",
+        "Zheng R",
+        "Kong J",
+        "Du L",
+        "She Q",
+        "Ji S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4448-6669",
+        "ORCID: 0000-0003-3772-2763"
+      ],
+      "affiliations": [
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Hubei Hongshan Laboratory, Huazhong Agricultural University, Wuhan 430070, P.R. China.",
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+        "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Xin",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wu, Chenwei",
+        "short_name": "Wu C",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jinshan",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Ruyi",
+        "short_name": "Zheng R",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Kong, Jingwen",
+        "short_name": "Kong J",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Du, Lei",
+        "short_name": "Du L",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China.",
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Hubei Hongshan Laboratory, Huazhong Agricultural University, Wuhan 430070, P.R. China."
+        ]
+      },
+      {
+        "full_name": "She, Qunxin",
+        "short_name": "She Q",
+        "identifiers": [
+          "0000-0002-4448-6669"
+        ],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Ji, Shiqi",
+        "short_name": "Ji S",
+        "identifiers": [
+          "0000-0003-3772-2763"
+        ],
+        "affiliations": [
+          "CRISPR and Archaea Biology Research Center, Microbial Technology Institute and State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong 266237, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 12:42",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42770331",
+      "41648135",
+      "41501459",
+      "27096362",
+      "35366394",
+      "42393087",
+      "37460897",
+      "38955179",
+      "42301915",
+      "33472057",
+      "33764415",
+      "38657076",
+      "39143216",
+      "40473912",
+      "41135510",
+      "28985564",
+      "25368186",
+      "39965569",
+      "28602637",
+      "41492065",
+      "37020030",
+      "40121071",
+      "40372912",
+      "30872121",
+      "40595633",
+      "30503773",
+      "28781236",
+      "41603736",
+      "41495894",
+      "34294706",
+      "28757251",
+      "41569151",
+      "29123204",
+      "42385699",
+      "28431230",
+      "36190192",
+      "41428733",
+      "28781234",
+      "36427491",
+      "36599979",
+      "32519675",
+      "39698811",
+      "40226913",
+      "39111310",
+      "38785320",
+      "35714601",
+      "39904990",
+      "36599980",
+      "41475348",
+      "30284045",
+      "40539514",
+      "39166476",
+      "42616864",
+      "39439303",
+      "29551514",
+      "30814678",
+      "40794864",
+      "30523077",
+      "41617991",
+      "26524520",
+      "41242302",
+      "36917574",
+      "39468082",
+      "27989439",
+      "36423304",
+      "38641067",
+      "39003282",
+      "34759315",
+      "29348170",
+      "27096363",
+      "24748111",
+      "33333018",
+      "41954985",
+      "41027434",
+      "31325492",
+      "34850143",
+      "36305833",
+      "42700392",
+      "38739430",
+      "30639240",
+      "23500492",
+      "32597755",
+      "35643083",
+      "39519677",
+      "28666122",
+      "36282000",
+      "39955288",
+      "39676682",
+      "38750051",
+      "26848045",
+      "30759237",
+      "41605928",
+      "32645367",
+      "32730741",
+      "23563642",
+      "38735995",
+      "28764328",
+      "28574055",
+      "40217120",
+      "42244531"
+    ],
+    "review": [
+      "42770331",
+      "38641067",
+      "31325492"
+    ],
+    "pmc": [
+      "13594972"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42770331/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag915",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

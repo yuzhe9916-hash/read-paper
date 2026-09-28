@@ -1,0 +1,292 @@
+{
+  "identity": {
+    "pmid": "42801638",
+    "doi": "10.1002/advs.77970",
+    "title": "Disentangling Heterogeneous Molecular Networks for Multi-Omics-Driven Cancer Driver Discovery."
+  },
+  "content": {
+    "abstract": "Prioritizing cancer driver genes amid passenger alterations remains challenging because protein-protein interaction (PPI) networks are heterophilic, multi-omics evidence is heterogeneous and can conflict, and driver annotations are sparse. DRIVE is a semi-supervised graph framework integrating mutation frequency, copy-number aberration, DNA methylation, and gene expression with biological networks. It separates PPI neighborhoods into tight and loose semantic views based on learnable representation consistency, reducing cross-class signal mixing. Multi-omics evidence is decomposed into omics-common and omics-specific components through contrastive mutual-information learning and the soft orthogonality constraint. Joint training combines self-supervised learning with focal and max-margin objectives to improve prioritization under sparse, imbalanced annotations. Across six benchmark PPI networks, DRIVE outperforms ten methods, achieving mean areas under the precision-recall curve (AUPRC) and receiver operating characteristic curve (AUROC) of 0.9204 and 0.9704, respectively. Ablation, representation, and masked-driver recovery analyses show that DRIVE captures complementary network and molecular signals and remains robust to incomplete annotations. DRIVE identifies 186 high-confidence candidate driver genes enriched near known drivers, 80.1% of which receive DepMap CRISPR dependency support. These candidates reveal underappreciated connections to tumor regulatory programs, particularly NF-kappaB-associated inflammation, T-cell activation, and immune checkpoint regulation. Pharmacogenomic associations further suggest therapeutic vulnerabilities.",
+    "keywords": [
+      "cancer driver genes",
+      "contrastive learning",
+      "graph representation learning",
+      "multi-omics integration",
+      "precision oncology",
+      "protein-protein interaction networks"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gong, Xinjing",
+        "Li, Ji",
+        "Su, Mu",
+        "Yu, Peishen",
+        "Ma, Te",
+        "Zhai, Ruiyang",
+        "Zhang, Chenye",
+        "Zhang, Mengyan",
+        "Zhang, Yan"
+      ],
+      "short_names": [
+        "Gong X",
+        "Li J",
+        "Su M",
+        "Yu P",
+        "Ma T",
+        "Zhai R",
+        "Zhang C",
+        "Zhang M",
+        "Zhang Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-9490-638X",
+        "ORCID: 0009-0002-4187-7610",
+        "ORCID: 0000-0002-3923-1303",
+        "ORCID: 0009-0008-4448-2255",
+        "ORCID: 0009-0008-3061-4392",
+        "ORCID: 0009-0008-4917-3726",
+        "ORCID: 0000-0002-5307-2484"
+      ],
+      "affiliations": [
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Intelligent Medicine and Technology (Big Data Research Center), Hainan Medical University, Haikou, China.",
+        "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+        "School of Intelligent Medicine and Technology (Big Data Research Center), Hainan Medical University, Haikou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gong, Xinjing",
+        "short_name": "Gong X",
+        "identifiers": [
+          "0009-0003-9490-638X"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ji",
+        "short_name": "Li J",
+        "identifiers": [
+          "0009-0002-4187-7610"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Su, Mu",
+        "short_name": "Su M",
+        "identifiers": [
+          "0000-0002-3923-1303"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Peishen",
+        "short_name": "Yu P",
+        "identifiers": [
+          "0009-0008-4448-2255"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Te",
+        "short_name": "Ma T",
+        "identifiers": [
+          "0009-0008-3061-4392"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhai, Ruiyang",
+        "short_name": "Zhai R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chenye",
+        "short_name": "Zhang C",
+        "identifiers": [
+          "0009-0008-4917-3726"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Mengyan",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Intelligent Medicine and Technology (Big Data Research Center), Hainan Medical University, Haikou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yan",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0002-5307-2484"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Faculty of Life Sciences and Medicine, Harbin Institute of Technology, Harbin, China.",
+          "School of Intelligent Medicine and Technology (Big Data Research Center), Hainan Medical University, Haikou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Sep 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 17:31",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42801638",
+      "42475469",
+      "36094338",
+      "39968416",
+      "36464123",
+      "42581282",
+      "41530500",
+      "40814229",
+      "42265576",
+      "42042913",
+      "41676373",
+      "40811219",
+      "41491126",
+      "41465557",
+      "41699549",
+      "40730661",
+      "39751645",
+      "42680993",
+      "42295967",
+      "42725918",
+      "39700860",
+      "36639646",
+      "41300918",
+      "41276241",
+      "40779114",
+      "42470810",
+      "39426693",
+      "41555486",
+      "39408682",
+      "36984779",
+      "41622291",
+      "42753938",
+      "27797769",
+      "41727912",
+      "42352126",
+      "41029209",
+      "42133704",
+      "28938536",
+      "33028186",
+      "40834555",
+      "40971265",
+      "39186807",
+      "36241966",
+      "42040620",
+      "41033661",
+      "41308109",
+      "37950905",
+      "39644579",
+      "38225583",
+      "40534839",
+      "42366266",
+      "40740512",
+      "42486346",
+      "42330854",
+      "42675339",
+      "41716413",
+      "42751828",
+      "41643202",
+      "36790856",
+      "42017142",
+      "42106043",
+      "41805524",
+      "31729402",
+      "38744009",
+      "41986815",
+      "42109219",
+      "41463537",
+      "42785137",
+      "40716043",
+      "25629319",
+      "38404715",
+      "40692180",
+      "42353756",
+      "38254021",
+      "33488678",
+      "42129621",
+      "42520737",
+      "41588477",
+      "41815548",
+      "41213311",
+      "42074514",
+      "42798240",
+      "41031935",
+      "42589294",
+      "35069697",
+      "40123934",
+      "42650058",
+      "41089657",
+      "42614561",
+      "42529052",
+      "42316799",
+      "42618906",
+      "42385356",
+      "41943684",
+      "42511585",
+      "42196220",
+      "34643232",
+      "40811289",
+      "41554048",
+      "41299038"
+    ],
+    "review": [
+      "42801638",
+      "42366266",
+      "42675339"
+    ],
+    "pmc": [
+      "13616402"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

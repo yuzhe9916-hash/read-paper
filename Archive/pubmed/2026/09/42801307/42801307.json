@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42801307",
+    "doi": "10.3791/71513",
+    "title": "CRISPR-Cas9 Genome Editing in Mesorhizobium ciceri Through nodC Disruption for Chickpea Symbiosis Studies."
+  },
+  "content": {
+    "abstract": "Mesorhizobium ciceri, a nitrogen-fixing symbiont of chickpea (Cicer arietinum), remains genetically challenging to manipulate using conventional homologous recombination approaches, which are labor-intensive and often leave undesirable selection markers. In this protocol, we describe a streamlined genome-editing strategy using a broad-host-range Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-associated protein 9 (Cas9) system adapted for M. ciceri. We demonstrate the efficacy of this method by targeting nodC, which encodes the N-acetylglucosaminyltransferase required for chitin backbone synthesis in Nod factors, the primary signaling molecules involved in symbiotic molecular communication. This protocol details the systematic design of single-guide RNAs (sgRNAs) and the construction of a homology-directed repair (HDR) template. The HDR template was designed to facilitate site-specific integration of a green fluorescent protein (GFP) reporter flanking the nodC cleavage site. Following delivery of the Cas9/sgRNA/HDR construct through biparental mating, putative mutants were identified using a fluorescence-based screening approach. Successful disruption of the 1.3 kb nodC locus within the nodulation (nod) cassette was initially screened by visualization of GFP expression in mutant colonies using fluorescence microscopy. The disruption was further validated by restriction digestion, amplification of the integrated cassette from genomic DNA, and Sanger sequencing. GFP expression was additionally quantified by reverse transcription quantitative polymerase chain reaction. To validate the functional impact of the mutation, chickpea infection assays were performed, demonstrating impaired nodulation in plants inoculated with DeltanodC M. ciceri compared with the wild-type strain. Overall, this protocol provides an efficient and reproducible framework for precise gene disruption and functional genomics studies in Mesorhizobium.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Cicer/microbiology/physiology",
+      "*Mesorhizobium/genetics/physiology",
+      "Symbiosis/genetics",
+      "*CRISPR-Cas Systems",
+      "*N-Acetylglucosaminyltransferases/genetics",
+      "*Gene Editing/methods"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Video-Audio Media"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pasari, Nandita",
+        "Bhandhari, Nishant",
+        "Shruti",
+        "Kumar, Raubins",
+        "Yazdani, Syed Shams",
+        "Sinharoy, Senjuti"
+      ],
+      "short_names": [
+        "Pasari N",
+        "Bhandhari N",
+        "Shruti",
+        "Kumar R",
+        "Yazdani SS",
+        "Sinharoy S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research; nanditapasari@gmail.com.",
+        "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research.",
+        "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research.",
+        "Microbial Engineering Laboratory, International Centre for Genetic Engineering and Biotechnology.",
+        "Microbial Engineering Laboratory, International Centre for Genetic Engineering and Biotechnology.",
+        "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pasari, Nandita",
+        "short_name": "Pasari N",
+        "identifiers": [],
+        "affiliations": [
+          "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research; nanditapasari@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Bhandhari, Nishant",
+        "short_name": "Bhandhari N",
+        "identifiers": [],
+        "affiliations": [
+          "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research."
+        ]
+      },
+      {
+        "full_name": "Shruti",
+        "short_name": "Shruti",
+        "identifiers": [],
+        "affiliations": [
+          "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research."
+        ]
+      },
+      {
+        "full_name": "Kumar, Raubins",
+        "short_name": "Kumar R",
+        "identifiers": [],
+        "affiliations": [
+          "Microbial Engineering Laboratory, International Centre for Genetic Engineering and Biotechnology."
+        ]
+      },
+      {
+        "full_name": "Yazdani, Syed Shams",
+        "short_name": "Yazdani SS",
+        "identifiers": [],
+        "affiliations": [
+          "Microbial Engineering Laboratory, International Centre for Genetic Engineering and Biotechnology."
+        ]
+      },
+      {
+        "full_name": "Sinharoy, Senjuti",
+        "short_name": "Sinharoy S",
+        "identifiers": [],
+        "affiliations": [
+          "Root Nodule Symbiosis Laboratory, National Institute of Plant Genome Research."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of visualized experiments : JoVE"
+    ],
+    "journal_abbrev": [
+      "J Vis Exp"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Video-Audio Media"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 11:35",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42801307",
+      "42429764",
+      "23134119",
+      "32690192",
+      "17397480",
+      "37131068",
+      "37266832",
+      "29540148",
+      "33355157",
+      "26845770",
+      "33401455",
+      "31763794",
+      "39647515",
+      "39110140",
+      "28550913",
+      "28628240",
+      "24947137",
+      "42488191",
+      "24183896",
+      "33226466",
+      "27366893",
+      "22486441",
+      "28851809",
+      "27366892",
+      "39816115",
+      "26305040",
+      "26199327",
+      "18795953",
+      "27543296",
+      "30894153",
+      "27267929",
+      "41387770",
+      "29331077",
+      "29019352",
+      "41057262",
+      "24267445",
+      "35700449",
+      "28351759",
+      "30926729",
+      "34523974",
+      "31015609",
+      "28228480",
+      "25123757",
+      "37021953",
+      "29898980",
+      "26850641",
+      "33074412",
+      "30157456",
+      "34236684",
+      "29676730",
+      "33397707",
+      "32887261",
+      "26755436",
+      "36460630",
+      "41167358",
+      "29337376",
+      "28499832",
+      "30871076",
+      "40985725",
+      "35187887",
+      "31106778",
+      "35536186",
+      "31066204",
+      "28300641",
+      "29899105",
+      "29332168",
+      "35766512",
+      "35163510",
+      "28527117",
+      "28499063",
+      "17953590",
+      "29608237",
+      "33958646",
+      "28177771",
+      "27443922",
+      "31494246",
+      "16978364",
+      "35793390",
+      "31079595",
+      "41627753",
+      "42024433",
+      "33484202",
+      "23572956",
+      "41674084",
+      "34417549",
+      "35975201",
+      "37642232",
+      "29672770",
+      "34839036",
+      "26032249",
+      "32899704",
+      "29946044",
+      "36245127",
+      "27941919",
+      "31149642",
+      "33650757",
+      "41543262",
+      "29625127",
+      "31129735",
+      "33609360"
+    ],
+    "review": [
+      "42801307",
+      "28499832",
+      "28300641",
+      "28527117",
+      "28177771",
+      "35975201",
+      "37642232"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org//10.3791/71513",
+        "provider": "MyJove Corporation",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

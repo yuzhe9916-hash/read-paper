@@ -1,0 +1,343 @@
+{
+  "identity": {
+    "pmid": "42792667",
+    "doi": "10.3390/biomedicines14091925",
+    "title": "From Delivery to Design: Site-Specific Genome Engineering for Next-Generation CAR T-Cell Therapy."
+  },
+  "content": {
+    "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has transformed the treatment of haematological malignancies, but conventional viral transduction results in semi-random genomic integration, contributing to heterogeneous CAR expression and potential insertional effects. Site-specific genome engineering offers an alternative by directing CAR insertion to defined genomic loci, allowing greater control over transgene expression and cellular function. This narrative review evaluates advances in site-specific CAR T-cell engineering, focusing on integration mechanisms, donor platforms, genomic loci, safety, and translational readiness. Homology-directed repair (HDR) and homology-independent targeted integration (HITI) are critically compared alongside viral and non-viral donor systems. Candidate loci are evaluated according to their functional consequences and level of evidence, with TRAC representing the most extensively characterised target, while PDCD1, CD7, CD247, and other loci offer distinct functional opportunities but remain supported by varying levels of preclinical and translational evidence. The review also examines genomic risks associated with targeted editing, including structural rearrangements and chromosome-scale abnormalities, and considers emerging applications in allogeneic, solid-tumour, and in vivo CAR T-cell engineering. Overall, site-specific integration provides a framework for linking CAR placement to therapeutic function, but no single locus or integration strategy is universally optimal. Clinical evidence remains limited relative to the expanding preclinical landscape, and genomic safety, scalable manufacturing, and clinical validation remain major priorities for translation.",
+    "keywords": [
+      "CAR-T cell therapy",
+      "CRISPR/Cas9",
+      "HITI",
+      "TRAC locus",
+      "genomic safe harbour",
+      "homology-directed repair",
+      "immune cell engineering",
+      "non-viral manufacturing",
+      "site-specific genome engineering",
+      "targeted CAR integration"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aldahshan, Hala",
+        "Al-Hubaysh, Abeer",
+        "Alrabiah, Dimah K",
+        "Alturki, Meshael",
+        "Alkharji, Reem R",
+        "Lin, Salwa",
+        "Aldughaim, Mohammed S",
+        "Albugami, Raef"
+      ],
+      "short_names": [
+        "Aldahshan H",
+        "Al-Hubaysh A",
+        "Alrabiah DK",
+        "Alturki M",
+        "Alkharji RR",
+        "Lin S",
+        "Aldughaim MS",
+        "Albugami R"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-8735-745X",
+        "ORCID: 0000-0002-6463-1317",
+        "ORCID: 0000-0003-0915-8595"
+      ],
+      "affiliations": [
+        "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud University, Riyadh 12372, Saudi Arabia.",
+        "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh 11671, Saudi Arabia.",
+        "Wellness and Preventive Medicine Institute, Health Sector, King Abdulaziz City for Science and Technology (KACST), Riyadh 11442, Saudi Arabia.",
+        "Wellness and Preventive Medicine Institute, Health Sector, King Abdulaziz City for Science and Technology (KACST), Riyadh 11442, Saudi Arabia.",
+        "Research Department, Natural and Health Science Research Centre, Princess Nourah bint Abdulrahman University, Riyadh 11564, Saudi Arabia.",
+        "Department of Clinical Laboratory Sciences, Taif University, Taif 26521, Saudi Arabia.",
+        "Ministry of Industry and Mineral Resources, King Fahd Street, Al-Muhammadiyah District, Riyadh 12363, Saudi Arabia.",
+        "Pathology and Clinical Laboratory Administration, Riyadh Second Healthcare Cluster-KFMC, Riyadh 12231, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aldahshan, Hala",
+        "short_name": "Aldahshan H",
+        "identifiers": [
+          "0009-0006-8735-745X"
+        ],
+        "affiliations": [
+          "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud University, Riyadh 12372, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Al-Hubaysh, Abeer",
+        "short_name": "Al-Hubaysh A",
+        "identifiers": [
+          "0000-0002-6463-1317"
+        ],
+        "affiliations": [
+          "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, Riyadh 11671, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alrabiah, Dimah K",
+        "short_name": "Alrabiah DK",
+        "identifiers": [],
+        "affiliations": [
+          "Wellness and Preventive Medicine Institute, Health Sector, King Abdulaziz City for Science and Technology (KACST), Riyadh 11442, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alturki, Meshael",
+        "short_name": "Alturki M",
+        "identifiers": [],
+        "affiliations": [
+          "Wellness and Preventive Medicine Institute, Health Sector, King Abdulaziz City for Science and Technology (KACST), Riyadh 11442, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alkharji, Reem R",
+        "short_name": "Alkharji RR",
+        "identifiers": [
+          "0000-0003-0915-8595"
+        ],
+        "affiliations": [
+          "Research Department, Natural and Health Science Research Centre, Princess Nourah bint Abdulrahman University, Riyadh 11564, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Lin, Salwa",
+        "short_name": "Lin S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory Sciences, Taif University, Taif 26521, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Aldughaim, Mohammed S",
+        "short_name": "Aldughaim MS",
+        "identifiers": [],
+        "affiliations": [
+          "Ministry of Industry and Mineral Resources, King Fahd Street, Al-Muhammadiyah District, Riyadh 12363, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Albugami, Raef",
+        "short_name": "Albugami R",
+        "identifiers": [],
+        "affiliations": [
+          "Pathology and Clinical Laboratory Administration, Riyadh Second Healthcare Cluster-KFMC, Riyadh 12231, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedicines"
+    ],
+    "journal_abbrev": [
+      "Biomedicines"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42792667",
+      "37365642",
+      "41121349",
+      "42700448",
+      "32604839",
+      "42711726",
+      "41007874",
+      "42189068",
+      "36382633",
+      "37886930",
+      "42475469",
+      "42738250",
+      "35303871",
+      "42577382",
+      "42679594",
+      "33309880",
+      "42792683",
+      "41916191",
+      "37403182",
+      "37961210",
+      "40873035",
+      "42079140",
+      "35573047",
+      "41993194",
+      "42574802",
+      "38962002",
+      "34662233",
+      "39763064",
+      "42016307",
+      "42761399",
+      "42220535",
+      "39980196",
+      "42797493",
+      "41593732",
+      "42802858",
+      "35152989",
+      "40715608",
+      "42662096",
+      "28225754",
+      "42008208",
+      "41851456",
+      "42049130",
+      "41783358",
+      "42094429",
+      "42351704",
+      "42316255",
+      "42082268",
+      "39582866",
+      "28345004",
+      "37124148",
+      "41329461",
+      "42449597",
+      "40771804",
+      "42574910",
+      "42478045",
+      "42240912",
+      "42064077",
+      "42729695",
+      "42134560",
+      "40659448",
+      "42026979",
+      "37693500",
+      "42427600",
+      "42732673",
+      "42136548",
+      "41635402",
+      "37095570",
+      "37086241",
+      "36745870",
+      "42681683",
+      "28237835",
+      "42096026",
+      "35784280",
+      "41916134",
+      "41758307",
+      "42734043",
+      "41405764",
+      "42319631",
+      "38345397",
+      "38868778",
+      "36681183",
+      "42386499",
+      "42515674",
+      "40669750",
+      "42587743",
+      "38882639",
+      "41242468",
+      "33941482",
+      "41859142",
+      "29605708",
+      "42669593",
+      "42226071",
+      "40941014",
+      "41490421",
+      "41485186",
+      "41355907",
+      "40789664",
+      "42303162",
+      "41800026",
+      "42409472"
+    ],
+    "review": [
+      "42792667",
+      "41121349",
+      "42700448",
+      "42711726",
+      "41007874",
+      "42189068",
+      "42738250",
+      "35303871",
+      "41916191",
+      "37403182",
+      "41993194",
+      "42574802",
+      "38962002",
+      "34662233",
+      "42016307",
+      "42761399",
+      "42220535",
+      "39980196",
+      "42797493",
+      "41593732",
+      "42802858",
+      "40715608",
+      "42662096",
+      "42008208",
+      "42049130",
+      "41783358",
+      "42351704",
+      "42316255",
+      "42082268",
+      "39582866",
+      "37124148",
+      "41329461",
+      "42449597",
+      "40771804",
+      "42574910",
+      "42240912",
+      "42064077",
+      "42729695",
+      "42134560",
+      "42026979",
+      "42732673",
+      "42136548",
+      "41635402",
+      "42681683",
+      "42096026",
+      "35784280",
+      "41758307",
+      "41405764",
+      "42319631",
+      "36681183",
+      "42386499",
+      "42515674",
+      "40669750",
+      "42587743",
+      "41242468",
+      "41859142",
+      "42669593",
+      "42226071",
+      "40941014",
+      "41490421",
+      "41485186",
+      "41355907",
+      "42303162",
+      "41800026",
+      "42409472"
+    ],
+    "pmc": [
+      "13604048"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biomedicines14091925",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

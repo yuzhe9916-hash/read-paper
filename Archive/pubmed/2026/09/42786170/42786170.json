@@ -1,0 +1,474 @@
+{
+  "identity": {
+    "pmid": "42786170",
+    "doi": "10.1038/s41467-026-76648-4",
+    "title": "Methylation Mesa define functional regulatory elements for targeted gene activation."
+  },
+  "content": {
+    "abstract": "DNA methylation regulates transcription, yet the demethylation of canonical elements like promoter CpG islands exhibits inconsistent correlations with gene activation. We hypothesize that causal regulatory elements are defined by biophysical hypersensitivity. Profiling 24 whole-genome bisulfite sequencing samples across diverse human and murine models, we identify Methylation Mesa, narrow (~45-300 bp), structurally conserved epigenetic regulatory elements. Mesa show enrichment in 5' untranslated regions and associate with transcriptional activation significantly better than canonical promoters. To investigate causal regulatory dynamics, we develop CRISPR-DiR, an RNA-based targeted demethylation technology offering greater spatial precision, higher potency, and reduced toxicity compared to CRISPR-TET1. While proximal promoter demethylation initiated limited early transcription, focal demethylation of the Mesa seed acts as the primary driver of exponential CDKN2A (p16) reactivation and robust in vivo tumor suppression. We demonstrate that precise demethylation of a Mesa locus triggers localized demethylation, subsequent activation histone mark deposition, and long-range three-dimensional chromatin rewiring. Thus, Methylation Mesa act as precise, dominant epigenetic regulatory hubs, and CRISPR-DiR as a potent high-resolution tool, establishing a structural framework for biomarker discovery and targeted therapies.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Animals",
+      "*DNA Methylation/genetics",
+      "Mice",
+      "Promoter Regions, Genetic/genetics",
+      "*Transcriptional Activation",
+      "Epigenesis, Genetic",
+      "CpG Islands/genetics",
+      "Chromatin/metabolism",
+      "CRISPR-Cas Systems",
+      "Epigenome Editing",
+      "5' Untranslated Regions/genetics",
+      "*Regulatory Sequences, Nucleic Acid/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Y V",
+        "Suryatenggara, J",
+        "Wong, H",
+        "Jayasinghe, M K",
+        "Tang, J P",
+        "Tan, H K",
+        "Kwon, J",
+        "Zhou, Q",
+        "Zhang, J",
+        "Moein, S",
+        "Ummarino, S",
+        "Le, M T N",
+        "Doench, J G",
+        "Benoukraf, T",
+        "Chai, L",
+        "Hiwase, D",
+        "Thomas, D",
+        "Di Ruscio, A",
+        "Tenen, D G",
+        "Bassal, M A"
+      ],
+      "short_names": [
+        "Liu YV",
+        "Suryatenggara J",
+        "Wong H",
+        "Jayasinghe MK",
+        "Tang JP",
+        "Tan HK",
+        "Kwon J",
+        "Zhou Q",
+        "Zhang J",
+        "Moein S",
+        "Ummarino S",
+        "Le MTN",
+        "Doench JG",
+        "Benoukraf T",
+        "Chai L",
+        "Hiwase D",
+        "Thomas D",
+        "Di Ruscio A",
+        "Tenen DG",
+        "Bassal MA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7977-0491",
+        "ORCID: 0000-0002-3653-9740",
+        "ORCID: 0000-0002-6019-9504",
+        "ORCID: 0000-0002-3707-9889",
+        "ORCID: 0000-0002-4789-8028",
+        "ORCID: 0000-0003-1937-4750",
+        "ORCID: 0000-0002-6666-3056",
+        "ORCID: 0000-0002-0837-1231",
+        "ORCID: 0000-0002-9705-4245",
+        "ORCID: 0000-0002-6423-3888",
+        "ORCID: 0000-0003-4322-2968"
+      ],
+      "affiliations": [
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Genetic Perturbation Platform, Broad Institute, Cambridge, MA, USA.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Department of Pharmacology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA.",
+        "Department of Pharmacology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
+        "Genetic Perturbation Platform, Broad Institute, Cambridge, MA, USA.",
+        "Cancer Science Institute of Singapore, Singapore, Singapore.",
+        "Biomedical Sciences, Faculty of Medicine, Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada.",
+        "Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Royal Adelaide Hospital, Central Adelaide Local Health Network, Adelaide, SA, Australia.",
+        "Precision Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, SA, Australia.",
+        "Adelaide Medical School, The University of Adelaide, Adelaide, SA, Australia.",
+        "Royal Adelaide Hospital, Central Adelaide Local Health Network, Adelaide, SA, Australia.",
+        "Precision Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, SA, Australia.",
+        "Adelaide Medical School, The University of Adelaide, Adelaide, SA, Australia.",
+        "Department of Translational Medicine, University of Eastern Piedmont, Novara, Italy.",
+        "Harvard Medical School Initiative for RNA Medicine, Harvard Medical School, Boston, MA, USA.",
+        "Cancer Research Institute, Beth Israel Deaconess Medical Center, Boston, MA, USA.",
+        "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA. dtenen@bidmc.harvard.edu.",
+        "Harvard Medical School Initiative for RNA Medicine, Harvard Medical School, Boston, MA, USA. dtenen@bidmc.harvard.edu.",
+        "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA. mahmoud.bassal@mymail.unisa.edu.au."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Y V",
+        "short_name": "Liu YV",
+        "identifiers": [
+          "0000-0002-7977-0491"
+        ],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore.",
+          "Genetic Perturbation Platform, Broad Institute, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Suryatenggara, J",
+        "short_name": "Suryatenggara J",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Wong, H",
+        "short_name": "Wong H",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Jayasinghe, M K",
+        "short_name": "Jayasinghe MK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Tang, J P",
+        "short_name": "Tang JP",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Tan, H K",
+        "short_name": "Tan HK",
+        "identifiers": [
+          "0000-0002-3653-9740"
+        ],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Kwon, J",
+        "short_name": "Kwon J",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore.",
+          "Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Q",
+        "short_name": "Zhou Q",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Zhang, J",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Moein, S",
+        "short_name": "Moein S",
+        "identifiers": [
+          "0000-0002-6019-9504"
+        ],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore.",
+          "Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ummarino, S",
+        "short_name": "Ummarino S",
+        "identifiers": [],
+        "affiliations": [
+          "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Le, M T N",
+        "short_name": "Le MTN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Doench, J G",
+        "short_name": "Doench JG",
+        "identifiers": [
+          "0000-0002-3707-9889"
+        ],
+        "affiliations": [
+          "Genetic Perturbation Platform, Broad Institute, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Benoukraf, T",
+        "short_name": "Benoukraf T",
+        "identifiers": [
+          "0000-0002-4789-8028"
+        ],
+        "affiliations": [
+          "Cancer Science Institute of Singapore, Singapore, Singapore.",
+          "Biomedical Sciences, Faculty of Medicine, Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada."
+        ]
+      },
+      {
+        "full_name": "Chai, L",
+        "short_name": "Chai L",
+        "identifiers": [
+          "0000-0003-1937-4750"
+        ],
+        "affiliations": [
+          "Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Hiwase, D",
+        "short_name": "Hiwase D",
+        "identifiers": [
+          "0000-0002-6666-3056"
+        ],
+        "affiliations": [
+          "Royal Adelaide Hospital, Central Adelaide Local Health Network, Adelaide, SA, Australia.",
+          "Precision Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, SA, Australia.",
+          "Adelaide Medical School, The University of Adelaide, Adelaide, SA, Australia."
+        ]
+      },
+      {
+        "full_name": "Thomas, D",
+        "short_name": "Thomas D",
+        "identifiers": [
+          "0000-0002-0837-1231"
+        ],
+        "affiliations": [
+          "Royal Adelaide Hospital, Central Adelaide Local Health Network, Adelaide, SA, Australia.",
+          "Precision Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, SA, Australia.",
+          "Adelaide Medical School, The University of Adelaide, Adelaide, SA, Australia."
+        ]
+      },
+      {
+        "full_name": "Di Ruscio, A",
+        "short_name": "Di Ruscio A",
+        "identifiers": [
+          "0000-0002-9705-4245"
+        ],
+        "affiliations": [
+          "Department of Translational Medicine, University of Eastern Piedmont, Novara, Italy.",
+          "Harvard Medical School Initiative for RNA Medicine, Harvard Medical School, Boston, MA, USA.",
+          "Cancer Research Institute, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Tenen, D G",
+        "short_name": "Tenen DG",
+        "identifiers": [
+          "0000-0002-6423-3888"
+        ],
+        "affiliations": [
+          "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA. dtenen@bidmc.harvard.edu.",
+          "Harvard Medical School Initiative for RNA Medicine, Harvard Medical School, Boston, MA, USA. dtenen@bidmc.harvard.edu."
+        ]
+      },
+      {
+        "full_name": "Bassal, M A",
+        "short_name": "Bassal MA",
+        "identifiers": [
+          "0000-0003-4322-2968"
+        ],
+        "affiliations": [
+          "Harvard Stem Cell Institute, Harvard Medical School, Boston, MA, USA. mahmoud.bassal@mymail.unisa.edu.au."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 05:31",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42786170",
+      "39483908",
+      "29605859",
+      "31427598",
+      "23811145",
+      "20098704",
+      "41024337",
+      "40725481",
+      "40660382",
+      "28503202",
+      "33910388",
+      "41633939",
+      "28423671",
+      "40715076",
+      "33139491",
+      "29720659",
+      "41372159",
+      "41506457",
+      "20618997",
+      "32198422",
+      "34289352",
+      "41072791",
+      "34588447",
+      "40132699",
+      "25616342",
+      "41096905",
+      "42297231",
+      "25582196",
+      "27356740",
+      "20238096",
+      "9887097",
+      "30001199",
+      "17967063",
+      "20421737",
+      "18322525",
+      "23800731",
+      "35440669",
+      "30617255",
+      "41570009",
+      "11309512",
+      "22952045",
+      "28408400",
+      "22969425",
+      "41378919",
+      "40877540",
+      "24068253",
+      "26497311",
+      "41510594",
+      "22738793",
+      "23417678",
+      "19906647",
+      "41620608",
+      "29871649",
+      "30709331",
+      "23497655",
+      "30575519",
+      "29635374",
+      "40764968",
+      "20935486",
+      "31661019",
+      "31994732",
+      "20613842",
+      "19494038",
+      "17559301",
+      "30659195",
+      "31320637",
+      "22675509",
+      "11713309",
+      "30284145",
+      "33199496",
+      "42498499",
+      "22253833",
+      "32725389",
+      "24151070",
+      "41248011",
+      "33239788",
+      "20952403",
+      "24367273",
+      "40654309",
+      "25607372",
+      "26969735",
+      "25576597",
+      "15870267",
+      "33010306",
+      "18976699",
+      "36057300",
+      "40341060",
+      "36173579",
+      "34273410",
+      "25857663",
+      "41935777",
+      "37294468",
+      "42771308",
+      "28358281",
+      "39947136",
+      "27662091",
+      "16135786",
+      "21835883",
+      "37414581",
+      "28448736"
+    ],
+    "review": [
+      "42786170",
+      "40132699",
+      "42297231",
+      "30284145",
+      "32725389",
+      "24151070",
+      "36057300",
+      "37294468",
+      "42771308",
+      "28358281"
+    ],
+    "pmc": [
+      "13612829"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76648-4",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-333",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

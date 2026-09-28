@@ -1,0 +1,860 @@
+{
+  "identity": {
+    "pmid": "42786297",
+    "doi": "10.1038/s41588-026-02745-1",
+    "title": "Divergent medulloblastoma chromatin states disclose KDM2B as a selective dependency."
+  },
+  "content": {
+    "abstract": "Medulloblastoma is a biologically heterogeneous childhood cerebellar tumor harboring frequent chromatin-modifying gene alterations. How these alterations promote transcriptional programs governing malignancy remains poorly defined. To address this knowledge gap, we evaluated chromatin states across medulloblastoma subgroups by multi-modal integration of histone modifications with mutational, DNA methylation and transcriptomic profiles. A bivalent/poised enhancer (EnhBiv) state was specifically enriched at the promoters of neurodevelopmental genes in Group 3/4 medulloblastoma. Integrative bioinformatics coupled with chromatin occupancy studies identified aberrant KDM2B binding at EnhBiv-enriched promoters. CRISPR-mediated knockout or acute protein degradation of KDM2B selectively suppressed the growth of medulloblastoma models in vitro and in vivo. Mechanistically, KDM2B promotes sequential recruitment of Polycomb repressive complexes (PRC1/PRC2) and EnhBiv chromatin, thereby repressing neuronal differentiation programs. Collectively, we provide foundational insights into an epigenetic basis of medulloblastoma, nominating KDM2B as a selective dependency in high-risk subgroups that warrants consideration as a candidate therapeutic target.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tao, Ran",
+        "Erkek-Ozhan, Serap",
+        "Xu, Beisi",
+        "Matsui, Yurika",
+        "Mittal, Priya",
+        "Smith, Kyle S",
+        "Li, Yiran",
+        "Filipovic, David",
+        "Xu, Ruijie",
+        "Gao, Qingsong",
+        "Darrow, Emily",
+        "Kumar, Rahul",
+        "Djekidel, Nadhir",
+        "Bajpai, Richa",
+        "Hadley, Jennifer",
+        "Batts, Melissa",
+        "Lewis, Sara A",
+        "Soliman, Taha",
+        "Reilly, Colleen",
+        "Bhanu, Natarajan V",
+        "Paul, Leena",
+        "Lin, Hong",
+        "Gudenas, Brian",
+        "Lowe, Kim",
+        "Zapatka, Marc",
+        "Sieber, Laura",
+        "Jones, David T W",
+        "Kool, Marcel",
+        "Waszak, Sebastian M",
+        "Hovestadt, Volker",
+        "Buchhalter, Ivo",
+        "Ryzhova, Marina",
+        "Korshunov, Andrey",
+        "Lichter, Peter",
+        "Chavez, Lukas",
+        "Kutscher, Lena M",
+        "Garcia, Benjamin A",
+        "Pruett-Miller, Shondra M",
+        "Zhou, Xin",
+        "Orr, Brent A",
+        "Robinson, Giles W",
+        "Wu, Gang",
+        "Korbel, Jan O",
+        "Peng, Jamy C",
+        "Pfister, Stefan M",
+        "Northcott, Paul A"
+      ],
+      "short_names": [
+        "Tao R",
+        "Erkek-Ozhan S",
+        "Xu B",
+        "Matsui Y",
+        "Mittal P",
+        "Smith KS",
+        "Li Y",
+        "Filipovic D",
+        "Xu R",
+        "Gao Q",
+        "Darrow E",
+        "Kumar R",
+        "Djekidel N",
+        "Bajpai R",
+        "Hadley J",
+        "Batts M",
+        "Lewis SA",
+        "Soliman T",
+        "Reilly C",
+        "Bhanu NV",
+        "Paul L",
+        "Lin H",
+        "Gudenas B",
+        "Lowe K",
+        "Zapatka M",
+        "Sieber L",
+        "Jones DTW",
+        "Kool M",
+        "Waszak SM",
+        "Hovestadt V",
+        "Buchhalter I",
+        "Ryzhova M",
+        "Korshunov A",
+        "Lichter P",
+        "Chavez L",
+        "Kutscher LM",
+        "Garcia BA",
+        "Pruett-Miller SM",
+        "Zhou X",
+        "Orr BA",
+        "Robinson GW",
+        "Wu G",
+        "Korbel JO",
+        "Peng JC",
+        "Pfister SM",
+        "Northcott PA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4439-5203",
+        "ORCID: 0000-0003-0099-858X",
+        "ORCID: 0000-0001-6921-3934",
+        "ORCID: 0000-0002-6339-5324",
+        "ORCID: 0000-0003-4421-1654",
+        "ORCID: 0000-0003-3364-1587",
+        "ORCID: 0000-0001-9671-1146",
+        "ORCID: 0000-0001-5361-1858",
+        "ORCID: 0000-0003-1918-747X",
+        "ORCID: 0009-0007-3130-6570",
+        "ORCID: 0000-0003-3119-9940",
+        "ORCID: 0000-0003-4100-334X",
+        "ORCID: 0000-0001-8287-5967",
+        "ORCID: 0000-0002-2036-5141",
+        "ORCID: 0000-0002-6557-5468",
+        "ORCID: 0000-0002-3480-6649",
+        "ORCID: 0000-0003-0764-5832",
+        "ORCID: 0000-0002-2960-5279",
+        "ORCID: 0000-0002-8718-8848",
+        "ORCID: 0000-0002-1130-4582",
+        "ORCID: 0000-0003-3596-4750",
+        "ORCID: 0000-0002-3793-585X",
+        "ORCID: 0000-0003-3979-8200",
+        "ORCID: 0000-0003-0997-4728",
+        "ORCID: 0000-0001-7441-9486",
+        "ORCID: 0000-0002-1678-5864",
+        "ORCID: 0000-0002-2798-3794",
+        "ORCID: 0000-0002-4043-8475",
+        "ORCID: 0000-0002-5447-5322",
+        "ORCID: 0000-0002-1220-5252"
+      ],
+      "affiliations": [
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Hopp Children s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Division of Pediatric Neurooncology, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), Heidelberg, Germany.",
+        "Department of Pediatric Hematology and Oncology, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), Heidelberg, Germany.",
+        "Izmir Biomedicine and Genome Center, Inciralti, Izmir, Turkey.",
+        "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.",
+        "Center for Applied Bioinformatics, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Pathology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Neurologic Surgery, Mayo Clinic, Rochester, MN, USA.",
+        "Center for Applied Bioinformatics, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Cell & Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center for Advanced Genome Engineering, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Computational Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Division of Molecular Genetics, German Cancer Research Center, Heidelberg, Germany.",
+        "Hopp Children s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "JRG Developmental Origins of Pediatric Cancers, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Hopp Children s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Division of Pediatric Glioma Research (B360), German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "National Center for Tumor Diseases (NCT), NCT Heidelberg, a partnership between DKFZ and Heidelberg University Hospital, Heidelberg, Germany.",
+        "Hopp Children s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Division of Pediatric Neurooncology, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), Heidelberg, Germany.",
+        "Princess Maxima Center for Pediatric Oncology, Utrecht, the Netherlands.",
+        "University Medical Center Utrecht, Utrecht, the Netherlands.",
+        "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.",
+        "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Omics IT and Data Management Core Facility, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Department of Neuropathology, Burdenko Neurosurgical Institute, Moscow, Russia.",
+        "Hopp Children s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), German Cancer Consortium (DKTK), and National Center for Tumor Diseases (NCT), Heidelberg, Germany.",
+        "Department of Neuropathology, Heidelberg University Hospital, Heidelberg, Germany.",
+        "Division of Molecular Genetics, German Cancer Research Center, Heidelberg, Germany.",
+        "Department of Medicine, University of California San Diego, San Diego, CA, USA.",
+        "Sanford Burnham Prebys Medical Discovery Institute, San Diego, CA, USA.",
+        "Rady Children's Institute for Genomic Medicine, Rady Children's Hospital and Healthcare Center, San Diego, CA, USA.",
+        "Hopp Children s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "JRG Developmental Origins of Pediatric Cancers, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Cell & Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center for Advanced Genome Engineering, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Computational Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Pathology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Center for Applied Bioinformatics, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.",
+        "Bridging Research Division on Mechanisms of Genomic Variation and Data Science, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Hopp Children s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Division of Pediatric Neurooncology, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), Heidelberg, Germany.",
+        "Department of Pediatric Hematology and Oncology, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), Heidelberg, Germany.",
+        "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA. Paul.Northcott@STJUDE.ORG.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA. Paul.Northcott@STJUDE.ORG."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tao, Ran",
+        "short_name": "Tao R",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Erkek-Ozhan, Serap",
+        "short_name": "Erkek-Ozhan S",
+        "identifiers": [
+          "0000-0003-4439-5203"
+        ],
+        "affiliations": [
+          "Hopp Children´s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Division of Pediatric Neurooncology, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), Heidelberg, Germany.",
+          "Department of Pediatric Hematology and Oncology, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), Heidelberg, Germany.",
+          "Izmir Biomedicine and Genome Center, Inciralti, Izmir, Turkey.",
+          "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Xu, Beisi",
+        "short_name": "Xu B",
+        "identifiers": [
+          "0000-0003-0099-858X"
+        ],
+        "affiliations": [
+          "Center for Applied Bioinformatics, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Matsui, Yurika",
+        "short_name": "Matsui Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Mittal, Priya",
+        "short_name": "Mittal P",
+        "identifiers": [
+          "0000-0001-6921-3934"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Smith, Kyle S",
+        "short_name": "Smith KS",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Yiran",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0002-6339-5324"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Filipovic, David",
+        "short_name": "Filipovic D",
+        "identifiers": [
+          "0000-0003-4421-1654"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Ruijie",
+        "short_name": "Xu R",
+        "identifiers": [
+          "0000-0003-3364-1587"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Qingsong",
+        "short_name": "Gao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Darrow, Emily",
+        "short_name": "Darrow E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Kumar, Rahul",
+        "short_name": "Kumar R",
+        "identifiers": [
+          "0000-0001-9671-1146"
+        ],
+        "affiliations": [
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Neurologic Surgery, Mayo Clinic, Rochester, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Djekidel, Nadhir",
+        "short_name": "Djekidel N",
+        "identifiers": [
+          "0000-0001-5361-1858"
+        ],
+        "affiliations": [
+          "Center for Applied Bioinformatics, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Bajpai, Richa",
+        "short_name": "Bajpai R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell & Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Center for Advanced Genome Engineering, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Hadley, Jennifer",
+        "short_name": "Hadley J",
+        "identifiers": [
+          "0000-0003-1918-747X"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Batts, Melissa",
+        "short_name": "Batts M",
+        "identifiers": [
+          "0009-0007-3130-6570"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Lewis, Sara A",
+        "short_name": "Lewis SA",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Soliman, Taha",
+        "short_name": "Soliman T",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Reilly, Colleen",
+        "short_name": "Reilly C",
+        "identifiers": [
+          "0000-0003-3119-9940"
+        ],
+        "affiliations": [
+          "Department of Computational Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Bhanu, Natarajan V",
+        "short_name": "Bhanu NV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Paul, Leena",
+        "short_name": "Paul L",
+        "identifiers": [
+          "0000-0003-4100-334X"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Lin, Hong",
+        "short_name": "Lin H",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Gudenas, Brian",
+        "short_name": "Gudenas B",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Lowe, Kim",
+        "short_name": "Lowe K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Zapatka, Marc",
+        "short_name": "Zapatka M",
+        "identifiers": [
+          "0000-0001-8287-5967"
+        ],
+        "affiliations": [
+          "Division of Molecular Genetics, German Cancer Research Center, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Sieber, Laura",
+        "short_name": "Sieber L",
+        "identifiers": [],
+        "affiliations": [
+          "Hopp Children´s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "JRG Developmental Origins of Pediatric Cancers, German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Jones, David T W",
+        "short_name": "Jones DTW",
+        "identifiers": [
+          "0000-0002-2036-5141"
+        ],
+        "affiliations": [
+          "Hopp Children´s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Division of Pediatric Glioma Research (B360), German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+          "National Center for Tumor Diseases (NCT), NCT Heidelberg, a partnership between DKFZ and Heidelberg University Hospital, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Kool, Marcel",
+        "short_name": "Kool M",
+        "identifiers": [
+          "0000-0002-6557-5468"
+        ],
+        "affiliations": [
+          "Hopp Children´s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Division of Pediatric Neurooncology, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), Heidelberg, Germany.",
+          "Princess Máxima Center for Pediatric Oncology, Utrecht, the Netherlands.",
+          "University Medical Center Utrecht, Utrecht, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Waszak, Sebastian M",
+        "short_name": "Waszak SM",
+        "identifiers": [],
+        "affiliations": [
+          "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Hovestadt, Volker",
+        "short_name": "Hovestadt V",
+        "identifiers": [
+          "0000-0002-3480-6649"
+        ],
+        "affiliations": [
+          "Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Buchhalter, Ivo",
+        "short_name": "Buchhalter I",
+        "identifiers": [
+          "0000-0003-0764-5832"
+        ],
+        "affiliations": [
+          "Omics IT and Data Management Core Facility, German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Ryzhova, Marina",
+        "short_name": "Ryzhova M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuropathology, Burdenko Neurosurgical Institute, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Korshunov, Andrey",
+        "short_name": "Korshunov A",
+        "identifiers": [],
+        "affiliations": [
+          "Hopp Children´s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), German Cancer Consortium (DKTK), and National Center for Tumor Diseases (NCT), Heidelberg, Germany.",
+          "Department of Neuropathology, Heidelberg University Hospital, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Lichter, Peter",
+        "short_name": "Lichter P",
+        "identifiers": [
+          "0000-0002-2960-5279"
+        ],
+        "affiliations": [
+          "Division of Molecular Genetics, German Cancer Research Center, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Chavez, Lukas",
+        "short_name": "Chavez L",
+        "identifiers": [
+          "0000-0002-8718-8848"
+        ],
+        "affiliations": [
+          "Department of Medicine, University of California San Diego, San Diego, CA, USA.",
+          "Sanford Burnham Prebys Medical Discovery Institute, San Diego, CA, USA.",
+          "Rady Children's Institute for Genomic Medicine, Rady Children's Hospital and Healthcare Center, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kutscher, Lena M",
+        "short_name": "Kutscher LM",
+        "identifiers": [
+          "0000-0002-1130-4582"
+        ],
+        "affiliations": [
+          "Hopp Children´s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "JRG Developmental Origins of Pediatric Cancers, German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Garcia, Benjamin A",
+        "short_name": "Garcia BA",
+        "identifiers": [
+          "0000-0003-3596-4750"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Pruett-Miller, Shondra M",
+        "short_name": "Pruett-Miller SM",
+        "identifiers": [
+          "0000-0002-3793-585X"
+        ],
+        "affiliations": [
+          "Department of Cell & Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+          "Center for Advanced Genome Engineering, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xin",
+        "short_name": "Zhou X",
+        "identifiers": [
+          "0000-0003-3979-8200"
+        ],
+        "affiliations": [
+          "Department of Computational Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Orr, Brent A",
+        "short_name": "Orr BA",
+        "identifiers": [
+          "0000-0003-0997-4728"
+        ],
+        "affiliations": [
+          "Department of Pathology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Robinson, Giles W",
+        "short_name": "Robinson GW",
+        "identifiers": [
+          "0000-0001-7441-9486"
+        ],
+        "affiliations": [
+          "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Gang",
+        "short_name": "Wu G",
+        "identifiers": [
+          "0000-0002-1678-5864"
+        ],
+        "affiliations": [
+          "Center for Applied Bioinformatics, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Korbel, Jan O",
+        "short_name": "Korbel JO",
+        "identifiers": [
+          "0000-0002-2798-3794"
+        ],
+        "affiliations": [
+          "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.",
+          "Bridging Research Division on Mechanisms of Genomic Variation and Data Science, German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Peng, Jamy C",
+        "short_name": "Peng JC",
+        "identifiers": [
+          "0000-0002-4043-8475"
+        ],
+        "affiliations": [
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Pfister, Stefan M",
+        "short_name": "Pfister SM",
+        "identifiers": [
+          "0000-0002-5447-5322"
+        ],
+        "affiliations": [
+          "Hopp Children´s Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Division of Pediatric Neurooncology, German Cancer Research Center (DKFZ) and German Cancer Consortium (DKTK), Heidelberg, Germany.",
+          "Department of Pediatric Hematology and Oncology, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Northcott, Paul A",
+        "short_name": "Northcott PA",
+        "identifiers": [
+          "0000-0002-1220-5252"
+        ],
+        "affiliations": [
+          "Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital, Memphis, TN, USA. Paul.Northcott@STJUDE.ORG.",
+          "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN, USA. Paul.Northcott@STJUDE.ORG."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature genetics"
+    ],
+    "journal_abbrev": [
+      "Nat Genet"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 05:32",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42786297",
+      "40463144",
+      "42288240",
+      "18974828",
+      "31471323",
+      "42273916",
+      "37935302",
+      "33779563",
+      "26070559",
+      "23256043",
+      "24856970",
+      "38288743",
+      "23502314",
+      "23184418",
+      "29763382",
+      "41855552",
+      "30976011",
+      "27926531",
+      "42283463",
+      "30996097",
+      "27705745",
+      "39605346",
+      "41021627",
+      "36135315",
+      "38071364",
+      "29339543",
+      "40950132",
+      "24847876",
+      "42475469",
+      "30814291",
+      "35199155",
+      "31197256",
+      "26553936",
+      "30135119",
+      "31582835",
+      "37461630",
+      "29502955",
+      "42688835",
+      "42493643",
+      "18771397",
+      "29178021",
+      "15231737",
+      "25982201",
+      "20473294",
+      "25225797",
+      "32196702",
+      "41653922",
+      "36738766",
+      "28329683",
+      "26381410",
+      "23273982",
+      "29166607",
+      "36357125",
+      "40527320",
+      "42267784",
+      "39605517",
+      "33208532",
+      "32270414",
+      "32131813",
+      "40393452",
+      "42479105",
+      "26642436",
+      "23321669",
+      "42213647",
+      "20336603",
+      "28069891",
+      "22594313",
+      "31367244",
+      "36273157",
+      "40717024",
+      "38997437",
+      "32482889",
+      "27892467",
+      "42274489",
+      "27568929",
+      "18453536",
+      "34180021",
+      "26002960",
+      "36610636",
+      "32157296",
+      "28342717",
+      "33692209",
+      "25410906",
+      "25482055",
+      "42086780",
+      "35128353",
+      "36476474",
+      "26582124",
+      "25880792",
+      "27557709",
+      "35800061",
+      "30154222",
+      "37163024",
+      "35015684",
+      "42047907",
+      "22832583",
+      "39303719",
+      "25533466",
+      "37790495",
+      "42658887"
+    ],
+    "review": [
+      "42786297",
+      "38288743",
+      "36135315",
+      "35199155",
+      "26553936",
+      "42688835",
+      "29178021",
+      "25982201",
+      "32196702",
+      "36738766",
+      "28069891",
+      "40717024",
+      "38997437",
+      "42274489",
+      "25410906",
+      "25482055",
+      "35800061"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41588-026-02745-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

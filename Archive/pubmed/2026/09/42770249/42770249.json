@@ -1,0 +1,519 @@
+{
+  "identity": {
+    "pmid": "42770249",
+    "doi": "10.1158/2767-9764.CRC-26-0150",
+    "title": "Integrated genetic screening identifies FEN1 as a selective vulnerability and temozolomide resistance mediator in glioblastoma stem cells."
+  },
+  "content": {
+    "abstract": "Glioblastoma (GBM) is an aggressive brain tumor characterized by therapy resistance and recurrence. Glioblastoma stem cells (GSCs) are key drivers of tumor maintenance, therapeutic resistance, and relapse, but targeting them remains clinically elusive due to their overlap with normal neural stem cells (NSCs) and a lack of actionable vulnerabilities. To identify selective vulnerabilities in GSCs, we performed genome-wide CRISPR-Cas9 loss-of-function screening across patient-derived GSC models under standard-of-care treatment conditions. We identified flap endonuclease 1 (FEN1), a key enzyme in DNA replication and base excision repair, as an essential gene for GSC survival, with enhanced dependency in the context of temozolomide (TMZ) treatment. Genetic knockdown of FEN1 impaired GSC proliferation and self-renewal and extended survival in a patient-derived xenograft model. Pharmacologic inhibition of FEN1 using a small-molecule inhibitor revealed selective cytotoxicity in highly aggressive and recurrent GBM models, while sparing NSCs. Notably, FEN1 inhibition synergized with TMZ to induce DNA double-strand breaks and potentiate cell death only in a subset of GSCs sensitive to FEN1 inhibition. Mechanistically, single-cell transcriptomics revealed that FEN1 expression correlates with programs linked to proliferation, stemness, and DNA damage repair, underscoring its role in maintaining the treatment-refractory phenotype. Our findings identify FEN1 as a selective vulnerability in aggressive, proliferative GSCs. FEN1 inhibition not only impairs GSC viability but also restores sensitivity to TMZ in treatment-resistant models, offering a strategy for salvage therapy in recurrent GBM. These results support the development of FEN1-targeted therapies and lay the foundation for a biomarker-guided approach to overcome chemoresistance in GBM.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Brakel, Benjamin A",
+        "McKenna, Dillon",
+        "Puri, Anish",
+        "Shaikh, Muhammad Vaseem",
+        "Singh, Manoj",
+        "Saleh, Ali",
+        "Tomajian, Abdo-Jose",
+        "Mikolajewicz, Nicholas",
+        "Beltrami, Marcello",
+        "Topley, Maxwell",
+        "Anand, Alisha",
+        "Miletic, Petar",
+        "Brown, Kevin R",
+        "Tieu, David",
+        "Maich, William",
+        "Salim, Sabra",
+        "Suk, Yujin",
+        "Subapanditha, Minomi",
+        "Gendoo, Deena M A",
+        "Venugopal, Chitra",
+        "Moffat, Jason",
+        "Katyal, Sachin",
+        "Chokshi, Chirayu R",
+        "Singh, Sheila K"
+      ],
+      "short_names": [
+        "Brakel BA",
+        "McKenna D",
+        "Puri A",
+        "Shaikh MV",
+        "Singh M",
+        "Saleh A",
+        "Tomajian AJ",
+        "Mikolajewicz N",
+        "Beltrami M",
+        "Topley M",
+        "Anand A",
+        "Miletic P",
+        "Brown KR",
+        "Tieu D",
+        "Maich W",
+        "Salim S",
+        "Suk Y",
+        "Subapanditha M",
+        "Gendoo DMA",
+        "Venugopal C",
+        "Moffat J",
+        "Katyal S",
+        "Chokshi CR",
+        "Singh SK"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1388-3490",
+        "ORCID: 0009-0000-6803-9786",
+        "ORCID: 0009-0004-8800-9524",
+        "ORCID: 0009-0009-6929-1209",
+        "ORCID: 0009-0008-4392-7427",
+        "ORCID: 0000-0003-4939-5296",
+        "ORCID: 0009-0006-0698-7098",
+        "ORCID: 0000-0002-7525-0384",
+        "ORCID: 0009-0006-1899-1836",
+        "ORCID: 0009-0002-1050-4360",
+        "ORCID: 0000-0002-7111-1256",
+        "ORCID: 0009-0008-6248-588X",
+        "ORCID: 0000-0002-5514-2538",
+        "ORCID: 0009-0007-1905-3494",
+        "ORCID: 0009-0000-5491-3452",
+        "ORCID: 0000-0001-7797-2789",
+        "ORCID: 0000-0002-3966-3771",
+        "ORCID: 0009-0000-5619-5976",
+        "ORCID: 0000-0001-8891-4138",
+        "ORCID: 0009-0000-2968-2971",
+        "ORCID: 0000-0002-5663-8586",
+        "ORCID: 0000-0002-7790-4054",
+        "ORCID: 0000-0003-0831-0217",
+        "ORCID: 0000-0003-1272-5300"
+      ],
+      "affiliations": [
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, Ontario Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "CancerCare Manitoba Winnipeg, Manitoba Canada. ROR: https://ror.org/005cmms77",
+        "CancerCare Manitoba Winnipeg, Manitoba Canada. ROR: https://ror.org/005cmms77",
+        "Hospital for Sick Children Toronto, ON Canada. ROR: https://ror.org/057q4rt57",
+        "University of Birmingham Birmingham United Kingdom. ROR: https://ror.org/03angcq70",
+        "McMaster University Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "Hospital for Sick Children Toronto, ON Canada. ROR: https://ror.org/057q4rt57",
+        "University of Toronto Toronto, Ontario Canada. ROR: https://ror.org/03dbr7087",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, Ontario Canada. ROR: https://ror.org/02fa3aq29",
+        "University of Birmingham Birmingham United Kingdom. ROR: https://ror.org/03angcq70",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "Hospital for Sick Children Toronto, Ontario Canada. ROR: https://ror.org/057q4rt57",
+        "University of Manitoba Winnipeg, Manitoba Canada. ROR: https://ror.org/02gfys938",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29",
+        "McMaster University Hamilton, ON Canada. ROR: https://ror.org/02fa3aq29"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Brakel, Benjamin A",
+        "short_name": "Brakel BA",
+        "identifiers": [
+          "0000-0003-1388-3490"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "McKenna, Dillon",
+        "short_name": "McKenna D",
+        "identifiers": [
+          "0009-0000-6803-9786"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, Ontario Canada."
+        ]
+      },
+      {
+        "full_name": "Puri, Anish",
+        "short_name": "Puri A",
+        "identifiers": [
+          "0009-0004-8800-9524"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Shaikh, Muhammad Vaseem",
+        "short_name": "Shaikh MV",
+        "identifiers": [
+          "0009-0009-6929-1209"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Singh, Manoj",
+        "short_name": "Singh M",
+        "identifiers": [
+          "0009-0008-4392-7427"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Saleh, Ali",
+        "short_name": "Saleh A",
+        "identifiers": [
+          "0000-0003-4939-5296"
+        ],
+        "affiliations": [
+          "CancerCare Manitoba Winnipeg, Manitoba Canada."
+        ]
+      },
+      {
+        "full_name": "Tomajian, Abdo-Jose",
+        "short_name": "Tomajian AJ",
+        "identifiers": [
+          "0009-0006-0698-7098"
+        ],
+        "affiliations": [
+          "CancerCare Manitoba Winnipeg, Manitoba Canada."
+        ]
+      },
+      {
+        "full_name": "Mikolajewicz, Nicholas",
+        "short_name": "Mikolajewicz N",
+        "identifiers": [
+          "0000-0002-7525-0384"
+        ],
+        "affiliations": [
+          "Hospital for Sick Children Toronto, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Beltrami, Marcello",
+        "short_name": "Beltrami M",
+        "identifiers": [
+          "0009-0006-1899-1836"
+        ],
+        "affiliations": [
+          "University of Birmingham Birmingham United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Topley, Maxwell",
+        "short_name": "Topley M",
+        "identifiers": [
+          "0009-0002-1050-4360"
+        ],
+        "affiliations": [
+          "McMaster University Canada."
+        ]
+      },
+      {
+        "full_name": "Anand, Alisha",
+        "short_name": "Anand A",
+        "identifiers": [
+          "0000-0002-7111-1256"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Miletic, Petar",
+        "short_name": "Miletic P",
+        "identifiers": [
+          "0009-0008-6248-588X"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Brown, Kevin R",
+        "short_name": "Brown KR",
+        "identifiers": [
+          "0000-0002-5514-2538"
+        ],
+        "affiliations": [
+          "Hospital for Sick Children Toronto, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Tieu, David",
+        "short_name": "Tieu D",
+        "identifiers": [
+          "0009-0007-1905-3494"
+        ],
+        "affiliations": [
+          "University of Toronto Toronto, Ontario Canada."
+        ]
+      },
+      {
+        "full_name": "Maich, William",
+        "short_name": "Maich W",
+        "identifiers": [
+          "0009-0000-5491-3452"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Salim, Sabra",
+        "short_name": "Salim S",
+        "identifiers": [
+          "0000-0001-7797-2789"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Suk, Yujin",
+        "short_name": "Suk Y",
+        "identifiers": [
+          "0000-0002-3966-3771"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Subapanditha, Minomi",
+        "short_name": "Subapanditha M",
+        "identifiers": [
+          "0009-0000-5619-5976"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, Ontario Canada."
+        ]
+      },
+      {
+        "full_name": "Gendoo, Deena M A",
+        "short_name": "Gendoo DMA",
+        "identifiers": [
+          "0000-0001-8891-4138"
+        ],
+        "affiliations": [
+          "University of Birmingham Birmingham United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Venugopal, Chitra",
+        "short_name": "Venugopal C",
+        "identifiers": [
+          "0009-0000-2968-2971"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Moffat, Jason",
+        "short_name": "Moffat J",
+        "identifiers": [
+          "0000-0002-5663-8586"
+        ],
+        "affiliations": [
+          "Hospital for Sick Children Toronto, Ontario Canada."
+        ]
+      },
+      {
+        "full_name": "Katyal, Sachin",
+        "short_name": "Katyal S",
+        "identifiers": [
+          "0000-0002-7790-4054"
+        ],
+        "affiliations": [
+          "University of Manitoba Winnipeg, Manitoba Canada."
+        ]
+      },
+      {
+        "full_name": "Chokshi, Chirayu R",
+        "short_name": "Chokshi CR",
+        "identifiers": [
+          "0000-0003-0831-0217"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      },
+      {
+        "full_name": "Singh, Sheila K",
+        "short_name": "Singh SK",
+        "identifiers": [
+          "0000-0003-1272-5300"
+        ],
+        "affiliations": [
+          "McMaster University Hamilton, ON Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer research communications"
+    ],
+    "journal_abbrev": [
+      "Cancer Res Commun"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 12:42",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42770249",
+      "42011505",
+      "39754188",
+      "24810059",
+      "36652263",
+      "42616000",
+      "41969610",
+      "29991446",
+      "41271669",
+      "31540977",
+      "40059829",
+      "38773970",
+      "42295990",
+      "41047764",
+      "22173583",
+      "37511047",
+      "37377608",
+      "33414584",
+      "35008590",
+      "39326139",
+      "31262047",
+      "24593254",
+      "28412969",
+      "39229036",
+      "27177180",
+      "42475469",
+      "41664181",
+      "25886061",
+      "38723526",
+      "31311580",
+      "41747987",
+      "41452357",
+      "31296906",
+      "33378970",
+      "41217736",
+      "28801914",
+      "35740330",
+      "30260647",
+      "29016925",
+      "40102981",
+      "41929516",
+      "40653819",
+      "28567859",
+      "23826381",
+      "23714687",
+      "34584069",
+      "41570320",
+      "42551615",
+      "39990235",
+      "41002392",
+      "41485288",
+      "28059653",
+      "26546412",
+      "30992025",
+      "38296645",
+      "30995489",
+      "38619743",
+      "42090721",
+      "41986321",
+      "41736030",
+      "26683773",
+      "42222434",
+      "34066147",
+      "24841897",
+      "35836243",
+      "32974206",
+      "36932402",
+      "31900275",
+      "33408780",
+      "41297453",
+      "41805027",
+      "39273014",
+      "26520369",
+      "37551745",
+      "38710703",
+      "31561595",
+      "41932066",
+      "39227950",
+      "42143442",
+      "28802102",
+      "40910234",
+      "33114573",
+      "38506351",
+      "21346220",
+      "24793792",
+      "41441949",
+      "36966667",
+      "40277888",
+      "22156195",
+      "27852524",
+      "30249919",
+      "39251990",
+      "24260384",
+      "37587449",
+      "40373963",
+      "22977194",
+      "24093630",
+      "39968701",
+      "42374432",
+      "38332576"
+    ],
+    "review": [
+      "42770249",
+      "35740330",
+      "40277888"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GSC-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-700",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://aacrjournals.org/cancerrescommun/article-lookup/doi/10.1158/2767-9764.CRC-26-0150",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "identity": {
+    "pmid": "42779810",
+    "doi": "10.64898/2026.09.16.752238",
+    "title": "In vivo intercellular CRISPR screens using viral proximity barcoding reveal regulators of tumor-immune interactions."
+  },
+  "content": {
+    "abstract": "Cell-cell interactions shape tumor growth, immune evasion, and therapeutic response, but systematically dissecting their genetic regulators in vivo remains challenging. Existing cell-cell interaction tracing technologies rely largely on protein labels or enzymatic reactions, limiting their information content and scalability. To overcome these limitations, we developed match-seq, an imaging-free, sequencing-based cell proximity tracing system that uses virus-like particles to transmit barcodes between neighboring cells. Barcoded mRNAs are transmitted from sender cells to nearby receiver cells, thereby establishing a spatial linkage that can be computationally reconstructed by barcode sequencing after tissue dissociation. We apply this system to an in vivo syngeneic murine tumor model, where we observe robust labeling of all immune cell lineages, and leverage barcode labeling to reconstruct cell type niches that recapitulate known tumor spatial biology. Furthermore, we couple this system with CRISPR perturbations and single-cell RNA sequencing to perform genetic screens in vivo on tumor-immune interactions at single-cell resolution. We use this method to infer cell-cell spatial relationships and uncover genetic dependencies in cancer cells that change the composition and cell state of their local microenvironments. By calculating a local immune activation signature, we are able to prioritize targets whose deletion enhances anti-tumor immunity through distinct effector cell types: loss of Tgfb1 engages CD8 T cells and macrophages, Traf7 loss elicits a CD4 T cell response, and Nectin3 loss promotes NK cell-mediated immunity, relationships that we validate by in vivo immune cell depletion. Notably, Tgfb1 and Nectin3 deletion had little effect on cancer cell fitness in the pooled screen yet suppressed tumor growth when deleted throughout the tumor, demonstrating the potential of match-seq to reveal functionally important tumor-immune interactions that would otherwise remain hidden. Together, these results establish a general framework for pooled genetic dissection of cell-cell interactions in vivo, extending CRISPR screening from cell-intrinsic phenotypes to the mechanisms by which cells shape and respond to their local microenvironments.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Du, Peter",
+        "Kohno, Seth",
+        "Wang, Mengchen",
+        "Papanicolaou, Michael",
+        "Vaughan-Jackson, Alun",
+        "Daigh, Leighton",
+        "Peng, Qiangwei",
+        "Spees, Kaitlyn",
+        "McCormick, Aaron",
+        "Diehl, Markus",
+        "Bintu, Lacramioara",
+        "Qiu, Xiaojie",
+        "Satpathy, Ansuman",
+        "Bassik, Michael"
+      ],
+      "short_names": [
+        "Du P",
+        "Kohno S",
+        "Wang M",
+        "Papanicolaou M",
+        "Vaughan-Jackson A",
+        "Daigh L",
+        "Peng Q",
+        "Spees K",
+        "McCormick A",
+        "Diehl M",
+        "Bintu L",
+        "Qiu X",
+        "Satpathy A",
+        "Bassik M"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Du, Peter",
+        "short_name": "Du P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kohno, Seth",
+        "short_name": "Kohno S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Mengchen",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Papanicolaou, Michael",
+        "short_name": "Papanicolaou M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Vaughan-Jackson, Alun",
+        "short_name": "Vaughan-Jackson A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Daigh, Leighton",
+        "short_name": "Daigh L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Peng, Qiangwei",
+        "short_name": "Peng Q",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Spees, Kaitlyn",
+        "short_name": "Spees K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "McCormick, Aaron",
+        "short_name": "McCormick A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Diehl, Markus",
+        "short_name": "Diehl M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bintu, Lacramioara",
+        "short_name": "Bintu L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Qiu, Xiaojie",
+        "short_name": "Qiu X",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Satpathy, Ansuman",
+        "short_name": "Satpathy A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bassik, Michael",
+        "short_name": "Bassik M",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779810",
+      "42475469",
+      "42028950",
+      "38319699",
+      "41542636",
+      "40534868",
+      "39892819",
+      "39052000",
+      "40698080",
+      "40783744",
+      "42120180",
+      "39095793",
+      "35651625",
+      "34421928",
+      "41436831",
+      "30449619",
+      "1531321",
+      "41132964",
+      "42448430",
+      "34416901",
+      "39272209",
+      "41521220",
+      "33497609",
+      "42327017",
+      "39592459",
+      "39568154",
+      "42315253",
+      "27984732",
+      "23912807",
+      "38234835",
+      "40562937",
+      "40747421",
+      "40655119",
+      "3260908",
+      "41946842",
+      "36518525",
+      "40108474",
+      "42685565",
+      "41135953",
+      "41903669",
+      "41676732",
+      "40081369",
+      "40308576",
+      "40664443",
+      "42112375",
+      "41868885",
+      "42152025",
+      "41915438",
+      "41716413",
+      "40409102",
+      "41761123",
+      "37858248",
+      "42342408",
+      "40832237",
+      "42727896",
+      "37061217",
+      "36588094",
+      "41521161",
+      "41006377",
+      "42524819",
+      "42725707",
+      "42443980",
+      "41655669",
+      "37770200",
+      "40475762",
+      "41586579",
+      "42370675",
+      "29776993",
+      "37732732",
+      "42304527",
+      "42402561",
+      "34906138",
+      "40891683",
+      "38702144",
+      "41819547",
+      "41292737",
+      "41711690",
+      "41948466",
+      "41035636",
+      "33589527",
+      "40475776",
+      "41573582",
+      "40616092",
+      "39345374",
+      "42190664",
+      "33843587",
+      "41956539",
+      "40460936",
+      "42556863",
+      "41826830",
+      "42743210",
+      "40777338",
+      "35288462",
+      "33152324",
+      "42387342",
+      "31548728",
+      "39725169",
+      "32302591",
+      "40196610",
+      "38490212"
+    ],
+    "review": [
+      "42779810",
+      "42727896",
+      "42443980",
+      "41711690"
+    ],
+    "pmc": [
+      "13596440"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42779810/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3952",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.16.752238",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

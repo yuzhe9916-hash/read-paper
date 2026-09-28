@@ -1,0 +1,337 @@
+{
+  "identity": {
+    "pmid": "42766154",
+    "doi": "10.1007/s00203-026-05182-0",
+    "title": "Technical limitations of CRISPR-Cas9 genome editing in bacteria: challenges and future directions."
+  },
+  "content": {
+    "abstract": "The CRISPR-Cas system, which originated as an adaptive immune system in bacteria and archaea, has been repurposed as a precise and programmable tool for genetic manipulation in both prokaryotes and eukaryotes. Its applications in bacteria include targeted genome modifications, antimicrobial resistance studies, functional genomics studies, and the development of engineered strains for industrial and synthetic biology applications. Therefore, the understanding of technical aspects of CRISPR systems and their underlying molecular mechanisms is essential for experimental accuracy, reproducibility, and biosafety. CRISPR editing introduces several challenges in bacteria, including off-target effects, DNA repair limitations, cytotoxicity of Cas nucleases, and host-specific restriction-modification barriers. In addition to these specific challenges, metabolic burden, sgRNA design, and delivery challenges further introduce limitations. Such issues compromise editing efficiency, genomic stability, and cell viability. Recent studies have focused on improved guide RNA design, alternative Cas variants, refined delivery strategies, and host-adapted engineering as promising directions to enhance editing. This review discusses the principal barriers to CRISPR-Cas9 genome editing of bacteria, evaluates the current strategies for addressing these barriers, and highlights emerging approaches aimed at improving the efficiency, reliability and precision in bacterial genome engineering.",
+    "keywords": [
+      "Bacterial genome editing",
+      "CRISPR-Cas9",
+      "Cas9 toxicity",
+      "Genome editing",
+      "Multiplex editing",
+      "PAM specificity",
+      "sgRNA design"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems",
+      "*Gene Editing/methods/trends",
+      "*Bacteria/genetics",
+      "Genome, Bacterial",
+      "RNA, Guide, CRISPR-Cas Systems/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shabbir, Abdul Qadeer",
+        "Idrees, Javeria",
+        "Khan, Ali Arif",
+        "Alvi, Iqbal Ahmad",
+        "Sana, Saba",
+        "Rehman, Shafiq Ur",
+        "Asif, Muhammad"
+      ],
+      "short_names": [
+        "Shabbir AQ",
+        "Idrees J",
+        "Khan AA",
+        "Alvi IA",
+        "Sana S",
+        "Rehman SU",
+        "Asif M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2542-8842"
+      ],
+      "affiliations": [
+        "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan.",
+        "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan.",
+        "Department of Biotechnology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, Pakistan.",
+        "Department of Microbiology, Faculty of Medicine, Afghan International Islamic University, Kabul, Afghanistan.",
+        "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan.",
+        "Institute of Microbiology and Molecular Genetics, University of the Punjab, Lahore, Pakistan.",
+        "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan. m.asif@gcu.edu.pk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shabbir, Abdul Qadeer",
+        "short_name": "Shabbir AQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Idrees, Javeria",
+        "short_name": "Idrees J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Khan, Ali Arif",
+        "short_name": "Khan AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Alvi, Iqbal Ahmad",
+        "short_name": "Alvi IA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Faculty of Medicine, Afghan International Islamic University, Kabul, Afghanistan."
+        ]
+      },
+      {
+        "full_name": "Sana, Saba",
+        "short_name": "Sana S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Rehman, Shafiq Ur",
+        "short_name": "Rehman SU",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Microbiology and Molecular Genetics, University of the Punjab, Lahore, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Asif, Muhammad",
+        "short_name": "Asif M",
+        "identifiers": [
+          "0000-0002-2542-8842"
+        ],
+        "affiliations": [
+          "Department of Microbiology, Dr. Ikram-ul-Haq Institute of Industrial Biotechnology, Government College University, Lahore, 54000, Pakistan. m.asif@gcu.edu.pk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archives of microbiology"
+    ],
+    "journal_abbrev": [
+      "Arch Microbiol"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 17:47",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42766154",
+      "42423795",
+      "42758354",
+      "38344439",
+      "29862665",
+      "41524770",
+      "33397707",
+      "37000655",
+      "27210042",
+      "33484202",
+      "41454745",
+      "26535798",
+      "39937081",
+      "42173386",
+      "30894153",
+      "28900076",
+      "37525893",
+      "41987615",
+      "32470504",
+      "31087001",
+      "32883277",
+      "41241768",
+      "39732069",
+      "38859956",
+      "35766512",
+      "42551559",
+      "33785178",
+      "35341983",
+      "41329461",
+      "40869944",
+      "27340770",
+      "42187710",
+      "40548648",
+      "34236684",
+      "31099553",
+      "27836667",
+      "41057263",
+      "27371605",
+      "30261168",
+      "40833724",
+      "40551141",
+      "33391496",
+      "29530750",
+      "33339441",
+      "29019352",
+      "33754170",
+      "42586245",
+      "31584620",
+      "42032156",
+      "27185399",
+      "28057617",
+      "33685600",
+      "40076628",
+      "31821359",
+      "40170307",
+      "29176845",
+      "31693214",
+      "25698413",
+      "42298891",
+      "33842017",
+      "41627753",
+      "28613045",
+      "27342565",
+      "29305085",
+      "28177771",
+      "42075136",
+      "42554845",
+      "40560492",
+      "32878930",
+      "30877356",
+      "41678668",
+      "40905590",
+      "28527117",
+      "40342053",
+      "33685601",
+      "30362544",
+      "41051673",
+      "40259107",
+      "42106044",
+      "42439519",
+      "34080099",
+      "40697666",
+      "40363763",
+      "30511631",
+      "42090053",
+      "38468094",
+      "41840308",
+      "29358495",
+      "34261850",
+      "34576035",
+      "39833194",
+      "41495582",
+      "35040621",
+      "34517795",
+      "38061052",
+      "33285226",
+      "39399829",
+      "40591237",
+      "42303162",
+      "34378567"
+    ],
+    "review": [
+      "42766154",
+      "42423795",
+      "42758354",
+      "38344439",
+      "29862665",
+      "41524770",
+      "27210042",
+      "41454745",
+      "26535798",
+      "42173386",
+      "28900076",
+      "37525893",
+      "41987615",
+      "32470504",
+      "31087001",
+      "32883277",
+      "41241768",
+      "39732069",
+      "38859956",
+      "42551559",
+      "35341983",
+      "41329461",
+      "40869944",
+      "27340770",
+      "42187710",
+      "40548648",
+      "27836667",
+      "41057263",
+      "30261168",
+      "40833724",
+      "33391496",
+      "33339441",
+      "33754170",
+      "42586245",
+      "31584620",
+      "40170307",
+      "31693214",
+      "25698413",
+      "42298891",
+      "33842017",
+      "28613045",
+      "29305085",
+      "28177771",
+      "42075136",
+      "42554845",
+      "40560492",
+      "30877356",
+      "40905590",
+      "28527117",
+      "40342053",
+      "33685601",
+      "30362544",
+      "40259107",
+      "34080099",
+      "40697666",
+      "40363763",
+      "30511631",
+      "42090053",
+      "41840308",
+      "29358495",
+      "34261850",
+      "34576035",
+      "41495582",
+      "34517795",
+      "33285226",
+      "39399829",
+      "40591237",
+      "42303162"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00203-026-05182-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "identity": {
+    "pmid": "42778612",
+    "doi": "10.1038/s41586-026-11059-5",
+    "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion."
+  },
+  "content": {
+    "abstract": "CD8(+) T cell exhaustion impedes control of chronic viral infection and cancer. This hypofunctional state is characterized by downregulation of the high-affinity IL-2 receptor (IL-2R) and STAT5 signalling, and differentiation from progenitor exhausted to terminally exhausted T cells rather than cytotoxic effector-like cells(1-3). The epigenetic mechanisms and regulatory networks that mediate IL-2R-STAT5 signal attenuation and loss of effector-like cell differentiation remain unknown. Here, using in vivo single-cell CRISPR screens of epigenetic factors and IL-2 signalling regulators, we reveal that the chromatin reader ZMYND8 antagonizes IL-2R-STAT5 signals to restrain effector-like states while promoting terminal exhaustion. ZMYND8 expression was upregulated by chronic antigen stimulation, and targeting ZMYND8 in CD8(+) T cells promoted both intermediate exhausted T cells and killer cell lectin-like receptor-expressing exhausted T cells. Accordingly, ZMYND8-deficient CD8(+) T cells had markedly improved antiviral and antitumour effects, especially in combination with IL-2 therapy or immune checkpoint blockade. Mechanistically, ZMYND8 bound to the active enhancer regions of the Il2ra gene locus that were co-occupied by histone acetyltransferase p300 and suppressed p300 activity. Co-deletion of p300 reversed increased IL-2R expression and effector-like cell differentiation in ZMYND8-deficient cells, suggesting that ZMYND8 represses p300-mediated transcriptional activation to curtail IL-2R-STAT5 signalling. These findings establish an epigenetic rheostat imposing 'signal 1' (chronic antigen stimulation)-induced suppression of 'signal 3' (IL-2 signalling) to enforce T cell exhaustion, with ZMYND8 deletion unleashing effector-like over terminally exhausted states and enhancing immunotherapeutic efficacy.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yan",
+        "Shi, Hao",
+        "Chapman, Nicole M",
+        "Kc, Anil",
+        "Sun, Renqiang",
+        "Song, Hao",
+        "Meng, Xiaoxi",
+        "Sun, Xiang",
+        "Chi, Hongbo"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Shi H",
+        "Chapman NM",
+        "Kc A",
+        "Sun R",
+        "Song H",
+        "Meng X",
+        "Sun X",
+        "Chi H"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4779-9967",
+        "ORCID: 0000-0002-2796-629X",
+        "ORCID: 0000-0003-4710-1776",
+        "ORCID: 0000-0002-9997-2496"
+      ],
+      "affiliations": [
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA. hongbo.chi@stjude.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0003-4779-9967"
+        ],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Shi, Hao",
+        "short_name": "Shi H",
+        "identifiers": [
+          "0000-0002-2796-629X"
+        ],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Chapman, Nicole M",
+        "short_name": "Chapman NM",
+        "identifiers": [
+          "0000-0003-4710-1776"
+        ],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Kc, Anil",
+        "short_name": "Kc A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Sun, Renqiang",
+        "short_name": "Sun R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Song, Hao",
+        "short_name": "Song H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Meng, Xiaoxi",
+        "short_name": "Meng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Sun, Xiang",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Chi, Hongbo",
+        "short_name": "Chi H",
+        "identifiers": [
+          "0000-0002-9997-2496"
+        ],
+        "affiliations": [
+          "Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, USA. hongbo.chi@stjude.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 05:37",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42778612",
+      "42485358",
+      "42258808",
+      "38091951",
+      "42749447",
+      "42294879",
+      "41194917",
+      "40221151",
+      "40698080",
+      "41722564",
+      "41896465",
+      "36171284",
+      "33531395",
+      "32117218",
+      "33802622",
+      "36824931",
+      "36171288",
+      "42445178",
+      "42657108",
+      "37270181",
+      "23516358",
+      "38056892",
+      "20644163",
+      "42457339",
+      "15322173",
+      "40847476",
+      "35774790",
+      "42294500",
+      "37527035",
+      "39975082",
+      "30989321",
+      "37409128",
+      "38012417",
+      "29093082",
+      "38979360",
+      "42049034",
+      "40974572",
+      "39912665",
+      "42305548",
+      "37968405",
+      "42001517",
+      "37330910",
+      "30814995",
+      "31227606",
+      "41903548",
+      "30314757",
+      "34721405",
+      "33986293",
+      "42516367",
+      "38659890",
+      "33633741",
+      "22134341",
+      "42222335",
+      "41630529",
+      "42378284",
+      "30541848",
+      "35930654",
+      "37039663",
+      "40333757",
+      "36427304",
+      "42694956",
+      "42465330",
+      "38987588",
+      "42440698",
+      "38479359",
+      "37704621",
+      "29246443",
+      "27573835",
+      "34083422",
+      "38451948",
+      "39888372",
+      "41414757",
+      "33027962",
+      "42206032",
+      "32210950",
+      "33462140",
+      "41822505",
+      "39647455",
+      "42244524",
+      "40579556",
+      "41974457",
+      "33809259",
+      "21980291",
+      "36758176",
+      "35734162",
+      "37605139",
+      "38986249",
+      "36684449",
+      "32641478",
+      "41819547",
+      "42012954",
+      "35618829",
+      "42060360",
+      "24006458",
+      "40040705",
+      "36543376",
+      "42763295",
+      "40396260",
+      "42307035",
+      "42412171"
+    ],
+    "review": [
+      "42778612",
+      "41194917",
+      "33802622",
+      "42657108",
+      "30989321",
+      "33633741",
+      "22134341",
+      "42222335",
+      "41630529",
+      "42694956",
+      "38479359",
+      "33027962",
+      "36684449",
+      "42307035",
+      "42412171"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11059-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1240",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

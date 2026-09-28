@@ -1,0 +1,275 @@
+{
+  "identity": {
+    "pmid": "42775062",
+    "doi": "10.1016/j.omta.2026.201837",
+    "title": "Digenome-Detect: Accurate, statistics-based analysis software for identifying off-target cleavage sites in genome editing."
+  },
+  "content": {
+    "abstract": "Off-target mutations pose major safety concerns in genome-editing therapy owing to their potential for leading to serious adverse events such as carcinogenesis. Thus, accurate prediction and evaluation of off-target mutations are critical in ensuring the safety of genome-editing therapeutics. Among the methods available for predicting off-target mutations, cell-free assays, which detect cleavage sites in extracted genomic DNA treated with genome-editing tools in vitro, are valuable because of their genome-wide, unbiased, and sensitive detection capabilities. However, cell-free assays are prone to identifying false-positive off-target cleavage sites, limiting their practical utility. To address this issue, we developed \"Digenome-Detect,\" a highly accurate and sensitive data analysis software tool for Digenome-seq, which is the simplest cell-free assay. Digenome-Detect calculates a statistically derived score for genomic cleavage sites, followed by additional filters to reduce false positives. Compared with the current standard software, Digenome-toolkit, Digenome-Detect identified more off-target cleavage sites with fewer obvious false positives. Digenome-Detect enables accurate and sensitive prediction of off-target cleavage sites and can thereby contribute to ensuring the safety of genome-editing therapeutics.",
+    "keywords": [
+      "CRISPR-Cas",
+      "genome editing",
+      "off-target",
+      "safety evaluation",
+      "software"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yamashita, Takuma",
+        "Naito, Yuki",
+        "Yamamoto, Takenori",
+        "Yoshida, Tokuyuki",
+        "Uchida, Yasunori",
+        "Uchida, Eriko",
+        "Inoue, Takao"
+      ],
+      "short_names": [
+        "Yamashita T",
+        "Naito Y",
+        "Yamamoto T",
+        "Yoshida T",
+        "Uchida Y",
+        "Uchida E",
+        "Inoue T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan.",
+        "Nucleotide and Peptide Drug Discovery Center, Institute of Science Tokyo, Tokyo 113-8510, Japan.",
+        "Database Division for Life Science (DBCLS), National Institute of Genetics, Mishima, Shizuoka 411-8540, Japan.",
+        "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan.",
+        "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan.",
+        "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan.",
+        "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan.",
+        "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yamashita, Takuma",
+        "short_name": "Yamashita T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan."
+        ]
+      },
+      {
+        "full_name": "Naito, Yuki",
+        "short_name": "Naito Y",
+        "identifiers": [],
+        "affiliations": [
+          "Nucleotide and Peptide Drug Discovery Center, Institute of Science Tokyo, Tokyo 113-8510, Japan.",
+          "Database Division for Life Science (DBCLS), National Institute of Genetics, Mishima, Shizuoka 411-8540, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamamoto, Takenori",
+        "short_name": "Yamamoto T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan."
+        ]
+      },
+      {
+        "full_name": "Yoshida, Tokuyuki",
+        "short_name": "Yoshida T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan."
+        ]
+      },
+      {
+        "full_name": "Uchida, Yasunori",
+        "short_name": "Uchida Y",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan."
+        ]
+      },
+      {
+        "full_name": "Uchida, Eriko",
+        "short_name": "Uchida E",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan."
+        ]
+      },
+      {
+        "full_name": "Inoue, Takao",
+        "short_name": "Inoue T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Target and Gene Therapy Products, National Institute of Health Sciences, Kawasaki-shi, Kanagawa 210-9501, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy. Advances"
+    ],
+    "journal_abbrev": [
+      "Mol Ther Adv"
+    ],
+    "pub_date": "2026 Dec 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 11:50",
+    "fetched_at": "2026-09-28 17:46:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42775062",
+      "33462439",
+      "32926386",
+      "28506212",
+      "33261648",
+      "25664545",
+      "26786045",
+      "36592306",
+      "24956386",
+      "36481904",
+      "36627653",
+      "34713260",
+      "42716490",
+      "42306087",
+      "36581624",
+      "42170219",
+      "34031394",
+      "30413470",
+      "36181413",
+      "34099937",
+      "40680043",
+      "32941652",
+      "42754893",
+      "40764055",
+      "40777742",
+      "34174439",
+      "42503868",
+      "31821359",
+      "40909481",
+      "32183699",
+      "37161298",
+      "25462530",
+      "25513782",
+      "32195078",
+      "31107154",
+      "32796939",
+      "32681048",
+      "37156841",
+      "42192532",
+      "32792663",
+      "42525385",
+      "25247697",
+      "31450868",
+      "38260726",
+      "32926384",
+      "35064134",
+      "29019352",
+      "39332185",
+      "36374037",
+      "35595297",
+      "27380939",
+      "33346710",
+      "32903440",
+      "40481308",
+      "37003351",
+      "38585919",
+      "24381193",
+      "31267129",
+      "36439866",
+      "29377001",
+      "40207628",
+      "31407391",
+      "37277562",
+      "41241768",
+      "30833658",
+      "37802026",
+      "38260716",
+      "41508607",
+      "34880355",
+      "40337925",
+      "31764961",
+      "31248401",
+      "34869366",
+      "28398345",
+      "40250956",
+      "38844522",
+      "30883196",
+      "33137817",
+      "26032770",
+      "41876887",
+      "27866656",
+      "39990392",
+      "33288953",
+      "41827871",
+      "39555799",
+      "27208701",
+      "40688512",
+      "28968798",
+      "32926387",
+      "37279759",
+      "27272384",
+      "31492696",
+      "32887261",
+      "27363443",
+      "28459458",
+      "30209390",
+      "29941452",
+      "29431739",
+      "32616331",
+      "38845097"
+    ],
+    "review": [
+      "42775062",
+      "34713260",
+      "40777742",
+      "32195078",
+      "38260726",
+      "39332185",
+      "32903440",
+      "36439866",
+      "37277562",
+      "41241768",
+      "38260716",
+      "30883196",
+      "41876887",
+      "33288953",
+      "27208701",
+      "40688512"
+    ],
+    "pmc": [
+      "13595080"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S3117-387X(26)00172-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42775062/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

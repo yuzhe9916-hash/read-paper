@@ -1,0 +1,338 @@
+{
+  "identity": {
+    "pmid": "42772798",
+    "doi": "10.1111/bph.70662",
+    "title": "Zebrafish in the era of single-cell and spatial transcriptomics: a new paradigm for central nervous system drug discovery from natural products."
+  },
+  "content": {
+    "abstract": "Natural products (NPs) represent a an important chemical source for CNS therapeutics for central nervous system (CNS) therapeutics, yet elucidating their complex, multitarget mechanisms remains a major challenge. Zebrafish have emerged as a powerful vertebrate model bridging the translational gap between in vitro assays and rodent systems in CNS drug discovery. Their genetic tractability, optical transparency and rapid development make them ideal for high-throughput pharmacological screening. Recent advances in single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics (ST), particularly Stereo-seq, are revolutionizing zebrafish-based drug discovery by enabling unprecedented resolution of cellular heterogeneity, tissue architecture and drug-induced transcriptomic changes. scRNA-seq allows for the dissection of individual cellular responses, uncovering dynamic and context-specific drug effects, while Stereo-seq maps gene expression within intact tissue landscapes, offering spatial precision. When integrated, these technologies empower researchers to conduct high-resolution compound screening, elucidate mechanisms of NPs, detect off-target effects and accelerate translational pipelines from zebrafish to human models. Coupled with CRISPR-based gene editing and phenotypic assays, this integrative approach positions zebrafish as a cornerstone of modern pharmacology and a transformative platform for CNS therapeutics.",
+    "keywords": [
+      "central nervous system",
+      "natural products",
+      "single-cell RNA sequencing",
+      "spatial transcriptomics",
+      "zebrafish"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Yingyi",
+        "Liu, Xiang",
+        "Fan, Guangyi",
+        "Gong, Guiyi",
+        "Lee, Simon Ming-Yuen"
+      ],
+      "short_names": [
+        "Huang Y",
+        "Liu X",
+        "Fan G",
+        "Gong G",
+        "Lee SM"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-5486-0441",
+        "ORCID: 0009-0005-8644-5696",
+        "ORCID: 0000-0001-7365-1590",
+        "ORCID: 0000-0002-6495-0545",
+        "ORCID: 0000-0002-3966-6569"
+      ],
+      "affiliations": [
+        "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "Section for Cell Biology and Physiology, Department of Biology, University of Copenhagen, Copenhagen, Denmark.",
+        "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "Qingdao Key Laboratory of Marine Genomics, BGI Research, Qingdao, China.",
+        "State Key Laboratory of Genome and Multi-omics Technologies, BGI Research, Shenzhen, China.",
+        "Shenzhen Key Laboratory of Marine Biology Genomics, BGI Research, Shenzhen, China.",
+        "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "PolyU - Wuxi Technology and Innovation Research Institute, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+        "PolyU - Wuxi Technology and Innovation Research Institute, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Yingyi",
+        "short_name": "Huang Y",
+        "identifiers": [
+          "0009-0004-5486-0441"
+        ],
+        "affiliations": [
+          "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+          "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiang",
+        "short_name": "Liu X",
+        "identifiers": [
+          "0009-0005-8644-5696"
+        ],
+        "affiliations": [
+          "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+          "Section for Cell Biology and Physiology, Department of Biology, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Fan, Guangyi",
+        "short_name": "Fan G",
+        "identifiers": [
+          "0000-0001-7365-1590"
+        ],
+        "affiliations": [
+          "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+          "Qingdao Key Laboratory of Marine Genomics, BGI Research, Qingdao, China.",
+          "State Key Laboratory of Genome and Multi-omics Technologies, BGI Research, Shenzhen, China.",
+          "Shenzhen Key Laboratory of Marine Biology Genomics, BGI Research, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Guiyi",
+        "short_name": "Gong G",
+        "identifiers": [
+          "0000-0002-6495-0545"
+        ],
+        "affiliations": [
+          "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+          "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+          "PolyU - Wuxi Technology and Innovation Research Institute, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Lee, Simon Ming-Yuen",
+        "short_name": "Lee SM",
+        "identifiers": [
+          "0000-0002-3966-6569"
+        ],
+        "affiliations": [
+          "Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+          "PolyU-BGI Joint Research Centre for Genomics and Synthetic Biology in Global Ocean Resources, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China.",
+          "PolyU - Wuxi Technology and Innovation Research Institute, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "British journal of pharmacology"
+    ],
+    "journal_abbrev": [
+      "Br J Pharmacol"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 23:33",
+    "fetched_at": "2026-09-28 17:46:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42772798",
+      "42475469",
+      "41758996",
+      "40843131",
+      "42510785",
+      "41353326",
+      "39387975",
+      "36254761",
+      "41455555",
+      "41015094",
+      "41719583",
+      "41340267",
+      "36147664",
+      "42391613",
+      "39648853",
+      "35512701",
+      "42411636",
+      "25104936",
+      "42369569",
+      "42618921",
+      "42681526",
+      "42365863",
+      "42582974",
+      "35664232",
+      "41340194",
+      "42007493",
+      "30018554",
+      "42411279",
+      "42488653",
+      "42131894",
+      "42131817",
+      "42309184",
+      "42267182",
+      "41608446",
+      "42074532",
+      "41287580",
+      "37181659",
+      "40200175",
+      "41465249",
+      "42264431",
+      "42278544",
+      "40768639",
+      "40797190",
+      "38867230",
+      "37189441",
+      "40119776",
+      "42402308",
+      "41314529",
+      "42229097",
+      "22497524",
+      "31151179",
+      "41481687",
+      "42511496",
+      "39265553",
+      "26294375",
+      "40616092",
+      "41684520",
+      "37914553",
+      "41169094",
+      "26219659",
+      "33975634",
+      "41942920",
+      "42687187",
+      "41958929",
+      "39980637",
+      "41108536",
+      "41972735",
+      "40522262",
+      "35692845",
+      "42387422",
+      "41138018",
+      "41612311",
+      "41094746",
+      "42162410",
+      "42220722",
+      "42125272",
+      "42773353",
+      "41796996",
+      "38773973",
+      "40122628",
+      "42180952",
+      "25520658",
+      "41101315",
+      "41948100",
+      "40502298",
+      "37851522",
+      "42676473",
+      "38127088",
+      "29173171",
+      "39862439",
+      "42214504",
+      "40735115",
+      "32544542",
+      "37288247",
+      "36880749",
+      "41372157",
+      "40390022",
+      "42625987",
+      "42377616",
+      "32534107"
+    ],
+    "review": [
+      "42772798",
+      "41758996",
+      "40843131",
+      "42510785",
+      "41353326",
+      "39387975",
+      "36254761",
+      "41455555",
+      "41015094",
+      "41340267",
+      "36147664",
+      "42391613",
+      "39648853",
+      "42411636",
+      "25104936",
+      "42369569",
+      "42618921",
+      "42681526",
+      "42365863",
+      "42582974",
+      "35664232",
+      "30018554",
+      "42131817",
+      "42309184",
+      "42267182",
+      "41608446",
+      "42074532",
+      "37181659",
+      "40200175",
+      "41465249",
+      "42264431",
+      "42278544",
+      "40768639",
+      "38867230",
+      "40119776",
+      "42402308",
+      "41314529",
+      "42229097",
+      "22497524",
+      "31151179",
+      "41481687",
+      "42511496",
+      "39265553",
+      "26294375",
+      "37914553",
+      "41169094",
+      "26219659",
+      "41942920",
+      "42687187",
+      "41958929",
+      "39980637",
+      "41108536",
+      "40522262",
+      "42387422",
+      "41138018",
+      "41094746",
+      "42220722",
+      "42125272",
+      "42773353",
+      "38773973",
+      "40122628",
+      "25520658",
+      "42676473",
+      "29173171",
+      "42214504",
+      "40735115",
+      "32544542",
+      "42625987",
+      "42377616"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/bph.70662",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "identity": {
+    "pmid": "42801698",
+    "doi": "10.1002/advs.77883",
+    "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication."
+  },
+  "content": {
+    "abstract": "Influenza A virus (IAV) commandeers host transcriptional machinery to replicate, but mechanisms remain elusive. CRISPR screen identifies PARP1 as a proviral factor that binds viral NS1. ATAC‑seq reveals IAV drives PARP1‑dependent chromatin remodeling at promoter‑proximal regions (-100 to +300 bp), linking PARP1 to viral RNA synthesis. Mechanistically, NS1 engages PARP1's helical domain (HD), which alone forms large, irregular condensates with low fluidity, acting as a built‑in rheostat. HD deletion confers high droplet mobility, whereas NS1 binding locks PARP1 into a hyper‑condensed, gel‑like state. This phase transition traps Pol II in prolonged pause by enriching pausing factors (SPT5(‑PLD), NELFA, NELFE) and excluding release factors (SPT5(‑PRD), AFF4). The paused environment is hijacked for efficient cap‑snatching and viral RNA synthesis. This proviral activity is independent of PARP1's polymerase activity, revealing a non‑canonical mechanism that complements recent reports of PARP1‑mediated antiviral ADP‑ribosylation. Targeting this phase transition, we identify tectochrysin (TEC) and isoferulic acid (IFA), which restore fluidity, reverse pausing, and suppress IAV in mice and lung organoids without toxicity. Our work establishes that NS1 coopts PARP1 phase separation via the HD rheostat to prolong transcriptional pausing, introducing 'phase transition correction' as an antiviral paradigm.",
+    "keywords": [
+      "biology",
+      "cell biology",
+      "chromatin",
+      "chromatin remodeling",
+      "influenza A virus",
+      "parp1",
+      "polymerase",
+      "rna polymerase ii"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ma, Shufeng",
+        "Kang, Changyuan",
+        "Liu, Xixian",
+        "Yang, Lichao",
+        "Li, Mengyi",
+        "Ye, Yuting",
+        "Zhang, Jianfang",
+        "Li, Yingjun",
+        "Jin, Guanghui",
+        "Liu, Yang",
+        "Chen, Xiaohong",
+        "Wang, Kexin",
+        "Yang, Zifeng"
+      ],
+      "short_names": [
+        "Ma S",
+        "Kang C",
+        "Liu X",
+        "Yang L",
+        "Li M",
+        "Ye Y",
+        "Zhang J",
+        "Li Y",
+        "Jin G",
+        "Liu Y",
+        "Chen X",
+        "Wang K",
+        "Yang Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5903-1501",
+        "ORCID: 0009-0008-7380-2107",
+        "ORCID: 0009-0006-8240-4798",
+        "ORCID: 0000-0001-8237-0918"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou, China.",
+        "Guangzhou Key Laboratory for Clinical Rapid Diagnosis and Early Warning of Infectious Diseases, KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, China.",
+        "Engineering Technology Research Center of Intelligent Diagnosis for Infectious Diseases in Guangdong Province, Guangzhou, China.",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, China.",
+        "Macao Institute of Systems Engineering, Macao University of Science and Technology, Macau SAR, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ma, Shufeng",
+        "short_name": "Ma S",
+        "identifiers": [
+          "0000-0002-5903-1501"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Kang, Changyuan",
+        "short_name": "Kang C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+          "Guangzhou National Laboratory, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xixian",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Lichao",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Mengyi",
+        "short_name": "Li M",
+        "identifiers": [
+          "0009-0008-7380-2107"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+          "Guangzhou National Laboratory, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Yuting",
+        "short_name": "Ye Y",
+        "identifiers": [
+          "0009-0006-8240-4798"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jianfang",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yingjun",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Guanghui",
+        "short_name": "Jin G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaohong",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+          "Guangzhou National Laboratory, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Kexin",
+        "short_name": "Wang K",
+        "identifiers": [
+          "0000-0001-8237-0918"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+          "Guangzhou National Laboratory, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zifeng",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+          "Guangzhou National Laboratory, Guangzhou, China.",
+          "Guangzhou Key Laboratory for Clinical Rapid Diagnosis and Early Warning of Infectious Diseases, KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, China.",
+          "Engineering Technology Research Center of Intelligent Diagnosis for Infectious Diseases in Guangdong Province, Guangzhou, China.",
+          "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, China.",
+          "Macao Institute of Systems Engineering, Macao University of Science and Technology, Macau SAR, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Sep 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 17:31",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42801698",
+      "24899174",
+      "36291070",
+      "33408177",
+      "36189352",
+      "27807230",
+      "30651364",
+      "34488451",
+      "38629840",
+      "42505341",
+      "34610835",
+      "40220413",
+      "38563748",
+      "37190069",
+      "31915279",
+      "30429226",
+      "28637750",
+      "36206739",
+      "36629390",
+      "40145735",
+      "39823345",
+      "24829357",
+      "30545063",
+      "37095508",
+      "31015836",
+      "24458510",
+      "41294327",
+      "25589657",
+      "37517697",
+      "30777121",
+      "23853584",
+      "40052960",
+      "27535054",
+      "35746676",
+      "32677963",
+      "41415435",
+      "37166301",
+      "29563291",
+      "35033970",
+      "29513570",
+      "41061927",
+      "42235715",
+      "38166085",
+      "34311580",
+      "42126233",
+      "29587792",
+      "30209172",
+      "28250123",
+      "40910953",
+      "40919898",
+      "33281788",
+      "32321802",
+      "38375361",
+      "27664935",
+      "27869202",
+      "30822217",
+      "40503899",
+      "16933365",
+      "40693041",
+      "28768860",
+      "37196902",
+      "40313774",
+      "32656996",
+      "41407686",
+      "36146833",
+      "42065594",
+      "31470040",
+      "35558132",
+      "31375595",
+      "25903337",
+      "29921878",
+      "27099314",
+      "31921042",
+      "34068322",
+      "27654951",
+      "31694949",
+      "33087462",
+      "32839537",
+      "35867415",
+      "38498560",
+      "42294629",
+      "42294954",
+      "39384042",
+      "29174978",
+      "34578340",
+      "28213523",
+      "34534457",
+      "28515301",
+      "26223635",
+      "30258002",
+      "39345583",
+      "42496117",
+      "42423758",
+      "23405236",
+      "41773859",
+      "42700929",
+      "35937688",
+      "34379499",
+      "32024921",
+      "25540362"
+    ],
+    "review": [
+      "42801698",
+      "30545063",
+      "38375361",
+      "16933365",
+      "32656996",
+      "36146833",
+      "42423758"
+    ],
+    "pmc": [
+      "13616264"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-999",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

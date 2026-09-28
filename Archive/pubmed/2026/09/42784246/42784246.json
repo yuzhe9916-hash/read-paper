@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "42784246",
+    "doi": "10.1021/acssensors.6c02424",
+    "title": "Machine Learning-Assisted Multiplex Profiling of Plasma-Derived Exosomal miRNAs for Alzheimer's Disease Classification."
+  },
+  "content": {
+    "abstract": "Accurate diagnosis of Alzheimer's disease (AD) remains challenging due to its multifactorial nature and the limitations of current diagnostic methods. Exosome-derived microRNAs (miRNAs) have emerged as promising minimally invasive biomarkers, owing to their stability in peripheral biofluids and their ability to reflect molecular alterations associated with neurodegeneration. In this work, we report an ORCA-Cas assay that integrates a one-pot ligation/rolling circle amplification step with a subsequent CRISPR/Cas12a detection step for the sensitive and specific detection of AD-associated exosomal miRNAs in plasma samples. Four candidate miRNAs (miR-16-5p, miR-23a-5p, miR-574-5p, and miR-361-5p) were evaluated in plasma-derived exosomes from AD patients and healthy controls using both RT-qPCR and ORCA-Cas platforms. In an independent cohort (n = 27 per group), individual miRNAs exhibited modest discriminative performance, highlighting the need for multivariate integration. A random forest model was subsequently employed to integrate signals from the four-miRNA panel, achieving an area under the curve (AUC) of 0.877 with RT-qPCR data and an AUC of 0.923 with ORCA-Cas-derived data. These results demonstrate that combining amplification-assisted CRISPR-based miRNA detection with multivariate modeling improves the diagnostic utility of plasma-derived exosomal miRNA profiles. The ORCA-Cas assay provides a simple, multiplex-capable, and sensitive platform that supports a multi-marker profiling strategy for plasma-based AD molecular profiling and classification.",
+    "keywords": [
+      "Alzheimer's disease",
+      "machine learning",
+      "microRNAs",
+      "multivariate analysis",
+      "one-pot RCA",
+      "random forest"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jeong, Yeonwoo",
+        "Kim, Jinyoung",
+        "Lee, Jina",
+        "Son, Seong Uk",
+        "Kang, Taejoon",
+        "Jung, Juyeon",
+        "Park, Joseph",
+        "Moon, Minho",
+        "Kim, Eunjung",
+        "Lim, Eun-Kyung"
+      ],
+      "short_names": [
+        "Jeong Y",
+        "Kim J",
+        "Lee J",
+        "Son SU",
+        "Kang T",
+        "Jung J",
+        "Park J",
+        "Moon M",
+        "Kim E",
+        "Lim EK"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5387-6458",
+        "ORCID: 0000-0002-8140-5928",
+        "ORCID: 0000-0001-9579-9414",
+        "ORCID: 0000-0003-2793-3700"
+      ],
+      "affiliations": [
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+        "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+        "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+        "Graduate School of Medical Science and Engineering , KAIST, Daejeon34051, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+        "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea.",
+        "School of Pharmacy, Sungkyunkwan University, Suwon16419, Republic of Korea.",
+        "Genetics and Aging Research Unit, McCance Center for Brain Health, Mass General Institute for Neurodegenerative Disease, Department of Neurology, Massachusetts General Hospital and Harvard Medical School, 114 16th Street, Charlestown, Massachusetts02129, United States.",
+        "Department of Biochemistry, College of Medicine, Konyang University, Daejeon35365, Republic of Korea.",
+        "Department of Bioengineering & Nano-Bioengineering, Research Center for Bio Materials and Process Development, Incheon National University, Incheon22012, Republic of Korea.",
+        "Division of Bioengineering, Incheon National University, Incheon22012, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+        "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea.",
+        "School of Pharmacy, Sungkyunkwan University, Suwon16419, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jeong, Yeonwoo",
+        "short_name": "Jeong Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Jinyoung",
+        "short_name": "Kim J",
+        "identifiers": [],
+        "affiliations": [
+          "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Jina",
+        "short_name": "Lee J",
+        "identifiers": [],
+        "affiliations": [
+          "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+          "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Son, Seong Uk",
+        "short_name": "Son SU",
+        "identifiers": [],
+        "affiliations": [
+          "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+          "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kang, Taejoon",
+        "short_name": "Kang T",
+        "identifiers": [
+          "0000-0002-5387-6458"
+        ],
+        "affiliations": [
+          "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+          "Graduate School of Medical Science and Engineering , KAIST, Daejeon34051, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jung, Juyeon",
+        "short_name": "Jung J",
+        "identifiers": [],
+        "affiliations": [
+          "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+          "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea.",
+          "School of Pharmacy, Sungkyunkwan University, Suwon16419, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Joseph",
+        "short_name": "Park J",
+        "identifiers": [],
+        "affiliations": [
+          "Genetics and Aging Research Unit, McCance Center for Brain Health, Mass General Institute for Neurodegenerative Disease, Department of Neurology, Massachusetts General Hospital and Harvard Medical School, 114 16th Street, Charlestown, Massachusetts02129, United States."
+        ]
+      },
+      {
+        "full_name": "Moon, Minho",
+        "short_name": "Moon M",
+        "identifiers": [
+          "0000-0002-8140-5928"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, College of Medicine, Konyang University, Daejeon35365, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Eunjung",
+        "short_name": "Kim E",
+        "identifiers": [
+          "0000-0001-9579-9414"
+        ],
+        "affiliations": [
+          "Department of Bioengineering & Nano-Bioengineering, Research Center for Bio Materials and Process Development, Incheon National University, Incheon22012, Republic of Korea.",
+          "Division of Bioengineering, Incheon National University, Incheon22012, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Eun-Kyung",
+        "short_name": "Lim EK",
+        "identifiers": [
+          "0000-0003-2793-3700"
+        ],
+        "affiliations": [
+          "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon34141, Republic of Korea.",
+          "Department of Nanobiotechnology, KRIBB School, University of Science and Technology (UST), 125 Gwahak-ro, Yuseong-gu, Daejeon34113, Republic of Korea.",
+          "School of Pharmacy, Sungkyunkwan University, Suwon16419, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42784246",
+      "41508022",
+      "42010706",
+      "42057041",
+      "42669262",
+      "41444408",
+      "38195609",
+      "41146060",
+      "40081350",
+      "41270284",
+      "39273436",
+      "27264337",
+      "41136515",
+      "34861847",
+      "40766177",
+      "37961387",
+      "40948741",
+      "40547480",
+      "41969470",
+      "42120650",
+      "42481967",
+      "39080630",
+      "33629272",
+      "26426747",
+      "42415080",
+      "41828067",
+      "38805151",
+      "40869073",
+      "35585716",
+      "40319190",
+      "27631879",
+      "42261770",
+      "42113045",
+      "35659970",
+      "30983818",
+      "31146974",
+      "42658038",
+      "42643339",
+      "38407050",
+      "41393285",
+      "39511689",
+      "38320350",
+      "37663759",
+      "33083454",
+      "29557526",
+      "37496029",
+      "41501788",
+      "33278902",
+      "28606918",
+      "42577108",
+      "30142940",
+      "40235889",
+      "38340050",
+      "41486993",
+      "36992332",
+      "33781255",
+      "31411334",
+      "23756108",
+      "32073597",
+      "37705067",
+      "33072545",
+      "36591520",
+      "32508877",
+      "38618193",
+      "42387451",
+      "40046438",
+      "31856390",
+      "33152726",
+      "28055956",
+      "39169938",
+      "31809862",
+      "31089750",
+      "41311765",
+      "42063169",
+      "42128889",
+      "41789624",
+      "39548655",
+      "31592314",
+      "40025576",
+      "37834197",
+      "41160457",
+      "40499459",
+      "38297404",
+      "42474555",
+      "34839044",
+      "37537685",
+      "33910598",
+      "40974028",
+      "42389429",
+      "32271158",
+      "38003583",
+      "34890883",
+      "32441313",
+      "41463038",
+      "34332589",
+      "24705249",
+      "42706366",
+      "34337736",
+      "41451087",
+      "33664577"
+    ],
+    "review": [
+      "42784246",
+      "27264337",
+      "41486993"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c02424",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

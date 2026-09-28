@@ -1,0 +1,353 @@
+{
+  "identity": {
+    "pmid": "42777084",
+    "doi": "10.1126/scitranslmed.aea5653",
+    "title": "SCRMP-mediated SUMOylation of CSNK2B facilitates DNA damage repair to promote cisplatin resistance in small cell lung cancer."
+  },
+  "content": {
+    "abstract": "Small cell lung cancer (SCLC) represents the most lethal subtype of lung carcinoma. Platinum-based agents, such as cisplatin and carboplatin, remain the cornerstone of first-line therapy for patients with SCLC, whether administered as chemotherapy alone or in combination with immunotherapy. However, patients frequently develop platinum resistance within a short time frame, leading to therapeutic failure. The molecular mechanisms underlying platinum resistance in SCLC require further investigation, given that effective intervention strategies remain elusive. Through multiomic analysis integrating transcriptomic data from cisplatin-resistant PDX tissues and the IMpower133 SCLC cohort study and translatomic data from SCLC cells, we identified a platinum resistance-associated noncanonical open reading frame derived from MIR7-3HG. This noncanonical ORF encodes an unannotated 128-amino acid protein, designated SCRMP (SCLC cisplatin resistance-associated microprotein). SCRMP was up-regulated in cisplatin-resistant SCLC tissues and cell lines, and its elevated expression strongly correlated with impaired platinum response and unfavorable survival outcomes in patients. CRISPR-Cas9-mediated SCRMP knockout restored cisplatin sensitivity and promoted apoptosis in SCLC cells, platinum-resistant patient-derived organoids in vitro, and patient-derived xenografts in vivo. Mechanistically, SCRMP potentiated platinum resistance by mediating SUMOylation and nuclear translocation of CSNK2B, which stabilized the RBBP4-p300 complex. This stabilization activated transcription of RAD51C and associated DNA damage repair genes through histone acetylation, ultimately promoting therapeutic resistance. Our study systematically elucidates the biological function of SCRMP in SCLC platinum resistance and delineates its specific molecular mechanism in regulating DNA damage repair, thereby providing theoretical foundations and potential intervention strategies for overcoming platinum resistance in SCLC.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Cisplatin/pharmacology/therapeutic use",
+      "Humans",
+      "*Drug Resistance, Neoplasm/drug effects/genetics",
+      "*Lung Neoplasms/drug therapy/genetics/pathology/metabolism",
+      "*Small Cell Lung Carcinoma/drug therapy/genetics/pathology/metabolism",
+      "Cell Line, Tumor",
+      "*DNA Repair/drug effects/genetics",
+      "Animals",
+      "*Sumoylation/drug effects",
+      "DNA Damage",
+      "*Casein Kinase II/metabolism",
+      "Micropeptides",
+      "Apoptosis/drug effects",
+      "Gene Expression Regulation, Neoplastic/drug effects",
+      "Mice"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Yuli",
+        "Chen, Qinnan",
+        "Guo, Jiahao",
+        "Li, Ziwei",
+        "Yu, Shaokun",
+        "Huang, Peng",
+        "Ke, Xiao",
+        "Shi, Xuefei",
+        "Sun, Ming",
+        "Nie, Fengqi",
+        "Liu, Xianghua"
+      ],
+      "short_names": [
+        "Chen Y",
+        "Chen Q",
+        "Guo J",
+        "Li Z",
+        "Yu S",
+        "Huang P",
+        "Ke X",
+        "Shi X",
+        "Sun M",
+        "Nie F",
+        "Liu X"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7095-6479",
+        "ORCID: 0009-0000-3811-6525",
+        "ORCID: 0000-0003-0402-6622",
+        "ORCID: 0009-0000-3142-2896",
+        "ORCID: 0000-0002-8065-1887",
+        "ORCID: 0000-0002-1173-2288",
+        "ORCID: 0009-0007-3080-9109",
+        "ORCID: 0000-0002-6634-6077"
+      ],
+      "affiliations": [
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Department of Transfusion Medicine, Key Laboratory of Jiangxi Province for Transfusion Medicine, First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi Province, China.",
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Huzhou Centre Hospital, Affiliated Centre Hospital Huzhou University, Huzhou, Zhejiang Province, China.",
+        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+        "Department of Oncology, Second Affiliated Hospital, Nanjing Medical University, Nanjing, Jiangsu Province, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Nanjing Medical University, Nanjing, Jiangsu Province, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Yuli",
+        "short_name": "Chen Y",
+        "identifiers": [
+          "0000-0001-7095-6479"
+        ],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
+          "Department of Transfusion Medicine, Key Laboratory of Jiangxi Province for Transfusion Medicine, First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi Province, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Qinnan",
+        "short_name": "Chen Q",
+        "identifiers": [
+          "0009-0000-3811-6525"
+        ],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jiahao",
+        "short_name": "Guo J",
+        "identifiers": [
+          "0000-0003-0402-6622"
+        ],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ziwei",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0009-0000-3142-2896"
+        ],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Shaokun",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Peng",
+        "short_name": "Huang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Ke, Xiao",
+        "short_name": "Ke X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Xuefei",
+        "short_name": "Shi X",
+        "identifiers": [
+          "0000-0002-8065-1887"
+        ],
+        "affiliations": [
+          "Huzhou Centre Hospital, Affiliated Centre Hospital Huzhou University, Huzhou, Zhejiang Province, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Ming",
+        "short_name": "Sun M",
+        "identifiers": [
+          "0000-0002-1173-2288"
+        ],
+        "affiliations": [
+          "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Nie, Fengqi",
+        "short_name": "Nie F",
+        "identifiers": [
+          "0009-0007-3080-9109"
+        ],
+        "affiliations": [
+          "Department of Oncology, Second Affiliated Hospital, Nanjing Medical University, Nanjing, Jiangsu Province, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xianghua",
+        "short_name": "Liu X",
+        "identifiers": [
+          "0000-0002-6634-6077"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Nanjing Medical University, Nanjing, Jiangsu Province, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science translational medicine"
+    ],
+    "journal_abbrev": [
+      "Sci Transl Med"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 17:37",
+    "fetched_at": "2026-09-28 17:46:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42777084",
+      "39478582",
+      "41946708",
+      "41869709",
+      "32424979",
+      "28212573",
+      "42472515",
+      "40767383",
+      "41272697",
+      "25124282",
+      "41252101",
+      "29138515",
+      "33408251",
+      "20700484",
+      "31959735",
+      "40127738",
+      "39927878",
+      "40620228",
+      "20809122",
+      "41614410",
+      "32457468",
+      "7585500",
+      "25880778",
+      "40114214",
+      "42001853",
+      "30443189",
+      "42056557",
+      "29768183",
+      "33495408",
+      "39612011",
+      "40155472",
+      "31417239",
+      "32229158",
+      "28977798",
+      "41838988",
+      "20682643",
+      "24041618",
+      "30614795",
+      "42414273",
+      "27610620",
+      "41833771",
+      "37098540",
+      "27559850",
+      "41071625",
+      "39043968",
+      "25476899",
+      "31037158",
+      "39960727",
+      "37725585",
+      "28698200",
+      "41764940",
+      "28746345",
+      "40369444",
+      "30508513",
+      "30771522",
+      "31692299",
+      "10815935",
+      "41222788",
+      "41276109",
+      "42063179",
+      "36045598",
+      "28260065",
+      "41997449",
+      "27142472",
+      "29208667",
+      "37189142",
+      "40152390",
+      "40083924",
+      "20371173",
+      "30825105",
+      "32854746",
+      "42104213",
+      "33632300",
+      "40242936",
+      "19823076",
+      "29437792",
+      "42209453",
+      "34758859",
+      "28074905",
+      "40613783",
+      "42328450",
+      "27101199",
+      "40415347",
+      "8646677",
+      "26482648",
+      "39501557",
+      "28024697",
+      "38697461",
+      "28423588",
+      "30674387",
+      "32586373",
+      "35165102",
+      "39080761",
+      "33320980",
+      "36627670",
+      "21731696",
+      "32457423",
+      "35917883",
+      "38159843",
+      "39910394"
+    ],
+    "review": [
+      "42777084",
+      "41869709",
+      "42104213"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/scitranslmed.aea5653?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-RAD51C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-3250",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

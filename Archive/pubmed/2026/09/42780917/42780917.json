@@ -1,0 +1,393 @@
+{
+  "identity": {
+    "pmid": "42780917",
+    "doi": "10.1016/j.omtn.2026.103084",
+    "title": "Cas12a chRDNA-mediated in vivo genome editing for high specificity functional gene disruption."
+  },
+  "content": {
+    "abstract": "CRISPR hybrid guides containing a combination of RNA and DNA nucleotides (CRISPR hybrid RNA-DNA or chRDNA) enhance both Cas9 and Cas12a nuclease specificity and reduce off-target editing in vitro. CRISPR-Cas9 with all-RNA crRNA guides has been implemented for in vivo intervention of familial hypercholesterolemia, an inherited autosomal dominant disorder exhibiting high circulating low-density lipoprotein cholesterol, and transthyretin amyloidosis, a progressive life-threatening disease characterized by accumulation of misfolded transthyretin protein leading to neurodegeneration or cardiomyopathy. We targeted three clinically validated genes, Pcsk9, Angptl3, and Ttr, that address these indications using our Cas12a chRDNA genome-editing technology delivered in lipid nanoparticles (LNP). A single intravenous dose of LNP-encapsulated Cas12a mRNA with a chRDNA guide led to high editing efficiencies without detectable off-target editing, corresponding with near-complete reduction of all three targeted plasma proteins in wild-type mice. Additionally, Pcsk9 and Angptl3 knockouts were accompanied by reductions of plasma cholesterol. No liver toxicity, chronic cytokine release, off-target editing, or on-target editing in non-hepatic tissue was observed in rodents administered high doses. We propose that LNP-delivered Cas12a mRNA and chRDNA is a safe, highly specific, and powerful tool for genome editing in vivo.",
+    "keywords": [
+      "CRISPR",
+      "Cas12a",
+      "LNP",
+      "MT: RNA/DNA editing",
+      "chRDNA",
+      "gene correction",
+      "genome editing",
+      "lipid nanoparticle",
+      "liver"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Losa, Marta",
+        "Rajmane, Prachi",
+        "Stanaway, Morena",
+        "Coons, Mary",
+        "Munoz, Antonio",
+        "Garish, Vaibhavi",
+        "Tan, Brandon",
+        "Thompson, Matt",
+        "Gonzalez, Rachel",
+        "Churchward, Glen",
+        "Owen, Arthur L G",
+        "Taylor, Jack",
+        "An, Zili",
+        "Donohoue, Paul D",
+        "Gradia, Scott",
+        "Rahdar, Meghdad",
+        "Kanner, Steven B"
+      ],
+      "short_names": [
+        "Losa M",
+        "Rajmane P",
+        "Stanaway M",
+        "Coons M",
+        "Munoz A",
+        "Garish V",
+        "Tan B",
+        "Thompson M",
+        "Gonzalez R",
+        "Churchward G",
+        "Owen ALG",
+        "Taylor J",
+        "An Z",
+        "Donohoue PD",
+        "Gradia S",
+        "Rahdar M",
+        "Kanner SB"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA.",
+        "Caribou Biosciences, Berkeley, CA 94710, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Losa, Marta",
+        "short_name": "Losa M",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Rajmane, Prachi",
+        "short_name": "Rajmane P",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Stanaway, Morena",
+        "short_name": "Stanaway M",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Coons, Mary",
+        "short_name": "Coons M",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Munoz, Antonio",
+        "short_name": "Munoz A",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Garish, Vaibhavi",
+        "short_name": "Garish V",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Tan, Brandon",
+        "short_name": "Tan B",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Thompson, Matt",
+        "short_name": "Thompson M",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Gonzalez, Rachel",
+        "short_name": "Gonzalez R",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Churchward, Glen",
+        "short_name": "Churchward G",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Owen, Arthur L G",
+        "short_name": "Owen ALG",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Taylor, Jack",
+        "short_name": "Taylor J",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "An, Zili",
+        "short_name": "An Z",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Donohoue, Paul D",
+        "short_name": "Donohoue PD",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Gradia, Scott",
+        "short_name": "Gradia S",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Rahdar, Meghdad",
+        "short_name": "Rahdar M",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      },
+      {
+        "full_name": "Kanner, Steven B",
+        "short_name": "Kanner SB",
+        "identifiers": [],
+        "affiliations": [
+          "Caribou Biosciences, Berkeley, CA 94710, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy. Nucleic acids"
+    ],
+    "journal_abbrev": [
+      "Mol Ther Nucleic Acids"
+    ],
+    "pub_date": "2026 Dec 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 17:31",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42780917",
+      "33649229",
+      "38325664",
+      "34478654",
+      "42080223",
+      "35505967",
+      "29490262",
+      "32843348",
+      "30646909",
+      "34215024",
+      "32490205",
+      "40834922",
+      "39385468",
+      "35174354",
+      "38014175",
+      "29972722",
+      "30582653",
+      "41678668",
+      "36272994",
+      "38714643",
+      "30355031",
+      "38272227",
+      "32682455",
+      "41913088",
+      "32161115",
+      "42787623",
+      "33609733",
+      "36537251",
+      "32687187",
+      "31215123",
+      "29019352",
+      "29790280",
+      "41229123",
+      "36596342",
+      "42214710",
+      "40129501",
+      "37083231",
+      "38468087",
+      "35468792",
+      "28851809",
+      "31601489",
+      "38943253",
+      "36793209",
+      "35700449",
+      "36029893",
+      "32760714",
+      "34648747",
+      "35774104",
+      "30635953",
+      "37525893",
+      "40688512",
+      "38402312",
+      "41491255",
+      "35842430",
+      "32712922",
+      "37805309",
+      "33162553",
+      "39971060",
+      "28751571",
+      "31779484",
+      "29183623",
+      "24916110",
+      "30902585",
+      "36374037",
+      "29377001",
+      "35064134",
+      "30231914",
+      "35670376",
+      "37928601",
+      "38483978",
+      "36345805",
+      "39158766",
+      "33718515",
+      "39037068",
+      "31581942",
+      "34948095",
+      "35168613",
+      "40551141",
+      "32183699",
+      "42003881",
+      "30950179",
+      "28431230",
+      "37353840",
+      "36682874",
+      "36314243",
+      "38191764",
+      "33053221",
+      "41411128",
+      "31099553",
+      "41928060",
+      "34159305",
+      "42143446",
+      "31205318",
+      "39415058",
+      "38532881",
+      "39511150",
+      "39023463",
+      "41657308",
+      "31656887",
+      "39766265"
+    ],
+    "review": [
+      "42780917",
+      "35174354",
+      "42787623",
+      "29790280",
+      "37525893",
+      "40688512",
+      "37805309",
+      "36345805"
+    ],
+    "pmc": [
+      "13597880"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2162-2531(26)00255-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42780917/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TTR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3369",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

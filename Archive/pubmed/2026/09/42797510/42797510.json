@@ -1,0 +1,301 @@
+{
+  "identity": {
+    "pmid": "42797510",
+    "doi": "10.3390/ph19091465",
+    "title": "Phage Genomics and Bioinformatics in Therapeutic Development: Evidence Limits, Validation Gates, and Translational Decision-Making."
+  },
+  "content": {
+    "abstract": "Background/Objectives: Antimicrobial resistance has renewed interest in live therapeutic phages, including engineered candidates and defined phage cocktails, as antibacterial strategies. However, clinical translation requires evidence extending beyond phage isolation and computational prediction. This review examines how phage genomics and bioinformatics can support phage-based antibacterial development while remaining aligned with pharmaceutical requirements for safety, quality, pharmacology, and clinical validation. Methods: This narrative review synthesizes the literature on the generation, interpretation, and experimental validation of genomic and bioinformatic evidence for live therapeutic phages. Representative approaches for viral identification, genome-quality assessment, annotation, comparative genomics, lytic-temperate lifestyle classification, host prediction, receptor analysis, antiphage-defence profiling, and artificial-intelligence-assisted prioritization were evaluated according to their outputs, principal failure modes, validation requirements, and supported development decisions. Results: Current tools address distinct analytical tasks. Examples include VIBRANT and geNomad for viral identification, CheckV and PhageTerm for genome-quality and termini assessment, Pharokka, PHANOTATE, and PHROGs for gene prediction and annotation, PhageAI, BACPHLIP, and PhaTYP for lytic-temperate lifestyle prediction, iPHoP and CRISPR spacer matching for host prioritization, and PADLOC and DefenseFinder for bacterial defence profiling. Their outputs differ in taxonomic resolution, reference coverage, training-data dependence, and biological interpretation. The review maps these outputs to proportionate validation requirements while integrating formulation and PK/PD context, sequence-to-product traceability, intellectual-property documentation, minimum-information reporting, and resistance-responsive redesign. Conclusions: This review presents a practical sequence-to-product framework for interpreting contemporary phage-bioinformatics methods. By separating computational discovery from isolate-level activity, product quality, pharmacological evidence, and clinical monitoring, it clarifies the decisions supported at each stage and the additional evidence required before candidate progression, product use, or redesign.",
+    "keywords": [
+      "antibacterial biopharmaceuticals",
+      "bacteriophage therapy",
+      "bioinformatics",
+      "genome-informed risk assessment",
+      "phage cocktails",
+      "phage genomics",
+      "phage-antibiotic combinations",
+      "phage-host prediction",
+      "product quality",
+      "regulatory science"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ang, Mia Yang",
+        "Chen, Li",
+        "Song, Lanni",
+        "Lipovich, Leonard",
+        "Choo, Siew Woh"
+      ],
+      "short_names": [
+        "Ang MY",
+        "Chen L",
+        "Song L",
+        "Lipovich L",
+        "Choo SW"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2709-6754"
+      ],
+      "affiliations": [
+        "Department of Biomedical Sciences, Jeffrey Cheah Sunway Medical School, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Petaling Jaya 47500, Selangor, Malaysia.",
+        "Sunway Microbiome Centre, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Petaling Jaya 47500, Selangor, Malaysia.",
+        "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "Dorothy and George Hennings College of Science, Mathematics and Technology, Kean University, 1000 Morris Ave, Union, NJ 07083, USA.",
+        "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+        "Dorothy and George Hennings College of Science, Mathematics and Technology, Kean University, 1000 Morris Ave, Union, NJ 07083, USA.",
+        "International Frontier Interdisciplinary Research Institute (IFIRI), Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ang, Mia Yang",
+        "short_name": "Ang MY",
+        "identifiers": [
+          "0000-0003-2709-6754"
+        ],
+        "affiliations": [
+          "Department of Biomedical Sciences, Jeffrey Cheah Sunway Medical School, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Petaling Jaya 47500, Selangor, Malaysia.",
+          "Sunway Microbiome Centre, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Petaling Jaya 47500, Selangor, Malaysia.",
+          "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Li",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+          "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China."
+        ]
+      },
+      {
+        "full_name": "Song, Lanni",
+        "short_name": "Song L",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+          "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China."
+        ]
+      },
+      {
+        "full_name": "Lipovich, Leonard",
+        "short_name": "Lipovich L",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+          "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+          "Dorothy and George Hennings College of Science, Mathematics and Technology, Kean University, 1000 Morris Ave, Union, NJ 07083, USA."
+        ]
+      },
+      {
+        "full_name": "Choo, Siew Woh",
+        "short_name": "Choo SW",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang-Malaysia Joint Laboratory for Rare Medicinal Resources, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+          "College of Science, Mathematics and Technology, Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China.",
+          "Dorothy and George Hennings College of Science, Mathematics and Technology, Kean University, 1000 Morris Ave, Union, NJ 07083, USA.",
+          "International Frontier Interdisciplinary Research Institute (IFIRI), Wenzhou-Kean University, 88 Daxue Road, Ouhai, Wenzhou 325060, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmaceuticals (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Pharmaceuticals (Basel)"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42797510",
+      "42475469",
+      "42505598",
+      "42781042",
+      "42681003",
+      "36829156",
+      "42652104",
+      "41654763",
+      "42523128",
+      "42743975",
+      "36321557",
+      "42056573",
+      "42780523",
+      "42402276",
+      "41604108",
+      "34042467",
+      "41909847",
+      "42655686",
+      "36794936",
+      "41223028",
+      "41775076",
+      "42221481",
+      "26269925",
+      "41301629",
+      "42353809",
+      "42737969",
+      "41688419",
+      "42274277",
+      "42653108",
+      "33001599",
+      "42697953",
+      "42355557",
+      "39320317",
+      "42589272",
+      "42399384",
+      "36756618",
+      "42294726",
+      "32132234",
+      "40611420",
+      "41892478",
+      "42687099",
+      "41994271",
+      "42755242",
+      "42628320",
+      "42375884",
+      "27499678",
+      "40739242",
+      "37138257",
+      "20637121",
+      "41909256",
+      "23865498",
+      "42214370",
+      "31492663",
+      "36659812",
+      "41594091",
+      "42704814",
+      "42492189",
+      "42569261",
+      "42142806",
+      "42207801",
+      "38819567",
+      "28257628",
+      "24090466",
+      "41654238",
+      "23074401",
+      "42620601",
+      "42406312",
+      "41709134",
+      "39605506",
+      "36736661",
+      "41939694",
+      "42421846",
+      "33252328",
+      "42650672",
+      "42283824",
+      "35080902",
+      "36346243",
+      "42712021",
+      "36575815",
+      "40759559",
+      "42704951",
+      "40762469",
+      "39264185",
+      "42164832",
+      "32023713",
+      "38309959",
+      "42488416",
+      "33620822",
+      "41750453",
+      "42776794",
+      "42301484",
+      "42777884",
+      "28688779",
+      "41599759",
+      "38935199",
+      "36263478",
+      "42499195",
+      "33036834",
+      "42481850",
+      "39728014"
+    ],
+    "review": [
+      "42797510",
+      "42505598",
+      "42781042",
+      "42652104",
+      "42743975",
+      "36321557",
+      "42780523",
+      "42402276",
+      "42655686",
+      "41301629",
+      "42737969",
+      "41688419",
+      "42653108",
+      "42355557",
+      "42589272",
+      "40611420",
+      "41892478",
+      "41994271",
+      "42628320",
+      "42375884",
+      "41909256",
+      "41594091",
+      "42704814",
+      "42492189",
+      "42569261",
+      "42142806",
+      "36736661",
+      "41939694",
+      "42421846",
+      "33252328",
+      "42283824",
+      "36575815",
+      "40759559",
+      "42704951",
+      "42164832",
+      "42488416",
+      "42776794",
+      "42301484",
+      "42777884",
+      "28688779",
+      "41599759",
+      "36263478",
+      "42499195",
+      "42481850"
+    ],
+    "pmc": [
+      "13610110"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ph19091465",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

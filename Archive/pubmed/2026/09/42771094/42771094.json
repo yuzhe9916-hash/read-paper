@@ -1,0 +1,208 @@
+{
+  "identity": {
+    "pmid": "42771094",
+    "doi": "10.1007/s10522-026-10512-2",
+    "title": "Tissue-specific aging clocks map structured aging-modulatory drug-score patterns across 49 human tissue and cell-line categories."
+  },
+  "content": {
+    "abstract": "Aging clocks are typically trained on pooled multi-tissue data, implicitly assuming that aging is uniform across organs. Here we challenge this assumption by constructing 49 transcriptomic clocks across 47 tissue types and 2 cell-line categories from GTEx v8 (948 unique donors contributing to the retained clock categories) using donor-grouped cross-validation. Clocks achieved a median Pearson r of 0.543 (best: artery aorta, r = 0.855). We identified 10,253 unique clock genes, of which 69.2% appeared in only one tissue; however, null simulation confirmed that this low overlap is the expected consequence of sparse elastic-net selection rather than biological tissue-specificity. We then projected 3,926 LINCS L1000 compound-name entries onto each clock to build a drug x category age-reversal matrix. At a permissive threshold (|score|> 1.0), 94.2% of drugs showed mixed score directions (positive in some categories and negative in others). This permissive mixed-direction proportion was descriptive and did not itself exceed shuffled expectations. Under a more stringent exploratory criterion requiring |score|> 2.0 in at least three categories in each direction, 2.8% of compound entries showed pronounced bidirectional divergence, compared with approximately 0.1% under the shuffled null. Compound rankings remained stable when analysis was restricted to the 34 clocks with r >/= 0.5 (Spearman rho = 0.897 versus the full analysis). A Jaccard-based enrichment statistic yielded highly concordant compound rankings (median per-category Spearman rho = 0.961), indicating that results were not artifacts of the enrichment method. After Benjamini-Hochberg FDR correction across all 192,374 drug-category pairs, only 0.79% reached FDR < 0.05, indicating that individual drug-category calls require caution. Rapamycin showed net pro-aging transcriptional signatures in our system; we explicitly emphasize that transcriptome-based scores and organismal lifespan are distinct endpoints. DepMap CRISPR analysis was repeated after GTEx-based standardization across 13 matched categories, although individual gene-level results were limited. Four statistical robustness tests confirmed model stability. These findings describe category-associated drug-score patterns and provide a tissue-aware resource for generating hypotheses about drug responses, while cautioning against over-interpretation of individual drug-category predictions without experimental validation.",
+    "keywords": [
+      "Aging clock",
+      "Drug heterogeneity",
+      "Drug repurposing",
+      "GTEx",
+      "LINCS L1000",
+      "Tissue-specific"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Aging/genetics/drug effects",
+      "Cell Line",
+      "Organ Specificity",
+      "*Transcriptome",
+      "Gene Expression Profiling",
+      "*Biological Clocks/drug effects/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Dongdong"
+      ],
+      "short_names": [
+        "Zhang D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Wuwei Center for Disease Control and Prevention, Wuwei, Gansu, China. mcmojiepan@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Dongdong",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Wuwei Center for Disease Control and Prevention, Wuwei, Gansu, China. mcmojiepan@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biogerontology"
+    ],
+    "journal_abbrev": [
+      "Biogerontology"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 21:36",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42771094",
+      "42475469",
+      "36321557",
+      "30726003",
+      "41398680",
+      "39365797",
+      "37851522",
+      "42015851",
+      "39754638",
+      "41985071",
+      "40616903",
+      "41766649",
+      "42288737",
+      "33115543",
+      "42385356",
+      "39900928",
+      "41361725",
+      "40764431",
+      "38873396",
+      "40987889",
+      "30348905",
+      "42471918",
+      "35593869",
+      "37924441",
+      "42296381",
+      "41351063",
+      "40533678",
+      "38816550",
+      "38309959",
+      "42723438",
+      "42505084",
+      "39760516",
+      "42419414",
+      "19645703",
+      "41508419",
+      "42649186",
+      "41776309",
+      "41981187",
+      "39780748",
+      "42509463",
+      "34153464",
+      "42749890",
+      "42423867",
+      "41860844",
+      "42633832",
+      "33656257",
+      "42263869",
+      "42147346",
+      "39873648",
+      "42589605",
+      "41010012",
+      "29553663",
+      "42083960",
+      "42459169",
+      "41757196",
+      "39919251",
+      "42449369",
+      "40295347",
+      "42652231",
+      "42650071",
+      "42558488",
+      "42627788",
+      "41390349",
+      "42730677",
+      "33300551",
+      "40708007",
+      "40878446",
+      "34923482",
+      "42380695",
+      "39150724",
+      "42540671",
+      "36190119",
+      "42193012",
+      "39658796",
+      "39392224",
+      "40672508",
+      "26573612",
+      "42739244",
+      "32077223",
+      "31305969",
+      "41656832",
+      "32930491",
+      "38724736",
+      "34655509",
+      "39896546",
+      "37072452",
+      "42496663",
+      "42634656",
+      "36106702",
+      "34190319",
+      "39185250",
+      "39482778",
+      "31044242",
+      "42163256",
+      "41751568",
+      "32996462",
+      "37524436",
+      "41616914",
+      "42381324",
+      "28444394"
+    ],
+    "review": [
+      "42771094",
+      "36321557",
+      "42015851",
+      "38873396",
+      "40533678",
+      "42449369",
+      "39150724",
+      "36106702",
+      "34190319",
+      "41751568"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/olderadulthealth.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Older Adult Health"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10522-026-10512-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "identity": {
+    "pmid": "42771322",
+    "doi": "10.1007/978-1-0716-5547-4_19",
+    "title": "An Electroporation-Based Protocol for Ex Vivo Base Editing: From Design to Quantitative Assessment."
+  },
+  "content": {
+    "abstract": "Base editing is a CRISPR variant approach that enables single-nucleotide conversions without generating double-strand breaks. Cytosine and adenine base editors mediate C*G to T*A and A*T to G*C transitions, respectively, by coupling a deaminase to a catalytically impaired Cas9, a modified nuclease that lacks DNA cleavage activity but retains DNA binding capability. By avoiding double-strand breaks, base editing limits reliance on unpredictable end-joining pathways and facilitates more precise outcomes. This chapter provides a practical protocol for base editing by electroporation in adherent and suspension stem cells. The workflow spans guide design aligned with the editor activity window, in vitro synthesis of mRNA-based editor components, and electroporation for transient delivery. We detail essential steps for cell handling and recovery, followed by standard readouts. Analytical endpoints focus on targeted sequencing to quantify base conversion and assess editing specificity, with guidance for basic interpretation of results. Troubleshooting notes address frequent pitfalls and practical remedies to optimize performance across cell types.",
+    "keywords": [
+      "Base editing",
+      "CRISPR/Cas9",
+      "Electroporation",
+      "Ex vivo Gene Therapy",
+      "Precise editing",
+      "RNA delivery"
+    ],
+    "mesh_terms": [
+      "*Electroporation/methods",
+      "*Gene Editing/methods",
+      "*CRISPR-Cas Systems/genetics",
+      "Humans",
+      "Animals",
+      "RNA, Guide, CRISPR-Cas Systems/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pena-Gutierrez, Irene",
+        "Mazzeo, Davide",
+        "Bassons-Bascunana, Alex",
+        "Haider, Sibtain",
+        "Garcia-Garcia, Laura",
+        "Olalla-Sastre, Beatriz",
+        "Rio, Paula",
+        "Lopez-Manzaneda, Sergio",
+        "Mataix, Manuel"
+      ],
+      "short_names": [
+        "Pena-Gutierrez I",
+        "Mazzeo D",
+        "Bassons-Bascunana A",
+        "Haider S",
+        "Garcia-Garcia L",
+        "Olalla-Sastre B",
+        "Rio P",
+        "Lopez-Manzaneda S",
+        "Mataix M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Biomedical Innovation Unit, Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT), Madrid, 28040, Spain.",
+        "Advanced Therapies Unit, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+        "Biomedical Innovation Unit, Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT), Madrid, 28040, Spain.",
+        "Advanced Therapies Unit, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+        "Regenerative Medicine and Tissue Engineering, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD), 28040, Madrid, Spain.",
+        "Department of Bioengineering, University Carlos III Madrid (UC3M), 28911, Madrid, Spain.",
+        "Institute for Transfusion Medicine and Gene Therapy, Medical Center-University of Freiburg, 79106, Freiburg, Germany.",
+        "Center for Chronic Immunodeficiency (CCI), Medical Center-University of Freiburg, 79106, Freiburg, Germany.",
+        "Biomedical Innovation Unit, Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT), Madrid, 28040, Spain.",
+        "Advanced Therapies Unit, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+        "Biomedical Innovation Unit, Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT), Madrid, 28040, Spain.",
+        "Advanced Therapies Unit, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+        "Biomedical Innovation Unit, Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT), Madrid, 28040, Spain.",
+        "Advanced Therapies Unit, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+        "Biomedical Innovation Unit, Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT), Madrid, 28040, Spain.",
+        "Advanced Therapies Unit, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+        "Regenerative Medicine and Tissue Engineering, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD), 28040, Madrid, Spain.",
+        "Biomedical Innovation Unit, Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT), Madrid, 28040, Spain. manuel.mataix@externos.ciemat.es.",
+        "Advanced Therapies Unit, Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, 28040, Spain. manuel.mataix@externos.ciemat.es.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain. manuel.mataix@externos.ciemat.es."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Peña-Gutierrez, Irene",
+        "short_name": "Peña-Gutierrez I",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, 28040, Spain.",
+          "Advanced Therapies Unit, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain."
+        ]
+      },
+      {
+        "full_name": "Mazzeo, Davide",
+        "short_name": "Mazzeo D",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, 28040, Spain.",
+          "Advanced Therapies Unit, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain."
+        ]
+      },
+      {
+        "full_name": "Bassons-Bascuñana, Alex",
+        "short_name": "Bassons-Bascuñana A",
+        "identifiers": [],
+        "affiliations": [
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+          "Regenerative Medicine and Tissue Engineering, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD), 28040, Madrid, Spain.",
+          "Department of Bioengineering, University Carlos III Madrid (UC3M), 28911, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Haider, Sibtain",
+        "short_name": "Haider S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Transfusion Medicine and Gene Therapy, Medical Center-University of Freiburg, 79106, Freiburg, Germany.",
+          "Center for Chronic Immunodeficiency (CCI), Medical Center-University of Freiburg, 79106, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Garcia-Garcia, Laura",
+        "short_name": "Garcia-Garcia L",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, 28040, Spain.",
+          "Advanced Therapies Unit, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain."
+        ]
+      },
+      {
+        "full_name": "Olalla-Sastre, Beatriz",
+        "short_name": "Olalla-Sastre B",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, 28040, Spain.",
+          "Advanced Therapies Unit, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain."
+        ]
+      },
+      {
+        "full_name": "Río, Paula",
+        "short_name": "Río P",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, 28040, Spain.",
+          "Advanced Therapies Unit, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain."
+        ]
+      },
+      {
+        "full_name": "López-Manzaneda, Sergio",
+        "short_name": "López-Manzaneda S",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, 28040, Spain.",
+          "Advanced Therapies Unit, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD, UAM), Madrid, 28040, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain.",
+          "Regenerative Medicine and Tissue Engineering, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD), 28040, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Mataix, Manuel",
+        "short_name": "Mataix M",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, 28040, Spain. manuel.mataix@externos.ciemat.es.",
+          "Advanced Therapies Unit, Instituto de Investigación Sanitaria Fundación Jiménez Díaz (IIS-FJD, UAM), Madrid, 28040, Spain. manuel.mataix@externos.ciemat.es.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Madrid, 28040, Spain. manuel.mataix@externos.ciemat.es."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 21:36",
+    "fetched_at": "2026-09-28 17:46:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42771322",
+      "42771321",
+      "31433621",
+      "31099553",
+      "40121079",
+      "34748280",
+      "39999224",
+      "42033211",
+      "39499471",
+      "30995964",
+      "33879582",
+      "42758354",
+      "30833658",
+      "32926376",
+      "42612103",
+      "34327897",
+      "32763143",
+      "33462442",
+      "30912044",
+      "39023463",
+      "40944915",
+      "29176845",
+      "40067628",
+      "29483683",
+      "42681183",
+      "40780629",
+      "42000863",
+      "36592308",
+      "32002841",
+      "32384610",
+      "27151215",
+      "42276271",
+      "28585179",
+      "34997407",
+      "29258982",
+      "32872311",
+      "37217751",
+      "38773305",
+      "28351759",
+      "31250381",
+      "36357717",
+      "29555822",
+      "30996586",
+      "39547118",
+      "40593661",
+      "34622618",
+      "27096365",
+      "32859244",
+      "32006416",
+      "30836137",
+      "28751571",
+      "28263886",
+      "36374037",
+      "39585742",
+      "41203686",
+      "39126615",
+      "41404502",
+      "35950852",
+      "32483363",
+      "42581041",
+      "36592311",
+      "31767844",
+      "32899704",
+      "35163069",
+      "36592306",
+      "32807781",
+      "33151638",
+      "39298405",
+      "32944907",
+      "28851809",
+      "29323173",
+      "38261989",
+      "30076383",
+      "30323312",
+      "39579214",
+      "30912039",
+      "41038616",
+      "42487445",
+      "35688932",
+      "35887335",
+      "33972655",
+      "38407798",
+      "33175375",
+      "37686137",
+      "41627753",
+      "34189671",
+      "42486984",
+      "32483364",
+      "40883747",
+      "32163387",
+      "29891532",
+      "35333175",
+      "31341289",
+      "37917075",
+      "36995669",
+      "37922314",
+      "33876959",
+      "32748174",
+      "35608343",
+      "31131955"
+    ],
+    "review": [
+      "42771322",
+      "31433621",
+      "42033211",
+      "30995964",
+      "42758354",
+      "34327897",
+      "32763143",
+      "29483683",
+      "32872311",
+      "39547118",
+      "34622618",
+      "30836137",
+      "41404502",
+      "32899704",
+      "30323312",
+      "41038616",
+      "32163387",
+      "29891532"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5547-4_19",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

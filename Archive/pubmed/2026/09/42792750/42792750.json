@@ -1,0 +1,337 @@
+{
+  "identity": {
+    "pmid": "42792750",
+    "doi": "10.3390/biomedicines14092008",
+    "title": "Programmable RNA-Guided DNA Recombination: Mechanisms, Engineering, and Applications."
+  },
+  "content": {
+    "abstract": "The emergence of seekRNA- and bridgeRNA-guided recombination has introduced a distinct paradigm in genome engineering by coupling programmable RNA-directed DNA recognition with recombinase-mediated insertion, excision, inversion, and genomic rearrangement without canonical double-strand breaks. Since their discovery in 2024, these systems have progressed rapidly from bacterial mobile genetic elements and mechanistic characterization to structural elucidation and programmable genome engineering in human cells. However, these advances remain distributed across foundational and rapidly emerging studies, creating a need for an integrated molecular perspective on their mechanisms, technological development, and position within contemporary genome engineering. This review synthesizes the molecular architecture, RNA-guided recognition, strand-exchange mechanisms, programmability, and engineering of seekRNA and bridgeRNA systems, with particular emphasis on complementary human-cell advances involving ISCro4 and engineered IS621. Whereas ISCro4 systems have enabled multikilobase DNA insertion, genomic excision, and near-megabase inversion, the enIS621-tebRNA platform has enabled scarless kilobase-scale integration across multiple human cell types, including proof-of-concept functional CD19 chimeric antigen receptor and factor IX gene insertion. The review further integrates recent genome-scale bacterial rewriting and Targetable Recombinase Assisted DNA Exchange (TRADE)-mediated DNA replacement, while benchmarking RNA-guided recombination against conventional site-specific recombination, clustered regularly interspaced short palindromic repeats (CRISPR)-based editing, Programmable Addition via Site-specific Targeting Elements (PASTE), CRISPR-associated transposases, and emerging large-payload genome-writing strategies, including kilobase-scale nickase-targeting (KNIT) editing, Prime Assembly, engineered R2 retrotransposons, and TransCRISTI. This comparative framework highlights a broader transition from programmable sequence modification toward direct engineering of genomic architecture, while identifying recognition-site constraints, mismatch-tolerant recombination, unintended recombination products, delivery, and genome-wide specificity as key translational barriers. By integrating foundational mechanisms with recent mammalian engineering, genome-scale bacterial rewriting, large-payload technologies, and emerging computational design strategies, this review provides a contemporary framework for defining the distinctive capabilities, current limitations, and future development of programmable RNA-guided DNA recombination.",
+    "keywords": [
+      "CRISPR-associated transposases",
+      "IS110",
+      "ISCro4",
+      "RNA-guided recombination",
+      "bridge RNA",
+      "bridge recombinase",
+      "double-strand break-independent genome editing",
+      "large-payload genome editing",
+      "programmable genome engineering",
+      "seekRNA",
+      "site-specific recombination"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ali Agha, Ahmed S A",
+        "Hattab, Dima",
+        "Bakhtiar, Athirah",
+        "Al Khatib, Arwa Omar",
+        "Abushahla, Heba Salah",
+        "Alketbi, Salma",
+        "Akour, Amal"
+      ],
+      "short_names": [
+        "Ali Agha ASA",
+        "Hattab D",
+        "Bakhtiar A",
+        "Al Khatib AO",
+        "Abushahla HS",
+        "Alketbi S",
+        "Akour A"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-8516-2313",
+        "ORCID: 0000-0001-6956-8743",
+        "ORCID: 0000-0003-2752-9783",
+        "ORCID: 0000-0001-9445-3315",
+        "ORCID: 0009-0004-8763-2648",
+        "ORCID: 0000-0002-2789-8514"
+      ],
+      "affiliations": [
+        "Pharmacological and Diagnostic Research Centre, Faculty of Pharmacy, Al-Ahliyya Amman University, Amman 19328, Jordan.",
+        "School of Pharmacy, Department of Pharmaceutical Sciences, The University of Jordan, Amman 11942, Jordan.",
+        "School of Pharmacy, Monash University Malaysia, Jalan Lagoon Selatan, Bandar Sunway 47500, Selangor, Malaysia.",
+        "Faculty of Pharmacy, Al-Ahliyya Amman University, Amman 19328, Jordan.",
+        "School of Pharmacy, Department of Pharmaceutical Sciences, The University of Jordan, Amman 11942, Jordan.",
+        "Department of Pharmacology and Therapeutics, College of Medicine and Health Sciences, United Arab Emirates University, Al Ain 15551, United Arab Emirates.",
+        "Department of Pharmacology and Therapeutics, College of Medicine and Health Sciences, United Arab Emirates University, Al Ain 15551, United Arab Emirates.",
+        "Department of Biopharmaceutics and Clinical Pharmacy, School of Pharmacy, The University of Jordan, Amman 11942, Jordan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ali Agha, Ahmed S A",
+        "short_name": "Ali Agha ASA",
+        "identifiers": [
+          "0009-0000-8516-2313"
+        ],
+        "affiliations": [
+          "Pharmacological and Diagnostic Research Centre, Faculty of Pharmacy, Al-Ahliyya Amman University, Amman 19328, Jordan."
+        ]
+      },
+      {
+        "full_name": "Hattab, Dima",
+        "short_name": "Hattab D",
+        "identifiers": [
+          "0000-0001-6956-8743"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Department of Pharmaceutical Sciences, The University of Jordan, Amman 11942, Jordan."
+        ]
+      },
+      {
+        "full_name": "Bakhtiar, Athirah",
+        "short_name": "Bakhtiar A",
+        "identifiers": [
+          "0000-0003-2752-9783"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Monash University Malaysia, Jalan Lagoon Selatan, Bandar Sunway 47500, Selangor, Malaysia."
+        ]
+      },
+      {
+        "full_name": "Al Khatib, Arwa Omar",
+        "short_name": "Al Khatib AO",
+        "identifiers": [
+          "0000-0001-9445-3315"
+        ],
+        "affiliations": [
+          "Faculty of Pharmacy, Al-Ahliyya Amman University, Amman 19328, Jordan."
+        ]
+      },
+      {
+        "full_name": "Abushahla, Heba Salah",
+        "short_name": "Abushahla HS",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Department of Pharmaceutical Sciences, The University of Jordan, Amman 11942, Jordan."
+        ]
+      },
+      {
+        "full_name": "Alketbi, Salma",
+        "short_name": "Alketbi S",
+        "identifiers": [
+          "0009-0004-8763-2648"
+        ],
+        "affiliations": [
+          "Department of Pharmacology and Therapeutics, College of Medicine and Health Sciences, United Arab Emirates University, Al Ain 15551, United Arab Emirates."
+        ]
+      },
+      {
+        "full_name": "Akour, Amal",
+        "short_name": "Akour A",
+        "identifiers": [
+          "0000-0002-2789-8514"
+        ],
+        "affiliations": [
+          "Department of Pharmacology and Therapeutics, College of Medicine and Health Sciences, United Arab Emirates University, Al Ain 15551, United Arab Emirates.",
+          "Department of Biopharmaceutics and Clinical Pharmacy, School of Pharmacy, The University of Jordan, Amman 11942, Jordan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedicines"
+    ],
+    "journal_abbrev": [
+      "Biomedicines"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42792750",
+      "42251048",
+      "41642947",
+      "42173386",
+      "42486986",
+      "42097949",
+      "42475469",
+      "29019352",
+      "40393858",
+      "42706407",
+      "42396174",
+      "42425802",
+      "39086277",
+      "42793032",
+      "42618444",
+      "39579910",
+      "40997214",
+      "38216671",
+      "28375731",
+      "42026979",
+      "42771304",
+      "42761512",
+      "40763736",
+      "26506267",
+      "38379727",
+      "26451892",
+      "42790250",
+      "28613045",
+      "33616439",
+      "26930114",
+      "29862665",
+      "40869944",
+      "31189177",
+      "40342053",
+      "29282799",
+      "24095303",
+      "30894153",
+      "30728669",
+      "42662231",
+      "36209487",
+      "42423795",
+      "33596056",
+      "36424489",
+      "32298553",
+      "40082411",
+      "39789389",
+      "28815851",
+      "39023463",
+      "33170255",
+      "29908711",
+      "41762821",
+      "27145843",
+      "35051352",
+      "42200190",
+      "25698413",
+      "36593413",
+      "38041553",
+      "42212714",
+      "26939437",
+      "33510590",
+      "42587149",
+      "30217854",
+      "38926615",
+      "41820622",
+      "23956122",
+      "39345383",
+      "41585947",
+      "27096365",
+      "30269229",
+      "28550913",
+      "33397707",
+      "27261202",
+      "25497837",
+      "28985502",
+      "23460208",
+      "38328150",
+      "37192099",
+      "42755359",
+      "42766154",
+      "38443218",
+      "25371501",
+      "27366893",
+      "23287718",
+      "26175431",
+      "40887498",
+      "34887556",
+      "36344749",
+      "27594566",
+      "29158838",
+      "25607456",
+      "36895064",
+      "38178650",
+      "41987615",
+      "30003320",
+      "26199327",
+      "24256227",
+      "33230293",
+      "35690588",
+      "29463653",
+      "42128985"
+    ],
+    "review": [
+      "42792750",
+      "42173386",
+      "42097949",
+      "40393858",
+      "42706407",
+      "42396174",
+      "42425802",
+      "42793032",
+      "39579910",
+      "38216671",
+      "28375731",
+      "42026979",
+      "42771304",
+      "42761512",
+      "26506267",
+      "38379727",
+      "42790250",
+      "28613045",
+      "29862665",
+      "40869944",
+      "40342053",
+      "29282799",
+      "30728669",
+      "42662231",
+      "36209487",
+      "42423795",
+      "33596056",
+      "32298553",
+      "28815851",
+      "33170255",
+      "29908711",
+      "41762821",
+      "27145843",
+      "42200190",
+      "25698413",
+      "38041553",
+      "42212714",
+      "26939437",
+      "33510590",
+      "41820622",
+      "41585947",
+      "30269229",
+      "27261202",
+      "28985502",
+      "37192099",
+      "42755359",
+      "42766154",
+      "38443218",
+      "25371501",
+      "40887498",
+      "36344749",
+      "27594566",
+      "29158838",
+      "25607456",
+      "36895064",
+      "41987615",
+      "30003320",
+      "24256227"
+    ],
+    "pmc": [
+      "13604230"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biomedicines14092008",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

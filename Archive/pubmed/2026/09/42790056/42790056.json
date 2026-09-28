@@ -1,0 +1,404 @@
+{
+  "identity": {
+    "pmid": "42790056",
+    "doi": "10.1016/j.talanta.2026.130662",
+    "title": "Programmable nuclease-based biosensors for food safety: Recent advances and perspectives."
+  },
+  "content": {
+    "abstract": "Programmable nucleases are emerging as powerful tools for rapid and sensitive food contaminant detection. This review systematically examines five representative nucleases-Cas9, Cas12, Cas13, Cas14, and CbAgo-with emphasis on their target-recognition mechanisms, signal-transduction pathways, amplification strategies, and readout formats. The distinct analytical strengths of Cas9, Cas12, Cas13, and Cas14 are compared in terms of specificity, collateral cleavage, multiplexing capability, and suitability for nucleic acid and non-nucleic acid targets. Particular attention is given to Cas14 and CbAgo, two less extensively reviewed nucleases with PAM-independent recognition and promising potential for flexible target selection and multiplex sensing. In addition, recent advances in artificial intelligence and machine vision for fluorescence image processing, digital counting, and multiplex quantification are critically discussed. Finally, current challenges and future priorities are outlined, including one-pot integration, signal amplification, assay standardization, miniaturization, and field deployment. This review provides a comparative framework for developing practical programmable nuclease-based food-safety platforms.",
+    "keywords": [
+      "AI",
+      "CRISPR/Cas",
+      "CbAgo",
+      "Food contaminant detection",
+      "Programmable nucleases"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Hongfei",
+        "Yi, Xuan",
+        "Wang, Xingyu",
+        "Wen, Hao",
+        "Zhang, Linwei",
+        "Ding, Mingyue",
+        "Wu, Shixiang",
+        "Wang, Youyi",
+        "Wang, Menghan",
+        "Dong, Lu",
+        "Wang, Xu",
+        "Peng, Dapeng"
+      ],
+      "short_names": [
+        "Yang H",
+        "Yi X",
+        "Wang X",
+        "Wen H",
+        "Zhang L",
+        "Ding M",
+        "Wu S",
+        "Wang Y",
+        "Wang M",
+        "Dong L",
+        "Wang X",
+        "Peng D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China.",
+        "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China.",
+        "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China.",
+        "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China.",
+        "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China.",
+        "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China.",
+        "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China.",
+        "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China.",
+        "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China.",
+        "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China.",
+        "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China.",
+        "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China. Electronic address: pengdapeng@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Hongfei",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yi, Xuan",
+        "short_name": "Yi X",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xingyu",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wen, Hao",
+        "short_name": "Wen H",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Linwei",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ding, Mingyue",
+        "short_name": "Ding M",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wu, Shixiang",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Youyi",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Menghan",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Dong, Lu",
+        "short_name": "Dong L",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xu",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, National Reference Laboratory of Veterinary Drug Residues (HZAU) and MOA Key Laboratory for the Detection of Veterinary Drug Residues, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei Province, 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Peng, Dapeng",
+        "short_name": "Peng D",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Provincial Engineering Research Center of Animal Biological Products, Center for Veterinary Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, People's Republic of China. Electronic address: pengdapeng@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Talanta"
+    ],
+    "journal_abbrev": [
+      "Talanta"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 23:47",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42790056",
+      "42405767",
+      "42650936",
+      "42201448",
+      "42624339",
+      "42671221",
+      "42763182",
+      "40763823",
+      "40409480",
+      "38390187",
+      "41938130",
+      "36290917",
+      "42407157",
+      "40717612",
+      "42007994",
+      "41855975",
+      "36367481",
+      "42585941",
+      "42787684",
+      "39526595",
+      "42475469",
+      "37808520",
+      "42215224",
+      "42008182",
+      "40632760",
+      "42533766",
+      "41606937",
+      "34706599",
+      "37656446",
+      "42526389",
+      "42335835",
+      "37359078",
+      "41876645",
+      "42207849",
+      "40424009",
+      "37102109",
+      "42378111",
+      "42715733",
+      "41299842",
+      "42655688",
+      "42550294",
+      "41796733",
+      "42182021",
+      "42215143",
+      "39324194",
+      "37691410",
+      "42416743",
+      "41271362",
+      "42361473",
+      "42263803",
+      "42700480",
+      "33839288",
+      "37806898",
+      "36360244",
+      "41407085",
+      "42467248",
+      "42702653",
+      "34711321",
+      "32729545",
+      "42263833",
+      "42048928",
+      "36218189",
+      "41525963",
+      "42783141",
+      "32246713",
+      "39307577",
+      "36163606",
+      "41109509",
+      "39456285",
+      "41296365",
+      "42490334",
+      "42655586",
+      "36378103",
+      "41608958",
+      "37214290",
+      "42790644",
+      "33391239",
+      "40311721",
+      "41637804",
+      "42588016",
+      "38081800",
+      "42626210",
+      "41000010",
+      "34359825",
+      "38659323",
+      "39789283",
+      "42554217",
+      "42513036",
+      "36241974",
+      "41803510",
+      "42179772",
+      "39434421",
+      "40987370",
+      "42277912",
+      "42715083",
+      "41932456",
+      "39974464",
+      "40869944",
+      "42217635",
+      "37722240"
+    ],
+    "review": [
+      "42790056",
+      "42405767",
+      "42650936",
+      "42201448",
+      "42624339",
+      "42671221",
+      "42763182",
+      "40763823",
+      "40409480",
+      "38390187",
+      "41938130",
+      "36290917",
+      "42407157",
+      "40717612",
+      "42007994",
+      "41855975",
+      "36367481",
+      "42585941",
+      "42787684",
+      "39526595",
+      "37808520",
+      "42215224",
+      "42008182",
+      "40632760",
+      "42533766",
+      "41606937",
+      "34706599",
+      "37656446",
+      "42526389",
+      "42335835",
+      "37359078",
+      "41876645",
+      "42207849",
+      "40424009",
+      "37102109",
+      "42378111",
+      "42715733",
+      "41299842",
+      "42655688",
+      "42550294",
+      "41796733",
+      "42182021",
+      "42215143",
+      "39324194",
+      "37691410",
+      "42416743",
+      "41271362",
+      "42361473",
+      "42263803",
+      "42700480",
+      "33839288",
+      "36360244",
+      "41407085",
+      "42467248",
+      "42702653",
+      "34711321",
+      "32729545",
+      "42263833",
+      "42048928",
+      "36218189",
+      "41525963",
+      "42783141",
+      "39307577",
+      "36163606",
+      "41109509",
+      "39456285",
+      "41296365",
+      "42490334",
+      "42655586",
+      "41608958",
+      "37214290",
+      "42790644",
+      "40311721",
+      "41637804",
+      "42588016",
+      "42626210",
+      "41000010",
+      "34359825",
+      "38659323",
+      "39789283",
+      "42554217",
+      "42513036",
+      "41803510",
+      "42179772",
+      "39434421",
+      "40987370",
+      "42277912",
+      "41932456",
+      "39974464",
+      "40869944",
+      "42217635",
+      "37722240"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0039-9140(26)01318-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

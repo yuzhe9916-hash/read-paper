@@ -1,0 +1,330 @@
+{
+  "identity": {
+    "pmid": "42779592",
+    "doi": "10.64898/2026.06.17.731637",
+    "title": "Oncohistone inhibition reshapes tumor-microenvironment communication in Diffuse Midline Glioma (DMG)."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Diffuse midline glioma (DMG) is a lethal pediatric brain tumor driven by the H3K27M oncohistone, which disrupts epigenetic regulation and promotes tumor proliferation. While prior studies show that H3K27M is essential for tumor initiation, its role in established tumors, tumor microenvironment (TME) regulation, and therapeutic response remain unclear. METHODS: Here, we developed inducible and reversible H3.3K27M and H3.1K27M cell and mouse models to study oncohistone-dependent effects and the immune/stromal microenvironment. We generated a tetracycline-inducible PiggyBac-based oncohistone expression cassette in patient- and murine-derived models and validated inducible and reversible H3K27M expression. RESULTS: Re-expression of H3K27M in knockout cells induced morphological changes and suppressed astrocytic markers. Chromatin accessibility profiling revealed locus-specific differences between ON, OFF, and OFF-ON, including changes at loci associated with immune regulation and tumor-microenvironment interactions. Single-cell RNA sequencing demonstrated that the oncohistone reshapes the TME. H3K27M expression promotes tumor-neuron interactions, enhances neuronal excitability, excitatory/inhibitory imbalance, and synaptic connectivity that likely supports tumor proliferation. These effects are associated with increased glutamatergic signaling and enhanced tumor-neuron coupling through glutamate transport and receptor pathways, including EAAT1 (SLC1A3) and AMPARs (GRIA3). Conversely, H3K27M inhibition reduces neuronal excitation, disrupts tumor-associated signaling, and partially restores neuron-neuron and neuron-immune communications. These findings identify H3K27M as a key driver of excitatory neuron-to-tumor coupling and immunosuppression in DMG. CONCLUSIONS: Overall, our findings demonstrate that H3K27M extensively reshapes TME in DMG and support direct oncohistone targeting as a potential therapeutic strategy, including potential CRISPR-based or small-molecule approaches for patients with H3K27M-mutant DMG.",
+    "keywords": [
+      "DMG",
+      "Tumor microenvironment",
+      "neuron-glioma interaction",
+      "neuron-neuron interaction",
+      "oncohistone inhibition"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Khairkhah, Niloofar",
+        "Ibrahim, Mostafa M H",
+        "Galban, Sienna L",
+        "Faunce, Megan",
+        "Rober, Lily",
+        "Baker, Carlen",
+        "Doherty, Robert",
+        "Cartaxo, Rodrigo",
+        "Koschmann, Carl",
+        "Zhao, Yue",
+        "Galban, Stefanie"
+      ],
+      "short_names": [
+        "Khairkhah N",
+        "Ibrahim MMH",
+        "Galban SL",
+        "Faunce M",
+        "Rober L",
+        "Baker C",
+        "Doherty R",
+        "Cartaxo R",
+        "Koschmann C",
+        "Zhao Y",
+        "Galban S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0895-9913"
+      ],
+      "affiliations": [
+        "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Center for Molecular Imaging, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Center for Molecular Imaging, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, United States.",
+        "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Department of Pediatrics, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+        "Department of Neurology, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+        "Department of Pediatrics, University of Michigan Medical School, Ann Arbor, Michigan, USA.",
+        "Gilbert S. Omenn Department of Computational Medicine and Bioinformatics, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Department of Surgery, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Center for Molecular Imaging, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+        "Rogel Cancer Center, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Khairkhah, Niloofar",
+        "short_name": "Khairkhah N",
+        "identifiers": [
+          "0000-0003-0895-9913"
+        ],
+        "affiliations": [
+          "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+          "Center for Molecular Imaging, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+        ]
+      },
+      {
+        "full_name": "Ibrahim, Mostafa M H",
+        "short_name": "Ibrahim MMH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+          "Center for Molecular Imaging, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+        ]
+      },
+      {
+        "full_name": "Galban, Sienna L",
+        "short_name": "Galban SL",
+        "identifiers": [],
+        "affiliations": [
+          "Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, United States."
+        ]
+      },
+      {
+        "full_name": "Faunce, Megan",
+        "short_name": "Faunce M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+        ]
+      },
+      {
+        "full_name": "Rober, Lily",
+        "short_name": "Rober L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+        ]
+      },
+      {
+        "full_name": "Baker, Carlen",
+        "short_name": "Baker C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+        ]
+      },
+      {
+        "full_name": "Doherty, Robert",
+        "short_name": "Doherty R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of Michigan Medical School, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Cartaxo, Rodrigo",
+        "short_name": "Cartaxo R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, University of Michigan Medical School, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Koschmann, Carl",
+        "short_name": "Koschmann C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of Michigan Medical School, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yue",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Gilbert S. Omenn Department of Computational Medicine and Bioinformatics, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+        ]
+      },
+      {
+        "full_name": "Galban, Stefanie",
+        "short_name": "Galban S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+          "Department of Surgery, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+          "Center for Molecular Imaging, The University of Michigan Medical School, Ann Arbor, MI 48109, United States.",
+          "Rogel Cancer Center, The University of Michigan Medical School, Ann Arbor, MI 48109, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:05",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779592",
+      "37647805",
+      "35397475",
+      "39253432",
+      "41497590",
+      "42239282",
+      "38594734",
+      "42351295",
+      "40207661",
+      "42594274",
+      "35605606",
+      "35524725",
+      "36403059",
+      "37790517",
+      "38798502",
+      "38767413",
+      "41533777",
+      "37853454",
+      "41460355",
+      "41643293",
+      "38096156",
+      "35300150",
+      "39713323",
+      "34964902",
+      "37584601",
+      "34157482",
+      "39386427",
+      "39972132",
+      "38937309",
+      "39560642",
+      "36070144",
+      "41648478",
+      "40246858",
+      "42182253",
+      "39707510",
+      "38383423",
+      "42444560",
+      "42604116",
+      "32902381",
+      "41924264",
+      "33155136",
+      "35481923",
+      "42182244",
+      "40229276",
+      "36305747",
+      "39561098",
+      "41838184",
+      "42371788",
+      "35733514",
+      "34759345",
+      "40541184",
+      "37524847",
+      "32989496",
+      "36759899",
+      "41331425",
+      "33319914",
+      "42218137",
+      "40287708",
+      "42675603",
+      "33572900",
+      "33277484",
+      "40244686",
+      "42656813",
+      "37311690",
+      "30396367",
+      "31030232",
+      "35495373",
+      "37423332",
+      "42112375",
+      "42178382",
+      "39343635",
+      "41596609",
+      "35137228",
+      "37094128",
+      "39237515",
+      "38011799",
+      "41430412",
+      "42482168",
+      "38644565",
+      "35637482",
+      "40053472",
+      "37151150",
+      "40296045",
+      "42573567",
+      "33471107",
+      "38994974",
+      "30647848",
+      "36458436",
+      "35395831",
+      "28263309",
+      "37674626",
+      "42222374",
+      "39093942",
+      "40403727",
+      "42070015",
+      "34812950",
+      "42098359",
+      "36305736",
+      "30322880",
+      "37702430"
+    ],
+    "review": [
+      "42779592",
+      "36403059",
+      "41460355",
+      "38096156",
+      "34157482",
+      "41924264",
+      "33155136",
+      "34759345",
+      "32989496",
+      "39343635",
+      "41596609",
+      "37151150",
+      "38994974"
+    ],
+    "pmc": [
+      "13596148"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42779592/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.06.17.731637",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

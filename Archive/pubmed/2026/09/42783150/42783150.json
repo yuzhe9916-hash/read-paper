@@ -1,0 +1,333 @@
+{
+  "identity": {
+    "pmid": "42783150",
+    "doi": "10.3390/bios16090483",
+    "title": "Microfluidic-Integrated CRISPR-Cas Biosensor for Marine Pollutant and Pathogen Monitoring: A Review."
+  },
+  "content": {
+    "abstract": "Marine ecosystems face escalating threats from heavy metals, harmful algal bloom toxins, pathogens, and antibiotic resistance genes, yet conventional detection methods remain laboratory-dependent and incapable of real-time, multiplexed field monitoring. CRISPR-Cas diagnostics, leveraging programmable Cas12a/Cas13a trans-cleavage for attomolar-level sensitivity, offers a transformative solution when integrated with microfluidic platforms that provide the automation and miniaturisation required for field deployment. This review systematically examines this emerging convergence across four marine target classes: heavy metals, biotoxins, pathogens, and resistance genes alongside integration architectures, signal readout strategies, and comparative performance benchmarking. We identify that only a small fraction of reported platforms have been validated in authentic seawater, with cross-class multiplexing, biofouling resistance during autonomous deployment, and regulatory standardisation remaining largely unaddressed. By synthesising this rapidly developing literature and articulating these unresolved challenges, this review provides a foundational reference and research agenda for translating microfluidic-CRISPR biosensors from laboratory proof-of-concept to operational marine environmental surveillance.",
+    "keywords": [
+      "CRISPR-Cas12a/Cas13a",
+      "antibiotic resistance genes",
+      "harmful algal bloom toxins",
+      "heavy metal ion detection",
+      "isothermal amplification",
+      "lab-on-a-chip",
+      "point-of-care diagnostics",
+      "seawater analysis"
+    ],
+    "mesh_terms": [
+      "*Biosensing Techniques",
+      "*CRISPR-Cas Systems",
+      "*Environmental Monitoring",
+      "*Microfluidics",
+      "Seawater"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ali, Natalia Binti",
+        "Xiao, Yuting",
+        "Jin, Kuiyu",
+        "Wang, Yixuan",
+        "Zhao, Youquan"
+      ],
+      "short_names": [
+        "Ali NB",
+        "Xiao Y",
+        "Jin K",
+        "Wang Y",
+        "Zhao Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-2432-2231",
+        "ORCID: 0009-0004-7290-2596",
+        "ORCID: 0000-0002-4803-6243"
+      ],
+      "affiliations": [
+        "Medical School, Tianjin University, Tianjin 300072, China.",
+        "Medical School, Tianjin University, Tianjin 300072, China.",
+        "Medical School, Tianjin University, Tianjin 300072, China.",
+        "Medical School, Tianjin University, Tianjin 300072, China.",
+        "Medical School, Tianjin University, Tianjin 300072, China.",
+        "School of Precision Instrument and Opto-Electronics Engineering, Tianjin University, Tianjin 300072, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ali, Natalia Binti",
+        "short_name": "Ali NB",
+        "identifiers": [
+          "0009-0003-2432-2231"
+        ],
+        "affiliations": [
+          "Medical School, Tianjin University, Tianjin 300072, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Yuting",
+        "short_name": "Xiao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Medical School, Tianjin University, Tianjin 300072, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Kuiyu",
+        "short_name": "Jin K",
+        "identifiers": [
+          "0009-0004-7290-2596"
+        ],
+        "affiliations": [
+          "Medical School, Tianjin University, Tianjin 300072, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yixuan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Medical School, Tianjin University, Tianjin 300072, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Youquan",
+        "short_name": "Zhao Y",
+        "identifiers": [
+          "0000-0002-4803-6243"
+        ],
+        "affiliations": [
+          "Medical School, Tianjin University, Tianjin 300072, China.",
+          "School of Precision Instrument and Opto-Electronics Engineering, Tianjin University, Tianjin 300072, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors"
+    ],
+    "journal_abbrev": [
+      "Biosensors (Basel)"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42783150",
+      "37642743",
+      "41606937",
+      "42529880",
+      "42217635",
+      "42405767",
+      "42467248",
+      "42199442",
+      "42671221",
+      "42263803",
+      "37870387",
+      "42407157",
+      "42378111",
+      "42670973",
+      "39115550",
+      "41527500",
+      "41590284",
+      "41791397",
+      "40136952",
+      "38472096",
+      "40862935",
+      "39874920",
+      "40945113",
+      "42733232",
+      "42716355",
+      "42465601",
+      "42462085",
+      "42763182",
+      "41149312",
+      "42007994",
+      "42201448",
+      "41796733",
+      "41855975",
+      "34418634",
+      "40202271",
+      "41654255",
+      "41938130",
+      "42187493",
+      "36410158",
+      "42070443",
+      "42075335",
+      "42546384",
+      "39724853",
+      "40157150",
+      "42533766",
+      "40763823",
+      "33493854",
+      "39324194",
+      "41013029",
+      "41435708",
+      "42715733",
+      "41161575",
+      "36218189",
+      "41889087",
+      "42184674",
+      "38955083",
+      "40055023",
+      "40311721",
+      "40387535",
+      "41709870",
+      "40987370",
+      "37722405",
+      "41876645",
+      "40300474",
+      "41145060",
+      "42702653",
+      "41932456",
+      "42434939",
+      "36601854",
+      "42187477",
+      "37451024",
+      "35777218",
+      "41587498",
+      "39708170",
+      "41416985",
+      "41808396",
+      "32159950",
+      "42513036",
+      "41241835",
+      "40680677",
+      "42008182",
+      "38740457",
+      "41745936",
+      "42263565",
+      "41610742",
+      "41500123",
+      "41183412",
+      "41456387",
+      "42432276",
+      "42783141",
+      "42624339",
+      "41299842",
+      "42412687",
+      "40277382",
+      "42269411",
+      "37366949",
+      "34906838",
+      "40959136",
+      "26633409",
+      "42061344"
+    ],
+    "review": [
+      "42783150",
+      "41606937",
+      "42529880",
+      "42217635",
+      "42405767",
+      "42467248",
+      "42199442",
+      "42671221",
+      "42263803",
+      "37870387",
+      "42407157",
+      "42378111",
+      "42670973",
+      "39115550",
+      "41527500",
+      "40136952",
+      "40862935",
+      "42733232",
+      "42716355",
+      "42465601",
+      "42462085",
+      "42763182",
+      "41149312",
+      "42007994",
+      "42201448",
+      "41796733",
+      "41855975",
+      "34418634",
+      "40202271",
+      "41938130",
+      "42187493",
+      "42070443",
+      "42075335",
+      "39724853",
+      "42533766",
+      "40763823",
+      "39324194",
+      "41013029",
+      "42715733",
+      "41161575",
+      "36218189",
+      "41889087",
+      "38955083",
+      "40311721",
+      "41709870",
+      "40987370",
+      "41876645",
+      "40300474",
+      "41145060",
+      "42702653",
+      "41932456",
+      "42434939",
+      "36601854",
+      "42187477",
+      "35777218",
+      "41587498",
+      "39708170",
+      "41808396",
+      "32159950",
+      "42513036",
+      "40680677",
+      "42008182",
+      "41745936",
+      "41500123",
+      "42783141",
+      "42624339",
+      "41299842",
+      "37366949"
+    ],
+    "pmc": [
+      "13604611"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=bios16090483",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42783150/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

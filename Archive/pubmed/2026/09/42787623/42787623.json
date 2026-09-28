@@ -1,0 +1,353 @@
+{
+  "identity": {
+    "pmid": "42787623",
+    "doi": "10.3389/fgeed.2026.1868779",
+    "title": "Clinical translation of CRISPR-Cas9 therapeutics in cancer and inherited genetic disorders."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9, adapted from the bacterial Type II CRISPR adaptive immune system, functions as a programmable RNA-guided endonuclease that employs a single-guide RNA to direct Cas9 to specific genomic loci. CRISPR-Cas9 has transformed targeted genome editing by replacing complex protein engineering with programmable Watson-Crick base pairing between the guide RNA and target DNA. This review was developed following a structured literature search of major biomedical databases and clinical trial registries to synthesize current evidence on the therapeutic applications of CRISPR-Cas9 in oncology and inherited genetic disorders. Clinical studies of ex vivo BCL11A-enhancer editing have shown fetal hemoglobin reactivation, with most evaluable participants with sickle cell disease remaining free of severe vaso-occlusive crises for the prespecified period and most evaluable participants with transfusion-dependent beta-thalassemia achieving sustained transfusion independence. In vivo reductions in circulating transthyretin protein levels have been achieved for transthyretin amyloidosis via lipid nanoparticle delivery, while clinically meaningful improvements in selected measures of visual function were observed in a subset of patients receiving subretinal AAV-delivered CRISPR editing for CEP290-associated Leber congenital amaurosis type 10. Preclinical and early clinical studies have further investigated CRISPR-engineered T cells designed to improve antitumor activity, persistence, or resistance to inhibitory signaling. Despite these advances, key translational hurdles include the risk of off-target mutations and large-scale chromosomal rearrangements. Furthermore, immune responses against bacterial Cas9 nucleases and viral delivery vectors may limit the long-term efficacy of CRISPR-based therapies, while technical barriers surrounding delivery to extrahepatic tissues, such as skeletal muscle and the central nervous system, continue to hinder broader clinical success. Ethical concerns regarding germline modifications and the high cost of individualized therapies present additional translational challenges. Consequently, emerging DSB-independent technologies, such as base editing and prime editing, may reduce selected DSB-associated liabilities, but each introduces distinct editing, delivery, and genotoxicity risks that require product-specific evaluation.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "cancer",
+      "clinical translation",
+      "gene therapy",
+      "genome editing",
+      "inherited genetic disorders"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bashir, Khushi",
+        "Vasudev, Prathiksha",
+        "Chhetri, Vikas",
+        "Dubhashi, Devika Prasad",
+        "Teli, Yash Gurunath",
+        "Biswas, Rhitam",
+        "Ramaiah, Sudha",
+        "Anbarasu, Anand"
+      ],
+      "short_names": [
+        "Bashir K",
+        "Vasudev P",
+        "Chhetri V",
+        "Dubhashi DP",
+        "Teli YG",
+        "Biswas R",
+        "Ramaiah S",
+        "Anbarasu A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
+        "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
+        "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
+        "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
+        "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
+        "Department of Biotechnology, SBST, VIT, Vellore, Tamil Nadu, India.",
+        "Department of Bio-Sciences, SBST, VIT, Vellore, Tamil Nadu, India.",
+        "Department of Biotechnology, SBST, VIT, Vellore, Tamil Nadu, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bashir, Khushi",
+        "short_name": "Bashir K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Vasudev, Prathiksha",
+        "short_name": "Vasudev P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Chhetri, Vikas",
+        "short_name": "Chhetri V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Dubhashi, Devika Prasad",
+        "short_name": "Dubhashi DP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Teli, Yash Gurunath",
+        "short_name": "Teli YG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bio-Medical Sciences, School of Bio-Sciences and Technology (SBST), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Biswas, Rhitam",
+        "short_name": "Biswas R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, SBST, VIT, Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Ramaiah, Sudha",
+        "short_name": "Ramaiah S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bio-Sciences, SBST, VIT, Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Anbarasu, Anand",
+        "short_name": "Anbarasu A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, SBST, VIT, Vellore, Tamil Nadu, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in genome editing"
+    ],
+    "journal_abbrev": [
+      "Front Genome Ed"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 11:45",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42787623",
+      "42539480",
+      "29019352",
+      "41329461",
+      "42303162",
+      "42758354",
+      "34080099",
+      "38786024",
+      "42798792",
+      "42793032",
+      "42439976",
+      "42475469",
+      "36209487",
+      "42173386",
+      "37525893",
+      "42108387",
+      "40753800",
+      "42263664",
+      "42782748",
+      "42474011",
+      "42225517",
+      "42586245",
+      "40685330",
+      "41454745",
+      "42766154",
+      "32697075",
+      "39524822",
+      "37298481",
+      "42755327",
+      "42756827",
+      "42291973",
+      "41620000",
+      "42090053",
+      "39332185",
+      "41038616",
+      "32264803",
+      "41702027",
+      "36334354",
+      "29333255",
+      "41972732",
+      "39832688",
+      "42617141",
+      "41123248",
+      "40697666",
+      "28911805",
+      "41810550",
+      "35700449",
+      "42470832",
+      "31797562",
+      "42274009",
+      "42524609",
+      "36988873",
+      "30169977",
+      "40897994",
+      "36225598",
+      "30728669",
+      "42192532",
+      "27667185",
+      "29704747",
+      "37878144",
+      "41862973",
+      "40394347",
+      "41495582",
+      "39794549",
+      "41109516",
+      "40896696",
+      "39590528",
+      "30511631",
+      "33718515",
+      "26747759",
+      "42670069",
+      "42180850",
+      "30424953",
+      "41665042",
+      "32953110",
+      "42400217",
+      "41952451",
+      "34660621",
+      "42763006",
+      "31099553",
+      "40160040",
+      "42416481",
+      "41585947",
+      "39871553",
+      "39023463",
+      "40045853",
+      "28527117",
+      "41678668",
+      "32796761",
+      "30619914",
+      "28109959",
+      "31439808",
+      "41931258",
+      "30355031",
+      "41787916",
+      "27145843",
+      "42678547",
+      "33171139",
+      "42781958",
+      "42298891"
+    ],
+    "review": [
+      "42787623",
+      "42539480",
+      "41329461",
+      "42303162",
+      "42758354",
+      "34080099",
+      "38786024",
+      "42793032",
+      "42439976",
+      "36209487",
+      "42173386",
+      "37525893",
+      "42108387",
+      "40753800",
+      "42263664",
+      "42782748",
+      "42225517",
+      "42586245",
+      "41454745",
+      "42766154",
+      "39524822",
+      "37298481",
+      "42755327",
+      "42291973",
+      "41620000",
+      "42090053",
+      "39332185",
+      "41038616",
+      "41702027",
+      "36334354",
+      "29333255",
+      "41972732",
+      "39832688",
+      "42617141",
+      "40697666",
+      "28911805",
+      "41810550",
+      "42470832",
+      "31797562",
+      "42524609",
+      "36988873",
+      "30169977",
+      "40897994",
+      "36225598",
+      "30728669",
+      "27667185",
+      "29704747",
+      "37878144",
+      "41862973",
+      "40394347",
+      "41495582",
+      "39794549",
+      "41109516",
+      "40896696",
+      "39590528",
+      "30511631",
+      "42180850",
+      "41665042",
+      "32953110",
+      "42400217",
+      "41952451",
+      "34660621",
+      "42763006",
+      "40160040",
+      "41585947",
+      "39871553",
+      "28527117",
+      "32796761",
+      "41931258",
+      "41787916",
+      "27145843",
+      "42678547",
+      "33171139",
+      "42781958",
+      "42298891"
+    ],
+    "pmc": [
+      "13601907"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42787623/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TTR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fgeed.2026.1868779",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

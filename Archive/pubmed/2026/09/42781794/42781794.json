@@ -1,0 +1,321 @@
+{
+  "identity": {
+    "pmid": "42781794",
+    "doi": "10.1021/acssensors.6c01888",
+    "title": "Diagnostics for Hemorrhagic Fever Viruses: Lassa Fever as an Example."
+  },
+  "content": {
+    "abstract": "Lassa virus (LASV) causes severe hemorrhagic fever across West Africa where the development of rapid, accurate diagnostics remains hindered by the extensive lineage-level genetic diversity and by the limited availability of high-level containment laboratories. We developed a LASV assay using the CRISPR-based Streamlined Highlighting of Infections to Navigate Epidemics (SHINE) platform to enable safe, field-deployable detection. To enable assay development without handling live virus, we established a plasmid-based system that generates LASV RNA controls spanning major viral lineages. Using these surrogate plasmids, we optimized the assay for 32 genetically distinct LASV isolates, demonstrating detection across major lineage subdivisions with lineage-dependent sensitivity. The assay maintained sensitivity in serum and whole blood, and was further evaluated using clinical samples in Nigeria. To reduce subjectivity in strip interpretation, we developed supervised machine-learning models for automated classification of lateral flow results. Together, this integrated diagnostic framework supports field-oriented detection of genetically diverse LASV and provides a broader approach for diagnostic development for high-consequence RNA viruses.",
+    "keywords": [
+      "CRISPR",
+      "Lassa virus",
+      "SHINE",
+      "hemorrhagic fever",
+      "point-of-need diagnostic"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dhar, Bidhan",
+        "Espinoza, Nallely",
+        "Farzani, Touraj",
+        "Baudi, Ian",
+        "Nosamiefan, Dolo",
+        "Garcia, Coby Y",
+        "Allan-Blitz, Lao-Tzu",
+        "Samani, Pedram",
+        "Happi, Christian",
+        "Sabeti, Pardis"
+      ],
+      "short_names": [
+        "Dhar B",
+        "Espinoza N",
+        "Farzani T",
+        "Baudi I",
+        "Nosamiefan D",
+        "Garcia CY",
+        "Allan-Blitz LT",
+        "Samani P",
+        "Happi C",
+        "Sabeti P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8044-3933"
+      ],
+      "affiliations": [
+        "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+        "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States.",
+        "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+        "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States.",
+        "Zoonotic and Emerging Disease Research Unit, National Bio and Agro-Defense Facility, Agricultural Research Service, United States Department of Agriculture, Manhattan, Kansas66506, United States.",
+        "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+        "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States.",
+        "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+        "Institute of Genomics and Global Health (IGH), Redeemer's University, Ede, Osun State232101, Nigeria.",
+        "Harvard University , Cambridge, Massachusetts02138, United States.",
+        "Division of Infectious Diseases, Department of Medicine, University of California Los Angeles, Los Angeles, California90095, United States.",
+        "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+        "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States.",
+        "Institute of Genomics and Global Health (IGH), Redeemer's University, Ede, Osun State232101, Nigeria.",
+        "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts02115, United States.",
+        "Department of Biological Sciences, College of Natural Sciences, Redeemer's University, Ede, Osun State232101, Nigeria.",
+        "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State310001, Nigeria.",
+        "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+        "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States.",
+        "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts02115, United States.",
+        "Howard Hughes Medical Institute, Chevy Chase, Maryland20815, United States.",
+        "Massachusetts Consortium on Pathogen Readiness, Harvard Medical School, Massachusetts02115, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dhar, Bidhan",
+        "short_name": "Dhar B",
+        "identifiers": [
+          "0000-0001-8044-3933"
+        ],
+        "affiliations": [
+          "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+          "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States."
+        ]
+      },
+      {
+        "full_name": "Espinoza, Nallely",
+        "short_name": "Espinoza N",
+        "identifiers": [],
+        "affiliations": [
+          "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+          "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States.",
+          "Zoonotic and Emerging Disease Research Unit, National Bio and Agro-Defense Facility, Agricultural Research Service, United States Department of Agriculture, Manhattan, Kansas66506, United States."
+        ]
+      },
+      {
+        "full_name": "Farzani, Touraj",
+        "short_name": "Farzani T",
+        "identifiers": [],
+        "affiliations": [
+          "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+          "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States."
+        ]
+      },
+      {
+        "full_name": "Baudi, Ian",
+        "short_name": "Baudi I",
+        "identifiers": [],
+        "affiliations": [
+          "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States."
+        ]
+      },
+      {
+        "full_name": "Nosamiefan, Dolo",
+        "short_name": "Nosamiefan D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Genomics and Global Health (IGH), Redeemer's University, Ede, Osun State232101, Nigeria."
+        ]
+      },
+      {
+        "full_name": "Garcia, Coby Y",
+        "short_name": "Garcia CY",
+        "identifiers": [],
+        "affiliations": [
+          "Harvard University , Cambridge, Massachusetts02138, United States."
+        ]
+      },
+      {
+        "full_name": "Allan-Blitz, Lao-Tzu",
+        "short_name": "Allan-Blitz LT",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Infectious Diseases, Department of Medicine, University of California Los Angeles, Los Angeles, California90095, United States."
+        ]
+      },
+      {
+        "full_name": "Samani, Pedram",
+        "short_name": "Samani P",
+        "identifiers": [],
+        "affiliations": [
+          "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+          "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States."
+        ]
+      },
+      {
+        "full_name": "Happi, Christian",
+        "short_name": "Happi C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Genomics and Global Health (IGH), Redeemer's University, Ede, Osun State232101, Nigeria.",
+          "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts02115, United States.",
+          "Department of Biological Sciences, College of Natural Sciences, Redeemer's University, Ede, Osun State232101, Nigeria.",
+          "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State310001, Nigeria."
+        ]
+      },
+      {
+        "full_name": "Sabeti, Pardis",
+        "short_name": "Sabeti P",
+        "identifiers": [],
+        "affiliations": [
+          "Infectious Diseases and Microbiome Program, Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts02142, United States.",
+          "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts02138, United States.",
+          "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts02115, United States.",
+          "Howard Hughes Medical Institute, Chevy Chase, Maryland20815, United States.",
+          "Massachusetts Consortium on Pathogen Readiness, Harvard Medical School, Massachusetts02115, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42781794",
+      "25884628",
+      "41910272",
+      "42391156",
+      "30974179",
+      "30899575",
+      "32994446",
+      "38767352",
+      "20961433",
+      "31170468",
+      "17634509",
+      "36976009",
+      "32098811",
+      "40425001",
+      "41901697",
+      "21843352",
+      "42113890",
+      "30700611",
+      "30899576",
+      "42723767",
+      "40595093",
+      "32209677",
+      "42475469",
+      "21062490",
+      "29651117",
+      "30147299",
+      "38486143",
+      "24959946",
+      "32244402",
+      "38088796",
+      "12089242",
+      "25811712",
+      "30500827",
+      "24340119",
+      "35913205",
+      "32269122",
+      "31413134",
+      "32807807",
+      "31241870",
+      "41157638",
+      "32457420",
+      "26276630",
+      "27136941",
+      "25344695",
+      "37590417",
+      "34747339",
+      "38064030",
+      "31357141",
+      "28508222",
+      "27795340",
+      "32174454",
+      "41110267",
+      "31071008",
+      "41519139",
+      "40257983",
+      "39375602",
+      "40296141",
+      "29593043",
+      "31554720",
+      "22023795",
+      "35730904",
+      "40157130",
+      "32817220",
+      "35858566",
+      "35913216",
+      "40022100",
+      "35099012",
+      "25996783",
+      "29523497",
+      "31561999",
+      "36996258",
+      "42606356",
+      "32294960",
+      "36680186",
+      "42037406",
+      "37106159",
+      "42069546",
+      "32376973",
+      "42365235",
+      "30377282",
+      "31026485",
+      "41288146",
+      "42339070",
+      "31015807",
+      "35481464",
+      "27771389",
+      "40234991",
+      "40484541",
+      "42106453",
+      "29287681",
+      "40367816",
+      "27147735",
+      "41780060",
+      "24069471",
+      "30576397",
+      "30463334",
+      "32459576",
+      "30953674",
+      "32051278",
+      "31450611"
+    ],
+    "review": [
+      "42781794",
+      "30147299",
+      "32244402",
+      "27136941",
+      "34747339",
+      "31357141",
+      "41110267",
+      "40022100",
+      "36680186",
+      "42365235",
+      "31026485",
+      "40367816"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c01888",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

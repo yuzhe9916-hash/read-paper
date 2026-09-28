@@ -1,0 +1,352 @@
+{
+  "identity": {
+    "pmid": "42773905",
+    "doi": "10.1177/25731599261489437",
+    "title": "Comparison of CRISPR-Cas-Based Knockdown of Endogenous mRNA in Sensory Neurons."
+  },
+  "content": {
+    "abstract": "Ribonucleic acid (RNA)-targeting clustered regularly interspaced short palindromic repeats-CRISPR-associated (CRISPR-Cas) systems enable modulation of gene expression without permanent genome modification, making them useful for sensitive cell types such as neurons. While CRISPR-Cas technologies have been most extensively applied and validated in primary hippocampal and cortical neurons, their use in sensory neurons remains largely unexplored. Sensory neurons are an established cellular model for studying axon growth and regeneration, pain mechanisms, sensory transduction, and neuron-environment interactions. Here, we evaluated the performance of compact RNA-targeting CRISPR-Cas effectors Cas7-11S, hfCas13X, and hfCas13d in primary rat sensory neurons in culture. Using an endogenous mRNA as the target, we compared knockdown efficiency and assessed the effects of CRISPR-Cas expression on neuronal health. The systems showed distinct differences in performance, with Cas7-11S inducing toxicity, hfCas13X showing minimal knockdown, and hfCas13d providing robust gene silencing with minimal adverse effects on neuronal health. These findings identify hfCas13d as the most effective and well-tolerated RNA-targeting CRISPR-Cas tool for sensory neurons and provide important insight into its suitability for neuroscience research and potential therapeutic applications.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Meulenberg, Andrea",
+        "Pavez, Macarena",
+        "Gowing, Emma K",
+        "Mayo-Munoz, David",
+        "Birkholz, Nils",
+        "Suhono, Graceallah",
+        "Fineran, Peter C",
+        "Fagerlund, Robert D",
+        "Gumy, Laura F"
+      ],
+      "short_names": [
+        "Meulenberg A",
+        "Pavez M",
+        "Gowing EK",
+        "Mayo-Munoz D",
+        "Birkholz N",
+        "Suhono G",
+        "Fineran PC",
+        "Fagerlund RD",
+        "Gumy LF"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0751-4787",
+        "ORCID: 0000-0001-6347-3153"
+      ],
+      "affiliations": [
+        "Department of Anatomy, University of Otago, Dunedin, New Zealand.",
+        "Department of Anatomy, University of Otago, Dunedin, New Zealand.",
+        "Department of Anatomy, University of Otago, Dunedin, New Zealand.",
+        "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+        "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+        "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand.",
+        "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+        "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+        "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand.",
+        "Department of Anatomy, University of Otago, Dunedin, New Zealand.",
+        "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+        "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+        "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+        "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand.",
+        "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+        "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+        "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand.",
+        "Department of Anatomy, University of Otago, Dunedin, New Zealand."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Meulenberg, Andrea",
+        "short_name": "Meulenberg A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Pavez, Macarena",
+        "short_name": "Pavez M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Gowing, Emma K",
+        "short_name": "Gowing EK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Mayo-Muñoz, David",
+        "short_name": "Mayo-Muñoz D",
+        "identifiers": [
+          "0000-0003-0751-4787"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+          "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+          "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Birkholz, Nils",
+        "short_name": "Birkholz N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+          "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+          "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Suhono, Graceallah",
+        "short_name": "Suhono G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy, University of Otago, Dunedin, New Zealand.",
+          "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Fineran, Peter C",
+        "short_name": "Fineran PC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+          "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+          "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Fagerlund, Robert D",
+        "short_name": "Fagerlund RD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Otago, Dunedin, New Zealand.",
+          "Genetics Otago, University of Otago, Dunedin, New Zealand.",
+          "Bioprotection Aotearoa, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Gumy, Laura F",
+        "short_name": "Gumy LF",
+        "identifiers": [
+          "0000-0001-6347-3153"
+        ],
+        "affiliations": [
+          "Department of Anatomy, University of Otago, Dunedin, New Zealand."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The CRISPR journal"
+    ],
+    "journal_abbrev": [
+      "CRISPR J"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 05:34",
+    "fetched_at": "2026-09-28 17:46:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42773905",
+      "34321217",
+      "42771304",
+      "28110021",
+      "40205014",
+      "39327223",
+      "37154311",
+      "41317788",
+      "32238445",
+      "33835761",
+      "37282821",
+      "36190192",
+      "34304411",
+      "39552996",
+      "38909984",
+      "40434115",
+      "30076877",
+      "35700449",
+      "38932365",
+      "27226589",
+      "31902584",
+      "40673518",
+      "30261168",
+      "33557342",
+      "33609360",
+      "40342053",
+      "29748239",
+      "33842017",
+      "36324900",
+      "40401996",
+      "29019352",
+      "29717009",
+      "32959897",
+      "36078073",
+      "38186450",
+      "32195227",
+      "33609253",
+      "30926472",
+      "38641067",
+      "38747603",
+      "35871616",
+      "30411440",
+      "40011676",
+      "27566508",
+      "33585286",
+      "32046217",
+      "32175589",
+      "24579309",
+      "38291210",
+      "24555991",
+      "31819217",
+      "30572690",
+      "38346597",
+      "31922192",
+      "28177825",
+      "25483036",
+      "25968642",
+      "40763823",
+      "41048399",
+      "30388409",
+      "34489594",
+      "36690762",
+      "35236300",
+      "37797813",
+      "29940185",
+      "34899631",
+      "29551514",
+      "39682777",
+      "31147612",
+      "34894597",
+      "26656253",
+      "34968414",
+      "37222810",
+      "24639266",
+      "40195838",
+      "33785624",
+      "33328654",
+      "31658261",
+      "32957821",
+      "34963339",
+      "38702571",
+      "42219100",
+      "28800587",
+      "28851809",
+      "30883991",
+      "30357478",
+      "39526384",
+      "40086675",
+      "39085660",
+      "35618430",
+      "35949837",
+      "29959923",
+      "30993331",
+      "24459147",
+      "40136952",
+      "32098761",
+      "27840399",
+      "28985502",
+      "34781949",
+      "40268745"
+    ],
+    "review": [
+      "42773905",
+      "42771304",
+      "32238445",
+      "33835761",
+      "37282821",
+      "39552996",
+      "38909984",
+      "30076877",
+      "38932365",
+      "31902584",
+      "30261168",
+      "40342053",
+      "29748239",
+      "33842017",
+      "36324900",
+      "32959897",
+      "36078073",
+      "38186450",
+      "32195227",
+      "33609253",
+      "30926472",
+      "38641067",
+      "27566508",
+      "33585286",
+      "32046217",
+      "32175589",
+      "24579309",
+      "38291210",
+      "24555991",
+      "38346597",
+      "40763823",
+      "30388409",
+      "37797813",
+      "29940185",
+      "34899631",
+      "31147612",
+      "34894597",
+      "26656253",
+      "34968414",
+      "37222810",
+      "24639266",
+      "40195838",
+      "33328654",
+      "34963339",
+      "38702571",
+      "30883991",
+      "40086675",
+      "39085660",
+      "35949837",
+      "29959923",
+      "40136952",
+      "32098761",
+      "27840399",
+      "28985502",
+      "34781949"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.sagepub.com/doi/10.1177/25731599261489437?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

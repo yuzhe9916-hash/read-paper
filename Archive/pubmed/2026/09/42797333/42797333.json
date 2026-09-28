@@ -1,0 +1,310 @@
+{
+  "identity": {
+    "pmid": "42797333",
+    "doi": "10.3390/pharmaceutics18091158",
+    "title": "Developing a Fluorescence-Based High-Throughput Screening Method for Natural Product Fractions to Identify Inhibitors of AR-V7 for Castration-Resistant Prostate Cancer."
+  },
+  "content": {
+    "abstract": "Background/Objectives: The progression of prostate cancer to castration-resistant prostate cancer (CRPC) is often driven by constitutively active androgen receptor splice variants, such as AR-V7, which evade conventional androgen-deprivation therapies. This study aimed to develop a high-throughput, mechanism-based screening platform to identify natural-product-derived AR-V7 inhibitors from the NCI Program for Natural Product Discovery (NPNPD) library. Methods: A subset of prefractionated NPNPD samples was screened using a CRISPR-edited 22Rv1 cell line expressing endogenous AR-V7 fused to a HiBiT luminescent tag, enabling quantification of AR-V7 levels. Fractions that reduced the HiBiT signal were further evaluated in 22Rv1 and C4-2B CRPC cells and counter-screened in non-malignant RWPE-1 cells. Compounds demonstrating at least 90% inhibition in CRPC cells with no more than 10% toxicity in RWPE-1 cells underwent dose-response analysis, Western blotting, quantitative PCR, and subfractionation to isolate and characterize active constituents. Results: Of the 704 prefractionated samples, five fractions met stringent activity and selectivity criteria, with three consistently suppressing full-length androgen receptor (AR), AR-V7, and prostate-specific antigen (PSA). Primary screening results in HiBiT-22Rv1 cells were validated by secondary dose-response and Western blot assays, and hits were further prioritized to ensure toxicity remained at or below 10% in RWPE-1 cells. HiBiT-guided screening of 66 subfractions identified seven that robustly downregulated AR signaling, with reduced AR-V7 levels correlating with decreased CRPC cell viability. Chemical characterization revealed two active butanolides, isolitsealiicolide C and isolinderanolide B, which reduced AR and AR-V7 protein and mRNA levels, decreased PSA, downregulated Bcl-2, and induced cleaved PARP, consistent with apoptotic cell death in AR-positive CRPC models. Conclusions: This integrated high-throughput workflow efficiently identifies AR-V7-targeted natural products from complex libraries and highlights isolitsealiicolide C and isolinderanolide B as promising scaffolds for overcoming androgen receptor-driven resistance in CRPC.",
+    "keywords": [
+      "AR-V7",
+      "HiBiT reporter",
+      "androgen receptor",
+      "butanolides",
+      "castration-resistant prostate cancer",
+      "high-throughput screening",
+      "natural products"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tyagi, Neha",
+        "Rathi, Manish",
+        "Ensel, Susan",
+        "Thornburg, Christopher C",
+        "Grkovic, Tanja",
+        "O'Keefe, Barry R",
+        "Sacchettini, James C",
+        "Damodaran, Chendil"
+      ],
+      "short_names": [
+        "Tyagi N",
+        "Rathi M",
+        "Ensel S",
+        "Thornburg CC",
+        "Grkovic T",
+        "O'Keefe BR",
+        "Sacchettini JC",
+        "Damodaran C"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-9232-2498",
+        "ORCID: 0000-0002-7733-1065",
+        "ORCID: 0000-0002-4657-6895",
+        "ORCID: 0000-0002-6537-3997",
+        "ORCID: 0000-0003-0772-4856",
+        "ORCID: 0000-0001-5767-2367",
+        "ORCID: 0000-0002-9902-7101"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Sciences, Texas A&M University, College Station, TX 77843, USA.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX 77843, USA.",
+        "Natural Products Support Group, Leidos Biomedical Research Inc., Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA.",
+        "Department of Chemistry and Physics, Hood College, Frederick, MD 21701, USA.",
+        "Natural Products Support Group, Leidos Biomedical Research Inc., Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA.",
+        "Natural Products Branch, Developmental Therapeutics Program, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Frederick, MD 21702, USA.",
+        "Molecular Targets Program, Center for Cancer Research, National Cancer Institute, Frederick, MD 21702, USA.",
+        "Natural Products Branch, Developmental Therapeutics Program, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Frederick, MD 21702, USA.",
+        "Molecular Targets Program, Center for Cancer Research, National Cancer Institute, Frederick, MD 21702, USA.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX 77843, USA.",
+        "Department of Pharmaceutical Sciences, Texas A&M University, College Station, TX 77843, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tyagi, Neha",
+        "short_name": "Tyagi N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, Texas A&M University, College Station, TX 77843, USA."
+        ]
+      },
+      {
+        "full_name": "Rathi, Manish",
+        "short_name": "Rathi M",
+        "identifiers": [
+          "0009-0002-9232-2498"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX 77843, USA."
+        ]
+      },
+      {
+        "full_name": "Ensel, Susan",
+        "short_name": "Ensel S",
+        "identifiers": [
+          "0000-0002-7733-1065"
+        ],
+        "affiliations": [
+          "Natural Products Support Group, Leidos Biomedical Research Inc., Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA.",
+          "Department of Chemistry and Physics, Hood College, Frederick, MD 21701, USA."
+        ]
+      },
+      {
+        "full_name": "Thornburg, Christopher C",
+        "short_name": "Thornburg CC",
+        "identifiers": [
+          "0000-0002-4657-6895"
+        ],
+        "affiliations": [
+          "Natural Products Support Group, Leidos Biomedical Research Inc., Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA."
+        ]
+      },
+      {
+        "full_name": "Grkovic, Tanja",
+        "short_name": "Grkovic T",
+        "identifiers": [
+          "0000-0002-6537-3997"
+        ],
+        "affiliations": [
+          "Natural Products Branch, Developmental Therapeutics Program, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Frederick, MD 21702, USA.",
+          "Molecular Targets Program, Center for Cancer Research, National Cancer Institute, Frederick, MD 21702, USA."
+        ]
+      },
+      {
+        "full_name": "O'Keefe, Barry R",
+        "short_name": "O'Keefe BR",
+        "identifiers": [
+          "0000-0003-0772-4856"
+        ],
+        "affiliations": [
+          "Natural Products Branch, Developmental Therapeutics Program, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Frederick, MD 21702, USA.",
+          "Molecular Targets Program, Center for Cancer Research, National Cancer Institute, Frederick, MD 21702, USA."
+        ]
+      },
+      {
+        "full_name": "Sacchettini, James C",
+        "short_name": "Sacchettini JC",
+        "identifiers": [
+          "0000-0001-5767-2367"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX 77843, USA."
+        ]
+      },
+      {
+        "full_name": "Damodaran, Chendil",
+        "short_name": "Damodaran C",
+        "identifiers": [
+          "0000-0002-9902-7101"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Sciences, Texas A&M University, College Station, TX 77843, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmaceutics"
+    ],
+    "journal_abbrev": [
+      "Pharmaceutics"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42797333",
+      "27699828",
+      "33391515",
+      "24740322",
+      "29110173",
+      "29760584",
+      "27550197",
+      "28561752",
+      "41931243",
+      "28105499",
+      "32206096",
+      "39948708",
+      "38627648",
+      "34691258",
+      "30030299",
+      "28753843",
+      "30334814",
+      "35098567",
+      "28901514",
+      "40704654",
+      "27473672",
+      "39844192",
+      "26918604",
+      "24449822",
+      "32042745",
+      "28397338",
+      "27117751",
+      "27683042",
+      "30763921",
+      "27179779",
+      "31805186",
+      "30141201",
+      "35695870",
+      "35948987",
+      "31940946",
+      "42730149",
+      "28691182",
+      "26957440",
+      "28556958",
+      "28866255",
+      "31542304",
+      "31796514",
+      "22710436",
+      "30693539",
+      "27198552",
+      "26181238",
+      "25634993",
+      "31243151",
+      "28144969",
+      "37549772",
+      "36479717",
+      "28144973",
+      "36980655",
+      "38532114",
+      "29844167",
+      "30578319",
+      "41656914",
+      "21552559",
+      "28818355",
+      "28473535",
+      "31809622",
+      "26552607",
+      "31676281",
+      "32734688",
+      "39199550",
+      "28384066",
+      "26870716",
+      "29988112",
+      "27979426",
+      "31799745",
+      "35780952",
+      "20823238",
+      "34461557",
+      "27187604",
+      "37453063",
+      "37796107",
+      "23023561",
+      "42437885",
+      "33857854",
+      "28811363",
+      "39868336",
+      "29359890",
+      "41666761",
+      "31083651",
+      "37139712",
+      "40404917",
+      "29301749",
+      "26378018",
+      "27916435",
+      "41922546",
+      "27626485",
+      "38201308",
+      "26196320",
+      "39388218",
+      "39253786",
+      "29555663",
+      "39491756",
+      "27140928",
+      "34548474",
+      "41417173"
+    ],
+    "review": [
+      "42797333",
+      "28753843",
+      "39199550",
+      "33857854",
+      "38201308"
+    ],
+    "pmc": [
+      "13610743"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=pharmaceutics18091158",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PSAT1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3339",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

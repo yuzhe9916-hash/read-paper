@@ -1,0 +1,358 @@
+{
+  "identity": {
+    "pmid": "42799769",
+    "doi": "10.1007/s00203-026-05194-w",
+    "title": "Pharmaceutical innovation in advanced nanomedicine for the treatment of hypervirulent and multidrug-resistant Klebsiella pneumoniae infections."
+  },
+  "content": {
+    "abstract": "Hypervirulent and multidrug-resistant Klebsiella pneumoniae represents a dual threat to global health, combining aggressive virulence with resistance to last-line antibiotics. Conventional therapies are failing, leaving an urgent need for disruptive approaches. Nanotechnology offers transformative solutions by enabling targeted drug delivery, dismantling biofilms, restoring antibiotic potency, and introducing novel modalities such as phage-nanoparticle hybrids and CRISPR-based nanoplatforms. This review synthesizes recent advances in metal-, polymer-, and lipid-based nanostructures designed to combat hvKp, highlighting mechanisms of action, synergistic combinations with antibiotics, and innovative theranostic systems. We also critically examine translational challenges, including reproducibility, safety, and regulatory uncertainty, while outlining future opportunities for precision nanomedicine through smart nanoplatforms, nano-enabled diagnostics, and AI-driven design. By integrating efficacy with safety and clinical feasibility, nanotechnology holds promise to reshape the therapeutic landscape for hvKp and MDR pathogens and contribute to broader strategies against antimicrobial resistance.",
+    "keywords": [
+      "Antimicrobial resistance (AMR)",
+      "Hypervirulent K. pneumoniae (hvKp)",
+      "Multidrug-resistant bacteria (MDR)",
+      "Nanoparticles",
+      "Nanotechnology"
+    ],
+    "mesh_terms": [
+      "*Drug Resistance, Multiple, Bacterial",
+      "*Klebsiella pneumoniae/drug effects/pathogenicity",
+      "Humans",
+      "*Anti-Bacterial Agents/pharmacology/therapeutic use",
+      "*Nanomedicine/methods",
+      "*Klebsiella Infections/drug therapy/microbiology",
+      "Virulence",
+      "Animals",
+      "Nanoparticles",
+      "Drug Delivery Systems"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hetta, Helal F",
+        "Alanazi, Fawaz E",
+        "Alshareef, Hanan",
+        "Soliman, Ghareb M",
+        "Almadi, Sultan A",
+        "Aljuhani, Ageel F",
+        "Bukhari, Salwa Qasim",
+        "Alatawi, Zinab",
+        "Ellah, Noura H Abd",
+        "Atoom, Ali M",
+        "El-Maghrabey, Mahmoud",
+        "Ramadan, Yasmin N"
+      ],
+      "short_names": [
+        "Hetta HF",
+        "Alanazi FE",
+        "Alshareef H",
+        "Soliman GM",
+        "Almadi SA",
+        "Aljuhani AF",
+        "Bukhari SQ",
+        "Alatawi Z",
+        "Ellah NHA",
+        "Atoom AM",
+        "El-Maghrabey M",
+        "Ramadan YN"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8541-7304",
+        "ORCID: 0000-0001-9742-4253",
+        "ORCID: 0009-0008-7374-9334"
+      ],
+      "affiliations": [
+        "Division of Microbiology, Immunology and Biotechnology, Department of Natural Products and Alternative Medicine, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "Department of Pharmacology and Toxicology, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "Pharmacy Practice Department, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "Department of Pharmaceutics, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "PharmD Students, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "PharmD Students, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "Department of Diagnostic Radiology, Faculty of Medicine, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "Department of Family and Community Medicine, Faculty of Medicine, University of Tabuk, 47512, Tabuk, Saudi Arabia.",
+        "Department of Pharmaceutics, Faculty of Pharmacy, Assiut University, Assiut, 71515, Egypt.",
+        "Faculty of Allied Medical Sciences, Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia.",
+        "Department of Microbiology and Immunology, Faculty of Pharmacy, Assiut University, Assiut, 71515, Egypt. yasmine_mohamed@pharm.aun.edu.eg."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hetta, Helal F",
+        "short_name": "Hetta HF",
+        "identifiers": [
+          "0000-0001-8541-7304"
+        ],
+        "affiliations": [
+          "Division of Microbiology, Immunology and Biotechnology, Department of Natural Products and Alternative Medicine, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alanazi, Fawaz E",
+        "short_name": "Alanazi FE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alshareef, Hanan",
+        "short_name": "Alshareef H",
+        "identifiers": [],
+        "affiliations": [
+          "Pharmacy Practice Department, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Soliman, Ghareb M",
+        "short_name": "Soliman GM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutics, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Almadi, Sultan A",
+        "short_name": "Almadi SA",
+        "identifiers": [],
+        "affiliations": [
+          "PharmD Students, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Aljuhani, Ageel F",
+        "short_name": "Aljuhani AF",
+        "identifiers": [],
+        "affiliations": [
+          "PharmD Students, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Bukhari, Salwa Qasim",
+        "short_name": "Bukhari SQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Diagnostic Radiology, Faculty of Medicine, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alatawi, Zinab",
+        "short_name": "Alatawi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Family and Community Medicine, Faculty of Medicine, University of Tabuk, 47512, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ellah, Noura H Abd",
+        "short_name": "Ellah NHA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutics, Faculty of Pharmacy, Assiut University, Assiut, 71515, Egypt."
+        ]
+      },
+      {
+        "full_name": "Atoom, Ali M",
+        "short_name": "Atoom AM",
+        "identifiers": [
+          "0000-0001-9742-4253"
+        ],
+        "affiliations": [
+          "Faculty of Allied Medical Sciences, Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan."
+        ]
+      },
+      {
+        "full_name": "El-Maghrabey, Mahmoud",
+        "short_name": "El-Maghrabey M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, University of Tabuk, 71491, Tabuk, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ramadan, Yasmin N",
+        "short_name": "Ramadan YN",
+        "identifiers": [
+          "0009-0008-7374-9334"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Faculty of Pharmacy, Assiut University, Assiut, 71515, Egypt. yasmine_mohamed@pharm.aun.edu.eg."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archives of microbiology"
+    ],
+    "journal_abbrev": [
+      "Arch Microbiol"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42799769",
+      "41579175",
+      "41334656",
+      "41660983",
+      "41098500",
+      "41488482",
+      "42505093",
+      "40355055",
+      "39861040",
+      "40135944",
+      "41772648",
+      "39983881",
+      "41278478",
+      "41534411",
+      "40695432",
+      "39119288",
+      "38848891",
+      "41998453",
+      "40815144",
+      "30031912",
+      "41171202",
+      "41250062",
+      "39002700",
+      "40747787",
+      "35799130",
+      "32872324",
+      "39162259",
+      "41404874",
+      "41188737",
+      "39166877",
+      "40072365",
+      "39528921",
+      "42187328",
+      "41519712",
+      "39671810",
+      "41249930",
+      "41942347",
+      "39141971",
+      "35297657",
+      "41340279",
+      "35573787",
+      "41587624",
+      "42747883",
+      "42590973",
+      "41616254",
+      "41680374",
+      "41625151",
+      "42262135",
+      "40535540",
+      "40042517",
+      "40198504",
+      "41910199",
+      "34704778",
+      "35225687",
+      "32354302",
+      "40466391",
+      "41651360",
+      "40980928",
+      "42606381",
+      "37743308",
+      "39904002",
+      "31129359",
+      "30602516",
+      "39670759",
+      "26304687",
+      "41353259",
+      "40055131",
+      "29906566",
+      "39270756",
+      "40237452",
+      "39936929",
+      "38252202",
+      "41436293",
+      "33122117",
+      "39183061",
+      "32048525",
+      "31455739",
+      "31315397",
+      "40474116",
+      "38886796",
+      "37341605",
+      "41283021",
+      "41611617",
+      "39757682",
+      "40546282",
+      "26718943",
+      "39160541",
+      "36472445",
+      "41966314",
+      "41794678",
+      "41826834",
+      "39914938",
+      "31677303",
+      "41168396",
+      "41754468",
+      "35972286",
+      "40596916",
+      "41085779",
+      "32497817",
+      "40575489"
+    ],
+    "review": [
+      "42799769",
+      "41579175",
+      "41098500",
+      "40355055",
+      "40135944",
+      "39983881",
+      "41278478",
+      "40695432",
+      "41998453",
+      "39002700",
+      "32872324",
+      "40072365",
+      "41942347",
+      "39141971",
+      "40198504",
+      "41910199",
+      "39904002",
+      "41436293",
+      "32048525",
+      "41283021",
+      "39757682",
+      "26718943",
+      "39160541",
+      "39914938",
+      "31677303"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/antibiotics.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antibiotics"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00203-026-05194-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

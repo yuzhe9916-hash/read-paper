@@ -1,0 +1,311 @@
+{
+  "identity": {
+    "pmid": "42775042",
+    "doi": "10.3389/fcell.2026.1900624",
+    "title": "Toward trustworthy virtual cells: a roadmap for perturbation-resolved, context-aware, and experimentally validated cell models."
+  },
+  "content": {
+    "abstract": "Single-cell perturbation technologies, multimodal omics, spatial profiling, and generative modeling are transforming the virtual cell from a theoretical concept into a practical objective for cell biology. Yet current efforts often emphasize model scale, data volume, or predictive breadth, while the trustworthiness required for scientific and translational use remains insufficiently addressed. We argue that virtual-cell models become decision-relevant only when the evidential chain connecting data, model design, benchmarking, and experimental validation is made explicit. We introduce the trustworthy virtual cell, a perturbation-resolved, context-aware, and experimentally validated system capable of supporting biological inference, experimental design, and preclinical decision-making. We organize recent progress around four empirical layers, namely, molecular cell state, intervention, biological context, and orthogonal phenotype, complemented by structured priors. This framework explains why static atlases, transcriptome-only readouts, and in-distribution benchmarks are insufficient for predicting cellular behavior under new conditions. Across mechanistic, deep generative, foundation, and hybrid models, we discuss trade-offs among interpretability, scalability, and extrapolation. We further argue that evaluation should move beyond held-out reconstruction accuracy toward biologically meaningful criteria, including generalization to unseen cell types and perturbations, dose, time, and combination response extrapolation, uncertainty calibration, and mechanistic consistency. We then propose a closed-loop validation ladder connecting in silico predictions to CRISPR perturbation, imaging, organoid, and tissue-level assays. Our aim is to review what current models can and cannot yet do, and to set out an evidential framework specifying what a virtual cell must demonstrate before its outputs are acted upon, noting which requirements are attainable today and which remain longer-term goals.",
+    "keywords": [
+      "model validation",
+      "multimodal integration",
+      "single-cell perturbations",
+      "trustworthy AI",
+      "virtual cells"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Wangshu",
+        "Aziz, Aziz Ur Rehman",
+        "Xu, Bowen",
+        "Xu, Jingshan",
+        "Yu, Xiaohui",
+        "Wang, Daqing",
+        "Ha, Chunfang"
+      ],
+      "short_names": [
+        "Li W",
+        "Aziz AUR",
+        "Xu B",
+        "Xu J",
+        "Yu X",
+        "Wang D",
+        "Ha C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China.",
+        "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China.",
+        "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China.",
+        "Bengbu Medical University, Bengbu, China.",
+        "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China.",
+        "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China.",
+        "General Hospital of Ningxia Medical University, Yinchuan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Wangshu",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Aziz, Aziz Ur Rehman",
+        "short_name": "Aziz AUR",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Bowen",
+        "short_name": "Xu B",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jingshan",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Bengbu Medical University, Bengbu, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xiaohui",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Daqing",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biotherapy, Dalian Women and Children's Medical Center Group, Women and Children's Hospital Affiliated to Dalian University of Technology, Dalian, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Ha, Chunfang",
+        "short_name": "Ha C",
+        "identifiers": [],
+        "affiliations": [
+          "General Hospital of Ningxia Medical University, Yinchuan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 11:50",
+    "fetched_at": "2026-09-28 17:46:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42775042",
+      "42475469",
+      "42758091",
+      "42749352",
+      "42482180",
+      "23912807",
+      "39303095",
+      "42716878",
+      "41452988",
+      "42167225",
+      "42782810",
+      "42764197",
+      "41889931",
+      "42429061",
+      "42736511",
+      "42400328",
+      "42667121",
+      "41962624",
+      "41381900",
+      "26269925",
+      "41950794",
+      "42716354",
+      "41000745",
+      "42699656",
+      "36321557",
+      "41867722",
+      "41776108",
+      "42498177",
+      "42490893",
+      "42782912",
+      "42391613",
+      "40672312",
+      "42424005",
+      "42559365",
+      "42677890",
+      "42327793",
+      "30725667",
+      "41376168",
+      "42398561",
+      "41450855",
+      "42747551",
+      "42754836",
+      "41902503",
+      "38309959",
+      "42575519",
+      "42577751",
+      "42341346",
+      "42520754",
+      "41959450",
+      "37154091",
+      "42480126",
+      "42753692",
+      "41590268",
+      "42440488",
+      "41743184",
+      "42639132",
+      "41573962",
+      "42762864",
+      "39241330",
+      "31363220",
+      "38721585",
+      "39178831",
+      "41847009",
+      "39677694",
+      "42604385",
+      "42288124",
+      "42212409",
+      "41647200",
+      "42239079",
+      "41736103",
+      "42653123",
+      "42256531",
+      "42108631",
+      "42704980",
+      "42741572",
+      "42783140",
+      "41094040",
+      "41394628",
+      "42137320",
+      "41727131",
+      "42333095",
+      "42730495",
+      "42043942",
+      "42013055",
+      "42785152",
+      "41146276",
+      "41536916",
+      "42715312",
+      "41348304",
+      "42582242",
+      "41755349",
+      "42539229",
+      "22838153",
+      "42617149",
+      "41982682",
+      "42638493",
+      "26447007",
+      "42237373",
+      "41197632",
+      "42597601"
+    ],
+    "review": [
+      "42775042",
+      "42716878",
+      "42782810",
+      "42429061",
+      "42736511",
+      "42400328",
+      "41962624",
+      "41381900",
+      "42716354",
+      "42699656",
+      "36321557",
+      "41776108",
+      "42498177",
+      "42490893",
+      "42782912",
+      "42391613",
+      "42424005",
+      "42559365",
+      "42327793",
+      "41376168",
+      "42747551",
+      "41902503",
+      "42575519",
+      "42341346",
+      "42520754",
+      "42753692",
+      "41590268",
+      "42440488",
+      "38721585",
+      "39178831",
+      "42604385",
+      "42288124",
+      "42212409",
+      "41736103",
+      "42653123",
+      "42108631",
+      "42704980",
+      "42741572",
+      "42783140",
+      "42137320",
+      "42730495",
+      "42043942",
+      "42013055",
+      "42785152",
+      "41146276",
+      "41536916",
+      "41348304",
+      "41755349",
+      "42617149",
+      "41982682",
+      "42638493",
+      "42237373"
+    ],
+    "pmc": [
+      "13595059"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42775042/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcell.2026.1900624",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

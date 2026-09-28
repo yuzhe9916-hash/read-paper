@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42793032",
+    "doi": "10.3390/genes17091138",
+    "title": "Prime Editing for Precision Genetic Medicine: A Systematic Review of Technologies, Delivery, and Therapeutic Applications."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Prime editing has rapidly evolved from a CRISPR-based \"search-and-replace\" approach for precise sequence modification into a diverse family of genome editing technologies. This systematic review maps the technological evolution of prime editing, with emphasis on editor architecture, guide RNA engineering, delivery, therapeutic applications, computational approaches, and emerging capabilities. METHODS: PubMed and Web of Science were systematically searched for studies in which prime editing constituted a substantive experimental, technological, computational, delivery, or therapeutic component. After deduplication and screening, candidate studies underwent manual re-screening against prespecified eligibility criteria. Reviews, corrections, plant and bacterial studies, conventional CRISPR or base editing studies without a substantive prime editing component, and other non-relevant records were excluded. A total of 294 studies were included in the final systematic evidence synthesis. Because of substantial heterogeneity in editor architectures, targets, experimental models, outcomes, and reporting, the literature was synthesized using systematic mapping and qualitative thematic analysis rather than meta-analysis. RESULTS: The evidence demonstrates rapid diversification from the original Cas9 nickase-reverse transcriptase-prime editing guide RNA architecture through improvements in pegRNA design, Cas and reverse transcriptase engineering, DNA repair modulation, delivery, computational design, and increasingly complex sequence modification. Therapeutic studies span disease modeling, correction of pathogenic variants, ex vivo applications, and direct in vivo editing; however, high editing efficiency does not necessarily translate into functional or therapeutic rescue. Large-sequence insertion and replacement strategies further extend the capabilities of prime editing, although these approaches remain less mature than small-sequence correction and face substantial challenges in efficiency, fidelity, cargo delivery, and genomic safety. CONCLUSIONS: Prime editing has developed into a versatile precision genome editing platform, but the evidence base remains heterogeneous and predominantly preclinical. Translation to genetic medicine will require improvements in reproducibility across targets and cell types, delivery to clinically relevant tissues, product purity, genomic safety, and demonstration of meaningful functional benefit. Emerging large-sequence editing approaches broaden the potential scope of prime editing but should be distinguished from technologies with established experimental and therapeutic evidence.",
+    "keywords": [
+      "CRISPR",
+      "delivery",
+      "gene therapy",
+      "genome editing",
+      "genome writing",
+      "pegRNA",
+      "precision genetic medicine",
+      "prime editing",
+      "therapeutic genome editing"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Gene Editing/methods",
+      "*Precision Medicine/methods",
+      "*CRISPR-Cas Systems/genetics",
+      "*Genetic Therapy/methods",
+      "Animals",
+      "RNA, Guide, CRISPR-Cas Systems/genetics",
+      "Gene Transfer Techniques"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review",
+      "Systematic Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ruden, Douglas M"
+      ],
+      "short_names": [
+        "Ruden DM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0070-437X"
+      ],
+      "affiliations": [
+        "Institute of Environmental Health Sciences, Charles S. Mott Center for Human Growth and Development, Department of Obstetrics and Gynecology, Wayne State University, Detroit, MI 48201, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ruden, Douglas M",
+        "short_name": "Ruden DM",
+        "identifiers": [
+          "0000-0002-0070-437X"
+        ],
+        "affiliations": [
+          "Institute of Environmental Health Sciences, Charles S. Mott Center for Human Growth and Development, Department of Obstetrics and Gynecology, Wayne State University, Detroit, MI 48201, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes"
+    ],
+    "journal_abbrev": [
+      "Genes (Basel)"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review",
+      "Systematic Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42793032",
+      "41038616",
+      "42470832",
+      "42782748",
+      "41605411",
+      "42758354",
+      "39832688",
+      "42226724",
+      "42303162",
+      "36069759",
+      "42015509",
+      "42265375",
+      "40870013",
+      "41952451",
+      "38623982",
+      "42524609",
+      "42173386",
+      "42771306",
+      "41684870",
+      "42423795",
+      "41241768",
+      "26747759",
+      "38832869",
+      "38943578",
+      "29019352",
+      "35766313",
+      "36321557",
+      "42586245",
+      "42298891",
+      "41329461",
+      "34509669",
+      "42353791",
+      "37525893",
+      "39707395",
+      "42781958",
+      "34080099",
+      "32697075",
+      "41985328",
+      "41495582",
+      "42090053",
+      "40752775",
+      "42486091",
+      "31099553",
+      "40025867",
+      "39332185",
+      "38069367",
+      "42763006",
+      "41109516",
+      "42771304",
+      "36384993",
+      "42439976",
+      "42766154",
+      "40878556",
+      "39871553",
+      "42447864",
+      "42193866",
+      "42018092",
+      "39276086",
+      "42662231",
+      "42450255",
+      "41840824",
+      "36512351",
+      "35808824",
+      "35335122",
+      "37002157",
+      "36547823",
+      "40341582",
+      "40028019",
+      "41412287",
+      "41418774",
+      "42499346",
+      "40553339",
+      "42033211",
+      "32872311",
+      "42749951",
+      "38847802",
+      "39150015",
+      "32194858",
+      "42787623",
+      "41751840",
+      "40220094",
+      "38330875",
+      "40813912",
+      "39887239",
+      "41665042",
+      "40685330",
+      "35880456",
+      "38857763",
+      "28177771",
+      "41702027",
+      "41812941",
+      "37243510",
+      "42793101",
+      "42264060",
+      "42106044",
+      "30169977",
+      "36077206",
+      "41820622",
+      "36454475",
+      "42103069"
+    ],
+    "review": [
+      "42793032",
+      "41038616",
+      "42470832",
+      "42782748",
+      "41605411",
+      "42758354",
+      "39832688",
+      "42226724",
+      "42303162",
+      "42015509",
+      "42265375",
+      "40870013",
+      "41952451",
+      "38623982",
+      "42524609",
+      "42173386",
+      "42771306",
+      "41684870",
+      "42423795",
+      "41241768",
+      "38832869",
+      "38943578",
+      "35766313",
+      "36321557",
+      "42586245",
+      "42298891",
+      "41329461",
+      "34509669",
+      "42353791",
+      "37525893",
+      "39707395",
+      "42781958",
+      "34080099",
+      "41985328",
+      "41495582",
+      "42090053",
+      "40752775",
+      "42486091",
+      "40025867",
+      "39332185",
+      "38069367",
+      "42763006",
+      "41109516",
+      "42771304",
+      "36384993",
+      "42439976",
+      "42766154",
+      "40878556",
+      "39871553",
+      "42193866",
+      "42018092",
+      "39276086",
+      "42662231",
+      "42450255",
+      "41840824",
+      "36512351",
+      "37002157",
+      "36547823",
+      "41412287",
+      "41418774",
+      "42499346",
+      "42033211",
+      "32872311",
+      "42749951",
+      "39150015",
+      "32194858",
+      "42787623",
+      "41751840",
+      "38330875",
+      "40813912",
+      "41665042",
+      "35880456",
+      "38857763",
+      "28177771",
+      "41702027",
+      "41812941",
+      "42793101",
+      "42264060",
+      "30169977",
+      "41820622",
+      "42103069"
+    ],
+    "pmc": [
+      "13606464"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=genes17091138",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/genesandgenetherapy.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Genes and Gene Therapy"
+      }
+    ],
+    "text_mined": []
+  }
+}

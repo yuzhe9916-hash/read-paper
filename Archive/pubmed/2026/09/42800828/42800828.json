@@ -1,0 +1,320 @@
+{
+  "identity": {
+    "pmid": "42800828",
+    "doi": "10.1038/s44320-026-00248-z",
+    "title": "Engineering a compact CgCas12n platform for efficient genome and base editing in mammalian cells."
+  },
+  "content": {
+    "abstract": "Type V CRISPR-Cas12 systems evolved from transposon-encoded TnpB proteins, with type V-U4 nucleases (Cas12n) as evolutionary intermediates linking TnpB to larger type V effectors. Despite their compact size, most Cas12n orthologs, including Corynebacterium glutamicum Cas12n (CgCas12n), exhibit low genome-editing activity in mammalian cells. Here, we engineered CgCas12n using an arginine enrichment strategy, generating a variant with approximately 60-fold enhanced editing efficiency. Concurrently, we optimized the sgRNA scaffold to reduce its size without compromising activity. These improvements were combined to establish an enhanced CgCas12n system (eCgCas12n) that enables efficient mammalian genome editing. We further adapted this system for base editing by constructing a cytosine base editor (eCgCas12n-CBE) that mediates efficient C-to-T conversion. As proof of concept, eCgCas12n-CBE introduced a premature stop codon into the Dmd gene, reducing dystrophin expression and impairing myogenic differentiation. AAV9-mediated delivery of eCgCas12n-CBE into mouse skeletal muscle demonstrated its in vivo editing capability. Collectively, this work establishes a robust engineering strategy to enhance compact Cas12n nucleases and provides an efficient genome- and base-editing platform for functional genetic studies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hou, Bowen",
+        "Liu, Xinyi",
+        "Fan, Jiawen",
+        "Wang, Wanjie",
+        "Jin, Chuanzhao",
+        "Li, Guanglei",
+        "Zhang, Yu",
+        "Yu, Wenxia",
+        "Huang, Lei",
+        "Li, Xinyun",
+        "Huang, Xingxu",
+        "Li, Kui"
+      ],
+      "short_names": [
+        "Hou B",
+        "Liu X",
+        "Fan J",
+        "Wang W",
+        "Jin C",
+        "Li G",
+        "Zhang Y",
+        "Yu W",
+        "Huang L",
+        "Li X",
+        "Huang X",
+        "Li K"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-3333-2121",
+        "ORCID: 0000-0001-9033-5012",
+        "ORCID: 0000-0002-7812-6266",
+        "ORCID: 0000-0001-8934-1247",
+        "ORCID: 0000-0002-5686-3898"
+      ],
+      "affiliations": [
+        "College of Animal Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China.",
+        "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China.",
+        "College of Animal Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China.",
+        "State Key Laboratory of Animal Biotech Breeding, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing, China.",
+        "State Key Laboratory of Animal Biotech Breeding, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing, China.",
+        "Shanghai-MOST Key Laboratory of Health and Disease Genomics, NHC Key Lab of Reproduction Regulation, Shanghai Institute for Biomedical and Pharmaceutical Technologies, Shanghai, China.",
+        "Shanghai-MOST Key Laboratory of Health and Disease Genomics, NHC Key Lab of Reproduction Regulation, Shanghai Institute for Biomedical and Pharmaceutical Technologies, Shanghai, China.",
+        "Shanghai-MOST Key Laboratory of Health and Disease Genomics, NHC Key Lab of Reproduction Regulation, Shanghai Institute for Biomedical and Pharmaceutical Technologies, Shanghai, China.",
+        "Agsino GenSources Co., Ltd., Shenzhen, China.",
+        "College of Animal Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "The First Affiliated Hospital Zhejiang University School of Medicine, Hangzhou, China.",
+        "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China. likui@caas.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hou, Bowen",
+        "short_name": "Hou B",
+        "identifiers": [
+          "0009-0004-3333-2121"
+        ],
+        "affiliations": [
+          "College of Animal Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+          "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xinyi",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Jiawen",
+        "short_name": "Fan J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Animal Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+          "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wanjie",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Chuanzhao",
+        "short_name": "Jin C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Guanglei",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai-MOST Key Laboratory of Health and Disease Genomics, NHC Key Lab of Reproduction Regulation, Shanghai Institute for Biomedical and Pharmaceutical Technologies, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yu",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0001-9033-5012"
+        ],
+        "affiliations": [
+          "Shanghai-MOST Key Laboratory of Health and Disease Genomics, NHC Key Lab of Reproduction Regulation, Shanghai Institute for Biomedical and Pharmaceutical Technologies, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Wenxia",
+        "short_name": "Yu W",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai-MOST Key Laboratory of Health and Disease Genomics, NHC Key Lab of Reproduction Regulation, Shanghai Institute for Biomedical and Pharmaceutical Technologies, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Lei",
+        "short_name": "Huang L",
+        "identifiers": [
+          "0000-0002-7812-6266"
+        ],
+        "affiliations": [
+          "Agsino GenSources Co., Ltd., Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xinyun",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Animal Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xingxu",
+        "short_name": "Huang X",
+        "identifiers": [
+          "0000-0001-8934-1247"
+        ],
+        "affiliations": [
+          "The First Affiliated Hospital Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Kui",
+        "short_name": "Li K",
+        "identifiers": [
+          "0000-0002-5686-3898"
+        ],
+        "affiliations": [
+          "Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Key Laboratory of Livestock and Poultry Multi-omics of MARA, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China. likui@caas.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular systems biology"
+    ],
+    "journal_abbrev": [
+      "Mol Syst Biol"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 05:44",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42800828",
+      "37402371",
+      "40595633",
+      "36374037",
+      "38899980",
+      "38280857",
+      "42675860",
+      "34042262",
+      "41832076",
+      "38974856",
+      "32963098",
+      "42315520",
+      "39991929",
+      "39126615",
+      "40857323",
+      "40394336",
+      "39799585",
+      "41888883",
+      "42615537",
+      "42615363",
+      "42466324",
+      "34329468",
+      "40492429",
+      "41554741",
+      "42219400",
+      "38766526",
+      "33845891",
+      "37797813",
+      "35338607",
+      "41566394",
+      "42188925",
+      "42214710",
+      "41834254",
+      "41428733",
+      "34174445",
+      "41072420",
+      "40121072",
+      "36625577",
+      "42589580",
+      "36099191",
+      "39556313",
+      "39313558",
+      "35234398",
+      "40205495",
+      "34480847",
+      "42432197",
+      "35693153",
+      "42556347",
+      "32577397",
+      "41708664",
+      "39558904",
+      "38658536",
+      "41975095",
+      "38720820",
+      "42304391",
+      "40087215",
+      "37386294",
+      "42723179",
+      "37010073",
+      "35333175",
+      "40186294",
+      "37041195",
+      "32807756",
+      "37164010",
+      "34534448",
+      "36044571",
+      "38379787",
+      "41938358",
+      "41917051",
+      "41309688",
+      "30484125",
+      "36800641",
+      "41542533",
+      "29145843",
+      "28469274",
+      "34189671",
+      "38801866",
+      "41588854",
+      "35608343",
+      "41152217",
+      "41027434",
+      "35595757",
+      "42031218",
+      "42647959",
+      "39096898",
+      "41659408",
+      "41593699",
+      "29685154",
+      "34997407",
+      "41123679",
+      "42723282",
+      "36243370",
+      "42178964",
+      "39541214",
+      "40494841",
+      "37098587",
+      "36609377",
+      "32876764",
+      "35543560",
+      "26755436"
+    ],
+    "review": [
+      "42800828",
+      "38899980",
+      "37797813"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s44320-026-00248-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

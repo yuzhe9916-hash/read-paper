@@ -1,0 +1,340 @@
+{
+  "identity": {
+    "pmid": "42779610",
+    "doi": "10.64898/2026.09.03.749158",
+    "title": "Interrogation of noncoding schizophrenia risk variants using CRISPR-based functional genomics."
+  },
+  "content": {
+    "abstract": "Schizophrenia (SCZ) is a highly heritable complex disorder influenced by coding and noncoding genetic variation. Its genetic causes, particularly those involving noncoding variation, are largely unknown. High-throughput CRISPR screens enable dissection of disease-associated loci and identification of noncoding regulatory elements and variants that modulate gene expression. We screened SCZ GWAS loci linked to genes that are also associated in whole-exome sequencing studies to identify regulatory elements and variants impacting expression of disease-relevant genes. We used CRISPRi paired with HCR-FlowFISH to epigenetically silence 333 putative regulatory elements and measure the downstream effects on gene expression of causal SCZ genes, FAM120A , SV2A , and STAG1 , in iPSCs and iPSC-derived neurons (iNeurons). We identified 78 regulatory elements that significantly alter expression of a SCZ gene, including noncoding enhancers/silencers as well as promoters of genes and lncRNAs. Pooled prime editing screens interrogated noncoding variant influence on gene expression for SCZ-associated variants and uncharacterized common variants from diverse population studies. We find that a common variant in the promoter of SV2A , rs112851681:A>G (MAF = 3.56%, 1000 Genomes) enhances transcriptional activity in iPSCs and iNeurons. These findings show distinct noncoding mechanisms that map within GWAS signals, and provide a path forward for interrogating noncoding regulatory elements and variants in disease loci.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hamilton, Marisa C",
+        "Riley, Julia W",
+        "Nelson, Alexander C",
+        "Li, Boxun",
+        "Dornbaum, Sophie F",
+        "Safi, Alexias",
+        "Cui, Xiekui",
+        "Jones, Ian R",
+        "Coley, Aaron A",
+        "Hagy, Kevin T",
+        "Rai, Ruhi",
+        "Barrera, Alejandro",
+        "Allen, Andrew S",
+        "Shen, Yin",
+        "Sherwood, Richard I",
+        "Love, Michael I",
+        "Sullivan, Patrick F",
+        "Gersbach, Charles A",
+        "Crawford, Gregory E"
+      ],
+      "short_names": [
+        "Hamilton MC",
+        "Riley JW",
+        "Nelson AC",
+        "Li B",
+        "Dornbaum SF",
+        "Safi A",
+        "Cui X",
+        "Jones IR",
+        "Coley AA",
+        "Hagy KT",
+        "Rai R",
+        "Barrera A",
+        "Allen AS",
+        "Shen Y",
+        "Sherwood RI",
+        "Love MI",
+        "Sullivan PF",
+        "Gersbach CA",
+        "Crawford GE"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Hamilton, Marisa C",
+        "short_name": "Hamilton MC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Riley, Julia W",
+        "short_name": "Riley JW",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nelson, Alexander C",
+        "short_name": "Nelson AC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Boxun",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dornbaum, Sophie F",
+        "short_name": "Dornbaum SF",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Safi, Alexias",
+        "short_name": "Safi A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cui, Xiekui",
+        "short_name": "Cui X",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jones, Ian R",
+        "short_name": "Jones IR",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Coley, Aaron A",
+        "short_name": "Coley AA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hagy, Kevin T",
+        "short_name": "Hagy KT",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rai, Ruhi",
+        "short_name": "Rai R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Barrera, Alejandro",
+        "short_name": "Barrera A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Allen, Andrew S",
+        "short_name": "Allen AS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shen, Yin",
+        "short_name": "Shen Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sherwood, Richard I",
+        "short_name": "Sherwood RI",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Love, Michael I",
+        "short_name": "Love MI",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sullivan, Patrick F",
+        "short_name": "Sullivan PF",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gersbach, Charles A",
+        "short_name": "Gersbach CA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Crawford, Gregory E",
+        "short_name": "Crawford GE",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779610",
+      "37852259",
+      "34541447",
+      "41927765",
+      "30113658",
+      "25575480",
+      "40421528",
+      "39656777",
+      "25434007",
+      "41053005",
+      "41392096",
+      "42190655",
+      "32248749",
+      "40654604",
+      "41757073",
+      "31500805",
+      "39606363",
+      "31115186",
+      "37141313",
+      "34529725",
+      "32005150",
+      "29056226",
+      "38702885",
+      "42327190",
+      "31561366",
+      "29728367",
+      "28803920",
+      "39678461",
+      "35701597",
+      "33828297",
+      "41675975",
+      "40161821",
+      "38748784",
+      "33882988",
+      "31910432",
+      "38948875",
+      "22174694",
+      "32948616",
+      "36517655",
+      "38585875",
+      "31811028",
+      "38616054",
+      "29378629",
+      "25497042",
+      "36443183",
+      "34699533",
+      "36997428",
+      "42642720",
+      "40118058",
+      "28335009",
+      "38951484",
+      "30079747",
+      "38308274",
+      "37756045",
+      "38187620",
+      "39341862",
+      "37398408",
+      "25453756",
+      "41253765",
+      "29411265",
+      "29262854",
+      "40205616",
+      "38297830",
+      "38082312",
+      "40918684",
+      "36768794",
+      "35887306",
+      "33712570",
+      "33626337",
+      "32486876",
+      "36329495",
+      "32732423",
+      "40311511",
+      "42475469",
+      "36121513",
+      "33815481",
+      "41616807",
+      "28985510",
+      "27005890",
+      "38745269",
+      "41810371",
+      "28407294",
+      "36057282",
+      "36674677",
+      "34654853",
+      "40318978",
+      "35483347",
+      "28155632",
+      "30786239",
+      "35590387",
+      "37645863",
+      "32864408",
+      "29745862",
+      "37425902",
+      "38889719",
+      "31775028",
+      "29351903",
+      "33246552",
+      "26367794",
+      "32066673"
+    ],
+    "review": [
+      "42779610",
+      "25575480",
+      "31115186",
+      "33882988",
+      "36443183",
+      "36997428",
+      "40118058",
+      "40918684",
+      "41616807",
+      "28985510",
+      "28407294",
+      "36674677",
+      "35483347"
+    ],
+    "pmc": [
+      "13596172"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42779610/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.03.749158",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

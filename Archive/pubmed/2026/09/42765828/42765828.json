@@ -1,0 +1,337 @@
+{
+  "identity": {
+    "pmid": "42765828",
+    "doi": "10.1002/mbo3.70413",
+    "title": "Interrogating the Escherichia coli Epitranscriptome Via CRISPR Interference and Nanopore Native RNA Sequencing."
+  },
+  "content": {
+    "abstract": "Epitranscriptomics has recently gained significant momentum due to technological advances and translational applications; however, studies on bacterial RNA modifications remain limited. Bacterial RNA is notoriously prone to degradation, and methodologies to investigate the epitranscriptome are challenging. Prior research has shown RNA modifications modulate antimicrobial resistance, virulence and pathogenicity. This research employed CRISPR interference to knock down five known Escherichia coli rRNA modification genes (rlmF, rlmJ, rluD, rsmF and rsmG) in three E. coli strains. These isolates were investigated for growth delays, changes in the proteome and the influence on mRNA modifications via native RNA sequencing. CRISPRi adequately silenced the majority of RNA modification genes in E. coli (> 80% reduction). Significant growth delays were associated with rlmF, rluD and rsmF repression. Unique protein pathways corresponding with RNA modification loss were found for rlmJ (TreB, XylF), rluD (CysH, HycB, PutP, TrpB), rsmF (EvgA) and rsmG (OppC). Known rRNA modification sites for rluD (Psi) and rsmG (m7G) were detected from analysis of nanopore electrical signal; however, only a weak signal was apparent for m6A (rlmF, rlmJ) and m5C (rsmF) modifications. The inhibition of rRNA modifications resulted in mRNA modification changes, including for genes ompC, cspC, dbhA, dbhB and secY. Our work provides an approach for unravelling the epitranscriptome of E. coli to gain insight into its functional role.",
+    "keywords": [
+      "CRISPR interference",
+      "RNA modifications",
+      "bacteria",
+      "epitranscriptomics",
+      "nanopore RNA sequencing",
+      "proteomics"
+    ],
+    "mesh_terms": [
+      "*Escherichia coli/genetics/metabolism/growth & development",
+      "Epitranscriptome",
+      "Epitranscriptomics",
+      "*RNA, Bacterial/genetics/metabolism",
+      "Escherichia coli Proteins/genetics/metabolism",
+      "Sequence Analysis, RNA/methods",
+      "Clustered Regularly Interspaced Short Palindromic Repeats",
+      "RNA Processing, Post-Transcriptional",
+      "Gene Expression Regulation, Bacterial",
+      "Nanopore Sequencing",
+      "RNA Methylation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pitt, Miranda E",
+        "Zhang, Jianshu",
+        "Nguyen, An N T",
+        "Hall, Michael B",
+        "Jebeli, Leila",
+        "Featherstone, Leo A",
+        "Myers, Garry S A",
+        "Scott, Nichollas E",
+        "Coin, Lachlan J M"
+      ],
+      "short_names": [
+        "Pitt ME",
+        "Zhang J",
+        "Nguyen ANT",
+        "Hall MB",
+        "Jebeli L",
+        "Featherstone LA",
+        "Myers GSA",
+        "Scott NE",
+        "Coin LJM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8255-4036",
+        "ORCID: 0009-0008-0871-5197",
+        "ORCID: 0000-0003-4893-6636",
+        "ORCID: 0000-0003-3683-6208",
+        "ORCID: 0000-0003-4240-9528",
+        "ORCID: 0000-0002-8878-1758",
+        "ORCID: 0000-0003-2556-8316",
+        "ORCID: 0000-0002-4300-455X"
+      ],
+      "affiliations": [
+        "Australian Institute for Microbiology and Infection, University of Technology Sydney, Sydney, New South Wales, Australia.",
+        "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.",
+        "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.",
+        "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.",
+        "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.",
+        "Enteric Diseases Group, Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
+        "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.",
+        "The Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia.",
+        "Australian Institute for Microbiology and Infection, University of Technology Sydney, Sydney, New South Wales, Australia.",
+        "School of Natural Sciences, Macquarie University, Sydney, New South Wales, Australia.",
+        "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.",
+        "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pitt, Miranda E",
+        "short_name": "Pitt ME",
+        "identifiers": [
+          "0000-0002-8255-4036"
+        ],
+        "affiliations": [
+          "Australian Institute for Microbiology and Infection, University of Technology Sydney, Sydney, New South Wales, Australia.",
+          "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jianshu",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0009-0008-0871-5197"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Nguyen, An N T",
+        "short_name": "Nguyen ANT",
+        "identifiers": [
+          "0000-0003-4893-6636"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Hall, Michael B",
+        "short_name": "Hall MB",
+        "identifiers": [
+          "0000-0003-3683-6208"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Jebeli, Leila",
+        "short_name": "Jebeli L",
+        "identifiers": [
+          "0000-0003-4240-9528"
+        ],
+        "affiliations": [
+          "Enteric Diseases Group, Murdoch Children's Research Institute, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Featherstone, Leo A",
+        "short_name": "Featherstone LA",
+        "identifiers": [
+          "0000-0002-8878-1758"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.",
+          "The Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Myers, Garry S A",
+        "short_name": "Myers GSA",
+        "identifiers": [],
+        "affiliations": [
+          "Australian Institute for Microbiology and Infection, University of Technology Sydney, Sydney, New South Wales, Australia.",
+          "School of Natural Sciences, Macquarie University, Sydney, New South Wales, Australia."
+        ]
+      },
+      {
+        "full_name": "Scott, Nichollas E",
+        "short_name": "Scott NE",
+        "identifiers": [
+          "0000-0003-2556-8316"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Coin, Lachlan J M",
+        "short_name": "Coin LJM",
+        "identifiers": [
+          "0000-0002-4300-455X"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology at The Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "MicrobiologyOpen"
+    ],
+    "journal_abbrev": [
+      "Microbiologyopen"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 11:44",
+    "fetched_at": "2026-09-28 17:46:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42765828",
+      "40114376",
+      "41626690",
+      "40930088",
+      "39613750",
+      "39011882",
+      "42678953",
+      "24968035",
+      "42009529",
+      "38966972",
+      "37700703",
+      "41891765",
+      "40870000",
+      "36104106",
+      "41529120",
+      "41570162",
+      "41615068",
+      "41535294",
+      "42343618",
+      "41535090",
+      "29100516",
+      "41792790",
+      "41586584",
+      "40521885",
+      "34798057",
+      "40842235",
+      "42200432",
+      "23202464",
+      "27789334",
+      "27834201",
+      "21037010",
+      "40649849",
+      "41663212",
+      "29408626",
+      "37345867",
+      "31095620",
+      "39453698",
+      "41854072",
+      "37894843",
+      "42450129",
+      "25981485",
+      "30204770",
+      "29861158",
+      "42306945",
+      "35695420",
+      "40550508",
+      "32710622",
+      "40359935",
+      "29678883",
+      "28167522",
+      "42241317",
+      "38015471",
+      "39727179",
+      "41603648",
+      "41130312",
+      "29765036",
+      "16000839",
+      "33251765",
+      "26125937",
+      "32618488",
+      "33986546",
+      "41206472",
+      "37813387",
+      "41708233",
+      "41930970",
+      "39375921",
+      "39495928",
+      "27842593",
+      "19509304",
+      "25839984",
+      "22849651",
+      "41578090",
+      "39287442",
+      "38724548",
+      "33332762",
+      "38909033",
+      "30455279",
+      "22586702",
+      "34486768",
+      "42053422",
+      "27174938",
+      "39241085",
+      "41380683",
+      "41731568",
+      "32356726",
+      "22114197",
+      "41417738",
+      "19246752",
+      "38531971",
+      "23392250",
+      "28851853",
+      "40632306",
+      "34085237",
+      "23403814",
+      "41627466",
+      "42650842",
+      "26238567",
+      "26956996",
+      "35015630",
+      "21255106"
+    ],
+    "review": [
+      "42765828",
+      "42009529",
+      "38966972",
+      "40870000",
+      "41615068",
+      "42343618",
+      "41535090",
+      "23202464",
+      "41663212",
+      "37894843",
+      "42450129",
+      "41708233",
+      "41731568",
+      "41627466"
+    ],
+    "pmc": [
+      "13592227"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42765828/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/mbo3.70413",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

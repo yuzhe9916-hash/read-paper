@@ -1,0 +1,300 @@
+{
+  "identity": {
+    "pmid": "42800634",
+    "doi": "10.1016/j.neuropharm.2026.111195",
+    "title": "Proteasome-dependent degradation of DAPK1 by wogonoside blocks PARthanatos and protects against ischemic stroke."
+  },
+  "content": {
+    "abstract": "Ischemic stroke remains a leading cause of death and disability, yet effective pharmacological neuroprotection remains elusive. ROS-induced PARthanatos-driven by PARP1 hyperactivation and the mitochondrial-apoptosis-inducing factor (AIF) death axis-is a principal executor of ischemic neuronal death. However, direct PARP1 inhibition inevitably compromises essential DNA repair. Here, we identify a downstream intervention node that uncouples lethal signaling from genomic maintenance. Through phenotype-to-target deconvolution combining reverse pharmacophore mapping, bioinformatic intersection with programmed cell death genes, and integrated biophysical validation (docking, 100-ns molecular dynamics, cellular thermal shift assay, and surface plasmon resonance), we demonstrate that wogonoside (WS), a flavonoid glycoside from Scutellaria baicalensis, directly binds death-associated protein kinase 1 (DAPK1; KD = 6.07 muM) and acts as a ligand-induced degrader that triggers proteasome-dependent DAPK1 clearance. CRISPR/Cas9-mediated DAPK1 knockout fully phenocopied WS-mediated protection, whereas ectopic DAPK1 overexpression abolished it. WS-induced degradation intercepted the JNK-mitochondrial depolarization-AIF nuclear translocation cascade while leaving PARP1 catalytic activity, PAR polymer formation, and gammaH2AX resolution fully intact-in stark contrast to the clinical PARP1 inhibitor olaparib. In a mouse permanent distal middle cerebral artery occlusion model, a single dose of WS reduced cortical infarct volume by  approximately 50%, preserved neurons, suppressed microglial activation, and maintained microvascular integrity, accompanied by significant sensorimotor recovery. Single-nucleus RNA sequencing revealed Dapk1 enrichment in activated microglia and co-variation with neuronal MAPK pro-death signaling, suggesting a dual-compartment mechanism. These findings define proteasome-dependent DAPK1 degradation as a mechanistically distinct antioxidant strategy for acute ischemic stroke.",
+    "keywords": [
+      "DAPK1",
+      "PARthanatos",
+      "Proteasomal degradation",
+      "ischemic stroke",
+      "wogonoside"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhai, Chun-Ze",
+        "Cao, Yin",
+        "Shen, Yu-Xin",
+        "Wang, Yi-Zhe",
+        "Liu, Zhi-Peng",
+        "Liu, Fang",
+        "Yu, Jin-Liu",
+        "Wang, Xiu-Xiu",
+        "Zhang, Zhao-Huan",
+        "Xu, Xiao-Hui"
+      ],
+      "short_names": [
+        "Zhai CZ",
+        "Cao Y",
+        "Shen YX",
+        "Wang YZ",
+        "Liu ZP",
+        "Liu F",
+        "Yu JL",
+        "Wang XX",
+        "Zhang ZH",
+        "Xu XH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; Department of Laboratory Medicine, Changzheng Hospital, Naval Medical University, Shanghai 200003, China. Electronic address: zhaohuanpost2016@163.com.",
+        "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China. Electronic address: xhxu@wnmc.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhai, Chun-Ze",
+        "short_name": "Zhai CZ",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Yin",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Yu-Xin",
+        "short_name": "Shen YX",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yi-Zhe",
+        "short_name": "Wang YZ",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhi-Peng",
+        "short_name": "Liu ZP",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Fang",
+        "short_name": "Liu F",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jin-Liu",
+        "short_name": "Yu JL",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiu-Xiu",
+        "short_name": "Wang XX",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhao-Huan",
+        "short_name": "Zhang ZH",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; Department of Laboratory Medicine, Changzheng Hospital, Naval Medical University, Shanghai 200003, China. Electronic address: zhaohuanpost2016@163.com."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiao-Hui",
+        "short_name": "Xu XH",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Basic Research and Transformation of Age-Related Diseases, Wannan Medical University, Wuhu 241002, China; School of Basic Medical Sciences, Wannan Medical University, Wuhu 241002, China. Electronic address: xhxu@wnmc.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neuropharmacology"
+    ],
+    "journal_abbrev": [
+      "Neuropharmacology"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:29",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42800634",
+      "42440904",
+      "37186123",
+      "25294638",
+      "37742938",
+      "35715817",
+      "36633794",
+      "42731470",
+      "30502458",
+      "42548835",
+      "41950963",
+      "42669348",
+      "40830888",
+      "30703362",
+      "41941036",
+      "38735540",
+      "32277960",
+      "30502455",
+      "42593697",
+      "42578421",
+      "29045036",
+      "32066462",
+      "33168626",
+      "27288768",
+      "24231740",
+      "24806680",
+      "41085788",
+      "27181592",
+      "39701216",
+      "38539876",
+      "33424554",
+      "40378509",
+      "29571866",
+      "41098728",
+      "41820988",
+      "42049333",
+      "40017605",
+      "37908731",
+      "32382778",
+      "42134501",
+      "41962467",
+      "19268668",
+      "37714424",
+      "41637987",
+      "42448018",
+      "17728442",
+      "38574839",
+      "40245961",
+      "41515961",
+      "24434516",
+      "39085218",
+      "25280774",
+      "36632219",
+      "34120482",
+      "40694022",
+      "42666033",
+      "32338336",
+      "42526345",
+      "28141794",
+      "42607555",
+      "32046374",
+      "38504011",
+      "33052227",
+      "42322761",
+      "39468165",
+      "42215155",
+      "33359910",
+      "31248062",
+      "31810470",
+      "41174779",
+      "41742164",
+      "41167534",
+      "27447806",
+      "41997149",
+      "23811213",
+      "34370899",
+      "41272902",
+      "29795387",
+      "40269590",
+      "20141836",
+      "36075319",
+      "40571783",
+      "40682944",
+      "30387075",
+      "41701390",
+      "33841091",
+      "42363040",
+      "42462527",
+      "41461311",
+      "34929562",
+      "20800583",
+      "28858643",
+      "29521586",
+      "32358852",
+      "42192059",
+      "35202858",
+      "36058992",
+      "42116053",
+      "30839193",
+      "41787472"
+    ],
+    "review": [
+      "42800634",
+      "31248062",
+      "27447806",
+      "41997149",
+      "35202858"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0028-3908(26)00370-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MAPK8-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-556",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

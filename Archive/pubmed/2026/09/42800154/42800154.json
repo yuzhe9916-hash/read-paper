@@ -1,0 +1,305 @@
+{
+  "identity": {
+    "pmid": "42800154",
+    "doi": "10.1016/j.talanta.2026.130655",
+    "title": "Quantitative detection of the diabetic retinopathy-associated microRNA-1281 via a CRISPR/Cas12a-RCA ratiometric sensing platform."
+  },
+  "content": {
+    "abstract": "Diabetic retinopathy (DR) is a major microvascular complication of diabetes, yet accessible molecular tools for early-stage screening remain limited. Circulating microRNAs are promising non-invasive biomarkers for DR, but their reliable quantification in serum is hindered by low abundance, matrix interference, and limited robustness of single-signal assays. Here, we report a Cas12a-RCA ratiometric sensing platform (CRRSP) for the quantitative detection of the DR-associated biomarker miR-1281. The assay is constructed using a target-triggered cascaded strand-displacement circuit that enforces sequential molecular recognition prior to amplification, thereby improving specificity. Upon target recognition, rolling circle amplification (RCA) generates DNA products that simultaneously produce a thioflavin T (ThT) fluorescence signal via G-quadruplex (G4) formation and sequester the Cas12a/gRNA Activator strand to suppress ROX fluorescence. This dual-channel ThT/ROX readout enables intrinsic ratiometric normalization, effectively compensating for matrix effects and experimental variability. The workflow operates under sequential constant-temperature steps without PCR-type thermal cycling. The assay achieves a detection limit of 0.83 pM with high selectivity and shows excellent agreement with RT-qPCR in clinical serum samples from healthy controls, glaucoma patients, and patients with non-proliferative diabetic retinopathy (NPDR) or proliferative diabetic retinopathy (PDR).",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "Diabetic retinopathy (DR)",
+      "Ratiometric fluorescence",
+      "Rolling circle amplification (RCA)",
+      "miR-1281"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Tianshi",
+        "Tian, Zilin",
+        "Guan, Zhaowei",
+        "Wang, Lingxuan",
+        "Li, Boyu",
+        "Hu, Xintong",
+        "Zhou, Peiwen",
+        "Chen, Liguo",
+        "Ju, Shang",
+        "He, Yulu",
+        "Jiang, Yanfang",
+        "Du, Yan"
+      ],
+      "short_names": [
+        "Yang T",
+        "Tian Z",
+        "Guan Z",
+        "Wang L",
+        "Li B",
+        "Hu X",
+        "Zhou P",
+        "Chen L",
+        "Ju S",
+        "He Y",
+        "Jiang Y",
+        "Du Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China.",
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China; Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China; School of Applied Chemistry and Engineering, University of Science & Technology of China, Hefei, Anhui, 230026, China.",
+        "Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China; School of Biomedical Engineering, Faculty of Medicine, Dalian University of Technology, Dalian, Liaoning, 116024, China.",
+        "Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China.",
+        "Department of Ophthalmology, Jilin Province People's Hospital, Changchun, Jilin, 130021, China.",
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China.",
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China.",
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China.",
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China.",
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China.",
+        "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China. Electronic address: yanfangjiang@jlu.edu.cn.",
+        "Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China; School of Applied Chemistry and Engineering, University of Science & Technology of China, Hefei, Anhui, 230026, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Tianshi",
+        "short_name": "Yang T",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Zilin",
+        "short_name": "Tian Z",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China; Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China; School of Applied Chemistry and Engineering, University of Science & Technology of China, Hefei, Anhui, 230026, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Zhaowei",
+        "short_name": "Guan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China; School of Biomedical Engineering, Faculty of Medicine, Dalian University of Technology, Dalian, Liaoning, 116024, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lingxuan",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China."
+        ]
+      },
+      {
+        "full_name": "Li, Boyu",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, Jilin Province People's Hospital, Changchun, Jilin, 130021, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Xintong",
+        "short_name": "Hu X",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Peiwen",
+        "short_name": "Zhou P",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Liguo",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Ju, Shang",
+        "short_name": "Ju S",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China."
+        ]
+      },
+      {
+        "full_name": "He, Yulu",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yanfang",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Genetic Diagnosis Center, The First Hospital of Jilin University, Changchun, Jilin, 130012, China. Electronic address: yanfangjiang@jlu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Du, Yan",
+        "short_name": "Du Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, 130022, China; School of Applied Chemistry and Engineering, University of Science & Technology of China, Hefei, Anhui, 230026, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Talanta"
+    ],
+    "journal_abbrev": [
+      "Talanta"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:29",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42800154",
+      "42669262",
+      "39359259",
+      "41789624",
+      "41257956",
+      "42707723",
+      "41935002",
+      "42310499",
+      "37230569",
+      "42628890",
+      "41081763",
+      "39515055",
+      "40823120",
+      "39806080",
+      "38490023",
+      "37977804",
+      "42790075",
+      "41993032",
+      "41461696",
+      "41831412",
+      "41508022",
+      "35132857",
+      "40974028",
+      "38860917",
+      "32062754",
+      "42269411",
+      "38182395",
+      "40183844",
+      "38855960",
+      "35609481",
+      "34011151",
+      "30468285",
+      "25427542",
+      "42424186",
+      "36764778",
+      "30945529",
+      "42296867",
+      "40517335",
+      "37683439",
+      "40393239",
+      "40234780",
+      "41321596",
+      "41506042",
+      "40745870",
+      "38815319",
+      "28503423",
+      "42682078",
+      "42702479",
+      "38599120",
+      "42753299",
+      "42543449",
+      "42544618",
+      "42015157",
+      "40878190",
+      "38354496",
+      "41992333",
+      "42689595",
+      "40231069",
+      "39491486",
+      "34602188",
+      "40422056",
+      "28063390",
+      "27769370",
+      "37624508",
+      "37827629",
+      "40382111",
+      "35996507",
+      "41073014",
+      "35623786",
+      "35349840",
+      "42328982",
+      "29812988",
+      "40651075",
+      "34571504",
+      "39273436",
+      "41552883",
+      "33133487",
+      "40441113",
+      "33213115",
+      "36893726",
+      "35304162",
+      "40886669",
+      "38573977",
+      "42600477",
+      "40331901",
+      "33980009",
+      "40945113",
+      "42692324",
+      "35988346",
+      "39489975",
+      "42068913",
+      "41505468",
+      "32797181",
+      "30588418",
+      "39947797",
+      "40517662",
+      "40461778",
+      "38280789",
+      "33376911",
+      "41263093"
+    ],
+    "review": [
+      "42800154",
+      "40461778"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0039-9140(26)01311-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

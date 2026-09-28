@@ -1,0 +1,537 @@
+{
+  "identity": {
+    "pmid": "42779800",
+    "doi": "10.64898/2026.09.14.751351",
+    "title": "Chemically modified CRISPR enzymes for multi-organ genome editing in vivo."
+  },
+  "content": {
+    "abstract": "Delivery remains the main obstacle to the development of in vivo genome editing therapies. CRISPR ribonucleoproteins confer high editing activity with transient exposure but lack intrinsic cell entry and targeting. Here we introduce PERCEPT, a delivery platform featuring reversible, covalent modification of CRISPR enzymes. PERCEPT enables modular installation of shielding polymers, amphiphilic delivery peptides and targeting ligands, allowing traceless cytosolic release of the native editor. A formulation incorporating an amphiphilic delivery peptide and the neuron-targeting ligand TET1 edited approximately 56% of striatal volume and 78% of neurons within edited regions after local striatal administration. In the R6/2 Huntington's disease model, PERCEPT mediated targeted editing of the mutant human HTT transgene, reducing mutant huntingtin aggregate burden and shifting local transcriptional programs away from inflammatory and injury-associated states. Tissue-adapted formulations edited 53% of Muller glia following intravitreal delivery, increased skeletal muscle reporter fluorescence tenfold versus unconjugated control following intramuscular injection, and enabled lung airway epithelial cell that persisted for three months following intranasal delivery. Rapid screening revealed that local anatomical and cellular barriers require distinct surface display for optimal editing. These results establish reversible chemical modification as a general strategy for adapting CRISPR enzyme delivery across multiple target tissues in vivo.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Baehr, Christopher M",
+        "Ressnerova, Alzbeta",
+        "Kang, Min",
+        "Zhao, Sheng",
+        "Le, Beatrice",
+        "Haddad, Rania F",
+        "Asija, Kunica",
+        "Damante, Mark",
+        "Sharma, Rohit",
+        "George, Christy",
+        "Huang, Heidi",
+        "Assa, Dror",
+        "Noel, Eric A",
+        "Manohar, Brigette",
+        "Otero, P Anthony",
+        "Travis, Meika",
+        "Saikaly, Kayla",
+        "Hu, Sophie",
+        "Van Laar, Victor S",
+        "Lonser, Russell R",
+        "Flannery, John G",
+        "Murthy, Niren",
+        "Wilson, Ross C"
+      ],
+      "short_names": [
+        "Baehr CM",
+        "Ressnerova A",
+        "Kang M",
+        "Zhao S",
+        "Le B",
+        "Haddad RF",
+        "Asija K",
+        "Damante M",
+        "Sharma R",
+        "George C",
+        "Huang H",
+        "Assa D",
+        "Noel EA",
+        "Manohar B",
+        "Otero PA",
+        "Travis M",
+        "Saikaly K",
+        "Hu S",
+        "Van Laar VS",
+        "Lonser RR",
+        "Flannery JG",
+        "Murthy N",
+        "Wilson RC"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2618-1332",
+        "ORCID: 0000-0002-3021-1525",
+        "ORCID: 0009-0003-8665-213X",
+        "ORCID: 0009-0002-9890-048X",
+        "ORCID: 0009-0005-3354-2759",
+        "ORCID: 0000-0001-7272-0267",
+        "ORCID: 0000-0001-9750-6283",
+        "ORCID: 0000-0003-1428-5521",
+        "ORCID: 0000-0002-6273-8081",
+        "ORCID: 0009-0008-9626-0507",
+        "ORCID: 0000-0001-7301-1358",
+        "ORCID: 0000-0003-0839-5476",
+        "ORCID: 0009-0004-3803-4035",
+        "ORCID: 0000-0002-1191-6917",
+        "ORCID: 0000-0001-6724-9925",
+        "ORCID: 0009-0005-3090-1103",
+        "ORCID: 0000-0001-5789-2191",
+        "ORCID: 0000-0002-0720-8897",
+        "ORCID: 0000-0002-7815-7337",
+        "ORCID: 0000-0002-0644-5540"
+      ],
+      "affiliations": [
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA.",
+        "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA.",
+        "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA.",
+        "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA.",
+        "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA.",
+        "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA.",
+        "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+        "University of California, Berkeley; Berkeley, CA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Baehr, Christopher M",
+        "short_name": "Baehr CM",
+        "identifiers": [
+          "0000-0003-2618-1332"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ressnerova, Alzbeta",
+        "short_name": "Ressnerova A",
+        "identifiers": [
+          "0000-0002-3021-1525"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kang, Min",
+        "short_name": "Kang M",
+        "identifiers": [
+          "0009-0003-8665-213X"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Sheng",
+        "short_name": "Zhao S",
+        "identifiers": [
+          "0009-0002-9890-048X"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Le, Beatrice",
+        "short_name": "Le B",
+        "identifiers": [
+          "0009-0005-3354-2759"
+        ],
+        "affiliations": [
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Haddad, Rania F",
+        "short_name": "Haddad RF",
+        "identifiers": [],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Asija, Kunica",
+        "short_name": "Asija K",
+        "identifiers": [
+          "0000-0001-7272-0267"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Damante, Mark",
+        "short_name": "Damante M",
+        "identifiers": [
+          "0000-0001-9750-6283"
+        ],
+        "affiliations": [
+          "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Sharma, Rohit",
+        "short_name": "Sharma R",
+        "identifiers": [
+          "0000-0003-1428-5521"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "George, Christy",
+        "short_name": "George C",
+        "identifiers": [
+          "0000-0002-6273-8081"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Heidi",
+        "short_name": "Huang H",
+        "identifiers": [
+          "0009-0008-9626-0507"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Assa, Dror",
+        "short_name": "Assa D",
+        "identifiers": [
+          "0000-0001-7301-1358"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Noel, Eric A",
+        "short_name": "Noel EA",
+        "identifiers": [
+          "0000-0003-0839-5476"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Manohar, Brigette",
+        "short_name": "Manohar B",
+        "identifiers": [
+          "0009-0004-3803-4035"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Otero, P Anthony",
+        "short_name": "Otero PA",
+        "identifiers": [
+          "0000-0002-1191-6917"
+        ],
+        "affiliations": [
+          "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Travis, Meika",
+        "short_name": "Travis M",
+        "identifiers": [
+          "0000-0001-6724-9925"
+        ],
+        "affiliations": [
+          "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Saikaly, Kayla",
+        "short_name": "Saikaly K",
+        "identifiers": [
+          "0009-0005-3090-1103"
+        ],
+        "affiliations": [
+          "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Sophie",
+        "short_name": "Hu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Van Laar, Victor S",
+        "short_name": "Van Laar VS",
+        "identifiers": [
+          "0000-0001-5789-2191"
+        ],
+        "affiliations": [
+          "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Lonser, Russell R",
+        "short_name": "Lonser RR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurological Surgery, The Ohio State University; Columbus, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Flannery, John G",
+        "short_name": "Flannery JG",
+        "identifiers": [
+          "0000-0002-0720-8897"
+        ],
+        "affiliations": [
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Murthy, Niren",
+        "short_name": "Murthy N",
+        "identifiers": [
+          "0000-0002-7815-7337"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Wilson, Ross C",
+        "short_name": "Wilson RC",
+        "identifiers": [
+          "0000-0002-0644-5540"
+        ],
+        "affiliations": [
+          "Innovative Genomics Institute, University of California Berkeley; Berkeley, CA, USA.",
+          "University of California, Berkeley; Berkeley, CA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779800",
+      "41404605",
+      "36596342",
+      "40880534",
+      "26747759",
+      "37335046",
+      "33609360",
+      "40389165",
+      "37147433",
+      "36508327",
+      "31465962",
+      "38683656",
+      "35700449",
+      "42381707",
+      "32697075",
+      "29019352",
+      "30586281",
+      "35965414",
+      "42439976",
+      "36334354",
+      "39300921",
+      "40923633",
+      "36550260",
+      "39005280",
+      "42035261",
+      "31099553",
+      "41037798",
+      "41608579",
+      "42524609",
+      "38773978",
+      "40183470",
+      "35333175",
+      "40032999",
+      "34215255",
+      "31267870",
+      "34417549",
+      "42214710",
+      "34440379",
+      "38754633",
+      "38052872",
+      "34695545",
+      "29490262",
+      "39023463",
+      "31728703",
+      "29974342",
+      "30978509",
+      "37525893",
+      "36243370",
+      "42535013",
+      "41703314",
+      "30844400",
+      "39461690",
+      "40985725",
+      "36824928",
+      "42785144",
+      "31439808",
+      "42409605",
+      "33871358",
+      "38325664",
+      "40324075",
+      "41411128",
+      "40412122",
+      "42511810",
+      "26912634",
+      "39071446",
+      "40859407",
+      "41678668",
+      "39600977",
+      "41432667",
+      "38717950",
+      "36326169",
+      "37085666",
+      "38790037",
+      "39012601",
+      "41570009",
+      "36336952",
+      "34918046",
+      "42771317",
+      "36773957",
+      "32638190",
+      "36162766",
+      "42782748",
+      "42219400",
+      "32194850",
+      "34095457",
+      "36029893",
+      "42447864",
+      "36367552",
+      "42793032",
+      "38497898",
+      "30190322",
+      "41900767",
+      "40632351",
+      "31011884",
+      "42791629",
+      "39956955",
+      "38427495",
+      "30353519",
+      "28628038",
+      "42787623"
+    ],
+    "review": [
+      "42779800",
+      "42439976",
+      "36334354",
+      "40923633",
+      "42524609",
+      "40032999",
+      "31267870",
+      "29974342",
+      "37525893",
+      "30844400",
+      "42785144",
+      "42511810",
+      "37085666",
+      "32638190",
+      "42782748",
+      "42793032",
+      "40632351",
+      "31011884",
+      "42791629"
+    ],
+    "pmc": [
+      "13596248"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42779800/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.14.751351",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

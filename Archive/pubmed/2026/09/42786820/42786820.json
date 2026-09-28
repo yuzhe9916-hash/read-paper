@@ -1,0 +1,352 @@
+{
+  "identity": {
+    "pmid": "42786820",
+    "doi": "10.2174/0115665232491924260907063026",
+    "title": "Prime Editing and Its Delivery: Recent Advances in Gene Correction for Genetic Diseases."
+  },
+  "content": {
+    "abstract": "Prime editing (PE), as a transformative genome-editing technology, overcomes many of the limitations of CRISPR-Cas9, particularly by enabling high-fidelity base conversions independent of double-strand breaks (DSBs). This unique mechanism significantly reduces unintended insertions, deletions, and chromosomal rearrangements, positioning PE as a safer and more precise tool for therapeutic gene correction. Recently, the world's first FDA-approved PE clinical trial (PM359 for chronic granulomatous disease) was officially launched, representing a major milestone in the field and highlighting the growing clinical translational potential of PE for treating human genetic disorders. Since the introduction of PE technology, extensive research efforts have been devoted to improving its gene correction efficiency, expanding the editing window, broadening target-site compatibility, reducing the size of the editing protein, and optimizing in vivo delivery vector systems. This review systematically summarizes the key improvements and evolutionary progress in the prime editor design and its updated delivery systems, with a particular focus on innovative modifications that have successfully overcome technical barriers. This study also highlights recent advances in engineered PE variants and their derivative systems, which have collectively expanded the scope and precision of PE-mediated gene correction. Additionally, this study critically discusses the remaining limitations and challenges associated with its application.",
+    "keywords": [
+      "Prime editing",
+      "delivery vectors",
+      "editing efficiency",
+      "gene correction",
+      "genetic diseases",
+      "innovative optimizations"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Shuran",
+        "Chang, Le",
+        "Kong, Yamin",
+        "Huang, Wenming",
+        "Zhang, Jinman",
+        "Zhu, Baosheng",
+        "Chan, Ying"
+      ],
+      "short_names": [
+        "Zhang S",
+        "Chang L",
+        "Kong Y",
+        "Huang W",
+        "Zhang J",
+        "Zhu B",
+        "Chan Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-6917-4270",
+        "ORCID: 0000-0002-8286-2944",
+        "ORCID: 0000-0002-6526-6649",
+        "ORCID: 0009-0001-4039-0950",
+        "ORCID: 0000-0002-9178-0406",
+        "ORCID: 0000-0002-5991-1752",
+        "ORCID: 0000-0002-0148-0064"
+      ],
+      "affiliations": [
+        "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+        "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China.",
+        "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+        "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+        "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China.",
+        "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+        "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+        "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China.",
+        "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+        "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China.",
+        "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+        "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Shuran",
+        "short_name": "Zhang S",
+        "identifiers": [
+          "0009-0006-6917-4270"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+          "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Le",
+        "short_name": "Chang L",
+        "identifiers": [
+          "0000-0002-8286-2944"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province."
+        ]
+      },
+      {
+        "full_name": "Kong, Yamin",
+        "short_name": "Kong Y",
+        "identifiers": [
+          "0000-0002-6526-6649"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+          "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Wenming",
+        "short_name": "Huang W",
+        "identifiers": [
+          "0009-0001-4039-0950"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jinman",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0000-0002-9178-0406"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+          "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Baosheng",
+        "short_name": "Zhu B",
+        "identifiers": [
+          "0000-0002-5991-1752"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+          "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China."
+        ]
+      },
+      {
+        "full_name": "Chan, Ying",
+        "short_name": "Chan Y",
+        "identifiers": [
+          "0000-0002-0148-0064"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, NHC Key Laboratory of Healthy Birth and Birth Defect Prevention in Western China, Yunnan Provincial Key Laboratory for Birth Defects and Genetic Diseases, The First People's Hospital of Yunnan Province.",
+          "School of Medicine, Kunming University of Science and Technology, Kunming, Yunnan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current gene therapy"
+    ],
+    "journal_abbrev": [
+      "Curr Gene Ther"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 05:32",
+    "fetched_at": "2026-09-28 17:44:46"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42786820",
+      "41038616",
+      "42758354",
+      "41304743",
+      "40790091",
+      "41671414",
+      "37973465",
+      "41605411",
+      "42064300",
+      "42015509",
+      "42090053",
+      "40870013",
+      "36069759",
+      "29019352",
+      "42470832",
+      "39530600",
+      "34509669",
+      "41495582",
+      "36766782",
+      "42226724",
+      "42586245",
+      "38785523",
+      "36480796",
+      "41665042",
+      "42303162",
+      "42396174",
+      "42180850",
+      "38766272",
+      "42499346",
+      "39832688",
+      "39689871",
+      "42475469",
+      "42173386",
+      "38832869",
+      "40685330",
+      "35808824",
+      "42756827",
+      "39136471",
+      "36605051",
+      "40014809",
+      "37314680",
+      "40805085",
+      "41751840",
+      "34713251",
+      "42662231",
+      "39259489",
+      "36512351",
+      "40119516",
+      "37680986",
+      "38671524",
+      "41638449",
+      "40350377",
+      "40469890",
+      "42423795",
+      "40744998",
+      "37794706",
+      "37002157",
+      "41931258",
+      "39795970",
+      "41820622",
+      "38786024",
+      "36077252",
+      "42033211",
+      "42782748",
+      "39276086",
+      "41702027",
+      "36241547",
+      "38191664",
+      "40025867",
+      "41952451",
+      "41888883",
+      "38857763",
+      "35142116",
+      "36873365",
+      "42771306",
+      "42736077",
+      "38330875",
+      "41345283",
+      "42162502",
+      "37769783",
+      "40028019",
+      "36251123",
+      "42265375",
+      "42787623",
+      "28177771",
+      "40927382",
+      "42193866",
+      "40552689",
+      "42405278",
+      "38144710",
+      "35294257",
+      "36384993",
+      "40548648",
+      "40121082",
+      "36553615",
+      "42763006",
+      "42109120",
+      "42353791",
+      "38623982",
+      "42567105"
+    ],
+    "review": [
+      "42786820",
+      "41038616",
+      "42758354",
+      "41304743",
+      "40790091",
+      "41671414",
+      "37973465",
+      "41605411",
+      "42064300",
+      "42015509",
+      "42090053",
+      "40870013",
+      "42470832",
+      "39530600",
+      "34509669",
+      "41495582",
+      "36766782",
+      "42226724",
+      "42586245",
+      "38785523",
+      "36480796",
+      "41665042",
+      "42303162",
+      "42396174",
+      "42180850",
+      "38766272",
+      "42499346",
+      "39832688",
+      "39689871",
+      "42173386",
+      "38832869",
+      "40014809",
+      "37314680",
+      "41751840",
+      "34713251",
+      "42662231",
+      "39259489",
+      "36512351",
+      "40119516",
+      "41638449",
+      "40350377",
+      "40469890",
+      "42423795",
+      "40744998",
+      "37794706",
+      "37002157",
+      "41931258",
+      "41820622",
+      "38786024",
+      "36077252",
+      "42033211",
+      "42782748",
+      "39276086",
+      "41702027",
+      "36241547",
+      "40025867",
+      "41952451",
+      "38857763",
+      "35142116",
+      "36873365",
+      "42771306",
+      "42736077",
+      "38330875",
+      "41345283",
+      "42162502",
+      "37769783",
+      "36251123",
+      "42265375",
+      "42787623",
+      "28177771",
+      "40927382",
+      "42193866",
+      "38144710",
+      "36384993",
+      "40548648",
+      "42763006",
+      "42109120",
+      "42353791",
+      "38623982"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

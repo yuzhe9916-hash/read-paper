@@ -1,0 +1,392 @@
+{
+  "identity": {
+    "pmid": "42794534",
+    "doi": "10.3390/ijms27188104",
+    "title": "3D Genome Engineering Using CRISPR/dCas Systems."
+  },
+  "content": {
+    "abstract": "The spatial organization of the genome has emerged as a central regulator of gene expression and cellular function. Chromatin architecture is organized hierarchically across multiple spatial scales and involves chromatin loops, topologically associating domains (TADs), chromatin compartments, and specialized nuclear environments that collectively shape regulatory interactions within the nucleus. Disruption of these structures contributes to a wide range of diseases, including developmental disorders, cancer, and laminopathies, stimulating growing interest in technologies capable of programmable manipulation of genome topology. The emergence of CRISPR/dCas-based technologies has transformed the field from descriptive 3D genomics to programmable genome engineering. Catalytically inactive Cas proteins fused to architectural or epigenetic effectors enable targeted manipulation of chromatin loops, loop extrusion, subnuclear positioning, and local chromatin states without altering the underlying DNA sequence. In this review, we summarize current CRISPR/dCas-based approaches for engineering three-dimensional genome architecture, discuss their mechanistic basis and applications, and highlight emerging therapeutic opportunities and major technical challenges in the field.",
+    "keywords": [
+      "3D genome",
+      "CRISPR/Cas",
+      "chromatin loop",
+      "dCas",
+      "epigenetic engineering",
+      "epigenetics",
+      "epigenome editing",
+      "loop extrusion"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*CRISPR-Cas Systems",
+      "Animals",
+      "Chromatin/genetics",
+      "Epigenome Editing",
+      "*Gene Editing/methods",
+      "*Genome",
+      "*Genetic Engineering/methods",
+      "Epigenesis, Genetic"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mamaeva, Naida Yu",
+        "Yakovlev, Valeriy A",
+        "Kristovskiy, Nikolay V",
+        "Feskin, Pavel G",
+        "Vinnikov, Renat S",
+        "Oleinikov, Pavel D",
+        "Shmakov, Sergey A",
+        "Shaitan, Konstantin V",
+        "Kirpichnikov, Mikhail P",
+        "Shaytan, Alexey K"
+      ],
+      "short_names": [
+        "Mamaeva NY",
+        "Yakovlev VA",
+        "Kristovskiy NV",
+        "Feskin PG",
+        "Vinnikov RS",
+        "Oleinikov PD",
+        "Shmakov SA",
+        "Shaitan KV",
+        "Kirpichnikov MP",
+        "Shaytan AK"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-0809-6285",
+        "ORCID: 0009-0009-2821-0097",
+        "ORCID: 0000-0002-5137-303X"
+      ],
+      "affiliations": [
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Fundamental Physical and Chemical Engineering, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Russian Academy of Sciences, 117997 Moscow, Russia.",
+        "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+        "Institute of Gene Biology, 119334 Moscow, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mamaeva, Naida Yu",
+        "short_name": "Mamaeva NY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Yakovlev, Valeriy A",
+        "short_name": "Yakovlev VA",
+        "identifiers": [
+          "0009-0008-0809-6285"
+        ],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kristovskiy, Nikolay V",
+        "short_name": "Kristovskiy NV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Feskin, Pavel G",
+        "short_name": "Feskin PG",
+        "identifiers": [
+          "0009-0009-2821-0097"
+        ],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Vinnikov, Renat S",
+        "short_name": "Vinnikov RS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Fundamental Physical and Chemical Engineering, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Oleinikov, Pavel D",
+        "short_name": "Oleinikov PD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Shmakov, Sergey A",
+        "short_name": "Shmakov SA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Shaitan, Konstantin V",
+        "short_name": "Shaitan KV",
+        "identifiers": [
+          "0000-0002-5137-303X"
+        ],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Kirpichnikov, Mikhail P",
+        "short_name": "Kirpichnikov MP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+          "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Russian Academy of Sciences, 117997 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Shaytan, Alexey K",
+        "short_name": "Shaytan AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
+          "Institute of Gene Biology, 119334 Moscow, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 17:44:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794534",
+      "40650152",
+      "41221676",
+      "42771308",
+      "42297231",
+      "33558716",
+      "41836275",
+      "39012588",
+      "29958882",
+      "42771304",
+      "29524128",
+      "33401227",
+      "39576609",
+      "33185860",
+      "33125070",
+      "38440883",
+      "34957106",
+      "41258946",
+      "39315937",
+      "33685602",
+      "29524127",
+      "40121086",
+      "31801211",
+      "41471222",
+      "33724509",
+      "40745004",
+      "27210040",
+      "28985525",
+      "42173386",
+      "30318144",
+      "29852072",
+      "41952451",
+      "39012590",
+      "32525760",
+      "31112800",
+      "33421620",
+      "28649363",
+      "29259522",
+      "41951915",
+      "29158838",
+      "34517795",
+      "32619853",
+      "42524609",
+      "40132699",
+      "37294468",
+      "41009620",
+      "34164771",
+      "42365126",
+      "41243026",
+      "33906919",
+      "40869944",
+      "31956094",
+      "27974723",
+      "39012592",
+      "41986002",
+      "28523558",
+      "41352695",
+      "35777365",
+      "30008320",
+      "38899980",
+      "39169620",
+      "29524129",
+      "28613045",
+      "42303162",
+      "33838111",
+      "35867255",
+      "41248011",
+      "42247138",
+      "33972106",
+      "32344896",
+      "40902837",
+      "28479380",
+      "40901634",
+      "40858609",
+      "31541446",
+      "40915965",
+      "42249089",
+      "29301946",
+      "29305085",
+      "41407320",
+      "38308006",
+      "38669177",
+      "40566685",
+      "30451675",
+      "40953615",
+      "29862665",
+      "42766154",
+      "27093352",
+      "36613684",
+      "40342053",
+      "28926145",
+      "34127198",
+      "42170760",
+      "28985502",
+      "40920944",
+      "41254174",
+      "33094378",
+      "29273625",
+      "30388409",
+      "28198142"
+    ],
+    "review": [
+      "42794534",
+      "40650152",
+      "41221676",
+      "42771308",
+      "42297231",
+      "33558716",
+      "29958882",
+      "42771304",
+      "29524128",
+      "33401227",
+      "39576609",
+      "33185860",
+      "33125070",
+      "38440883",
+      "34957106",
+      "41258946",
+      "39315937",
+      "29524127",
+      "31801211",
+      "41471222",
+      "33724509",
+      "40745004",
+      "27210040",
+      "28985525",
+      "42173386",
+      "29852072",
+      "41952451",
+      "39012590",
+      "32525760",
+      "31112800",
+      "33421620",
+      "28649363",
+      "29259522",
+      "41951915",
+      "29158838",
+      "34517795",
+      "32619853",
+      "42524609",
+      "40132699",
+      "37294468",
+      "41009620",
+      "34164771",
+      "42365126",
+      "41243026",
+      "40869944",
+      "31956094",
+      "27974723",
+      "41986002",
+      "28523558",
+      "41352695",
+      "35777365",
+      "38899980",
+      "39169620",
+      "28613045",
+      "42303162",
+      "42247138",
+      "33972106",
+      "32344896",
+      "40902837",
+      "40901634",
+      "40915965",
+      "42249089",
+      "29301946",
+      "29305085",
+      "41407320",
+      "38308006",
+      "40566685",
+      "30451675",
+      "29862665",
+      "42766154",
+      "27093352",
+      "36613684",
+      "40342053",
+      "28926145",
+      "42170760",
+      "28985502",
+      "40920944",
+      "41254174",
+      "33094378",
+      "30388409"
+    ],
+    "pmc": [
+      "13606891"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27188104",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

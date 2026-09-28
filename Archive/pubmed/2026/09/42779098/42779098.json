@@ -1,0 +1,322 @@
+{
+  "identity": {
+    "pmid": "42779098",
+    "doi": "10.1093/nar/gkag921",
+    "title": "Abasic site repair in APE1-deficient mouse embryonic stem cells: a matter for the MRN complex and ATM signaling."
+  },
+  "content": {
+    "abstract": "The dual role of base excision repair (BER) in resolving DNA base lesions and enabling active DNA demethylation positions BER proteins as central regulators of both genetic and epigenetic integrity. While BER and active demethylation converge at the generation of AP sites, catalyzed by DNA glycosylases such as thymine DNA glycosylase (TDG), the relative contribution of each pathway to AP site formation and the cellular fate of these lesions remain unresolved. Using APE1-deficient mouse embryonic stem cells (mESCs), with inducible TDG depletion, we reveal that TDG activity accounts for a substantial fraction of AP sites in mESCs, establishing a direct link between active DNA demethylation and APE1-mediated BER. We demonstrate that APE1 is essential for mESC differentiation, underscoring its role in processing AP sites generated during epigenetic reprogramming. Through a genome-wide CRISPR/Cas9 screen designed to map the broader functional interactome of APE1, we identified unexpected genetic dependencies that extend beyond DNA repair. We also found that DNA double-strand break repair factors act outside their canonical pathways, cooperating with nucleotide excision repair and translesion synthesis to compensate for the loss of APE1. These findings highlight novel compensatory DNA end-processing mechanisms that safeguard genomic integrity in the absence of APE1, revealing a high level of plasticity of DNA repair in mESCs.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*DNA-(Apurinic or Apyrimidinic Site) Lyase/genetics/deficiency/metabolism",
+      "Mice",
+      "Excision Repair",
+      "*Mouse Embryonic Stem Cells/metabolism/cytology",
+      "Signal Transduction",
+      "*Ataxia Telangiectasia Mutated Proteins/metabolism/genetics",
+      "*DNA-Binding Proteins/metabolism/genetics",
+      "Thymine DNA Glycosylase/metabolism/genetics",
+      "*DNA Repair",
+      "DNA Breaks, Double-Stranded",
+      "Cell Differentiation/genetics",
+      "DNA Demethylation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hrovat, Alexandra M",
+        "Noreen, Faiza",
+        "Schwarz, Simon D",
+        "Aksu, Ezgi M",
+        "Kusnierczyk, Anna",
+        "Singh, Navnit K",
+        "Sturla, Shana J",
+        "Schar, Primo"
+      ],
+      "short_names": [
+        "Hrovat AM",
+        "Noreen F",
+        "Schwarz SD",
+        "Aksu EM",
+        "Kusnierczyk A",
+        "Singh NK",
+        "Sturla SJ",
+        "Schar P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1668-7316",
+        "ORCID: 0000-0002-6630-861X",
+        "ORCID: 0000-0003-3517-3481",
+        "ORCID: 0009-0007-1837-144X",
+        "ORCID: 0000-0001-6808-5950",
+        "ORCID: 0000-0003-1843-6147"
+      ],
+      "affiliations": [
+        "Department of Biomedicine, University of Basel, Basel 4058, Switzerland.",
+        "Department of Biomedicine, University of Basel, Basel 4058, Switzerland.",
+        "Swiss Institute of Bioinformatics, Basel 4031, Switzerland.",
+        "Department of Biomedicine, University of Basel, Basel 4058, Switzerland.",
+        "Proteomics and Modomics Core Facility (PROMEC), Norwegian University of Science and Technology (NTNU), and the Central Norway Regional Health Authority, Trondheim 7491, Norway.",
+        "Proteomics and Modomics Core Facility (PROMEC), Norwegian University of Science and Technology (NTNU), and the Central Norway Regional Health Authority, Trondheim 7491, Norway.",
+        "Department of Health Sciences and Technology, ETH Zurich, Zurich 8092, Switzerland.",
+        "Department of Health Sciences and Technology, ETH Zurich, Zurich 8092, Switzerland.",
+        "Department of Biomedicine, University of Basel, Basel 4058, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hrovat, Alexandra M",
+        "short_name": "Hrovat AM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, University of Basel, Basel 4058, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Noreen, Faiza",
+        "short_name": "Noreen F",
+        "identifiers": [
+          "0000-0002-1668-7316"
+        ],
+        "affiliations": [
+          "Department of Biomedicine, University of Basel, Basel 4058, Switzerland.",
+          "Swiss Institute of Bioinformatics, Basel 4031, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Schwarz, Simon D",
+        "short_name": "Schwarz SD",
+        "identifiers": [
+          "0000-0002-6630-861X"
+        ],
+        "affiliations": [
+          "Department of Biomedicine, University of Basel, Basel 4058, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Aksu, Ezgi M",
+        "short_name": "Aksu EM",
+        "identifiers": [],
+        "affiliations": [
+          "Proteomics and Modomics Core Facility (PROMEC), Norwegian University of Science and Technology (NTNU), and the Central Norway Regional Health Authority, Trondheim 7491, Norway."
+        ]
+      },
+      {
+        "full_name": "Kuśnierczyk, Anna",
+        "short_name": "Kuśnierczyk A",
+        "identifiers": [
+          "0000-0003-3517-3481"
+        ],
+        "affiliations": [
+          "Proteomics and Modomics Core Facility (PROMEC), Norwegian University of Science and Technology (NTNU), and the Central Norway Regional Health Authority, Trondheim 7491, Norway."
+        ]
+      },
+      {
+        "full_name": "Singh, Navnit K",
+        "short_name": "Singh NK",
+        "identifiers": [
+          "0009-0007-1837-144X"
+        ],
+        "affiliations": [
+          "Department of Health Sciences and Technology, ETH Zurich, Zurich 8092, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Sturla, Shana J",
+        "short_name": "Sturla SJ",
+        "identifiers": [
+          "0000-0001-6808-5950"
+        ],
+        "affiliations": [
+          "Department of Health Sciences and Technology, ETH Zurich, Zurich 8092, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Schär, Primo",
+        "short_name": "Schär P",
+        "identifiers": [
+          "0000-0003-1843-6147"
+        ],
+        "affiliations": [
+          "Department of Biomedicine, University of Basel, Basel 4058, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 05:37",
+    "fetched_at": "2026-09-28 17:45:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779098",
+      "27183823",
+      "29475157",
+      "41975505",
+      "24335252",
+      "26020771",
+      "41291101",
+      "20808930",
+      "24209961",
+      "24646203",
+      "39112456",
+      "17118717",
+      "32998246",
+      "18166975",
+      "25847267",
+      "24695738",
+      "26063178",
+      "22377908",
+      "20701268",
+      "42417194",
+      "30523148",
+      "37574487",
+      "20377204",
+      "26134573",
+      "22902005",
+      "23315699",
+      "27994014",
+      "41928333",
+      "27264558",
+      "31887540",
+      "23382073",
+      "15823533",
+      "39684445",
+      "16978929",
+      "15084314",
+      "19503746",
+      "39461278",
+      "18635552",
+      "20383123",
+      "26751644",
+      "27655688",
+      "33092287",
+      "21762700",
+      "31226203",
+      "32404420",
+      "19268524",
+      "32001618",
+      "31628877",
+      "18263880",
+      "33087268",
+      "17922646",
+      "36963489",
+      "28065385",
+      "39796192",
+      "28512237",
+      "15647512",
+      "26932196",
+      "23251620",
+      "41763309",
+      "21081487",
+      "27343627",
+      "22841870",
+      "16199212",
+      "24794400",
+      "28110804",
+      "32817342",
+      "10874010",
+      "18805789",
+      "33065487",
+      "26025911",
+      "24466051",
+      "17166779",
+      "36894994",
+      "40902980",
+      "18627350",
+      "34681690",
+      "24023064",
+      "22041024",
+      "17018265",
+      "31816044",
+      "15330152",
+      "15452279",
+      "28181292",
+      "28887667",
+      "31866293",
+      "18393760",
+      "29122935",
+      "15694346",
+      "29730300",
+      "24927551",
+      "23485469",
+      "34302888",
+      "11160897",
+      "15107486",
+      "17560642",
+      "25108836",
+      "27682167",
+      "21278727",
+      "25645679",
+      "24175791"
+    ],
+    "review": [
+      "42779098",
+      "18166975",
+      "27264558",
+      "39461278",
+      "33087268",
+      "16199212",
+      "31816044",
+      "31866293",
+      "34302888",
+      "17560642",
+      "27682167"
+    ],
+    "pmc": [
+      "13601066"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42779098/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ATM-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-912",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag921",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
