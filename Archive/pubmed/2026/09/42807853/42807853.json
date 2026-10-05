@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42807853",
+    "doi": "10.3389/fcimb.2026.1891987",
+    "title": "Loss of IL10RA rewires epithelial immune responses to intracellular Staphylococcus aureus small colony variants in bovine mammary epithelial cells."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Staphylococcus aureus small colony variants (SCVs) represent a persistence-adapted phenotype linked to chronic and recurrent bovine mastitis. Interleukin-10 receptor ⍺ (IL10RA) is a central regulator of anti-inflammatory signalling in the mammary gland, but its role in shaping transcriptional responses to intracellular staphylococcal challenge has not been characterized. METHODS: CRISPR/Cas9-generated IL10RA knockout (KO) MAC-T bovine mammary epithelial cells (MECs), alongside wild-type (WT) controls, were infected with either S. aureus SCV strain Heba3231 or its isogenic parental strain (PS). Transcriptional responses were profiled by RNA sequencing and compared across genotype and infection conditions. RESULTS: WT cells mounted markedly divergent responses to PS (8 DEGs) versus SCV (461 DEGs) infection, with no overlap between the two gene sets, indicating strain-specific engagement of distinct molecular programmes. SCV infection of WT cells up-regulated lipid and sterol biosynthetic pathways while suppressing epithelial barrier integrity genes (S100A8, S100A9, TGM3, KRTDAP). IL10RA disruption substantially amplified transcriptional dysregulation: IL10RA-KO cells infected with PS yielded 619 DEGs (a 77.4-fold increase over WT-PS), while IL10RA-KO cells infected with SCV yielded 1,297 DEGs (a 2.8-fold increase over WT-SCV). Approximately 32 to 36% of IL10RA-regulated genes formed a shared core across infection conditions. Loss of IL10RA derepressed pro-inflammatory cytokine pathways (TNF, IL-17), enhanced pro-apoptotic programmes during SCV infection, and suppressed phagosomal maturation and lipid metabolic gene programmes. Candidate IL10RA-responsive genes, including CD79B, WFDC2, AMN and LY6E, were identified as targets for further validation. DISCUSSION: These findings establish IL10RA as a broad transcriptional homeostasis regulator in bovine MECs during staphylococcal infection, with disproportionate effects on inflammatory and barrier-related gene programmes under SCV challenge. The identified candidate genes warrant validation in primary bovine mammary cells, milk somatic cells, or clinical mastitis samples to confirm their relevance to chronic and recurrent disease pathogenesis.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "IL10RA",
+      "MAC-T cells",
+      "RNA-Seq",
+      "Staphylococcus aureus",
+      "bovine mastitis",
+      "small colony variant (SCV)"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Cattle",
+      "*Epithelial Cells/immunology/microbiology",
+      "*Staphylococcus aureus/immunology/growth & development",
+      "Female",
+      "*Mammary Glands, Animal/immunology/microbiology/cytology",
+      "*Staphylococcal Infections/immunology/veterinary/microbiology",
+      "Mastitis, Bovine/microbiology/immunology",
+      "*Interleukin-10 Receptor alpha Subunit/genetics/metabolism",
+      "Gene Expression Profiling",
+      "Gene Knockout Techniques",
+      "CRISPR-Cas Systems"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shandilya, Umesh K",
+        "Liang, Yan",
+        "Atalla, Heba",
+        "Mallard, Bonnie",
+        "Karrow, Niel A"
+      ],
+      "short_names": [
+        "Shandilya UK",
+        "Liang Y",
+        "Atalla H",
+        "Mallard B",
+        "Karrow NA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Animal Biosciences, University of Guelph, Guelph, ON, Canada.",
+        "College of Animal Science and Technology, Yangzhou University, Yangzhou, China.",
+        "Department of Pathobiology, Ontario Veterinary College, University of Guelph, Guelph, ON, Canada.",
+        "Department of Pathobiology, Ontario Veterinary College, University of Guelph, Guelph, ON, Canada.",
+        "Department of Animal Biosciences, University of Guelph, Guelph, ON, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shandilya, Umesh K",
+        "short_name": "Shandilya UK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Biosciences, University of Guelph, Guelph, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Liang, Yan",
+        "short_name": "Liang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Animal Science and Technology, Yangzhou University, Yangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Atalla, Heba",
+        "short_name": "Atalla H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathobiology, Ontario Veterinary College, University of Guelph, Guelph, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Mallard, Bonnie",
+        "short_name": "Mallard B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathobiology, Ontario Veterinary College, University of Guelph, Guelph, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Karrow, Niel A",
+        "short_name": "Karrow NA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Biosciences, University of Guelph, Guelph, ON, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cellular and infection microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Infect Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42807853",
+      "20022186",
+      "20670645",
+      "42196568",
+      "19233574",
+      "27855187",
+      "23758654",
+      "28083514",
+      "41305370",
+      "33138773",
+      "32622596",
+      "19014276",
+      "18513449",
+      "24836680",
+      "21843629",
+      "24498088",
+      "21884610",
+      "36939340",
+      "40651721",
+      "40141146",
+      "41026719",
+      "42146099",
+      "34367468",
+      "26790937",
+      "39461446",
+      "27107770",
+      "42220501",
+      "41724895",
+      "24018311",
+      "42251872",
+      "35984525",
+      "38867147",
+      "21702919",
+      "41679624",
+      "30186772",
+      "41954435",
+      "32411137",
+      "15094165",
+      "37071310",
+      "23324411",
+      "28083515",
+      "26830914",
+      "40168353",
+      "17010538",
+      "30291872",
+      "17988748",
+      "35995255",
+      "20826612",
+      "28916002",
+      "17532224",
+      "11573784",
+      "28684793",
+      "30930221",
+      "41678546",
+      "28129375",
+      "24521038",
+      "41580602",
+      "30771271",
+      "16139367",
+      "24036182",
+      "23046560",
+      "32283626",
+      "41707842",
+      "27016756",
+      "22655972",
+      "23140248",
+      "26939717",
+      "29739718",
+      "42439919",
+      "38303095",
+      "20060596",
+      "15350749",
+      "21115717",
+      "30041534",
+      "34445550",
+      "37291036",
+      "34921958",
+      "25990971",
+      "21600652",
+      "19109270",
+      "38521361",
+      "30517644",
+      "18487644",
+      "22281341",
+      "19700725",
+      "35879165",
+      "34425921",
+      "24606609",
+      "27001539",
+      "42225250",
+      "26471700",
+      "12710501",
+      "24358144",
+      "24444863",
+      "30992458",
+      "21676339",
+      "17658619",
+      "32622604",
+      "31138863",
+      "37995572"
+    ],
+    "review": [
+      "42807853",
+      "35984525"
+    ],
+    "pmc": [
+      "13617740"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/staphylococcalinfections.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Staphylococcal Infections"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-WFDC2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1155",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcimb.2026.1891987",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

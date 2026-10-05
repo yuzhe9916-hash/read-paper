@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42826871",
+    "doi": "10.1016/j.bbadis.2026.168490",
+    "title": "USP36-mediated stabilization of NAT10 promotes osteosarcoma progression via ac4C-dependent KIF23 mRNA stabilization."
+  },
+  "content": {
+    "abstract": "Osteosarcoma is an aggressive bone malignancy with a propensity for pulmonary metastasis, yet the molecular mechanisms linking protein homeostasis to epitranscriptomic regulation remain incompletely understood. Here, integrated transcriptomic, survival, protein-interaction, and CRISPR dependency analyses identified the deubiquitinase USP36 as a driver of osteosarcoma progression. USP36 was elevated in osteosarcoma datasets, and higher expression was associated with poorer survival in univariable analysis. Functional studies showed that USP36 depletion suppressed osteosarcoma-cell proliferation and invasion, whereas USP36 overexpression enhanced these phenotypes. Re-expression of wild-type USP36, but not the catalytically inactive C131A mutant, restored clonogenic growth and invasive capacity in USP36-deficient cells, indicating that its tumor-promoting effects depend on catalytic activity. Mechanistically, USP36 interacted with NAT10, prolonged NAT10 protein stability, and reduced K48-linked NAT10 polyubiquitination in cells. USP36 depletion decreased ac4C enrichment on KIF23 mRNA, accelerated KIF23 transcript decay, reduced KIF23 and beta-catenin abundance, and impaired Wnt/beta-catenin transcriptional activity. Importantly, wild-type NAT10, but not the catalytically inactive NAT10-G641E mutant, restored KIF23 ac4C enrichment, KIF23 expression, Wnt reporter activity, and clonogenic growth after USP36 depletion. TCF3 bound the USP36 promoter and positively regulated endogenous USP36 expression, whereas Wnt inhibition reduced USP36 transcription, supporting a reinforcing TCF3-USP36-NAT10-KIF23-Wnt regulatory relationship. In vivo, USP36 depletion reduced orthotopic tumor burden and experimental pulmonary metastatic colonization. Collectively, these findings identify USP36 as an upstream regulator of NAT10 stability and establish a mechanistic link between ubiquitin-dependent protein turnover and ac4C-mediated KIF23 mRNA stabilization in osteosarcoma. The USP36-NAT10-KIF23 axis may therefore represent a molecular vulnerability warranting further biochemical and clinical investigation.",
+    "keywords": [
+      "KIF23",
+      "NAT10",
+      "Osteosarcoma",
+      "USP36",
+      "Wnt/beta-catenin signaling",
+      "ac4C RNA modification"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Yanfei",
+        "Ma, Liping",
+        "Chen, Zhaoqi",
+        "Wang, Limin",
+        "Wang, Weidong",
+        "Bi, Fanggang",
+        "Sun, Junkui",
+        "Ma, Xiaoran",
+        "Liu, Hongjian",
+        "Yuan, Chunluan",
+        "Zhu, Zhongpei"
+      ],
+      "short_names": [
+        "Wu Y",
+        "Ma L",
+        "Chen Z",
+        "Wang L",
+        "Wang W",
+        "Bi F",
+        "Sun J",
+        "Ma X",
+        "Liu H",
+        "Yuan C",
+        "Zhu Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Henan Luoyang Orthopedic-Traumatological Hospital (Henan Provincial Orthopedic Hospital), Henan Province Engineering Research Center of Prevention and Treatment of Bone Tumor with TCM, No. 82, Dengming Road, Luolong District, Luoyang, Henan Province, 471000, China.",
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Department of Oncology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China.",
+        "Department of Oncology, The First People's Hospital of Lianyungang, Lianyungang, Jiangsu, 222000, China. Electronic address: ChunluanYuan@njmu.edu.cn.",
+        "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China. Electronic address: zzpzz999@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Yanfei",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Liping",
+        "short_name": "Ma L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhaoqi",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Henan Luoyang Orthopedic-Traumatological Hospital (Henan Provincial Orthopedic Hospital), Henan Province Engineering Research Center of Prevention and Treatment of Bone Tumor with TCM, No. 82, Dengming Road, Luolong District, Luoyang, Henan Province, 471000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Limin",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Weidong",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Bi, Fanggang",
+        "short_name": "Bi F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Junkui",
+        "short_name": "Sun J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Xiaoran",
+        "short_name": "Ma X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hongjian",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Chunluan",
+        "short_name": "Yuan C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, The First People's Hospital of Lianyungang, Lianyungang, Jiangsu, 222000, China. Electronic address: ChunluanYuan@njmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhongpei",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, 450052, China. Electronic address: zzpzz999@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochimica et biophysica acta. Molecular basis of disease"
+    ],
+    "journal_abbrev": [
+      "Biochim Biophys Acta Mol Basis Dis"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 23:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826871",
+      "36522719",
+      "42805538",
+      "42431275",
+      "40717796",
+      "42106526",
+      "38233839",
+      "42358517",
+      "42277649",
+      "42030693",
+      "42303881",
+      "41476650",
+      "42067098",
+      "35522942",
+      "41540352",
+      "41507133",
+      "42315153",
+      "42413718",
+      "39030964",
+      "39089619",
+      "42127733",
+      "38169284",
+      "41198892",
+      "42264200",
+      "40530969",
+      "36609449",
+      "35524313",
+      "42242584",
+      "41735227",
+      "40119353",
+      "40169553",
+      "42140328",
+      "41501889",
+      "42121010",
+      "41311630",
+      "42133812",
+      "37948132",
+      "39836947",
+      "42410175",
+      "37484809",
+      "36209353",
+      "42262434",
+      "41969441",
+      "42696851",
+      "41699661",
+      "40448263",
+      "42218427",
+      "41675939",
+      "42276981",
+      "42090905",
+      "39293390",
+      "41426311",
+      "42595291",
+      "40999468",
+      "40936438",
+      "39905540",
+      "39453784",
+      "37914704",
+      "38724075",
+      "42634209",
+      "41455833",
+      "42187511",
+      "37484432",
+      "40288646",
+      "39363363",
+      "36765042",
+      "37955115",
+      "41656306",
+      "40794120",
+      "42735764",
+      "41138746",
+      "38409918",
+      "42327790",
+      "42679037",
+      "39392166",
+      "42565568",
+      "37162618",
+      "41559481",
+      "40828650",
+      "36939377",
+      "31814757",
+      "41940421",
+      "41991932",
+      "39702283",
+      "35937804",
+      "22550000",
+      "42031983",
+      "34395433",
+      "32365332",
+      "39923057",
+      "35978332",
+      "40079254",
+      "39215346",
+      "39740539",
+      "39939141",
+      "31665067",
+      "39529018",
+      "40300667",
+      "40817062",
+      "36898834"
+    ],
+    "review": [
+      "42826871",
+      "42413718",
+      "41699661"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0925-4439(26)00356-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

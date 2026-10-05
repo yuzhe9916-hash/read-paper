@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42818046",
+    "doi": "10.64898/2026.09.25.754573",
+    "title": "SHERLOCK: Structured representation learning and causal inference of downstream perturbation effects."
+  },
+  "content": {
+    "abstract": "Understanding the effects of genetic, molecular, and experimental perturbations is essential for decoding cellular mechanisms and guiding biomedical interventions. Existing computational approaches are typically designed for individual tasks, such as predicting perturbation responses, characterizing downstream transcriptional effects, or modeling perturbation combinations, and therefore do not provide a unified framework for learning interpretable perturbation representations while enabling causal analysis of downstream effects and characterization of condition-dependent responses. We present SHERLOCK, an interpretable deep generative framework for single-cell perturbation analysis that represents perturbation effects as structured interventions on a latent baseline cellular state. SHERLOCK learns correlated and sparse perturbation representations that organize genetic and pharmacological perturbations according to shared transcriptional responses. % By formulating perturbations as interventions within a structural causal model, it enables counterfactual estimation of their downstream transcriptional effects under explicit identifiability assumptions. The same framework quantifies how perturbation responses vary across conditions and compositionally models combinatorial perturbations, enabling prediction of held-out combinations and classification of genetic interactions. Across genome-scale CRISPR, chemical, and spatial perturbation datasets, SHERLOCK recovers perturbation relationships concordant with known biological pathways and pharmacological properties, identifies condition-dependent responses, and predicts combinatorial perturbation effects. Together, SHERLOCK provides a unified framework for interpretable and causal analysis of perturbation effects across diverse single-cell perturbation experiments.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Mingxuan",
+        "Myers, Joshua D",
+        "Shi, Lingting",
+        "Giglio, Ross M",
+        "Chatterjee, Sharanya",
+        "McFaline-Figueroa, Jose L",
+        "Azizi, Elham"
+      ],
+      "short_names": [
+        "Zhang M",
+        "Myers JD",
+        "Shi L",
+        "Giglio RM",
+        "Chatterjee S",
+        "McFaline-Figueroa JL",
+        "Azizi E"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-5013-5549",
+        "ORCID: 0000-0001-5059-6971"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Mingxuan",
+        "short_name": "Zhang M",
+        "identifiers": [
+          "0009-0005-5013-5549"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Myers, Joshua D",
+        "short_name": "Myers JD",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shi, Lingting",
+        "short_name": "Shi L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Giglio, Ross M",
+        "short_name": "Giglio RM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chatterjee, Sharanya",
+        "short_name": "Chatterjee S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "McFaline-Figueroa, Jose L",
+        "short_name": "McFaline-Figueroa JL",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Azizi, Elham",
+        "short_name": "Azizi E",
+        "identifiers": [
+          "0000-0001-5059-6971"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-05 18:36:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818046",
+      "42475469",
+      "41394575",
+      "41452988",
+      "41000745",
+      "41647197",
+      "39677694",
+      "42019216",
+      "42667121",
+      "38558987",
+      "41129969",
+      "41000753",
+      "37154091",
+      "41509211",
+      "41094040",
+      "40187352",
+      "40868397",
+      "42537673",
+      "42497867",
+      "40987372",
+      "37961332",
+      "41256563",
+      "41197632",
+      "40593897",
+      "42704667",
+      "40631143",
+      "37919419",
+      "41758161",
+      "41887798",
+      "40501829",
+      "42167225",
+      "40662800",
+      "42577751",
+      "42333095",
+      "38940153",
+      "42538947",
+      "42508236",
+      "38940173",
+      "41811907",
+      "42482180",
+      "41628222",
+      "40264958",
+      "42673963",
+      "42723829",
+      "41889850",
+      "42741841",
+      "37592036",
+      "42818106",
+      "41573962",
+      "37760098",
+      "38721585",
+      "37602218",
+      "40551620",
+      "42067667",
+      "39649598",
+      "41961572",
+      "41473321",
+      "41889931",
+      "39773352",
+      "23912807",
+      "42589098",
+      "42265257",
+      "41573850",
+      "40631127",
+      "40011559",
+      "42754836",
+      "42222843",
+      "41292874",
+      "42715312",
+      "42412811",
+      "39486785",
+      "42239079",
+      "40831507",
+      "42775042",
+      "40997798",
+      "40103613",
+      "42635222",
+      "42083067",
+      "39005298",
+      "42804716",
+      "42398561",
+      "41427394",
+      "42764831",
+      "39333790",
+      "41478891",
+      "42412677",
+      "41332668",
+      "41257571",
+      "42815425",
+      "42429061",
+      "42146410",
+      "40228603",
+      "42539246",
+      "42510645",
+      "39910649",
+      "39462106",
+      "39226889",
+      "41993521",
+      "41288963",
+      "42269591"
+    ],
+    "review": [
+      "42818046",
+      "42537673",
+      "38721585",
+      "42775042",
+      "40103613",
+      "41478891",
+      "42429061",
+      "42269591"
+    ],
+    "pmc": [
+      "13622197"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.25.754573",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

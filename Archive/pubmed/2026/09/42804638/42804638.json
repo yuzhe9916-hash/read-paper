@@ -1,0 +1,353 @@
+{
+  "identity": {
+    "pmid": "42804638",
+    "doi": "10.1073/pnas.2528514123",
+    "title": "BAG3 coordinates astrocytic proteostasis of Alzheimer's disease-linked proteins via proteasome, autophagy, and retromer interactions."
+  },
+  "content": {
+    "abstract": "Bcl-2-associated athanogene 3 (BAG3) is a mediator of chaperone-assisted selective autophagy, and in the brain, is most highly expressed in astrocytes. However, its role in astrocytes remains poorly defined. Given the genetic and pathological links of BAG3 to proteostasis and neurodegenerative diseases, we investigated how BAG3 contributes to astrocyte function and Alzheimer's disease (AD). To define its function and relevance, we used single-nucleus RNA sequencing to confirm BAG3 enrichment in astrocytes and employed CRISPR/Cas9 editing of human induced pluripotent stem cells followed by proteomic and transcriptomic profiling, which revealed that BAG3 loss caused greater disruption in astrocytes than in neurons. BAG3-deficient astrocytes displayed reduced autophagy, lysosomal abundance and activity, and proteasome function. Coimmunoprecipitation identified BAG3 known binding partners (e.g., HSPB8, proteasome regulators), as well as an interactor in the retromer complex, VPS35. BAG3 deficiency resulted in altered retromer activity as measured by amyloid precursor protein (APP) localization in endosomes. In addition to validating these binding partners, integrative -omics analyses showed that BAG3 regulates AD-relevant proteins (GFAP, BIN1), as well as HSPB8. Functionally, BAG3 knockout astrocytes exhibited impaired amyloid-beta proteostasis when cocultured with APP/PSEN1 mutant neurons, directly linking BAG3 to a disease-relevant astrocyte phenotype. Finally, analysis of postmortem human brain revealed that BAG3 expression marks a stress-responsive astrocyte subtype in aged individuals. Together, these findings demonstrate that BAG3 coordinates astrocyte proteostasis through interactions with regulators of autophagy, proteasome activity, and retromer function, positioning it as a potential therapeutic target and central node of astrocytic protein quality control in neurodegeneration.",
+    "keywords": [
+      "Alzheimer's disease",
+      "BAG3",
+      "astrocytes",
+      "autophagy",
+      "iPSC"
+    ],
+    "mesh_terms": [
+      "*Astrocytes/metabolism/pathology",
+      "*Autophagy",
+      "*Alzheimer Disease/metabolism/pathology/genetics",
+      "Humans",
+      "*Adaptor Proteins, Signal Transducing/metabolism/genetics",
+      "*Proteostasis",
+      "*Proteasome Endopeptidase Complex/metabolism",
+      "Animals",
+      "*Apoptosis Regulatory Proteins/metabolism/genetics",
+      "Amyloid beta-Protein Precursor/metabolism/genetics",
+      "Mice",
+      "Neurons/metabolism",
+      "Proteotoxic Stress",
+      "Induced Pluripotent Stem Cells/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Augur, Zachary M",
+        "Fogo, Garrett M",
+        "Benoit, Courtney R",
+        "Kearney, Masin A",
+        "Terzioglu, Gizem",
+        "Murphy, Zachary R",
+        "Arbery, Mason R",
+        "Comandante-Lou, Natacha",
+        "Duong, Duc M",
+        "Seyfried, Nicholas T",
+        "De Jager, Philip L",
+        "Young-Pearse, Tracy L"
+      ],
+      "short_names": [
+        "Augur ZM",
+        "Fogo GM",
+        "Benoit CR",
+        "Kearney MA",
+        "Terzioglu G",
+        "Murphy ZR",
+        "Arbery MR",
+        "Comandante-Lou N",
+        "Duong DM",
+        "Seyfried NT",
+        "De Jager PL",
+        "Young-Pearse TL"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5292-3702",
+        "ORCID: 0009-0001-7222-6258",
+        "ORCID: 0000-0003-3017-7248",
+        "ORCID: 0009-0006-8442-627X",
+        "ORCID: 0000-0001-7846-1542"
+      ],
+      "affiliations": [
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94",
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94",
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94",
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94",
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94",
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94",
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94",
+        "Center for Translational and Computational Neuroimmunology, Department of Neurology and the Taub Institute for the Study of Alzheimer's Disease and the Aging Brain, Columbia University Irving Medical Center, New York, NY 10032. ROR: https://ror.org/01esghr10",
+        "Department of Biochemistry, Emory School of Medicine, Atlanta, GA 30322.",
+        "Department of Biochemistry, Emory School of Medicine, Atlanta, GA 30322.",
+        "Center for Translational and Computational Neuroimmunology, Department of Neurology and the Taub Institute for the Study of Alzheimer's Disease and the Aging Brain, Columbia University Irving Medical Center, New York, NY 10032. ROR: https://ror.org/01esghr10",
+        "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115. ROR: https://ror.org/04b6nzv94"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Augur, Zachary M",
+        "short_name": "Augur ZM",
+        "identifiers": [],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Fogo, Garrett M",
+        "short_name": "Fogo GM",
+        "identifiers": [
+          "0000-0001-5292-3702"
+        ],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Benoit, Courtney R",
+        "short_name": "Benoit CR",
+        "identifiers": [],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Kearney, Masin A",
+        "short_name": "Kearney MA",
+        "identifiers": [
+          "0009-0001-7222-6258"
+        ],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Terzioglu, Gizem",
+        "short_name": "Terzioglu G",
+        "identifiers": [],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Murphy, Zachary R",
+        "short_name": "Murphy ZR",
+        "identifiers": [
+          "0000-0003-3017-7248"
+        ],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Arbery, Mason R",
+        "short_name": "Arbery MR",
+        "identifiers": [
+          "0009-0006-8442-627X"
+        ],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Comandante-Lou, Natacha",
+        "short_name": "Comandante-Lou N",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Translational and Computational Neuroimmunology, Department of Neurology and the Taub Institute for the Study of Alzheimer's Disease and the Aging Brain, Columbia University Irving Medical Center, New York, NY 10032."
+        ]
+      },
+      {
+        "full_name": "Duong, Duc M",
+        "short_name": "Duong DM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Emory School of Medicine, Atlanta, GA 30322."
+        ]
+      },
+      {
+        "full_name": "Seyfried, Nicholas T",
+        "short_name": "Seyfried NT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Emory School of Medicine, Atlanta, GA 30322."
+        ]
+      },
+      {
+        "full_name": "De Jager, Philip L",
+        "short_name": "De Jager PL",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Translational and Computational Neuroimmunology, Department of Neurology and the Taub Institute for the Study of Alzheimer's Disease and the Aging Brain, Columbia University Irving Medical Center, New York, NY 10032."
+        ]
+      },
+      {
+        "full_name": "Young-Pearse, Tracy L",
+        "short_name": "Young-Pearse TL",
+        "identifiers": [
+          "0000-0001-7846-1542"
+        ],
+        "affiliations": [
+          "Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 17:31",
+    "fetched_at": "2026-10-05 18:37:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42804638",
+      "41085772",
+      "26526841",
+      "25362034",
+      "40898372",
+      "23827971",
+      "42097046",
+      "41863024",
+      "42307825",
+      "30959460",
+      "40408490",
+      "40488453",
+      "41911062",
+      "41823665",
+      "39044253",
+      "33158300",
+      "29405094",
+      "31326538",
+      "42332767",
+      "25212465",
+      "35008592",
+      "29858247",
+      "36966431",
+      "41248289",
+      "34359875",
+      "38918213",
+      "22278060",
+      "21696420",
+      "23644654",
+      "32597805",
+      "23575457",
+      "39181128",
+      "41664196",
+      "34951719",
+      "31723063",
+      "25108202",
+      "30499714",
+      "38009275",
+      "29914939",
+      "30744518",
+      "37899687",
+      "39394356",
+      "31416668",
+      "38910494",
+      "28442482",
+      "29191219",
+      "27756573",
+      "42098771",
+      "35013236",
+      "42644246",
+      "23824909",
+      "28341998",
+      "31209204",
+      "37309219",
+      "36854646",
+      "30692199",
+      "26496431",
+      "38470006",
+      "42346109",
+      "39079584",
+      "37085942",
+      "28973312",
+      "38063257",
+      "41604486",
+      "22984599",
+      "37143090",
+      "33168630",
+      "35226190",
+      "40860154",
+      "40421586",
+      "27162137",
+      "28275944",
+      "28351972",
+      "41121315",
+      "36729287",
+      "38789892",
+      "35893075",
+      "26818951",
+      "30890471",
+      "37923712",
+      "29962275",
+      "34062489",
+      "30485540",
+      "34011988",
+      "35241726",
+      "29153989",
+      "26843653",
+      "30898012",
+      "39729860",
+      "35550160",
+      "39696767",
+      "39207536",
+      "35000752",
+      "20730033",
+      "40542358",
+      "29503090",
+      "33710537",
+      "18497889",
+      "39901616",
+      "38838815"
+    ],
+    "review": [
+      "42804638",
+      "23827971",
+      "37085942",
+      "27162137",
+      "30890471"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2528514123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/alzheimersdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Alzheimer's Disease"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3312",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

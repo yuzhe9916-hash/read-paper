@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42825477",
+    "doi": "10.1021/acssensors.6c01817",
+    "title": "Portable CRISPR/Cas12a-Based Aptasensor System for Point-of-Care Detection of Cytokine Tumor Necrosis Factor-Alpha (TNF-alpha)."
+  },
+  "content": {
+    "abstract": "Tumor necrosis factor-alpha (TNF-alpha) is an important inflammatory cytokine whose rapid and quantitative detection is essential for disease diagnosis and monitoring. However, conventional methods are often limited by bulky instrumentation and are not well suited for analysis in complex biological environments. Herein, a portable CRISPR/Cas12a-based aptasensor system was developed for detection of TNF-alpha by integrating aptamer recognition, Cas12a trans-cleavage signal amplification, and a miniaturized fluorescence detection device. An aptamer for TNF-alpha was designed to regulate the accessibility of the target sequence to the CRISPR RNA (crRNA), and the resulting change in Cas12a activity was converted into fluorescence signals. The portable device integrated light-emitting diode (LED) excitation and photodiode-based detection, with modulated signals wirelessly transmitted to a smartphone for readout. The aptasensor showed concentration-dependent responses, and the inhibition rate exhibited a linear relationship with TNF-alpha concentration. The applicability of the system was validated in cell culture supernatants and cervical tissue samples, including tumor and adjacent normal tissues. Distinct TNF-alpha levels were observed between these samples, showing good agreement with enzyme-linked immunosorbent assay (ELISA) results. This portable CRISPR/Cas12a aptasensor system provides a practical approach for point-of-care TNF-alpha detection and extends CRISPR-based sensing to protein biomarkers.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "aptamer",
+      "point-of-care testing (POCT)",
+      "portable fluorescence biosensor",
+      "tumor necrosis factor-alpha (TNF-alpha)"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Zhenghan",
+        "Ding, Liya",
+        "Zhou, Li-Ang",
+        "Liu, Ye",
+        "Wang, Yuhang",
+        "Xu, Yi",
+        "Cao, Yunrui",
+        "Jiang, Zhinong",
+        "Liu, Qingjun"
+      ],
+      "short_names": [
+        "Shi Z",
+        "Ding L",
+        "Zhou LA",
+        "Liu Y",
+        "Wang Y",
+        "Xu Y",
+        "Cao Y",
+        "Jiang Z",
+        "Liu Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9442-9355"
+      ],
+      "affiliations": [
+        "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+        "Zhejiang Key Laboratory of Intelligent Medical Decision Support, Taizhou Key Laboratory of Medical Devices and Advanced Materials, Research Institute of Zhejiang University-Taizhou, Taizhou318000, China.",
+        "Department of Pathology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou310016, China.",
+        "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+        "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+        "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+        "Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Hangzhou310016, China.",
+        "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+        "Zhejiang Key Laboratory of Intelligent Medical Decision Support, Taizhou Key Laboratory of Medical Devices and Advanced Materials, Research Institute of Zhejiang University-Taizhou, Taizhou318000, China.",
+        "Department of Pathology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou310016, China.",
+        "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+        "Zhejiang Key Laboratory of Intelligent Medical Decision Support, Taizhou Key Laboratory of Medical Devices and Advanced Materials, Research Institute of Zhejiang University-Taizhou, Taizhou318000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Zhenghan",
+        "short_name": "Shi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+          "Zhejiang Key Laboratory of Intelligent Medical Decision Support, Taizhou Key Laboratory of Medical Devices and Advanced Materials, Research Institute of Zhejiang University-Taizhou, Taizhou318000, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Liya",
+        "short_name": "Ding L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou310016, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Li-Ang",
+        "short_name": "Zhou LA",
+        "identifiers": [],
+        "affiliations": [
+          "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ye",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuhang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yi",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Hangzhou310016, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Yunrui",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+          "Zhejiang Key Laboratory of Intelligent Medical Decision Support, Taizhou Key Laboratory of Medical Devices and Advanced Materials, Research Institute of Zhejiang University-Taizhou, Taizhou318000, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Zhinong",
+        "short_name": "Jiang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou310016, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qingjun",
+        "short_name": "Liu Q",
+        "identifiers": [
+          "0000-0002-9442-9355"
+        ],
+        "affiliations": [
+          "Biosensor National Special Laboratory, Key Laboratory for Biomedical Engineering of Education Ministry, Department of Biomedical Engineering, Zhejiang University, Hangzhou310027, China.",
+          "Zhejiang Key Laboratory of Intelligent Medical Decision Support, Taizhou Key Laboratory of Medical Devices and Advanced Materials, Research Institute of Zhejiang University-Taizhou, Taizhou318000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 13:37",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42825477",
+      "41144643",
+      "39880501",
+      "36738621",
+      "42142405",
+      "41183412",
+      "40480143",
+      "37996158",
+      "39082193",
+      "39824412",
+      "37709435",
+      "42398757",
+      "38182384",
+      "35946354",
+      "41707424",
+      "41321596",
+      "41149298",
+      "42296867",
+      "37870387",
+      "40157150",
+      "37303825",
+      "40704803",
+      "42266926",
+      "40059372",
+      "40877023",
+      "41603277",
+      "37162995",
+      "38867016",
+      "37722405",
+      "39914548",
+      "40151930",
+      "38164718",
+      "35367933",
+      "36683240",
+      "42474386",
+      "37957729",
+      "42015157",
+      "38783743",
+      "38866727",
+      "34990959",
+      "41592354",
+      "41104129",
+      "38472096",
+      "40170086",
+      "40511702",
+      "41285661",
+      "42734255",
+      "37874890",
+      "40914018",
+      "42790075",
+      "32929347",
+      "38740457",
+      "34889094",
+      "41170688",
+      "39666765",
+      "39254031",
+      "42402225",
+      "40749819",
+      "42508912",
+      "37977804",
+      "41800529",
+      "42753299",
+      "38085648",
+      "35049639",
+      "42628453",
+      "42217942",
+      "36558152",
+      "35986652",
+      "39212695",
+      "39536590",
+      "40945113",
+      "42464218",
+      "39765088",
+      "40599263",
+      "40370093",
+      "40199100",
+      "34653714",
+      "42330664",
+      "42698516",
+      "41711853",
+      "39515055",
+      "40680352",
+      "40387535",
+      "42148800",
+      "36029324",
+      "35946585",
+      "36821893",
+      "37432138",
+      "40354126",
+      "38306811",
+      "37278518",
+      "41135356",
+      "42804947",
+      "38852343",
+      "35263090",
+      "42269411",
+      "41129856",
+      "32809800",
+      "36801336",
+      "38383404"
+    ],
+    "review": [
+      "42825477",
+      "37870387"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c01817",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

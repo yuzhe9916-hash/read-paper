@@ -1,0 +1,184 @@
+{
+  "identity": {
+    "pmid": "42811153",
+    "doi": "10.1093/bioinformatics/btag729",
+    "title": "AcrSeek: Metric Learning with Hybrid Negative Mining for Anti-CRISPR Protein Detection under Extreme Class Imbalance."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Anti-CRISPR (Acr) proteins inhibit CRISPR-Cas immunity and are key targets for precise control of CRISPR-based genome editing and phage-host coevolution research. Their experimental identification is costly and low-throughput, so computational predictors are used to prioritise candidates for testing. In this setting validated positives number in the hundreds while phage-derived putative negatives reach tens of thousands, producing extreme class imbalance. Yet existing classification-based predictors train and evaluate on 1:1 balanced datasets and allow high-similarity sequences between training and test, overestimating real-world performance. RESULTS: We present AcrSeek, a metric-learning framework that trains a projection head over a frozen protein language model (PLM) encoder with hybrid negative mining (offline global plus online semi-hard) under a joint triplet-focal objective. Under nested 5-fold cross-validation with leakage controlled by 40% identity clustering, AcrSeek improved AUPRC on the imbalanced (1:383) test set from 0.017 to 0.355 over AcrNET (matched PLM backbone), reaching 0.508 with ESM-2 3B. AcrSeek therefore remains structurally robust under extreme class imbalance and may also serve other protein-function detection problems with scarce positives. AVAILABILITY AND IMPLEMENTATION: Source code at https://github.com/jeongchans/acrseek, archived at Zenodo (DOI: 10.5281/zenodo.21946803); data and model checkpoints at Zenodo (DOI: 10.5281/zenodo.20115442). SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+    "keywords": [
+      "anti-CRISPR",
+      "class imbalance",
+      "metric learning",
+      "protein language model",
+      "triplet loss"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jeong, Chan-Seok"
+      ],
+      "short_names": [
+        "Jeong CS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of National Supercomputing, Korea Institute of Science and Technology Information, Daejeon, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jeong, Chan-Seok",
+        "short_name": "Jeong CS",
+        "identifiers": [],
+        "affiliations": [
+          "Division of National Supercomputing, Korea Institute of Science and Technology Information, Daejeon, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811153",
+      "37084259",
+      "42296384",
+      "40600900",
+      "42647707",
+      "42525385",
+      "40372465",
+      "35758815",
+      "42480127",
+      "42758123",
+      "41896185",
+      "42475469",
+      "41100703",
+      "42758138",
+      "36698759",
+      "36321557",
+      "36227031",
+      "42560030",
+      "36284264",
+      "42705098",
+      "42803439",
+      "30423065",
+      "36945484",
+      "35997560",
+      "38507682",
+      "42105210",
+      "37158576",
+      "36708251",
+      "42341289",
+      "41808445",
+      "35900151",
+      "42767986",
+      "40929136",
+      "30514786",
+      "42096457",
+      "35561183",
+      "42133523",
+      "37385392",
+      "40857396",
+      "39437714",
+      "41947423",
+      "31764961",
+      "35832615",
+      "36413017",
+      "39073893",
+      "34427581",
+      "41310253",
+      "41998703",
+      "36124806",
+      "22809416",
+      "31472290",
+      "40662785",
+      "34415301",
+      "42371756",
+      "42788664",
+      "33682875",
+      "31506266",
+      "42234353",
+      "30423072",
+      "35853071",
+      "41902842",
+      "40742755",
+      "37216595",
+      "39731012",
+      "42803464",
+      "40971691",
+      "41706646",
+      "34329155",
+      "42414449",
+      "42498639",
+      "42022125",
+      "38199209",
+      "41601205",
+      "42610099",
+      "36124799",
+      "32728052",
+      "42251108",
+      "34252931",
+      "38303473",
+      "33620822",
+      "36094338",
+      "41601506",
+      "40051031",
+      "32459325",
+      "36579866",
+      "36495196",
+      "41992497",
+      "28968798",
+      "34577319",
+      "41329305",
+      "34146085",
+      "37289522",
+      "30169558",
+      "42421200",
+      "38781186",
+      "35998924",
+      "30418485",
+      "33165571",
+      "39975019",
+      "36648327"
+    ],
+    "review": [
+      "42811153",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag729",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

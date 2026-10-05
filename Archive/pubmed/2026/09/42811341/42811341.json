@@ -1,0 +1,444 @@
+{
+  "identity": {
+    "pmid": "42811341",
+    "doi": "10.1186/s13024-026-00986-6",
+    "title": "The YTHDF proteins modulate Alzheimer's disease-associated brain gene signatures."
+  },
+  "content": {
+    "abstract": "Gene signatures of Alzheimer's disease (AD) brains reflect the output of a complex interplay of genetic, epigenetic, epi-transcriptomic, and post-transcriptional regulations. To nominate candidate factors modulating these signatures, we developed a machine learning model to integrate cellular and molecular features explaining differential gene expression in AD. Among the features tested, YTHDF proteins, the canonical readers of N6-methyladenosine (m6A) RNA modification, are among the most influential predictors of AD gene signatures. Protein modules containing YTHDFs were downregulated in human AD brains, and knockdown or pharmacological inhibition of YTHDFs in iPSC-derived 2D and 3D neuronal models recapitulated key AD-associated gene signatures. Furthermore, eCLIP-seq revealed altered YTHDF binding to transcripts in AD brains, at both m6A-dependent and m6A-independent sites. Together, these results support an important role for YTHDF proteins in modulating AD-associated gene signatures in the human brain.",
+    "keywords": [
+      "Alzheimer's disease",
+      "CRISPR knockout",
+      "Cognitive decline",
+      "Cortical organoids",
+      "Epitranscriptomics",
+      "Gene expression signatures",
+      "Machine learning",
+      "Post-transcriptional regulation",
+      "Small-molecule YTHDF inhibition",
+      "eCLIP-seq"
+    ],
+    "mesh_terms": [
+      "*Alzheimer Disease/genetics/metabolism",
+      "Humans",
+      "*Brain/metabolism",
+      "*RNA-Binding Proteins/metabolism/genetics",
+      "Transcriptome",
+      "*Nerve Tissue Proteins/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tasaki, Shinya",
+        "Avey, Denis R",
+        "Kearns, Nicola A",
+        "Yu, Chunjiang",
+        "Tissera, Sashini De",
+        "Vyas, Himanshu",
+        "Cheng, Lin",
+        "Xu, Jishu",
+        "Iatrou, Artemis",
+        "Flood, Daniel J",
+        "Li, Wenlong",
+        "Barnes, Lisa L",
+        "Rothamel, Katherine",
+        "Wingo, Aliza P",
+        "Wingo, Thomas S",
+        "Seyfried, Nicholas T",
+        "He, Chuan",
+        "De Jager, Philip L",
+        "Yeo, Gene W",
+        "Gaiteri, Chris",
+        "Bennett, David A",
+        "Wang, Yanling"
+      ],
+      "short_names": [
+        "Tasaki S",
+        "Avey DR",
+        "Kearns NA",
+        "Yu C",
+        "Tissera S",
+        "Vyas H",
+        "Cheng L",
+        "Xu J",
+        "Iatrou A",
+        "Flood DJ",
+        "Li W",
+        "Barnes LL",
+        "Rothamel K",
+        "Wingo AP",
+        "Wingo TS",
+        "Seyfried NT",
+        "He C",
+        "De Jager PL",
+        "Yeo GW",
+        "Gaiteri C",
+        "Bennett DA",
+        "Wang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA. stasaki@gmail.com.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Department of Psychiatry, McLean Hospital, Harvard Medical School, Belmont, MA, 02478, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Department of Chemistry, Department of Biochemistry and Molecular Biology, Institute for Biophysical Dynamics, Howard Hughes Medical Institute, University of Chicago, Chicago, IL, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Center for RNA Technologies and Therapeutics, Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA.",
+        "Department of Psychiatry, University of California, Davis, CA, 95817, USA.",
+        "VA Northern California Health Care System, Sacramento, CA, 95652, USA.",
+        "Department of Neurology, University of California, Davis, CA, 95817, USA.",
+        "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA, 30322, USA.",
+        "Department of Chemistry, Department of Biochemistry and Molecular Biology, Institute for Biophysical Dynamics, Howard Hughes Medical Institute, University of Chicago, Chicago, IL, USA.",
+        "Department of Neurology and the Taub Institute for the Study of Alzheimer's Disease and the Aging Brain, Center for Translational and Computational Neuroimmunology, Columbia University Medical Center, New York, NY, 10032, USA.",
+        "Center for RNA Technologies and Therapeutics, Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Department of Psychiatry, Upstate Medical University, Syracuse, NY, 13210, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA. yanling_wang@rush.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tasaki, Shinya",
+        "short_name": "Tasaki S",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA. stasaki@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Avey, Denis R",
+        "short_name": "Avey DR",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Kearns, Nicola A",
+        "short_name": "Kearns NA",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Chunjiang",
+        "short_name": "Yu C",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Tissera, Sashini De",
+        "short_name": "Tissera S",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Vyas, Himanshu",
+        "short_name": "Vyas H",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Cheng, Lin",
+        "short_name": "Cheng L",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Jishu",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Iatrou, Artemis",
+        "short_name": "Iatrou A",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+          "Department of Psychiatry, McLean Hospital, Harvard Medical School, Belmont, MA, 02478, USA."
+        ]
+      },
+      {
+        "full_name": "Flood, Daniel J",
+        "short_name": "Flood DJ",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Wenlong",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Department of Biochemistry and Molecular Biology, Institute for Biophysical Dynamics, Howard Hughes Medical Institute, University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Barnes, Lisa L",
+        "short_name": "Barnes LL",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Rothamel, Katherine",
+        "short_name": "Rothamel K",
+        "identifiers": [],
+        "affiliations": [
+          "Center for RNA Technologies and Therapeutics, Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Wingo, Aliza P",
+        "short_name": "Wingo AP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California, Davis, CA, 95817, USA.",
+          "VA Northern California Health Care System, Sacramento, CA, 95652, USA."
+        ]
+      },
+      {
+        "full_name": "Wingo, Thomas S",
+        "short_name": "Wingo TS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, University of California, Davis, CA, 95817, USA."
+        ]
+      },
+      {
+        "full_name": "Seyfried, Nicholas T",
+        "short_name": "Seyfried NT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA, 30322, USA."
+        ]
+      },
+      {
+        "full_name": "He, Chuan",
+        "short_name": "He C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Department of Biochemistry and Molecular Biology, Institute for Biophysical Dynamics, Howard Hughes Medical Institute, University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "De Jager, Philip L",
+        "short_name": "De Jager PL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology and the Taub Institute for the Study of Alzheimer's Disease and the Aging Brain, Center for Translational and Computational Neuroimmunology, Columbia University Medical Center, New York, NY, 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Yeo, Gene W",
+        "short_name": "Yeo GW",
+        "identifiers": [],
+        "affiliations": [
+          "Center for RNA Technologies and Therapeutics, Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA."
+        ]
+      },
+      {
+        "full_name": "Gaiteri, Chris",
+        "short_name": "Gaiteri C",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+          "Department of Psychiatry, Upstate Medical University, Syracuse, NY, 13210, USA."
+        ]
+      },
+      {
+        "full_name": "Bennett, David A",
+        "short_name": "Bennett DA",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Yanling",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA. yanling_wang@rush.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular neurodegeneration"
+    ],
+    "journal_abbrev": [
+      "Mol Neurodegener"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811341",
+      "39484606",
+      "30286791",
+      "32847866",
+      "40480976",
+      "27799057",
+      "40731203",
+      "22788679",
+      "41035073",
+      "41275956",
+      "31878951",
+      "38918213",
+      "32668255",
+      "30189875",
+      "42554796",
+      "40702335",
+      "39783247",
+      "37666846",
+      "41587665",
+      "37365240",
+      "41815070",
+      "40196645",
+      "41537925",
+      "30716542",
+      "17032350",
+      "40181382",
+      "41935644",
+      "41848956",
+      "37340466",
+      "41148349",
+      "26552589",
+      "29598827",
+      "15927307",
+      "37549144",
+      "34315531",
+      "38909241",
+      "31888770",
+      "41101396",
+      "42307825",
+      "37016304",
+      "29784049",
+      "39901180",
+      "41113932",
+      "40817058",
+      "39048816",
+      "10875438",
+      "42426931",
+      "39711511",
+      "32943573",
+      "39902961",
+      "15106847",
+      "33401309",
+      "37273154",
+      "39773540",
+      "34953465",
+      "41986478",
+      "25689357",
+      "40914755",
+      "34705667",
+      "34702310",
+      "42166149",
+      "38629637",
+      "21283692",
+      "36228382",
+      "41449533",
+      "33076949",
+      "41403953",
+      "42486312",
+      "24005853",
+      "42419155",
+      "41803852",
+      "40631452",
+      "40787447",
+      "17904698",
+      "30283027",
+      "32479993",
+      "28446202",
+      "39907034",
+      "40369584",
+      "39834440",
+      "38741048",
+      "30712078",
+      "11007892",
+      "40275260",
+      "42780532",
+      "41327391",
+      "42142451",
+      "32225014",
+      "32483284",
+      "38496847",
+      "30367664",
+      "25281018",
+      "42570282",
+      "40488453",
+      "39507054",
+      "34181729",
+      "33402207",
+      "42583767",
+      "33461566",
+      "28612290"
+    ],
+    "review": [
+      "42811341",
+      "32668255",
+      "30716542",
+      "38629637"
+    ],
+    "pmc": [
+      "13625320"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-026-00986-6",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/alzheimersdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Alzheimer's Disease"
+      }
+    ],
+    "text_mined": []
+  }
+}

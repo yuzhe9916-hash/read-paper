@@ -1,0 +1,402 @@
+{
+  "identity": {
+    "pmid": "42823380",
+    "doi": "10.26508/lsa.202503535",
+    "title": "A selective inhibitor reveals roles for LONP1 in mitochondrial proteostasis and OXPHOS dependencies."
+  },
+  "content": {
+    "abstract": "Lon protease 1 (LONP1) is a conserved hexameric protease implicated in mitochondrial disorders and cancer progression. In this study, we present PZL-26, a potent and selective small-molecule inhibitor that targets LONP1 without affecting the proteasome, leading to selective accumulation of mitochondrial proteins. Using PZL-26 in a whole-genome CRISPR-Cas9 screen, we identified genes essential for cell survival under protease inhibition, supporting a role for LONP1 in key mitochondrial processes, including complex I biogenesis, mitochondrial transcription, and translation. Our CRISPR screen results are consistent with proteomics analysis, with both approaches converging on the same mitochondrial pathways and highlighting functional interactions between LONP1 and other mitochondrial proteases, including potential compensatory mechanisms. These findings establish PZL-26 as an effective tool for exploring LONP1 function and pave the way for future therapeutic strategies targeting LONP1 in mitochondrial diseases and cancer.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Mitochondria/metabolism/drug effects",
+      "Humans",
+      "*ATP-Dependent Proteases/metabolism/antagonists & inhibitors/genetics",
+      "*Mitochondrial Proteins/metabolism/antagonists & inhibitors/genetics",
+      "*Proteostasis/drug effects",
+      "*Oxidative Phosphorylation/drug effects",
+      "CRISPR-Cas Systems",
+      "Animals",
+      "Proteomics/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Szilagyi, Zsolt",
+        "Michon, Pauline",
+        "Pardo-Hernandez, Carlos",
+        "Sacultanu, Madalina",
+        "Miralles Fuste, Javier",
+        "Griffin, Andrew M",
+        "Charifson, Paul S",
+        "Phan, Cindy",
+        "Shi, Yonghong",
+        "Kern, Gunther",
+        "Martinez Botella, Gabriel",
+        "Keating, Thomas A",
+        "Macao, Bertil",
+        "Larsson, Nils-Goran",
+        "Falkenberg, Maria",
+        "Green, Jeremy",
+        "Gustafsson, Claes M"
+      ],
+      "short_names": [
+        "Szilagyi Z",
+        "Michon P",
+        "Pardo-Hernandez C",
+        "Sacultanu M",
+        "Miralles Fuste J",
+        "Griffin AM",
+        "Charifson PS",
+        "Phan C",
+        "Shi Y",
+        "Kern G",
+        "Martinez Botella G",
+        "Keating TA",
+        "Macao B",
+        "Larsson NG",
+        "Falkenberg M",
+        "Green J",
+        "Gustafsson CM"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5157-1039",
+        "ORCID: 0000-0002-2964-9538",
+        "ORCID: 0000-0001-6511-6125",
+        "ORCID: 0000-0001-5100-996X",
+        "ORCID: 0000-0001-8713-173X",
+        "ORCID: 0000-0003-4544-6412",
+        "ORCID: 0000-0003-3531-8468"
+      ],
+      "affiliations": [
+        "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden. ROR: https://ror.org/01tm6cn81",
+        "Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden. ROR: https://ror.org/056d84691",
+        "Pretzel Therapeutics, Molndal, Sweden.",
+        "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden. ROR: https://ror.org/01tm6cn81",
+        "Pretzel Therapeutics, Molndal, Sweden.",
+        "Pretzel Therapeutics, Waltham, MA, USA.",
+        "Pretzel Therapeutics, Waltham, MA, USA.",
+        "Pretzel Therapeutics, Molndal, Sweden.",
+        "Pretzel Therapeutics, Molndal, Sweden.",
+        "Pretzel Therapeutics, Waltham, MA, USA.",
+        "Pretzel Therapeutics, Waltham, MA, USA.",
+        "Pretzel Therapeutics, Waltham, MA, USA.",
+        "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden. ROR: https://ror.org/01tm6cn81",
+        "Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden. ROR: https://ror.org/056d84691",
+        "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden maria.falkenberg@medkem.gu.se. ROR: https://ror.org/01tm6cn81",
+        "Pretzel Therapeutics, Waltham, MA, USA jgreen@pretzeltx.com.",
+        "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden claes.Gustafsson@medkem.gu.se. ROR: https://ror.org/01tm6cn81"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Szilagyi, Zsolt",
+        "short_name": "Szilagyi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Michon, Pauline",
+        "short_name": "Michon P",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Pardo-Hernández, Carlos",
+        "short_name": "Pardo-Hernández C",
+        "identifiers": [
+          "0000-0001-5157-1039"
+        ],
+        "affiliations": [
+          "Pretzel Therapeutics, Mölndal, Sweden."
+        ]
+      },
+      {
+        "full_name": "Sãcultanu, Mãdãlina",
+        "short_name": "Sãcultanu M",
+        "identifiers": [
+          "0000-0002-2964-9538"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Miralles Fusté, Javier",
+        "short_name": "Miralles Fusté J",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Mölndal, Sweden."
+        ]
+      },
+      {
+        "full_name": "Griffin, Andrew M",
+        "short_name": "Griffin AM",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Charifson, Paul S",
+        "short_name": "Charifson PS",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Phan, Cindy",
+        "short_name": "Phan C",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Mölndal, Sweden."
+        ]
+      },
+      {
+        "full_name": "Shi, Yonghong",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Mölndal, Sweden."
+        ]
+      },
+      {
+        "full_name": "Kern, Gunther",
+        "short_name": "Kern G",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Martinez Botella, Gabriel",
+        "short_name": "Martinez Botella G",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Keating, Thomas A",
+        "short_name": "Keating TA",
+        "identifiers": [],
+        "affiliations": [
+          "Pretzel Therapeutics, Waltham, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Macao, Bertil",
+        "short_name": "Macao B",
+        "identifiers": [
+          "0000-0001-6511-6125"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Larsson, Nils-Göran",
+        "short_name": "Larsson NG",
+        "identifiers": [
+          "0000-0001-5100-996X"
+        ],
+        "affiliations": [
+          "Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Falkenberg, Maria",
+        "short_name": "Falkenberg M",
+        "identifiers": [
+          "0000-0001-8713-173X"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden maria.falkenberg@medkem.gu.se."
+        ]
+      },
+      {
+        "full_name": "Green, Jeremy",
+        "short_name": "Green J",
+        "identifiers": [
+          "0000-0003-4544-6412"
+        ],
+        "affiliations": [
+          "Pretzel Therapeutics, Waltham, MA, USA jgreen@pretzeltx.com."
+        ]
+      },
+      {
+        "full_name": "Gustafsson, Claes M",
+        "short_name": "Gustafsson CM",
+        "identifiers": [
+          "0000-0003-3531-8468"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, University of Gothenburg, Gothenburg, Sweden claes.Gustafsson@medkem.gu.se."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Life science alliance"
+    ],
+    "journal_abbrev": [
+      "Life Sci Alliance"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42823380",
+      "40305312",
+      "40088962",
+      "39971909",
+      "30061372",
+      "40903791",
+      "34050165",
+      "34461102",
+      "41903616",
+      "41620670",
+      "40249453",
+      "40784490",
+      "42302976",
+      "31756517",
+      "36508908",
+      "41258406",
+      "42219609",
+      "41958129",
+      "38091289",
+      "35173176",
+      "40691304",
+      "25574826",
+      "32475470",
+      "27387767",
+      "31923470",
+      "35151690",
+      "33668863",
+      "25017063",
+      "34400774",
+      "41275592",
+      "26314956",
+      "33821636",
+      "32720218",
+      "40917061",
+      "30865517",
+      "42302176",
+      "29518248",
+      "36629048",
+      "36362158",
+      "30625302",
+      "40867604",
+      "27108387",
+      "35237793",
+      "36064070",
+      "39261902",
+      "42510524",
+      "38703850",
+      "42478633",
+      "42393712",
+      "41469518",
+      "34974310",
+      "31406245",
+      "33547867",
+      "35760833",
+      "40197059",
+      "41455337",
+      "30591555",
+      "39408926",
+      "33637676",
+      "41254141",
+      "40044488",
+      "33112656",
+      "35870450",
+      "39547369",
+      "30304514",
+      "41317762",
+      "38625722",
+      "38156441",
+      "31547314",
+      "37569389",
+      "22001671",
+      "31639451",
+      "24355201",
+      "28442264",
+      "40545870",
+      "35912435",
+      "32936696",
+      "37647804",
+      "38864432",
+      "24606795",
+      "36739437",
+      "39733149",
+      "36497197",
+      "27480846",
+      "32723812",
+      "28132473",
+      "31091208",
+      "33431889",
+      "42413666",
+      "39889707",
+      "31822343",
+      "39181129",
+      "42310240",
+      "41257877",
+      "38909850",
+      "33671345",
+      "40301572",
+      "27768122",
+      "41568562",
+      "40931319"
+    ],
+    "review": [
+      "42823380",
+      "40305312",
+      "41620670",
+      "40249453",
+      "42302976",
+      "31756517",
+      "42219609",
+      "32475470",
+      "27387767",
+      "36362158",
+      "42510524",
+      "38156441",
+      "37569389",
+      "22001671",
+      "38864432",
+      "28132473"
+    ],
+    "pmc": [
+      "13631567"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.26508/lsa.202503535",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

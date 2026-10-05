@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42821128",
+    "doi": "10.1007/s00604-026-08427-3",
+    "title": "Serum-compatible aptamer-regulated RCA-CRISPR/Cas12a assay for fluorescence and lateral flow detection of myeloperoxidase."
+  },
+  "content": {
+    "abstract": "Myeloperoxidase (MPO), a neutrophil-derived heme peroxidase involved in oxidative inflammatory responses, has been investigated as a biomarker for cardiovascular, hematological, and other inflammation-associated diseases. In this study, an aptamer-regulated rolling circle amplification (RCA)-CRISPR/Cas12a fluorescence assay was established for MPO detection in serum samples. Two aptamers, Apt-02 and Apt-14, were obtained with dissociation constants (K(D)) of 57.76 and 56.88 nM, respectively, using MPO-depleted human serum as the counter-selection matrix during MB-SELEX. Apt-14 exhibited relatively good stability in serum and was therefore used in the assay development. Upon MPO binding, cDNA was released from the aptamer/cDNA duplex, initiating RCA and subsequently activating Cas12a-mediated trans-cleavage to amplify the fluorescence signal. Under the optimized conditions, the assay achieved a detection limit of 0.422 ng/mL with good selectivity. It also showed limited interference from the tested cardiovascular disease-related proteins and provided MPO levels in clinical serum samples that were consistent with ELISA results. The assay was also adapted to a lateral-flow strip using a biotin/FAM-labeled ssDNA reporter, enabling visual detection and reader-assisted semi-quantitative analysis.",
+    "keywords": [
+      "Aptamer-based biosensing",
+      "CRISPR/Cas12a",
+      "Lateral-flow strip",
+      "MPO detection",
+      "Rolling circle amplification (RCA)",
+      "Serum sample analysis"
+    ],
+    "mesh_terms": [
+      "*Peroxidase/blood",
+      "Humans",
+      "*Aptamers, Nucleotide/chemistry/genetics/metabolism",
+      "Nucleic Acid Amplification Techniques/methods",
+      "Limit of Detection",
+      "*Biosensing Techniques/methods",
+      "*CRISPR-Cas Systems",
+      "Fluorescence",
+      "Spectrometry, Fluorescence/methods",
+      "Bacterial Proteins",
+      "Endodeoxyribonucleases",
+      "CRISPR-Associated Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cao, Yingying",
+        "Duan, Mengchen",
+        "Wei, Lizhen",
+        "Chen, Yisheng",
+        "Liu, Fei",
+        "Bai, Jiawen",
+        "Huang, Yi",
+        "Zhang, Shenghang"
+      ],
+      "short_names": [
+        "Cao Y",
+        "Duan M",
+        "Wei L",
+        "Chen Y",
+        "Liu F",
+        "Bai J",
+        "Huang Y",
+        "Zhang S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Fuzhou University Affiliated Provincial Hospital, Fuzhou University, Fuzhou, 350002, P. R. China.",
+        "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China.",
+        "Zhongxiang People's Hospital, Zhongxiang, 431900, P. R. China.",
+        "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China.",
+        "Fuzhou University Affiliated Provincial Hospital, Fuzhou University, Fuzhou, 350002, P. R. China.",
+        "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China.",
+        "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China.",
+        "Fuzhou University Affiliated Provincial Hospital, Fuzhou University, Fuzhou, 350002, P. R. China. Huangyi@fjsl.com.cn.",
+        "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China. fzzyyzsh@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cao, Yingying",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Fuzhou University Affiliated Provincial Hospital, Fuzhou University, Fuzhou, 350002, P. R. China.",
+          "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Duan, Mengchen",
+        "short_name": "Duan M",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongxiang People's Hospital, Zhongxiang, 431900, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wei, Lizhen",
+        "short_name": "Wei L",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yisheng",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Fuzhou University Affiliated Provincial Hospital, Fuzhou University, Fuzhou, 350002, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Fei",
+        "short_name": "Liu F",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Bai, Jiawen",
+        "short_name": "Bai J",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yi",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Fuzhou University Affiliated Provincial Hospital, Fuzhou University, Fuzhou, 350002, P. R. China. Huangyi@fjsl.com.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shenghang",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Key Laboratory of Aptamers Technology, Fuzong Clinical Medical College of Fujian Medical University (900th Hospital), Fuzhou, 350025, P. R. China. fzzyyzsh@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Mikrochimica acta"
+    ],
+    "journal_abbrev": [
+      "Mikrochim Acta"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 18:36:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42821128",
+      "42503780",
+      "39491486",
+      "40183844",
+      "39515055",
+      "40774925",
+      "41081763",
+      "41257956",
+      "40743400",
+      "42648078",
+      "41993032",
+      "41144643",
+      "41240694",
+      "40370093",
+      "40203601",
+      "39957255",
+      "42669262",
+      "39824412",
+      "38867016",
+      "39831800",
+      "40555107",
+      "42405454",
+      "42610192",
+      "41170688",
+      "37977804",
+      "40354126",
+      "40704803",
+      "37722405",
+      "42424600",
+      "41161233",
+      "42689595",
+      "37683439",
+      "39740588",
+      "38655256",
+      "40403614",
+      "40607956",
+      "40803011",
+      "42626870",
+      "42217942",
+      "39212695",
+      "38646918",
+      "40862592",
+      "40946480",
+      "42184675",
+      "41039127",
+      "32289369",
+      "41054568",
+      "41183412",
+      "40886437",
+      "39254031",
+      "38762451",
+      "40170086",
+      "39765088",
+      "40359808",
+      "39880501",
+      "38866727",
+      "41707424",
+      "41718579",
+      "42269411",
+      "40187291",
+      "39303955",
+      "20151715",
+      "42330669",
+      "39914548",
+      "40194458",
+      "40586733",
+      "39536590",
+      "39163781",
+      "38182384",
+      "40848498",
+      "39806080",
+      "40886669",
+      "40961645",
+      "41072226",
+      "37996158",
+      "38912896",
+      "39982896",
+      "42184676",
+      "40745870",
+      "39666765",
+      "36081307",
+      "35870335",
+      "40924964",
+      "38783743",
+      "40425955",
+      "34542728",
+      "40921108",
+      "39806115",
+      "34928030",
+      "39082193",
+      "34011151",
+      "42474386",
+      "40393239",
+      "38994004",
+      "41207276",
+      "39489975",
+      "37230569",
+      "40815833",
+      "40599263",
+      "39724854"
+    ],
+    "review": [
+      "42821128",
+      "42405454"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MPO-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

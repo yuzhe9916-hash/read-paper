@@ -1,0 +1,287 @@
+{
+  "identity": {
+    "pmid": "42827295",
+    "doi": "10.1111/nph.71624",
+    "title": "BpSRK1-mediated phosphorylation of BpERF3 relieves HDA6-dependent chromatin repression to enhance drought tolerance in birch."
+  },
+  "content": {
+    "abstract": "Drought tolerance in plants requires rapid conversion of water-deficit signals into protective transcriptional and epigenetic programs. Although ERF transcription factors (TFs) are central regulators of stress-responsive gene expression, how drought-induced kinase signaling is coupled to chromatin regulation and antioxidant gene activation remains unclear. Here, we identify the ERF TF BpERF3 as a phosphorylation-dependent regulator of drought tolerance in birch (Betula platyphylla). Using transgenic and CRISPR-Cas9 mutant lines, protein interaction assays, immunoaffinity fluorescent electrophoresis (IAFE)-based interactome mapping, post-translational modification analysis, reactive oxygen species measurements, and drought phenotyping, we dissected the regulatory mechanism underlying BpERF3-mediated stress adaptation. We show that BpERF3 activates the peroxidase (POD) genes BpPOD3 and BpPOD4, which are required for its drought-protective function. Mechanistically, BpSRK1 phosphorylates BpERF3 at Ser355, enabling phosphorylated BpERF3 to competitively engage the HDAC domain of BpHDA6 and restrict BpHDA6-dependent histone H3.1 deacetylation. Consequently, H3.1 acetylation is maintained, chromatin relaxes, downstream stress-responsive genes are activated, and drought tolerance is enhanced in birch. Our findings reveal a BpSRK1-BpERF3-BpHDA6-H3.1 regulatory module that links drought-induced phosphorylation to local chromatin activation and redox homeostasis, providing mechanistic insight into plant stress adaptation.",
+    "keywords": [
+      "Betula platyphylla",
+      "chromatin regulation",
+      "drought tolerance",
+      "histone deacetylase",
+      "phosphorylation",
+      "transcription factor interactome"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Zhibo",
+        "He, Zihang",
+        "Zhang, Xiuru",
+        "Liu, Zhongyuan",
+        "Gao, Caiqiu",
+        "Song, Xingshun",
+        "Wang, Yucheng"
+      ],
+      "short_names": [
+        "Wang Z",
+        "He Z",
+        "Zhang X",
+        "Liu Z",
+        "Gao C",
+        "Song X",
+        "Wang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8733-5860",
+        "ORCID: 0000-0002-3076-6299",
+        "ORCID: 0009-0004-6328-3244",
+        "ORCID: 0009-0009-7626-9851",
+        "ORCID: 0000-0001-9953-9775",
+        "ORCID: 0000-0001-8129-2612",
+        "ORCID: 0000-0003-3943-8811"
+      ],
+      "affiliations": [
+        "College of Life Science, Northeast Forestry University, Harbin, 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China.",
+        "College of Life Science, Northeast Forestry University, Harbin, 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Zhibo",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0000-0002-8733-5860"
+        ],
+        "affiliations": [
+          "College of Life Science, Northeast Forestry University, Harbin, 150040, China.",
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "He, Zihang",
+        "short_name": "He Z",
+        "identifiers": [
+          "0000-0002-3076-6299"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiuru",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0009-0004-6328-3244"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhongyuan",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0009-0009-7626-9851"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Caiqiu",
+        "short_name": "Gao C",
+        "identifiers": [
+          "0000-0001-9953-9775"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Song, Xingshun",
+        "short_name": "Song X",
+        "identifiers": [
+          "0000-0001-8129-2612"
+        ],
+        "affiliations": [
+          "College of Life Science, Northeast Forestry University, Harbin, 150040, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yucheng",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0003-3943-8811"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The New phytologist"
+    ],
+    "journal_abbrev": [
+      "New Phytol"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/03 05:33",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827295",
+      "42709230",
+      "42429233",
+      "42553963",
+      "31234595",
+      "40139731",
+      "42023265",
+      "34513325",
+      "42374588",
+      "39351656",
+      "38659443",
+      "42472482",
+      "40902762",
+      "35184174",
+      "39912462",
+      "41131956",
+      "39405437",
+      "32005381",
+      "37607253",
+      "40482964",
+      "40239777",
+      "41935950",
+      "30538157",
+      "41442989",
+      "39216584",
+      "34437813",
+      "41744057",
+      "34956289",
+      "40561518",
+      "31986481",
+      "40906616",
+      "41977472",
+      "41527164",
+      "41621684",
+      "40613268",
+      "41723858",
+      "35399062",
+      "41916486",
+      "42163091",
+      "42481044",
+      "34784902",
+      "41481473",
+      "42160837",
+      "41554204",
+      "35789421",
+      "27411911",
+      "37294468",
+      "41784822",
+      "39691550",
+      "39054416",
+      "35253881",
+      "41577891",
+      "32445603",
+      "42475581",
+      "42225231",
+      "30511183",
+      "28700082",
+      "30487287",
+      "41201374",
+      "40511624",
+      "12805238",
+      "38424499",
+      "38501602",
+      "31357236",
+      "33407148",
+      "36614232",
+      "41663936",
+      "40424069",
+      "42817225",
+      "20973995",
+      "21966459",
+      "42650224",
+      "19279000",
+      "42654909",
+      "36499605",
+      "40167783",
+      "25224555",
+      "39686522",
+      "41604778",
+      "40188532",
+      "36264565",
+      "42703885",
+      "24531138",
+      "41469497",
+      "29016956",
+      "40934611",
+      "42294455",
+      "25118806",
+      "40422709",
+      "42177402",
+      "40089838",
+      "40602335",
+      "27368149",
+      "34203360",
+      "31906215",
+      "41479262",
+      "32771930",
+      "29929416",
+      "37697445",
+      "36076957"
+    ],
+    "review": [
+      "42827295",
+      "34437813",
+      "37294468",
+      "41577891",
+      "42650224",
+      "41469497",
+      "25118806"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/nph.71624",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

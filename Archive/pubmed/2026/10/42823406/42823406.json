@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42823406",
+    "doi": "10.1038/s41467-026-77054-6",
+    "title": "A fully integrated sample-to-answer diagnostic platform enables rapid quantification of post-transplant infection at the point-of-care."
+  },
+  "content": {
+    "abstract": "Opportunistic infections after organ transplantation require frequent monitoring over years. However, current diagnostic tests are inaccessible to patients in resource-limited settings. Here, we present a microfluidic-enhanced nucleic acid test for on-site reporting (MONITOR), a fully integrated, sample-in-answer-out platform for point-of-care (POC) detection of opportunistic infections. MONITOR employs a gene-specific DNAzyme that, upon integration with recombinase polymerase amplification, enables CRISPR-like trans-cleavage signal amplification with single-molecule sensitivity. It further incorporates a rapid, extraction-free protocol for processing the urine sample, lyophilized assay reagents for cold-chain-free storage and transportation, and a 3D-printed microfluidic cartridge for self-contained, contamination-free fluid handling. A portable real-time fluorescence reader and smartphone application are further developed to enable on-site quantification. Clinical validation showed complete concordance with qPCR across the tested cohorts and a field trial identified high-risk patients with systemic BK polyomavirus infection. MONITOR fulfills ideal criteria for POC testing, offering a practical solution for decentralized, quantitative viral monitoring in low-resource settings.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Point-of-Care Systems",
+      "*Opportunistic Infections/diagnosis/virology/urine",
+      "BK Virus/genetics/isolation & purification",
+      "Rapid Diagnostic Tests",
+      "*Organ Transplantation/adverse effects",
+      "Microfluidics/methods"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yin, Pengkun",
+        "Gao, Lu",
+        "Zhang, Hao",
+        "Zeng, Jun",
+        "Huang, Dan",
+        "Yang, Lifan",
+        "Yin, Saifu",
+        "Song, Turun",
+        "Li, Feng"
+      ],
+      "short_names": [
+        "Yin P",
+        "Gao L",
+        "Zhang H",
+        "Zeng J",
+        "Huang D",
+        "Yang L",
+        "Yin S",
+        "Song T",
+        "Li F"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-8991-8909",
+        "ORCID: 0009-0009-0906-8689",
+        "ORCID: 0000-0002-0322-4005",
+        "ORCID: 0000-0002-2616-5343"
+      ],
+      "affiliations": [
+        "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China.",
+        "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China.",
+        "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China.",
+        "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China.",
+        "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China.",
+        "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China.",
+        "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China.",
+        "Department of Laboratory Medicine, West China Hospital, Sichuan University, Chengdu, PR China.",
+        "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China.",
+        "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China.",
+        "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China.",
+        "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China. songturun1986@scu.edu.cn.",
+        "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China. songturun1986@scu.edu.cn.",
+        "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China. fli-scu@outlook.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yin, Pengkun",
+        "short_name": "Yin P",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China."
+        ]
+      },
+      {
+        "full_name": "Gao, Lu",
+        "short_name": "Gao L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hao",
+        "short_name": "Zhang H",
+        "identifiers": [
+          "0009-0003-8991-8909"
+        ],
+        "affiliations": [
+          "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China.",
+          "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Jun",
+        "short_name": "Zeng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China.",
+          "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China."
+        ]
+      },
+      {
+        "full_name": "Huang, Dan",
+        "short_name": "Huang D",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China.",
+          "Department of Laboratory Medicine, West China Hospital, Sichuan University, Chengdu, PR China."
+        ]
+      },
+      {
+        "full_name": "Yang, Lifan",
+        "short_name": "Yang L",
+        "identifiers": [
+          "0009-0009-0906-8689"
+        ],
+        "affiliations": [
+          "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China."
+        ]
+      },
+      {
+        "full_name": "Yin, Saifu",
+        "short_name": "Yin S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China.",
+          "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China."
+        ]
+      },
+      {
+        "full_name": "Song, Turun",
+        "short_name": "Song T",
+        "identifiers": [
+          "0000-0002-0322-4005"
+        ],
+        "affiliations": [
+          "Department of Urology, Institute of Urology, West China Hospital, Sichuan University, Chengdu, PR China. songturun1986@scu.edu.cn.",
+          "Organ Transplant Center, West China Hospital, Sichuan University, Chengdu, PR China. songturun1986@scu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Feng",
+        "short_name": "Li F",
+        "identifiers": [
+          "0000-0002-2616-5343"
+        ],
+        "affiliations": [
+          "Key Laboratory of Green Chemistry and Technology of Ministry of Education, College of Chemistry, Sichuan University, Chengdu, PR China. fli-scu@outlook.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 05:31",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42823406",
+      "42003707",
+      "42508912",
+      "35972195",
+      "41590751",
+      "41669836",
+      "40480715",
+      "41881766",
+      "42166834",
+      "34516092",
+      "38587207",
+      "35726910",
+      "40840128",
+      "42599083",
+      "27986722",
+      "41254639",
+      "41123685",
+      "25785632",
+      "41663226",
+      "33360627",
+      "40985812",
+      "39754554",
+      "40760679",
+      "42546384",
+      "36915661",
+      "40970715",
+      "42671221",
+      "41747376",
+      "42007994",
+      "42217635",
+      "41757367",
+      "42184674",
+      "41629044",
+      "42581111",
+      "42783141",
+      "41903964",
+      "41390578",
+      "42372673",
+      "36321557",
+      "35960248",
+      "42090813",
+      "42263565",
+      "42772154",
+      "42618126",
+      "37722405",
+      "42250350",
+      "41950345",
+      "26610171",
+      "40179699",
+      "41160405",
+      "34383961",
+      "39400155",
+      "42594796",
+      "37539483",
+      "39101394",
+      "34114589",
+      "42521788",
+      "29339059",
+      "41945152",
+      "42138264",
+      "35670202",
+      "38309959",
+      "38011515",
+      "33752027",
+      "33760236",
+      "41590284",
+      "42554489",
+      "42783152",
+      "41600812",
+      "42199442",
+      "29550739",
+      "40387535",
+      "30964650",
+      "39874920",
+      "40903125",
+      "42379562",
+      "42496105",
+      "30155705",
+      "42148800",
+      "42594724",
+      "41005481",
+      "42412687",
+      "41093514",
+      "38126673",
+      "39788671",
+      "40484541",
+      "38785448",
+      "39945080",
+      "41982105",
+      "41590303",
+      "37279466",
+      "32845525",
+      "42191300",
+      "41661240",
+      "42522597",
+      "40769376",
+      "41757999",
+      "27091098",
+      "33354689",
+      "42460575"
+    ],
+    "review": [
+      "42823406",
+      "42671221",
+      "42007994",
+      "42217635",
+      "42783141",
+      "36321557",
+      "35960248",
+      "42772154",
+      "34383961",
+      "33760236",
+      "42199442",
+      "32845525"
+    ],
+    "pmc": [
+      "13631297"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/organtransplantation.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Organ Transplantation"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77054-6",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

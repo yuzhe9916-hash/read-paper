@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "42822295",
+    "doi": "10.1016/j.talanta.2026.130674",
+    "title": "A G4-nanotweezer/DNA tetrahedron-confined dual-mode ECL/SERS biosensor for ultrasensitive rabies viral RNA detection via CRISPR-Cas12a-regulated hemin switching."
+  },
+  "content": {
+    "abstract": "Reliable detection of low-abundance rabies viral RNA (RABV RNA) requires sensitive readouts that tolerate interfacial and matrix-associated signal variation. We developed a DNA tetrahedron-confined G4-nanotweezer biosensor combining electrochemiluminescence (ECL) and surface-enhanced Raman scattering (SERS). A Ti(3)C(2)/CsPbBr(3)@PDA@AuNPs nanocomposite (PAM) provided the dual-mode transducing interface, with hemin serving as both an ECL-modulating species and a SERS reporter. CsPbBr(3) served as the ECL emitter, PDA improved interfacial stability, AuNPs provided SERS hotspots and DNA anchoring sites, and Ti(3)C(2) acted as a conductive scaffold. Without target RNA, the bridging strand (ST) promoted a closed G4/hemin configuration, producing high SERS and low ECL signals. RABV RNA-triggered binding-induced isothermal amplification generated single-stranded DNA activators for CRISPR-Cas12a. Subsequent ST cleavage prevented nanotweezer closure and reduced interfacial hemin enrichment, producing an ECL-on/SERS-off response. Control experiments linked hemin-associated ECL modulation to the interfacial configuration without establishing a unique microscopic quenching pathway. The ratiometric signal R = I(ECL)/I(SERS) enabled quantification over 1 aM to 50 fM. Additional low-concentration calibration yielded an estimated detection limit of 0.0675 aM by blank-threshold inverse prediction, extrapolated below the lowest measured nonzero standard of 0.10 aM. At 10 fM, matched-channel comparisons gave ratiometric relative standard deviations of 2.49% for ten successive readings and 2.87% across six independently prepared electrodes. In tenfold-diluted human serum at 10 fM, the ratio showed an 8.20% absolute deviation from phosphate-buffered saline, indicating partial matrix-effect compensation. This shared-reporter architecture links programmable DNA switching to complementary optical readouts for sensitive ratiometric viral RNA analysis.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "CsPbBr(3) perovskite",
+      "DNA tetrahedron",
+      "ECL/SERS biosensor",
+      "G4-nanotweezer",
+      "Hemin switching",
+      "Rabies viral RNA",
+      "Ti(3)C(2) MXene"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gong, Yuanxun",
+        "Huang, Xiao",
+        "Nong, Hanyi",
+        "Ren, Haozhen",
+        "Huang, Yue",
+        "Tang, Qianli",
+        "Zhang, Kai",
+        "Liao, Xianjiu"
+      ],
+      "short_names": [
+        "Gong Y",
+        "Huang X",
+        "Nong H",
+        "Ren H",
+        "Huang Y",
+        "Tang Q",
+        "Zhang K",
+        "Liao X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China.",
+        "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China.",
+        "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China.",
+        "Engineering Research Center of Guangxi Higher Education Institutions for Precise Genetic Testing of Long-Dwelling Nationalities, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China.",
+        "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing, 210037, China.",
+        "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China. Electronic address: htmgx102@163.com.",
+        "Institute of Advanced Materials and Flexible Electronics (IAMFE), School of Chemistry and Materials Science, Nanjing University of Information Science & Technology, Nanjing, Jiangsu, 210044, China. Electronic address: kaizhang@nuist.edu.cn.",
+        "Engineering Research Center of Guangxi Higher Education Institutions for Precise Genetic Testing of Long-Dwelling Nationalities, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China. Electronic address: liaoxianjiu@ymun.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gong, Yuanxun",
+        "short_name": "Gong Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiao",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Nong, Hanyi",
+        "short_name": "Nong H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Haozhen",
+        "short_name": "Ren H",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Guangxi Higher Education Institutions for Precise Genetic Testing of Long-Dwelling Nationalities, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yue",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing, 210037, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Qianli",
+        "short_name": "Tang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Artificial Intelligence for Genetic Diseases of Long-dwelling Nationalities, Affiliated Hospital of Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China. Electronic address: htmgx102@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Kai",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Materials and Flexible Electronics (IAMFE), School of Chemistry and Materials Science, Nanjing University of Information Science & Technology, Nanjing, Jiangsu, 210044, China. Electronic address: kaizhang@nuist.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liao, Xianjiu",
+        "short_name": "Liao X",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Guangxi Higher Education Institutions for Precise Genetic Testing of Long-Dwelling Nationalities, Youjiang Medical University for Nationalities, Baise, Guangxi, 533000, China. Electronic address: liaoxianjiu@ymun.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Talanta"
+    ],
+    "journal_abbrev": [
+      "Talanta"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42822295",
+      "42242804",
+      "42114237",
+      "42259086",
+      "35180689",
+      "42468095",
+      "41671930",
+      "42105577",
+      "42048747",
+      "35966585",
+      "34635250",
+      "42391661",
+      "30608120",
+      "38280789",
+      "40749504",
+      "42105578",
+      "41183414",
+      "37402133",
+      "35500311",
+      "41427804",
+      "38428132",
+      "40156991",
+      "41707429",
+      "40425955",
+      "40586733",
+      "41935011",
+      "41239088",
+      "38811142",
+      "33517231",
+      "40851838",
+      "35380812",
+      "34539224",
+      "40036525",
+      "42323937",
+      "42219631",
+      "32686039",
+      "42142405",
+      "42707723",
+      "34278781",
+      "39752901",
+      "37119146",
+      "42550282",
+      "41628535",
+      "27435830",
+      "42387193",
+      "40986086",
+      "31845928",
+      "38831537",
+      "41935495",
+      "41610742",
+      "40983435",
+      "42508243",
+      "40363758",
+      "42303099",
+      "38740457",
+      "40675426",
+      "34098358",
+      "40215697",
+      "29414090",
+      "40521923",
+      "39090799",
+      "42808823",
+      "36537539",
+      "30075386",
+      "38652001",
+      "36655772",
+      "37276664",
+      "41831412",
+      "40983425",
+      "37062560",
+      "41834158",
+      "38599073",
+      "34400874",
+      "39218582",
+      "40183844",
+      "38401312",
+      "35339823",
+      "40773047",
+      "42061344",
+      "41093525",
+      "41762997",
+      "32608960",
+      "41093508",
+      "35921742",
+      "41800529",
+      "41285079",
+      "28471159",
+      "28488439",
+      "38198738",
+      "36965355",
+      "37977804",
+      "25679541",
+      "42269453",
+      "37741267",
+      "42364585",
+      "33592718",
+      "33412428",
+      "31513959",
+      "42682078",
+      "42669262"
+    ],
+    "review": [
+      "42822295"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0039-9140(26)01330-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

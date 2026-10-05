@@ -1,0 +1,341 @@
+{
+  "identity": {
+    "pmid": "42820749",
+    "doi": "10.1093/gigascience/giag095",
+    "title": "Epitope Generation Gateway (EGG): A biological context-dependent approach to cancer vaccine development."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Personalized neoantigen discovery requires tools that not only identify putative epitopes but also prioritize candidates using biological features relevant to tumor fitness and immune escape. Here, we present Epitope Generation Gateway (EGG), a containerized pipeline that streamlines discovery and prioritization across variant types and human leukocyte antigen (HLA) contexts. EGG coordinates established components, Mutect2 for somatic single nucleotide variations (SNVs) and indels, STAR-Fusion for fusion events, ArcasHLA for HLA typing, and pVACtools for epitope sequence prediction, then augments peptide-level scores with biological context. For each patient, EGG builds co-expression and protein-protein interaction networks, uses centrality measures and CRISPR dependency data (DepMap) to flag genes important for tumor fitness, and annotates source genes with Gene Ontology terms, Hallmarks of Cancer processes, and IntOGen driver status. RESULTS: This multi-layer information supports ranking of candidates that are predicted to be presented and that arise from genes essential to tumor fitness or embedded in key pathways, providing a framework to nominate epitopes whose source genes may be less dispensable under immune pressure. As a case study, we applied EGG to 30 TCGA skin cutaneous melanoma (SKCM) patients, demonstrating end-to-end execution and producing prioritized epitopes that emphasize peptides and alterations in high-centrality, dependency-supported essential genes. CONCLUSIONS: Overall, EGG links epitope prioritization to tumor systems biology and evolutionary rationale, prioritizing biologically contextualized cancer vaccine candidates from SNVs, indels, fusions, and splicing-derived epitopes while streamlining dataset analysis. EGG is available from GitHub at https://github.com/fhaive/epitope_generation_gateway.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mannino, Luca",
+        "Fratello, Michele",
+        "Chiaro, Jacopo",
+        "D'Alessio, Federica",
+        "Lieto, Emanuele Di",
+        "Niittykoski, Minna",
+        "Serra, Angela",
+        "Yla-Herttuala, Seppo",
+        "Cerullo, Vincenzo",
+        "Federico, Antonio",
+        "Greco, Dario"
+      ],
+      "short_names": [
+        "Mannino L",
+        "Fratello M",
+        "Chiaro J",
+        "D'Alessio F",
+        "Lieto ED",
+        "Niittykoski M",
+        "Serra A",
+        "Yla-Herttuala S",
+        "Cerullo V",
+        "Federico A",
+        "Greco D"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7593-2708",
+        "ORCID: 0000-0001-9195-9003"
+      ],
+      "affiliations": [
+        "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Department of Pharmaceutical Biosciences, University of Helsinki, Faculty of Pharmacy ImmunoViroTherapy Lab, Drug Research Program, Helsinki, Finland.",
+        "Helsinki Institute of Life Science (HiLIFE), University of Helsinki, Helsinki, Finland.",
+        "Translational Immunology Program (TRIMM), Faculty of Medicine Helsinki University, University of Helsinki, Helsinki, Finland.",
+        "Digital Precision Cancer Medicine Flagship (iCAN), University of Helsinki, Helsinki, Finland.",
+        "Department of Pharmaceutical Biosciences, University of Helsinki, Faculty of Pharmacy ImmunoViroTherapy Lab, Drug Research Program, Helsinki, Finland.",
+        "Helsinki Institute of Life Science (HiLIFE), University of Helsinki, Helsinki, Finland.",
+        "Translational Immunology Program (TRIMM), Faculty of Medicine Helsinki University, University of Helsinki, Helsinki, Finland.",
+        "Digital Precision Cancer Medicine Flagship (iCAN), University of Helsinki, Helsinki, Finland.",
+        "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland.",
+        "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Tampere Institute for Advanced Study, Tampere University, Tampere, Finland.",
+        "Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, Helsinki, Finland.",
+        "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland.",
+        "Heart Center and Gene Therapy Unit, Kuopio University Hospital, Kuopio, Finland.",
+        "Department of Pharmaceutical Biosciences, University of Helsinki, Faculty of Pharmacy ImmunoViroTherapy Lab, Drug Research Program, Helsinki, Finland.",
+        "Helsinki Institute of Life Science (HiLIFE), University of Helsinki, Helsinki, Finland.",
+        "Translational Immunology Program (TRIMM), Faculty of Medicine Helsinki University, University of Helsinki, Helsinki, Finland.",
+        "Digital Precision Cancer Medicine Flagship (iCAN), University of Helsinki, Helsinki, Finland.",
+        "Department of Molecular Medicine and Medical Biotechnology and CEINGE, Naples University Federico II, Naples, Italy.",
+        "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Tampere Institute for Advanced Study, Tampere University, Tampere, Finland.",
+        "Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, Helsinki, Finland.",
+        "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mannino, Luca",
+        "short_name": "Mannino L",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland."
+        ]
+      },
+      {
+        "full_name": "Fratello, Michele",
+        "short_name": "Fratello M",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland."
+        ]
+      },
+      {
+        "full_name": "Chiaro, Jacopo",
+        "short_name": "Chiaro J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Biosciences, University of Helsinki, Faculty of Pharmacy ImmunoViroTherapy Lab, Drug Research Program, Helsinki, Finland.",
+          "Helsinki Institute of Life Science (HiLIFE), University of Helsinki, Helsinki, Finland.",
+          "Translational Immunology Program (TRIMM), Faculty of Medicine Helsinki University, University of Helsinki, Helsinki, Finland.",
+          "Digital Precision Cancer Medicine Flagship (iCAN), University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "D'Alessio, Federica",
+        "short_name": "D'Alessio F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Biosciences, University of Helsinki, Faculty of Pharmacy ImmunoViroTherapy Lab, Drug Research Program, Helsinki, Finland.",
+          "Helsinki Institute of Life Science (HiLIFE), University of Helsinki, Helsinki, Finland.",
+          "Translational Immunology Program (TRIMM), Faculty of Medicine Helsinki University, University of Helsinki, Helsinki, Finland.",
+          "Digital Precision Cancer Medicine Flagship (iCAN), University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Lieto, Emanuele Di",
+        "short_name": "Lieto ED",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland."
+        ]
+      },
+      {
+        "full_name": "Niittykoski, Minna",
+        "short_name": "Niittykoski M",
+        "identifiers": [],
+        "affiliations": [
+          "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland."
+        ]
+      },
+      {
+        "full_name": "Serra, Angela",
+        "short_name": "Serra A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+          "Tampere Institute for Advanced Study, Tampere University, Tampere, Finland.",
+          "Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Ylä-Herttuala, Seppo",
+        "short_name": "Ylä-Herttuala S",
+        "identifiers": [
+          "0000-0001-7593-2708"
+        ],
+        "affiliations": [
+          "A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland, Kuopio, Finland.",
+          "Heart Center and Gene Therapy Unit, Kuopio University Hospital, Kuopio, Finland."
+        ]
+      },
+      {
+        "full_name": "Cerullo, Vincenzo",
+        "short_name": "Cerullo V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Biosciences, University of Helsinki, Faculty of Pharmacy ImmunoViroTherapy Lab, Drug Research Program, Helsinki, Finland.",
+          "Helsinki Institute of Life Science (HiLIFE), University of Helsinki, Helsinki, Finland.",
+          "Translational Immunology Program (TRIMM), Faculty of Medicine Helsinki University, University of Helsinki, Helsinki, Finland.",
+          "Digital Precision Cancer Medicine Flagship (iCAN), University of Helsinki, Helsinki, Finland.",
+          "Department of Molecular Medicine and Medical Biotechnology and CEINGE, Naples University Federico II, Naples, Italy."
+        ]
+      },
+      {
+        "full_name": "Federico, Antonio",
+        "short_name": "Federico A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+          "Tampere Institute for Advanced Study, Tampere University, Tampere, Finland.",
+          "Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Greco, Dario",
+        "short_name": "Greco D",
+        "identifiers": [
+          "0000-0001-9195-9003"
+        ],
+        "affiliations": [
+          "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+          "Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, Helsinki, Finland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "GigaScience"
+    ],
+    "journal_abbrev": [
+      "Gigascience"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 18:36:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42820749",
+      "42475469",
+      "41792674",
+      "29653567",
+      "40010174",
+      "41225487",
+      "42797492",
+      "36321557",
+      "42410432",
+      "40601881",
+      "41775037",
+      "30880120",
+      "42509808",
+      "42679971",
+      "33244314",
+      "41479904",
+      "42785137",
+      "42574874",
+      "42824475",
+      "42428096",
+      "41415611",
+      "33317447",
+      "39538339",
+      "38947921",
+      "39840067",
+      "40225296",
+      "31907209",
+      "42759151",
+      "26239596",
+      "37086280",
+      "38371523",
+      "33952199",
+      "34127050",
+      "40791414",
+      "33717077",
+      "40291680",
+      "32314731",
+      "37415627",
+      "42064455",
+      "28536262",
+      "34320928",
+      "31666118",
+      "41742304",
+      "40066453",
+      "33465550",
+      "38841624",
+      "29104575",
+      "24512916",
+      "36070252",
+      "42467983",
+      "31173059",
+      "25960936",
+      "38754917",
+      "39644341",
+      "23227878",
+      "42798731",
+      "21904219",
+      "41471728",
+      "39656887",
+      "28423700",
+      "34504503",
+      "32176691",
+      "40654945",
+      "35122353",
+      "42696893",
+      "42211289",
+      "28231819",
+      "23912807",
+      "42698927",
+      "20696039",
+      "18317754",
+      "35072628",
+      "42463798",
+      "42753003",
+      "34659206",
+      "40036690",
+      "38492232",
+      "41909811",
+      "37229205",
+      "39035832",
+      "33175614",
+      "40169776",
+      "32626747",
+      "31872748",
+      "31775766",
+      "32511325",
+      "36899918",
+      "42101130",
+      "33038342",
+      "42583501",
+      "35974311",
+      "41065408",
+      "40460484",
+      "38675381",
+      "35607442",
+      "42481156",
+      "42385356",
+      "41656832",
+      "35238330",
+      "34105997"
+    ],
+    "review": [
+      "42820749",
+      "36321557",
+      "42410432",
+      "42679971",
+      "42574874",
+      "42824475",
+      "42467983",
+      "42798731",
+      "42698927"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/giag095",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

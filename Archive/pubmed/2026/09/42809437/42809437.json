@@ -1,0 +1,336 @@
+{
+  "identity": {
+    "pmid": "42809437",
+    "doi": "10.1016/j.xpro.2026.104849",
+    "title": "Protocol for quantification of AAV-CRISPR-mediated hepatic gene editing in mice."
+  },
+  "content": {
+    "abstract": "Adeno associated viral (AAV) delivery of CRISPR-Cas9 enables efficient, targeted hepatic gene disruption composed of both small insertions and deletions (INDELs) and larger DNA structural variants (DNA-SVs), which are difficult to quantify. Here, we present a protocol for quantifying AAV-CRISPR-mediated gene editing in mice. We describe guide RNA (gRNA) design, plasmid cloning, delivery of AAV-CRISPR to the liver, and execution of liver DNA-editing analysis. This protocol enables quantification of INDELs and DNA-SVs, allowing for validation of gene disruption. For complete details on the use and execution of this protocol, please refer to Chan et al.(1).",
+    "keywords": [
+      "CRISPR",
+      "Metabolism",
+      "Molecular Biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jarrett, Kelsey E",
+        "Baltazar-Nunez, Rodrigo",
+        "Borja, Chloe Anne",
+        "Calderon, Precious Juvie",
+        "Lai, Rochelle W",
+        "Cheng, Angela",
+        "Paudel, Manasvi",
+        "Rubert, Gabriella E",
+        "Suberski, Anthony",
+        "Traina, Owen K",
+        "Cai, Sunny Y",
+        "Srikanth, Kalyani",
+        "Lagor, William R",
+        "Tarling, Elizabeth J",
+        "de Aguiar Vallim, Thomas Q"
+      ],
+      "short_names": [
+        "Jarrett KE",
+        "Baltazar-Nunez R",
+        "Borja CA",
+        "Calderon PJ",
+        "Lai RW",
+        "Cheng A",
+        "Paudel M",
+        "Rubert GE",
+        "Suberski A",
+        "Traina OK",
+        "Cai SY",
+        "Srikanth K",
+        "Lagor WR",
+        "Tarling EJ",
+        "de Aguiar Vallim TQ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA. Electronic address: kelseyjarrett@g.ucla.edu.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Department of Integrative Physiology, Baylor College of Medicine, Houston, TX 77030, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA; Jonsson Comprehensive Cancer Center (JCCC), University of California, Los Angeles, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+        "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA; Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA; Jonsson Comprehensive Cancer Center (JCCC), University of California, Los Angeles, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, Los Angeles, CA 90095, USA. Electronic address: tvallim@mednet.ucla.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jarrett, Kelsey E",
+        "short_name": "Jarrett KE",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA. Electronic address: kelseyjarrett@g.ucla.edu."
+        ]
+      },
+      {
+        "full_name": "Baltazar-Nunez, Rodrigo",
+        "short_name": "Baltazar-Nunez R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Borja, Chloe Anne",
+        "short_name": "Borja CA",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Calderon, Precious Juvie",
+        "short_name": "Calderon PJ",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Lai, Rochelle W",
+        "short_name": "Lai RW",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Cheng, Angela",
+        "short_name": "Cheng A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Paudel, Manasvi",
+        "short_name": "Paudel M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Rubert, Gabriella E",
+        "short_name": "Rubert GE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Suberski, Anthony",
+        "short_name": "Suberski A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Traina, Owen K",
+        "short_name": "Traina OK",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Cai, Sunny Y",
+        "short_name": "Cai SY",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Srikanth, Kalyani",
+        "short_name": "Srikanth K",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "Lagor, William R",
+        "short_name": "Lagor WR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Integrative Physiology, Baylor College of Medicine, Houston, TX 77030, USA."
+        ]
+      },
+      {
+        "full_name": "Tarling, Elizabeth J",
+        "short_name": "Tarling EJ",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA; Jonsson Comprehensive Cancer Center (JCCC), University of California, Los Angeles, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+        ]
+      },
+      {
+        "full_name": "de Aguiar Vallim, Thomas Q",
+        "short_name": "de Aguiar Vallim TQ",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cardiology, Department of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA; Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA; Jonsson Comprehensive Cancer Center (JCCC), University of California, Los Angeles, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, Los Angeles, CA 90095, USA. Electronic address: tvallim@mednet.ucla.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 19:04",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42809437",
+      "42479489",
+      "35005644",
+      "29019352",
+      "40773349",
+      "40768339",
+      "25186301",
+      "41433155",
+      "40944915",
+      "37889758",
+      "39666461",
+      "42012982",
+      "37948185",
+      "42015511",
+      "28851809",
+      "29221488",
+      "29898980",
+      "36853698",
+      "33554142",
+      "40517388",
+      "34748280",
+      "38640065",
+      "36042883",
+      "37738119",
+      "34189476",
+      "32348718",
+      "30912049",
+      "36595926",
+      "36419469",
+      "35496799",
+      "36401041",
+      "38972040",
+      "37922314",
+      "39994413",
+      "37755326",
+      "30026278",
+      "32685932",
+      "33377102",
+      "30912043",
+      "39367606",
+      "37432856",
+      "39661507",
+      "32833533",
+      "39937081",
+      "40482035",
+      "39756031",
+      "38460133",
+      "39655309",
+      "40700012",
+      "30619914",
+      "38996063",
+      "29333255",
+      "30043367",
+      "35712010",
+      "38718473",
+      "37432853",
+      "38768032",
+      "33398341",
+      "42771312",
+      "32039406",
+      "40655422",
+      "31779484",
+      "36115027",
+      "42427441",
+      "36853660",
+      "34746867",
+      "35950852",
+      "41863808",
+      "36401042",
+      "38325664",
+      "33905612",
+      "31875277",
+      "39738613",
+      "39504248",
+      "37389994",
+      "34174445",
+      "35350865",
+      "33948565",
+      "33043306",
+      "36595935",
+      "38625797",
+      "42310064",
+      "34825222",
+      "33870225",
+      "38656525",
+      "41093192",
+      "30783971",
+      "37585297",
+      "40834922",
+      "34376154",
+      "30912039",
+      "29599079",
+      "40991373",
+      "30635953",
+      "42105238",
+      "35284835",
+      "39525974",
+      "39342621",
+      "36611948",
+      "28366764"
+    ],
+    "review": [
+      "42809437",
+      "39994413"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00502-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

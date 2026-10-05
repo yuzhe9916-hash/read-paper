@@ -1,0 +1,309 @@
+{
+  "identity": {
+    "pmid": "42805497",
+    "doi": "10.1016/j.bj.2026.101044",
+    "title": "Zfp469 Deletion Attenuates Liver Fibrosis by Suppressing Extracellular Matrix Production in Hepatic Stellate Cells."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Liver fibrosis is driven by excessive extracellular matrix (ECM) deposition following chronic injury. Mutations in the human zinc finger protein 469 (ZNF469) cause Brittle Cornea Syndrome, a systemic connective tissue disorder, yet its functional role in hepatic fibrogenesis remains unexplored in vivo. This study investigated the impact of the murine ortholog, Zfp469, on liver fibrosis using CRISPR-generated knockout (KO) models and integrated transcriptomic and cellular analyses. MATERIALS AND METHODS: Zfp469-KO and wild-type mice were subjected to chronic carbon tetrachloride (CCl(4)) administration or a choline-deficient, L-amino acid-defined, high-fat diet (CDAHFD). Fibrosis was quantified via Masson's trichrome and Sirius Red staining. To assess cell-intrinsic effects, primary hepatic stellate cells (HSCs) were isolated for in vitro activation assays. Bulk and single-cell RNA sequencing datasets across toxic, metabolic, and cholestatic models were analyzed via pseudotime trajectory and single-cell co-expression network frameworks to map Zfp469 dynamics and network topology. RESULTS: Zfp469 deficiency significantly attenuated collagen accumulation and mitigated the progression of liver injury in both toxin- and diet-induced models. Importantly, the loss of Zfp469 did not alter baseline liver morphology or homeostasis. At the cellular level, Zfp469-KO HSCs exhibited a blunted activation response with reduced expression of key myofibroblast markers (Col1a1, Col1a2, and Acta2) in vitro. Multi-model transcriptomic profiling demonstrated that Zfp469 is specifically enriched in activated HSCs, occupies key network modules, and exhibits etiology-dependent activation kinetics while maintaining a conserved pro-fibrotic gene signature. CONCLUSIONS: This study provides the first in vivo evidence that Zfp469 is a critical, cell-autonomous regulator of hepatic ECM production. By demonstrating that Zfp469 is required for pathological fibrogenesis but dispensable for normal liver function, our findings identify the Zfp469-ECM axis as a promising therapeutic target for chronic liver diseases.",
+    "keywords": [
+      "Extracellular matrix",
+      "Hepatic stellate cell",
+      "Liver fibrosis",
+      "ZNF469",
+      "Zfp469",
+      "Zinc finger protein 469"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Satthawiwat, Nantawat",
+        "Nokkeaw, Archittapon",
+        "Boonkaew, Bootsakorn",
+        "Phetkong, Chinnatam",
+        "Charoenthanakitkul, Denita",
+        "Suntornnont, Nuchanart",
+        "Wiphuosana, Ratchanon",
+        "Boonto, Thammachanok",
+        "Srivongtrakul, Wirawit",
+        "Wu, Xinyu",
+        "Ariyachet, Chaiyaboot"
+      ],
+      "short_names": [
+        "Satthawiwat N",
+        "Nokkeaw A",
+        "Boonkaew B",
+        "Phetkong C",
+        "Charoenthanakitkul D",
+        "Suntornnont N",
+        "Wiphuosana R",
+        "Boonto T",
+        "Srivongtrakul W",
+        "Wu X",
+        "Ariyachet C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Center of Excellence in Hepatitis and Liver Cancer, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Center of Excellence in Hepatitis and Liver Cancer, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand.",
+        "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand; Center of Excellence in Hepatitis and Liver Cancer, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand. Electronic address: Chaiyaboot.A@chula.ac.th."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Satthawiwat, Nantawat",
+        "short_name": "Satthawiwat N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Nokkeaw, Archittapon",
+        "short_name": "Nokkeaw A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Boonkaew, Bootsakorn",
+        "short_name": "Boonkaew B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Phetkong, Chinnatam",
+        "short_name": "Phetkong C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Charoenthanakitkul, Denita",
+        "short_name": "Charoenthanakitkul D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Suntornnont, Nuchanart",
+        "short_name": "Suntornnont N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Wiphuosana, Ratchanon",
+        "short_name": "Wiphuosana R",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Hepatitis and Liver Cancer, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Boonto, Thammachanok",
+        "short_name": "Boonto T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Srivongtrakul, Wirawit",
+        "short_name": "Srivongtrakul W",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Excellence in Hepatitis and Liver Cancer, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Wu, Xinyu",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+        ]
+      },
+      {
+        "full_name": "Ariyachet, Chaiyaboot",
+        "short_name": "Ariyachet C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand; Center of Excellence in Hepatitis and Liver Cancer, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand. Electronic address: Chaiyaboot.A@chula.ac.th."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedical journal"
+    ],
+    "journal_abbrev": [
+      "Biomed J"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 23:28",
+    "fetched_at": "2026-10-05 18:37:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42805497",
+      "30007970",
+      "40056500",
+      "41005565",
+      "42260670",
+      "42003922",
+      "37546982",
+      "41443484",
+      "42102670",
+      "33867837",
+      "36814339",
+      "29467552",
+      "41844050",
+      "38959553",
+      "41903757",
+      "40213670",
+      "41074444",
+      "11729749",
+      "36195966",
+      "38141933",
+      "32389810",
+      "42117407",
+      "37552464",
+      "41528567",
+      "42292398",
+      "40449846",
+      "42244286",
+      "31285763",
+      "38704698",
+      "33605486",
+      "38076369",
+      "36087869",
+      "33391480",
+      "40098321",
+      "42400044",
+      "42503305",
+      "40819890",
+      "26924336",
+      "24037431",
+      "41936306",
+      "40709400",
+      "39448254",
+      "37166517",
+      "34087453",
+      "41161609",
+      "30887659",
+      "35905567",
+      "38694958",
+      "31362006",
+      "34533812",
+      "42363052",
+      "37679574",
+      "31998720",
+      "41702259",
+      "34917911",
+      "33728997",
+      "34933915",
+      "42087233",
+      "41310755",
+      "20563750",
+      "37098757",
+      "42320088",
+      "31435710",
+      "35787975",
+      "42204558",
+      "42398820",
+      "32771890",
+      "41740338",
+      "38365182",
+      "39724735",
+      "34151243",
+      "33908271",
+      "36001230",
+      "37860002",
+      "41314270",
+      "34014450",
+      "38190829",
+      "42594754",
+      "41901341",
+      "37348791",
+      "40741470",
+      "29474900",
+      "37392933",
+      "30670377",
+      "29305935",
+      "26078290",
+      "32916216",
+      "42530273",
+      "41197344",
+      "31170413",
+      "9927153",
+      "42206677",
+      "41864387",
+      "27318326",
+      "31866798",
+      "37343907",
+      "35864505",
+      "23831119",
+      "39146589",
+      "37668531"
+    ],
+    "review": [
+      "42805497",
+      "11729749"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2319-4170(26)00100-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3310",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "identity": {
+    "pmid": "42820021",
+    "doi": "10.1002/mco2.70965",
+    "title": "Organoids: Current Applications and Future Directions."
+  },
+  "content": {
+    "abstract": "Organoids are three-dimensional multicellular structures derived from stem cells or primary tissues that recapitulate key structural and functional features of native organs. Advances in stem cell biology, biomaterials, and bioengineering have established organoids as powerful platforms for studying human development and disease mechanisms, drug discovery, precision medicine, and regenerative medicine. However, current organoid models are limited by incomplete maturation, insufficient vascularization, inadequate immune and neural integration, and poor reproducibility, restricting their physiological relevance and clinical translation. Moreover, the rapid expansion of organoid research has created a need for an updated synthesis of the technological advances, biological applications, and remaining challenges. This review provides a comprehensive overview of organoid technology, covering strategies for organoid generation, including cell sources, three-dimensional culture systems, extracellular matrix support, and microenvironment engineering, followed by representative applications of brain, retinal, kidney, cardiac, lung, liver, intestinal, and endometrial organoids. We further discuss current technical bottlenecks and highlight emerging solutions, including organ-on-chip platforms, multiorgan integration, multiomics, clustered regularly interspaced short palindromic repeats(CRISPR)-based engineering, artificial intelligence, standardized biobanks, and clinical translation. By integrating recent advances across diverse organoid systems, this review provides a framework for developing more physiologically relevant and clinically translatable organoid models.",
+    "keywords": [
+      "clinical translation",
+      "disease modeling",
+      "organoids",
+      "precision medicine",
+      "regenerative medicine"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Leng, Yueqi",
+        "Wang, Yue",
+        "Cao, Canhui",
+        "Deng, Feng",
+        "Lian, Weisi",
+        "Chen, Xingtong",
+        "Lin, Mingmei",
+        "Zeng, Zhonghong",
+        "Mo, Dan",
+        "Li, Shangqi",
+        "He, Yilei",
+        "Yu, Yang",
+        "Pan, Heng",
+        "Zhou, Ping",
+        "Li, Rong"
+      ],
+      "short_names": [
+        "Leng Y",
+        "Wang Y",
+        "Cao C",
+        "Deng F",
+        "Lian W",
+        "Chen X",
+        "Lin M",
+        "Zeng Z",
+        "Mo D",
+        "Li S",
+        "He Y",
+        "Yu Y",
+        "Pan H",
+        "Zhou P",
+        "Li R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8183-7747"
+      ],
+      "affiliations": [
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Department of Obstetrics and Gynecology, Union Hospital, Tongji Medical College Huazhong University of Science and Technology Wuhan Hubei China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "China Center of Industrial Culture Collection China National Research Institute of Food and Fermentation Industries Co., Ltd Beijing China.",
+        "National Center for Clinical Laboratories, Institute of Geriatric Medicine, Chinese Academy of Medical Sciences Beijing Hospital/National Center of Gerontology Beijing China.",
+        "Chinese Academy of Medical Sciences and Peking Union Medical College Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Clinical Stem Cell Research Center Peking University Third Hospital Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+        "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+        "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+        "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Leng, Yueqi",
+        "short_name": "Leng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yue",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Cao, Canhui",
+        "short_name": "Cao C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Union Hospital, Tongji Medical College Huazhong University of Science and Technology Wuhan Hubei China."
+        ]
+      },
+      {
+        "full_name": "Deng, Feng",
+        "short_name": "Deng F",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Lian, Weisi",
+        "short_name": "Lian W",
+        "identifiers": [],
+        "affiliations": [
+          "China Center of Industrial Culture Collection China National Research Institute of Food and Fermentation Industries Co., Ltd Beijing China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xingtong",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "National Center for Clinical Laboratories, Institute of Geriatric Medicine, Chinese Academy of Medical Sciences Beijing Hospital/National Center of Gerontology Beijing China.",
+          "Chinese Academy of Medical Sciences and Peking Union Medical College Beijing China."
+        ]
+      },
+      {
+        "full_name": "Lin, Mingmei",
+        "short_name": "Lin M",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Zhonghong",
+        "short_name": "Zeng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Mo, Dan",
+        "short_name": "Mo D",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Li, Shangqi",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "He, Yilei",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yang",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China.",
+          "Clinical Stem Cell Research Center Peking University Third Hospital Beijing China."
+        ]
+      },
+      {
+        "full_name": "Pan, Heng",
+        "short_name": "Pan H",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Ping",
+        "short_name": "Zhou P",
+        "identifiers": [
+          "0000-0002-8183-7747"
+        ],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      },
+      {
+        "full_name": "Li, Rong",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Center For Reproductive Medicine, Department of Obstetrics and Gynecology Peking University Third Hospital Beijing China.",
+          "Key Laboratory of Assisted Reproduction (Peking University) Ministry of Education Beijing China.",
+          "Beijing Key Laboratory of Reproductive Endocrinology and Assisted Reproductive Technology Beijing China.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital) Beijing China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "MedComm"
+    ],
+    "journal_abbrev": [
+      "MedComm (2020)"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 03:09",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42820021",
+      "42572161",
+      "42136860",
+      "41833084",
+      "42738807",
+      "41852631",
+      "42164816",
+      "41740329",
+      "41751227",
+      "42763512",
+      "42541860",
+      "40321594",
+      "42758369",
+      "41896450",
+      "42589602",
+      "40276485",
+      "41340194",
+      "42321786",
+      "41501551",
+      "42751175",
+      "41191083",
+      "42052577",
+      "42502268",
+      "42186159",
+      "42381656",
+      "41977144",
+      "41595782",
+      "40615111",
+      "42475469",
+      "42711723",
+      "42174698",
+      "41302105",
+      "42631829",
+      "34023456",
+      "39911371",
+      "42293765",
+      "42306928",
+      "37767571",
+      "41532472",
+      "40864807",
+      "42551460",
+      "42373929",
+      "41252796",
+      "39874083",
+      "42488555",
+      "41480947",
+      "36466337",
+      "40045486",
+      "42730336",
+      "41837472",
+      "33632980",
+      "41389949",
+      "41314120",
+      "40836932",
+      "41698840",
+      "41582548",
+      "41346706",
+      "42496939",
+      "40380985",
+      "42791934",
+      "40257505",
+      "41278202",
+      "41503024",
+      "35968268",
+      "38447933",
+      "42094265",
+      "42106781",
+      "42435706",
+      "38264423",
+      "41590268",
+      "42373502",
+      "41002858",
+      "42553490",
+      "41642380",
+      "42663717",
+      "40865700",
+      "42351663",
+      "35036354",
+      "39265553",
+      "42064098",
+      "42707654",
+      "42163357",
+      "39309690",
+      "42335960",
+      "42528148",
+      "41982329",
+      "42291349",
+      "38398048",
+      "41761920",
+      "42792974",
+      "41481795",
+      "41503026",
+      "42218467",
+      "41588969",
+      "34660606",
+      "42310794",
+      "42487442",
+      "42599088",
+      "42537971",
+      "39412646"
+    ],
+    "review": [
+      "42820021",
+      "42572161",
+      "42136860",
+      "41833084",
+      "42738807",
+      "41852631",
+      "42164816",
+      "41740329",
+      "41751227",
+      "42763512",
+      "42541860",
+      "40321594",
+      "42758369",
+      "41896450",
+      "42589602",
+      "42321786",
+      "41501551",
+      "42751175",
+      "41191083",
+      "42052577",
+      "42502268",
+      "42186159",
+      "42381656",
+      "41977144",
+      "40615111",
+      "42711723",
+      "42174698",
+      "41302105",
+      "42631829",
+      "34023456",
+      "39911371",
+      "42293765",
+      "42306928",
+      "37767571",
+      "41532472",
+      "40864807",
+      "42551460",
+      "42373929",
+      "41252796",
+      "39874083",
+      "42488555",
+      "41480947",
+      "36466337",
+      "40045486",
+      "42730336",
+      "41837472",
+      "41389949",
+      "41314120",
+      "40836932",
+      "41698840",
+      "41582548",
+      "41346706",
+      "42496939",
+      "40380985",
+      "42791934",
+      "41278202",
+      "41503024",
+      "35968268",
+      "38447933",
+      "42094265",
+      "42106781",
+      "42435706",
+      "41590268",
+      "42373502",
+      "41002858",
+      "42553490",
+      "41642380",
+      "42663717",
+      "40865700",
+      "42351663",
+      "35036354",
+      "39265553",
+      "42064098",
+      "42707654",
+      "42163357",
+      "39309690",
+      "42335960",
+      "42528148",
+      "41982329",
+      "42291349",
+      "38398048",
+      "42792974",
+      "41481795",
+      "41503026",
+      "42218467",
+      "34660606",
+      "42310794",
+      "42599088",
+      "42537971",
+      "39412646"
+    ],
+    "pmc": [
+      "13625815"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

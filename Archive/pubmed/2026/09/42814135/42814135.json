@@ -1,0 +1,613 @@
+{
+  "identity": {
+    "pmid": "42814135",
+    "doi": "10.1158/2643-3230.BCD-26-0274",
+    "title": "Very Long Chain Fatty Acid Synthesis is a Targetable Dependency in RAS Pathway Mutant Leukemia."
+  },
+  "content": {
+    "abstract": "Oncogenic RAS pathway mutations are associated with therapeutic resistance in acute myeloid leukemia, and identification of therapeutic vulnerabilities has been hindered by a lack of clinically relevant models and tractable ex vivo platforms. We utilize a bone marrow endothelial cell co-culture system to perform CRISPR screens on wild-type hematopoietic cells and isogenic leukemias with and without mutant Nras. We credentialed Elovl1, a very long chain fatty acid elongase, as a dependency in RAS pathway mutant leukemia using genetic and pharmacologic approaches. Metabolic and genetic studies in primary leukemias revealed that the fitness defect from Elovl1 loss reflects a mutant-specific dependency on de novo sphingolipid biosynthesis, specifically sphingomyelin production, as Sgms1 deletion phenocopies Elovl1 loss. Sphingomyelin-mediated generation of lipid rafts, key scaffolds for multiple signaling pathways, is essential to the survival of Nras-mutant AML cells. Our work leverages a new leukemia model to identify a targetable dependency in this treatment-refractory leukemia.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gelfer, Rebecca",
+        "Bagish, Maya",
+        "Sahin, Merve",
+        "Ko, Kaitlyn H",
+        "Sirenko, Maria",
+        "Wereski, Matthew",
+        "San Miguel-Matos, Gabriel",
+        "Romero-Vega, Angelica C",
+        "Mowla, Shoron",
+        "Long, Nathaniel B",
+        "Saoi, Michelle",
+        "Strozek, Clementina",
+        "Tan, Su-Fern",
+        "Famulare, Christopher A",
+        "Chen, Kevin",
+        "Paudel, B Bishal",
+        "Madavaram, Madhuri",
+        "Li, Zhuoning",
+        "Waarts, Michael R",
+        "Wu, Xiaodi",
+        "Cross, Justin R",
+        "Xiao, Wenbin",
+        "Aifantis, Iannis",
+        "Mak, Tak Wah",
+        "Fox, Todd E",
+        "Feith, David J",
+        "de Stanchina, Elisa",
+        "Monetti, Mara",
+        "Koche, Richard P",
+        "Cai, Sheng F",
+        "Levine, Ross L"
+      ],
+      "short_names": [
+        "Gelfer R",
+        "Bagish M",
+        "Sahin M",
+        "Ko KH",
+        "Sirenko M",
+        "Wereski M",
+        "San Miguel-Matos G",
+        "Romero-Vega AC",
+        "Mowla S",
+        "Long NB",
+        "Saoi M",
+        "Strozek C",
+        "Tan SF",
+        "Famulare CA",
+        "Chen K",
+        "Paudel BB",
+        "Madavaram M",
+        "Li Z",
+        "Waarts MR",
+        "Wu X",
+        "Cross JR",
+        "Xiao W",
+        "Aifantis I",
+        "Mak TW",
+        "Fox TE",
+        "Feith DJ",
+        "de Stanchina E",
+        "Monetti M",
+        "Koche RP",
+        "Cai SF",
+        "Levine RL"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7270-8249",
+        "ORCID: 0009-0004-2356-4105",
+        "ORCID: 0000-0003-3858-8332",
+        "ORCID: 0000-0001-5154-0232",
+        "ORCID: 0000-0001-7816-8071",
+        "ORCID: 0009-0000-6766-6366",
+        "ORCID: 0009-0005-8772-761X",
+        "ORCID: 0000-0001-8260-7110",
+        "ORCID: 0000-0001-7019-1453",
+        "ORCID: 0009-0006-6180-053X",
+        "ORCID: 0000-0001-7678-6239",
+        "ORCID: 0009-0009-3709-2934",
+        "ORCID: 0000-0002-8301-0823",
+        "ORCID: 0000-0002-3366-3965",
+        "ORCID: 0000-0002-3851-6016",
+        "ORCID: 0000-0002-5426-7048",
+        "ORCID: 0009-0000-5012-5088",
+        "ORCID: 0009-0005-9064-8170",
+        "ORCID: 0009-0004-2359-7628",
+        "ORCID: 0000-0003-0886-8640",
+        "ORCID: 0000-0002-6356-057X",
+        "ORCID: 0000-0001-8586-8500",
+        "ORCID: 0000-0001-6857-1035",
+        "ORCID: 0000-0001-6766-861X",
+        "ORCID: 0000-0001-5170-3951",
+        "ORCID: 0000-0003-4981-1691",
+        "ORCID: 0000-0002-3873-315X",
+        "ORCID: 0009-0006-9778-9010",
+        "ORCID: 0000-0002-6820-5083",
+        "ORCID: 0000-0002-2708-887X",
+        "ORCID: 0000-0002-7884-1905"
+      ],
+      "affiliations": [
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "NYU Langone Health United States. ROR: https://ror.org/005dvqh91",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, New York United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "University of Virginia Charlottesville, VA United States. ROR: https://ror.org/0153tk833",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, New York United States. ROR: https://ror.org/02yrq0923",
+        "University of Virginia Charlottesville, VA United States. ROR: https://ror.org/0153tk833",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center NYC United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923",
+        "New York University New York, NY United States. ROR: https://ror.org/0190ak572",
+        "University Health Network Toronto, Ontario Canada. ROR: https://ror.org/042xt5161",
+        "University of Virginia Charlottesville, VA United States. ROR: https://ror.org/0153tk833",
+        "University of Virginia Charlottesville, VA United States. ROR: https://ror.org/0153tk833",
+        "Memorial Sloan Kettering Cancer Center New York United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923",
+        "Memorial Sloan Kettering Cancer Center New York, NY United States. ROR: https://ror.org/02yrq0923"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gelfer, Rebecca",
+        "short_name": "Gelfer R",
+        "identifiers": [
+          "0000-0002-7270-8249"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Bagish, Maya",
+        "short_name": "Bagish M",
+        "identifiers": [
+          "0009-0004-2356-4105"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Sahin, Merve",
+        "short_name": "Sahin M",
+        "identifiers": [
+          "0000-0003-3858-8332"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Ko, Kaitlyn H",
+        "short_name": "Ko KH",
+        "identifiers": [
+          "0000-0001-5154-0232"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Sirenko, Maria",
+        "short_name": "Sirenko M",
+        "identifiers": [
+          "0000-0001-7816-8071"
+        ],
+        "affiliations": [
+          "NYU Langone Health United States."
+        ]
+      },
+      {
+        "full_name": "Wereski, Matthew",
+        "short_name": "Wereski M",
+        "identifiers": [
+          "0009-0000-6766-6366"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "San Miguel-Matos, Gabriel",
+        "short_name": "San Miguel-Matos G",
+        "identifiers": [
+          "0009-0005-8772-761X"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Romero-Vega, Angelica C",
+        "short_name": "Romero-Vega AC",
+        "identifiers": [
+          "0000-0001-8260-7110"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, New York United States."
+        ]
+      },
+      {
+        "full_name": "Mowla, Shoron",
+        "short_name": "Mowla S",
+        "identifiers": [
+          "0000-0001-7019-1453"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Long, Nathaniel B",
+        "short_name": "Long NB",
+        "identifiers": [
+          "0009-0006-6180-053X"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Saoi, Michelle",
+        "short_name": "Saoi M",
+        "identifiers": [
+          "0000-0001-7678-6239"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Strozek, Clementina",
+        "short_name": "Strozek C",
+        "identifiers": [
+          "0009-0009-3709-2934"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Tan, Su-Fern",
+        "short_name": "Tan SF",
+        "identifiers": [
+          "0000-0002-8301-0823"
+        ],
+        "affiliations": [
+          "University of Virginia Charlottesville, VA United States."
+        ]
+      },
+      {
+        "full_name": "Famulare, Christopher A",
+        "short_name": "Famulare CA",
+        "identifiers": [
+          "0000-0002-3366-3965"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Chen, Kevin",
+        "short_name": "Chen K",
+        "identifiers": [
+          "0000-0002-3851-6016"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, New York United States."
+        ]
+      },
+      {
+        "full_name": "Paudel, B Bishal",
+        "short_name": "Paudel BB",
+        "identifiers": [
+          "0000-0002-5426-7048"
+        ],
+        "affiliations": [
+          "University of Virginia Charlottesville, VA United States."
+        ]
+      },
+      {
+        "full_name": "Madavaram, Madhuri",
+        "short_name": "Madavaram M",
+        "identifiers": [
+          "0009-0000-5012-5088"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Li, Zhuoning",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0009-0005-9064-8170"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York United States."
+        ]
+      },
+      {
+        "full_name": "Waarts, Michael R",
+        "short_name": "Waarts MR",
+        "identifiers": [
+          "0009-0004-2359-7628"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center NYC United States."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaodi",
+        "short_name": "Wu X",
+        "identifiers": [
+          "0000-0003-0886-8640"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center United States."
+        ]
+      },
+      {
+        "full_name": "Cross, Justin R",
+        "short_name": "Cross JR",
+        "identifiers": [
+          "0000-0002-6356-057X"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York United States."
+        ]
+      },
+      {
+        "full_name": "Xiao, Wenbin",
+        "short_name": "Xiao W",
+        "identifiers": [
+          "0000-0001-8586-8500"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Aifantis, Iannis",
+        "short_name": "Aifantis I",
+        "identifiers": [
+          "0000-0001-6857-1035"
+        ],
+        "affiliations": [
+          "New York University New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Mak, Tak Wah",
+        "short_name": "Mak TW",
+        "identifiers": [
+          "0000-0001-6766-861X"
+        ],
+        "affiliations": [
+          "University Health Network Toronto, Ontario Canada."
+        ]
+      },
+      {
+        "full_name": "Fox, Todd E",
+        "short_name": "Fox TE",
+        "identifiers": [
+          "0000-0001-5170-3951"
+        ],
+        "affiliations": [
+          "University of Virginia Charlottesville, VA United States."
+        ]
+      },
+      {
+        "full_name": "Feith, David J",
+        "short_name": "Feith DJ",
+        "identifiers": [
+          "0000-0003-4981-1691"
+        ],
+        "affiliations": [
+          "University of Virginia Charlottesville, VA United States."
+        ]
+      },
+      {
+        "full_name": "de Stanchina, Elisa",
+        "short_name": "de Stanchina E",
+        "identifiers": [
+          "0000-0002-3873-315X"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York United States."
+        ]
+      },
+      {
+        "full_name": "Monetti, Mara",
+        "short_name": "Monetti M",
+        "identifiers": [
+          "0009-0006-9778-9010"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Koche, Richard P",
+        "short_name": "Koche RP",
+        "identifiers": [
+          "0000-0002-6820-5083"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York United States."
+        ]
+      },
+      {
+        "full_name": "Cai, Sheng F",
+        "short_name": "Cai SF",
+        "identifiers": [
+          "0000-0002-2708-887X"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      },
+      {
+        "full_name": "Levine, Ross L",
+        "short_name": "Levine RL",
+        "identifiers": [
+          "0000-0002-7884-1905"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center New York, NY United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Blood cancer discovery"
+    ],
+    "journal_abbrev": [
+      "Blood Cancer Discov"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 17:32",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42814135",
+      "38819218",
+      "41661304",
+      "27991934",
+      "42199454",
+      "39841003",
+      "40654850",
+      "38033488",
+      "42475469",
+      "34002029",
+      "42495528",
+      "41160778",
+      "37042657",
+      "24480914",
+      "40166265",
+      "41107983",
+      "41938504",
+      "35354920",
+      "25361812",
+      "37847561",
+      "40637748",
+      "26990290",
+      "36040792",
+      "42085603",
+      "42709866",
+      "25901794",
+      "39863913",
+      "16209039",
+      "27815262",
+      "28835438",
+      "42746650",
+      "41845478",
+      "38798540",
+      "27556501",
+      "41618430",
+      "22847614",
+      "18230792",
+      "35352806",
+      "42539318",
+      "35313945",
+      "36208240",
+      "40475516",
+      "29463564",
+      "25801914",
+      "40661530",
+      "15020845",
+      "25833960",
+      "9523205",
+      "42620265",
+      "21163920",
+      "38417135",
+      "41712378",
+      "33436370",
+      "27135740",
+      "12518368",
+      "40613156",
+      "25316678",
+      "25204082",
+      "16763213",
+      "27997540",
+      "34220225",
+      "41279970",
+      "41030972",
+      "26951332",
+      "34635505",
+      "32123819",
+      "37317963",
+      "35835333",
+      "40051658",
+      "42625958",
+      "40166154",
+      "16404744",
+      "37505194",
+      "39594226",
+      "41144772",
+      "34395855",
+      "39713344",
+      "27655895",
+      "37437942",
+      "35689207",
+      "19075190",
+      "32694731",
+      "34580712",
+      "25855740",
+      "40440957",
+      "42087923",
+      "38643249",
+      "42764087",
+      "18952898",
+      "18374153",
+      "27335278",
+      "26222068",
+      "35787548",
+      "29029494",
+      "40252467",
+      "41292909",
+      "26425687",
+      "41279606",
+      "40060603",
+      "36355448"
+    ],
+    "review": [
+      "42814135",
+      "42199454",
+      "16209039",
+      "42746650",
+      "39594226",
+      "42087923"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1549",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://aacrjournals.org/bloodcancerdiscov/article-lookup/doi/10.1158/2643-3230.BCD-26-0274",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

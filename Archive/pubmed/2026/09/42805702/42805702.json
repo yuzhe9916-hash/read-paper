@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42805702",
+    "doi": "10.1016/bs.mie.2026.05.049",
+    "title": "High-throughput engineering of glycolaldehyde synthase for enhanced formaldehyde conversion to C2 and C3 products via mass spectrometry-based screening."
+  },
+  "content": {
+    "abstract": "One-carbon (C1) biomanufacturing offers a sustainable route for producing value-added chemicals. Glycolaldehyde synthase (GALS), a thiamine pyrophosphate (TPP)-dependent enzyme engineered from benzoylformate decarboxylase of Pseudomonas putida, catalyzes the condensation of formaldehyde (FALD) to yield the C2 and C3 platform chemicals glycolaldehyde (GALD) and dihydroxyacetone (DHA). However, its industrial application is constrained by low catalytic efficiency and the lack of high-throughput screening (HTS) methods. This chapter presents a comprehensive HTS workflow for engineering GALS variants. We first detail the construction of an optimized Escherichia coli chassis (BL21(DE3)-Delta6) via CRISPR/Cas9-mediated deletion of six endogenous reductase genes to minimize competing FALD consumption. Next, we present the development of a mass spectrometry (MS)-based assay using 3-methyl-2-benzothiazolinone hydrazone hydrochloride (MBTH) derivatization coupled with RapidFire-MS/MS for simultaneous quantification of GALD and DHA. Integrating this MS assay with a robotic biofoundry enables automated screening of site-saturation mutagenesis (SSM) libraries at a throughput of  approximately 10 s per sample. Finally, we establish validation protocols for candidate variants, including enzyme purification and kinetic characterization using microplate-based colorimetric assays. The established methodology is readily adaptable to the engineering of diverse aldehyde-producing TPP-dependent enzymes.",
+    "keywords": [
+      "Automated biofoundry",
+      "Escherichia coli",
+      "Formaldehyde biotransformation",
+      "Glycolaldehyde synthase",
+      "High-throughput screening",
+      "One-carbon assimilation",
+      "RapidFire mass spectrometry",
+      "Site-saturation mutagenesis",
+      "Thiamine pyrophosphate"
+    ],
+    "mesh_terms": [
+      "High-Throughput Screening Assays/methods",
+      "Pseudomonas putida/enzymology/genetics",
+      "Escherichia coli/genetics/metabolism",
+      "*Formaldehyde/metabolism",
+      "*Protein Engineering/methods",
+      "Carboxy-Lyases/genetics/metabolism",
+      "Tandem Mass Spectrometry/methods",
+      "Thiamine Pyrophosphate/metabolism",
+      "*Bacterial Proteins/genetics/metabolism",
+      "Acetaldehyde/analogs & derivatives"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Luo, Yizhou",
+        "Fu, Lihao",
+        "Lin, Peikai",
+        "Si, Tong",
+        "Zhang, Jianzhi"
+      ],
+      "short_names": [
+        "Luo Y",
+        "Fu L",
+        "Lin P",
+        "Si T",
+        "Zhang J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China; State Key Laboratory of Pharmaceutical Biotechnology, Institute of Functional Biomolecules, School of Life Sciences, Nanjing University, Nanjing, P.R. China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China; University of Chinese Academy of Sciences, Beijing, P.R. China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China; University of Chinese Academy of Sciences, Beijing, P.R. China. Electronic address: tong.si@siat.ac.cn.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China. Electronic address: zhangjz@siat.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Luo, Yizhou",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China; State Key Laboratory of Pharmaceutical Biotechnology, Institute of Functional Biomolecules, School of Life Sciences, Nanjing University, Nanjing, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Fu, Lihao",
+        "short_name": "Fu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Lin, Peikai",
+        "short_name": "Lin P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China; University of Chinese Academy of Sciences, Beijing, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Si, Tong",
+        "short_name": "Si T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China; University of Chinese Academy of Sciences, Beijing, P.R. China. Electronic address: tong.si@siat.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jianzhi",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, P.R. China. Electronic address: zhangjz@siat.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in enzymology"
+    ],
+    "journal_abbrev": [
+      "Methods Enzymol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 23:28",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42805702",
+      "40524284",
+      "42805703",
+      "41130471",
+      "37890751",
+      "30058311",
+      "41431199",
+      "30914637",
+      "38735884",
+      "15930043",
+      "23430129",
+      "42805697",
+      "40145755",
+      "41991054",
+      "31883352",
+      "30946572",
+      "42805705",
+      "15835904",
+      "30414312",
+      "20958977",
+      "25936776",
+      "25146467",
+      "2271624",
+      "37851522",
+      "42805696",
+      "40946078",
+      "41747573",
+      "40374275",
+      "41033575",
+      "31947885",
+      "39194220",
+      "1622241",
+      "38128199",
+      "17367138",
+      "33290830",
+      "23895593",
+      "26291944",
+      "35872818",
+      "20047192",
+      "30232266",
+      "32588862",
+      "19224568",
+      "41638587",
+      "33334237",
+      "38796416",
+      "34436763",
+      "41604839",
+      "29363945",
+      "42689607",
+      "25092413",
+      "41203354",
+      "34417892",
+      "30803783",
+      "26428484",
+      "38642492",
+      "31583948",
+      "41195784",
+      "25336354",
+      "23220267",
+      "39586109",
+      "30953778",
+      "32219854",
+      "41903863",
+      "39333684",
+      "27793673",
+      "18040605",
+      "32269250",
+      "17902631",
+      "42400745",
+      "42773657",
+      "37273222",
+      "7074134",
+      "33174742",
+      "15979047",
+      "36379012",
+      "31067766",
+      "41047206",
+      "42805698",
+      "24835095",
+      "42506397",
+      "27557723",
+      "40668676",
+      "17012586",
+      "28143479",
+      "30074850",
+      "39031508",
+      "31894608",
+      "10339824",
+      "29181567",
+      "10840971",
+      "38934547",
+      "40407334",
+      "34227342",
+      "30421227",
+      "30572892",
+      "35489307",
+      "23780920",
+      "23871995",
+      "36693471",
+      "37969752"
+    ],
+    "review": [
+      "42805702",
+      "41747573",
+      "38128199",
+      "23895593",
+      "41638587",
+      "41604839",
+      "29181567",
+      "34227342"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0076-6879(26)00177-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1105",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

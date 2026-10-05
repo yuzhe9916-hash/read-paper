@@ -1,0 +1,402 @@
+{
+  "identity": {
+    "pmid": "42821339",
+    "doi": "10.1172/JCI206667",
+    "title": "Neuronal and non-neuronal TRPA1 mediate distinct pain perception mechanisms in Familial Episodic Pain Syndrome models."
+  },
+  "content": {
+    "abstract": "Familial Episodic Pain Syndrome (FEPS) is a rare inherited disorder characterized by recurrent episodes of severe upper-body pain triggered by stimuli such as cold, stress, or fasting. A gain-of-function mutation (N855S) in the Transient Receptor Potential Ankyrin 1 (TRPA1) ion channel has been identified in affected individuals, yet the cellular mechanisms driving FEPS pain remain poorly defined. Although TRPA1 has been primarily studied in sensory neurons, emerging evidence suggests that non-neuronal cells may contribute to pain signaling. To define the cell-specific role of mutant TRPA1 (TRPA1mut), we generated mouse models selectively expressing TRPA1mut in Schwann cells or sensory neurons, using CRISPR-based and Cre-loxP strategies. Patch-clamp recordings confirmed enhanced agonist-evoked currents in TRPA1mut compared with wild-type channels. Behavioral analyses revealed that neuronal TRPA1mut mediates acute nociceptive responses, whereas Schwann cell TRPA1mut drives mechanical allodynia induced by subthreshold TRPA1 agonists and physiological triggers relevant to FEPS, including fasting, cold exposure, and restraint stress. These responses were associated with increased reactive oxygen species and accumulation of 4-hydroxynonenal in sciatic nerves and were attenuated by antioxidant treatment. These findings uncover a previously unrecognized Schwann cell-dependent mechanism of TRPA1-driven pain and identify non-neuronal TRPA1 signaling as a potential therapeutic target in FEPS and related pain channelopathies.",
+    "keywords": [
+      "Genetic diseases",
+      "Genetics",
+      "Inflammation",
+      "Ion channels",
+      "Mouse models",
+      "Neuroscience"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Marini, Matilde",
+        "Chieca, Martina",
+        "Coppi, Elisabetta",
+        "Montini, Marco",
+        "Bonacchi, Lorenzo",
+        "Landini, Lorenzo",
+        "Scuffi, Irene",
+        "Kwan, Kelvin Y",
+        "Papini, Alice",
+        "De Siena, Gaetano",
+        "Bellantoni, Elisa",
+        "Timotei, Lucrezia",
+        "Colzi, Elena",
+        "Albanese, Valentina",
+        "Ferroni, Gabriele",
+        "Melo, Evelynn D N",
+        "Birling, Marie-Christine",
+        "Lorentz, Romain",
+        "Nassini, Romina",
+        "De Logu, Francesco"
+      ],
+      "short_names": [
+        "Marini M",
+        "Chieca M",
+        "Coppi E",
+        "Montini M",
+        "Bonacchi L",
+        "Landini L",
+        "Scuffi I",
+        "Kwan KY",
+        "Papini A",
+        "De Siena G",
+        "Bellantoni E",
+        "Timotei L",
+        "Colzi E",
+        "Albanese V",
+        "Ferroni G",
+        "Melo EDN",
+        "Birling MC",
+        "Lorentz R",
+        "Nassini R",
+        "De Logu F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Section of Pharmacology and Toxicology, University of Florence, Florence, Italy.",
+        "Department of Experimental and Clinical Biomedical Sciences, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Department of Cell Biology & Neuroscience, Rutgers University, Piscataway, United States of America.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Section of Pharmacology and Toxicology, University of Florence, Florence, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Ferrara, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Italy, Florence, Italy.",
+        "Laboratory of Bioactive Products, Federal University of Rio de Janeiro, Macae, Brazil.",
+        "Head associate Genetic engineering and mouse model validation department, Institut Clinique de la Souris (ICS), Illkirch cedex, France.",
+        "Head associate Genetic engineering and mouse model validation department, Institut Clinique de la Souris (ICS), Illkirch cedex, France.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy.",
+        "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Marini, Matilde",
+        "short_name": "Marini M",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Chieca, Martina",
+        "short_name": "Chieca M",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Coppi, Elisabetta",
+        "short_name": "Coppi E",
+        "identifiers": [],
+        "affiliations": [
+          "Section of Pharmacology and Toxicology, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Montini, Marco",
+        "short_name": "Montini M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Experimental and Clinical Biomedical Sciences, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Bonacchi, Lorenzo",
+        "short_name": "Bonacchi L",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Landini, Lorenzo",
+        "short_name": "Landini L",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Scuffi, Irene",
+        "short_name": "Scuffi I",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Kwan, Kelvin Y",
+        "short_name": "Kwan KY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology & Neuroscience, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Papini, Alice",
+        "short_name": "Papini A",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "De Siena, Gaetano",
+        "short_name": "De Siena G",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Bellantoni, Elisa",
+        "short_name": "Bellantoni E",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Timotei, Lucrezia",
+        "short_name": "Timotei L",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Colzi, Elena",
+        "short_name": "Colzi E",
+        "identifiers": [],
+        "affiliations": [
+          "Section of Pharmacology and Toxicology, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Albanese, Valentina",
+        "short_name": "Albanese V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Ferroni, Gabriele",
+        "short_name": "Ferroni G",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Italy, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Melo, Evelynn D N",
+        "short_name": "Melo EDN",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Bioactive Products, Federal University of Rio de Janeiro, Macaé, Brazil."
+        ]
+      },
+      {
+        "full_name": "Birling, Marie-Christine",
+        "short_name": "Birling MC",
+        "identifiers": [],
+        "affiliations": [
+          "Head associate Genetic engineering and mouse model validation department, Institut Clinique de la Souris (ICS), Illkirch cedex, France."
+        ]
+      },
+      {
+        "full_name": "Lorentz, Romain",
+        "short_name": "Lorentz R",
+        "identifiers": [],
+        "affiliations": [
+          "Head associate Genetic engineering and mouse model validation department, Institut Clinique de la Souris (ICS), Illkirch cedex, France."
+        ]
+      },
+      {
+        "full_name": "Nassini, Romina",
+        "short_name": "Nassini R",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "De Logu, Francesco",
+        "short_name": "De Logu F",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Pharmacology and Oncology Section, University of Florence, Florence, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of clinical investigation"
+    ],
+    "journal_abbrev": [
+      "J Clin Invest"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42821339",
+      "25724085",
+      "37187829",
+      "32315759",
+      "36494916",
+      "38772415",
+      "27413160",
+      "31487269",
+      "36650454",
+      "29985973",
+      "30345869",
+      "42505153",
+      "20547126",
+      "22905134",
+      "42475469",
+      "36898840",
+      "39842732",
+      "39238161",
+      "25765567",
+      "26984186",
+      "33317522",
+      "21481532",
+      "31670612",
+      "30794923",
+      "40172079",
+      "30388732",
+      "28674258",
+      "37101198",
+      "23448290",
+      "32484015",
+      "35871491",
+      "25658427",
+      "25934637",
+      "27812120",
+      "37643860",
+      "33827677",
+      "38008390",
+      "34189279",
+      "30289972",
+      "39169383",
+      "40686220",
+      "41906627",
+      "21211906",
+      "28622417",
+      "40889678",
+      "23709225",
+      "20539005",
+      "32985222",
+      "30629470",
+      "21653898",
+      "22641084",
+      "32826761",
+      "35626730",
+      "18218683",
+      "30914247",
+      "39419628",
+      "19812688",
+      "25192906",
+      "33131305",
+      "32910305",
+      "29192190",
+      "29282753",
+      "15843607",
+      "24206166",
+      "18279313",
+      "36733260",
+      "29976627",
+      "19875705",
+      "26521748",
+      "24373353",
+      "23444014",
+      "21576376",
+      "28478727",
+      "33479347",
+      "27759880",
+      "38050077",
+      "21466445",
+      "31855381",
+      "22258694",
+      "31027359",
+      "29084244",
+      "24564660",
+      "33035578",
+      "21185837",
+      "23013719",
+      "41430102",
+      "22119554",
+      "19632231",
+      "35294287",
+      "40329600",
+      "23001121",
+      "23933184",
+      "30738091",
+      "36030028",
+      "22458587",
+      "25896791",
+      "28621704",
+      "32862473",
+      "22739568",
+      "34252913"
+    ],
+    "review": [
+      "42821339",
+      "37187829",
+      "31670612",
+      "30388732",
+      "28674258",
+      "41906627",
+      "24206166",
+      "21466445",
+      "24564660",
+      "22119554"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1172/JCI206667",
+        "provider": "American Society for Clinical Investigation",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

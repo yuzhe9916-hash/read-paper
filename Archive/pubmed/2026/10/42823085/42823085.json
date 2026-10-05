@@ -1,0 +1,313 @@
+{
+  "identity": {
+    "pmid": "42823085",
+    "doi": "10.1136/jitc-2026-016896",
+    "title": "PTPN22 as a novel therapeutic target: a key intracellular checkpoint for NK cell therapy."
+  },
+  "content": {
+    "abstract": "BACKGROUND: PTPN22, a protein tyrosine phosphatase (PTP) family member, has recently emerged as an intracellular regulator in adaptive immune cells. However, its function in natural killer (NK) cells remains unclear despite its high expression in innate immune cells. METHODS: We analyzed single-cell RNA-sequencing (scRNA-seq) datasets and The Cancer Genome Atlas (TCGA) to evaluate PTPN22 expression in NK cells and its association with clinical outcomes. We established a CRISPR-mediated PTPN22 knockout platform for NK cell gene editing and evaluated PTPN22 function using both genetic deletion and pharmacological inhibition across multiple NK cell platforms. Cytotoxicity and cytokine production were assessed against hematologic and solid tumor targets, including CD19(+) and mesothelin-positive (MSLN(+)) cancer cells. PTPN22 knockout (PTPN22(KO)) anti-CD19/CAR-NK92 cells were tested in Nalm6 xenograft models. RESULTS: Published scRNA-seq datasets showed that PTPN22 was highly expressed in tumor-infiltrating NK cells. PTPN22(high) NK cells exhibited stress and dysfunction signatures within inflammatory and immunosuppressive tumor microenvironments (TME), with elevated PTPN22 expression in TCGA associated with poorer patient survival. Genetic deletion of PTPN22 or pharmacological inhibition enhanced NK-cell cytotoxicity and pro-inflammatory cytokine release and improved the antitumor activity of chimeric antigen receptor (CAR)-NK cells against CD19(+) and MSLN(+) targets. PTPN22(KO) preserved CAR-NK cell function under cytokine-based TME-like conditions and improved the functional persistence of primary anti-CD19 CAR-NK cells during prolonged tumor exposure. PTPN22(KO) NK and CAR-NK cells showed increased or preserved signal transducer and activator of transcription 3 (STAT3) phosphorylation and reduced FAS expression under inflammatory conditions. Notably, PTPN22(KO) anti-CD19/CAR-NK92 cells demonstrated superior anti-leukemic activity and significantly prolonged survival compared with non-knockout controls in vivo. CONCLUSIONS: These findings identify PTPN22 as a novel intracellular checkpoint that limits NK and CAR-NK cell function. Targeted deletion of PTPN22 represents a promising strategy to enhance the therapeutic efficacy and persistence of both unmodified and CAR-engineered NK cells for cancer immunotherapy.",
+    "keywords": [
+      "Adoptive cell therapy - ACT",
+      "Chimeric antigen receptor - CAR",
+      "Immunosuppression",
+      "Natural killer - NK"
+    ],
+    "mesh_terms": [
+      "*Killer Cells, Natural/immunology/metabolism",
+      "*Protein Tyrosine Phosphatase, Non-Receptor Type 22/metabolism/genetics/antagonists & inhibitors",
+      "Animals",
+      "Humans",
+      "Mice",
+      "*Neoplasms/immunology/therapy/genetics",
+      "*Immunotherapy, Adoptive/methods",
+      "Tumor Microenvironment",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Uong, Tung Nguyen Thanh",
+        "Yoon, Meesun",
+        "Nguyen, Nhat Phuoc Nguong Minh",
+        "Lee, Mijeong",
+        "Koh, Seung Kwon",
+        "Jeong, Jae-Uk",
+        "Kim, Yong-Hyub",
+        "Cho, Duck"
+      ],
+      "short_names": [
+        "Uong TNT",
+        "Yoon M",
+        "Nguyen NPNM",
+        "Lee M",
+        "Koh SK",
+        "Jeong JU",
+        "Kim YH",
+        "Cho D"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0996-926X"
+      ],
+      "affiliations": [
+        "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea.",
+        "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea.",
+        "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea meesunyoon@jnu.ac.kr duck.cho@skku.edu.",
+        "Immunotherapy Innovation Center, Chonnam National University Medical School, Gwangju, Korea.",
+        "Department of Biomedical Science, Chonnam National University Graduate School, Hwasun-gun, Korea.",
+        "Department of Biopharmaceutical Convergence, Sungkyunkwan University, Seoul, Korea.",
+        "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea.",
+        "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea.",
+        "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea.",
+        "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea.",
+        "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea meesunyoon@jnu.ac.kr duck.cho@skku.edu.",
+        "Department of Biopharmaceutical Convergence, Sungkyunkwan University, Seoul, Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Uong, Tung Nguyen Thanh",
+        "short_name": "Uong TNT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea.",
+          "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Yoon, Meesun",
+        "short_name": "Yoon M",
+        "identifiers": [
+          "0000-0002-0996-926X"
+        ],
+        "affiliations": [
+          "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea meesunyoon@jnu.ac.kr duck.cho@skku.edu.",
+          "Immunotherapy Innovation Center, Chonnam National University Medical School, Gwangju, Korea."
+        ]
+      },
+      {
+        "full_name": "Nguyen, Nhat Phuoc Nguong Minh",
+        "short_name": "Nguyen NPNM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Science, Chonnam National University Graduate School, Hwasun-gun, Korea.",
+          "Department of Biopharmaceutical Convergence, Sungkyunkwan University, Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Mijeong",
+        "short_name": "Lee M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Koh, Seung Kwon",
+        "short_name": "Koh SK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea."
+        ]
+      },
+      {
+        "full_name": "Jeong, Jae-Uk",
+        "short_name": "Jeong JU",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Yong-Hyub",
+        "short_name": "Kim YH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Chonnam National University Hwasun Hospital, Hwasun, Korea."
+        ]
+      },
+      {
+        "full_name": "Cho, Duck",
+        "short_name": "Cho D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Health Sciences and Technology, Samsung Advanced Institute for Health Sciences and Technology, Seoul, Korea meesunyoon@jnu.ac.kr duck.cho@skku.edu.",
+          "Department of Biopharmaceutical Convergence, Sungkyunkwan University, Seoul, Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal for immunotherapy of cancer"
+    ],
+    "journal_abbrev": [
+      "J Immunother Cancer"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42823085",
+      "40921629",
+      "39763064",
+      "40707132",
+      "41956539",
+      "42157284",
+      "42204417",
+      "39884449",
+      "42305549",
+      "30514403",
+      "42595793",
+      "42398968",
+      "41459521",
+      "42247058",
+      "39266215",
+      "41845478",
+      "42488650",
+      "41627624",
+      "41436559",
+      "31980173",
+      "41291761",
+      "34671203",
+      "33741730",
+      "35041491",
+      "41983119",
+      "41405764",
+      "40845844",
+      "39627822",
+      "42680202",
+      "41993608",
+      "42729463",
+      "42526373",
+      "38918616",
+      "34673000",
+      "42811988",
+      "34663641",
+      "41233896",
+      "42259008",
+      "40025022",
+      "39396988",
+      "38475814",
+      "38508081",
+      "25740942",
+      "39285441",
+      "38056892",
+      "41741641",
+      "38943249",
+      "40960024",
+      "41869340",
+      "41280875",
+      "40518288",
+      "41969284",
+      "42745268",
+      "40181964",
+      "42421037",
+      "39548510",
+      "41956993",
+      "30860598",
+      "42819479",
+      "38855110",
+      "41181137",
+      "39664387",
+      "40315330",
+      "38331849",
+      "32439799",
+      "40457441",
+      "41950641",
+      "38964787",
+      "39029925",
+      "40000974",
+      "42582347",
+      "39781381",
+      "32117200",
+      "40390054",
+      "27887866",
+      "34372571",
+      "42136666",
+      "42094597",
+      "41238217",
+      "41882710",
+      "41721372",
+      "39461876",
+      "40623716",
+      "41832583",
+      "40996824",
+      "31097020",
+      "40736004",
+      "41888928",
+      "38830795",
+      "33925968",
+      "39692673",
+      "40536708",
+      "37207215",
+      "41128942",
+      "30651290",
+      "40914422",
+      "40707133",
+      "34896980",
+      "41061481",
+      "40350977"
+    ],
+    "review": [
+      "42823085",
+      "41405764",
+      "41969284",
+      "41181137",
+      "41950641",
+      "42582347",
+      "42136666",
+      "41882710",
+      "40996824",
+      "39692673"
+    ],
+    "pmc": [
+      "13629936"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://jitc.bmj.com/lookup/pmidlookup?view=long&pmid=42823085",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "identity": {
+    "pmid": "42826898",
+    "doi": "10.1016/j.jare.2026.10.001",
+    "title": "Integrative genomics decoding DNA methylation-mediated genetic control of complex traits in pigs."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: DNA methylation is an important epigenetic feature associated with genetic regulation, gene expression, and phenotypic variation. However, the genetic architecture, regulatory organization, and trait relevance of the porcine skeletal muscle methylome remain poorly characterized. OBJECTIVES: This study aimed to characterize the genetic regulation of DNA methylation in porcine skeletal muscle and identify genetically supported relationships among genotype, methylation, gene expression, and complex traits. METHODS: We integrated 185 whole-genome bisulfite sequencing (WGBS) datasets, alongside integrated RNA-seq, Hi-C, and genetic association datasets of growth and meat quality traits. Cis-methylation quantitative trait loci (cis-meQTLs) were mapped at both the single-CpG and CpG-block levels. Genetically regulated methylation signals were further integrated with eQTL and GWAS results using colocalization, Mendelian randomization, mediation analysis, and chromatin interaction annotation. In addition, genotype-predicted methylation was used to construct methylation-based genetic scores (MGS), and a prioritized CpG block was functionally assessed using CRISPR-dCas9-TET1-mediated demethylation. RESULTS: We identified widespread cis-genetic control of skeletal muscle DNA methylation, revealing both single-CpG and block-level regulatory architectures. CpG-block methylation captured broader and more abundant genetic regulatory signals than single-CpG methylation, supporting methylation blocks as regional methylation features. Integrative analyses prioritized 6,894 candidate genes and highlighted genetically supported regulatory relationships linking methylation, transcription, and economically important traits. MGS showed moderate predictive performance for several carcass and meat-quality traits, including backfat thickness. Targeted demethylation of a CpG block increased SOCS3 protein abundance and altered proliferation-related phenotypes in porcine muscle satellite cells, providing proof-of-concept functional support for this prioritized locus. CONCLUSION: Porcine skeletal muscle DNA methylation is extensively influenced by cis-genetic variation. Integrating genetically regulated methylation with expression and trait-associated signals provides an interpretable framework for prioritizing candidate regulatory relationships and trait-associated loci.",
+    "keywords": [
+      "Complex traits",
+      "DNA methylation",
+      "Multi-omics",
+      "Pig",
+      "meQTL"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yiting",
+        "Chen, Zitao",
+        "Fan, Manting",
+        "Liu, Cheng",
+        "Gu, Jiamin",
+        "Yu, Pengfei",
+        "Jin, Wanghao",
+        "Zhang, Zhenyang",
+        "Xie, Shuyan",
+        "Yang, Tao",
+        "Jiang, Jinyun",
+        "Zhang, Zhe",
+        "Wang, Zhen",
+        "ZHang, Zhe",
+        "Fang, Lingzhao",
+        "Pan, Yuchun",
+        "Wang, Qishan"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Chen Z",
+        "Fan M",
+        "Liu C",
+        "Gu J",
+        "Yu P",
+        "Jin W",
+        "Zhang Z",
+        "Xie S",
+        "Yang T",
+        "Jiang J",
+        "Zhang Z",
+        "Wang Z",
+        "ZHang Z",
+        "Fang L",
+        "Pan Y",
+        "Wang Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Hainan Institute, Zhejiang University, Yongyou Industry Park, Yazhou Bay Sci-Tech City, Sanya, China.",
+        "Xianghu Laboratory, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China.",
+        "Center for Quantitative Genetics and Genomics, Aarhus University, Aarhus, Denmark; MRC Human Genetics Unit at the Institute of Genetics and Cancer, The University of Edinburgh, Edinburgh, UK. Electronic address: lingzhao.fang@qgg.au.dk.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China; Key Laboratory of Livestock and Poultry Resources Evaluation and Utilization, Ministry of Agriculture and Rural Affairs, Hangzhou, China. Electronic address: panyc@zju.edu.cn.",
+        "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China; Hainan Institute, Zhejiang University, Yongyou Industry Park, Yazhou Bay Sci-Tech City, Sanya, China; Key Laboratory of Livestock and Poultry Resources Evaluation and Utilization, Ministry of Agriculture and Rural Affairs, Hangzhou, China. Electronic address: wangqishan@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yiting",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zitao",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Manting",
+        "short_name": "Fan M",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Cheng",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Jiamin",
+        "short_name": "Gu J",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Pengfei",
+        "short_name": "Yu P",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Wanghao",
+        "short_name": "Jin W",
+        "identifiers": [],
+        "affiliations": [
+          "Hainan Institute, Zhejiang University, Yongyou Industry Park, Yazhou Bay Sci-Tech City, Sanya, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhenyang",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Xianghu Laboratory, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Shuyan",
+        "short_name": "Xie S",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Tao",
+        "short_name": "Yang T",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Jinyun",
+        "short_name": "Jiang J",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhe",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhen",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "ZHang, Zhe",
+        "short_name": "ZHang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Lingzhao",
+        "short_name": "Fang L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Quantitative Genetics and Genomics, Aarhus University, Aarhus, Denmark; MRC Human Genetics Unit at the Institute of Genetics and Cancer, The University of Edinburgh, Edinburgh, UK. Electronic address: lingzhao.fang@qgg.au.dk."
+        ]
+      },
+      {
+        "full_name": "Pan, Yuchun",
+        "short_name": "Pan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China; Key Laboratory of Livestock and Poultry Resources Evaluation and Utilization, Ministry of Agriculture and Rural Affairs, Hangzhou, China. Electronic address: panyc@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Qishan",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Nutrition and Breeding for High-Quality Animal Products, College of Animal Sciences, Zhejiang University, 866# Yuhangtang Road, Hangzhou, China; Hainan Institute, Zhejiang University, Yongyou Industry Park, Yazhou Bay Sci-Tech City, Sanya, China; Key Laboratory of Livestock and Poultry Resources Evaluation and Utilization, Ministry of Agriculture and Rural Affairs, Hangzhou, China. Electronic address: wangqishan@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of advanced research"
+    ],
+    "journal_abbrev": [
+      "J Adv Res"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 23:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826898",
+      "42475469",
+      "41904542",
+      "41920912",
+      "42642720",
+      "41693713",
+      "30606113",
+      "40514687",
+      "41611629",
+      "42808173",
+      "42185984",
+      "34293285",
+      "26438392",
+      "42185861",
+      "29893838",
+      "42580030",
+      "29482655",
+      "42693724",
+      "42394584",
+      "41126804",
+      "41580592",
+      "37339141",
+      "42601635",
+      "35302492",
+      "35681201",
+      "39558360",
+      "39844246",
+      "42098041",
+      "40409268",
+      "40847283",
+      "41096905",
+      "28528868",
+      "41807977",
+      "40362025",
+      "41570977",
+      "42563458",
+      "40128644",
+      "38003198",
+      "41111148",
+      "42447329",
+      "27322064",
+      "39420233",
+      "41315928",
+      "41729831",
+      "37525248",
+      "41699549",
+      "39137780",
+      "37902119",
+      "38933282",
+      "42694092",
+      "42199945",
+      "41787967",
+      "41388545",
+      "35991540",
+      "20950486",
+      "40653482",
+      "34419169",
+      "39582237",
+      "42260332",
+      "42695107",
+      "42558367",
+      "36452318",
+      "29437559",
+      "37170220",
+      "33461502",
+      "30275893",
+      "36510025",
+      "41151542",
+      "40820203",
+      "40485044",
+      "38841840",
+      "41299773",
+      "42473718",
+      "26699738",
+      "29313708",
+      "35943854",
+      "42548648",
+      "42600058",
+      "38166730",
+      "30704512",
+      "39487606",
+      "32755071",
+      "25019935",
+      "41801343",
+      "41630247",
+      "40826382",
+      "42500538",
+      "42794823",
+      "31106970",
+      "42365391",
+      "41430323",
+      "41650936",
+      "31537805",
+      "41923184",
+      "41830484",
+      "41859015",
+      "42509558",
+      "41937214",
+      "37169753",
+      "41533846"
+    ],
+    "review": [
+      "42826898",
+      "37339141",
+      "37170220"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2090-1232(26)00762-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

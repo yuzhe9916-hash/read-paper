@@ -1,0 +1,365 @@
+{
+  "identity": {
+    "pmid": "42824670",
+    "doi": "10.3389/fmicb.2026.1939398",
+    "title": "Engineering Kluyveromyces marxianus for efficient 2-phenylethanol production: from metabolic design to process innovation."
+  },
+  "content": {
+    "abstract": "2-Phenylethanol (2-PE) is a valuable aromatic alcohol known for its rose-like scent, widely used in the fragrance, food, and cosmetics industries. The growing demand for \"natural\" certified products is driving increasing interest in microbial fermentation as a sustainable and promising alternative to chemical synthesis and plant extraction. Kluyveromyces marxianus stands out as a promising microbial host for biomanufacturing due to its thermotolerance, rapid growth, versatile substrate use, and ability to catabolize L-phenylalanine (L-Phe) via the Ehrlich pathway. This review synthesizes recent advances in engineering K. marxianus for competitive 2-PE production, covering both metabolic design and process innovation. It first examines metabolic engineering strategies to build a robust K. marxianus cell factory. These strategies include enhancing central carbon metabolism and precursor biosynthesis, engineering key Ehrlich pathway enzymes to reduce feedback inhibition, optimizing cofactors for redox balance, and improving product tolerance and efflux mechanisms. Looking forward, systems-biology tools-such as multi-omics platforms, genome-scale metabolic models (GSMs), and machine learning-combined with synthetic biology are expected to further rationalize strain design; early applications in K. marxianus (e.g., machine-learning-guided 5' untranslated region optimization) have already been demonstrated, whereas most modeling- and AI-driven strategies for 2-PE production specifically remain at a prospective stage. It also evaluates advances in fermentation process development, including in situ product recovery (ISPR), co-fermentation strategies, and sustainable production from renewable, low-cost feedstocks. By integrating recent progress and analyzing challenges in yield optimization, cellular tolerance, and industrial scalability, this review offers a systematic framework for developing efficient, economically viable, and sustainable 2-PE biomanufacturing processes through the integration of molecular and process-level engineering.",
+    "keywords": [
+      "2-Phenylethanol",
+      "CRISPR-Cas",
+      "Ehrlich pathway",
+      "Kluyveromyces marxianus",
+      "metabolic engineering"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ning, Yibo",
+        "Lu, Changtong",
+        "Wang, Qingfu",
+        "Zhao, Yongzhen",
+        "Wang, Zening",
+        "Cao, Xueying",
+        "Chen, Haoyang",
+        "Wei, Tao",
+        "Pei, Xiaodong",
+        "Jiang, Xiaoxiao",
+        "Zhang, Feng",
+        "Chen, Zhifei",
+        "Yang, Xu"
+      ],
+      "short_names": [
+        "Ning Y",
+        "Lu C",
+        "Wang Q",
+        "Zhao Y",
+        "Wang Z",
+        "Cao X",
+        "Chen H",
+        "Wei T",
+        "Pei X",
+        "Jiang X",
+        "Zhang F",
+        "Chen Z",
+        "Yang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China.",
+        "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China.",
+        "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China.",
+        "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China.",
+        "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China.",
+        "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ning, Yibo",
+        "short_name": "Ning Y",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Changtong",
+        "short_name": "Lu C",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qingfu",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yongzhen",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zening",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Xueying",
+        "short_name": "Cao X",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Haoyang",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Tao",
+        "short_name": "Wei T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Pei, Xiaodong",
+        "short_name": "Pei X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xiaoxiao",
+        "short_name": "Jiang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Feng",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhifei",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "China Tobacco Henan Industrial Co. Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xu",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 13:37",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42824670",
+      "33176787",
+      "30254120",
+      "33407831",
+      "33465474",
+      "24910335",
+      "35038552",
+      "39683919",
+      "41140577",
+      "42575809",
+      "33180170",
+      "25393382",
+      "42475469",
+      "29627852",
+      "42207417",
+      "42125988",
+      "37272733",
+      "21601630",
+      "41131099",
+      "35952960",
+      "40510534",
+      "42532679",
+      "41714869",
+      "41325955",
+      "36870581",
+      "36336635",
+      "42123346",
+      "12402244",
+      "40724265",
+      "32653931",
+      "41791685",
+      "42640835",
+      "40629255",
+      "33938342",
+      "31874694",
+      "41809199",
+      "36204466",
+      "42340804",
+      "39489214",
+      "42503341",
+      "41528593",
+      "39522732",
+      "39385269",
+      "42166812",
+      "29022316",
+      "42509354",
+      "31694544",
+      "32805574",
+      "37405435",
+      "30570367",
+      "41457543",
+      "27770224",
+      "41933574",
+      "42629079",
+      "40076630",
+      "38566218",
+      "39039584",
+      "10514248",
+      "41910824",
+      "33819626",
+      "40668011",
+      "40613122",
+      "22112913",
+      "35010235",
+      "42724091",
+      "39182792",
+      "16178034",
+      "42431421",
+      "42705720",
+      "41277095",
+      "35519613",
+      "30706114",
+      "39504411",
+      "41652771",
+      "42144631",
+      "38777235",
+      "41280279",
+      "40015532",
+      "36249306",
+      "39510357",
+      "42362489",
+      "40338089",
+      "36370454",
+      "30293195",
+      "41896980",
+      "34176467",
+      "34665833",
+      "40670299",
+      "33960738",
+      "42456238",
+      "41729605",
+      "42705366",
+      "42119751",
+      "30768954",
+      "40760443",
+      "23836015",
+      "41079773",
+      "42036390",
+      "41670664",
+      "42035968"
+    ],
+    "review": [
+      "42824670",
+      "33465474",
+      "39683919",
+      "41140577",
+      "42575809",
+      "25393382",
+      "42207417",
+      "21601630",
+      "35952960",
+      "42532679",
+      "41714869",
+      "41325955",
+      "36870581",
+      "42123346",
+      "41791685",
+      "42640835",
+      "33938342",
+      "41809199",
+      "42340804",
+      "42503341",
+      "41528593",
+      "42166812",
+      "29022316",
+      "42509354",
+      "32805574",
+      "30570367",
+      "41457543",
+      "42629079",
+      "40076630",
+      "41910824",
+      "40613122",
+      "35010235",
+      "42724091",
+      "42431421",
+      "42705720",
+      "35519613",
+      "41652771",
+      "41280279",
+      "42362489",
+      "30293195",
+      "40670299",
+      "42456238",
+      "41729605",
+      "42705366",
+      "42119751",
+      "30768954",
+      "42036390"
+    ],
+    "pmc": [
+      "13629183"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fmicb.2026.1939398",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

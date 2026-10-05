@@ -1,0 +1,303 @@
+{
+  "identity": {
+    "pmid": "42824427",
+    "doi": "10.1093/abt/tbag043",
+    "title": "Discovery of candidate antibodies and antigens for acute myeloid leukemia therapy by combining whole-cell phage display selection and CRISPR-Cas9 library screening."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Acute myeloid leukemia (AML) remains challenging to treat and often requires intensive chemotherapy. In contrast to other hematologic malignancies, the development of effective antibody-based and cellular immunotherapies for AML has been limited by the scarcity of suitable target antigens. METHODS: We applied a phage display-based whole-cell panning method in which Fab-phage were biotinylated and captured, followed by next-generation sequencing (NGS), bioinformatic, and statistical analyses. Target deconvolution was performed using a CRISPR-Cas9 knockout library, fluorescence-activated cell sorting of antigen-negative cells, and NGS-based gRNA analysis. Selected candidates were further evaluated using primary AML patient cells and chimeric antigen receptor (CAR)-T cell assays. RESULTS: We identified 28 unique monoclonal antibodies that preferentially bound AML cell lines. CRISPR-Cas9-based target deconvolution enabled efficient identification of three cognate antigens. Selected lead candidates were validated by staining primary cells from AML patients and were engineered into CAR constructs. CAR-T cells targeting the identified antigens mediated efficient eradication of AML cell lines and primary AML cells. CONCLUSIONS: This integrated antibody-based antigen discovery and validation approach may accelerate the development of monoclonal antibody- and CAR-based immunotherapies for AML and other indications.",
+    "keywords": [
+      "CAR-T",
+      "CRISPR-Cas9 library screening",
+      "acute myeloid leukemia",
+      "antibody discovery",
+      "cancer immunotherapy",
+      "phage display"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hashimoto, Koji",
+        "Konetzki, Verena",
+        "Garitano-Trojaola, Andoni",
+        "Kraus, Sabrina",
+        "Friedel, Sabrina R",
+        "Hudecek, Michael",
+        "Peng, Haiyong",
+        "Rader, Christoph"
+      ],
+      "short_names": [
+        "Hashimoto K",
+        "Konetzki V",
+        "Garitano-Trojaola A",
+        "Kraus S",
+        "Friedel SR",
+        "Hudecek M",
+        "Peng H",
+        "Rader C"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8024-0060",
+        "ORCID: 0000-0003-0312-1337"
+      ],
+      "affiliations": [
+        "Department of Life Sciences, Graduate School of Arts and Sciences, The University of Tokyo, Tokyo, 153-8902, Japan.",
+        "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States.",
+        "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States.",
+        "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Wurzburg, 97080 Wurzburg, Germany.",
+        "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Wurzburg, 97080 Wurzburg, Germany.",
+        "Department of Internal Medicine II, University Hospital Wurzburg, 97080 Wurzburg, Germany.",
+        "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Wurzburg, 97080 Wurzburg, Germany.",
+        "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Wurzburg, 97080 Wurzburg, Germany.",
+        "Fraunhofer Institute for Cell Therapy and Immunology (IZI), Leipzig & Branch Site Cellular Immunotherapy, 97070 Wurzburg, Germany.",
+        "National Center for Tumor Diseases (NCT), Site Wurzburg-Erlangen-Regensburg-Augsburg (WERA), 97080 Wurzburg, Germany.",
+        "Bavarian Center for Cancer Research (BZKF), Lighthouse Cellular Immunotherapies, 97080 Wurzburg, Germany.",
+        "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States.",
+        "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hashimoto, Koji",
+        "short_name": "Hashimoto K",
+        "identifiers": [
+          "0000-0001-8024-0060"
+        ],
+        "affiliations": [
+          "Department of Life Sciences, Graduate School of Arts and Sciences, The University of Tokyo, Tokyo, 153-8902, Japan.",
+          "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States."
+        ]
+      },
+      {
+        "full_name": "Konetzki, Verena",
+        "short_name": "Konetzki V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States.",
+          "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Würzburg, 97080 Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Garitano-Trojaola, Andoni",
+        "short_name": "Garitano-Trojaola A",
+        "identifiers": [],
+        "affiliations": [
+          "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Würzburg, 97080 Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Kraus, Sabrina",
+        "short_name": "Kraus S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine II, University Hospital Würzburg, 97080 Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Friedel, Sabrina R",
+        "short_name": "Friedel SR",
+        "identifiers": [],
+        "affiliations": [
+          "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Würzburg, 97080 Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Hudecek, Michael",
+        "short_name": "Hudecek M",
+        "identifiers": [],
+        "affiliations": [
+          "Chair for Cellular Immunotherapy, Department of Internal Medicine II, University Hospital Würzburg, 97080 Würzburg, Germany.",
+          "Fraunhofer Institute for Cell Therapy and Immunology (IZI), Leipzig & Branch Site Cellular Immunotherapy, 97070 Würzburg, Germany.",
+          "National Center for Tumor Diseases (NCT), Site Würzburg-Erlangen-Regensburg-Augsburg (WERA), 97080 Würzburg, Germany.",
+          "Bavarian Center for Cancer Research (BZKF), Lighthouse Cellular Immunotherapies, 97080 Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Peng, Haiyong",
+        "short_name": "Peng H",
+        "identifiers": [
+          "0000-0003-0312-1337"
+        ],
+        "affiliations": [
+          "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States."
+        ]
+      },
+      {
+        "full_name": "Rader, Christoph",
+        "short_name": "Rader C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology and Microbiology, The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, University of Florida, Jupiter, FL 33458, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Antibody therapeutics"
+    ],
+    "journal_abbrev": [
+      "Antib Ther"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 13:37",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42824427",
+      "40789664",
+      "40943160",
+      "34412685",
+      "36361619",
+      "41213188",
+      "40659447",
+      "34531250",
+      "41845478",
+      "24487095",
+      "29716633",
+      "34158344",
+      "42659934",
+      "41985065",
+      "34490477",
+      "39008193",
+      "35803613",
+      "38022523",
+      "34766343",
+      "38694825",
+      "32311887",
+      "34289026",
+      "30524966",
+      "34840026",
+      "39518068",
+      "33531429",
+      "29077054",
+      "31138698",
+      "41721623",
+      "42383288",
+      "37795087",
+      "30736352",
+      "31951650",
+      "42225613",
+      "40425009",
+      "35984639",
+      "34858726",
+      "36517851",
+      "27664857",
+      "35338087",
+      "39285441",
+      "35464442",
+      "25760770",
+      "33414517",
+      "39439295",
+      "41558291",
+      "36845088",
+      "41485047",
+      "41550919",
+      "41037684",
+      "38580329",
+      "42321183",
+      "38254824",
+      "34274536",
+      "33384686",
+      "24076117",
+      "38407943",
+      "39387839",
+      "42750591",
+      "27265873",
+      "37019174",
+      "42098093",
+      "41537901",
+      "32592688",
+      "36050244",
+      "42681647",
+      "37405643",
+      "39133622",
+      "29316944",
+      "40386773",
+      "32671999",
+      "41131610",
+      "39098014",
+      "33832948",
+      "40921629",
+      "41702366",
+      "42519395",
+      "42435781",
+      "36163632",
+      "41324594",
+      "34944782",
+      "41575204",
+      "42698051",
+      "35784366",
+      "33627493",
+      "37793869",
+      "40761794",
+      "42382980",
+      "40735486",
+      "25887778",
+      "28321813",
+      "36175701",
+      "42409731",
+      "28246194",
+      "38012684",
+      "26740053",
+      "37455578",
+      "33287224",
+      "39770471",
+      "35551662"
+    ],
+    "review": [
+      "42824427",
+      "34412685",
+      "38694825",
+      "34840026",
+      "39518068",
+      "42383288",
+      "30736352",
+      "39439295",
+      "42321183",
+      "24076117",
+      "41537901",
+      "40386773",
+      "32671999",
+      "41131610",
+      "39098014",
+      "42519395",
+      "34944782",
+      "41575204",
+      "42698051",
+      "37793869",
+      "28321813",
+      "37455578",
+      "33287224",
+      "39770471"
+    ],
+    "pmc": [
+      "13628138"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/abt/article-lookup/doi/10.1093/abt/tbag043",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

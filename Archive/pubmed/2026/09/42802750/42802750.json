@@ -1,0 +1,391 @@
+{
+  "identity": {
+    "pmid": "42802750",
+    "doi": "10.1080/29947448.2026.2660423",
+    "title": "CRISPR/Cas9 gene editing in hematopoietic stem and progenitor cells to accelerate the translation of cellular therapies and immunotherapies."
+  },
+  "content": {
+    "abstract": "Hematopoietic stem and progenitor cells (HSPCs) play a critical role in immune system regeneration and have therapeutic potential in hematological disorders and immunotherapy. However, gene editing in HSPCs remains challenging, particularly in murine HSPCs, limiting preclinical studies and translational advancements. Here, we present a CRISPR/Cas9 mRNA-based protocol for efficient gene editing of human CD34+ HSPCs and murine HSPCs. Using electroporation of Cas9 mRNA and sgRNAs, we achieved up to 80% gene knock-down in HSPCs while retaining cell viability. Edited murine HSPCs successfully reconstituted bone marrow in lethally irradiated mice, demonstrating functional engraftment. We also demonstrated that knocking-out IL-6R in murine HSPCs and CD34+ cells skewed myeloid differentiation toward less immunosuppressive phenotypes, and combining IL-6R-knock-out murine HSPCs with immune checkpoint inhibitors enhanced glioma treatment efficacy in preclinical models, showcasing the potential of this method to facilitate translation of cellular therapies. This method offers a scalable and cost-effective approach to genetic modification of HSPCs, supporting advancements in hematopoietic stem cell transplants (HSCTs) and next-generation immunotherapies. By streamlining gene editing for both preclinical and translational applications, this protocol has the potential to accelerate the development of personalised cellular therapies and improve clinical outcomes in oncology and immune-related disorders.",
+    "keywords": [
+      "CD34+ cells",
+      "CRISPR gene editing",
+      "Hematopoietic stem and progenitor cells (HSPCs)",
+      "cell therapy and immunotherapy",
+      "translational research"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Font, Laura Falceto",
+        "Jin, Dan",
+        "Figg, John",
+        "Francis, Connor",
+        "Long-James, Kaytora",
+        "Drake, Jeffrey",
+        "Reid, Alexandra",
+        "Love, Caitland",
+        "McDonald, Brianna",
+        "Hilferty, David",
+        "Mendez-Gomez, Hector",
+        "Bessey, Rachael",
+        "Pohl-Guimaraes, Fernanda",
+        "Mitchell, Duane",
+        "Tuerdi, Zubaidan",
+        "Lauret, Evelyne",
+        "Flores, Catherine"
+      ],
+      "short_names": [
+        "Font LF",
+        "Jin D",
+        "Figg J",
+        "Francis C",
+        "Long-James K",
+        "Drake J",
+        "Reid A",
+        "Love C",
+        "McDonald B",
+        "Hilferty D",
+        "Mendez-Gomez H",
+        "Bessey R",
+        "Pohl-Guimaraes F",
+        "Mitchell D",
+        "Tuerdi Z",
+        "Lauret E",
+        "Flores C"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3710-2724",
+        "ORCID: 0000-0003-0973-0870"
+      ],
+      "affiliations": [
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA.",
+        "Hematopoiese normale et pathologique, Institut Cochin, Paris, France.",
+        "Hematopoiese normale et pathologique, Institut Cochin, Paris, France.",
+        "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Font, Laura Falceto",
+        "short_name": "Font LF",
+        "identifiers": [
+          "0000-0003-3710-2724"
+        ],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Jin, Dan",
+        "short_name": "Jin D",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Figg, John",
+        "short_name": "Figg J",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Francis, Connor",
+        "short_name": "Francis C",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Long-James, Kaytora",
+        "short_name": "Long-James K",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Drake, Jeffrey",
+        "short_name": "Drake J",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Reid, Alexandra",
+        "short_name": "Reid A",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Love, Caitland",
+        "short_name": "Love C",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "McDonald, Brianna",
+        "short_name": "McDonald B",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Hilferty, David",
+        "short_name": "Hilferty D",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Mendez-Gomez, Hector",
+        "short_name": "Mendez-Gomez H",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Bessey, Rachael",
+        "short_name": "Bessey R",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Pohl-Guimarães, Fernanda",
+        "short_name": "Pohl-Guimarães F",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Mitchell, Duane",
+        "short_name": "Mitchell D",
+        "identifiers": [],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Tuerdi, Zubaidan",
+        "short_name": "Tuerdi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Hématopoïèse normale et pathologique, Institut Cochin, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Lauret, Evelyne",
+        "short_name": "Lauret E",
+        "identifiers": [],
+        "affiliations": [
+          "Hématopoïèse normale et pathologique, Institut Cochin, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Flores, Catherine",
+        "short_name": "Flores C",
+        "identifiers": [
+          "0000-0003-0973-0870"
+        ],
+        "affiliations": [
+          "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of translational research"
+    ],
+    "journal_abbrev": [
+      "J Transl Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 05:33",
+    "fetched_at": "2026-10-05 18:37:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42802750",
+      "41983156",
+      "38506770",
+      "32926376",
+      "33372184",
+      "36685559",
+      "27783956",
+      "33309880",
+      "38479630",
+      "28527722",
+      "36618262",
+      "39536761",
+      "30195800",
+      "36036597",
+      "42344907",
+      "41987334",
+      "40466639",
+      "31553918",
+      "41535609",
+      "33321292",
+      "30389991",
+      "33635334",
+      "42771321",
+      "35359982",
+      "35982622",
+      "37780116",
+      "34713246",
+      "29708546",
+      "36662546",
+      "41037193",
+      "29021165",
+      "32478125",
+      "39086133",
+      "27483988",
+      "30424953",
+      "34713250",
+      "36950452",
+      "39494910",
+      "25517468",
+      "36698790",
+      "35507170",
+      "27733558",
+      "39883359",
+      "37379309",
+      "41635086",
+      "29789357",
+      "35384408",
+      "33666363",
+      "30005866",
+      "28077679",
+      "35507169",
+      "40173037",
+      "39736768",
+      "40598600",
+      "34977270",
+      "41245217",
+      "37868209",
+      "31769050",
+      "31147717",
+      "34079130",
+      "11698303",
+      "41638572",
+      "36169633",
+      "26551060",
+      "39850556",
+      "34509667",
+      "37242571",
+      "37637384",
+      "35039239",
+      "42074029",
+      "38027064",
+      "42465494",
+      "33535527",
+      "33750926",
+      "33422676",
+      "38433905",
+      "40012884",
+      "40773349",
+      "38556793",
+      "38649638",
+      "36610813",
+      "38786024",
+      "33193358",
+      "26989084",
+      "26161905",
+      "29235178",
+      "31178391",
+      "41968583",
+      "32549410",
+      "36255696",
+      "41602466",
+      "32788576",
+      "38228965",
+      "30160169",
+      "29856956",
+      "31726047",
+      "40388365",
+      "34503562",
+      "34766343",
+      "25398345"
+    ],
+    "review": [
+      "42802750",
+      "37780116",
+      "41037193",
+      "27483988",
+      "34713250",
+      "36698790",
+      "33666363",
+      "34509667",
+      "37242571",
+      "35039239",
+      "42074029",
+      "33535527",
+      "33750926",
+      "36610813",
+      "38786024",
+      "38228965",
+      "31726047"
+    ],
+    "pmc": [
+      "13616094"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42802750/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-IL6R-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

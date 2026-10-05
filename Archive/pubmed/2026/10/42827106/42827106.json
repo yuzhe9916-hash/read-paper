@@ -1,0 +1,415 @@
+{
+  "identity": {
+    "pmid": "42827106",
+    "doi": "10.1038/s41467-026-77874-6",
+    "title": "A spatiotemporal single-cell transcriptomic atlas reveals fertilization-induced auxin signaling driving strawberry fruit set and development."
+  },
+  "content": {
+    "abstract": "Fertilization-triggered fruit set and morphogenesis constitute a complex developmental program involving diverse cell populations within fruit tissues. However, the cellular heterogeneity of this process has long obscured the precise contributions of distinct cell types. Here, by using woodland strawberry (Fragaria vesca) as a model, we integrated spatial transcriptomics, single-nucleus RNA sequencing (snRNA-seq), and spatial metabolomics to construct a comprehensive and high-resolution single-cell atlas of strawberry fruit, spanning post-fertilization, fruit set, and fruit enlargement stages. Pseudotime trajectories of the three main cell types revealed substantial developmental state transitions, with specific expression patterns observed for auxin signaling components. Integration of spatial metabolomics and the ProDR5::RUBY stable reporter line reveals an auxin distribution asymmetry that shapes fruit morphogenesis. This distribution asymmetry is jointly correlated with auxin transport components FvePIN1 and FvePIN5, with distinct temporal specificity in the receptacle. In response to auxin, FveARF6 acts as a key positive regulator of fruit development, as demonstrated by stable transgenic lines: FveARF6-RNAi, FveARF6-CRISPR knockout, and FveARF6-overexpression. Together, this work provides a spatiotemporal framework for understanding the cellular and molecular mechanisms underlying fertilization-induced fruit development and morphogenesis.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Indoleacetic Acids/metabolism",
+      "*Fragaria/genetics/growth & development/metabolism",
+      "*Fruit/growth & development/genetics/metabolism",
+      "Signal Transduction/genetics",
+      "Gene Expression Regulation, Plant",
+      "Plant Proteins/genetics/metabolism",
+      "*Transcriptome",
+      "Single-Cell Gene Expression Analysis",
+      "Single-Cell Analysis",
+      "Fertilization",
+      "Spatial Transcriptomics",
+      "Plants, Genetically Modified"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ma, Zhimin",
+        "Zhang, Meng",
+        "Tian, Gezi",
+        "Li, Wenle",
+        "Zhang, Yongqi",
+        "Liang, Xia",
+        "Gao, Shenglan",
+        "Zhao, Xiaodan",
+        "Zhu, Caicun",
+        "Guo, Yuting",
+        "Kang, Chunying",
+        "Lian, Hongli",
+        "Xu, Pengbo",
+        "Yu, Jialin",
+        "Liu, Teng",
+        "Xiao, Wei",
+        "Li, Ling",
+        "Liu, Zhongchi",
+        "Han, Xue",
+        "Zhou, Junhui"
+      ],
+      "short_names": [
+        "Ma Z",
+        "Zhang M",
+        "Tian G",
+        "Li W",
+        "Zhang Y",
+        "Liang X",
+        "Gao S",
+        "Zhao X",
+        "Zhu C",
+        "Guo Y",
+        "Kang C",
+        "Lian H",
+        "Xu P",
+        "Yu J",
+        "Liu T",
+        "Xiao W",
+        "Li L",
+        "Liu Z",
+        "Han X",
+        "Zhou J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9269-5185",
+        "ORCID: 0000-0002-3014-9733",
+        "ORCID: 0000-0002-1292-3801"
+      ],
+      "affiliations": [
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+        "College of Horticulture Science and Engineering, Shandong Agricultural University, Tai'an, China.",
+        "College of Horticulture Science and Engineering, Shandong Agricultural University, Tai'an, China.",
+        "Faculty of Synthetic Biology and Institute of Emerging Agricultural Technology, Shenzhen University of Advanced Technology, Shenzhen, China.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China. xue.han@pku-iaas.edu.cn.",
+        "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China. junhui.zhou@pku-iaas.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ma, Zhimin",
+        "short_name": "Ma Z",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China.",
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Meng",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Gezi",
+        "short_name": "Tian G",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wenle",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yongqi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Xia",
+        "short_name": "Liang X",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Shenglan",
+        "short_name": "Gao S",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xiaodan",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Caicun",
+        "short_name": "Zhu C",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Yuting",
+        "short_name": "Guo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Kang, Chunying",
+        "short_name": "Kang C",
+        "identifiers": [
+          "0000-0001-9269-5185"
+        ],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Lian, Hongli",
+        "short_name": "Lian H",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Pengbo",
+        "short_name": "Xu P",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jialin",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Teng",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Wei",
+        "short_name": "Xiao W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture Science and Engineering, Shandong Agricultural University, Tai'an, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ling",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture Science and Engineering, Shandong Agricultural University, Tai'an, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhongchi",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Synthetic Biology and Institute of Emerging Agricultural Technology, Shenzhen University of Advanced Technology, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Han, Xue",
+        "short_name": "Han X",
+        "identifiers": [
+          "0000-0002-3014-9733"
+        ],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China. xue.han@pku-iaas.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Junhui",
+        "short_name": "Zhou J",
+        "identifiers": [
+          "0000-0002-1292-3801"
+        ],
+        "affiliations": [
+          "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agricultural Sciences in Weifang, Shandong Provincial Key Laboratory of Precision Molecular Crop Design and Breeding, Weifang, China. junhui.zhou@pku-iaas.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/03 05:33",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827106",
+      "23898027",
+      "39304822",
+      "30371880",
+      "41740856",
+      "40332146",
+      "33793929",
+      "41481941",
+      "30949762",
+      "30764758",
+      "28574483",
+      "22844095",
+      "15113427",
+      "23231876",
+      "29723301",
+      "21443649",
+      "38852237",
+      "21273336",
+      "25883382",
+      "22211518",
+      "39331513",
+      "24373096",
+      "40000946",
+      "42337421",
+      "40755263",
+      "41664659",
+      "20849591",
+      "26373937",
+      "42456568",
+      "19395408",
+      "41319584",
+      "22491872",
+      "24329770",
+      "39405162",
+      "25909657",
+      "39899466",
+      "24098047",
+      "41388669",
+      "42678990",
+      "12554706",
+      "18778404",
+      "42037372",
+      "35810202",
+      "37248638",
+      "34208198",
+      "29991484",
+      "16126837",
+      "26724928",
+      "29062051",
+      "25609556",
+      "16443693",
+      "33624824",
+      "20937732",
+      "36914217",
+      "42613397",
+      "38815085",
+      "27997733",
+      "30066220",
+      "24277278",
+      "23425297",
+      "30008445",
+      "34995732",
+      "19321650",
+      "24733865",
+      "27614432",
+      "42340497",
+      "21778181",
+      "28981772",
+      "22198460",
+      "39859225",
+      "26259188",
+      "21115665",
+      "33004617",
+      "42160834",
+      "30535588",
+      "30727959",
+      "40455247",
+      "30455308",
+      "35045827",
+      "21915355",
+      "41437568",
+      "41214524",
+      "22942390",
+      "30067072",
+      "27005823",
+      "32081270",
+      "26636322",
+      "23404898",
+      "40238928",
+      "35238391",
+      "18034876",
+      "30511456",
+      "39063054",
+      "31454115",
+      "22817809",
+      "42301476",
+      "26099271",
+      "22494113",
+      "42113081",
+      "29445121"
+    ],
+    "review": [
+      "42827106",
+      "19321650",
+      "42113081"
+    ],
+    "pmc": [
+      "13633247"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77874-6",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

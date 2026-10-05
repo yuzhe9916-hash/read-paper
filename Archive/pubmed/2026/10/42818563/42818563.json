@@ -1,0 +1,277 @@
+{
+  "identity": {
+    "pmid": "42818563",
+    "doi": "10.1093/burnst/tkag054",
+    "title": "Neuronal SPI1 suppression enhances axonal regeneration after spinal cord injury through Rassf10 downregulation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Axonal regeneration following spinal cord injury (SCI) is hindered by the intrinsic inhibitory properties of spinal neurons. While the role of the transcription factor SPI1 (PU.1) has been well established in myeloid cells, its function in neurons, particularly in regulating axonogenesis, remains poorly defined. The data from recent single-cell sequencing studies have indicated that SPI1 is clearly expressed in spinal neurons. Thus, we aimed to explore the effect of SPI1 on axonal growth and its underlying molecular mechanisms. METHODS: Primary cultured rat spinal neurons, CRISPR/Cas9-mediated SPI1 mutation in zebrafish, and neuron-specific AAV9-shRNA delivery after rat spinal cord hemisection were utilized to manipulate SPI1 expression. RNA-seq, luciferase reporter assays, ChIP-qPCR, and Cut&Tag assays were employed to identify and validate Rassf10 as a candidate target gene of SPI1. Axonal outgrowth and functional recovery postinjury were assessed both in vitro and in vivo. RESULTS: Neuronal SPI1 expression declined progressively during spinal cord development but was markedly upregulated after SCI. SPI1 knockdown promoted axonal outgrowth, whereas SPI1 overexpression significantly reduced the axonal length. The transcriptomic analysis revealed that Rassf10 is a target gene of SPI1, which was subsequently validated by the results of luciferase reporter, ChIP-qPCR, and Cut&Tag assays. In vivo, spi1 mutation in zebrafish and neuron-specific SPI1 knockdown in rats facilitated axonal regeneration and functional recovery after SCI, as evidenced by significant increases in GAP43, NF200, and 5-HT expression and improved motor function compared with the control animals. The depletion of SPI1 or Rassf10 increased p-p38 mitogen-activated protein kinase levels and promoted axonal growth, whereas p38 inhibition abrogated these effects. CONCLUSIONS: SPI1 impairs axonal growth and regrowth by transcriptionally activating Rassf10 expression, with this inhibitory effect mediated by the suppression of p38 MAPK signaling. These findings suggest that targeting the SPI1-Rassf10 pathway represents a promising therapeutic strategy for improving neural repair after SCI.",
+    "keywords": [
+      "Axonal outgrowth",
+      "Rassf10",
+      "SPI1",
+      "Spinal cord injury",
+      "p38 MAPK"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kong, Dexia",
+        "Kong, Roujia",
+        "Yan, Yingying",
+        "Zheng, Haokun",
+        "Qian, Xiaowei",
+        "Chen, Xu",
+        "Liu, Yan",
+        "Liu, Mei",
+        "Wu, Ronghua"
+      ],
+      "short_names": [
+        "Kong D",
+        "Kong R",
+        "Yan Y",
+        "Zheng H",
+        "Qian X",
+        "Chen X",
+        "Liu Y",
+        "Liu M",
+        "Wu R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4454-2595"
+      ],
+      "affiliations": [
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, 20 Xisi Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Department of Pediatrics, Medical School of Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kong, Dexia",
+        "short_name": "Kong D",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Kong, Roujia",
+        "short_name": "Kong R",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Yingying",
+        "short_name": "Yan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, 20 Xisi Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Haokun",
+        "short_name": "Zheng H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Medical School of Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Xiaowei",
+        "short_name": "Qian X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xu",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Mei",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Ronghua",
+        "short_name": "Wu R",
+        "identifiers": [
+          "0000-0002-4454-2595"
+        ],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-innovation Center of Neuroregeneration, Nantong University, 19 Qixiu Road, Chongchuan District, Nantong, Jiangsu 226001, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Burns & trauma"
+    ],
+    "journal_abbrev": [
+      "Burns Trauma"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-05 18:36:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818563",
+      "31409666",
+      "41982203",
+      "41536678",
+      "42482965",
+      "33649786",
+      "27511021",
+      "41578860",
+      "40702743",
+      "40702752",
+      "29453976",
+      "32145360",
+      "41169985",
+      "26443048",
+      "26384335",
+      "40128847",
+      "28075461",
+      "39135103",
+      "39310103",
+      "38168094",
+      "33553483",
+      "39846381",
+      "30940474",
+      "41836554",
+      "41200989",
+      "16978658",
+      "28598857",
+      "26377463",
+      "42288926",
+      "40865346",
+      "33367790",
+      "40681111",
+      "38421133",
+      "34039405",
+      "38581538",
+      "39549172",
+      "41905602",
+      "39701305",
+      "41845409",
+      "37388732",
+      "42144484",
+      "41546590",
+      "33121345",
+      "16038625",
+      "41853102",
+      "41479616",
+      "42559269",
+      "41051068",
+      "39110393",
+      "33595805",
+      "38014930",
+      "41555584",
+      "38756705",
+      "40437527",
+      "38886817",
+      "41700484",
+      "37918696",
+      "36586551",
+      "42165939",
+      "40446939",
+      "39979990",
+      "40245961",
+      "40815987",
+      "41854297",
+      "35381215",
+      "27367940",
+      "30447699",
+      "23035104",
+      "42176223",
+      "38022538",
+      "25394381",
+      "32895880",
+      "27132229",
+      "35547766",
+      "42219409",
+      "26245968",
+      "35387259",
+      "24523534",
+      "38430683",
+      "37692100",
+      "21443931",
+      "41902571",
+      "41356801",
+      "38237223",
+      "40831680",
+      "29468257",
+      "34876587",
+      "30603441",
+      "41654155",
+      "42390651",
+      "40496261",
+      "33495412",
+      "35256527",
+      "26491860",
+      "32853793",
+      "33754056",
+      "26822976",
+      "33622104",
+      "38615813",
+      "36700780"
+    ],
+    "review": [
+      "42818563"
+    ],
+    "pmc": [
+      "13623519"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/burnstrauma/article-lookup/doi/10.1093/burnst/tkag054",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

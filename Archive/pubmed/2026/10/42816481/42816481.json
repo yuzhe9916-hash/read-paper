@@ -1,0 +1,456 @@
+{
+  "identity": {
+    "pmid": "42816481",
+    "doi": "10.1038/s41467-026-76897-3",
+    "title": "Regulation of mRNA poly(A) tail length governs mammalian body plan formation in gastruloids."
+  },
+  "content": {
+    "abstract": "The establishment of the body plan during gastrulation represents a hallmark of animal life. It emerges from the interplay of gene-regulatory programs and positional cues, yet how these signals are integrated post-transcriptionally remains largely unexplored. Here, we combine the scalability of mouse gastruloids with a single-cell CRISPR screening platform to functionally dissect germ layer specification at single-cell transcriptomic resolution. Focusing on post-transcriptional regulation, we systematically map drivers of mesodermal and endodermal fate and identify the deadenylase Cnot8. Loss of Cnot8 leads to widespread poly(A) tail elongation and transcript stabilization, shifting mesoderm differentiation toward ectopic notochord fate, thereby profoundly impacting axial patterning. Collectively, our findings identify mRNA deadenylation as a fundamental mechanism linking cellular identity with morphogenetic signaling during mammalian body plan formation.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*RNA, Messenger/metabolism/genetics",
+      "Gene Expression Regulation, Developmental",
+      "Mice",
+      "*Body Patterning/genetics",
+      "Mesoderm/metabolism/cytology",
+      "*Gastrulation/genetics",
+      "*Poly A/metabolism/genetics",
+      "*Gastrula/metabolism",
+      "Cell Differentiation/genetics",
+      "Endoderm/metabolism",
+      "Notochord/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Taborsky, David",
+        "Valdivia-Francia, Fabiola",
+        "Serrano, Pablo",
+        "Muzumdar, Sukalp",
+        "Ranjbar, Neguin",
+        "Llop-Grau, Laura",
+        "Tellez, Guillermo Jr",
+        "Gjonlleshaj, Pjeter",
+        "Dure, Clara",
+        "Renz, Peter F",
+        "Weber, Ramona",
+        "Yigit, Merve",
+        "Ghoshdastider, Umesh",
+        "Mironov, Aleksei",
+        "Hyams, Katie",
+        "Vianello, Stefano",
+        "Zavolan, Mihaela",
+        "Bar-Nur, Ori",
+        "Lutolf, Matthias P",
+        "Sendoel, Ataman"
+      ],
+      "short_names": [
+        "Taborsky D",
+        "Valdivia-Francia F",
+        "Serrano P",
+        "Muzumdar S",
+        "Ranjbar N",
+        "Llop-Grau L",
+        "Tellez G Jr",
+        "Gjonlleshaj P",
+        "Dure C",
+        "Renz PF",
+        "Weber R",
+        "Yigit M",
+        "Ghoshdastider U",
+        "Mironov A",
+        "Hyams K",
+        "Vianello S",
+        "Zavolan M",
+        "Bar-Nur O",
+        "Lutolf MP",
+        "Sendoel A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9338-2225",
+        "ORCID: 0009-0003-1454-0868",
+        "ORCID: 0000-0002-4152-8990",
+        "ORCID: 0000-0002-8832-2041",
+        "ORCID: 0000-0002-6466-3124",
+        "ORCID: 0000-0002-5898-305X",
+        "ORCID: 0000-0002-0381-9965"
+      ],
+      "affiliations": [
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Department of Biosciences, University of Milan, Milan, Italy.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "ETH Zurich, Zurich, Switzerland.",
+        "Institute for Molecular and Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, Schwerzenbach, Switzerland.",
+        "Institute for Molecular and Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, Schwerzenbach, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Biozentrum, University of Basel, Basel, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+        "Institute of Bioengineering, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "National Institute of Molecular Biology and Biotechnology, College of Science, University of the Philippines Diliman, Quezon City, Philippines.",
+        "Biozentrum, University of Basel, Basel, Switzerland.",
+        "Institute for Molecular and Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, Schwerzenbach, Switzerland.",
+        "Institute of Bioengineering, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "Institute of Human Biology (IHB), Roche Pharma Research and Early Development, Roche Innovation Center, Basel, Switzerland.",
+        "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland. ataman.sendoel@uzh.ch."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Taborsky, David",
+        "short_name": "Taborsky D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+          "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Valdivia-Francia, Fabiola",
+        "short_name": "Valdivia-Francia F",
+        "identifiers": [
+          "0000-0002-9338-2225"
+        ],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+          "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Serrano, Pablo",
+        "short_name": "Serrano P",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+          "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Muzumdar, Sukalp",
+        "short_name": "Muzumdar S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Ranjbar, Neguin",
+        "short_name": "Ranjbar N",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+          "Department of Biosciences, University of Milan, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Llop-Grau, Laura",
+        "short_name": "Llop-Grau L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+          "ETH Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Tellez, Guillermo",
+        "short_name": "Tellez G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Molecular and Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, Schwerzenbach, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Gjonlleshaj, Pjeter",
+        "short_name": "Gjonlleshaj P",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Molecular and Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, Schwerzenbach, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Duré, Clara",
+        "short_name": "Duré C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+          "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Renz, Peter F",
+        "short_name": "Renz PF",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Weber, Ramona",
+        "short_name": "Weber R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Yigit, Merve",
+        "short_name": "Yigit M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland.",
+          "Life Science Zurich Graduate School, Molecular Life Science Program, University of Zurich/ETH Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Ghoshdastider, Umesh",
+        "short_name": "Ghoshdastider U",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Mironov, Aleksei",
+        "short_name": "Mironov A",
+        "identifiers": [],
+        "affiliations": [
+          "Biozentrum, University of Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hyams, Katie",
+        "short_name": "Hyams K",
+        "identifiers": [
+          "0009-0003-1454-0868"
+        ],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Vianello, Stefano",
+        "short_name": "Vianello S",
+        "identifiers": [
+          "0000-0002-4152-8990"
+        ],
+        "affiliations": [
+          "Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.",
+          "National Institute of Molecular Biology and Biotechnology, College of Science, University of the Philippines Diliman, Quezon City, Philippines."
+        ]
+      },
+      {
+        "full_name": "Zavolan, Mihaela",
+        "short_name": "Zavolan M",
+        "identifiers": [
+          "0000-0002-8832-2041"
+        ],
+        "affiliations": [
+          "Biozentrum, University of Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Bar-Nur, Ori",
+        "short_name": "Bar-Nur O",
+        "identifiers": [
+          "0000-0002-6466-3124"
+        ],
+        "affiliations": [
+          "Institute for Molecular and Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, Schwerzenbach, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Lutolf, Matthias P",
+        "short_name": "Lutolf MP",
+        "identifiers": [
+          "0000-0002-5898-305X"
+        ],
+        "affiliations": [
+          "Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.",
+          "Institute of Human Biology (IHB), Roche Pharma Research and Early Development, Roche Innovation Center, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Sendoel, Ataman",
+        "short_name": "Sendoel A",
+        "identifiers": [
+          "0000-0002-0381-9965"
+        ],
+        "affiliations": [
+          "Institute for Regenerative Medicine (IREM), University of Zurich, Schlieren-Zurich, Switzerland. ataman.sendoel@uzh.ch."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 05:31",
+    "fetched_at": "2026-10-05 18:36:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42816481",
+      "31613879",
+      "31827285",
+      "9342053",
+      "16285872",
+      "40090551",
+      "38636516",
+      "10373301",
+      "32473204",
+      "39552366",
+      "9053309",
+      "17663788",
+      "31959295",
+      "39631565",
+      "11476575",
+      "34078907",
+      "16216234",
+      "34083443",
+      "29944210",
+      "39611739",
+      "31235634",
+      "12421701",
+      "38890321",
+      "32603823",
+      "19758561",
+      "33199445",
+      "40834858",
+      "9609820",
+      "33206048",
+      "9986732",
+      "30283134",
+      "41214364",
+      "34789876",
+      "12194849",
+      "29379062",
+      "23933171",
+      "16752393",
+      "16289076",
+      "15480760",
+      "32561646",
+      "27209239",
+      "25907228",
+      "26674311",
+      "9655802",
+      "29877796",
+      "38729677",
+      "10862745",
+      "9431800",
+      "11784024",
+      "18239048",
+      "12530965",
+      "18094028",
+      "33891870",
+      "32143751",
+      "9398435",
+      "19234065",
+      "40245870",
+      "40728928",
+      "41521789",
+      "29915126",
+      "21782038",
+      "42321198",
+      "10226013",
+      "29033362",
+      "23698348",
+      "22094017",
+      "38411343",
+      "32615151",
+      "30061166",
+      "29539636",
+      "15136723",
+      "37018074",
+      "40848835",
+      "18719251",
+      "9895329",
+      "23894525",
+      "35090587",
+      "23715551",
+      "15632089",
+      "28621426",
+      "22634398",
+      "2411838",
+      "32591080",
+      "40132585",
+      "15747384",
+      "10851126",
+      "24704361",
+      "11203696",
+      "27396324",
+      "40101716",
+      "34958748",
+      "17727832",
+      "10725233",
+      "17391517",
+      "10375512",
+      "40057955",
+      "25478689",
+      "16127722",
+      "40007475",
+      "15866160"
+    ],
+    "review": [
+      "42816481",
+      "16285872",
+      "32473204",
+      "31959295",
+      "29944210",
+      "32603823",
+      "16752393",
+      "38729677",
+      "9431800",
+      "18239048",
+      "32143751",
+      "32615151",
+      "22634398",
+      "32591080"
+    ],
+    "pmc": [
+      "13627704"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76897-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

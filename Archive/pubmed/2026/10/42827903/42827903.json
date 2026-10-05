@@ -1,0 +1,216 @@
+{
+  "identity": {
+    "pmid": "42827903",
+    "doi": "10.3389/frai.2026.1893433",
+    "title": "GENESIS-SHIELD: an interpretable ensemble for anomaly detection in CRISPR genomic-workflow security."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: The rapid advancement of CRISPR-based gene editing has introduced digital-workflow security and integrity challenges: unauthorized modifications, temporal inconsistencies, and duplicated provenance records can compromise the auditability of editing logs. These are distinct from the biological risks of editing itself; our focus is the security of the digital record. Existing single-component detectors capture only one facet of these threats. METHODS: We present GENESIS-SHIELD, a multi-component ensemble whose novelty lies in the integration of established techniques for CRISPR-workflow security rather than in any single new algorithm. It combines four components-a Hierarchical Blockchain Merkle Tree with Bloom filters and a train-registry integrity check, an adaptive cross-layer entropy/KL analyzer, an interpretable decision-tree ethics rule system, and a structural temporal-consistency detector-whose weights are set by Bayesian optimization of a recall-oriented (F(2)) validation objective. We benchmark against classic (Isolation Forest, One-Class SVM, LOF) and modern (XGBoost, autoencoder, and Deep-SVDD) baselines trained on identical features, and report a leave-one-component-out ablation, bootstrap confidence intervals, and isotonic calibration. RESULTS: On a synthetic benchmark of 50,000 records (5% anomalies, eight categories), the ensemble attains AUC-ROC 0.982 (95% CI 0.973-0.990) and AUC-PR 0.841, with the proposed weighted detector reaching recall 0.978 at precision 0.500 (F(1) 0.661). A supervised XGBoost on the same features is competitive-to-superior (AUC-PR 0.892, F(1) 0.854), and the deep Attention-LSTM remains ineffective under class imbalance (F(1) 0.096). Ablation shows the ethics and structural components carry the signal while the entropy component is redundant (removing it leaves metrics unchanged). Isotonic calibration reduces expected calibration error from 0.028 to 0.002. DISCUSSION: These results are a proof-of-concept on rule-defined synthetic data; the high per-category detection reflects the benchmark's construction and does not establish real-world security. Validation on real editing logs, adversarial testing, and multi-objective coverage remain necessary before deployment.",
+    "keywords": [
+      "CRISPR anomaly detection",
+      "attention mechanism",
+      "blockchain integrity",
+      "ensemble learning",
+      "ethics-aware systems",
+      "genomic security",
+      "interpretable AI",
+      "temporal anomaly detection"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "C, Prabakaran",
+        "R, Kannadasan"
+      ],
+      "short_names": [
+        "C P",
+        "R K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, Tamil Nadu, India.",
+        "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, Tamil Nadu, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "C, Prabakaran",
+        "short_name": "C P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "R, Kannadasan",
+        "short_name": "R K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, Tamil Nadu, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in artificial intelligence"
+    ],
+    "journal_abbrev": [
+      "Front Artif Intell"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 00:33",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827903",
+      "42475469",
+      "42356872",
+      "42443634",
+      "42655427",
+      "41520017",
+      "42251076",
+      "42328292",
+      "42698774",
+      "42471473",
+      "42197812",
+      "42709722",
+      "40593899",
+      "41193525",
+      "42162171",
+      "42719751",
+      "42673578",
+      "42174001",
+      "42449777",
+      "38781186",
+      "41419964",
+      "40849566",
+      "42645060",
+      "42420463",
+      "42245940",
+      "42236795",
+      "42373757",
+      "42393119",
+      "42106383",
+      "41721001",
+      "41154264",
+      "42726781",
+      "42292517",
+      "41587070",
+      "39563355",
+      "42170312",
+      "42191763",
+      "40995028",
+      "41315381",
+      "42620577",
+      "42351452",
+      "42264354",
+      "41072899",
+      "42056187",
+      "41761093",
+      "41901583",
+      "42289525",
+      "42756160",
+      "42218311",
+      "41743650",
+      "42129255",
+      "36691661",
+      "42744846",
+      "42139255",
+      "36321557",
+      "40418571",
+      "42000899",
+      "42686802",
+      "41161340",
+      "39397055",
+      "42200970",
+      "42639073",
+      "42034912",
+      "42590667",
+      "42469286",
+      "38277426",
+      "41290901",
+      "42297985",
+      "41986486",
+      "42351902",
+      "41310253",
+      "41460870",
+      "41694647",
+      "42624916",
+      "42191877",
+      "42277292",
+      "42151202",
+      "41311650",
+      "42270697",
+      "41912385",
+      "41266631",
+      "42289511",
+      "42321239",
+      "34941549",
+      "41289812",
+      "42562833",
+      "42577266",
+      "41633286",
+      "41172295",
+      "42592433",
+      "42321280",
+      "41177067",
+      "42740281",
+      "41471514",
+      "41896636",
+      "40863882",
+      "41422107",
+      "41998703",
+      "42174084",
+      "42122383"
+    ],
+    "review": [
+      "42827903",
+      "36321557",
+      "42200970",
+      "41912385"
+    ],
+    "pmc": [
+      "13632483"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3432",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/frai.2026.1893433",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

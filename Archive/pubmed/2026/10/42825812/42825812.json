@@ -1,0 +1,300 @@
+{
+  "identity": {
+    "pmid": "42825812",
+    "doi": "10.1021/acssensors.6c02981",
+    "title": "Single-Atom Nanozyme Integrated Double-Clasp Transition Probe-Driven CRISPR/Cas12a Cascade for Preamplification-Free Detection of Non-Nucleic Acid Targets."
+  },
+  "content": {
+    "abstract": "CRISPR/Cas12a diagnostics have greatly advanced nucleic acid testing, yet their extension to non-nucleic acid targets remains constrained by the intricate preamplification process and by inefficient signal transduction. Herein, we present a non-nucleic acid detection platform that integrates a CRISPR/Cas12a positive-feedback cascade with a single-atom nanozyme. In this strategy, cleavage of the designed double-clasp transition probe (DCTP) activates additional Cas12a ribonucleoprotein (RNP) complexes, enabling cascade signal amplification without a preamplification treatment. Meanwhile, the created single-atom Pt-engineered PdCeB nanozyme (Pt1/PdCeB SAN) functions as an efficient electrochemiluminescence (ECL) nanolabel in the luminol/O2 system, converting dissolved oxygen (O2) into reactive oxygen species (ROS) to produce a robust ECL response without an external coreactant. Using human epidermal growth factor receptor 2 (HER2) as a clinically relevant non-nucleic acid target, the DCTP-driven Cas12a positive-feedback system shortened the cleavage time from 33 min in the conventional Cas12a system to 18 min and achieved a wide linear range from 10-3 to 104 ng/mL, with a low detection limit of 0.513 pg/mL. Furthermore, preliminary analysis of 31 clinical serum samples supported the feasibility of the strategy for quantitative serum HER2 (sHER2) determination, although validation in larger independent cohorts is required.",
+    "keywords": [
+      "DCTP-driven CRISPR/Cas12a positive-feedback",
+      "HER2",
+      "electrochemiluminescence",
+      "non-nucleic acid target",
+      "single-atom nanozyme"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Jianle",
+        "Tian, Qiuyun",
+        "Li, Yuling",
+        "Qin, Yaqi",
+        "Xiong, Xiaorong",
+        "Ding, Shijia",
+        "Xu, Wenchun",
+        "Shen, Meiying",
+        "Liu, Changjin"
+      ],
+      "short_names": [
+        "Wang J",
+        "Tian Q",
+        "Li Y",
+        "Qin Y",
+        "Xiong X",
+        "Ding S",
+        "Xu W",
+        "Shen M",
+        "Liu C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9183-1656",
+        "ORCID: 0000-0001-7437-1590"
+      ],
+      "affiliations": [
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Chongqing University, Chongqing400062, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Department of Breast and Thyroid Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+        "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Chongqing University, Chongqing400062, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Jianle",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Tian, Qiuyun",
+        "short_name": "Tian Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Yuling",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Qin, Yaqi",
+        "short_name": "Qin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Xiaorong",
+        "short_name": "Xiong X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Chongqing University, Chongqing400062, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Shijia",
+        "short_name": "Ding S",
+        "identifiers": [
+          "0000-0002-9183-1656"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wenchun",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Shen, Meiying",
+        "short_name": "Shen M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast and Thyroid Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Changjin",
+        "short_name": "Liu C",
+        "identifiers": [
+          "0000-0001-7437-1590"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, P.R. China.",
+          "Department of Laboratory Medicine, Renji Hospital, School of Medicine, Chongqing University, Chongqing400062, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 17:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42825812",
+      "42387193",
+      "38472096",
+      "42648078",
+      "42641282",
+      "42808823",
+      "41039127",
+      "38280789",
+      "35857897",
+      "41913088",
+      "35780537",
+      "37162995",
+      "42659818",
+      "41257956",
+      "40749504",
+      "35339823",
+      "35719360",
+      "40036525",
+      "39880501",
+      "42296867",
+      "41287270",
+      "34794559",
+      "39018310",
+      "40845666",
+      "40157150",
+      "38815319",
+      "41191401",
+      "41526103",
+      "39904299",
+      "37027291",
+      "40862940",
+      "41576437",
+      "42503780",
+      "37402133",
+      "41652143",
+      "37598442",
+      "36697180",
+      "34928030",
+      "42184676",
+      "33412428",
+      "40187291",
+      "42763149",
+      "40914019",
+      "41252908",
+      "39603211",
+      "36651835",
+      "38128320",
+      "40156991",
+      "40735058",
+      "41144643",
+      "35132857",
+      "41614690",
+      "42607467",
+      "42715083",
+      "38490023",
+      "38232570",
+      "41104129",
+      "37996158",
+      "36821893",
+      "40270429",
+      "40558442",
+      "38249803",
+      "42394280",
+      "40277382",
+      "42330669",
+      "31800219",
+      "41935011",
+      "40183844",
+      "38653014",
+      "42689595",
+      "42391661",
+      "35946354",
+      "41603277",
+      "42674033",
+      "42417866",
+      "42399613",
+      "37029907",
+      "39784310",
+      "39367442",
+      "42269453",
+      "42600477",
+      "41183412",
+      "41800529",
+      "38319081",
+      "39052979",
+      "42610192",
+      "42068913",
+      "42677878",
+      "42478827",
+      "34665590",
+      "41955813",
+      "40360969",
+      "41573851",
+      "40213154",
+      "42160542",
+      "36813457",
+      "40719616",
+      "42707723",
+      "41118634",
+      "39307577"
+    ],
+    "review": [
+      "42825812",
+      "38232570",
+      "40558442",
+      "38249803",
+      "37029907"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-7",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-192",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c02981",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

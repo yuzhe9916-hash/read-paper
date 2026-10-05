@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42807861",
+    "doi": "10.7150/ijbs.132728",
+    "title": "Functional Genomic Screening Identifies lncRNA CNPY2-AS1 as a Regulator of Redox Metabolism and Antiviral Immunity."
+  },
+  "content": {
+    "abstract": "The human genome encodes thousands of long non-coding RNAs (lncRNAs) that regulate innate immunity and viral life cycles, yet their roles in viral entry remain understudied. Here, we conducted a genome-wide CRISPR interference screen to identify lncRNAs that regulate SARS-CoV-2 entry. We identified two lncRNAs that modulate angiotensin-converting enzyme 2 (ACE2) dependent viral entry through distinct mechanisms. Our findings suggest that the RP11-314A20.5 locus acts as a cis-regulatory element that modulates the expression of neighboring genes, including MED11 and CXCL16, linking this genomic region to host pathways associated with SARS-CoV-2 entry and COVID-19 severity. In contrast, CNPY2-AS1 functions in trans as a central regulator coupling cellular redox homeostasis to innate immune signaling. Mechanistically, CNPY2-AS1 associates with thioredoxin reductase 1 (TXNRD1), a key enzyme that limits reactive oxygen species. Loss of CNPY2-AS1 disrupts redox balance, triggering ligand-independent STAT1 activation and IRF7-mediated interferon and inflammatory responses. This dysregulated program has dual effects: induction of the interferon-stimulated gene PLSCR1 restricts viral entry by reducing cell-surface ACE2, while concurrent cytokine activation recapitulates features of pathological inflammation in severe COVID-19. Consistently, clinical datasets show reduced CNPY2-AS1 expression in patients with fatal disease. Together, these findings reveal distinct lncRNA-mediated mechanisms regulating SARS-CoV-2 entry and identify CNPY2-AS1 as a critical integrator of redox metabolism and innate antiviral immunity.",
+    "keywords": [
+      "SARS-CoV-2",
+      "innate immunity",
+      "interferon-stimulated genes (ISGs)",
+      "long non-coding RNA (lncRNA)",
+      "redox homeostasis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*RNA, Long Noncoding/genetics/metabolism",
+      "Oxidation-Reduction",
+      "*Immunity, Innate/genetics",
+      "*COVID-19/immunology/genetics/virology/metabolism",
+      "*SARS-CoV-2/physiology",
+      "Angiotensin-Converting Enzyme 2/metabolism/genetics",
+      "Virus Internalization",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Khoury, Carolina",
+        "Ali-Nasser, Tahleel",
+        "Eliahu, Yuval Ben",
+        "Silawi, Haya Dahamshy",
+        "Yaakov, Liran Ben",
+        "Rousseau, Simon",
+        "Devaux, Yvan",
+        "Lahoud-Jeries, Nisrine",
+        "Bester, Assaf C"
+      ],
+      "short_names": [
+        "Khoury C",
+        "Ali-Nasser T",
+        "Eliahu YB",
+        "Silawi HD",
+        "Yaakov LB",
+        "Rousseau S",
+        "Devaux Y",
+        "Lahoud-Jeries N",
+        "Bester AC"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel.",
+        "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel.",
+        "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel.",
+        "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel.",
+        "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel.",
+        "The Meakins-Christie Laboratories at the Research Institute of the McGill University Health Center, & Department of Medicine, Faculty of Medicine, McGill University, Montreal, QC, Canada.",
+        "Cardiovascular Research Unit, Department of Precision Health, Luxembourg Institute of Health, 1A-B rue Edison, L-1445 Strassen, Luxembourg.",
+        "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel.",
+        "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Khoury, Carolina",
+        "short_name": "Khoury C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+        ]
+      },
+      {
+        "full_name": "Ali-Nasser, Tahleel",
+        "short_name": "Ali-Nasser T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+        ]
+      },
+      {
+        "full_name": "Eliahu, Yuval Ben",
+        "short_name": "Eliahu YB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+        ]
+      },
+      {
+        "full_name": "Silawi, Haya Dahamshy",
+        "short_name": "Silawi HD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+        ]
+      },
+      {
+        "full_name": "Yaakov, Liran Ben",
+        "short_name": "Yaakov LB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+        ]
+      },
+      {
+        "full_name": "Rousseau, Simon",
+        "short_name": "Rousseau S",
+        "identifiers": [],
+        "affiliations": [
+          "The Meakins-Christie Laboratories at the Research Institute of the McGill University Health Center, & Department of Medicine, Faculty of Medicine, McGill University, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Devaux, Yvan",
+        "short_name": "Devaux Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiovascular Research Unit, Department of Precision Health, Luxembourg Institute of Health, 1A-B rue Edison, L-1445 Strassen, Luxembourg."
+        ]
+      },
+      {
+        "full_name": "Lahoud-Jeries, Nisrine",
+        "short_name": "Lahoud-Jeries N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+        ]
+      },
+      {
+        "full_name": "Bester, Assaf C",
+        "short_name": "Bester AC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Technion-Israel Institute of Technology, 3200003, Haifa, Israel."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42807861",
+      "42496117",
+      "41093073",
+      "39945535",
+      "38814864",
+      "40130878",
+      "34287042",
+      "34204705",
+      "36466827",
+      "35664076",
+      "32646047",
+      "34954105",
+      "36321836",
+      "32913009",
+      "33607284",
+      "39773901",
+      "36001732",
+      "33802569",
+      "42245674",
+      "33103998",
+      "41855156",
+      "39294414",
+      "33610551",
+      "34445373",
+      "35862802",
+      "40353671",
+      "33658332",
+      "35250984",
+      "28202761",
+      "41427721",
+      "33275517",
+      "31045320",
+      "34249006",
+      "33707363",
+      "42536071",
+      "33669132",
+      "33147444",
+      "38651897",
+      "34248968",
+      "39791910",
+      "34065735",
+      "34671355",
+      "41159753",
+      "41268552",
+      "42435246",
+      "42684673",
+      "38349185",
+      "38592458",
+      "34408749",
+      "34663909",
+      "40530850",
+      "41554833",
+      "41422848",
+      "31363026",
+      "34578296",
+      "33574281",
+      "37579743",
+      "41316318",
+      "39637135",
+      "34359983",
+      "40597093",
+      "37967509",
+      "41959565",
+      "42008572",
+      "33633121",
+      "32574272",
+      "33963054",
+      "40539804",
+      "40696792",
+      "39316623",
+      "34122413",
+      "40157321",
+      "34646390",
+      "40895576",
+      "42698575",
+      "33893170",
+      "39287877",
+      "41175624",
+      "34324210",
+      "35150743",
+      "33505220",
+      "42117769",
+      "33475497",
+      "34433867",
+      "33368788",
+      "33805458",
+      "39175256",
+      "42782124",
+      "40674406",
+      "33418950",
+      "40749010",
+      "33407110",
+      "33081670",
+      "33763088",
+      "33853968",
+      "34228987",
+      "34935438",
+      "34378952",
+      "33147445",
+      "38953634"
+    ],
+    "review": [
+      "42807861",
+      "33607284",
+      "34445373",
+      "41427721",
+      "33275517",
+      "33707363",
+      "34065735",
+      "34408749",
+      "32574272",
+      "40157321",
+      "39287877",
+      "33505220",
+      "33368788",
+      "33805458",
+      "33081670"
+    ],
+    "pmc": [
+      "13618004"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COVID-19 (Coronavirus Disease 2019)"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STAT1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.ijbs.com/v22p7760.htm",
+        "provider": "Ivyspring International Publisher",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

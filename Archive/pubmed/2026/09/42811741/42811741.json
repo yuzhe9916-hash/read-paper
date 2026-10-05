@@ -1,0 +1,327 @@
+{
+  "identity": {
+    "pmid": "42811741",
+    "doi": "10.1002/cam4.72331",
+    "title": "Optimizing the ER Cutoff in HER2-Positive Breast Cancer: ER >/= 50% Predicts Low pCR Rates and Resistance to Antibody-Drug Conjugates in the Neoadjuvant Setting."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Estrogen receptor (ER)-positive/HER2-positive breast cancer demonstrates significantly lower rates of pathological complete response (pCR) to neoadjuvant HER2-targeted therapies compared to ER-negative/HER2-positive disease. However, the optimal ER positivity cutoff for clinically meaningful patient stratification remains undefined. METHODS: We analyzed a retrospective cohort of 741 HER2-positive breast cancer patients treated with neoadjuvant chemotherapy plus dual HER2 blockade (trastuzumab and pertuzumab) at Sun Yat-sen University Cancer Center. The optimal ER cutoff for predicting pCR was determined by ROC analysis with Youden index and validated by bootstrap resampling (1000 iterations). Transcriptomic data from TCGA and SCAN-B cohorts were analyzed to characterize biological differences between ER subgroups. Drug response was predicted using the oncoPredict algorithm, and cancer dependency was assessed using DepMap CRISPR screening data. RESULTS: ER >/= 50% positivity was identified as the optimal predictive cutoff (bootstrap 95% CI: 25.0%-77.5%) and was an independent predictor of significantly lower pCR rates in multivariate analysis (OR = 0.27; 95% CI: 0.19-0.40; p < 0.001). Transcriptomic analysis revealed that ER >/= 50% tumors are characterized by activated estrogen response signaling, downregulated cell cycle and immune pathways. Predicted resistance to trastuzumab, T-DM1, and T-DXd was consistently enriched in this subgroup, consistent with lower HER2 and CD16A expression observed in ER >/= 50% tumors. CCND1, a canonical transcriptional target of ESR1, was significantly upregulated in ER >/= 50% tumors across both cohorts, and ER + /HER2 + cell lines exhibited significantly higher CCND1 and CDK4 dependency scores in DepMap CRISPR screening (p < 0.05), supporting activation of the ESR1-CCND1-CDK4/6 axis in this subgroup. CONCLUSIONS: ER >/= 50% positivity defines a clinically and biologically distinct HER2-positive subgroup with poor response to standard neoadjuvant therapy and predicted resistance to ADCs, consistent with lower HER2 and CD16A expression in this subgroup. The convergent transcriptomic and functional evidence for ESR1-CCND1 axis activation provides mechanistic support for combining CDK4/6 inhibitors with endocrine and anti-HER2 therapies to improve outcomes in this resistant subgroup.",
+    "keywords": [
+      "CDK4/6 inhibitor",
+      "ER cutoff",
+      "HER2-positive breast cancer",
+      "antibody-drug conjugate resistance",
+      "pathological complete response"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*Breast Neoplasms/drug therapy/genetics/metabolism/pathology",
+      "*Erb-b2 Receptor Tyrosine Kinases/metabolism/antagonists & inhibitors",
+      "Neoadjuvant Therapy",
+      "Pathologic Complete Response",
+      "*Drug Resistance, Neoplasm",
+      "Antibodies, Monoclonal, Humanized/therapeutic use/administration & dosage",
+      "Trastuzumab/therapeutic use/administration & dosage",
+      "*Receptors, Estrogen/metabolism",
+      "Retrospective Studies",
+      "*Antineoplastic Combined Chemotherapy Protocols/therapeutic use",
+      "Biomarkers, Tumor/metabolism",
+      "Middle Aged",
+      "Cyclin D1/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Du, Tian",
+        "Lin, Min",
+        "Liang, Gehao",
+        "Wang, Yan",
+        "Wu, Hao",
+        "Zhao, Zixuan",
+        "Sun, Luhao",
+        "Tang, Jun"
+      ],
+      "short_names": [
+        "Du T",
+        "Lin M",
+        "Liang G",
+        "Wang Y",
+        "Wu H",
+        "Zhao Z",
+        "Sun L",
+        "Tang J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0841-6484",
+        "ORCID: 0000-0002-9788-8389"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Ultrasound, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+        "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Du, Tian",
+        "short_name": "Du T",
+        "identifiers": [
+          "0000-0003-0841-6484"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Min",
+        "short_name": "Lin M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Ultrasound, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Gehao",
+        "short_name": "Liang G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Hao",
+        "short_name": "Wu H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zixuan",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Luhao",
+        "short_name": "Sun L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Jun",
+        "short_name": "Tang J",
+        "identifiers": [
+          "0000-0002-9788-8389"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China.",
+          "Department of Breast Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer medicine"
+    ],
+    "journal_abbrev": [
+      "Cancer Med"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811741",
+      "25200445",
+      "42512912",
+      "41056055",
+      "40762650",
+      "41793659",
+      "42391855",
+      "29564743",
+      "42097893",
+      "28682681",
+      "41109527",
+      "40259803",
+      "40687942",
+      "38789924",
+      "41461598",
+      "40821778",
+      "41985721",
+      "40583394",
+      "42706495",
+      "31953696",
+      "29326029",
+      "28183321",
+      "40963050",
+      "41091451",
+      "41423595",
+      "41316480",
+      "41508104",
+      "41496262",
+      "41130363",
+      "42210329",
+      "41963560",
+      "42127583",
+      "41176781",
+      "41719831",
+      "34213778",
+      "41739091",
+      "28945833",
+      "41963621",
+      "36631725",
+      "38456970",
+      "42150145",
+      "42512804",
+      "42116617",
+      "42393615",
+      "39087959",
+      "39477071",
+      "41691084",
+      "42823184",
+      "41466313",
+      "40049115",
+      "24080156",
+      "42018935",
+      "22123186",
+      "40318646",
+      "39617646",
+      "26704052",
+      "41713473",
+      "41790341",
+      "41272387",
+      "41557021",
+      "23679233",
+      "38867307",
+      "23645542",
+      "42425154",
+      "41593097",
+      "40769278",
+      "30778520",
+      "41780642",
+      "23108629",
+      "42075632",
+      "33357420",
+      "39826476",
+      "38368871",
+      "40214840",
+      "42155177",
+      "29175149",
+      "40866060",
+      "40348907",
+      "38575192",
+      "31477168",
+      "39986012",
+      "38281565",
+      "41387082",
+      "31428908",
+      "42708797",
+      "37871573",
+      "35254385",
+      "38582875",
+      "41944956",
+      "22644656",
+      "41165839",
+      "36809046",
+      "38538968",
+      "40349259",
+      "35405088",
+      "38906970",
+      "38588682",
+      "38615482",
+      "42786451",
+      "40067607"
+    ],
+    "review": [
+      "42811741",
+      "41793659",
+      "41508104",
+      "24080156",
+      "42018935",
+      "42425154"
+    ],
+    "pmc": [
+      "13624533"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/cam4.72331",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CCND1-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-145",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

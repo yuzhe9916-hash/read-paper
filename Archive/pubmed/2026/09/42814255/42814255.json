@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42814255",
+    "doi": "10.1007/s00604-026-08419-3",
+    "title": "Phosphorylation-asymmetric recombinase polymerase amplification enables target-directed circularization for ultrasensitive multiplex electrochemical detection of respiratory pathogens."
+  },
+  "content": {
+    "abstract": "Target-directed circularization has emerged as an efficient strategy for rolling circle amplification (RCA); however, its application to double-stranded DNA (dsDNA) remains challenging because genomic DNA cannot directly generate ligation-ready circular templates. Herein, we report a phosphorylation-asymmetric recombinase polymerase amplification (PA-RPA) strategy that directly converts dsDNA into ligation-ready single-stranded templates, thereby enabling target-directed circularization without requiring predesigned padlock probes. To facilitate multiplex analysis, a universal terminal sequence was incorporated into all PA-RPA products, allowing different targets to share a common bridge oligonucleotide for circular template construction and substantially simplifying assay design. The generated circular templates initiate Phi29 polymerase-mediated RCA, while Cas12a-mediated cleavage releases secondary primers that continuously regenerate amplification intermediates through a positive-feedback circuit. Coupled with a signal-off electrochemical transduction platform based on stem-loop probes immobilized on screen-printed carbon electrodes, the proposed strategy enabled simultaneous detection of Staphylococcus aureus (S. aureus) and Acinetobacter baumannii (A. baumannii). The biosensor achieved detection limits of 0.33 aM and 0.45 aM for S. aureus and A. baumannii, respectively, with a linear range from 1 aM to 10 pM, together with excellent specificity, satisfactory storage stability, and reliable analytical performance in simulated clinical samples. By establishing a general template-conversion strategy for target-directed circularization of dsDNA and a universal circularization design compatible with multiplex analysis, this work expands the applicability of RCA-based molecular diagnostics and provides a versatile analytical framework for CRISPR-powered electrochemical nucleic acid detection.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "Electrochemical biosensor",
+      "Phosphorylation-asymmetric RPA",
+      "Rolling circle amplification",
+      "Target-directed circularization"
+    ],
+    "mesh_terms": [
+      "*Nucleic Acid Amplification Techniques/methods",
+      "*Electrochemical Techniques/methods",
+      "*Recombinases/chemistry/metabolism",
+      "*Biosensing Techniques/methods",
+      "*Staphylococcus aureus/isolation & purification/genetics",
+      "*Acinetobacter baumannii/isolation & purification/genetics",
+      "Limit of Detection",
+      "Phosphorylation",
+      "Humans",
+      "DNA, Circular/chemistry",
+      "DNA, Bacterial/genetics/analysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Han, Yemin",
+        "Yu, Haotian",
+        "Lv, Manman",
+        "Cheng, Mengqing",
+        "Ge, Houyang",
+        "Gao, Song",
+        "Yin, Lu",
+        "Ge, Qinyu",
+        "Xu, Xinping",
+        "Huang, Yan",
+        "Sun, Longhua",
+        "Lu, Zuhong",
+        "Liu, Quanjun"
+      ],
+      "short_names": [
+        "Han Y",
+        "Yu H",
+        "Lv M",
+        "Cheng M",
+        "Ge H",
+        "Gao S",
+        "Yin L",
+        "Ge Q",
+        "Xu X",
+        "Huang Y",
+        "Sun L",
+        "Lu Z",
+        "Liu Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China. ndyfy05715@ncu.edu.cn.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China. lqj@seu.edu.cn.",
+        "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China. lqj@seu.edu.cn.",
+        "Southeast University Shenzhen Research Institute, Shenzhen, 518063, China. lqj@seu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Han, Yemin",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yu, Haotian",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lv, Manman",
+        "short_name": "Lv M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Mengqing",
+        "short_name": "Cheng M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ge, Houyang",
+        "short_name": "Ge H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Gao, Song",
+        "short_name": "Gao S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yin, Lu",
+        "short_name": "Yin L",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Qinyu",
+        "short_name": "Ge Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xinping",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yan",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sun, Longhua",
+        "short_name": "Sun L",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China. ndyfy05715@ncu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Lu, Zuhong",
+        "short_name": "Lu Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Quanjun",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, No. 2, Jiulonghu, Nanjing, 211189, People's Republic of China. lqj@seu.edu.cn.",
+          "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China. lqj@seu.edu.cn.",
+          "Southeast University Shenzhen Research Institute, Shenzhen, 518063, China. lqj@seu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Mikrochimica acta"
+    ],
+    "journal_abbrev": [
+      "Mikrochim Acta"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 17:32",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42814255",
+      "41172776",
+      "42401475",
+      "40036525",
+      "41257956",
+      "24561524",
+      "40354233",
+      "39662170",
+      "42176210",
+      "27506343",
+      "25220140",
+      "42669262",
+      "27086663",
+      "42391661",
+      "42702479",
+      "39492216",
+      "41093520",
+      "41217936",
+      "36027620",
+      "39740588",
+      "42148916",
+      "39721602",
+      "39791925",
+      "42322947",
+      "40422056",
+      "42124419",
+      "36853410",
+      "42330669",
+      "29690742",
+      "22270050",
+      "42299600",
+      "40803011",
+      "40496013",
+      "42269411",
+      "41252908",
+      "39778823",
+      "31086898",
+      "25500527",
+      "42189760",
+      "30616213",
+      "40382111",
+      "36126557",
+      "41990423",
+      "25022510",
+      "31927667",
+      "40711424",
+      "31357296",
+      "40651075",
+      "20151715",
+      "39987655",
+      "40015791",
+      "31358225",
+      "42424999",
+      "40719616",
+      "38951263",
+      "32680560",
+      "40961645",
+      "40419416",
+      "28740223",
+      "31196420",
+      "39116629",
+      "39632313",
+      "36893726",
+      "27220649",
+      "29594734",
+      "38104453",
+      "40331901",
+      "42031246",
+      "40499384",
+      "41498795",
+      "24899364",
+      "41073018",
+      "36943040",
+      "40811070",
+      "41093528",
+      "40163950",
+      "41264498",
+      "33723966",
+      "26334590",
+      "33470807",
+      "40374242",
+      "26385733",
+      "37323073",
+      "41135356",
+      "40749504",
+      "38228008",
+      "42046341",
+      "41161233",
+      "25877998",
+      "39254031",
+      "39644678",
+      "40286970",
+      "41722363",
+      "36723078",
+      "39755075",
+      "35671698",
+      "30990481",
+      "33980009",
+      "41499124",
+      "39831800"
+    ],
+    "review": [
+      "42814255"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

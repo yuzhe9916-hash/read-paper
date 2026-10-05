@@ -1,0 +1,326 @@
+{
+  "identity": {
+    "pmid": "42815826",
+    "doi": "10.1016/j.nbt.2026.09.007",
+    "title": "Engineered Escherichia coli Nissle with an inducible phenylalanine degrading cassette and a multi-input kill switch."
+  },
+  "content": {
+    "abstract": "Engineered probiotics provide new avenues for disease management through diagnostic sensing, delivery of bioactive molecules, and modulation of host-microbiome interactions. However, successful clinical translation requires rational safeguards preventing unintended environmental release. We report an integrated phenylalanine (Phe) sensor and CRISPR-based kill-switch biocontainment system for phenylketonuria (PKU) management. We engineered KSPAL, a strain of Escherichia coli Nissle (EcN) 1917, to sense gut Phe levels and responsively express phenylalanine ammonia lyase (PAL). The kill switch triggers bacterial death below 33 degrees C or upon anhydrotetracycline (aTc) administration, ensuring post-excretion clearance. In vitro, KSPAL demonstrated dose-dependent degradation, achieving more than 60-fold Phe reduction following a 1000 micromol/L Phe spike, and bacterial death upon aTc or temperature induction. In vivo, KSPAL treatment reduced serum Phe by threefold 2-hours post Phe bolus, and KSPAL death 24-hours post aTc induction. This work presents a tunable therapeutic platform for PKU disease management via engineered probiotics.",
+    "keywords": [
+      "Biocontainment",
+      "Escherichia coli Nissle",
+      "Kill switch",
+      "Phenylalanine sensor",
+      "Phenylketonuria",
+      "Probiotic"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Evbuomwan, Esse M",
+        "Khanna, Sakshi",
+        "Xi, Chenggang",
+        "Rottinghaus, Austin G",
+        "Ferreiro, Aura",
+        "Kwak, Suryang",
+        "Butler, Blake",
+        "Ning, Jie",
+        "Najari, Jasmine",
+        "Liao, James",
+        "Diao, Harry",
+        "Moon, Tae Seok",
+        "Dantas, Gautam"
+      ],
+      "short_names": [
+        "Evbuomwan EM",
+        "Khanna S",
+        "Xi C",
+        "Rottinghaus AG",
+        "Ferreiro A",
+        "Kwak S",
+        "Butler B",
+        "Ning J",
+        "Najari J",
+        "Liao J",
+        "Diao H",
+        "Moon TS",
+        "Dantas G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Biomedical Engineering, Washington University in St Louis, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA. Electronic address: e.esse@wustl.edu.",
+        "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Energy, Environmental and Chemical Engineering, Washington University in St Louis, St. Louis, MO, USA.",
+        "Department of Energy, Environmental and Chemical Engineering, Washington University in St Louis, St. Louis, MO, USA.",
+        "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Biomedical Engineering, Washington University in St Louis, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA.",
+        "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Biology, Washington University in St. Louis, MO, USA.",
+        "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Biology, Washington University in St. Louis, MO, USA.",
+        "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Biology, Washington University in St. Louis, MO, USA.",
+        "Department of Energy, Environmental and Chemical Engineering, Washington University in St Louis, St. Louis, MO, USA; Synthetic Biology Group, J. Craig Venter Institute, La Jolla, CA, USA. Electronic address: tsmoon@jcvi.org.",
+        "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Biomedical Engineering, Washington University in St Louis, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA; Department of Molecular Microbiology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pediatrics, Washington University School of Medicine, St. Louis, MO, USA. Electronic address: dantas@wustl.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Evbuomwan, Esse M",
+        "short_name": "Evbuomwan EM",
+        "identifiers": [],
+        "affiliations": [
+          "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Biomedical Engineering, Washington University in St Louis, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA. Electronic address: e.esse@wustl.edu."
+        ]
+      },
+      {
+        "full_name": "Khanna, Sakshi",
+        "short_name": "Khanna S",
+        "identifiers": [],
+        "affiliations": [
+          "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Xi, Chenggang",
+        "short_name": "Xi C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Energy, Environmental and Chemical Engineering, Washington University in St Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Rottinghaus, Austin G",
+        "short_name": "Rottinghaus AG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Energy, Environmental and Chemical Engineering, Washington University in St Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Ferreiro, Aura",
+        "short_name": "Ferreiro A",
+        "identifiers": [],
+        "affiliations": [
+          "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Biomedical Engineering, Washington University in St Louis, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Kwak, Suryang",
+        "short_name": "Kwak S",
+        "identifiers": [],
+        "affiliations": [
+          "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Butler, Blake",
+        "short_name": "Butler B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Washington University in St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Ning, Jie",
+        "short_name": "Ning J",
+        "identifiers": [],
+        "affiliations": [
+          "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Najari, Jasmine",
+        "short_name": "Najari J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Washington University in St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Liao, James",
+        "short_name": "Liao J",
+        "identifiers": [],
+        "affiliations": [
+          "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Diao, Harry",
+        "short_name": "Diao H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Washington University in St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Moon, Tae Seok",
+        "short_name": "Moon TS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Energy, Environmental and Chemical Engineering, Washington University in St Louis, St. Louis, MO, USA; Synthetic Biology Group, J. Craig Venter Institute, La Jolla, CA, USA. Electronic address: tsmoon@jcvi.org."
+        ]
+      },
+      {
+        "full_name": "Dantas, Gautam",
+        "short_name": "Dantas G",
+        "identifiers": [],
+        "affiliations": [
+          "The Edison Family Center for Genome Sciences and Systems Biology, Washington University School of Medicine, St. Louis, MO, USA; Department of Biomedical Engineering, Washington University in St Louis, St. Louis, MO, USA; Department of Pathology and Immunology, Division of Laboratory and Genomic Medicine, Washington University School of Medicine, St. Louis, MO, USA; Department of Molecular Microbiology, Washington University School of Medicine, St. Louis, MO, USA; Department of Pediatrics, Washington University School of Medicine, St. Louis, MO, USA. Electronic address: dantas@wustl.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "New biotechnology"
+    ],
+    "journal_abbrev": [
+      "N Biotechnol"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 23:30",
+    "fetched_at": "2026-10-05 18:36:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42815826",
+      "35907113",
+      "34711827",
+      "42478813",
+      "40767874",
+      "39254327",
+      "35115506",
+      "37348465",
+      "30146451",
+      "40907792",
+      "41508204",
+      "34294923",
+      "41766863",
+      "30102294",
+      "37770764",
+      "32593547",
+      "28520731",
+      "35600090",
+      "35947523",
+      "29653686",
+      "39887239",
+      "42803915",
+      "39607341",
+      "37952766",
+      "39115381",
+      "39668804",
+      "41903318",
+      "42662800",
+      "38053938",
+      "16165390",
+      "35551410",
+      "31439512",
+      "40809473",
+      "41418546",
+      "41928294",
+      "42014845",
+      "37717412",
+      "40615889",
+      "26243390",
+      "42573249",
+      "29628378",
+      "41437924",
+      "42465743",
+      "35059423",
+      "27246528",
+      "42451139",
+      "15767015",
+      "33023596",
+      "33411135",
+      "34819582",
+      "21917493",
+      "36551519",
+      "41766140",
+      "28282402",
+      "26229437",
+      "42654318",
+      "27297392",
+      "29973227",
+      "16006165",
+      "37100380",
+      "28398304",
+      "32742934",
+      "15313145",
+      "33130266",
+      "14654660",
+      "33301298",
+      "41628253",
+      "42634901",
+      "34480146",
+      "32636253",
+      "37930328",
+      "37693045",
+      "29291362",
+      "40220173",
+      "30638507",
+      "39022300",
+      "38184920",
+      "40578793",
+      "40277392",
+      "36929190",
+      "35582294",
+      "38694233",
+      "41881076",
+      "23920373",
+      "38506339",
+      "36339343",
+      "38518597",
+      "36350434",
+      "39388898",
+      "38735180",
+      "23312798",
+      "27014571",
+      "40619672",
+      "20421387",
+      "40686611",
+      "28768147",
+      "12227645",
+      "41617014",
+      "24307187",
+      "29661557"
+    ],
+    "review": [
+      "42815826",
+      "40767874",
+      "35947523",
+      "16165390"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1871-6784(26)00112-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ATM-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

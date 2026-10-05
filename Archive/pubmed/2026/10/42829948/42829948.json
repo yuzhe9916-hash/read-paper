@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "42829948",
+    "doi": "10.1002/advs.78118",
+    "title": "Determination of Gene-Level Fitness Contributions Across the Mucin-Utilization Network of Bacteroides thetaiotaomicron."
+  },
+  "content": {
+    "abstract": "Host mucus is a major nutrient reservoir for gut Bacteroidota, yet the gene-level determinants of mucin utilization remain poorly defined. In this study, we used a genome-scale CRISPR interference library in Bacteroides thetaiotaomicron to systematically map fitness contributions across the mucin-utilization network, spanning surface accessibility, glycan degradation, and intracellular sugar assimilation. Our screen identified 1,256 genes with condition-dependent fitness divergence, which revealed a layered organization of mucin-dependent growth. A prominent mucin-specific fitness signature was enrichment of strains with repressed capsular polysaccharide loci. Subsequent competition and deletion experiments validated that specific capsules impede growth on mucin, supporting a surface-accessibility trade-off model. By contrast, most mucin-induced carbohydrate-binding and glycoside hydrolase genes showed negligible fitness contributions, consistent with functional redundancy in extracellular glycan capture and processing. Conversely, downstream sugar catabolism showed pronounced condition-specific constraints, with the galactose-utilization gene BT_0623, causing measurable fitness defects upon repression in both mucin- and galactose-containing media. Finally, comparison with murine colon CRISPRi data revealed broad concordance with the in vitro mucin fitness landscape, while also highlighting environment-specific differences, in CPS- and polysaccharide degradation-associated functions. Together, these results define mucin utilization as a layered fitness architecture governed by surface-accessibility costs, redundant extracellular glycan processing, and downstream metabolic constraints.",
+    "keywords": [
+      "CRISPRi",
+      "bacteroides thetaiotaomicron",
+      "gene fitness",
+      "mucin",
+      "systems biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Kangsan",
+        "Lee, Jiwon",
+        "Kang, Minjeong",
+        "Yim, Sung Sun",
+        "Choe, Donghui",
+        "Cho, Byung-Kwan"
+      ],
+      "short_names": [
+        "Kim K",
+        "Lee J",
+        "Kang M",
+        "Yim SS",
+        "Choe D",
+        "Cho BK"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-7308-6970",
+        "ORCID: 0000-0001-5060-0344",
+        "ORCID: 0000-0003-1107-7380",
+        "ORCID: 0000-0003-4788-4184"
+      ],
+      "affiliations": [
+        "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Department of Biological Sciences, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Kangsan",
+        "short_name": "Kim K",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+          "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Jiwon",
+        "short_name": "Lee J",
+        "identifiers": [
+          "0009-0005-7308-6970"
+        ],
+        "affiliations": [
+          "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+          "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kang, Minjeong",
+        "short_name": "Kang M",
+        "identifiers": [],
+        "affiliations": [
+          "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+          "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Yim, Sung Sun",
+        "short_name": "Yim SS",
+        "identifiers": [
+          "0000-0001-5060-0344"
+        ],
+        "affiliations": [
+          "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+          "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+          "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Choe, Donghui",
+        "short_name": "Choe D",
+        "identifiers": [
+          "0000-0003-1107-7380"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Sungkyunkwan University, Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Cho, Byung-Kwan",
+        "short_name": "Cho BK",
+        "identifiers": [
+          "0000-0003-4788-4184"
+        ],
+        "affiliations": [
+          "Graduate School of Engineering Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+          "KAIST Institute for the Bioinnovation, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+          "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 17:29",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42829948",
+      "42475469",
+      "38376161",
+      "26556271",
+      "41784630",
+      "34251866",
+      "21507958",
+      "39636128",
+      "41524730",
+      "37425690",
+      "42007719",
+      "34995484",
+      "19403529",
+      "29018117",
+      "38800758",
+      "38018975",
+      "32265336",
+      "27729509",
+      "29794055",
+      "38975756",
+      "23996813",
+      "18996345",
+      "19191477",
+      "28091546",
+      "38293123",
+      "34248864",
+      "22205877",
+      "34420703",
+      "41929022",
+      "27353652",
+      "35102527",
+      "39330254",
+      "40216766",
+      "32576670",
+      "40581599",
+      "40938637",
+      "41040266",
+      "41910254",
+      "42470485",
+      "26148351",
+      "25389179",
+      "42610470",
+      "34731054",
+      "37500984",
+      "30367006",
+      "32518945",
+      "16968696",
+      "39747016",
+      "31690674",
+      "34149636",
+      "25664752",
+      "42190813",
+      "24330590",
+      "36824877",
+      "39565129",
+      "28687644",
+      "25205092",
+      "36523841",
+      "38947523",
+      "37874167",
+      "30262663",
+      "35308349",
+      "41856961",
+      "34817219",
+      "38604595",
+      "23646867",
+      "33587952",
+      "33657378",
+      "42478819",
+      "23692866",
+      "38468085",
+      "30193959",
+      "40654848",
+      "37090677",
+      "37461508",
+      "34616040",
+      "31420336",
+      "41562624",
+      "42359789",
+      "41831674",
+      "36847513",
+      "24062455",
+      "37733741",
+      "16735464",
+      "41240073",
+      "23976882",
+      "37598339",
+      "38879612",
+      "25852737",
+      "41742329",
+      "29717710",
+      "38294941",
+      "37670028",
+      "25795776",
+      "42569704",
+      "41277474",
+      "30553858",
+      "36106896",
+      "22686399",
+      "36862572"
+    ],
+    "review": [
+      "42829948",
+      "34731054",
+      "25852737"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

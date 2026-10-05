@@ -1,0 +1,278 @@
+{
+  "identity": {
+    "pmid": "42804994",
+    "doi": "10.1016/j.bios.2026.119263",
+    "title": "A CRISPR/Cas14a-based platform for sensitive and specific single-nucleotide variant detection via short single-strand DNA amplification and split target design."
+  },
+  "content": {
+    "abstract": "Single-nucleotide variant (SNV) detection, including tumor-associated mutation detection and pharmacogenetic genotyping, holds significant clinical value. Among current methods, CRISPR/Cas14a-based approaches offer advantages in specificity, sensitivity, and efficiency. However, the inherent single-stranded DNA (ssDNA) targeting property of Cas14a limits its direct application to genomic DNA detection, and its specificity requires further optimization to meet clinical standards. Here, we developed a CRISPR/Cas14a system based on short ssDNA amplification and split target design (SAST), which substantially enhances specificity through split target design while achieving high sensitivity via short ssDNA amplification. Experimental results demonstrate that SAST system achieves a Concentration LOD (limit of detection) of 100 aM for target DNA and a MAF (mutant allele frequency) LOD of 0.00001% in simulated samples. The platform was successfully validated for SNV detection in tumor samples (KRAS G12D, rs121913529, c.35G > A) and pharmacogenetic genotyping (CYP2C19*2, rs4244285, c.681G > A; CYP2C19*3, rs4986893, c.636G > A; and CYP2C19*17, rs12248560, c.806C > T). SAST system offers a novel method for clinical single-base mutation detection and is expected to find broad applications in early cancer diagnosis and precision medicine.",
+    "keywords": [
+      "CRISPR/Cas14a",
+      "Short ssDNA amplification",
+      "Single-nucleotide variant detection",
+      "Split target design"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Yibo",
+        "Liao, Yangwei",
+        "Wang, Xiaoxiang",
+        "Yuan, Tian",
+        "Qiao, Liang",
+        "Luo, Yugang",
+        "Pan, Shutao",
+        "Li, Xu",
+        "Zhu, Feng"
+      ],
+      "short_names": [
+        "Hu Y",
+        "Liao Y",
+        "Wang X",
+        "Yuan T",
+        "Qiao L",
+        "Luo Y",
+        "Pan S",
+        "Li X",
+        "Zhu F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: shutaopan@tjh.tjmu.edu.cn.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: 2013tj0574@hust.edu.cn.",
+        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: zhufeng@tjh.tjmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Yibo",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Yangwei",
+        "short_name": "Liao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaoxiang",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Tian",
+        "short_name": "Yuan T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Liang",
+        "short_name": "Qiao L",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Yugang",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Shutao",
+        "short_name": "Pan S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: shutaopan@tjh.tjmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Xu",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: 2013tj0574@hust.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhu, Feng",
+        "short_name": "Zhu F",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: zhufeng@tjh.tjmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 23:28",
+    "fetched_at": "2026-10-05 18:37:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42804994",
+      "40664141",
+      "40884799",
+      "42635115",
+      "40020637",
+      "42727495",
+      "36192055",
+      "36701949",
+      "35522948",
+      "41388295",
+      "42571623",
+      "38010835",
+      "37880670",
+      "41286760",
+      "38126108",
+      "34215057",
+      "36463799",
+      "34163711",
+      "41649281",
+      "42679775",
+      "37027291",
+      "32892930",
+      "40976141",
+      "40610153",
+      "39764982",
+      "38772660",
+      "41217936",
+      "41944382",
+      "38815319",
+      "34553468",
+      "39142774",
+      "42385188",
+      "42345886",
+      "40704803",
+      "38058174",
+      "40745870",
+      "35414396",
+      "38781698",
+      "42120643",
+      "39211481",
+      "40093900",
+      "41239088",
+      "42080370",
+      "39798420",
+      "41903969",
+      "40711424",
+      "38014527",
+      "33930753",
+      "42202254",
+      "42148800",
+      "34799170",
+      "41548355",
+      "38477342",
+      "36242902",
+      "40316384",
+      "34602188",
+      "42424186",
+      "41001703",
+      "33862567",
+      "37651913",
+      "31581267",
+      "39570020",
+      "41652143",
+      "37326604",
+      "39673958",
+      "35719360",
+      "40882515",
+      "40422048",
+      "40748247",
+      "40651075",
+      "36214815",
+      "36943040",
+      "40599263",
+      "41500045",
+      "39654027",
+      "40886669",
+      "41855941",
+      "40698640",
+      "40162765",
+      "40890563",
+      "36764772",
+      "41965303",
+      "41257956",
+      "36484104",
+      "31891998",
+      "34515700",
+      "23724122",
+      "42417866",
+      "34087725",
+      "42050530",
+      "40393239",
+      "41192497",
+      "41313207",
+      "34736322",
+      "39439116",
+      "40331901",
+      "41352919",
+      "38521567",
+      "41339622",
+      "32809800"
+    ],
+    "review": [
+      "42804994",
+      "39211481"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00896-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1550",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

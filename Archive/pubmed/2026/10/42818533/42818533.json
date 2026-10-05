@@ -1,0 +1,341 @@
+{
+  "identity": {
+    "pmid": "42818533",
+    "doi": "10.21203/rs.3.rs-8594804/v1",
+    "title": "Human iPSC models reveal APOE4-induced microglial remodeling and extracellular vesicle dysregulation in AD pathogenesis."
+  },
+  "content": {
+    "abstract": "The apolipoprotein E epsilon4 ( APOE4 ) allele is the strongest genetic risk factor for late-onset Alzheimer's disease (AD), yet the mechanistic underpinnings by which it alters human microglial function remain poorly understood. Here, we utilize CRISPR/Cas9-engineered isogenic human induced pluripotent stem cell-derived microglia-like cells (iMGs) expressing APOE3 or APOE4 to systematically interrogate genotype-dependent effects on microglial proteomes and their secreted extracellular vesicles (EVs) under basal and fibrillar amyloid-beta (fAbeta)-challenged conditions. Quantitative proteomics revealed that APOE4 iMGs exhibit downregulated RNA processing, impaired phagocytosis, and exacerbated pro-inflammatory signaling, particularly upon fAbeta exposure. Functionally, APOE4 iMGs demonstrated increased NF-kappaB activation, enhanced neuronal apoptosis and tau pathology in 2D and 3D co-culture systems. Interestingly, APOE4 iMGs released greater amount of EVs enriched in proteasomal components over APOE3 iMG. Integrated proteomic analyses further highlighted APOE4 -specific selective packaging of EV cargo linked to neuron-glia communication, inflammatory signaling, and proteostasis dysregulation, suggesting a potent, non-cell-autonomous mechanism driving neuronal damage. Consistently, these APOE4 iMGEVs were preferentially internalized by neurons, leading to disrupted neuronal proteostasis, impaired neuronal firing, and increased tau phosphorylation, particularly under pathological stress. Notably, pharmacologic inhibition of NF-kappaB in APOE4 iMGs reduced EV cargo-loading of proteasomal molecules and mitigated iMGEV-driven neuronal dysfunction and tau pathology. These findings establish a mechanistic link between APOE4 , dysregulated microglial homeostasis, and microglial EV-mediated propagation of proteostatic dysfunction and neurodegeneration, advancing our understanding of how APOE4 contributes to AD pathogenesis.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ikezu, Tsuneya",
+        "You, Yang",
+        "Nguyen, Son",
+        "Mann, Sean",
+        "Vadakattu, Prakruthi",
+        "Kanekiyo, Takahisa",
+        "Zhang, Zhengrong",
+        "Ray, Nibedita Basu",
+        "Tuck, Tony",
+        "Tcw, Julia",
+        "Goate, Alison",
+        "Karch, Celeste",
+        "Ikezu, Seiko",
+        "Gonzalez-Perez, Maria Paz",
+        "Poon, Wayne",
+        "Shaffer, Scott",
+        "Duong, Angela"
+      ],
+      "short_names": [
+        "Ikezu T",
+        "You Y",
+        "Nguyen S",
+        "Mann S",
+        "Vadakattu P",
+        "Kanekiyo T",
+        "Zhang Z",
+        "Ray NB",
+        "Tuck T",
+        "Tcw J",
+        "Goate A",
+        "Karch C",
+        "Ikezu S",
+        "Gonzalez-Perez MP",
+        "Poon W",
+        "Shaffer S",
+        "Duong A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3979-8596",
+        "ORCID: 0000-0003-0574-7827",
+        "ORCID: 0000-0002-6563-1685",
+        "ORCID: 0000-0001-6751-9374",
+        "ORCID: 0000-0002-3054-9374",
+        "ORCID: 0000-0002-0576-2472",
+        "ORCID: 0000-0002-6854-5547",
+        "ORCID: 0000-0001-7354-367X",
+        "ORCID: 0000-0003-0625-3968",
+        "ORCID: 0000-0002-5264-3257"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Ikezu, Tsuneya",
+        "short_name": "Ikezu T",
+        "identifiers": [
+          "0000-0002-3979-8596"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "You, Yang",
+        "short_name": "You Y",
+        "identifiers": [
+          "0000-0003-0574-7827"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nguyen, Son",
+        "short_name": "Nguyen S",
+        "identifiers": [
+          "0000-0002-6563-1685"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mann, Sean",
+        "short_name": "Mann S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Vadakattu, Prakruthi",
+        "short_name": "Vadakattu P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kanekiyo, Takahisa",
+        "short_name": "Kanekiyo T",
+        "identifiers": [
+          "0000-0001-6751-9374"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Zhengrong",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ray, Nibedita Basu",
+        "short_name": "Ray NB",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tuck, Tony",
+        "short_name": "Tuck T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tcw, Julia",
+        "short_name": "Tcw J",
+        "identifiers": [
+          "0000-0002-3054-9374"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Goate, Alison",
+        "short_name": "Goate A",
+        "identifiers": [
+          "0000-0002-0576-2472"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Karch, Celeste",
+        "short_name": "Karch C",
+        "identifiers": [
+          "0000-0002-6854-5547"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ikezu, Seiko",
+        "short_name": "Ikezu S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gonzalez-Perez, Maria Paz",
+        "short_name": "Gonzalez-Perez MP",
+        "identifiers": [
+          "0000-0001-7354-367X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Poon, Wayne",
+        "short_name": "Poon W",
+        "identifiers": [
+          "0000-0003-0625-3968"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shaffer, Scott",
+        "short_name": "Shaffer S",
+        "identifiers": [
+          "0000-0002-5264-3257"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Duong, Angela",
+        "short_name": "Duong A",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Research square"
+    ],
+    "journal_abbrev": [
+      "Res Sq"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-05 18:36:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818533",
+      "31331998",
+      "40920927",
+      "40457456",
+      "38014339",
+      "39500314",
+      "40766379",
+      "42711740",
+      "42016760",
+      "29861287",
+      "39056789",
+      "39394110",
+      "42539043",
+      "37857825",
+      "40835432",
+      "39996715",
+      "41808104",
+      "33139712",
+      "40075551",
+      "42182446",
+      "42570239",
+      "28959956",
+      "35471463",
+      "32552741",
+      "41648350",
+      "35931030",
+      "37657448",
+      "41279729",
+      "35750033",
+      "34925024",
+      "37749326",
+      "41394641",
+      "31130847",
+      "42467931",
+      "33658354",
+      "34958873",
+      "42694561",
+      "41279077",
+      "38468308",
+      "37546938",
+      "42346084",
+      "36720919",
+      "41096552",
+      "40502793",
+      "31594233",
+      "41409143",
+      "39468688",
+      "37415276",
+      "42146610",
+      "42196306",
+      "41432310",
+      "32295833",
+      "39499013",
+      "40251643",
+      "41410687",
+      "30883359",
+      "42396292",
+      "29632371",
+      "34475200",
+      "34071762",
+      "32517777",
+      "37118426",
+      "36762973",
+      "41785939",
+      "41646317",
+      "41415446",
+      "33831349",
+      "15014128",
+      "42367943",
+      "12392781",
+      "21718498",
+      "41710977",
+      "15322121",
+      "41408986",
+      "41896522",
+      "34919811",
+      "41863024",
+      "41225538",
+      "31113487",
+      "40667248",
+      "35764973",
+      "42374580",
+      "41797922",
+      "42163277",
+      "42113447",
+      "42100472",
+      "42094593",
+      "32726626",
+      "40114191",
+      "24161275",
+      "35969759",
+      "35691989",
+      "42629124",
+      "42273366",
+      "40898372",
+      "23684315",
+      "39974942",
+      "37957317",
+      "42210271",
+      "40962157"
+    ],
+    "review": [
+      "42818533",
+      "40835432",
+      "39996715",
+      "42694561",
+      "42094593",
+      "42629124"
+    ],
+    "pmc": [
+      "13622849"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-8594804/v1",
+        "provider": "Research Square",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

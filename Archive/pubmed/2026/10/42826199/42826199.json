@@ -1,0 +1,378 @@
+{
+  "identity": {
+    "pmid": "42826199",
+    "doi": "10.1126/sciadv.aeh8973",
+    "title": "Tumor cell-intrinsic stress states drive sensitivity to CAR T cell therapy in pancreatic cancer."
+  },
+  "content": {
+    "abstract": "Chimeric antigen receptor (CAR) T cell therapy has transformed the treatment of hematologic cancers but has shown limited efficacy in solid tumors, including pancreatic ductal adenocarcinoma (PDAC). The cellular and molecular factors that influence CAR T cell therapy response remain largely unknown. By integrating modular in vivo CRISPR screens with single-cell genomics and immunocompetent orthotopic models of PDAC, we uncover oxidative and proteotoxic stress pathways as previously unknown modulators of CAR T cell therapy response. Disruption of stress regulatory genes, particularly Keap1 and Slc33a1, sensitizes PDAC tumors to CAR T cell killing in vivo. Hyperactivation of the Nrf2 pathway by genetic ablation of Keap1 or endogenous engineering of clinically observed Keap1 or Nfe2l2 mutations enhances tumor susceptibility to CAR T cell therapy. Thus, tumor-intrinsic molecular stress phenotypes can induce unexpected cell state-specific vulnerabilities to cell-based immunotherapies. These findings provide a foundation to improve efficacy of CAR T cell therapy in solid malignancies and to better stratify patients with cancer by tumor genotype.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Pancreatic Neoplasms/therapy/pathology/metabolism/immunology/genetics",
+      "Animals",
+      "*Immunotherapy, Adoptive/methods",
+      "Mice",
+      "*Carcinoma, Pancreatic Ductal/therapy/immunology/pathology/genetics/metabolism",
+      "*Receptors, Chimeric Antigen/immunology/metabolism",
+      "Cell Line, Tumor",
+      "Kelch-Like ECH-Associated Protein 1/genetics/metabolism",
+      "NF-E2-Related Factor 2/genetics/metabolism",
+      "*Stress, Physiological",
+      "Xenograft Model Antitumor Assays"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Frose, Julia",
+        "Chen, Evelyn",
+        "Whittaker, Charles A",
+        "Leclerc, Paul",
+        "Doherty, Sean",
+        "Langenbucher, Adam",
+        "Shao, Jasmine",
+        "Hellinger, Riley D",
+        "Goulet, Daniel",
+        "Tammela, Tuomas",
+        "Sanchez-Rivera, Francisco J",
+        "Hemann, Michael T"
+      ],
+      "short_names": [
+        "Frose J",
+        "Chen E",
+        "Whittaker CA",
+        "Leclerc P",
+        "Doherty S",
+        "Langenbucher A",
+        "Shao J",
+        "Hellinger RD",
+        "Goulet D",
+        "Tammela T",
+        "Sanchez-Rivera FJ",
+        "Hemann MT"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8179-1777",
+        "ORCID: 0000-0003-1102-6997",
+        "ORCID: 0000-0002-2400-0094",
+        "ORCID: 0009-0007-6392-6512",
+        "ORCID: 0009-0007-2096-8026",
+        "ORCID: 0009-0004-6831-9832",
+        "ORCID: 0000-0001-6303-3641",
+        "ORCID: 0000-0003-3675-6961",
+        "ORCID: 0000-0002-8466-8563",
+        "ORCID: 0000-0001-6776-2163"
+      ],
+      "affiliations": [
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.",
+        "David M. Rubenstein Center for Pancreatic Cancer, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.",
+        "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fröse, Julia",
+        "short_name": "Fröse J",
+        "identifiers": [
+          "0000-0002-8179-1777"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Evelyn",
+        "short_name": "Chen E",
+        "identifiers": [
+          "0000-0003-1102-6997"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Whittaker, Charles A",
+        "short_name": "Whittaker CA",
+        "identifiers": [
+          "0000-0002-2400-0094"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Leclerc, Paul",
+        "short_name": "Leclerc P",
+        "identifiers": [
+          "0009-0007-6392-6512"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Doherty, Sean",
+        "short_name": "Doherty S",
+        "identifiers": [
+          "0009-0007-2096-8026"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Langenbucher, Adam",
+        "short_name": "Langenbucher A",
+        "identifiers": [],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Shao, Jasmine",
+        "short_name": "Shao J",
+        "identifiers": [
+          "0009-0004-6831-9832"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Hellinger, Riley D",
+        "short_name": "Hellinger RD",
+        "identifiers": [
+          "0000-0001-6303-3641"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Goulet, Daniel",
+        "short_name": "Goulet D",
+        "identifiers": [],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Tammela, Tuomas",
+        "short_name": "Tammela T",
+        "identifiers": [
+          "0000-0003-3675-6961"
+        ],
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.",
+          "David M. Rubenstein Center for Pancreatic Cancer, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+        ]
+      },
+      {
+        "full_name": "Sánchez-Rivera, Francisco J",
+        "short_name": "Sánchez-Rivera FJ",
+        "identifiers": [
+          "0000-0002-8466-8563"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Hemann, Michael T",
+        "short_name": "Hemann MT",
+        "identifiers": [
+          "0000-0001-6776-2163"
+        ],
+        "affiliations": [
+          "The David H. Koch Institute for Integrative Cancer Research, Cambridge, MA 02142, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 17:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826199",
+      "40766461",
+      "38393682",
+      "41692276",
+      "39643883",
+      "40861475",
+      "41550919",
+      "41231131",
+      "41571297",
+      "39047033",
+      "40366419",
+      "40829595",
+      "29618658",
+      "30753824",
+      "32849600",
+      "40757874",
+      "40384272",
+      "42481500",
+      "38498249",
+      "41397127",
+      "41627624",
+      "40231459",
+      "39129178",
+      "31339230",
+      "30121627",
+      "41233896",
+      "42039159",
+      "38986820",
+      "38978106",
+      "40742310",
+      "41719389",
+      "41135950",
+      "40930745",
+      "33742099",
+      "40912036",
+      "41616888",
+      "39240078",
+      "33479048",
+      "29728788",
+      "42757678",
+      "40856476",
+      "38855110",
+      "39043602",
+      "40625735",
+      "35990619",
+      "41930147",
+      "34475869",
+      "41500474",
+      "41624838",
+      "41686204",
+      "40808942",
+      "39592929",
+      "41410762",
+      "41269799",
+      "40025231",
+      "40231460",
+      "36548402",
+      "34916256",
+      "35874730",
+      "42717494",
+      "41611240",
+      "31514488",
+      "35044789",
+      "41883164",
+      "34954452",
+      "38904009",
+      "41935032",
+      "40449956",
+      "40478751",
+      "39688341",
+      "41993194",
+      "41691254",
+      "41372740",
+      "30510550",
+      "33647456",
+      "42459653",
+      "39978971",
+      "41846913",
+      "42167810",
+      "41673138",
+      "37046312",
+      "37735875",
+      "38663406",
+      "39321207",
+      "39151930",
+      "41840629",
+      "34475103",
+      "41073135",
+      "40480232",
+      "41021005",
+      "42411626",
+      "42165633",
+      "41233815",
+      "41935953",
+      "31574023",
+      "41734996",
+      "40713180",
+      "39169624",
+      "21489257",
+      "40903191"
+    ],
+    "review": [
+      "42826199",
+      "40757874",
+      "31339230",
+      "42039159",
+      "40912036",
+      "29728788",
+      "41930147",
+      "42717494",
+      "41993194",
+      "39978971"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.science.org/doi/10.1126/sciadv.aeh8973?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/pancreaticcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Pancreatic Cancer"
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "42806792",
+    "doi": "10.1096/fj.202602909R",
+    "title": "In vivo CRISPR Screening Reveals LBR as a Regulator of CD8(+) T Cell Fate Decision."
+  },
+  "content": {
+    "abstract": "CD8(+) T cells play an important role in anti-infection and anti-tumor immunity. Metabolic reprogramming has emerged as a critical regulator of T cell function, yet the roles of specific cholesterol-associated proteins during T cell fate trajectories remain unclear. Here, using an in vivo CRISPR screen in CD8(+) T cells during infection with a customized sgRNA library targeting key cholesterol metabolism-associated proteins, we successfully identified several candidate targets, including the LBR (Lamin B Receptor). Lbr knockout significantly reduced the proportion and absolute number of short-lived effector cells (SLECs), severely impairing effector responses, while concomitantly increasing the memory precursor population upon LCMV infection. Furthermore, transcriptomic analysis revealed that Lbr depletion markedly altered signaling pathways governing effector T cell differentiation. These findings reveal the role of LBR in modulating effector and memory T cell differentiation, suggesting it as a potential target for metabolic reprogramming to enhance T cell-based immunotherapies.",
+    "keywords": [
+      "CD8+ T cells",
+      "LBR",
+      "T cell fate decisions",
+      "cholesterol metabolism",
+      "in vivo CRISPR screen"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*CD8-Positive T-Lymphocytes/immunology/metabolism/cytology",
+      "*Cell Differentiation",
+      "Mice",
+      "*CRISPR-Cas Systems",
+      "Mice, Inbred C57BL",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats",
+      "Mice, Knockout",
+      "Cholesterol/metabolism",
+      "Metabolic Reprogramming"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Qiying",
+        "Chang, Shuya",
+        "Zhao, Shengli",
+        "Zhang, Weixin",
+        "Wang, Rong",
+        "Zhong, Mingyang",
+        "Liu, Guanfeng",
+        "Li, Xiaojing",
+        "Guo, Ao"
+      ],
+      "short_names": [
+        "Zhang Q",
+        "Chang S",
+        "Zhao S",
+        "Zhang W",
+        "Wang R",
+        "Zhong M",
+        "Liu G",
+        "Li X",
+        "Guo A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5426-6742",
+        "ORCID: 0000-0003-2597-7558"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China.",
+        "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China.",
+        "Shanghai Engineering Research Center of Organ Repair, School of Life Sciences, Shanghai University, Shanghai, China.",
+        "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China.",
+        "Shanghai Engineering Research Center of Organ Repair, School of Life Sciences, Shanghai University, Shanghai, China.",
+        "Institute for Translational Brain Research, State Key Laboratory of Medical Neurobiology, MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China.",
+        "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China.",
+        "Institute for Translational Brain Research, State Key Laboratory of Medical Neurobiology, MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China.",
+        "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Qiying",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Shuya",
+        "short_name": "Chang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Shengli",
+        "short_name": "Zhao S",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Engineering Research Center of Organ Repair, School of Life Sciences, Shanghai University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Weixin",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Rong",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Engineering Research Center of Organ Repair, School of Life Sciences, Shanghai University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Mingyang",
+        "short_name": "Zhong M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Translational Brain Research, State Key Laboratory of Medical Neurobiology, MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Guanfeng",
+        "short_name": "Liu G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaojing",
+        "short_name": "Li X",
+        "identifiers": [
+          "0000-0001-5426-6742"
+        ],
+        "affiliations": [
+          "Institute for Translational Brain Research, State Key Laboratory of Medical Neurobiology, MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Ao",
+        "short_name": "Guo A",
+        "identifiers": [
+          "0000-0003-2597-7558"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Immune Response and Immunotherapy, Department of Oncology, the First Affiliated Hospital of USTC, Center for Advanced Interdisciplinary Science and Biomedicine of IHM, School of Basic Medical Sciences, University of Science and Technology of China, Hefei, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+    ],
+    "journal_abbrev": [
+      "FASEB J"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 05:30",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42806792",
+      "39373572",
+      "31442407",
+      "40672960",
+      "25972473",
+      "20805505",
+      "33636132",
+      "20696858",
+      "36977779",
+      "33859041",
+      "25271321",
+      "40418130",
+      "40175595",
+      "25015830",
+      "39946463",
+      "26804903",
+      "21987662",
+      "41071826",
+      "42001517",
+      "41284876",
+      "22467649",
+      "22102057",
+      "32152070",
+      "20457902",
+      "42758798",
+      "42028950",
+      "40111008",
+      "40783744",
+      "33636129",
+      "25142586",
+      "41145844",
+      "19548244",
+      "25320188",
+      "27627450",
+      "34461306",
+      "42189126",
+      "20164422",
+      "27664281",
+      "34248938",
+      "31723023",
+      "29236683",
+      "22359505",
+      "25893604",
+      "8642326",
+      "19664941",
+      "28903040",
+      "40503836",
+      "23776078",
+      "38954484",
+      "29844233",
+      "36835342",
+      "34326837",
+      "39804040",
+      "17704295",
+      "20569988",
+      "18424713",
+      "23596046",
+      "33128876",
+      "22118527",
+      "22675000",
+      "32398312",
+      "39972350",
+      "25548173",
+      "24231259",
+      "40261796",
+      "26191658",
+      "41366157",
+      "28846070",
+      "38994031",
+      "29625895",
+      "39846843",
+      "25253356",
+      "14978082",
+      "30932271",
+      "42737562",
+      "12682237",
+      "23338237",
+      "39991149",
+      "33691103",
+      "21788406",
+      "41381524",
+      "26583325",
+      "42361267",
+      "19922421",
+      "27271549",
+      "18941188",
+      "31199542",
+      "42440698",
+      "20805358",
+      "39873720",
+      "42419180",
+      "24631155",
+      "30837996",
+      "28137869",
+      "18250422",
+      "30573679",
+      "25127860",
+      "15557161",
+      "41494892",
+      "14734726"
+    ],
+    "review": [
+      "42806792",
+      "27271549"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1096/fj.202602909R",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

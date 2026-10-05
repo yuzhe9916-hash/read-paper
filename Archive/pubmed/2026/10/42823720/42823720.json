@@ -1,0 +1,386 @@
+{
+  "identity": {
+    "pmid": "42823720",
+    "doi": "10.1186/s40364-026-01005-y",
+    "title": "ZNF292 mutations impair RNA and protein biosynthesis defining an adverse prognostic subset in early-stage chronic lymphocytic leukemia."
+  },
+  "content": {
+    "abstract": "BACKGROUND: ZNF292 alterations are recurrently detected in patients with chronic lymphocytic leukemia (CLL), occurring in 3%-6% of patients as mutations and in 2% as 6q deletions. Although preliminary evidence suggested an independent prognostic role for ZNF292 mutations, their specific clinical relevance in early-stage CLL and the underlying biological mechanisms remain poorly defined. METHODS: 488 CLL patients were analyzed using targeted Next-Generation Sequencing (NGS) to characterize the landscape and clinical significance of ZNF292 mutations. CRISPR/Cas9-genome editing was employed to introduce the most prevalent ZNF292 variants into CLL cellular models. Their biological and functional implications were evaluated by integrating RNA-sequencing data from these isogenic cellular models with transcriptomic data from primary patient samples, complemented by functional validation and drug response assays. RESULTS: ZNF292 mutations were associated with shorter time to first treatment (TTFT; median 25 vs. 52 months, P = 0.009) and inferior overall survival (OS, median 93 vs. 148 months, P = 0.004). Importantly, when restricting the analyses to early-stage cases, ZNF292 alterations were independently associated with shorter TTFT and OS, identifying a high-risk subgroup. Mechanistically, transcriptomic analyses revealed that ZNF292 mutations suppress global protein biosynthesis and modulate cell cycle progression in both primary CLL samples and CRISPR/Cas9-edited cells. Furthermore, ZNF292 deficiency impaired replication stress responses via defective CHK1 activation, resulting in DNA damage accumulation. Evaluating potential therapeutic vulnerabilities, ZNF292-mutated cells exhibited enhanced in vitro sensitivity to ibrutinib and venetoclax. CONCLUSIONS: Our findings propose ZNF292 alterations as an independent prognostic factor in early-stage CLL and unveil their role in disease progression.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rodriguez-Sanchez, Alberto",
+        "Alonso-Gago, Maria",
+        "Perez-Carretero, Claudia",
+        "Corchete-Sanchez, Luis A",
+        "Miguel-Garcia, Cristina",
+        "Santos-Minguez, Sandra",
+        "Villaverde-Ramiro, Angela",
+        "Queizan-Hernandez, Jose Antonio",
+        "Rubio, Araceli",
+        "Benito-Sanchez, Rocio",
+        "Schiavo, Federico Lo",
+        "Ghetti, Martina",
+        "Simonetti, Giorgia",
+        "Rodriguez-Vicente, Ana E",
+        "Hernandez-Rivas, Jesus M",
+        "Quijada-Alamo, Miguel"
+      ],
+      "short_names": [
+        "Rodriguez-Sanchez A",
+        "Alonso-Gago M",
+        "Perez-Carretero C",
+        "Corchete-Sanchez LA",
+        "Miguel-Garcia C",
+        "Santos-Minguez S",
+        "Villaverde-Ramiro A",
+        "Queizan-Hernandez JA",
+        "Rubio A",
+        "Benito-Sanchez R",
+        "Schiavo FL",
+        "Ghetti M",
+        "Simonetti G",
+        "Rodriguez-Vicente AE",
+        "Hernandez-Rivas JM",
+        "Quijada-Alamo M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Translational Research Centre in Onco-hematology, Faculty of Medicine, University of Geneva, and Swiss Cancer Center Leman, Geneva, Switzerland.",
+        "Massachusetts General Hospital Center for Cancer Research, Charlestown, MA, 02129, USA.",
+        "Harvard Medical School, Boston, MA, 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, 02139, USA.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain.",
+        "Department of Hematology, Hospital de Segovia, Segovia, Spain.",
+        "Department of Hematology, Hospital Miguel Servet, Zaragoza, Spain.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain.",
+        "Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) \"Dino Amadori\", Meldola, FC, Italy.",
+        "Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) \"Dino Amadori\", Meldola, FC, Italy.",
+        "Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) \"Dino Amadori\", Meldola, FC, Italy.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain. anita82@usal.es.",
+        "Department of Human Anatomy and Histology, Faculty of Medicine, University of Salamanca, Salamanca, Spain. anita82@usal.es.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+        "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain.",
+        "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain. miguel.quijada-lamo@mssm.edu.",
+        "Department of Oncological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. miguel.quijada-lamo@mssm.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rodríguez-Sánchez, Alberto",
+        "short_name": "Rodríguez-Sánchez A",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain."
+        ]
+      },
+      {
+        "full_name": "Alonso-Gago, María",
+        "short_name": "Alonso-Gago M",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain."
+        ]
+      },
+      {
+        "full_name": "Pérez-Carretero, Claudia",
+        "short_name": "Pérez-Carretero C",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Translational Research Centre in Onco-hematology, Faculty of Medicine, University of Geneva, and Swiss Cancer Center Leman, Geneva, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Corchete-Sánchez, Luis A",
+        "short_name": "Corchete-Sánchez LA",
+        "identifiers": [],
+        "affiliations": [
+          "Massachusetts General Hospital Center for Cancer Research, Charlestown, MA, 02129, USA.",
+          "Harvard Medical School, Boston, MA, 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, MA, 02139, USA."
+        ]
+      },
+      {
+        "full_name": "Miguel-García, Cristina",
+        "short_name": "Miguel-García C",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain."
+        ]
+      },
+      {
+        "full_name": "Santos-Minguez, Sandra",
+        "short_name": "Santos-Minguez S",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain."
+        ]
+      },
+      {
+        "full_name": "Villaverde-Ramiro, Ángela",
+        "short_name": "Villaverde-Ramiro Á",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain."
+        ]
+      },
+      {
+        "full_name": "Queizán-Hernandez, José Antonio",
+        "short_name": "Queizán-Hernandez JA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Hospital de Segovia, Segovia, Spain."
+        ]
+      },
+      {
+        "full_name": "Rubio, Araceli",
+        "short_name": "Rubio A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Hospital Miguel Servet, Zaragoza, Spain."
+        ]
+      },
+      {
+        "full_name": "Benito-Sánchez, Rocío",
+        "short_name": "Benito-Sánchez R",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain."
+        ]
+      },
+      {
+        "full_name": "Schiavo, Federico Lo",
+        "short_name": "Schiavo FL",
+        "identifiers": [],
+        "affiliations": [
+          "Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) \"Dino Amadori\", Meldola, FC, Italy."
+        ]
+      },
+      {
+        "full_name": "Ghetti, Martina",
+        "short_name": "Ghetti M",
+        "identifiers": [],
+        "affiliations": [
+          "Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) \"Dino Amadori\", Meldola, FC, Italy."
+        ]
+      },
+      {
+        "full_name": "Simonetti, Giorgia",
+        "short_name": "Simonetti G",
+        "identifiers": [],
+        "affiliations": [
+          "Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) \"Dino Amadori\", Meldola, FC, Italy."
+        ]
+      },
+      {
+        "full_name": "Rodríguez-Vicente, Ana E",
+        "short_name": "Rodríguez-Vicente AE",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain. anita82@usal.es.",
+          "Department of Human Anatomy and Histology, Faculty of Medicine, University of Salamanca, Salamanca, Spain. anita82@usal.es."
+        ]
+      },
+      {
+        "full_name": "Hernández-Rivas, Jesús M",
+        "short_name": "Hernández-Rivas JM",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain.",
+          "Department of Hematology, University Hospital of Salamanca, Salamanca, Spain."
+        ]
+      },
+      {
+        "full_name": "Quijada-Álamo, Miguel",
+        "short_name": "Quijada-Álamo M",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, University of Salamanca, IBSAL, IBMCC, CSIC, Salamanca, Spain. miguel.quijada-lamo@mssm.edu.",
+          "Department of Oncological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. miguel.quijada-lamo@mssm.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomarker research"
+    ],
+    "journal_abbrev": [
+      "Biomark Res"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 05:31",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42823720",
+      "42269081",
+      "33634999",
+      "40140468",
+      "27633522",
+      "39357512",
+      "28091403",
+      "41595525",
+      "40355356",
+      "30508305",
+      "31243771",
+      "34408978",
+      "41228377",
+      "36566271",
+      "35700449",
+      "42161660",
+      "39731014",
+      "31371416",
+      "27890934",
+      "31919133",
+      "26182309",
+      "42475469",
+      "37580908",
+      "42322115",
+      "42230397",
+      "39150724",
+      "40693823",
+      "29115891",
+      "40275070",
+      "35430388",
+      "31292113",
+      "38359367",
+      "27465919",
+      "28399885",
+      "41607535",
+      "27469216",
+      "38539430",
+      "33131249",
+      "39311383",
+      "42676539",
+      "42306064",
+      "31974435",
+      "41528026",
+      "34110507",
+      "21595749",
+      "11550139",
+      "32720348",
+      "38348157",
+      "12662126",
+      "31364186",
+      "32735048",
+      "25437053",
+      "37955424",
+      "42769299",
+      "34788923",
+      "40079085",
+      "40025512",
+      "36321557",
+      "35892513",
+      "22077063",
+      "21483000",
+      "37175717",
+      "22952040",
+      "34532467",
+      "39871707",
+      "28049639",
+      "42740716",
+      "36635772",
+      "33660275",
+      "33190294",
+      "32732360",
+      "26675346",
+      "41454883",
+      "25689772",
+      "30038380",
+      "38687198",
+      "36282861",
+      "40149301",
+      "31555576",
+      "30315344",
+      "39450301",
+      "41682996",
+      "41469354",
+      "39594701",
+      "28572861",
+      "28424451",
+      "36837525",
+      "33054084",
+      "36982875",
+      "32279347",
+      "36275721",
+      "30807786",
+      "22009554",
+      "38905908",
+      "14961033",
+      "42505403",
+      "32267500",
+      "39001512",
+      "27611921",
+      "40736550"
+    ],
+    "review": [
+      "42823720",
+      "39150724",
+      "34110507",
+      "12662126",
+      "31364186",
+      "32735048",
+      "36321557",
+      "37175717",
+      "39871707",
+      "31555576",
+      "30315344",
+      "40736550"
+    ],
+    "pmc": [
+      "13632286"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://biomarkerres.biomedcentral.com/articles/10.1186/s40364-026-01005-y",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-922",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

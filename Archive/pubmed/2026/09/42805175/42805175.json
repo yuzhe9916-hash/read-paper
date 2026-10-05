@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "42805175",
+    "doi": "10.1016/j.cell.2026.09.005",
+    "title": "Non-invasive control of gene editing in vivo by photoswitchable Cas12f and focused ultrasound."
+  },
+  "content": {
+    "abstract": "A spatiotemporally controllable CRISPR-Cas system would be highly desirable for restricting gene editing to specific times and locations in vivo. Ideally, such a system would be compatible with tissue- or cell-type-specific delivery by adeno-associated virus (AAV) and could be controlled from outside the body. However, neither the delivery of controllable CRISPR-Cas systems by single AAV particles nor their noninvasive activation deep within tissue has yet been achieved. In this study, we address both of these limitations. We engineer compact photoswitchable Cas12f (psCas12f) proteins that are co-deliverable with their single guide RNA (sgRNA) in a single AAV particle. We then activate psCas12f in vivo using focused ultrasound (FUS) and mechanoluminescent particles, enabling precise spatiotemporal control. We demonstrate successful gene editing in the targeted skeletal muscle and brain regions of mice using AAV-transduced psCas12f and FUS. In summary, we describe a completely noninvasive method for localized gene editing in vivo.",
+    "keywords": [
+      "focused ultrasound",
+      "non-invasive gene editing",
+      "photoswitchable Cas12f",
+      "single-AAV delivery",
+      "spatiotemporal control"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Song, Daesun",
+        "Malinao, Marigold Gil",
+        "Wu, Xiang",
+        "Jiang, Shan",
+        "Jiang, Dongyun",
+        "Westberg, Michael",
+        "Su, Yichi",
+        "Cai, Sa",
+        "Lee, Dongin",
+        "Repina, Nicole A",
+        "Schaffer, David V",
+        "Ji, Hanlee P",
+        "Hong, Guosong",
+        "Lin, Michael Z"
+      ],
+      "short_names": [
+        "Song D",
+        "Malinao MG",
+        "Wu X",
+        "Jiang S",
+        "Jiang D",
+        "Westberg M",
+        "Su Y",
+        "Cai S",
+        "Lee D",
+        "Repina NA",
+        "Schaffer DV",
+        "Ji HP",
+        "Hong G",
+        "Lin MZ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA.",
+        "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA.",
+        "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA.",
+        "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA.",
+        "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA.",
+        "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA; Department of Chemistry, Aarhus University, Aarhus, Denmark; Interdisciplinary Nanoscience Center (iNANO), Aarhus University, Aarhus, Denmark.",
+        "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA.",
+        "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Bioengineering, University of California at Berkeley, Berkeley, CA, USA.",
+        "Department of Bioengineering, University of California at Berkeley, Berkeley, CA, USA.",
+        "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA. Electronic address: guosongh@stanford.edu.",
+        "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA; Department of Chemical and Systems Biology, Stanford University School of Medicine, Stanford, CA, USA. Electronic address: mzlin@stanford.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Song, Daesun",
+        "short_name": "Song D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Malinao, Marigold Gil",
+        "short_name": "Malinao MG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiang",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shan",
+        "short_name": "Jiang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Jiang, Dongyun",
+        "short_name": "Jiang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Westberg, Michael",
+        "short_name": "Westberg M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA; Department of Chemistry, Aarhus University, Aarhus, Denmark; Interdisciplinary Nanoscience Center (iNANO), Aarhus University, Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Su, Yichi",
+        "short_name": "Su Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Cai, Sa",
+        "short_name": "Cai S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Dongin",
+        "short_name": "Lee D",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Repina, Nicole A",
+        "short_name": "Repina NA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, University of California at Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Schaffer, David V",
+        "short_name": "Schaffer DV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, University of California at Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ji, Hanlee P",
+        "short_name": "Ji HP",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Hong, Guosong",
+        "short_name": "Hong G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA. Electronic address: guosongh@stanford.edu."
+        ]
+      },
+      {
+        "full_name": "Lin, Michael Z",
+        "short_name": "Lin MZ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, Stanford University School of Medicine, Stanford, CA, USA; Department of Bioengineering, Stanford University, Stanford, CA, USA; Department of Chemical and Systems Biology, Stanford University School of Medicine, Stanford, CA, USA. Electronic address: mzlin@stanford.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell"
+    ],
+    "journal_abbrev": [
+      "Cell"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 23:28",
+    "fetched_at": "2026-10-05 18:37:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42805175",
+      "38695159",
+      "32194850",
+      "40148327",
+      "36179767",
+      "42219400",
+      "42196146",
+      "31439808",
+      "30978509",
+      "27367513",
+      "30355031",
+      "31099553",
+      "34480847",
+      "33132845",
+      "41975095",
+      "40972450",
+      "34620062",
+      "39797397",
+      "32039406",
+      "38408137",
+      "29333255",
+      "40665471",
+      "32490186",
+      "42015511",
+      "36401041",
+      "41356202",
+      "39617755",
+      "35002515",
+      "34485599",
+      "35040621",
+      "37525893",
+      "42723282",
+      "29221488",
+      "40880534",
+      "33647431",
+      "41411128",
+      "33933604",
+      "30619914",
+      "40203649",
+      "33752742",
+      "35686977",
+      "31779484",
+      "41507205",
+      "29704201",
+      "32128412",
+      "38325664",
+      "42577088",
+      "39541214",
+      "39388062",
+      "30581144",
+      "29188510",
+      "28195574",
+      "30231914",
+      "41676685",
+      "41863246",
+      "37696982",
+      "36152518",
+      "37908737",
+      "32833533",
+      "31373227",
+      "28366764",
+      "41708664",
+      "30783971",
+      "38941613",
+      "33718515",
+      "42214263",
+      "37041195",
+      "37776859",
+      "38773978",
+      "30190322",
+      "30358434",
+      "34174445",
+      "26291065",
+      "30284145",
+      "37142705",
+      "29701544",
+      "36401042",
+      "38351611",
+      "38945310",
+      "29764210",
+      "32348718",
+      "37952084",
+      "40108777",
+      "34178991",
+      "33558692",
+      "37777530",
+      "31501532",
+      "27799472",
+      "30483052",
+      "32697075",
+      "41020188",
+      "40991373",
+      "27981708",
+      "42611132",
+      "40227971",
+      "36243370",
+      "25759096",
+      "37914782",
+      "36995603",
+      "35026352"
+    ],
+    "review": [
+      "42805175",
+      "34620062",
+      "29333255",
+      "37525893",
+      "40203649",
+      "39388062",
+      "30284145",
+      "38945310",
+      "37952084",
+      "25759096"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(26)01074-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://addgene.org/browse/pubmed/42805175",
+        "provider": "Addgene Non-profit plasmid repository",
+        "category": "Research Materials",
+        "attribute": "subscription/membership/fee required",
+        "linkname": "Get Article's Plasmids - Addgene"
+      }
+    ],
+    "text_mined": []
+  }
+}

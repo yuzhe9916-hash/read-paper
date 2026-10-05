@@ -1,0 +1,269 @@
+{
+  "identity": {
+    "pmid": "42814153",
+    "doi": "10.1186/s40580-026-00580-y",
+    "title": "Amplification-free colorimetric detection of exosomal miRNA using a CRISPR/Cas13a-activated HRP/Au/MoS(2) nanobiohybrid catalyst."
+  },
+  "content": {
+    "abstract": "CRISPR-based, amplification-free colorimetric sensing has emerged as a powerful approach for exosomal miRNA (Exo-miR) analysis, offering high specificity, simple operation, and direct visual readout suitable for point-of-care diagnostics. However, the sensitivity of existing systems is limited because conventional colorimetric probes generate inherently weak signals, making the reliable detection of ultralow-abundance Exo-miRs difficult without amplification. Here, we firstly report an amplification-free colorimetric biosensor based on a horseradish peroxidase (HRP)/gold nanoparticle (Au)/molybdenum disulfide (MoS(2)) nanobiohybrid catalyst (HRP/Au/MoS(2)) that generates intense chromogenic signals via synergistic catalytic interactions. In this nanoparticle, MoS(2) provides a high-surface-area scaffold with intrinsic peroxidase-like activity, Au nanoparticles facilitate efficient electron transfer, and HRP contributes to high catalytic turnover. Together, these features markedly enhance the oxidation of 3,3',5,5'-tetramethylbenzidine (TMB) and the resulting blue coloration. Using this signal-amplifying HRP/Au/MoS(2), a magnet-based sensing system was constructed by immobilizing the HRP/Au/MoS(2) onto magnetic nanobeads (MNBs) through biotinylated single-stranded RNA linkers (MNB-ssRNA-HRP/Au/MoS(2)). This construction was then integrated into a CRISPR/Cas13a assay, in which the target miR-155 activates Cas13a, which cleaves the ssRNA linkers, releasing the HRP/Au/MoS(2) into solution for colorimetric readout. The resulting biosensor exhibits a detection range of 1 fM-1 nM (LOD = 0.82 fM), and single-nucleotide specificity without nucleic acid amplification. Furthermore, our system enables detection of Exo-miR-155 in both cell-derived exosomes and clinical samples, distinguishing cancer patients from healthy donors. Therefore, this platform represents a promising approach for highly sensitive, selective, simple, and time-efficient detection of Exo-miR, which can be used for liquid biopsy-based early cancer detection.",
+    "keywords": [
+      "Breast cancer",
+      "CRISPR/Cas13a",
+      "Colorimetric biosensor",
+      "Exosomal miRNA",
+      "Nanobiohybrid catalyst"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Myeong-Jun",
+        "Shin, Minkyu",
+        "Lim, Joungpyo",
+        "Ahn, Ha Rim",
+        "Jung, Dain",
+        "Liu, Shan",
+        "Li, Chenzhong",
+        "Choi, Jin-Ha",
+        "Choi, Jeong-Woo"
+      ],
+      "short_names": [
+        "Lee MJ",
+        "Shin M",
+        "Lim J",
+        "Ahn HR",
+        "Jung D",
+        "Liu S",
+        "Li C",
+        "Choi JH",
+        "Choi JW"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0100-0582"
+      ],
+      "affiliations": [
+        "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea.",
+        "Department of Chemical Engineering, Research Center of Chemical Technology, Hankyong National University, Gyeonggi-do, 17579, Republic of Korea.",
+        "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea.",
+        "Department of Surgery, Jeonbuk National University Medical School, Jeonju-si, 54907, Republic of Korea.",
+        "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea.",
+        "Sichuan Provincial Key Laboratory for Human Disease Gene Study, Department of Medical Genetics, Sichuan Academy of Medical Sciences & Sichuan Provincial, People's Hospital, University of Electronic Science and Technology of China, Chengdu, 610072, China.",
+        "Biomedical Engineering, School of Medicine, The Chinese University of Hong Kong, Shenzhen, 518172, China.",
+        "School of Chemical Engineering, Jeonbuk National University, 567, Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do, 54896, Republic of Korea. jhchoi@jbnu.ac.kr.",
+        "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea. jwchoi@sogang.ac.kr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Myeong-Jun",
+        "short_name": "Lee MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Shin, Minkyu",
+        "short_name": "Shin M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, Research Center of Chemical Technology, Hankyong National University, Gyeonggi-do, 17579, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Joungpyo",
+        "short_name": "Lim J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Ahn, Ha Rim",
+        "short_name": "Ahn HR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, Jeonbuk National University Medical School, Jeonju-si, 54907, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jung, Dain",
+        "short_name": "Jung D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Liu, Shan",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Sichuan Provincial Key Laboratory for Human Disease Gene Study, Department of Medical Genetics, Sichuan Academy of Medical Sciences & Sichuan Provincial, People's Hospital, University of Electronic Science and Technology of China, Chengdu, 610072, China."
+        ]
+      },
+      {
+        "full_name": "Li, Chenzhong",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Engineering, School of Medicine, The Chinese University of Hong Kong, Shenzhen, 518172, China."
+        ]
+      },
+      {
+        "full_name": "Choi, Jin-Ha",
+        "short_name": "Choi JH",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemical Engineering, Jeonbuk National University, 567, Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do, 54896, Republic of Korea. jhchoi@jbnu.ac.kr."
+        ]
+      },
+      {
+        "full_name": "Choi, Jeong-Woo",
+        "short_name": "Choi JW",
+        "identifiers": [
+          "0000-0003-0100-0582"
+        ],
+        "affiliations": [
+          "Department of Chemical & Biomolecular Engineering, Sogang University, 35, Baekbeom-ro, Mapo-gu, Seoul, 04107, Republic of Korea. jwchoi@sogang.ac.kr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nano convergence"
+    ],
+    "journal_abbrev": [
+      "Nano Converg"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 17:32",
+    "fetched_at": "2026-10-05 18:36:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42814153",
+      "41352918",
+      "41746436",
+      "39129860",
+      "41731584",
+      "40701727",
+      "29223051",
+      "40886435",
+      "32535419",
+      "37651913",
+      "37474872",
+      "38815319",
+      "39354525",
+      "38652440",
+      "40780174",
+      "42707723",
+      "37163082",
+      "34989881",
+      "40719649",
+      "25814409",
+      "42269453",
+      "42618089",
+      "41277755",
+      "38630279",
+      "34814060",
+      "33991816",
+      "32802193",
+      "37505456",
+      "41149303",
+      "38470324",
+      "36320511",
+      "38078412",
+      "42319519",
+      "41241483",
+      "42132561",
+      "42009554",
+      "41789624",
+      "40945113",
+      "41671823",
+      "40286513",
+      "38521567",
+      "34929623",
+      "42424186",
+      "41636073",
+      "35569871",
+      "26811962",
+      "36122469",
+      "33346665",
+      "32670752",
+      "42372689",
+      "40651075",
+      "41590284",
+      "41628535",
+      "33076131",
+      "35414398",
+      "36192055",
+      "26100583",
+      "39277941",
+      "42382682",
+      "29078955",
+      "41292433",
+      "41834687",
+      "38000080",
+      "40676485",
+      "25966379",
+      "41956025",
+      "42184674",
+      "37465577",
+      "30471610",
+      "41191401",
+      "39552005",
+      "42600441",
+      "39338884",
+      "29331901",
+      "40749504",
+      "36965355",
+      "26453906",
+      "41352919",
+      "35430527",
+      "42594438",
+      "34019391",
+      "40466446",
+      "42322947",
+      "40974028",
+      "39701943",
+      "36040193",
+      "32778963",
+      "22701874",
+      "36722721",
+      "41935002",
+      "42024570",
+      "34643209",
+      "24384259",
+      "42417866",
+      "33113387",
+      "29458177",
+      "42132627",
+      "39172272",
+      "42702425",
+      "33714160"
+    ],
+    "review": [
+      "42814153"
+    ],
+    "pmc": [
+      "13627550"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

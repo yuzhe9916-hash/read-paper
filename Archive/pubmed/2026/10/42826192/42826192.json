@@ -1,0 +1,331 @@
+{
+  "identity": {
+    "pmid": "42826192",
+    "doi": "10.1126/sciadv.aeb6630",
+    "title": "A rapid, inexpensive diagnostic for bacterial pathogen and resistance detection in resource-limited settings."
+  },
+  "content": {
+    "abstract": "Antimicrobial resistance is a major global health threat, with disproportionate impact in regions with limited diagnostic infrastructure. To address this challenge, we developed BADLOCK (Bacterial and AMR Detection by SHERLOCK), a rapid, low-cost molecular diagnostic platform for direct detection of bacterial pathogens and resistance genes from clinical samples. BADLOCK operates as a one-pot CRISPR-Cas13a reaction capable of detecting nine bacterial species and four major resistance genes directly from positive blood culture. It requires only a heat block and a basic fluorometer for operation. We validated BADLOCK on 194 sequentially collected clinical blood culture specimens growing Gram-negative rods, supplemented with 69 mock samples generated from banked isolates enriched for targeted resistance genes. In all, we conducted 2224 individual reactions, achieving 97.6% accuracy (2171 of 2224) at the reaction level. At the assay level, 89.5% (274 of 306) showed perfect or partial concordance with gold-standard species and resistance gene detection, including 255 assays with perfect concordance and 19 with partial concordance (correct detection of at least one pathogen). This included an evaluation of BADLOCK as a potential culture-free diagnostic for urinary tract infections (UTIs), achieving 98.0% reaction-level accuracy. At the assay level, 95.3% (41 of 43) were partially or perfectly concordant with gold-standard detection of both species and resistance genes. To our knowledge, this represents the first demonstration of the CRISPR-Cas13a diagnostic platform on clinical bloodstream infections to date and supports BADLOCK's potential as a practical and scalable solution for rapid pathogen and resistance gene detection in resource-constrained settings.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Drug Resistance, Bacterial/genetics",
+      "*Bacteria/genetics/drug effects/isolation & purification",
+      "Resource-Limited Settings",
+      "Rapid Diagnostic Tests",
+      "CRISPR-Cas Systems",
+      "*Molecular Diagnostic Techniques/methods/economics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Roach, David J",
+        "Sangruji, Bhrus Pun",
+        "Bhat, Shriya",
+        "Tesfamariam, Selama",
+        "Ben-Zion, Ishay",
+        "Bern, Miriam",
+        "Bagnall, Josephine",
+        "Shoresh, Noam",
+        "Milien, Lisa",
+        "Bhattacharyya, Roby P"
+      ],
+      "short_names": [
+        "Roach DJ",
+        "Sangruji BP",
+        "Bhat S",
+        "Tesfamariam S",
+        "Ben-Zion I",
+        "Bern M",
+        "Bagnall J",
+        "Shoresh N",
+        "Milien L",
+        "Bhattacharyya RP"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5199-0452",
+        "ORCID: 0000-0003-0357-2576",
+        "ORCID: 0000-0003-4423-7870",
+        "ORCID: 0009-0002-0251-6011",
+        "ORCID: 0000-0003-3415-3614",
+        "ORCID: 0000-0002-5482-5046",
+        "ORCID: 0009-0002-7573-5557",
+        "ORCID: 0000-0001-6955-5088"
+      ],
+      "affiliations": [
+        "Division of Infectious Diseases, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Tufts University, Boston, MA, USA.",
+        "Harvard University, Boston, MA, USA.",
+        "Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, CA, USA.",
+        "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Department of Pathology, Massachusetts General Hospital, Boston, MA, USA.",
+        "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Division of Infectious Diseases, Department of Medicine, Massachusetts General Hospital, Boston, MA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Roach, David J",
+        "short_name": "Roach DJ",
+        "identifiers": [
+          "0000-0001-5199-0452"
+        ],
+        "affiliations": [
+          "Division of Infectious Diseases, Brigham and Women's Hospital, Boston, MA, USA.",
+          "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Sangruji, Bhrus Pun",
+        "short_name": "Sangruji BP",
+        "identifiers": [],
+        "affiliations": [
+          "Tufts University, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bhat, Shriya",
+        "short_name": "Bhat S",
+        "identifiers": [
+          "0000-0003-0357-2576"
+        ],
+        "affiliations": [
+          "Harvard University, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Tesfamariam, Selama",
+        "short_name": "Tesfamariam S",
+        "identifiers": [],
+        "affiliations": [
+          "Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ben-Zion, Ishay",
+        "short_name": "Ben-Zion I",
+        "identifiers": [
+          "0000-0003-4423-7870"
+        ],
+        "affiliations": [
+          "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bern, Miriam",
+        "short_name": "Bern M",
+        "identifiers": [
+          "0009-0002-0251-6011"
+        ],
+        "affiliations": [
+          "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bagnall, Josephine",
+        "short_name": "Bagnall J",
+        "identifiers": [
+          "0000-0003-3415-3614"
+        ],
+        "affiliations": [
+          "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Shoresh, Noam",
+        "short_name": "Shoresh N",
+        "identifiers": [
+          "0000-0002-5482-5046"
+        ],
+        "affiliations": [
+          "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Milien, Lisa",
+        "short_name": "Milien L",
+        "identifiers": [
+          "0009-0002-7573-5557"
+        ],
+        "affiliations": [
+          "Department of Pathology, Massachusetts General Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bhattacharyya, Roby P",
+        "short_name": "Bhattacharyya RP",
+        "identifiers": [
+          "0000-0001-6955-5088"
+        ],
+        "affiliations": [
+          "Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Boston, MA, USA.",
+          "Division of Infectious Diseases, Department of Medicine, Massachusetts General Hospital, Boston, MA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 17:30",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826192",
+      "40832394",
+      "42007994",
+      "42171454",
+      "41791397",
+      "42294714",
+      "40350685",
+      "37732792",
+      "42688545",
+      "34915067",
+      "42148800",
+      "41259748",
+      "42660094",
+      "38326753",
+      "42474386",
+      "33085409",
+      "24705449",
+      "39419727",
+      "42623344",
+      "41416796",
+      "42173651",
+      "42153664",
+      "42376973",
+      "42521788",
+      "42294626",
+      "38127118",
+      "41871589",
+      "40725449",
+      "40959141",
+      "41757931",
+      "42671226",
+      "40058503",
+      "41871065",
+      "42239534",
+      "40480571",
+      "42199442",
+      "41565063",
+      "41177337",
+      "39604411",
+      "38712971",
+      "42558741",
+      "40713498",
+      "42645040",
+      "39194269",
+      "27452607",
+      "42276421",
+      "41117625",
+      "37851522",
+      "31751768",
+      "32020397",
+      "40503430",
+      "42728533",
+      "42251880",
+      "41451985",
+      "42670573",
+      "39560386",
+      "42218183",
+      "40538650",
+      "41663226",
+      "41769339",
+      "25775001",
+      "40934013",
+      "40959136",
+      "42522597",
+      "34232100",
+      "41761131",
+      "41629044",
+      "41691819",
+      "38647075",
+      "41954204",
+      "42671221",
+      "41197296",
+      "41800897",
+      "42560066",
+      "42599083",
+      "39116631",
+      "42498842",
+      "42412687",
+      "29950339",
+      "41733351",
+      "42551559",
+      "40985812",
+      "39688405",
+      "41942889",
+      "41854425",
+      "42407157",
+      "41733380",
+      "42012213",
+      "40892445",
+      "28063000",
+      "40750194",
+      "42090813",
+      "40970715",
+      "39772804",
+      "36975799",
+      "41629772",
+      "36519852",
+      "39949262",
+      "39998242",
+      "23363838"
+    ],
+    "review": [
+      "42826192",
+      "42007994",
+      "42688545",
+      "41871589",
+      "40725449",
+      "42199442",
+      "31751768",
+      "42670573",
+      "42671221",
+      "42551559"
+    ],
+    "pmc": [
+      "13632719"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.science.org/doi/10.1126/sciadv.aeb6630?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/antibioticresistance.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antibiotic Resistance"
+      }
+    ],
+    "text_mined": []
+  }
+}

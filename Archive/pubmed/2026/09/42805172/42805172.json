@@ -1,0 +1,358 @@
+{
+  "identity": {
+    "pmid": "42805172",
+    "doi": "10.1016/j.xgen.2026.101367",
+    "title": "Single-cell multiomics across nine mammals reveals cell-type-specific regulatory conservation in the brain."
+  },
+  "content": {
+    "abstract": "Understanding gene regulation in the brain is essential for defining the genetic basis of neurologic disease. Cis-regulatory elements (CREs) regulate gene expression, but their function and evolution depend on sequence and cis- and trans-regulatory context. We generated single-nucleus RNA- and ATAC-seq data from cortex across nine mammalian species and identified cell-type-specific candidate CREs. We developed a multidimensional conservation framework integrating sequence, chromatin accessibility, and enhancer-gene associations. Massively parallel reporter assays in human neural progenitor cells and neurons measured activity of conserved and human-specific CREs, while CRISPR interference validated enhancer function at conserved loci, including FAM181B. Motif enrichment identified transcription factors distinguishing conserved from evolved CREs. Linkage disequilibrium score regression showed that conserved and human-specific CREs were enriched for neuropsychiatric GWAS risk, whereas neurodegenerative risk was restricted to conserved elements. These findings define functional dimensions of enhancer conservation and reveal how regulatory evolution shapes brain biology and disease susceptibility.",
+    "keywords": [
+      "comparative genomics",
+      "gene regulation",
+      "multiomics",
+      "neurogenomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Anderson, Ashlyn G",
+        "Rogers, Brianne B",
+        "Barinaga, Erin A",
+        "Loupe, Jacob M",
+        "WaMaina, Elisa",
+        "Johnston, S Quinn",
+        "Limbo, Henry L",
+        "Gardner, Elizabeth A",
+        "Moyer, Anna J",
+        "Gross, Amanda L",
+        "Martin, Douglas R",
+        "Thyme, Summer B",
+        "Rizzardi, Lindsay F",
+        "Myers, Richard M",
+        "Cooper, Gregory M",
+        "Cochran, J Nicholas"
+      ],
+      "short_names": [
+        "Anderson AG",
+        "Rogers BB",
+        "Barinaga EA",
+        "Loupe JM",
+        "WaMaina E",
+        "Johnston SQ",
+        "Limbo HL",
+        "Gardner EA",
+        "Moyer AJ",
+        "Gross AL",
+        "Martin DR",
+        "Thyme SB",
+        "Rizzardi LF",
+        "Myers RM",
+        "Cooper GM",
+        "Cochran JN"
+      ],
+      "auids": [],
+      "affiliations": [
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA; Department of Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "Department of Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "College of Veterinary Medicine, Auburn University, Auburn, AL 36849, USA.",
+        "College of Veterinary Medicine, Auburn University, Auburn, AL 36849, USA.",
+        "Department of Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA.",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA. Electronic address: ncochran@hudsonalpha.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Anderson, Ashlyn G",
+        "short_name": "Anderson AG",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA; Department of Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Rogers, Brianne B",
+        "short_name": "Rogers BB",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Barinaga, Erin A",
+        "short_name": "Barinaga EA",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Loupe, Jacob M",
+        "short_name": "Loupe JM",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "WaMaina, Elisa",
+        "short_name": "WaMaina E",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Johnston, S Quinn",
+        "short_name": "Johnston SQ",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Limbo, Henry L",
+        "short_name": "Limbo HL",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Gardner, Elizabeth A",
+        "short_name": "Gardner EA",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Moyer, Anna J",
+        "short_name": "Moyer AJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Gross, Amanda L",
+        "short_name": "Gross AL",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Auburn University, Auburn, AL 36849, USA."
+        ]
+      },
+      {
+        "full_name": "Martin, Douglas R",
+        "short_name": "Martin DR",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Auburn University, Auburn, AL 36849, USA."
+        ]
+      },
+      {
+        "full_name": "Thyme, Summer B",
+        "short_name": "Thyme SB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Rizzardi, Lindsay F",
+        "short_name": "Rizzardi LF",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Myers, Richard M",
+        "short_name": "Myers RM",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Cooper, Gregory M",
+        "short_name": "Cooper GM",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA."
+        ]
+      },
+      {
+        "full_name": "Cochran, J Nicholas",
+        "short_name": "Cochran JN",
+        "identifiers": [],
+        "affiliations": [
+          "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806, USA. Electronic address: ncochran@hudsonalpha.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell genomics"
+    ],
+    "journal_abbrev": [
+      "Cell Genom"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 23:28",
+    "fetched_at": "2026-10-05 18:37:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42805172",
+      "40205616",
+      "37090552",
+      "35866592",
+      "42475469",
+      "40421528",
+      "38012720",
+      "40034789",
+      "28335009",
+      "34462306",
+      "38232730",
+      "28855262",
+      "42630054",
+      "39255977",
+      "33964211",
+      "41862973",
+      "39127768",
+      "33044128",
+      "32994224",
+      "35410163",
+      "42803313",
+      "42339731",
+      "34898596",
+      "39326643",
+      "38956662",
+      "39814021",
+      "35303433",
+      "36742369",
+      "36121513",
+      "36482458",
+      "40653482",
+      "42234579",
+      "38092918",
+      "40425826",
+      "38260561",
+      "34605404",
+      "31915147",
+      "41731605",
+      "41920741",
+      "38604126",
+      "41906094",
+      "37824614",
+      "42792973",
+      "26072432",
+      "23512712",
+      "30905396",
+      "37231806",
+      "23341446",
+      "40962852",
+      "39855972",
+      "26576614",
+      "38187729",
+      "36950385",
+      "42367919",
+      "40725473",
+      "39481377",
+      "31631012",
+      "28204611",
+      "34650237",
+      "42185984",
+      "40490756",
+      "41890035",
+      "38781390",
+      "33626337",
+      "31533978",
+      "41839854",
+      "29945882",
+      "37789374",
+      "34017130",
+      "32029221",
+      "42701979",
+      "41951735",
+      "41937210",
+      "40781032",
+      "41565468",
+      "29716548",
+      "41959502",
+      "30286077",
+      "39904740",
+      "41066618",
+      "38358392",
+      "41146606",
+      "42190655",
+      "41429956",
+      "35976093",
+      "32819422",
+      "37938195",
+      "42586070",
+      "40826469",
+      "38760655",
+      "29996889",
+      "26377945",
+      "36824965",
+      "38781378",
+      "20470391",
+      "32192535",
+      "38330939",
+      "41299220",
+      "36945371",
+      "39266564"
+    ],
+    "review": [
+      "42805172",
+      "41862973",
+      "26072432",
+      "37231806",
+      "39855972"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-979X(26)00229-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2666-979X(26)00229-6",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

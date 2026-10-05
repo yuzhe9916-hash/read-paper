@@ -1,0 +1,465 @@
+{
+  "identity": {
+    "pmid": "42803943",
+    "doi": "10.1158/2326-6066.CIR-26-0421",
+    "title": "ULK1-dependent autophagy initiation promotes MHC-I degradation and immune evasion in HPV-positive head and neck cancer."
+  },
+  "content": {
+    "abstract": "Antigen presentation by major histocompatibility complex class I (MHC-I) is critical for tumor cell killing by CD8+ T cells. In human papillomavirus-positive head and neck cancer (HPV+ HNC), where MHC-I downregulation is frequent despite favorable immune cell infiltration, lower MHC-I levels are associated with poor responses to immune checkpoint inhibitor therapy. However, the mechanism of MHC-I degradation remains elusive. Genome-wide CRISPR screens in HPV+ HNC identified components of the ULK1 and PIK3C3 autophagy initiation complexes among top negative regulators of cell-surface MHC-I. In contrast, inhibiting post-initiation stages of autophagy did not restore cell-surface MHC-I, highlighting a critical role for autophagy initiation in regulation of MHC-I. Mechanistically, we showed that MHC-I is recruited from the ER to autophagosomes by the cargo receptor NDP52. Finally, inhibition of autophagy initiation suppressed HPV+ HNC tumor growth in vivo and enhanced the CD8+ T cell-mediated antitumor response. Our findings suggest that autophagic degradation of MARCHF8-ubiquitinated MHC-I is a key immune evasion mechanism in HPV+ HNC.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vu, Lexi",
+        "Giacobbi, Nicholas S",
+        "Khalil, Mohamed I",
+        "Yang, Canchai",
+        "Eckerman, William J",
+        "Gomez Recinos, Evelyn D",
+        "Garber, Johnathon D",
+        "Bennett, Abigail Z",
+        "Adams, Bryttan",
+        "Son, Hyomin",
+        "Chahal, Prerna",
+        "Villa, Dara M",
+        "Srivastava, Tanisha",
+        "Martin, Katie R",
+        "Welbon, Craig C",
+        "Williamson, Caitlin S",
+        "Spanos, William C",
+        "MacKeigan, Jeffrey P",
+        "Olive, Andrew J",
+        "Pyeon, Dohun"
+      ],
+      "short_names": [
+        "Vu L",
+        "Giacobbi NS",
+        "Khalil MI",
+        "Yang C",
+        "Eckerman WJ",
+        "Gomez Recinos ED",
+        "Garber JD",
+        "Bennett AZ",
+        "Adams B",
+        "Son H",
+        "Chahal P",
+        "Villa DM",
+        "Srivastava T",
+        "Martin KR",
+        "Welbon CC",
+        "Williamson CS",
+        "Spanos WC",
+        "MacKeigan JP",
+        "Olive AJ",
+        "Pyeon D"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9243-7469",
+        "ORCID: 0009-0009-2526-3687",
+        "ORCID: 0000-0002-8331-1490",
+        "ORCID: 0000-0002-0125-9298",
+        "ORCID: 0009-0008-6706-2982",
+        "ORCID: 0009-0007-6113-2145",
+        "ORCID: 0009-0006-0659-5211",
+        "ORCID: 0009-0006-1066-0397",
+        "ORCID: 0009-0003-7586-2780",
+        "ORCID: 0009-0007-2052-5591",
+        "ORCID: 0009-0004-4770-0853",
+        "ORCID: 0009-0006-2141-3121",
+        "ORCID: 0009-0004-7604-9449",
+        "ORCID: 0000-0002-3689-4814",
+        "ORCID: 0000-0002-3134-0636",
+        "ORCID: 0000-0003-1335-9517",
+        "ORCID: 0000-0002-7975-1151",
+        "ORCID: 0000-0002-0198-5679",
+        "ORCID: 0000-0003-3441-3113",
+        "ORCID: 0000-0003-1970-844X"
+      ],
+      "affiliations": [
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University Grand Rapids, MI United States. ROR: https://ror.org/05hs6h993",
+        "Sanford Research Sioux Falls, South Dakota United States. ROR: https://ror.org/00sfn8y78",
+        "Sanford Research Sioux Falls, South Dakota United States. ROR: https://ror.org/00sfn8y78",
+        "Sanford Cancer Research Center Sioux Falls, South Dakota United States.",
+        "Michigan State University Grand Rapids, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993",
+        "Michigan State University East Lansing, MI United States. ROR: https://ror.org/05hs6h993"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vu, Lexi",
+        "short_name": "Vu L",
+        "identifiers": [
+          "0000-0001-9243-7469"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Giacobbi, Nicholas S",
+        "short_name": "Giacobbi NS",
+        "identifiers": [
+          "0009-0009-2526-3687"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Khalil, Mohamed I",
+        "short_name": "Khalil MI",
+        "identifiers": [
+          "0000-0002-8331-1490"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Yang, Canchai",
+        "short_name": "Yang C",
+        "identifiers": [
+          "0000-0002-0125-9298"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Eckerman, William J",
+        "short_name": "Eckerman WJ",
+        "identifiers": [
+          "0009-0008-6706-2982"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Gomez Recinos, Evelyn D",
+        "short_name": "Gomez Recinos ED",
+        "identifiers": [
+          "0009-0007-6113-2145"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Garber, Johnathon D",
+        "short_name": "Garber JD",
+        "identifiers": [
+          "0009-0006-0659-5211"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Bennett, Abigail Z",
+        "short_name": "Bennett AZ",
+        "identifiers": [
+          "0009-0006-1066-0397"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Adams, Bryttan",
+        "short_name": "Adams B",
+        "identifiers": [
+          "0009-0003-7586-2780"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Son, Hyomin",
+        "short_name": "Son H",
+        "identifiers": [
+          "0009-0007-2052-5591"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Chahal, Prerna",
+        "short_name": "Chahal P",
+        "identifiers": [
+          "0009-0004-4770-0853"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Villa, Dara M",
+        "short_name": "Villa DM",
+        "identifiers": [
+          "0009-0006-2141-3121"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Srivastava, Tanisha",
+        "short_name": "Srivastava T",
+        "identifiers": [
+          "0009-0004-7604-9449"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Martin, Katie R",
+        "short_name": "Martin KR",
+        "identifiers": [
+          "0000-0002-3689-4814"
+        ],
+        "affiliations": [
+          "Michigan State University Grand Rapids, MI United States."
+        ]
+      },
+      {
+        "full_name": "Welbon, Craig C",
+        "short_name": "Welbon CC",
+        "identifiers": [
+          "0000-0002-3134-0636"
+        ],
+        "affiliations": [
+          "Sanford Research Sioux Falls, South Dakota United States."
+        ]
+      },
+      {
+        "full_name": "Williamson, Caitlin S",
+        "short_name": "Williamson CS",
+        "identifiers": [
+          "0000-0003-1335-9517"
+        ],
+        "affiliations": [
+          "Sanford Research Sioux Falls, South Dakota United States."
+        ]
+      },
+      {
+        "full_name": "Spanos, William C",
+        "short_name": "Spanos WC",
+        "identifiers": [
+          "0000-0002-7975-1151"
+        ],
+        "affiliations": [
+          "Sanford Cancer Research Center Sioux Falls, South Dakota United States."
+        ]
+      },
+      {
+        "full_name": "MacKeigan, Jeffrey P",
+        "short_name": "MacKeigan JP",
+        "identifiers": [
+          "0000-0002-0198-5679"
+        ],
+        "affiliations": [
+          "Michigan State University Grand Rapids, MI United States."
+        ]
+      },
+      {
+        "full_name": "Olive, Andrew J",
+        "short_name": "Olive AJ",
+        "identifiers": [
+          "0000-0003-3441-3113"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      },
+      {
+        "full_name": "Pyeon, Dohun",
+        "short_name": "Pyeon D",
+        "identifiers": [
+          "0000-0003-1970-844X"
+        ],
+        "affiliations": [
+          "Michigan State University East Lansing, MI United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer immunology research"
+    ],
+    "journal_abbrev": [
+      "Cancer Immunol Res"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 17:31",
+    "fetched_at": "2026-10-05 18:37:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42803943",
+      "41889855",
+      "41802050",
+      "39677690",
+      "40269245",
+      "31417179",
+      "32376951",
+      "42345610",
+      "38226814",
+      "40016522",
+      "40102028",
+      "41736094",
+      "32459143",
+      "42028629",
+      "36596591",
+      "40862710",
+      "41796389",
+      "40611330",
+      "26468525",
+      "37925449",
+      "27143385",
+      "37557169",
+      "36867660",
+      "41395285",
+      "39329721",
+      "42208982",
+      "40114316",
+      "18284388",
+      "28891951",
+      "41449973",
+      "38177410",
+      "38920249",
+      "37126231",
+      "35176174",
+      "39481378",
+      "34598317",
+      "42015731",
+      "29976673",
+      "40373256",
+      "39773561",
+      "42173678",
+      "35089069",
+      "41066547",
+      "40475776",
+      "37961092",
+      "34471285",
+      "36123711",
+      "40987494",
+      "42120180",
+      "31394808",
+      "42214332",
+      "23715898",
+      "39990208",
+      "41088223",
+      "39580046",
+      "41218148",
+      "40954077",
+      "42085301",
+      "40509568",
+      "33172332",
+      "42622137",
+      "32969499",
+      "36307151",
+      "38627815",
+      "15981207",
+      "30409290",
+      "31848196",
+      "38383447",
+      "30900506",
+      "31004199",
+      "35144669",
+      "42303814",
+      "39283477",
+      "29058602",
+      "27117419",
+      "41308654",
+      "40873541",
+      "41408407",
+      "42492236",
+      "38011559",
+      "32868392",
+      "35535798",
+      "42637267",
+      "34922008",
+      "29699516",
+      "38826133",
+      "40068706",
+      "33109760",
+      "39106105",
+      "30610715",
+      "41320145",
+      "38925841",
+      "42326466",
+      "31562203",
+      "12739251",
+      "39554122",
+      "42458540",
+      "40306238",
+      "39753950",
+      "36070764"
+    ],
+    "review": [
+      "42803943",
+      "38177410",
+      "37126231",
+      "32969499",
+      "29058602"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1312",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://aacrjournals.org/cancerimmunolres/article-lookup/doi/10.1158/2326-6066.CIR-26-0421",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

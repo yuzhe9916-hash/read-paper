@@ -1,0 +1,473 @@
+{
+  "identity": {
+    "pmid": "42827984",
+    "doi": "10.3389/fimmu.2026.1901504",
+    "title": "CAR T cell-induced interferon gamma enhances MHC class I expression and sensitizes neuroblastoma to TCR-engineered T cell therapy."
+  },
+  "content": {
+    "abstract": "BACKGROUND: T cell receptor (TCR)-engineered T cells target antigens presented on major histocompatibility complex (MHC) class I molecules. MHC class I expression is often low in childhood tumors such as neuroblastoma but can be stimulated by interferon gamma (IFNgamma). Chimeric antigen receptor (CAR) T cell effector function, including IFNgamma production, is MHC class I-independent. AIM: We aimed to enhance neuroblastoma immunotherapy by combining CAR- and TCR-engineered T cells. Our strategy exploits CAR T cell-derived effector molecules, including IFNgamma, to increase tumor cell MHC class I expression and thereby enhance subsequent TCR T cell activity. METHODS: IFNgamma-mediated induction and persistence of MHC class I expression were analyzed in neuroblastoma cell lines by flow cytometry. Primary human T cells were engineered to express either a high-affinity TCR targeting the cancer testis antigen NY-ESO-1 or an L1CAM-targeted CAR. Cytotoxic activity of CAR and TCR T cells, applied alone or sequentially, was quantified against LAN-1 neuroblastoma cells using IncuCyte-based real-time killing assays. To model heterogeneous antigen expression, mixed tumor populations containing L1CAM-positive and CRISPR/Cas9-generated L1CAM-knockout cells were analyzed. In vivo MHC class I upregulation was assessed in a human tumor xenograft model following treatment with human L1CAM-CAR T cells and in a syngeneic tumor model following treatment with GD2-CAR T cells. RESULTS: NY-ESO-1 TCR T cells alone showed limited cytotoxicity against LAN-1 cells in vitro, whereas L1CAM-CAR T cell pretreatment increased MHC class I expression and enhanced subsequent TCR-mediated killing. In tumor cells with heterogeneous CAR antigen expression, CAR T cell recognition of antigen-positive cells induced HLA-A*02 upregulation across the tumor population, enabling subsequent NY-ESO-1 TCR T cell recognition of cells not directly recognized by CAR T cells. Exploratory in vivo analyses further showed increased tumor MHC class I expression following CAR T cell treatment, providing preliminary evidence of CAR T cell-mediated inflammatory priming in vivo. CONCLUSION: Sequential CAR- and TCR-engineered T cell therapy may help overcome limitations imposed by low MHC class I and heterogeneous antigen expression in neuroblastoma, supporting further investigation of this combinatorial strategy.",
+    "keywords": [
+      "MHC class I low",
+      "T cell therapy",
+      "TCR T cell resistance",
+      "antigen loss",
+      "neuroblastoma",
+      "tumor heterogeneity"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Neuroblastoma/therapy/immunology/metabolism",
+      "Animals",
+      "*Interferon-gamma/metabolism/immunology",
+      "*Immunotherapy, Adoptive/methods",
+      "*Receptors, Chimeric Antigen/immunology/genetics/metabolism",
+      "Cell Line, Tumor",
+      "*Histocompatibility Antigens Class I/immunology/genetics/metabolism",
+      "Mice",
+      "*T-Lymphocytes/immunology/metabolism",
+      "*Receptors, Antigen, T-Cell/genetics/immunology",
+      "Xenograft Model Antitumor Assays",
+      "Cytotoxicity, Immunologic"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vitali, Alice",
+        "Padlo, Jennie",
+        "Caramel, Carlotta",
+        "Andersch, Lena",
+        "Hartmann, Laura M",
+        "Kath, Jonas",
+        "Grunewald, Laura",
+        "Schwiebert, Silke",
+        "Winkler, Anika",
+        "Talalai, Efrosiinia",
+        "Biereder, Tabea",
+        "Wienke, Judith",
+        "Molenaar, Jan J",
+        "Launspach, Michael",
+        "Delebinski, Catharina",
+        "Kern, Anton",
+        "Astrahantseff, Kathy",
+        "Wagner, Dimitrios L",
+        "Willimsky, Gerald",
+        "Eggert, Angelika",
+        "Blankenstein, Thomas",
+        "Anders, Kathleen",
+        "Kunkele, Annette"
+      ],
+      "short_names": [
+        "Vitali A",
+        "Padlo J",
+        "Caramel C",
+        "Andersch L",
+        "Hartmann LM",
+        "Kath J",
+        "Grunewald L",
+        "Schwiebert S",
+        "Winkler A",
+        "Talalai E",
+        "Biereder T",
+        "Wienke J",
+        "Molenaar JJ",
+        "Launspach M",
+        "Delebinski C",
+        "Kern A",
+        "Astrahantseff K",
+        "Wagner DL",
+        "Willimsky G",
+        "Eggert A",
+        "Blankenstein T",
+        "Anders K",
+        "Kunkele A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Berlin Institute of Health at Charite - Universitatsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany.",
+        "Berlin Institute of Health at Charite - Universitatsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Princess Maxima Center for Pediatric Oncology, Utrecht, Netherlands.",
+        "Princess Maxima Center for Pediatric Oncology, Utrecht, Netherlands.",
+        "Department of Pharmaceutical Sciences, Utrecht University, Utrecht, Netherlands.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Berlin Institute of Health at Charite - Universitatsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Berlin Institute of Health at Charite - Universitatsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany.",
+        "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Institute of Tumor Immunology, Charite - Universitatsmedizin Berlin, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Institute of Tumor Immunology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "University Hospital Essen, Essen, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Institute of Tumor Immunology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "Charite - University Medical Center Berlin, corporate member of Freie Universitat Berlin and Humboldt-Universitat zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+        "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vitali, Alice",
+        "short_name": "Vitali A",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Padlo, Jennie",
+        "short_name": "Padlo J",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Caramel, Carlotta",
+        "short_name": "Caramel C",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Andersch, Lena",
+        "short_name": "Andersch L",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+          "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Hartmann, Laura M",
+        "short_name": "Hartmann LM",
+        "identifiers": [],
+        "affiliations": [
+          "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Kath, Jonas",
+        "short_name": "Kath J",
+        "identifiers": [],
+        "affiliations": [
+          "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Grunewald, Laura",
+        "short_name": "Grunewald L",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Schwiebert, Silke",
+        "short_name": "Schwiebert S",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Winkler, Anika",
+        "short_name": "Winkler A",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Talalai, Efrosiinia",
+        "short_name": "Talalai E",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Biereder, Tabea",
+        "short_name": "Biereder T",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Wienke, Judith",
+        "short_name": "Wienke J",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Máxima Center for Pediatric Oncology, Utrecht, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Molenaar, Jan J",
+        "short_name": "Molenaar JJ",
+        "identifiers": [],
+        "affiliations": [
+          "Princess Máxima Center for Pediatric Oncology, Utrecht, Netherlands.",
+          "Department of Pharmaceutical Sciences, Utrecht University, Utrecht, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Launspach, Michael",
+        "short_name": "Launspach M",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+          "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+          "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Delebinski, Catharina",
+        "short_name": "Delebinski C",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Kern, Anton",
+        "short_name": "Kern A",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Astrahantseff, Kathy",
+        "short_name": "Astrahantseff K",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Wagner, Dimitrios L",
+        "short_name": "Wagner DL",
+        "identifiers": [],
+        "affiliations": [
+          "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, BIH Center for Regenerative Therapies, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Willimsky, Gerald",
+        "short_name": "Willimsky G",
+        "identifiers": [],
+        "affiliations": [
+          "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+          "Institute of Tumor Immunology, Charité - Universitätsmedizin Berlin, Berlin, Germany.",
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Tumor Immunology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Eggert, Angelika",
+        "short_name": "Eggert A",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+          "University Hospital Essen, Essen, Germany."
+        ]
+      },
+      {
+        "full_name": "Blankenstein, Thomas",
+        "short_name": "Blankenstein T",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Tumor Immunology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Anders, Kathleen",
+        "short_name": "Anders K",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Künkele, Annette",
+        "short_name": "Künkele A",
+        "identifiers": [],
+        "affiliations": [
+          "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Paediatric Oncology and Haematology, Berlin, Germany.",
+          "German Cancer Consortium (DKTK), Partner site Berlin, and German Cancer Research Center (DKFZ), Heidelberg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 00:33",
+    "fetched_at": "2026-10-05 18:35:35"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827984",
+      "38904586",
+      "40443031",
+      "26298772",
+      "42493214",
+      "29180536",
+      "33737337",
+      "35338087",
+      "41394860",
+      "39828101",
+      "42745268",
+      "31484667",
+      "33741731",
+      "31690351",
+      "40820888",
+      "40022447",
+      "40873562",
+      "40943160",
+      "39660132",
+      "40611330",
+      "40569285",
+      "39572159",
+      "40541190",
+      "42718489",
+      "42759981",
+      "42336095",
+      "41376627",
+      "42811304",
+      "41845478",
+      "34088742",
+      "40437756",
+      "31651363",
+      "30136612",
+      "41259537",
+      "34916256",
+      "32439799",
+      "42043451",
+      "39856752",
+      "33771892",
+      "41988204",
+      "30626427",
+      "40802116",
+      "41534901",
+      "21626030",
+      "39963129",
+      "28878363",
+      "39759518",
+      "27253354",
+      "41026583",
+      "40474210",
+      "41840629",
+      "40536708",
+      "34475869",
+      "34382720",
+      "41635855",
+      "39664387",
+      "42814277",
+      "40918142",
+      "40808257",
+      "39520682",
+      "34195677",
+      "39776913",
+      "31500597",
+      "39794936",
+      "30651290",
+      "31337659",
+      "40465728",
+      "29615399",
+      "41238217",
+      "39285441",
+      "42305549",
+      "27549124",
+      "41539232",
+      "39169622",
+      "41866626",
+      "41564177",
+      "41692276",
+      "40930745",
+      "42707205",
+      "39776916",
+      "37217069",
+      "41916134",
+      "39908652",
+      "34868059",
+      "38855110",
+      "35078921",
+      "42679446",
+      "28183713",
+      "37894816",
+      "40203088",
+      "31466926",
+      "39269445",
+      "28818060",
+      "41721623",
+      "42047877",
+      "34341066",
+      "38690288",
+      "39043602",
+      "40808942",
+      "32483603"
+    ],
+    "review": [
+      "42827984",
+      "41988204"
+    ],
+    "pmc": [
+      "13631103"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/neuroblastoma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Neuroblastoma"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1901504",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
