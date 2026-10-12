@@ -1,0 +1,403 @@
+{
+  "identity": {
+    "pmid": "42838049",
+    "doi": "10.1016/j.cell.2026.09.024",
+    "title": "A non-canonical function of glutathione to suppress ferroptosis via FSP1."
+  },
+  "content": {
+    "abstract": "It is well established that glutathione (GSH) is mainly utilized by glutathione peroxidase 4 (GPX4) to diminish peroxidized phospholipids and defend against ferroptosis. However, we found that GSH robustly protects a variety of GPX4 knockout (KO) cells from ferroptosis, thus indicating that there is an alternative pathway for GSH to suppress ferroptosis. By carrying out genome-wide CRISPR-Cas9 screening, we identified that ferroptosis suppressor protein 1 (FSP1) is the key factor mediating the GPX4-independent protective effect of GSH. Mechanistically, FSP1 uses GSH to generate reduced ubiquinone, which scavenges oxidized lipids and suppresses ferroptosis. Inhibition of FSP1 abolishes this GSH-dependent ferroptosis protection both in vitro and in vivo. Distinct from NAD(P)H-mediated ubiquinone reduction, GSH-stimulated generation of reduced ubiquinone via FSP1 is independent of flavin adenine dinucleotide (FAD). Together, our work clarifies a new mechanism of GSH-mediated ferroptosis suppression, thus highlighting the potential that targeting GSH metabolism should be beneficial for ferroptosis-related diseases whether or not it is related to GPX4.",
+    "keywords": [
+      "FSP1",
+      "ferroptosis",
+      "glutathione metabolism",
+      "ubiquinone reduction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Han, Jing",
+        "Zhang, Yu-Dan",
+        "Liu, Shuo",
+        "Yang, Li",
+        "Sun, Shuang-Li",
+        "Zhang, Ben",
+        "Liu, Ao-Kun",
+        "Zhu, Ling-Fan",
+        "Wang, Rong",
+        "Song, Dan-Dan",
+        "Zhuang, Xiao",
+        "Gao, Yi-Jia",
+        "Li, Jing-Xin",
+        "Li, Wen-Fei",
+        "He, Rong-Rong",
+        "Zhou, Heng-Xing",
+        "Yu, Lu",
+        "Feng, Shi-Qing",
+        "Chai, Ren-Jie",
+        "Chu, Bo"
+      ],
+      "short_names": [
+        "Han J",
+        "Zhang YD",
+        "Liu S",
+        "Yang L",
+        "Sun SL",
+        "Zhang B",
+        "Liu AK",
+        "Zhu LF",
+        "Wang R",
+        "Song DD",
+        "Zhuang X",
+        "Gao YJ",
+        "Li JX",
+        "Li WF",
+        "He RR",
+        "Zhou HX",
+        "Yu L",
+        "Feng SQ",
+        "Chai RJ",
+        "Chu B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "Department of Geriatric Medicine, Qilu Hospital of Shandong University, Jinan 250012, China.",
+        "Department of Respiratory and Critical Care Medicine, Zhengzhou University People's Hospital, Henan Provincial People's Hospital, Zhengzhou 450003, China.",
+        "Center for Structural biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "Department of Orthopaedics, The Second Hospital, Shandong University Centre for Orthopaedics, Advanced Medical Research Institute, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei 230026, China.",
+        "Center for Structural biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "State Key Laboratory of Bioactive Molecules and Druggability Assessment/Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs, College of Pharmacy, Jinan University, Guangzhou 519070, China.",
+        "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "Department of Neurology, Aerospace Center Hospital, School of Life, Beijing Institute of Technology, Beijing 100081, China.",
+        "Anhui Province Key Laboratory of Condensed Matter Physics at Extreme Conditions, High Magnetic Field Laboratory, HFIPS, Chinese Academy of Sciences, Hefei 230031, China.",
+        "Center for Structural biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
+        "State Key Laboratory of Bioactive Molecules and Druggability Assessment/Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs, College of Pharmacy, Jinan University, Guangzhou 519070, China.",
+        "Department of Orthopaedics, Qilu Hospital of Shandong University, Shandong University Centre for Orthopaedics, Advanced Medical Research Institute, Cheeloo College of Medicine, Shandong University, Jinan 250012, China. Electronic address: zhouhengxing@sdu.edu.cn.",
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei 230026, China. Electronic address: luyuesr@ustc.edu.cn.",
+        "Department of Orthopaedics, The Second Hospital, Shandong University Centre for Orthopaedics, Advanced Medical Research Institute, Cheeloo College of Medicine, Shandong University, Jinan 250012, China; Department of Orthopaedics, Tianjin Medical University General Hospital, International Science and Technology Cooperation Base of Spinal Cord Injury, Tianjin Key Laboratory of Spine and Spinal Cord, Tianjin 300052, China. Electronic address: shiqingfeng@sdu.edu.cn.",
+        "State Key Laboratory of Bioelectronics, Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, School of Life Sciences and Technology, Advanced Institute for Life and Health, Jiangsu Province High-Tech Key Laboratory for Bio-Medical Research, Southeast University, Nanjing 210096, China. Electronic address: renjiec@seu.edu.cn.",
+        "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China. Electronic address: chubo123@sdu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Han, Jing",
+        "short_name": "Han J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yu-Dan",
+        "short_name": "Zhang YD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shuo",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Geriatric Medicine, Qilu Hospital of Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Li",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Care Medicine, Zhengzhou University People's Hospital, Henan Provincial People's Hospital, Zhengzhou 450003, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Shuang-Li",
+        "short_name": "Sun SL",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Structural biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ben",
+        "short_name": "Zhang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The Second Hospital, Shandong University Centre for Orthopaedics, Advanced Medical Research Institute, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ao-Kun",
+        "short_name": "Liu AK",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei 230026, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Ling-Fan",
+        "short_name": "Zhu LF",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Structural biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Rong",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Bioactive Molecules and Druggability Assessment/Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs, College of Pharmacy, Jinan University, Guangzhou 519070, China."
+        ]
+      },
+      {
+        "full_name": "Song, Dan-Dan",
+        "short_name": "Song DD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Zhuang, Xiao",
+        "short_name": "Zhuang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yi-Jia",
+        "short_name": "Gao YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Aerospace Center Hospital, School of Life, Beijing Institute of Technology, Beijing 100081, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jing-Xin",
+        "short_name": "Li JX",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Key Laboratory of Condensed Matter Physics at Extreme Conditions, High Magnetic Field Laboratory, HFIPS, Chinese Academy of Sciences, Hefei 230031, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wen-Fei",
+        "short_name": "Li WF",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Structural biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China."
+        ]
+      },
+      {
+        "full_name": "He, Rong-Rong",
+        "short_name": "He RR",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Bioactive Molecules and Druggability Assessment/Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs, College of Pharmacy, Jinan University, Guangzhou 519070, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Heng-Xing",
+        "short_name": "Zhou HX",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, Qilu Hospital of Shandong University, Shandong University Centre for Orthopaedics, Advanced Medical Research Institute, Cheeloo College of Medicine, Shandong University, Jinan 250012, China. Electronic address: zhouhengxing@sdu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yu, Lu",
+        "short_name": "Yu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei 230026, China. Electronic address: luyuesr@ustc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Feng, Shi-Qing",
+        "short_name": "Feng SQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The Second Hospital, Shandong University Centre for Orthopaedics, Advanced Medical Research Institute, Cheeloo College of Medicine, Shandong University, Jinan 250012, China; Department of Orthopaedics, Tianjin Medical University General Hospital, International Science and Technology Cooperation Base of Spinal Cord Injury, Tianjin Key Laboratory of Spine and Spinal Cord, Tianjin 300052, China. Electronic address: shiqingfeng@sdu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chai, Ren-Jie",
+        "short_name": "Chai RJ",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Bioelectronics, Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, School of Life Sciences and Technology, Advanced Institute for Life and Health, Jiangsu Province High-Tech Key Laboratory for Bio-Medical Research, Southeast University, Nanjing 210096, China. Electronic address: renjiec@seu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chu, Bo",
+        "short_name": "Chu B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China. Electronic address: chubo123@sdu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell"
+    ],
+    "journal_abbrev": [
+      "Cell"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838049",
+      "31634899",
+      "37739943",
+      "31634900",
+      "37272092",
+      "40334339",
+      "38016474",
+      "39581576",
+      "37380771",
+      "38906233",
+      "35585057",
+      "35944469",
+      "42630571",
+      "36576648",
+      "39009325",
+      "41826699",
+      "40832353",
+      "36552620",
+      "40337781",
+      "42032961",
+      "38150992",
+      "35041395",
+      "41847387",
+      "38414669",
+      "37695069",
+      "39354361",
+      "41284055",
+      "40914768",
+      "42030646",
+      "42565568",
+      "37371948",
+      "41826758",
+      "38940330",
+      "41538121",
+      "40724917",
+      "40799549",
+      "41687318",
+      "42543340",
+      "36736851",
+      "39477303",
+      "41193800",
+      "40902893",
+      "39226614",
+      "41750619",
+      "35774015",
+      "40378717",
+      "36198586",
+      "42735786",
+      "38198846",
+      "42450202",
+      "42337422",
+      "37094356",
+      "41068561",
+      "41265624",
+      "40570981",
+      "39453438",
+      "40770312",
+      "37957306",
+      "41760249",
+      "39737072",
+      "41688429",
+      "39033970",
+      "42061105",
+      "36788244",
+      "34167028",
+      "35128925",
+      "29378335",
+      "39178116",
+      "41313662",
+      "36371529",
+      "41766674",
+      "35922516",
+      "34390730",
+      "42101224",
+      "39811609",
+      "33981038",
+      "38626544",
+      "39273151",
+      "40382817",
+      "39626861",
+      "39855311",
+      "39688244",
+      "40972157",
+      "41968638",
+      "41481741",
+      "41558707",
+      "38725840",
+      "40259435",
+      "40653192",
+      "39681481",
+      "38615304",
+      "41162632",
+      "38139836",
+      "36631632",
+      "41429385",
+      "42492799",
+      "41187650",
+      "39292340",
+      "42511695",
+      "41105727"
+    ],
+    "review": [
+      "42838049",
+      "42630571",
+      "37371948",
+      "38940330",
+      "42337422",
+      "38615304"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(26)01126-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

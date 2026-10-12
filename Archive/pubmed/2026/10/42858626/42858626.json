@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42858626",
+    "doi": "10.1016/j.bios.2026.119310",
+    "title": "Programmable thermoregulation of the nuclease activity of LbCas12a."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas12a holds great promise for molecular diagnostics and gene editing due to its sequence-specific DNA recognition and robust trans-cleavage activity, yet precise tuning of its nuclease activity remains challenging. Herein, we report a simple temperature-regulation strategy using cost-effective ssDNA blockers, that enable hybridize with crRNA functional motifs at low temperatures to block and suppress Cas12a activation, while thermal dissociation at elevated temperatures restores Cas12a activity to realize thermoregulation of Cas12a activity, enabling precise thermal switching within 5  degrees C (37-42  degrees C). The cis- and trans-cleavage activity of Cas12a could be activated at desired temperature via different DNA blockers. Coupling this thermoregulated Cas12a system with recombinase polymerase amplification (RPA), we developed a one-tube thermal-start RPA-CRISPR/Cas12a assay, which avoids premature Cas12a activation. This method achieves a limit of detection (LOD) of 0.73 aM against Mycobacterium tuberculosis (MTB) with excellent specificity and reproducibility, and exhibits 96.67% concordance with qPCR in clinical specimens. An all-in-one THERMAL-CRISPR POCT platform was developed by using a 3D-printed portable device for streamlined clinical testing, with clinical sensitivity of 90.48% and 100% specificity. This programmable thermal modulation strategy provides a novel and simple technical route for constructing robust, engineerable CRISPR tools for point-of-care diagnostic and gene editing.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Shiwen",
+        "Liao, Xinyi",
+        "Chen, Junhong",
+        "Zhou, Jianhua",
+        "Xiong, Yuling",
+        "Hu, Bohan",
+        "Yang, Chongguang",
+        "Qu, Jiuxin",
+        "Wang, Jiasi"
+      ],
+      "short_names": [
+        "Tang S",
+        "Liao X",
+        "Chen J",
+        "Zhou J",
+        "Xiong Y",
+        "Hu B",
+        "Yang C",
+        "Qu J",
+        "Wang J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China. Electronic address: tangshw8@mail2.sysu.edu.cn.",
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China.",
+        "School of Public Health (Shenzhen), Sun Yat-sen University, Shenzhen, 518107, China.",
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China.",
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China.",
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China.",
+        "School of Public Health (Shenzhen), Sun Yat-sen University, Shenzhen, 518107, China; Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Sun Yat-sen University, Shenzhen, 518107, China. Electronic address: yangchg9@mail.sysu.edu.cn.",
+        "Department of Clinical Laboratory, Shenzhen Third People's Hospital, The Second Affiliated Hospital, School of Medicine, Southern University of Science and Technology, National Clinical Research Center for Infectious Diseases, Shenzhen, Guangdong, 518112, China. Electronic address: qujiuxin@mail.sustech.edu.cn.",
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China. Electronic address: wangjs8@mail.sysu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Shiwen",
+        "short_name": "Tang S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China. Electronic address: tangshw8@mail2.sysu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liao, Xinyi",
+        "short_name": "Liao X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Junhong",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health (Shenzhen), Sun Yat-sen University, Shenzhen, 518107, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jianhua",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Yuling",
+        "short_name": "Xiong Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Bohan",
+        "short_name": "Hu B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Chongguang",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health (Shenzhen), Sun Yat-sen University, Shenzhen, 518107, China; Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Sun Yat-sen University, Shenzhen, 518107, China. Electronic address: yangchg9@mail.sysu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Qu, Jiuxin",
+        "short_name": "Qu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Shenzhen Third People's Hospital, The Second Affiliated Hospital, School of Medicine, Southern University of Science and Technology, National Clinical Research Center for Infectious Diseases, Shenzhen, Guangdong, 518112, China. Electronic address: qujiuxin@mail.sustech.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiasi",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen, 518107, China. Electronic address: wangjs8@mail.sysu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 04:08",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42858626",
+      "40851838",
+      "40277382",
+      "42379036",
+      "40599263",
+      "40499384",
+      "38772660",
+      "42266926",
+      "42063822",
+      "38319081",
+      "41260396",
+      "42148800",
+      "41104129",
+      "41913088",
+      "38689239",
+      "42152766",
+      "42753299",
+      "35708748",
+      "42474386",
+      "39666765",
+      "41855972",
+      "36943040",
+      "40354613",
+      "42372673",
+      "39254031",
+      "41135356",
+      "42704380",
+      "40941236",
+      "42065492",
+      "38655256",
+      "37874890",
+      "42624408",
+      "32470556",
+      "42798004",
+      "38383404",
+      "41054568",
+      "39449688",
+      "42838679",
+      "36214815",
+      "42560645",
+      "40749819",
+      "38647075",
+      "40286970",
+      "34990457",
+      "41474367",
+      "41012691",
+      "40527291",
+      "39740588",
+      "42655845",
+      "40511702",
+      "41599009",
+      "37162995",
+      "40331901",
+      "35727982",
+      "38530904",
+      "39187803",
+      "41885207",
+      "41217936",
+      "37287467",
+      "32809800",
+      "42197699",
+      "42522597",
+      "42398757",
+      "42557140",
+      "41729380",
+      "40387535",
+      "38375936",
+      "40825745",
+      "38472096",
+      "42296867",
+      "42138212",
+      "39137521",
+      "41982105",
+      "36572137",
+      "40157150",
+      "42431049",
+      "41934379",
+      "42706781",
+      "40179681",
+      "42015157",
+      "41500123",
+      "42549575",
+      "40810567",
+      "37212293",
+      "41831412",
+      "40163950",
+      "38563640",
+      "42243947",
+      "38915320",
+      "41292075",
+      "41603277",
+      "40373980",
+      "39348463",
+      "36624936",
+      "40780172",
+      "39881979",
+      "37493514",
+      "32843348",
+      "37605962",
+      "42808823"
+    ],
+    "review": [
+      "42858626",
+      "41500123"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00943-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

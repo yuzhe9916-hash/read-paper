@@ -1,0 +1,454 @@
+{
+  "identity": {
+    "pmid": "42832697",
+    "doi": "10.1158/0008-5472.CAN-26-0774",
+    "title": "Targeting SLC38A5 Overcomes alphaPD-1 Immunotherapy Resistance by Alleviating Glutamine Competition Between Glioblastoma Cells and T Cells."
+  },
+  "content": {
+    "abstract": "Despite the clinical success of programmed cell death protein 1 (PD-1) checkpoint blockade in many cancer types, its efficacy in glioblastoma remains notably limited, underscoring the critical need to uncover primary resistance mechanisms and identify synergistic therapeutic targets. To discover genes modulating alphaPD-1 immunotherapy response, we performed an in vivo CRISPR-Cas9 screen in immunocompetent mice bearing glioblastoma, which prioritized the glutamine (Gln) transporter SLC38A5 as a candidate modulator of alphaPD-1 immunotherapy efficacy. In human glioblastoma, SLC38A5 was significantly upregulated compared with normal brain tissue. Ablation of SLC38A5 did not impair glioblastoma cell intrinsic growth but profoundly sensitized glioblastoma to alphaPD-1 therapy in a CD8+ T cell-dependent manner, leading to enhanced anti-tumor immunity and tumor control. Mechanistically, SLC38A5 deficiency created a Gln-enriched tumor microenvironment by impairing Gln uptake of glioblastoma cells. This metabolic rewiring enhanced CD8+ T cell function via SLC1A5-dependent Gln utilization and promoted MHC-I-mediated antigen presentation in glioblastoma cells through a Gln-glutathione (GSH)-reactive oxygen species (ROS) axis. Furthermore, an SLC38A5-targeting nanobody was developed that efficiently accumulated in orthotopic glioblastoma and potentiated alphaPD-1 therapy to suppress brain tumor growth in vivo. Overall, this study establishes SLC38A5 as a metabolic immune regulator in glioblastoma and presents a promising Nb-based strategy for overcoming alphaPD-1 immunotherapy resistance.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Zhuohao",
+        "Lin, Jiani",
+        "Chen, Tao",
+        "Zhang, Weimin",
+        "Ye, Ran",
+        "Yang, Ying-Gui",
+        "Li, Na",
+        "Zhou, Jiayi",
+        "Tan, Guisen",
+        "Wang, Chenci",
+        "Wang, Zhengwei",
+        "Wu, Xiaoping",
+        "Cheng, Kenneth King-Yip",
+        "Mao, Jie",
+        "Gao, Ming",
+        "Liu, Jiacheng",
+        "Pei, Xiaojuan",
+        "Ng, Chi-Fai",
+        "Wang, Yuliang",
+        "Wu, Dinglan"
+      ],
+      "short_names": [
+        "Liu Z",
+        "Lin J",
+        "Chen T",
+        "Zhang W",
+        "Ye R",
+        "Yang YG",
+        "Li N",
+        "Zhou J",
+        "Tan G",
+        "Wang C",
+        "Wang Z",
+        "Wu X",
+        "Cheng KK",
+        "Mao J",
+        "Gao M",
+        "Liu J",
+        "Pei X",
+        "Ng CF",
+        "Wang Y",
+        "Wu D"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2487-3140",
+        "ORCID: 0009-0000-2539-0824",
+        "ORCID: 0000-0002-3496-5535",
+        "ORCID: 0009-0006-3188-5421",
+        "ORCID: 0009-0007-2698-1301",
+        "ORCID: 0000-0002-4857-5044",
+        "ORCID: 0000-0002-3743-2873",
+        "ORCID: 0009-0005-9945-548X",
+        "ORCID: 0009-0006-5153-9251",
+        "ORCID: 0000-0002-7114-1295",
+        "ORCID: 0009-0003-4270-644X",
+        "ORCID: 0000-0001-6776-6973",
+        "ORCID: 0000-0002-7274-0839",
+        "ORCID: 0000-0001-6082-9732",
+        "ORCID: 0009-0005-6414-9095",
+        "ORCID: 0009-0004-2146-803X",
+        "ORCID: 0000-0002-1522-9890",
+        "ORCID: 0000-0002-1723-9646",
+        "ORCID: 0000-0001-6975-4503",
+        "ORCID: 0000-0002-5057-9626"
+      ],
+      "affiliations": [
+        "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China. ROR: https://ror.org/037c01n91",
+        "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China.",
+        "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China.",
+        "Southern Medical University Shenzhen Hospital China. ROR: https://ror.org/037c01n91",
+        "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China.",
+        "Soonchunhyang University Cheonan, Chungnam Korea (South), Republic of. ROR: https://ror.org/03qjsrb10",
+        "Shenzhen Baoan AirSea Hospital China.",
+        "The First People's Hospital of Foshan Shenzhen, Guangdong China.",
+        "Southern Medical University Shenzhen Hospital China. ROR: https://ror.org/037c01n91",
+        "Funan County People's Hospital China.",
+        "Southern Medical University Shenzhen Hospital China. ROR: https://ror.org/037c01n91",
+        "University of Hong Kong Hong Kong Hong Kong. ROR: https://ror.org/02zhqgq86",
+        "Hong Kong Polytechnic University Hong Kong. ROR: https://ror.org/0030zas98",
+        "Longgang Central Hospital of Shenzhen Shenzhen China.",
+        "Southern Medical University Shenzhen Hospital China. ROR: https://ror.org/037c01n91",
+        "Southern Medical University Shenzhen Hospital China. ROR: https://ror.org/037c01n91",
+        "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China. ROR: https://ror.org/037c01n91",
+        "Chinese University of Hong Kong Shatin Hong Kong. ROR: https://ror.org/00t33hh48",
+        "Chinese University of Hong Kong New Territories, Nil Hong Kong. ROR: https://ror.org/00t33hh48",
+        "Chinese University of Hong Kong Hong Kong Hong Kong. ROR: https://ror.org/00t33hh48"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Zhuohao",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0000-0003-2487-3140"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China."
+        ]
+      },
+      {
+        "full_name": "Lin, Jiani",
+        "short_name": "Lin J",
+        "identifiers": [
+          "0009-0000-2539-0824"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China."
+        ]
+      },
+      {
+        "full_name": "Chen, Tao",
+        "short_name": "Chen T",
+        "identifiers": [
+          "0000-0002-3496-5535"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Weimin",
+        "short_name": "Zhang W",
+        "identifiers": [
+          "0009-0006-3188-5421"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital China."
+        ]
+      },
+      {
+        "full_name": "Ye, Ran",
+        "short_name": "Ye R",
+        "identifiers": [
+          "0009-0007-2698-1301"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ying-Gui",
+        "short_name": "Yang YG",
+        "identifiers": [
+          "0000-0002-4857-5044"
+        ],
+        "affiliations": [
+          "Soonchunhyang University Cheonan, Chungnam Korea (South), Republic of."
+        ]
+      },
+      {
+        "full_name": "Li, Na",
+        "short_name": "Li N",
+        "identifiers": [
+          "0000-0002-3743-2873"
+        ],
+        "affiliations": [
+          "Shenzhen Baoan AirSea Hospital China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jiayi",
+        "short_name": "Zhou J",
+        "identifiers": [
+          "0009-0005-9945-548X"
+        ],
+        "affiliations": [
+          "The First People's Hospital of Foshan Shenzhen, Guangdong China."
+        ]
+      },
+      {
+        "full_name": "Tan, Guisen",
+        "short_name": "Tan G",
+        "identifiers": [
+          "0009-0006-5153-9251"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chenci",
+        "short_name": "Wang C",
+        "identifiers": [
+          "0000-0002-7114-1295"
+        ],
+        "affiliations": [
+          "Funan County People's Hospital China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhengwei",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0009-0003-4270-644X"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaoping",
+        "short_name": "Wu X",
+        "identifiers": [
+          "0000-0001-6776-6973"
+        ],
+        "affiliations": [
+          "University of Hong Kong Hong Kong Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Cheng, Kenneth King-Yip",
+        "short_name": "Cheng KK",
+        "identifiers": [
+          "0000-0002-7274-0839"
+        ],
+        "affiliations": [
+          "Hong Kong Polytechnic University Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Mao, Jie",
+        "short_name": "Mao J",
+        "identifiers": [
+          "0000-0001-6082-9732"
+        ],
+        "affiliations": [
+          "Longgang Central Hospital of Shenzhen Shenzhen China."
+        ]
+      },
+      {
+        "full_name": "Gao, Ming",
+        "short_name": "Gao M",
+        "identifiers": [
+          "0009-0005-6414-9095"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiacheng",
+        "short_name": "Liu J",
+        "identifiers": [
+          "0009-0004-2146-803X"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital China."
+        ]
+      },
+      {
+        "full_name": "Pei, Xiaojuan",
+        "short_name": "Pei X",
+        "identifiers": [
+          "0000-0002-1522-9890"
+        ],
+        "affiliations": [
+          "Southern Medical University Shenzhen Hospital Shenzhen, Guangdong China."
+        ]
+      },
+      {
+        "full_name": "Ng, Chi-Fai",
+        "short_name": "Ng CF",
+        "identifiers": [
+          "0000-0002-1723-9646"
+        ],
+        "affiliations": [
+          "Chinese University of Hong Kong Shatin Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuliang",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0001-6975-4503"
+        ],
+        "affiliations": [
+          "Chinese University of Hong Kong New Territories, Nil Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Wu, Dinglan",
+        "short_name": "Wu D",
+        "identifiers": [
+          "0000-0002-5057-9626"
+        ],
+        "affiliations": [
+          "Chinese University of Hong Kong Hong Kong Hong Kong."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer research"
+    ],
+    "journal_abbrev": [
+      "Cancer Res"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 17:31",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42832697",
+      "35764364",
+      "42028950",
+      "30149232",
+      "42686373",
+      "40586931",
+      "39490061",
+      "33849925",
+      "42212332",
+      "42681644",
+      "41715179",
+      "41513208",
+      "38360292",
+      "34860431",
+      "41850182",
+      "35292516",
+      "39979966",
+      "27663389",
+      "42458463",
+      "42208982",
+      "40382627",
+      "31142380",
+      "35896284",
+      "38431436",
+      "40269603",
+      "41402125",
+      "36442821",
+      "42642387",
+      "41229436",
+      "36241013",
+      "32133512",
+      "40621452",
+      "41667150",
+      "39567998",
+      "42745268",
+      "40053076",
+      "36543376",
+      "41617394",
+      "40824253",
+      "35580929",
+      "34025646",
+      "42552060",
+      "30802149",
+      "38671582",
+      "41171699",
+      "35256940",
+      "41075009",
+      "33795383",
+      "34768100",
+      "34858732",
+      "37081259",
+      "42731874",
+      "33524739",
+      "32122909",
+      "42544900",
+      "42248285",
+      "40046051",
+      "37887353",
+      "41832520",
+      "32303618",
+      "42328167",
+      "41106759",
+      "42032729",
+      "36249274",
+      "35392977",
+      "39642461",
+      "30424804",
+      "39920704",
+      "42103357",
+      "39870152",
+      "31712430",
+      "41135949",
+      "39461881",
+      "37640480",
+      "36629068",
+      "41591489",
+      "41135953",
+      "41319963",
+      "41724344",
+      "41939918",
+      "41702649",
+      "32732224",
+      "33391476",
+      "32316275",
+      "38655660",
+      "40966278",
+      "34599020",
+      "42618717",
+      "40068706",
+      "40353308",
+      "40516842",
+      "40280128",
+      "42694973",
+      "40744663",
+      "42607553",
+      "36096533",
+      "42291367",
+      "42329854",
+      "29016938",
+      "33584714"
+    ],
+    "review": [
+      "42832697"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://aacrjournals.org/cancerres/article-lookup/doi/10.1158/0008-5472.CAN-26-0774",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

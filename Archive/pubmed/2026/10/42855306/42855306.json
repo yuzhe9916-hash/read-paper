@@ -1,0 +1,305 @@
+{
+  "identity": {
+    "pmid": "42855306",
+    "doi": "10.1261/rna.081162.126",
+    "title": "PNLDC1 deadenylase affects translational rate and cell proliferation in mESCs."
+  },
+  "content": {
+    "abstract": "PNLDC1 is a member of the DEDD deadenylases, known for its specificity in poly(A) tail removal during mRNA turnover. While initially characterized for its function in pre-piRNA trimming critical to spermatogenesis and transposon silencing, its broader deadenylase activity which is especially pronounced during early development and silenced during differentiation, remains poorly understood. In this study, we mapped the epigenetic regulation of Pnldc1 during mESC differentiation, uncovering its promoter methylation pattern associated with transcriptional repression. Pnldc1-knockout mESC models established via CRISPR/Cas9 were shown to retain viability and pluripotency. RNA-seq and subsequent polysome profiling revealed that Pnldc1 deficiency leads to the downregulation of gene networks involved in translation and a lower overall translational rate. Notably, PNLDC1 has been linked to epigenetic changes in various cancers and is associated with oncogenic signaling pathways. Using a homology model based on the related PARN deadenylase, we conducted virtual screening of compound libraries and selected 12 candidates for experimental testing. Experimental validation revealed that two compounds significantly impacted genes involved in stress response and signal transduction, while also suppressing aberrant proliferation. These findings highlight PNLDC1's role in regulating mRNA stability during differentiation and proliferation and as a candidate for targeted therapeutic intervention.",
+    "keywords": [
+      "Deadenylase",
+      "PARN",
+      "PNLDC1",
+      "mRNA turnover"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Skeparnias, Ilias",
+        "Shaukat, Athanasios-Nasir",
+        "Katsioulas, Christos",
+        "Anastasakis, Dimitrios",
+        "Grafanaki, Katerina",
+        "Chondrou, Vasiliki",
+        "Sgourou, Argyro",
+        "Zhang, Jinwei",
+        "Papakyriakou, Athanasios",
+        "Stathopoulos, Constantinos"
+      ],
+      "short_names": [
+        "Skeparnias I",
+        "Shaukat AN",
+        "Katsioulas C",
+        "Anastasakis D",
+        "Grafanaki K",
+        "Chondrou V",
+        "Sgourou A",
+        "Zhang J",
+        "Papakyriakou A",
+        "Stathopoulos C"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2548-2846",
+        "ORCID: 0000-0002-2114-173X",
+        "ORCID: 0000-0003-3931-6232",
+        "ORCID: 0000-0002-5699-4118"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece.",
+        "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece.",
+        "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece.",
+        "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece.",
+        "Department of Dermatology, School of Medicine, University of Patras, 26504 Patras, Greece.",
+        "Biology Laboratory, School of Science and Technology, Hellenic Open University, 26335 Patras, Greece.",
+        "Biology Laboratory, School of Science and Technology, Hellenic Open University, 26335 Patras, Greece.",
+        "Laboratory of Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, USA.",
+        "Institute of Biosciences and Applications, National Centre for Scientific Research \"Demokritos\", Athens, Greece.",
+        "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece. cstath@med.upatras.gr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Skeparnias, Ilias",
+        "short_name": "Skeparnias I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Shaukat, Athanasios-Nasir",
+        "short_name": "Shaukat AN",
+        "identifiers": [
+          "0000-0003-2548-2846"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Katsioulas, Christos",
+        "short_name": "Katsioulas C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Anastasakis, Dimitrios",
+        "short_name": "Anastasakis D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Grafanaki, Katerina",
+        "short_name": "Grafanaki K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, School of Medicine, University of Patras, 26504 Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Chondrou, Vasiliki",
+        "short_name": "Chondrou V",
+        "identifiers": [],
+        "affiliations": [
+          "Biology Laboratory, School of Science and Technology, Hellenic Open University, 26335 Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Sgourou, Argyro",
+        "short_name": "Sgourou A",
+        "identifiers": [],
+        "affiliations": [
+          "Biology Laboratory, School of Science and Technology, Hellenic Open University, 26335 Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jinwei",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0000-0002-2114-173X"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Papakyriakou, Athanasios",
+        "short_name": "Papakyriakou A",
+        "identifiers": [
+          "0000-0003-3931-6232"
+        ],
+        "affiliations": [
+          "Institute of Biosciences and Applications, National Centre for Scientific Research \"Demokritos\", Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Stathopoulos, Constantinos",
+        "short_name": "Stathopoulos C",
+        "identifiers": [
+          "0000-0002-5699-4118"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, School of Medicine, University of Patras, 26504 Patras, Greece. cstath@med.upatras.gr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RNA (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "RNA"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 23:31",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42855306",
+      "27515512",
+      "42774471",
+      "29018194",
+      "39312580",
+      "38234819",
+      "28267419",
+      "29444933",
+      "23843623",
+      "40852913",
+      "42476244",
+      "29168431",
+      "22834816",
+      "19605561",
+      "23496118",
+      "21743004",
+      "31502671",
+      "42475469",
+      "22614729",
+      "32790161",
+      "41681462",
+      "42565562",
+      "37294468",
+      "41059337",
+      "42777255",
+      "28011629",
+      "25478689",
+      "32529664",
+      "35630580",
+      "39657841",
+      "26400160",
+      "28964725",
+      "17452450",
+      "40460610",
+      "36263612",
+      "22956911",
+      "30713819",
+      "42316346",
+      "41437098",
+      "41023816",
+      "26853909",
+      "42612482",
+      "38948273",
+      "38649558",
+      "42737557",
+      "41825960",
+      "40507774",
+      "26541675",
+      "42462715",
+      "24170810",
+      "32698871",
+      "32089710",
+      "24998979",
+      "27604954",
+      "32065444",
+      "39521729",
+      "24121003",
+      "37340076",
+      "29335071",
+      "31570165",
+      "40507971",
+      "40790242",
+      "37544501",
+      "41004225",
+      "40806197",
+      "25499764",
+      "34520768",
+      "35700449",
+      "41254784",
+      "42040898",
+      "33795648",
+      "40847540",
+      "34958137",
+      "30703164",
+      "42246097",
+      "38817332",
+      "41716413",
+      "39310107",
+      "19468308",
+      "31603250",
+      "22351518",
+      "31936572",
+      "40886927",
+      "37705068",
+      "31511882",
+      "27988407",
+      "41656807",
+      "34715053",
+      "41661446",
+      "35092390",
+      "35685361",
+      "12573214",
+      "22955276",
+      "28532996",
+      "15044470",
+      "25482772",
+      "34347949",
+      "24040281",
+      "32703285",
+      "41240538"
+    ],
+    "review": [
+      "42855306",
+      "28267419",
+      "42476244",
+      "22834816",
+      "23496118",
+      "32790161",
+      "37294468",
+      "41059337",
+      "28964725",
+      "36263612",
+      "38948273",
+      "34520768"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://www.rnajournal.org/cgi/pmidlookup?view=long&pmid=42855306",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

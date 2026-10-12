@@ -1,0 +1,478 @@
+{
+  "identity": {
+    "pmid": "42834039",
+    "doi": "10.1038/s41467-026-77222-8",
+    "title": "Tumor-intrinsic IFNgamma signaling and niche adaptation drive early colonization in ovarian cancer metastasis."
+  },
+  "content": {
+    "abstract": "The mechanisms enabling disseminating tumor cells to survive and colonize peritoneal niches during ovarian cancer metastasis remain incompletely understood. Here, we present MetTag, a single-cell barcoding and transcriptome profiling approach with time-stamped batch identifiers to resolve temporal dynamics of dissemination. Sequencing of MetTag barcodes reveals enrichment of early-disseminated clones across metastatic sites, and targeted depletion of pioneers diminishes the outgrowth of later arriving cells. MetTag-coupled single-cell RNA sequencing uncovers a distinct interferon-gamma-centric transcriptional trajectory enriched among pioneer clones. CRISPR/Cas9 screening and subsequent interferon-gamma receptor 1 knockout in pioneer cells significantly reduces metastatic burden, highlighting a critical window where active interferon-gamma signaling shapes the post-seeding metastatic niche and outgrowth. Mechanistically, the tumor-intrinsic interferon-gamma response and peritoneal macrophages cooperatively shield disseminating tumor cells from anoikis. Our study defines the temporal clonal architecture of peritoneal metastasis, revealing a first come, first served dissemination principle, where pioneer fitness determines the success of subsequent colonizers.",
+    "keywords": [],
+    "mesh_terms": [
+      "Female",
+      "*Ovarian Neoplasms/pathology/genetics/metabolism",
+      "*Interferon-gamma/metabolism/genetics",
+      "Animals",
+      "Signal Transduction",
+      "Humans",
+      "Cell Line, Tumor",
+      "Mice",
+      "Receptors, Interferon/genetics/metabolism",
+      "Interferon gamma Receptor",
+      "Neoplasm Metastasis",
+      "Macrophages, Peritoneal/metabolism",
+      "Gene Expression Regulation, Neoplastic",
+      "CRISPR-Cas Systems",
+      "Single-Cell Analysis",
+      "Gene Expression Profiling",
+      "Anoikis",
+      "*Peritoneal Neoplasms/secondary/genetics",
+      "Single-Cell Gene Expression Analysis"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aleksandrovic, Emilija",
+        "Fross, Shaneann R",
+        "Golomb, Samantha M",
+        "Ma, Wei",
+        "Liu, Xiyu",
+        "Zhao, Zhuo",
+        "Das, Nikitha M",
+        "Reese, Tanner C",
+        "Borges, Hazel M",
+        "Tenekeci, Ates",
+        "Yu, Lei",
+        "Lopez, Jacqueline",
+        "Zhao, Min",
+        "Zhong, Zhenyu",
+        "Dean, Kevin M",
+        "Lea, Jayanthi",
+        "Xu, Lin",
+        "Stack, M Sharon",
+        "Zhang, Siyuan"
+      ],
+      "short_names": [
+        "Aleksandrovic E",
+        "Fross SR",
+        "Golomb SM",
+        "Ma W",
+        "Liu X",
+        "Zhao Z",
+        "Das NM",
+        "Reese TC",
+        "Borges HM",
+        "Tenekeci A",
+        "Yu L",
+        "Lopez J",
+        "Zhao M",
+        "Zhong Z",
+        "Dean KM",
+        "Lea J",
+        "Xu L",
+        "Stack MS",
+        "Zhang S"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6698-2893",
+        "ORCID: 0000-0001-7817-5319",
+        "ORCID: 0000-0001-9608-7611",
+        "ORCID: 0000-0002-9441-7645",
+        "ORCID: 0000-0003-0839-2320",
+        "ORCID: 0000-0001-5815-4457",
+        "ORCID: 0000-0003-0910-3666"
+      ],
+      "affiliations": [
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Department of Urology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Cecil H. And Ida Green Center for Systems Biology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Pediatrics, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Biological Sciences, College of Science, University of Notre Dame, Notre Dame, IN, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+        "Department of Immunology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Cecil H. And Ida Green Center for Systems Biology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Obstetrics and Gynecology, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Pediatrics, UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, IN, USA.",
+        "Mike and Josie Harper Cancer Research Institute, University of Notre Dame, 1234 N. Notre Dame Avenue, South Bend, IN, USA.",
+        "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA. Siyuan.Zhang@UTSouthwestern.edu.",
+        "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA. Siyuan.Zhang@UTSouthwestern.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aleksandrovic, Emilija",
+        "short_name": "Aleksandrovic E",
+        "identifiers": [
+          "0000-0001-6698-2893"
+        ],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Fross, Shaneann R",
+        "short_name": "Fross SR",
+        "identifiers": [],
+        "affiliations": [
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+          "Department of Urology, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Golomb, Samantha M",
+        "short_name": "Golomb SM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Ma, Wei",
+        "short_name": "Ma W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiyu",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhuo",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+          "Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Das, Nikitha M",
+        "short_name": "Das NM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Reese, Tanner C",
+        "short_name": "Reese TC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Borges, Hazel M",
+        "short_name": "Borges HM",
+        "identifiers": [],
+        "affiliations": [
+          "Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Cecil H. And Ida Green Center for Systems Biology, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Tenekeci, Ates",
+        "short_name": "Tenekeci A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Lei",
+        "short_name": "Yu L",
+        "identifiers": [
+          "0000-0001-7817-5319"
+        ],
+        "affiliations": [
+          "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Department of Pediatrics, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Lopez, Jacqueline",
+        "short_name": "Lopez J",
+        "identifiers": [
+          "0000-0001-9608-7611"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, College of Science, University of Notre Dame, Notre Dame, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Min",
+        "short_name": "Zhao M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Zhong, Zhenyu",
+        "short_name": "Zhong Z",
+        "identifiers": [
+          "0000-0002-9441-7645"
+        ],
+        "affiliations": [
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA.",
+          "Department of Immunology, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Dean, Kevin M",
+        "short_name": "Dean KM",
+        "identifiers": [
+          "0000-0003-0839-2320"
+        ],
+        "affiliations": [
+          "Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Cecil H. And Ida Green Center for Systems Biology, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Lea, Jayanthi",
+        "short_name": "Lea J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Lin",
+        "short_name": "Xu L",
+        "identifiers": [
+          "0000-0001-5815-4457"
+        ],
+        "affiliations": [
+          "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, UT Southwestern Medical Center, Dallas, TX, USA.",
+          "Department of Pediatrics, UT Southwestern Medical Center, Dallas, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Stack, M Sharon",
+        "short_name": "Stack MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, IN, USA.",
+          "Mike and Josie Harper Cancer Research Institute, University of Notre Dame, 1234 N. Notre Dame Avenue, South Bend, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Siyuan",
+        "short_name": "Zhang S",
+        "identifiers": [
+          "0000-0003-0910-3666"
+        ],
+        "affiliations": [
+          "Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA. Siyuan.Zhang@UTSouthwestern.edu.",
+          "Harold C. Simmons Comprehensive Cancer Center, Dallas, TX, USA. Siyuan.Zhang@UTSouthwestern.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 05:29",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42834039",
+      "40832237",
+      "42210222",
+      "41989584",
+      "25115793",
+      "41388312",
+      "35033172",
+      "39883364",
+      "28095864",
+      "41291861",
+      "25319391",
+      "28575659",
+      "32963283",
+      "34000514",
+      "42468168",
+      "26625210",
+      "33524500",
+      "36624516",
+      "41985786",
+      "40954153",
+      "41511363",
+      "42690005",
+      "31932454",
+      "40180916",
+      "34172534",
+      "34830322",
+      "41465608",
+      "41845371",
+      "30702189",
+      "40787466",
+      "26871602",
+      "41205579",
+      "40860157",
+      "27941884",
+      "33539938",
+      "34114949",
+      "29507619",
+      "37405595",
+      "39461579",
+      "38936516",
+      "20388781",
+      "39580424",
+      "40370322",
+      "42337015",
+      "18852147",
+      "28827520",
+      "31385416",
+      "30862717",
+      "28628116",
+      "16219472",
+      "41742264",
+      "42414253",
+      "26250934",
+      "34795663",
+      "42026023",
+      "42735835",
+      "40227532",
+      "30429105",
+      "42244014",
+      "41397972",
+      "41865336",
+      "32533757",
+      "31904865",
+      "40713812",
+      "25023983",
+      "32929152",
+      "37498408",
+      "28262727",
+      "33087324",
+      "30949687",
+      "41519773",
+      "17158885",
+      "27855669",
+      "41498033",
+      "41936856",
+      "38879666",
+      "25867264",
+      "21278795",
+      "42145073",
+      "37247132",
+      "24022590",
+      "39147169",
+      "29739756",
+      "40024947",
+      "23340297",
+      "12402156",
+      "33726799",
+      "41005547",
+      "15382080",
+      "32284542",
+      "21503873",
+      "38334461",
+      "25320277",
+      "27869162",
+      "21118970",
+      "34341514",
+      "19087522",
+      "21931549",
+      "39913127",
+      "27809800"
+    ],
+    "review": [
+      "42834039"
+    ],
+    "pmc": [
+      "13639036"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/ovariancancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ovarian Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77222-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://addgene.org/browse/pubmed/42834039",
+        "provider": "Addgene Non-profit plasmid repository",
+        "category": "Research Materials",
+        "attribute": "subscription/membership/fee required",
+        "linkname": "Get Article's Plasmids - Addgene"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-IFNGR1-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

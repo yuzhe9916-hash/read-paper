@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42856425",
+    "doi": "10.64898/2026.09.28.754942",
+    "title": "A Human Genome-wide CRISPR-Cas9 Screen Reveals Host Factors That Support Epstein-Barr Virus B cell infection."
+  },
+  "content": {
+    "abstract": "Epstein-Barr virus (EBV) infects 90% of the population worldwide and is associated with multiple malignancies, including Burkitt, Hodgkin and post-transplant lymphomas, nasopharyngeal and gastric carcinoma. EBV also triggers autoimmune diseases, including multiple sclerosis and systemic lupus erythematosus. While host factors important for EBV B-cell entry have been defined, including CD21/CR2, MHC class II and R9AP, much remains to be learned about host factors that support post-entry steps of EBV infection. To gain insight, we conducted a human genome-wide CRISPR-Cas9 screen. In addition to known EBV B cell receptors/co-receptors, we identified multiple new factors and pathways essential for EBV B cell infection. These included multiple B cell signaling pathways, actin cytoskeleton and nuclear import factors. Knockout of CD19, its tetraspanin chaperone CD81 or karyopherin subunit alpha 1 (KPNA1, also called importin-alpha5) significantly impaired establishment of EBV infection. EBV and CD19 co-localized at early stages of EBV infection, and the CD19 cytoplasmic tail was important for EBV infection, suggesting CD19 signaling supports EBV uptake. Depletion of KPNA1 significantly impaired establishment of EBV infection, but did not impair production of infectious EBV upon reactivation of latently infected B cells. Together, these results provide insights into pathways that support EBV B cell infection and identify potential therapeutic targets. IMPORTANCE: EBV infects  approximately 90% of humans and causes multiple cancers (Burkitt, Hodgkin, post-transplant lymphomas, nasopharyngeal and gastric carcinoma) and autoimmune diseases (MS, lupus). Yet while B cell entry receptors (CD21/CR2, MHC-II, R9AP) were known, the host machinery needed after entry - for the virus to actually establish infection was largely uncharacterized. This study fills that gap. Using CRISPR-Cas9 screening across the whole genome (rather than testing candidate genes), the study uncovered entire pathways B-cell signaling, actin cytoskeleton remodeling, and nuclear import as essential for infection, expanding the known host-dependency landscape well beyond entry receptors. Because these are discrete, druggable host factors tied to a specific stage of infection (establishment, not maintenance or reactivation), they represent candidate targets for preventing EBV-driven malignancies and autoimmune disease potentially more tractable than targeting the virus itself. The work moves EBV research beyond entry receptors to define the post-entry host dependencies that let the virus successfully infect B cells, identifying CD19 signaling and KPNA1-mediated nuclear import as new, targetable choke points relevant to EBV-associated cancers and autoimmunity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Hongbo",
+        "Yeo, Yao Yu",
+        "Wang, Chong",
+        "Guo, Rui",
+        "White, Shaowen",
+        "Liao, Yifei",
+        "Yiu, Stephanie",
+        "Liu, Gloria",
+        "Huang, Alvin",
+        "Zhao, David Js",
+        "Wang, Zongwei",
+        "Jiang, Sizun",
+        "Gewurz, Benjamin E",
+        "Zhao, Bo"
+      ],
+      "short_names": [
+        "Wang H",
+        "Yeo YY",
+        "Wang C",
+        "Guo R",
+        "White S",
+        "Liao Y",
+        "Yiu S",
+        "Liu G",
+        "Huang A",
+        "Zhao DJ",
+        "Wang Z",
+        "Jiang S",
+        "Gewurz BE",
+        "Zhao B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0523-3562",
+        "ORCID: 0000-0002-0081-9548",
+        "ORCID: 0000-0001-6149-3142",
+        "ORCID: 0000-0002-3965-3418",
+        "ORCID: 0000-0002-8612-5597"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Hongbo",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yeo, Yao Yu",
+        "short_name": "Yeo YY",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Chong",
+        "short_name": "Wang C",
+        "identifiers": [
+          "0000-0002-0523-3562"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Guo, Rui",
+        "short_name": "Guo R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "White, Shaowen",
+        "short_name": "White S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liao, Yifei",
+        "short_name": "Liao Y",
+        "identifiers": [
+          "0000-0002-0081-9548"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yiu, Stephanie",
+        "short_name": "Yiu S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Gloria",
+        "short_name": "Liu G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huang, Alvin",
+        "short_name": "Huang A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhao, David Js",
+        "short_name": "Zhao DJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Zongwei",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jiang, Sizun",
+        "short_name": "Jiang S",
+        "identifiers": [
+          "0000-0001-6149-3142"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gewurz, Benjamin E",
+        "short_name": "Gewurz BE",
+        "identifiers": [
+          "0000-0002-3965-3418"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhao, Bo",
+        "short_name": "Zhao B",
+        "identifiers": [
+          "0000-0002-8612-5597"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856425",
+      "33109754",
+      "26468528",
+      "41890102",
+      "41841741",
+      "24600013",
+      "34781735",
+      "32238579",
+      "33785626",
+      "36248899",
+      "42283463",
+      "31019051",
+      "39574729",
+      "41446074",
+      "40533557",
+      "31584659",
+      "36645283",
+      "29052133",
+      "38766209",
+      "35642944",
+      "29467311",
+      "41959378",
+      "25355892",
+      "26489865",
+      "31941781",
+      "23326239",
+      "42475469",
+      "26559845",
+      "28494239",
+      "32796077",
+      "42782145",
+      "31518366",
+      "38885264",
+      "36366470",
+      "31530670",
+      "29743367",
+      "39885374",
+      "30647153",
+      "36622166",
+      "40444990",
+      "39390260",
+      "38734316",
+      "29976663",
+      "24554662",
+      "42797879",
+      "39877093",
+      "42294882",
+      "41105850",
+      "33094090",
+      "32999023",
+      "30021904",
+      "40631744",
+      "29292383",
+      "39847318",
+      "36786572",
+      "31578295",
+      "41445616",
+      "31257153",
+      "2154588",
+      "25787276",
+      "37804765",
+      "18432410",
+      "30816843",
+      "23303627",
+      "34080972",
+      "42365855",
+      "35114606",
+      "37033971",
+      "38475709",
+      "40715781",
+      "42112902",
+      "40816194",
+      "25410866",
+      "32581094",
+      "41223250",
+      "42311676",
+      "42132380",
+      "28514666",
+      "27362483",
+      "35111158",
+      "27291087",
+      "40736249",
+      "30021875",
+      "28456574",
+      "41714741",
+      "38620028",
+      "32847849",
+      "32315601",
+      "25272606",
+      "29367247",
+      "30355690",
+      "38874417",
+      "41335125",
+      "41964170",
+      "27440880",
+      "29118124",
+      "26311882",
+      "41174223",
+      "41871169",
+      "36688650"
+    ],
+    "review": [
+      "42856425",
+      "29052133",
+      "36366470",
+      "39390260",
+      "38734316",
+      "42797879",
+      "18432410",
+      "23303627",
+      "42365855",
+      "42112902",
+      "40816194",
+      "42311676",
+      "25272606"
+    ],
+    "pmc": [
+      "13648616"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.28.754942",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

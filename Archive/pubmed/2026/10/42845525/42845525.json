@@ -1,0 +1,295 @@
+{
+  "identity": {
+    "pmid": "42845525",
+    "doi": "10.64898/2026.08.10.743836",
+    "title": "Quantitative profiling of intrinsic dCas9-DNA recognition reveals key determinants of guide RNA performance."
+  },
+  "content": {
+    "abstract": "CRISPR technologies based on nuclease-deactivated Cas9 (dCas9) rely on programmable DNA binding rather than DNA cleavage, yet the intrinsic DNA-recognition properties that govern optimal guide RNA (gRNA) performance remain poorly understood. Existing approaches either measure genomic occupancy in cells or infer dCas9 behavior from cleavage-based Cas9 datasets, despite DNA binding being substantially more permissive than DNA cleavage. Here we introduce TANGO (Targeted Array-based Nucleic acid-Guided Occupancy), a high-density DNA-array platform that quantitatively profiles intrinsic dCas9:gRNA binding across tens of thousands of DNA targets in a cell-free system. TANGO captures established features of dCas9 target recognition, while providing substantially greater sensitivity than prior assays. Comparison with ChIP-seq data demonstrates that intrinsic DNA-binding specificity is a major driver of genomic occupancy and reveals that chromatin accessibility modulates the intrinsic binding affinity required for dCas9 recruitment. Across CRISPRi/a guides, TANGO identifies multiple independent biochemical determinants of guide performance-including on-target affinity, mismatch tolerance, and ribonucleoprotein assembly-and flags problematic and highly promiscuous guides overlooked by current specificity metrics. Unexpectedly, some guides retain substantial guide-directed DNA binding even in the absence of a protospacer-adjacent motif (PAM), revealing an additional dimension of dCas9 specificity. Together, these results establish intrinsic DNA recognition as a quantitative and experimentally accessible determinant of dCas9 function, providing a framework for improving guide selection and enhancing the precision of CRISPR technologies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhu, Wei",
+        "Tian, Michael",
+        "Duan, Yuncheng",
+        "Reisman, Samuel J",
+        "Miller, Samantha E",
+        "Corden, Evan",
+        "Ter Weele, Maria",
+        "Song, Lingyun",
+        "Blount, Jameson",
+        "Safi, Alexias",
+        "Schreiber, Jacob",
+        "Gersbach, Charles A",
+        "Crawford, Gregory E",
+        "Gordan, Raluca"
+      ],
+      "short_names": [
+        "Zhu W",
+        "Tian M",
+        "Duan Y",
+        "Reisman SJ",
+        "Miller SE",
+        "Corden E",
+        "Ter Weele M",
+        "Song L",
+        "Blount J",
+        "Safi A",
+        "Schreiber J",
+        "Gersbach CA",
+        "Crawford GE",
+        "Gordan R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6404-6556"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Zhu, Wei",
+        "short_name": "Zhu W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tian, Michael",
+        "short_name": "Tian M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Duan, Yuncheng",
+        "short_name": "Duan Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reisman, Samuel J",
+        "short_name": "Reisman SJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Miller, Samantha E",
+        "short_name": "Miller SE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Corden, Evan",
+        "short_name": "Corden E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ter Weele, Maria",
+        "short_name": "Ter Weele M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Song, Lingyun",
+        "short_name": "Song L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Blount, Jameson",
+        "short_name": "Blount J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Safi, Alexias",
+        "short_name": "Safi A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schreiber, Jacob",
+        "short_name": "Schreiber J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gersbach, Charles A",
+        "short_name": "Gersbach CA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Crawford, Gregory E",
+        "short_name": "Crawford GE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gordân, Raluca",
+        "short_name": "Gordân R",
+        "identifiers": [
+          "0000-0002-6404-6556"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Aug 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 11:39",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42845525",
+      "28495970",
+      "36305686",
+      "24752079",
+      "32958732",
+      "37107664",
+      "25275497",
+      "34685863",
+      "31225747",
+      "32241913",
+      "25274302",
+      "29635374",
+      "32184769",
+      "29019352",
+      "34847381",
+      "33608277",
+      "30367669",
+      "41676564",
+      "30590793",
+      "30289463",
+      "34409168",
+      "42475469",
+      "30078724",
+      "35235944",
+      "36655998",
+      "26384421",
+      "24837660",
+      "33503261",
+      "29735714",
+      "32687187",
+      "24476820",
+      "31672284",
+      "28484024",
+      "40273916",
+      "42610742",
+      "35236982",
+      "40376084",
+      "30187755",
+      "37552860",
+      "26524520",
+      "32826220",
+      "35666156",
+      "31959800",
+      "33566028",
+      "32821531",
+      "32376630",
+      "26324940",
+      "29456189",
+      "28506212",
+      "33139742",
+      "33332350",
+      "32315032",
+      "28375731",
+      "31036811",
+      "36864759",
+      "42049107",
+      "33876957",
+      "27371591",
+      "25712100",
+      "27709568",
+      "35543560",
+      "39657754",
+      "39012601",
+      "28298224",
+      "37522352",
+      "37292754",
+      "39929897",
+      "34456394",
+      "32493587",
+      "41080446",
+      "41626798",
+      "37058530",
+      "39012602",
+      "31763447",
+      "36207463",
+      "42067668",
+      "32352514",
+      "36481904",
+      "34694606",
+      "39214308",
+      "35637227",
+      "31391532",
+      "35247858",
+      "33617628",
+      "38647045",
+      "37034598",
+      "38477377",
+      "39162514",
+      "23956122",
+      "38026848",
+      "36064968",
+      "37834313",
+      "41154688",
+      "42638019",
+      "32494703",
+      "27282953",
+      "28277645",
+      "36893454",
+      "34712839",
+      "35352981"
+    ],
+    "review": [
+      "42845525",
+      "34685863",
+      "28375731",
+      "36207463"
+    ],
+    "pmc": [
+      "13640689"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.08.10.743836",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

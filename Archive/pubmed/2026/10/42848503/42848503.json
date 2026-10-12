@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42848503",
+    "doi": "10.1091/mbc.E26-02-0067",
+    "title": "Dependency Map correlation analysis reveals WDR89 as a genome maintenance factor."
+  },
+  "content": {
+    "abstract": "The Cancer Dependency map project (DepMap) has created an unprecedented resource of siRNA and CRISPR genetic screens across more than 1000 cell line models. Numerous computational tools have been developed to analyze DepMap outputs and have revealed new genetic dependencies relevant to cancer. Here we extracted correlation information from the DepMap using curated gene sets of biological pathways to determine if this approach could reveal new high confidence candidates. Beginning with a set of curated DNA repair proteins we determined correlations of query gene knockout fitness across all DepMap cell lines. As expected, this approach extracted many known genome stability genes and also suggested several additional candidates not previously linked to genome maintenance. To validate our analysis we used siRNA depletion for candidate genes and identified several factors whose depletion increases DNA damage or delay repair. Among these was WDR89. WDR89 nucleolar intensity increases in an ATM dependent manner upon DNA damage and WDR89 physically interacts with a number of nucleolar proteins. Depletion of WDR89 leads to accumulation of p53 in the nucleus, p21 accumulation and G2/M cell cycle arrest 24 hours post-irradiation. These data establish WDR89 as a new genome stability regulator and highlight the value of DepMap for predicting previously unknown biology.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Minaker, Sean W",
+        "Negri, Gian L",
+        "Morin, Gregg B",
+        "Stirling, Peter C"
+      ],
+      "short_names": [
+        "Minaker SW",
+        "Negri GL",
+        "Morin GB",
+        "Stirling PC"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Terry Fox Laboratory, BC Cancer Research Institute, Vancouver, Canada.",
+        "Department of Basic and Translational Research, BC Cancer Research Institute, Vancouver, Canada.",
+        "Department of Basic and Translational Research, BC Cancer Research Institute, Vancouver, Canada.",
+        "Terry Fox Laboratory, BC Cancer Research Institute, Vancouver, Canada.",
+        "Department of Basic and Translational Research, BC Cancer Research Institute, Vancouver, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Minaker, Sean W",
+        "short_name": "Minaker SW",
+        "identifiers": [],
+        "affiliations": [
+          "Terry Fox Laboratory, BC Cancer Research Institute, Vancouver, Canada."
+        ]
+      },
+      {
+        "full_name": "Negri, Gian L",
+        "short_name": "Negri GL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic and Translational Research, BC Cancer Research Institute, Vancouver, Canada."
+        ]
+      },
+      {
+        "full_name": "Morin, Gregg B",
+        "short_name": "Morin GB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Basic and Translational Research, BC Cancer Research Institute, Vancouver, Canada."
+        ]
+      },
+      {
+        "full_name": "Stirling, Peter C",
+        "short_name": "Stirling PC",
+        "identifiers": [],
+        "affiliations": [
+          "Terry Fox Laboratory, BC Cancer Research Institute, Vancouver, Canada.",
+          "Department of Basic and Translational Research, BC Cancer Research Institute, Vancouver, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology of the cell"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Cell"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42848503",
+      "42475469",
+      "33850477",
+      "37851522",
+      "36993440",
+      "37750448",
+      "37612728",
+      "33001599",
+      "14706517",
+      "35695878",
+      "32990596",
+      "40263591",
+      "38886809",
+      "36344675",
+      "33554860",
+      "37997254",
+      "28647496",
+      "39593080",
+      "23582784",
+      "32441252",
+      "23705030",
+      "27956228",
+      "31964807",
+      "25294323",
+      "21532626",
+      "37065756",
+      "30228821",
+      "32330068",
+      "34887439",
+      "41346703",
+      "22028621",
+      "42385356",
+      "10341340",
+      "10786695",
+      "42586203",
+      "42206268",
+      "34789150",
+      "36883553",
+      "28123024",
+      "22589537",
+      "42339999",
+      "30389920",
+      "39293806",
+      "41179682",
+      "33816496",
+      "11895854",
+      "22593008",
+      "42557315",
+      "40796227",
+      "27462439",
+      "11029497",
+      "38130926",
+      "24505404",
+      "36657260",
+      "34437813",
+      "17980031",
+      "28655737",
+      "34018332",
+      "41524403",
+      "9260156",
+      "39975310",
+      "25349192",
+      "29083409",
+      "10523840",
+      "19647519",
+      "19535302",
+      "16797253",
+      "8996528",
+      "40702552",
+      "21964066",
+      "10597911",
+      "12469184",
+      "33059726",
+      "27260156",
+      "37676377",
+      "25756177",
+      "33068406",
+      "36880649",
+      "16465622",
+      "42726641",
+      "42785137",
+      "29522917",
+      "17172827",
+      "41609417",
+      "34904892",
+      "40654945",
+      "36187556",
+      "39986329",
+      "31951198",
+      "23514438",
+      "35950764",
+      "40487439",
+      "26482424",
+      "32595202",
+      "36321557",
+      "24874471",
+      "29169152",
+      "17430565",
+      "36220450",
+      "27829214"
+    ],
+    "review": [
+      "42848503",
+      "33001599",
+      "10341340",
+      "34437813",
+      "16797253",
+      "39986329"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.molbiolcell.org/doi/10.1091/mbc.E26-02-0067?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ATM-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-912",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

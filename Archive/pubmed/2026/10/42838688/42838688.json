@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "pmid": "42838688",
+    "doi": "10.1016/j.aca.2026.346191",
+    "title": "Highly efficient RPA product degradation and expanded PAM recognition enable RPA-Cas3 detection of Clonorchis sinensis."
+  },
+  "content": {
+    "abstract": "Clonorchis sinensis is a major foodborne pathogen threatening aquatic food safety. Microscopy, the diagnostic standard, is laborious and often lacks sensitivity for low-intensity infections. Molecular strategies coupling isothermal amplification with CRISPR/Cas systems have attracted interest, but their reliability is often undermined by competition between amplification and detection and intrinsic limitations of Cas effectors, notably PAM dependence of Cas12a and nonspecific activation of Cas13a. To address these limitations, we used the type I-A CRISPR-Cas3 system (TsiCas3) from T. siculi. Because TsiCas3 displays trans-cleavage activity at 65  degrees C, a temperature that completely abolishes RPA polymerase activity, this temperature gap can be exploited to avoid interference. A one-tube, closed-reaction workflow was established where target DNA is first amplified by RPA at 37  degrees C for 20 min, then the temperature is raised to 65  degrees C. This shift simultaneously inactivates RPA polymerase and activates TsiCas3-Cascade, enabling specific amplicon recognition, trans-ssDNA cleavage, and fluorescence generation. The sequential temperature control physically separates amplification from detection, eliminates mutual interference, and requires no tube opening or reagent addition. Moreover, Cas3 efficiently and near-completely degrades the RPA amplicons, substantially reducing aerosol carryover risk. This closed-tube, contamination-resistant method provides a rapid, sensitive, field-deployable tool for C. sinensis detection and represents a practical addition to clonorchiasis control.",
+    "keywords": [
+      "Aerosol contamination control",
+      "Cascade-Cas3",
+      "Clonorchis sinensis",
+      "Expanded PAM recognition",
+      "Temperature switching"
+    ],
+    "mesh_terms": [
+      "*Clonorchis sinensis/isolation & purification/genetics",
+      "Animals",
+      "*Nucleic Acid Amplification Techniques/methods",
+      "*CRISPR-Cas Systems",
+      "Temperature"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bi, MingFang",
+        "Li, Aizhe",
+        "Jin, Yushan",
+        "Gao, Yiran",
+        "Li, Meixin",
+        "Li, Chen"
+      ],
+      "short_names": [
+        "Bi M",
+        "Li A",
+        "Jin Y",
+        "Gao Y",
+        "Li M",
+        "Li C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China; CAS Key Laboratory of Regenerative Biology, Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, 510530, China. Electronic address: E0021495@u.nus.edu.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: aizhelee@163.com.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: jinys9923@mails.jlu.edu.cn.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: gaoyr9923@mails.jlu.edu.cn.",
+        "School of Public Health, Jilin University, Changchun, 130021, China. Electronic address: limx2725@mails.jlu.edu.cn.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: lc2018@jlu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bi, MingFang",
+        "short_name": "Bi M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China; CAS Key Laboratory of Regenerative Biology, Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, 510530, China. Electronic address: E0021495@u.nus.edu."
+        ]
+      },
+      {
+        "full_name": "Li, Aizhe",
+        "short_name": "Li A",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: aizhelee@163.com."
+        ]
+      },
+      {
+        "full_name": "Jin, Yushan",
+        "short_name": "Jin Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: jinys9923@mails.jlu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Gao, Yiran",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: gaoyr9923@mails.jlu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Meixin",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Jilin University, Changchun, 130021, China. Electronic address: limx2725@mails.jlu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Chen",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun, 130062, China. Electronic address: lc2018@jlu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytica chimica acta"
+    ],
+    "journal_abbrev": [
+      "Anal Chim Acta"
+    ],
+    "pub_date": "2026 Nov 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838688",
+      "40277382",
+      "37208693",
+      "40599263",
+      "40970715",
+      "37494991",
+      "42266926",
+      "42715083",
+      "32711280",
+      "42068385",
+      "42148800",
+      "35042129",
+      "42560645",
+      "41104129",
+      "42613886",
+      "40162765",
+      "41729380",
+      "37874890",
+      "42050530",
+      "41435708",
+      "41217936",
+      "40938694",
+      "39358950",
+      "38655256",
+      "20232082",
+      "41773916",
+      "42522597",
+      "40267574",
+      "36214815",
+      "42624408",
+      "23870065",
+      "40941236",
+      "41012691",
+      "39303955",
+      "41991300",
+      "41260396",
+      "41054568",
+      "38375936",
+      "38551156",
+      "40683724",
+      "38551977",
+      "38905280",
+      "41528700",
+      "36624936",
+      "40499384",
+      "40286970",
+      "37212293",
+      "40780172",
+      "38647075",
+      "28991924",
+      "39319635",
+      "42704380",
+      "42433170",
+      "41892062",
+      "40711424",
+      "38651662",
+      "35597342",
+      "35762828",
+      "40488470",
+      "38010352",
+      "35708748",
+      "38689239",
+      "41145060",
+      "41101079",
+      "40862592",
+      "42315622",
+      "35586918",
+      "41914596",
+      "42618126",
+      "38994004",
+      "40194617",
+      "41914763",
+      "39663809",
+      "40544649",
+      "40163950",
+      "33570401",
+      "42402242",
+      "31713373",
+      "42372673",
+      "39662170",
+      "39740588",
+      "41328622",
+      "39987655",
+      "39187803",
+      "32577410",
+      "41135356",
+      "42679634",
+      "40809520",
+      "35635176",
+      "36551141",
+      "38493286",
+      "41313207",
+      "36572137",
+      "40544408",
+      "38891961",
+      "41440302",
+      "41654255",
+      "41230595",
+      "39568260",
+      "38530904"
+    ],
+    "review": [
+      "42838688",
+      "42613886",
+      "41991300",
+      "41145060",
+      "41914596"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-2670(26)01141-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

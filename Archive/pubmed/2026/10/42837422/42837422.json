@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42837422",
+    "doi": "10.1371/journal.pone.0359782",
+    "title": "The Genomic Equity Accessibility Framework (GEAF): A dimensionally consistent framework for modeling affordability and equity in genomic and regenerative therapies."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Advances in CRISPR-based gene editing and stem cell-derived embryo models have created substantial biomedical opportunity alongside significant ethical and distributive concerns. Personalized genomic and regenerative therapies approved in the United States as of this writing carry list prices spanning approximately $2.2 million (Casgevy) to $4.25 million (Lenmeldy), with several other approved products priced between these figures (e.g., Lyfgenia, $3.1 million; Hemgenix, $3.5 million). This raises the question of how affordability, accessibility, ethical compliance, and distributional inequality can be jointly represented in a single, mathematically coherent index to support policy analysis. METHODS: We audited a previously proposed composite index, the Genomic Equity Accessibility Framework (GEAF = ((A x E) - (C x I))/(P + R) x 100), and identified dimensional incompatibility between its terms, an unbounded and not-independently-interpretable output range, and scenario inputs inconsistent with the cost estimates cited elsewhere in the same manuscript. We reconstructed GEAF as a normalized, bounded (0-100) weighted composite of six dimensionless components - accessibility, ethical compliance, affordability, equity (inverse inequality), policy strength, and research efficiency - derived using multi-attribute utility theory. We tested the reconstructed formula against algebraic edge cases, applied it to seven re-specified illustrative scenarios whose cost inputs are anchored to cited list-price literature, and conducted one-way, two-way, and Monte Carlo (10,000-iteration) probabilistic sensitivity analyses. RESULTS: The reconstructed index (GEAF') is bounded on [0,100], monotonic in every component, and behaves consistently at algebraic extremes. Across the seven illustrative scenarios, GEAF' ranged from 27.9 (no equity intervention, list-price cost) to 86.5 (fully optimized tiered-pricing and policy scenario). One-way sensitivity analysis identified cost (C) and the inequality factor (I) as the two largest single-parameter drivers of the index under baseline conditions, followed by ethical compliance (E). Monte Carlo simulation (10,000 iterations per regime) propagating stated, non-empirical parameter-uncertainty assumptions produced a baseline-scenario mean of 32.6 (90% interval, 5th-95th percentile, approximately 22.9-42.9) and an equity-intervention-scenario mean of 72.4 (90% interval approximately 62.9-81.1), with no overlap between the two simulated distributions. CONCLUSIONS: GEAF' provides a transparent, reproducible, and dimensionally coherent way to combine affordability, accessibility, ethical compliance, and distributional equity into a single comparative index for genomic and regenerative therapy policy scenarios. It is presented as a candidate conceptual and methodological framework, not as an empirically validated predictive or clinical tool; quantitative claims about real-world cost reductions have been removed unless directly supported by cited evidence. Prospective empirical calibration against real accessibility, pricing, and policy-outcome data is identified as a necessary next step before GEAF' is used in health technology assessment or resource-allocation decisions.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Genomics/economics/ethics",
+      "*Regenerative Medicine/economics/ethics",
+      "*Gene Editing/economics/ethics",
+      "United States",
+      "*Genetic Therapy/economics/ethics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "David, Peter Oloche"
+      ],
+      "short_names": [
+        "David PO"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-9868-5430"
+      ],
+      "affiliations": [
+        "Strayer University, Washington, District of Columbia, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "David, Peter Oloche",
+        "short_name": "David PO",
+        "identifiers": [
+          "0009-0003-9868-5430"
+        ],
+        "affiliations": [
+          "Strayer University, Washington, District of Columbia, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42837422",
+      "36321557",
+      "42475469",
+      "39392045",
+      "38309959",
+      "29553669",
+      "37851522",
+      "42170588",
+      "36216697",
+      "41117352",
+      "34484487",
+      "29553663",
+      "34076574",
+      "33036834",
+      "38873396",
+      "41707781",
+      "37131395",
+      "37131363",
+      "40339643",
+      "31883240",
+      "33620822",
+      "42343367",
+      "41555735",
+      "32975190",
+      "27227237",
+      "41734155",
+      "41530200",
+      "15959450",
+      "42647854",
+      "30726003",
+      "42699035",
+      "26905063",
+      "41310253",
+      "42397262",
+      "42610007",
+      "36073992",
+      "29262162",
+      "41197648",
+      "28244858",
+      "42764727",
+      "30212088",
+      "23074461",
+      "40258278",
+      "29553668",
+      "42190233",
+      "42603157",
+      "41797598",
+      "41920588",
+      "22838153",
+      "42154949",
+      "33502000",
+      "35730516",
+      "21289930",
+      "42573390",
+      "34713423",
+      "34445886",
+      "23074517",
+      "21468289",
+      "40455571",
+      "39986491",
+      "30278053",
+      "30784347",
+      "16959170",
+      "40705178",
+      "33085409",
+      "37296369",
+      "16545207",
+      "27633834",
+      "11701100",
+      "37131927",
+      "42015793",
+      "25632496",
+      "33240456",
+      "27650663",
+      "30917079",
+      "33314144",
+      "34990339",
+      "34964106",
+      "39023142",
+      "42326956",
+      "23074526",
+      "31276606",
+      "41893756",
+      "41755690",
+      "12065068",
+      "42144278",
+      "27820152",
+      "39982606",
+      "22894140",
+      "31226298",
+      "36997884",
+      "42282094",
+      "31426931",
+      "37247420",
+      "42495089",
+      "33764725",
+      "26571290",
+      "32845201",
+      "41426670",
+      "38252942"
+    ],
+    "review": [
+      "42837422",
+      "36321557",
+      "29553669",
+      "41117352",
+      "34484487",
+      "29553663",
+      "38873396",
+      "41707781",
+      "41555735",
+      "32975190",
+      "27227237",
+      "15959450",
+      "42699035",
+      "30212088",
+      "29553668",
+      "41797598",
+      "42154949",
+      "33502000",
+      "34713423",
+      "40455571",
+      "39986491",
+      "16959170",
+      "16545207",
+      "27633834",
+      "11701100",
+      "37131927",
+      "25632496",
+      "33240456",
+      "27650663",
+      "34990339",
+      "39023142",
+      "31276606",
+      "12065068",
+      "42282094"
+    ],
+    "pmc": [
+      "13641711"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/genesandgenetherapy.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Genes and Gene Therapy"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0359782",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

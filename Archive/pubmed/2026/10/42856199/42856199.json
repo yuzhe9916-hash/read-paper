@@ -1,0 +1,204 @@
+{
+  "identity": {
+    "pmid": "42856199",
+    "doi": "10.64898/2026.09.24.753884",
+    "title": "Plasmid architecture determines the stability of inverted terminal repeats in adeno-associated virus vectors."
+  },
+  "content": {
+    "abstract": "Recombinant vectors derived from adeno-associated viruses (rAAVs) are a mainstay of human gene therapy. rAAVs are produced from plasmids containing transgene cassettes flanked by inverted terminal repeats (ITRs), which form structured DNA elements that stabilize the ends of the single-stranded viral genome and are the only viral sequences required in cis for genome packaging. For decades, it has been recognized that propagation of ITR-containing plasmids can result in deletions and other mutations, prompting the use of specialized bacterial strains, modified growth conditions, and truncated or altered ITRs. Despite these practices, ITR instability remains a persistent source of plasmid heterogeneity. To identify determinants of ITR stability, we evaluated ITR integrity in one of the original cloned AAV2 genome isolates, a reconstructed AAV2 plasmid, and a synthetic rAAV vector containing full-length native AAV2 ITRs. We established a quantitative bioinformatic workflow for analyzing ITR-containing plasmids and virus preparations from raw Oxford Nanopore sequencing data. These experiments showed that ITRs were highly stable during short-term culture, whereas prolonged culture revealed strong positional effects, with preferential loss or mutation of the ITR nearest the plasmid origin of replication. Consistent with this model, a survey of 7,041 sequence-verifiable AAV plasmids from the Addgene repository identified a widely disseminated 11-bp ITR deletion in 4,773 plasmids; among analyzable two-ITR plasmids, this deletion was located in the origin-proximal ITR in 95.3% of cases. Guided by these findings, we constructed a novel rAAV entry vector with stable full-length native AAV2 ITRs that enabled efficient packaging of a 4,750-bp all-in-one CRISPR-Cas9 cassette. Finally, we developed a cell-based strategy to compare the effects of ITR mutations on rAAV genome integration, providing preliminary evidence that ITR sequence variation can influence integration outcomes. Together, these findings show that ITR instability is a preventable, position-dependent property of plasmid architecture and identify ITR integrity as an important variable in rAAV vector design and quality control.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jaskula-Ranga, Vinod",
+        "Li, Sheri",
+        "Pandya, Aditya",
+        "Bunz, Fred"
+      ],
+      "short_names": [
+        "Jaskula-Ranga V",
+        "Li S",
+        "Pandya A",
+        "Bunz F"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Jaskula-Ranga, Vinod",
+        "short_name": "Jaskula-Ranga V",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Sheri",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pandya, Aditya",
+        "short_name": "Pandya A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bunz, Fred",
+        "short_name": "Bunz F",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856199",
+      "42737529",
+      "28967288",
+      "8627687",
+      "38399714",
+      "22428977",
+      "34629464",
+      "31914802",
+      "41940073",
+      "36571262",
+      "28710345",
+      "12072516",
+      "22612656",
+      "12139247",
+      "42737503",
+      "39657764",
+      "8995611",
+      "36178359",
+      "15596830",
+      "24764357",
+      "29766023",
+      "8995635",
+      "35211640",
+      "10196327",
+      "39139628",
+      "16987973",
+      "19128486",
+      "25355884",
+      "20825662",
+      "25555376",
+      "9060669",
+      "9060699",
+      "10516040",
+      "31752513",
+      "11307166",
+      "41621039",
+      "9371582",
+      "9621003",
+      "39868534",
+      "10364291",
+      "15193918",
+      "32159396",
+      "32183699",
+      "22383640",
+      "27069952",
+      "21947568",
+      "9791017",
+      "12949435",
+      "34287038",
+      "34611321",
+      "23697168",
+      "21853137",
+      "31566024",
+      "12923568",
+      "32775498",
+      "41656605",
+      "15451450",
+      "7623375",
+      "11090148",
+      "12072515",
+      "9573272",
+      "42282747",
+      "24806228",
+      "40260496",
+      "10570967",
+      "9202669",
+      "36719192",
+      "11734633",
+      "14965377",
+      "23936358",
+      "11773389",
+      "42283432",
+      "26757051",
+      "8068942",
+      "41141963",
+      "20811580",
+      "21875357",
+      "32545533",
+      "17626070",
+      "2542609",
+      "38766527",
+      "41279006",
+      "39533002",
+      "12880922",
+      "24521444",
+      "15538728",
+      "19211760",
+      "35293222",
+      "6094825",
+      "29671068",
+      "37310260",
+      "30051733",
+      "42055199",
+      "25275117",
+      "9343238",
+      "11991970",
+      "7933128",
+      "12573624",
+      "16023415",
+      "17181493"
+    ],
+    "review": [
+      "42856199",
+      "31752513",
+      "26757051",
+      "32545533"
+    ],
+    "pmc": [
+      "13648401"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.24.753884",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

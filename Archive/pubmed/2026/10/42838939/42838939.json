@@ -1,0 +1,447 @@
+{
+  "identity": {
+    "pmid": "42838939",
+    "doi": "10.1038/s41467-026-77310-9",
+    "title": "Telomere variant sequences encode the genetic blueprint for allele-specific telomere length."
+  },
+  "content": {
+    "abstract": "The ends of human chromosomes are capped by specialized nucleoprotein structures, termed telomeres, which are essential for genome stability. Recent advances in long-read sequencing have enabled allele-specific telomere length measurements at nucleotide resolution, uncovering extreme heterogeneity in telomere length between alleles. The progressive telomere shortening over time makes steady-state telomere length in human somatic cells a promising biomarker for age-associated diseases. However, the mechanisms underlying allele-specific telomere maintenance and its stability remain poorly understood. Here, we developed a high-resolution workflow combining PacBio and Nanopore long-read sequencing platforms to map allele-specific telomere length in human blood samples as well as cultured cell lines. By tracing allele-specific telomeric sequence in family members across multiple generations, we show that the allele-specific telomeric variant sequences (TVSs) are heritable and underlie the extreme heterogeneity of telomere length between alleles. Continuous cell proliferation likely drives the slow but stochastic evolution of allele-specific TVSs, resulting in asymmetry in telomere inheritance from father and mother (p-value = 2.354e-7). Targeted deletion of allele-specific TVSs using CRISPR-Cas9 resets telomere length, further confirming their causal role in the control of allele-specific telomere maintenance. These results indicated that TVSs are heritable genetic elements underlying the allele-specific telomere length.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Telomere/genetics/metabolism",
+      "Alleles",
+      "*Telomere Homeostasis/genetics",
+      "CRISPR-Cas Systems",
+      "Female",
+      "Cell Line",
+      "Male"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chai, Xiaoran",
+        "Poon, LaiFong",
+        "Liu, Hengrui",
+        "Singh, Manvendra K",
+        "Minami, Takashi",
+        "Sashida, Goro",
+        "Fukuda, Masafumi",
+        "Teh, Bin Tean",
+        "Tan, Patrick",
+        "Hwang, William Ying Khee",
+        "Lin, Jue",
+        "Koh, Angela S",
+        "Kondoh, Tatsuro",
+        "Xu, Lifeng",
+        "Osato, Motomi",
+        "Liu, Jin",
+        "Li, Shang"
+      ],
+      "short_names": [
+        "Chai X",
+        "Poon L",
+        "Liu H",
+        "Singh MK",
+        "Minami T",
+        "Sashida G",
+        "Fukuda M",
+        "Teh BT",
+        "Tan P",
+        "Hwang WYK",
+        "Lin J",
+        "Koh AS",
+        "Kondoh T",
+        "Xu L",
+        "Osato M",
+        "Liu J",
+        "Li S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1512-7330",
+        "ORCID: 0000-0002-5123-9033",
+        "ORCID: 0000-0002-2884-0074",
+        "ORCID: 0000-0002-2345-1379",
+        "ORCID: 0000-0003-2318-5987",
+        "ORCID: 0000-0002-0179-8048",
+        "ORCID: 0000-0003-0143-6263",
+        "ORCID: 0000-0001-5629-9732",
+        "ORCID: 0000-0002-7887-5451",
+        "ORCID: 0000-0003-3982-9054",
+        "ORCID: 0000-0002-5707-2078",
+        "ORCID: 0000-0002-6226-3362"
+      ],
+      "affiliations": [
+        "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+        "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+        "School of Data Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China.",
+        "National Heart Centre Singapore, Duke-NUS Medical School, Singapore, Singapore.",
+        "Cardiovascular and Metabolic Disorders Program, Duke-NUS Medical School, Singapore, Singapore.",
+        "Divison of Molecular and Vascular Biology, IRDA, Kumamoto University, Kumamoto, Japan.",
+        "International Research Center for Medical Sciences, Kumamoto University, Kumamoto, Japan.",
+        "The Misakaenosono Mutsumi Developmental, Medical and Welfare Center, Isahaya, Japan.",
+        "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+        "Laboratory of Cancer Epigenome, Division of Medical Science, National Cancer Centre Singapore, Singapore, Singapore.",
+        "Institute of Molecular and Cell Biology, Agency for Science, Technology and Research (A*STAR), Singapore, Singapore.",
+        "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+        "Precision Health Research Singapore, Consortium for Clinical Research and Innovation, Singapore, Singapore.",
+        "SingHealth/Duke-NUS Institute of Precision Medicine, National Heart Centre Singapore, Singapore, Singapore.",
+        "Epigenetic and Epitranscriptomic Regulation Domain, Genome Institute of Singapore, Singapore, Singapore.",
+        "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+        "Department of Haematology, Singapore General Hospital, Singapore, Singapore.",
+        "Hematopoietic Stem Cell and Cellular Therapy Laboratory, Division of Medical Sciences, National Cancer Centre Singapore, Singapore, Singapore.",
+        "Regenerative Medicine Institute of Singapore, Singapore, Singapore.",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco (UCSF) School of Medicine, San Francisco, CA, USA.",
+        "National Heart Centre Singapore, Duke-NUS Medical School, Singapore, Singapore.",
+        "The Misakaenosono Mutsumi Developmental, Medical and Welfare Center, Isahaya, Japan.",
+        "Department of Microbiology and Molecular Genetics, University of California, Davis, Davis, CA, USA.",
+        "International Research Center for Medical Sciences, Kumamoto University, Kumamoto, Japan. motokuma@kumamoto-u.ac.jp.",
+        "Department of Medical Technology, Kumamoto Health Science University, Kumamoto, Japan. motokuma@kumamoto-u.ac.jp.",
+        "School of Data Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China. liujinlab@cuhk.edu.cn.",
+        "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore. shang.li@duke-nus.edu.sg.",
+        "Regenerative Medicine Institute of Singapore, Singapore, Singapore. shang.li@duke-nus.edu.sg.",
+        "Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore. shang.li@duke-nus.edu.sg."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chai, Xiaoran",
+        "short_name": "Chai X",
+        "identifiers": [
+          "0000-0003-1512-7330"
+        ],
+        "affiliations": [
+          "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Poon, LaiFong",
+        "short_name": "Poon L",
+        "identifiers": [
+          "0000-0002-5123-9033"
+        ],
+        "affiliations": [
+          "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Liu, Hengrui",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Data Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Singh, Manvendra K",
+        "short_name": "Singh MK",
+        "identifiers": [
+          "0000-0002-2884-0074"
+        ],
+        "affiliations": [
+          "National Heart Centre Singapore, Duke-NUS Medical School, Singapore, Singapore.",
+          "Cardiovascular and Metabolic Disorders Program, Duke-NUS Medical School, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Minami, Takashi",
+        "short_name": "Minami T",
+        "identifiers": [
+          "0000-0002-2345-1379"
+        ],
+        "affiliations": [
+          "Divison of Molecular and Vascular Biology, IRDA, Kumamoto University, Kumamoto, Japan."
+        ]
+      },
+      {
+        "full_name": "Sashida, Goro",
+        "short_name": "Sashida G",
+        "identifiers": [
+          "0000-0003-2318-5987"
+        ],
+        "affiliations": [
+          "International Research Center for Medical Sciences, Kumamoto University, Kumamoto, Japan."
+        ]
+      },
+      {
+        "full_name": "Fukuda, Masafumi",
+        "short_name": "Fukuda M",
+        "identifiers": [],
+        "affiliations": [
+          "The Misakaenosono Mutsumi Developmental, Medical and Welfare Center, Isahaya, Japan."
+        ]
+      },
+      {
+        "full_name": "Teh, Bin Tean",
+        "short_name": "Teh BT",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+          "Laboratory of Cancer Epigenome, Division of Medical Science, National Cancer Centre Singapore, Singapore, Singapore.",
+          "Institute of Molecular and Cell Biology, Agency for Science, Technology and Research (A*STAR), Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Tan, Patrick",
+        "short_name": "Tan P",
+        "identifiers": [
+          "0000-0002-0179-8048"
+        ],
+        "affiliations": [
+          "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+          "Precision Health Research Singapore, Consortium for Clinical Research and Innovation, Singapore, Singapore.",
+          "SingHealth/Duke-NUS Institute of Precision Medicine, National Heart Centre Singapore, Singapore, Singapore.",
+          "Epigenetic and Epitranscriptomic Regulation Domain, Genome Institute of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Hwang, William Ying Khee",
+        "short_name": "Hwang WYK",
+        "identifiers": [
+          "0000-0003-0143-6263"
+        ],
+        "affiliations": [
+          "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
+          "Department of Haematology, Singapore General Hospital, Singapore, Singapore.",
+          "Hematopoietic Stem Cell and Cellular Therapy Laboratory, Division of Medical Sciences, National Cancer Centre Singapore, Singapore, Singapore.",
+          "Regenerative Medicine Institute of Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Lin, Jue",
+        "short_name": "Lin J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, University of California, San Francisco (UCSF) School of Medicine, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Koh, Angela S",
+        "short_name": "Koh AS",
+        "identifiers": [
+          "0000-0001-5629-9732"
+        ],
+        "affiliations": [
+          "National Heart Centre Singapore, Duke-NUS Medical School, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Kondoh, Tatsuro",
+        "short_name": "Kondoh T",
+        "identifiers": [],
+        "affiliations": [
+          "The Misakaenosono Mutsumi Developmental, Medical and Welfare Center, Isahaya, Japan."
+        ]
+      },
+      {
+        "full_name": "Xu, Lifeng",
+        "short_name": "Xu L",
+        "identifiers": [
+          "0000-0002-7887-5451"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, University of California, Davis, Davis, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Osato, Motomi",
+        "short_name": "Osato M",
+        "identifiers": [
+          "0000-0003-3982-9054"
+        ],
+        "affiliations": [
+          "International Research Center for Medical Sciences, Kumamoto University, Kumamoto, Japan. motokuma@kumamoto-u.ac.jp.",
+          "Department of Medical Technology, Kumamoto Health Science University, Kumamoto, Japan. motokuma@kumamoto-u.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Liu, Jin",
+        "short_name": "Liu J",
+        "identifiers": [
+          "0000-0002-5707-2078"
+        ],
+        "affiliations": [
+          "School of Data Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China. liujinlab@cuhk.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Shang",
+        "short_name": "Li S",
+        "identifiers": [
+          "0000-0002-6226-3362"
+        ],
+        "affiliations": [
+          "Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore. shang.li@duke-nus.edu.sg.",
+          "Regenerative Medicine Institute of Singapore, Singapore, Singapore. shang.li@duke-nus.edu.sg.",
+          "Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore. shang.li@duke-nus.edu.sg."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 05:31",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838939",
+      "36650155",
+      "38890299",
+      "38755561",
+      "41026782",
+      "28324494",
+      "29891356",
+      "38603523",
+      "38789417",
+      "38890274",
+      "27604461",
+      "25923330",
+      "31835618",
+      "30118998",
+      "40867046",
+      "39192095",
+      "22421147",
+      "41345908",
+      "34702734",
+      "24091626",
+      "34486523",
+      "26321036",
+      "23570868",
+      "20732797",
+      "33090998",
+      "16421168",
+      "41488053",
+      "31728621",
+      "27531349",
+      "27834202",
+      "24225324",
+      "36959362",
+      "28082411",
+      "32321410",
+      "24339742",
+      "24730869",
+      "25684230",
+      "40900359",
+      "33338512",
+      "22759812",
+      "22792358",
+      "29108638",
+      "25483083",
+      "30439955",
+      "32669102",
+      "40286639",
+      "31611308",
+      "21972126",
+      "24910283",
+      "40975053",
+      "31646401",
+      "41904129",
+      "29250704",
+      "33749133",
+      "26025910",
+      "30680798",
+      "30629181",
+      "38837026",
+      "40659358",
+      "26936823",
+      "22947336",
+      "41365095",
+      "34196896",
+      "38943263",
+      "10526206",
+      "18280685",
+      "8757195",
+      "29415479",
+      "30626097",
+      "36151328",
+      "41139959",
+      "29335382",
+      "27118469",
+      "27498151",
+      "18635962",
+      "30277496",
+      "34162698",
+      "10577915",
+      "21460395",
+      "29542055",
+      "34488828",
+      "32217664",
+      "24334955",
+      "21912072",
+      "35022670",
+      "25128433",
+      "24039592",
+      "19815087",
+      "31783399",
+      "19763176",
+      "29948614",
+      "29571043",
+      "9034193",
+      "16761726",
+      "28887594",
+      "25488978",
+      "27386863",
+      "16856866",
+      "27929092",
+      "27597395"
+    ],
+    "review": [
+      "42838939",
+      "38789417",
+      "31835618",
+      "22421147",
+      "20732797",
+      "41488053",
+      "32321410",
+      "22759812",
+      "40286639",
+      "24910283",
+      "29250704",
+      "41365095",
+      "34196896",
+      "29415479",
+      "30626097",
+      "36151328",
+      "27118469",
+      "18635962",
+      "30277496",
+      "19815087",
+      "29571043",
+      "28887594",
+      "27386863"
+    ],
+    "pmc": [
+      "13642928"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77310-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

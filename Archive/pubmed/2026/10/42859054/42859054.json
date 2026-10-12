@@ -1,0 +1,313 @@
+{
+  "identity": {
+    "pmid": "42859054",
+    "doi": "10.1021/acssensors.6c01885",
+    "title": "Centrifugal Microfluidic Soil-to-DNA Preparation for the Portable Detection of Phytophthora infestans Using a CRISPR/Cas12a-Based Quantum Dot Fluorescent Lateral Flow Assay."
+  },
+  "content": {
+    "abstract": "Portable detection of soil-borne pathogens is constrained by laborious soil sample preparation and nucleic acid extraction. Here, we report a centrifugal Soil-on-a-Disc (SoaD) microfluidic chip for rapid soil-to-DNA preparation with automated on-chip clarification and DNA purification, combined with a CRISPR/Cas12a-based quantum dot (QD) fluorescent lateral flow assay (LFA) and smartphone-based fluorescence analysis for the portable detection of Phytophthora infestans (P. infestans). The seven-layer PMMA disc integrates cascaded 5 and 0.8 mum membranes for stepwise particle filtration, together with a silica membrane and active puncture valves for sequential DNA capture, washing, and elution under centrifugal control. The SoaD chip reduced the turbidity of soil suspensions significantly from 12,980 NTU to below the detection limit ( approximately 0 NTU), yielding a clarified sample matrix for downstream DNA extraction, and completed DNA extraction within 20 min. Compared with a commercial soil DNA kit, the relative total DNA recovery efficiency for P. infestans-spiked soils was 94.9 +/- 3.3%. Coupled with downstream recombinase polymerase amplification and smartphone-assisted fluorescence readout, the system achieved a limit of detection of 0.135 ng/muL for PiNW-derived RPA products and detected P. infestans in soils spiked at levels as low as 1 spore/g. As a secondary validation of extraction compatibility, 16S rRNA/ITS amplicon sequencing showed that chip-prepared DNA yielded bacterial and fungal community profiles highly consistent with those obtained using the commercial soil DNA kit (r = 0.996/0.923). This work advances portable CRISPR-based sensing toward complex soil samples and provides a field-oriented strategy for molecular surveillance of soil-borne plant diseases.",
+    "keywords": [
+      "Phytophthora infestans",
+      "CRISPR/Cas12a",
+      "centrifugal microfluidics",
+      "lateral flow assay",
+      "smartphone-assisted analysis",
+      "soil-to-DNA preparation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Cifu",
+        "Cao, Liudong",
+        "Li, Sicheng",
+        "Ye, Wenshuai",
+        "Zhao, Jiangnan",
+        "Li, Xuankun",
+        "Luo, Shiqi",
+        "Zhang, Liqun",
+        "Liu, Gang",
+        "Gao, Fang",
+        "Wang, Yan"
+      ],
+      "short_names": [
+        "Xu C",
+        "Cao L",
+        "Li S",
+        "Ye W",
+        "Zhao J",
+        "Li X",
+        "Luo S",
+        "Zhang L",
+        "Liu G",
+        "Gao F",
+        "Wang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9616-9713",
+        "ORCID: 0000-0001-7758-441X"
+      ],
+      "affiliations": [
+        "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Institute of Energy Materials Science, University of Shanghai for Science and Technology, Shanghai200093, China.",
+        "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "College of Plant Protection, China Agricultural University , Beijing100193, China.",
+        "College of Plant Protection, China Agricultural University , Beijing100193, China.",
+        "College of Plant Protection, China Agricultural University , Beijing100193, China.",
+        "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Institute of Energy Materials Science, University of Shanghai for Science and Technology, Shanghai200093, China.",
+        "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+        "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Cifu",
+        "short_name": "Xu C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Liudong",
+        "short_name": "Cao L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Energy Materials Science, University of Shanghai for Science and Technology, Shanghai200093, China."
+        ]
+      },
+      {
+        "full_name": "Li, Sicheng",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Wenshuai",
+        "short_name": "Ye W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jiangnan",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuankun",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Plant Protection, China Agricultural University , Beijing100193, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Shiqi",
+        "short_name": "Luo S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Plant Protection, China Agricultural University , Beijing100193, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Liqun",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Plant Protection, China Agricultural University , Beijing100193, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Gang",
+        "short_name": "Liu G",
+        "identifiers": [
+          "0000-0001-9616-9713"
+        ],
+        "affiliations": [
+          "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Fang",
+        "short_name": "Gao F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Energy Materials Science, University of Shanghai for Science and Technology, Shanghai200093, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0001-7758-441X"
+        ],
+        "affiliations": [
+          "Key Laboratory of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China.",
+          "Key Laboratory of Agricultural Information Acquisition Technology, Ministry of Agriculture and Rural Affairs of China, College of Information and Electrical Engineering, China Agricultural University, Beijing100083, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 04:08",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42859054",
+      "42330664",
+      "37874890",
+      "37722405",
+      "42704380",
+      "42506217",
+      "41718579",
+      "38791224",
+      "42522597",
+      "32924873",
+      "40840128",
+      "36943040",
+      "42710139",
+      "40151930",
+      "35946585",
+      "39666765",
+      "41729380",
+      "39874920",
+      "31021437",
+      "40194617",
+      "36167511",
+      "42517263",
+      "36160953",
+      "37228176",
+      "42698516",
+      "38655256",
+      "41742454",
+      "40862592",
+      "36005831",
+      "42030773",
+      "41313207",
+      "42474386",
+      "42624408",
+      "42197699",
+      "36735954",
+      "39319635",
+      "38903797",
+      "36974013",
+      "38375936",
+      "35146019",
+      "40387535",
+      "42608703",
+      "41395238",
+      "39254031",
+      "35775831",
+      "36410158",
+      "35049639",
+      "38857358",
+      "38042139",
+      "41435708",
+      "42599007",
+      "42655845",
+      "34743538",
+      "34305865",
+      "38653014",
+      "39067906",
+      "37305413",
+      "35464976",
+      "41590284",
+      "37494991",
+      "41135356",
+      "42715083",
+      "42148800",
+      "41599009",
+      "41254639",
+      "40179699",
+      "38383404",
+      "42560645",
+      "42377584",
+      "34665590",
+      "41054568",
+      "36471470",
+      "34685941",
+      "39303955",
+      "41600812",
+      "40284699",
+      "40749819",
+      "42503780",
+      "41528700",
+      "38472096",
+      "35708748",
+      "37162995",
+      "36155591",
+      "39832863",
+      "35845427",
+      "39754554",
+      "37933907",
+      "38809001",
+      "42263565",
+      "39568260",
+      "40286970",
+      "42249743",
+      "36893726",
+      "41746183",
+      "34601182",
+      "31657996",
+      "38994004",
+      "37605962",
+      "35715648",
+      "36180879"
+    ],
+    "review": [
+      "42859054"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c01885",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

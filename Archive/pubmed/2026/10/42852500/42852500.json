@@ -1,0 +1,346 @@
+{
+  "identity": {
+    "pmid": "42852500",
+    "doi": "10.1111/cpr.70285",
+    "title": "Chromatin Modifications Orchestrate DNA Repair Pathway Choice: Epigenetics Strategies for Enhancing CRISPR-Cas9-Mediated Knock-In Efficiency."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9-mediated precise gene knock-in relies on homology-directed repair (HDR) at low frequencies in most mammalian cells, limiting precise gene editing in both research and therapeutic applications. Although multiple strategies have been developed to increase knock-in efficiency, their application can be restricted by technical complexity, limited applicability, or potential safety concerns. In this review, we propose a shift in focus from conventional strategies toward epigenetic methods to increase knock-in efficiency. It has been proved that histone modifications such as H3K36me3, H3K9me3, H4K20me2, and H2AK15ub are involved in DNA damage signallings and the recruitment of key HDR and non-homologous end joining (NHEJ) factors. We further discuss conceptual strategies for transient chromatin modulation to bias repair pathway choice and highlight associated technical challenges and safety considerations. Together, these findings and insights highlight the essential role of histone modification in shaping chromatin states and orchestrating DNA repair dynamics. Accordingly, epigenetic regulation emerges as a compelling strategy to facilitate high-fidelity gene knock-in, offering valuable mechanistic clues and actionable epigenetic targets to gene editing for basic research and therapeutic translation.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xin",
+        "Qin, Shan",
+        "Yang, Ce",
+        "Xing, Zhiyao",
+        "Liu, Chong",
+        "Zhang, Xingchen",
+        "Wu, Xi",
+        "Li, Xueren",
+        "Gong, Yanhua",
+        "Liu, Zichuan"
+      ],
+      "short_names": [
+        "Chen X",
+        "Qin S",
+        "Yang C",
+        "Xing Z",
+        "Liu C",
+        "Zhang X",
+        "Wu X",
+        "Li X",
+        "Gong Y",
+        "Liu Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-2324-0843",
+        "ORCID: 0000-0002-8204-1388",
+        "ORCID: 0000-0002-2693-0498",
+        "ORCID: 0000-0002-5709-8497"
+      ],
+      "affiliations": [
+        "School of Disaster and Emergency Medicine, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Department of Respiratory Medicine, Tianjin Jinnan Hospital, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Department of Respiratory Medicine, Jinnan Hospital, Tianjin University, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Department of Respiratory Medicine, Tianjin Jinnan Hospital, Tianjin, China.",
+        "Department of Respiratory Medicine, Jinnan Hospital, Tianjin University, Tianjin, China.",
+        "School of Disaster and Emergency Medicine, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+        "Department of Respiratory Medicine, Jinnan Hospital, Tianjin University, Tianjin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xin",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Disaster and Emergency Medicine, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+          "Department of Respiratory Medicine, Tianjin Jinnan Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Shan",
+        "short_name": "Qin S",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ce",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Xing, Zhiyao",
+        "short_name": "Xing Z",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+          "Department of Respiratory Medicine, Jinnan Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chong",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xingchen",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0009-0002-2324-0843"
+        ],
+        "affiliations": [
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xi",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xueren",
+        "short_name": "Li X",
+        "identifiers": [
+          "0000-0002-8204-1388"
+        ],
+        "affiliations": [
+          "Department of Respiratory Medicine, Tianjin Jinnan Hospital, Tianjin, China.",
+          "Department of Respiratory Medicine, Jinnan Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Yanhua",
+        "short_name": "Gong Y",
+        "identifiers": [
+          "0000-0002-2693-0498"
+        ],
+        "affiliations": [
+          "School of Disaster and Emergency Medicine, Faculty of Medicine, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zichuan",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0000-0002-5709-8497"
+        ],
+        "affiliations": [
+          "Tianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, School of Pharmaceutical Science and Technology, Faculty of Medicine, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Frontiers Research Institute for Synthetic Biology, Tianjin University, Tianjin, China.",
+          "Department of Respiratory Medicine, Jinnan Hospital, Tianjin University, Tianjin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell proliferation"
+    ],
+    "journal_abbrev": [
+      "Cell Prolif"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42852500",
+      "32899704",
+      "39494147",
+      "33097066",
+      "32534122",
+      "42475469",
+      "30062046",
+      "26458548",
+      "40043077",
+      "32694104",
+      "40362595",
+      "28066481",
+      "40362308",
+      "35975201",
+      "36459645",
+      "36315306",
+      "35187887",
+      "28300641",
+      "39103967",
+      "41199069",
+      "33659952",
+      "36701041",
+      "42276945",
+      "36864759",
+      "26850641",
+      "28827551",
+      "31434745",
+      "28478103",
+      "36726409",
+      "28177771",
+      "38886150",
+      "35182556",
+      "42015511",
+      "35738528",
+      "33689695",
+      "31799598",
+      "31519773",
+      "40360740",
+      "36773157",
+      "28928041",
+      "37070192",
+      "34518609",
+      "31015609",
+      "32343230",
+      "25803306",
+      "33420926",
+      "32500310",
+      "30687381",
+      "27163284",
+      "36701230",
+      "29160738",
+      "35921985",
+      "29176614",
+      "35076280",
+      "28374058",
+      "39709560",
+      "33309880",
+      "30340517",
+      "36133672",
+      "28499832",
+      "30355591",
+      "33581720",
+      "35481279",
+      "40232991",
+      "40517388",
+      "39483035",
+      "30675496",
+      "41147058",
+      "29655920",
+      "29672770",
+      "33170255",
+      "38685010",
+      "41049828",
+      "37838676",
+      "37475832",
+      "31234957",
+      "36384669",
+      "29868583",
+      "38930955",
+      "40437234",
+      "40867578",
+      "38739603",
+      "26817820",
+      "32617796",
+      "30884291",
+      "26442986",
+      "24478335",
+      "35089463",
+      "42759768",
+      "29500194",
+      "37242571",
+      "34406042",
+      "41985988",
+      "26336798",
+      "38473704",
+      "41504119",
+      "28228480",
+      "37047677",
+      "32972746",
+      "38224812"
+    ],
+    "review": [
+      "42852500",
+      "32899704",
+      "39494147",
+      "32694104",
+      "28066481",
+      "40362308",
+      "35975201",
+      "36315306",
+      "28300641",
+      "33659952",
+      "36701041",
+      "28478103",
+      "28177771",
+      "35182556",
+      "35738528",
+      "30687381",
+      "35076280",
+      "28374058",
+      "39709560",
+      "28499832",
+      "40232991",
+      "33170255",
+      "31234957",
+      "29868583",
+      "42759768",
+      "37242571",
+      "26336798",
+      "38473704"
+    ],
+    "pmc": [
+      "13650664"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/cpr.70285",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

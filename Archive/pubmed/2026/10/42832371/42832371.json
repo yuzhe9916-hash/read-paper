@@ -1,0 +1,355 @@
+{
+  "identity": {
+    "pmid": "42832371",
+    "doi": "10.1021/acssensors.6c02636",
+    "title": "Molecular Programming of CRISPR Diagnostics: From Target Recognition to Field Deployment."
+  },
+  "content": {
+    "abstract": "Rapid and accurate diagnostics are essential for controlling emerging infectious diseases and antimicrobial resistance, yet CRISPR assays with exceptional analytical sensitivity often remain difficult to translate into deployable tests. Existing reviews have commonly organized CRISPR diagnostics by Cas effector, biosensor format, or application, offering limited guidance on how design decisions interact across complete workflows or why promising systems remain at the proof-of-concept stage. We introduce an integrated framework that connects five coupled design layers with five levels of translational evidence. The design layers comprise guide RNA engineering, signal amplification circuits, molecular adaptors, computational design support, and specimen and intended-use implementation. The evidence levels progress from purified-target characterization and spiked-matrix testing to retrospective specimen evaluation, prospective integrated-workflow evaluation, and intended-use operation by target users supported by controls, usability assessment, real-time stability, manufacturing consistency, cost per valid result, and claim-specific regulatory preparation. This dual framework shows how improvements at one layer can shift the dominant bottleneck to another. For example, preamplification can lower the analytical limit of detection while increasing contamination risk and workflow burden, whereas guide designs that improve sequence discrimination may reduce cognate-target activation. The framework supports bottleneck-guided selection of effectors, signal-gain strategies, adaptors, computational tools, and multiplexing formats according to target type and abundance, specimen matrix, intended decision, target users, and deployment setting. High analytical sensitivity or single-nucleotide discrimination under controlled conditions does not establish clinical utility unless such performance improves classification at the intended decision threshold within the complete workflow. Translation requires standardized benchmarking, matrix-aware validation, appropriate controls, stability and manufacturability assessment, prospective intended-use studies, and economic evaluation suited to the intended claim and setting. This framework shifts the evaluation of CRISPR diagnostics from isolated analytical performance toward evidence-based workflow co-design.",
+    "keywords": [
+      "CRISPR diagnostics",
+      "computational design",
+      "guide RNA engineering",
+      "intended-use validation",
+      "molecular adaptors",
+      "molecular programming",
+      "point-of-care diagnostics",
+      "signal amplification circuits"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Hengyu",
+        "Chen, Meiyou",
+        "He, Qiurun",
+        "Wu, Zuohao",
+        "Zheng, Junjie",
+        "He, Xiaoyi",
+        "Deng, Ling",
+        "Mao, Xuhu",
+        "Sheng, Yong"
+      ],
+      "short_names": [
+        "Wang H",
+        "Chen M",
+        "He Q",
+        "Wu Z",
+        "Zheng J",
+        "He X",
+        "Deng L",
+        "Mao X",
+        "Sheng Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5752-9138"
+      ],
+      "affiliations": [
+        "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "Department of Clinical Biochemistry, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "Medical Technology College, Hebei Medical University , Shijiazhuang050000, China.",
+        "Department of Clinical Laboratory, Bethune International Peace Hospital, Shijiazhuang050081, China.",
+        "Outpatient Department, First Veterans Hospital of Sichuan Province, Chengdu610500, China.",
+        "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "State Key Laboratory of Trauma and Chemical Poisoning, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+        "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Hengyu",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+          "Department of Clinical Biochemistry, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Meiyou",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China."
+        ]
+      },
+      {
+        "full_name": "He, Qiurun",
+        "short_name": "He Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zuohao",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Technology College, Hebei Medical University , Shijiazhuang050000, China.",
+          "Department of Clinical Laboratory, Bethune International Peace Hospital, Shijiazhuang050081, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Junjie",
+        "short_name": "Zheng J",
+        "identifiers": [],
+        "affiliations": [
+          "Outpatient Department, First Veterans Hospital of Sichuan Province, Chengdu610500, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiaoyi",
+        "short_name": "He X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Ling",
+        "short_name": "Deng L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Xuhu",
+        "short_name": "Mao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China.",
+          "State Key Laboratory of Trauma and Chemical Poisoning, Army Medical University (Third Military Medical University), Chongqing400038, China."
+        ]
+      },
+      {
+        "full_name": "Sheng, Yong",
+        "short_name": "Sheng Y",
+        "identifiers": [
+          "0000-0002-5752-9138"
+        ],
+        "affiliations": [
+          "Department of Clinical Microbiology and Immunology, College of Pharmacy and Laboratory Medicine Science, Army Medical University (Third Military Medical University), Chongqing400038, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 17:31",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42832371",
+      "42475469",
+      "42434939",
+      "42671221",
+      "36321557",
+      "30212088",
+      "30725667",
+      "42407157",
+      "42715733",
+      "42707868",
+      "42783141",
+      "42783144",
+      "33760236",
+      "42798769",
+      "42217635",
+      "41300871",
+      "38309959",
+      "41932456",
+      "41654255",
+      "42394824",
+      "35593869",
+      "42796641",
+      "41337494",
+      "42405767",
+      "42624339",
+      "42599816",
+      "42123724",
+      "41912385",
+      "41791397",
+      "37722405",
+      "27606388",
+      "42715083",
+      "42187493",
+      "42192906",
+      "39307577",
+      "41344285",
+      "42513036",
+      "42661832",
+      "42494324",
+      "42207849",
+      "41629044",
+      "42650936",
+      "42670973",
+      "42772154",
+      "33036834",
+      "40717612",
+      "42300619",
+      "42080370",
+      "42547606",
+      "42075335",
+      "42277912",
+      "42474386",
+      "42128801",
+      "42179772",
+      "42165978",
+      "34484487",
+      "41312797",
+      "42521788",
+      "42007994",
+      "41542860",
+      "42465601",
+      "35866452",
+      "39724853",
+      "35290826",
+      "42351583",
+      "42579777",
+      "42801164",
+      "42378111",
+      "42655688",
+      "41755633",
+      "37131375",
+      "42154426",
+      "42462085",
+      "42199442",
+      "38590049",
+      "30726003",
+      "42604385",
+      "42529042",
+      "42618126",
+      "41686849",
+      "41914596",
+      "42587639",
+      "42375884",
+      "41161575",
+      "41893914",
+      "41641524",
+      "38249803",
+      "41258876",
+      "41606937",
+      "40063799",
+      "42072864",
+      "33620822",
+      "38472096",
+      "41881766",
+      "41172903",
+      "42823951",
+      "42345902",
+      "41808396",
+      "35015469",
+      "34699183"
+    ],
+    "review": [
+      "42832371",
+      "42434939",
+      "42671221",
+      "36321557",
+      "30212088",
+      "42407157",
+      "42715733",
+      "42707868",
+      "42783141",
+      "42783144",
+      "33760236",
+      "42798769",
+      "42217635",
+      "41300871",
+      "41932456",
+      "42394824",
+      "42796641",
+      "41337494",
+      "42405767",
+      "42624339",
+      "42599816",
+      "42123724",
+      "41912385",
+      "27606388",
+      "42187493",
+      "42192906",
+      "39307577",
+      "41344285",
+      "42513036",
+      "42661832",
+      "42207849",
+      "42650936",
+      "42670973",
+      "42772154",
+      "40717612",
+      "42300619",
+      "42547606",
+      "42075335",
+      "42277912",
+      "42128801",
+      "42179772",
+      "42165978",
+      "34484487",
+      "41312797",
+      "42007994",
+      "42465601",
+      "35866452",
+      "39724853",
+      "42351583",
+      "42579777",
+      "42801164",
+      "42378111",
+      "42655688",
+      "42154426",
+      "42462085",
+      "42199442",
+      "42604385",
+      "41914596",
+      "42587639",
+      "42375884",
+      "41161575",
+      "41893914",
+      "41641524",
+      "38249803",
+      "41258876",
+      "41606937",
+      "42072864",
+      "41172903",
+      "42823951",
+      "42345902",
+      "41808396",
+      "34699183"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c02636",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

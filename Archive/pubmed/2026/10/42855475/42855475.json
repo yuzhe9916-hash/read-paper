@@ -1,0 +1,337 @@
+{
+  "identity": {
+    "pmid": "42855475",
+    "doi": "10.1038/s41467-026-77625-7",
+    "title": "Genome reorganisation and expansion shape 3D genome architecture and define a distinct regulatory landscape in coleoid cephalopods."
+  },
+  "content": {
+    "abstract": "How genomic changes translate into organismal novelties is often confounded by the multi-layered nature of genome architecture and the long evolutionary timescales over which molecular changes can accumulate. Coleoid cephalopods (squid, cuttlefish, and octopus) provide a unique system to study these processes due to a large-scale chromosomal rearrangement in the coleoid ancestor that gave rise to highly modified karyotypes, followed by lineage-specific repeat expansions, fusions, and translocations. How these events have shaped gene regulatory patterns underlying the evolution of coleoid innovations, including their large and elaborately structured nervous systems, novel organs, and complex behaviours, remains poorly understood. To address this, we integrate Micro-C, RNA-seq, and ATAC-seq across multiple coleoid species, developmental stages, and tissues. We find that while chromatin domains are broadly conserved, hundreds of chromatin loops are species- and context-specific, with distinct regulation signatures and dynamic expression profiles. CRISPR-Cas9 knockout of a putative regulatory sequence within a conserved region demonstrates the role of loops in neural development and the prevalence of long-range interactions that extend beyond chromatin domains. We propose that differential evolutionary constraints across the coleoid 3D genome allow macroevolutionary processes to shape genome topology in distinct ways, facilitating the emergence of novel regulatory entanglements and ultimately contributing to the evolution and maintenance of complex traits in the coleoids.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Genome",
+      "*Cephalopoda/genetics/classification",
+      "Evolution, Molecular",
+      "Chromatin/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rogers, Thea F",
+        "Stock, Jessica",
+        "Schulz, Natalie Grace",
+        "Yalcin, Gozde",
+        "Rencken, Simone",
+        "Weissenbacher, Anton",
+        "Clarence, Tereza",
+        "Schultz, Darrin T",
+        "Ragsdale, Clifton W",
+        "Albertin, Caroline B",
+        "Simakov, Oleg"
+      ],
+      "short_names": [
+        "Rogers TF",
+        "Stock J",
+        "Schulz NG",
+        "Yalcin G",
+        "Rencken S",
+        "Weissenbacher A",
+        "Clarence T",
+        "Schultz DT",
+        "Ragsdale CW",
+        "Albertin CB",
+        "Simakov O"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0198-0242",
+        "ORCID: 0000-0003-4814-9544",
+        "ORCID: 0000-0001-6674-9688",
+        "ORCID: 0009-0007-3755-6124",
+        "ORCID: 0009-0003-9341-2898",
+        "ORCID: 0000-0002-0099-2797",
+        "ORCID: 0000-0003-1190-1122",
+        "ORCID: 0000-0001-9197-2144",
+        "ORCID: 0000-0003-0933-7665",
+        "ORCID: 0000-0002-3585-4511"
+      ],
+      "affiliations": [
+        "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria. thea.rogers@univie.ac.at.",
+        "Eugene Bell Center for Tissue Engineering and Regenerative Biology, Marine Biological Laboratory, Woods Hole, MA, USA.",
+        "Department of Neurobiology, University of Chicago, Chicago, IL, USA.",
+        "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria.",
+        "Max Planck Institute for Brain Research, Frankfurt am Main, Germany.",
+        "Radboud University, Donders Institute for Brain, Cognition and Behaviour, Nijmegen, Netherlands.",
+        "Vienna Zoo, Maxingstrasse 13b, Vienna, Austria.",
+        "Center for Disease Neurogenomics, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria.",
+        "Department of Neurobiology, University of Chicago, Chicago, IL, USA.",
+        "Eugene Bell Center for Tissue Engineering and Regenerative Biology, Marine Biological Laboratory, Woods Hole, MA, USA. carrie.albertin@gmail.com.",
+        "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria. oleg.simakov@univie.ac.at."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rogers, Thea F",
+        "short_name": "Rogers TF",
+        "identifiers": [
+          "0000-0003-0198-0242"
+        ],
+        "affiliations": [
+          "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria. thea.rogers@univie.ac.at."
+        ]
+      },
+      {
+        "full_name": "Stock, Jessica",
+        "short_name": "Stock J",
+        "identifiers": [
+          "0000-0003-4814-9544"
+        ],
+        "affiliations": [
+          "Eugene Bell Center for Tissue Engineering and Regenerative Biology, Marine Biological Laboratory, Woods Hole, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Schulz, Natalie Grace",
+        "short_name": "Schulz NG",
+        "identifiers": [
+          "0000-0001-6674-9688"
+        ],
+        "affiliations": [
+          "Department of Neurobiology, University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Yalçin, Gözde",
+        "short_name": "Yalçin G",
+        "identifiers": [
+          "0009-0007-3755-6124"
+        ],
+        "affiliations": [
+          "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Rencken, Simone",
+        "short_name": "Rencken S",
+        "identifiers": [
+          "0009-0003-9341-2898"
+        ],
+        "affiliations": [
+          "Max Planck Institute for Brain Research, Frankfurt am Main, Germany.",
+          "Radboud University, Donders Institute for Brain, Cognition and Behaviour, Nijmegen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Weissenbacher, Anton",
+        "short_name": "Weissenbacher A",
+        "identifiers": [],
+        "affiliations": [
+          "Vienna Zoo, Maxingstraße 13b, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Clarence, Tereza",
+        "short_name": "Clarence T",
+        "identifiers": [
+          "0000-0002-0099-2797"
+        ],
+        "affiliations": [
+          "Center for Disease Neurogenomics, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Schultz, Darrin T",
+        "short_name": "Schultz DT",
+        "identifiers": [
+          "0000-0003-1190-1122"
+        ],
+        "affiliations": [
+          "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Ragsdale, Clifton W",
+        "short_name": "Ragsdale CW",
+        "identifiers": [
+          "0000-0001-9197-2144"
+        ],
+        "affiliations": [
+          "Department of Neurobiology, University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Albertin, Caroline B",
+        "short_name": "Albertin CB",
+        "identifiers": [
+          "0000-0003-0933-7665"
+        ],
+        "affiliations": [
+          "Eugene Bell Center for Tissue Engineering and Regenerative Biology, Marine Biological Laboratory, Woods Hole, MA, USA. carrie.albertin@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Simakov, Oleg",
+        "short_name": "Simakov O",
+        "identifiers": [
+          "0000-0002-3585-4511"
+        ],
+        "affiliations": [
+          "Department of Neuroscience and Developmental Biology, Division of Molecular Evolution and Development, University of Vienna, Vienna, Austria. oleg.simakov@univie.ac.at."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/10 05:32",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42855475",
+      "40909635",
+      "42475469",
+      "30963849",
+      "35449136",
+      "31664724",
+      "35368688",
+      "26268193",
+      "35508532",
+      "37981860",
+      "27825385",
+      "39904337",
+      "38907272",
+      "36575497",
+      "29335803",
+      "41362764",
+      "35946348",
+      "21702923",
+      "28250188",
+      "40953615",
+      "37815133",
+      "28388405",
+      "40751100",
+      "41079614",
+      "40826469",
+      "40874617",
+      "42032266",
+      "38017297",
+      "41501227",
+      "40335694",
+      "39498488",
+      "40140405",
+      "32199341",
+      "33508230",
+      "42323313",
+      "39531399",
+      "37426346",
+      "42206967",
+      "36104784",
+      "36121513",
+      "34022057",
+      "41146606",
+      "33284803",
+      "26002349",
+      "42611537",
+      "30086749",
+      "31323043",
+      "41906094",
+      "15935706",
+      "42068378",
+      "21681989",
+      "35524943",
+      "41257569",
+      "37850903",
+      "34727520",
+      "38463997",
+      "42794534",
+      "28945883",
+      "38886858",
+      "41910071",
+      "39060230",
+      "40764590",
+      "40390095",
+      "41896322",
+      "32546248",
+      "42176354",
+      "42118842",
+      "41721429",
+      "41766646",
+      "39414368",
+      "30635418",
+      "31884969",
+      "40495227",
+      "38442113",
+      "33035681",
+      "35649579",
+      "41365915",
+      "42461771",
+      "16442311",
+      "42768698",
+      "29141961",
+      "36746940",
+      "32690705",
+      "33407087",
+      "31910870",
+      "42292961",
+      "41886102",
+      "41258946",
+      "30931949",
+      "41698564",
+      "31299961",
+      "33175168",
+      "30598689",
+      "37116707",
+      "41316293",
+      "42693463",
+      "41318386",
+      "38061928",
+      "42487124",
+      "31136738"
+    ],
+    "review": [
+      "42855475",
+      "38907272",
+      "37815133",
+      "40751100",
+      "32199341",
+      "39531399",
+      "21681989",
+      "42794534",
+      "41910071",
+      "41258946"
+    ],
+    "pmc": [
+      "13652810"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77625-7",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

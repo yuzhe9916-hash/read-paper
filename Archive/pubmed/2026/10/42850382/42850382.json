@@ -1,0 +1,333 @@
+{
+  "identity": {
+    "pmid": "42850382",
+    "doi": "10.1038/s41416-026-03617-5",
+    "title": "LAIR1 suppresses phagocytosis via SHP2/USP22-mediated MYH9 degradation in glioma-associated microglia/macrophages to drive immunosuppression."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Glioma immunotherapy faces major challenges due to the pervasive presence of glioma-associated microglia/macrophages (GAMs) and inadequate T-cell responses. LAIR1 is highly expressed in GAMs and correlates with poor glioma prognosis. This study investigated its role in GAMs and immunosuppression in glioma. METHODS: LAIR1 expression was analysed via bioinformatics, flow cytometry, and multiplex immunohistochemical staining. Its function was studied using Lair1(-/-) mice, engineered BV2 cells, bone marrow-derived macrophages (BMDMs), patient-derived GAMs, and techniques including RNA-seq, PCR array, co-immunoprecipitation, molecular dynamics analysis, and CRISPR/Cas9. RESULTS: LAIR1 was predominantly expressed on GAMs, and high infiltration of LAIR1(high) GAMs correlated with poor patient survival. In orthotopic glioma models, LAIR1 deficiency reduced tumour burden. LAIR1(high) GAMs exhibited an immunosuppressive phenotype, associated with the CD47-SIRPA axis. These GAMs conferred resistance to anti-PD-1 therapy. LAIR1 deficiency enhanced GAM tumoricidal activity in vitro. Mechanistically, collagen I-activated LAIR1 promoted SHP2-dependent dephosphorylation of MYH9 at Ser1943. This inhibited USP22 recruitment, blocking USP22-mediated deubiquitylation and stabilisation of MYH9 and HIF1alpha, ultimately suppressing GAM phagocytosis. CONCLUSION: LAIR1 is a critical phagocytosis suppressor in GAMs, driving glioma immunosuppression. Targeting LAIR1 represents a promising strategy to restore anti-tumour immunity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Zirui",
+        "Sun, Qifan",
+        "Li, Chunzhao",
+        "Sun, Tai",
+        "He, Zhongning",
+        "Wang, Yi",
+        "Li, Ruijie",
+        "Lin, Xiukun",
+        "Jasiulionis, Miriam Galvonas",
+        "Ji, Nan",
+        "Zhang, Yang",
+        "Xu, Huanli"
+      ],
+      "short_names": [
+        "Wang Z",
+        "Sun Q",
+        "Li C",
+        "Sun T",
+        "He Z",
+        "Wang Y",
+        "Li R",
+        "Lin X",
+        "Jasiulionis MG",
+        "Ji N",
+        "Zhang Y",
+        "Xu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9001-8858",
+        "ORCID: 0000-0001-8044-9040",
+        "ORCID: 0000-0002-4599-9271"
+      ],
+      "affiliations": [
+        "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China.",
+        "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China.",
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China.",
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China.",
+        "Department of Oncology, Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, PR China.",
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China.",
+        "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China.",
+        "Lab of Food and Drug Safety, Shandong University of Political Science and Law, Jinan, PR China.",
+        "Department of Pharmacology, Escola Paulista de Medicina, Universidade Federal de Sao Paulo, Sao Paulo, Brazil.",
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China.",
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China. zhangyang@bjtth.org.",
+        "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China. xuhuanli@ccmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Zirui",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "Sun, Qifan",
+        "short_name": "Sun Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Chunzhao",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "Sun, Tai",
+        "short_name": "Sun T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "He, Zhongning",
+        "short_name": "He Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yi",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Ruijie",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "Lin, Xiukun",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "Lab of Food and Drug Safety, Shandong University of Political Science and Law, Jinan, PR China."
+        ]
+      },
+      {
+        "full_name": "Jasiulionis, Miriam Galvonas",
+        "short_name": "Jasiulionis MG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Escola Paulista de Medicina, Universidade Federal de São Paulo, São Paulo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Ji, Nan",
+        "short_name": "Ji N",
+        "identifiers": [
+          "0000-0002-9001-8858"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yang",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0001-8044-9040"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, PR China. zhangyang@bjtth.org."
+        ]
+      },
+      {
+        "full_name": "Xu, Huanli",
+        "short_name": "Xu H",
+        "identifiers": [
+          "0000-0002-4599-9271"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, School of Basic Medical Sciences, Capital Medical University, Beijing, PR China. xuhuanli@ccmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "British journal of cancer"
+    ],
+    "journal_abbrev": [
+      "Br J Cancer"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 05:30",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42850382",
+      "42324467",
+      "40281508",
+      "39142719",
+      "41832564",
+      "36624155",
+      "42820763",
+      "36275720",
+      "36969167",
+      "37845206",
+      "40912739",
+      "33391535",
+      "39391957",
+      "41756290",
+      "37462801",
+      "36622331",
+      "36969175",
+      "28287634",
+      "29097606",
+      "26755653",
+      "37619857",
+      "40783744",
+      "34108959",
+      "39705426",
+      "42707650",
+      "41856472",
+      "41625475",
+      "30506802",
+      "27528361",
+      "41139792",
+      "41479886",
+      "33858847",
+      "42242864",
+      "34131649",
+      "37682326",
+      "39724944",
+      "41953006",
+      "40591413",
+      "27001312",
+      "33853689",
+      "39521782",
+      "34211978",
+      "30563569",
+      "36211388",
+      "42744390",
+      "39707188",
+      "41963079",
+      "32908154",
+      "41085811",
+      "25453365",
+      "42152025",
+      "37641212",
+      "41550507",
+      "37153567",
+      "32631940",
+      "37941134",
+      "36889359",
+      "37166058",
+      "37795794",
+      "33537094",
+      "38414061",
+      "31703822",
+      "32194542",
+      "28939663",
+      "41088887",
+      "41534899",
+      "37673235",
+      "30938231",
+      "38199599",
+      "41038302",
+      "40214214",
+      "41081051",
+      "32642716",
+      "36685506",
+      "27013192",
+      "30479695",
+      "38992659",
+      "34260887",
+      "29389898",
+      "40829176",
+      "39867913",
+      "42164995",
+      "35187044",
+      "29963047",
+      "40184814",
+      "30333036",
+      "41388305",
+      "29884698",
+      "38648067",
+      "42386072",
+      "41940421",
+      "38773982",
+      "42682642",
+      "36549780",
+      "40128633",
+      "37712124",
+      "40473401",
+      "42134289",
+      "41111063",
+      "30929259"
+    ],
+    "review": [
+      "42850382",
+      "36275720",
+      "36969167",
+      "39391957",
+      "28287634",
+      "27528361",
+      "41479886",
+      "34211978",
+      "25453365",
+      "37153567",
+      "31703822",
+      "41081051"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41416-026-03617-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD47-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3994",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42831527",
+    "doi": "10.1093/brain/awag342",
+    "title": "CRISPR screen reveals FTO-mediated m6A modification of ATF3 as protective in ischaemic stroke."
+  },
+  "content": {
+    "abstract": "RNA modifications, especially N6-methyladenosine (m6A), have emerged as pivotal regulators of gene expression in neurological disorders, yet their roles in ischaemic stroke remain unclear. Here, we performed a CRISPR-Cas9 loss-of-function screen targeting 118 RNA modification-related genes in neuronal cells subjected to oxygen-glucose deprivation/reoxygenation (OGD/R) and validated the findings in a mouse model of middle cerebral artery occlusion/reperfusion (MCAO/R). We identified Fto as a top negatively selected gene, with its expression progressively reduced and global m6A levels increased during ischaemic injury. Neuron-specific Fto knockout aggravated infarct size, neurological deficits, cognitive impairment, and neuronal apoptosis, accompanied by activation of multiple signalling pathways revealed by RNA-seq analysis. Integrated m6A-seq and RNA-seq profiling uncovered Atf3 as a hypermethylated and upregulated hub gene downstream of Fto deficiency, linking m6A dysregulation to enhanced neuronal apoptosis. In vitro assays confirmed that FTO knockdown increased ATF3 mRNA methylation and expression under OGD/R conditions, whereas Fto overexpression in vivo alleviated ischaemic brain injury, improved neurological outcomes, reduced Atf3 expression, and lowered global m6A levels. Together, our findings reveal the Fto/m6A/ATF3 axis as a critical mediator of ischaemic injury and highlight Fto restoration as a potential therapeutic strategy for stroke.",
+    "keywords": [
+      "CRISPR screen",
+      "FTO; ATF3",
+      "ischaemic stroke",
+      "m6A methylation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Jiangtao",
+        "Zhu, Xiaolu",
+        "Lu, Qianyu",
+        "Ma, Haoli",
+        "Zhang, Zhongxiang",
+        "Yu, Qian",
+        "Liu, Zilin",
+        "Li, Zhiqiang",
+        "Li, Gang",
+        "Jin, Xiaoqing"
+      ],
+      "short_names": [
+        "Yu J",
+        "Zhu X",
+        "Lu Q",
+        "Ma H",
+        "Zhang Z",
+        "Yu Q",
+        "Liu Z",
+        "Li Z",
+        "Li G",
+        "Jin X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2093-0796"
+      ],
+      "affiliations": [
+        "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Department of Ophthalmology, Renmin Hospital of Wuhan University, Wuhan 430060, Hubei, China.",
+        "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Department of Biological Repositories, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Department of Biological Repositories, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+        "Hubei Clinical Research Center for Emergency and Resuscitation, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Jiangtao",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Xiaolu",
+        "short_name": "Zhu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, Renmin Hospital of Wuhan University, Wuhan 430060, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Qianyu",
+        "short_name": "Lu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Haoli",
+        "short_name": "Ma H",
+        "identifiers": [],
+        "affiliations": [
+          "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+          "Department of Biological Repositories, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhongxiang",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+          "Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qian",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zilin",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhiqiang",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Li, Gang",
+        "short_name": "Li G",
+        "identifiers": [
+          "0000-0002-2093-0796"
+        ],
+        "affiliations": [
+          "Department of Biological Repositories, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Xiaoqing",
+        "short_name": "Jin X",
+        "identifiers": [],
+        "affiliations": [
+          "Emergency Center, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China.",
+          "Hubei Clinical Research Center for Emergency and Resuscitation, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Brain : a journal of neurology"
+    ],
+    "journal_abbrev": [
+      "Brain"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 11:31",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42831527",
+      "41735174",
+      "40233842",
+      "40834507",
+      "41154582",
+      "41064099",
+      "37321527",
+      "36327034",
+      "37300304",
+      "38514911",
+      "40898058",
+      "37002530",
+      "38430221",
+      "29521586",
+      "33796004",
+      "42552599",
+      "41656807",
+      "39331352",
+      "42240709",
+      "42053094",
+      "41137957",
+      "41074441",
+      "41511608",
+      "39098715",
+      "38092760",
+      "42491800",
+      "42098356",
+      "40316995",
+      "37610605",
+      "39407279",
+      "42748874",
+      "39976072",
+      "38340205",
+      "37332938",
+      "42049119",
+      "40818598",
+      "37580808",
+      "41644777",
+      "42656644",
+      "32426101",
+      "41327199",
+      "41675794",
+      "40000966",
+      "38180752",
+      "39980685",
+      "39904031",
+      "37892219",
+      "35114774",
+      "31334597",
+      "42343060",
+      "40762760",
+      "31992337",
+      "37437797",
+      "39439252",
+      "38945353",
+      "37759187",
+      "41291408",
+      "39560901",
+      "42792700",
+      "42015403",
+      "42503369",
+      "30922314",
+      "39343042",
+      "41007655",
+      "42261379",
+      "37199660",
+      "42246043",
+      "38714753",
+      "40334546",
+      "32581712",
+      "42167518",
+      "42155396",
+      "38098098",
+      "42033549",
+      "34461809",
+      "40606020",
+      "42402316",
+      "38344886",
+      "38349604",
+      "38325270",
+      "38254010",
+      "37737187",
+      "42152633",
+      "41527993",
+      "38935979",
+      "40918160",
+      "41418347",
+      "39265400",
+      "41554367",
+      "37822879",
+      "42225681",
+      "40369924",
+      "42004240",
+      "38082402",
+      "40294852",
+      "34413770",
+      "39486461",
+      "30137347",
+      "39585469",
+      "37041267"
+    ],
+    "review": [
+      "42831527"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1755",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awag342",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "identity": {
+    "pmid": "42838679",
+    "doi": "10.1016/j.aca.2026.346180",
+    "title": "A proximity-allosteric Adapter unlocks Cas12a exponential amplification for versatile homogeneous assay."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The integration of proximity-triggered homogeneous assays with CRISPR/Cas12a offers a promising route to \"mix-and-read\" bioanalysis, yet early efforts have faced substantial limitations. Proximity-based recognition enabled high specificity, but often introduced steric hindrance that severely suppressed Cas12a activation. Meanwhile, conventional Cas12a systems relied on linear trans-cleavage, which struggled to achieve the aM-level sensitivity required for early disease detection. It is clear that a CRISPR/Cas12a-based assay is needed that overcomes steric hindrance, achieves exponential signal amplification, and maintains the simplicity of homogeneous detection. RESULTS: Herein, we report a dual-functional \"Smart Adapter\" that seamlessly couples proximity recognition with Cas12a exponential amplification. The Smart Adapter operates as a kinetically trapped molecular cage that effectively sequesters the Cas12a activator to ensure minimal background. Target binding induces a proximity-driven allostery that unlocks this cage, liberating the activator from steric constraints to initiate Cas12a activity. This primary activation serves as a catalytic seed, triggering a cascading destabilization of the remaining Adapters. By acting as both an allosteric activator and a signal propagator, the Adapter ensures high-specificity transduction and ultrasensitive amplification. The resulting Smart Proximity-Activated Cas12a Exponential Amplification (SPACE) platform achieves a detection limit (LOD) as low as 500 aM for the BCR/ABL p210 gene and enables precise discrimination of p210 minor subtypes in clinical samples. Furthermore, the platform attains a detection sensitivity of 100 fg/mL for p-Tau217 protein. SIGNIFICANCE: This versatile strategy provides a robust framework for precise low-abundance biomarker detection, resolving CRISPR/Cas12a bottlenecks and offering a reliable mix-and-read platform for early diagnosis.",
+    "keywords": [
+      "Autocatalytic amplification",
+      "CRISPR/Cas12a",
+      "Homogeneous assay",
+      "Proximity recognition"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "*CRISPR-Associated Proteins/metabolism/genetics/chemistry",
+      "*Nucleic Acid Amplification Techniques/methods",
+      "Humans",
+      "*Bacterial Proteins/metabolism/genetics/chemistry",
+      "*Endodeoxyribonucleases/metabolism/genetics/chemistry",
+      "Allosteric Regulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Feiyu",
+        "Tang, Man",
+        "Liu, Zhangling",
+        "Li, Wuxian",
+        "Hu, Xingping",
+        "Xiang, Linguo",
+        "Jiang, Lanxin",
+        "Ban, Yanna",
+        "Wang, Jing",
+        "Li, Jia",
+        "Cheng, Wei",
+        "Yang, Tiantian"
+      ],
+      "short_names": [
+        "Chen F",
+        "Tang M",
+        "Liu Z",
+        "Li W",
+        "Hu X",
+        "Xiang L",
+        "Jiang L",
+        "Ban Y",
+        "Wang J",
+        "Li J",
+        "Cheng W",
+        "Yang T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China; The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "Department of Clinical Laboratory, Chongqing Health Center for Women and Children, Women and Children's Hospital of Chongqing Medical University, Chongqing, 401147, PR China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "Zybio Inc, Chongqing, 400082, PR China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China; The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China. Electronic address: chengwei@hospital.cqmu.edu.cn.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China; The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China. Electronic address: yangtiantian@hospital.cqmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Feiyu",
+        "short_name": "Chen F",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China; The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Tang, Man",
+        "short_name": "Tang M",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhangling",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Wuxian",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Chongqing Health Center for Women and Children, Women and Children's Hospital of Chongqing Medical University, Chongqing, 401147, PR China."
+        ]
+      },
+      {
+        "full_name": "Hu, Xingping",
+        "short_name": "Hu X",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Linguo",
+        "short_name": "Xiang L",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Lanxin",
+        "short_name": "Jiang L",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Ban, Yanna",
+        "short_name": "Ban Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Zybio Inc, Chongqing, 400082, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Jia",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Wei",
+        "short_name": "Cheng W",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China; The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China. Electronic address: chengwei@hospital.cqmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Tiantian",
+        "short_name": "Yang T",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China; The Biobank Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, PR China. Electronic address: yangtiantian@hospital.cqmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytica chimica acta"
+    ],
+    "journal_abbrev": [
+      "Anal Chim Acta"
+    ],
+    "pub_date": "2026 Nov 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838679",
+      "42391661",
+      "42648078",
+      "42659818",
+      "42549575",
+      "42669262",
+      "42689595",
+      "42546382",
+      "40331901",
+      "41800529",
+      "40435758",
+      "41576437",
+      "42405454",
+      "41361988",
+      "38772660",
+      "42571623",
+      "41257956",
+      "40745870",
+      "41533584",
+      "40152782",
+      "39740588",
+      "40263707",
+      "42399613",
+      "42503780",
+      "40157150",
+      "41344241",
+      "40199100",
+      "40593618",
+      "42674033",
+      "40499384",
+      "40877023",
+      "41661055",
+      "41191401",
+      "42138212",
+      "41889087",
+      "40286970",
+      "40277382",
+      "34928030",
+      "42689566",
+      "32809800",
+      "40921807",
+      "42715083",
+      "40187291",
+      "42610192",
+      "40354126",
+      "42330666",
+      "36214815",
+      "40704803",
+      "39426279",
+      "42068913",
+      "40449371",
+      "40889206",
+      "39995038",
+      "42045650",
+      "39643309",
+      "40099627",
+      "41773916",
+      "38864271",
+      "41252908",
+      "41638184",
+      "34011151",
+      "41552883",
+      "39788669",
+      "41990423",
+      "40393239",
+      "40183844",
+      "39746849",
+      "32470556",
+      "42441514",
+      "39489975",
+      "40557869",
+      "40939440",
+      "41222482",
+      "40517335",
+      "41747377",
+      "42217942",
+      "37751223",
+      "41292075",
+      "42184676",
+      "39254031",
+      "42160542",
+      "40803011",
+      "41072237",
+      "42152766",
+      "39982896",
+      "41913088",
+      "42330669",
+      "41217936",
+      "40354233",
+      "39889213",
+      "41614690",
+      "39516870",
+      "38655256",
+      "39515055",
+      "41718462",
+      "38689239",
+      "42600477",
+      "42213084",
+      "42474386",
+      "42148800"
+    ],
+    "review": [
+      "42838679",
+      "42405454",
+      "41889087",
+      "42045650",
+      "37751223"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-2670(26)01130-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1776",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

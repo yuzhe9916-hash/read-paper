@@ -1,0 +1,308 @@
+{
+  "identity": {
+    "pmid": "42853343",
+    "doi": "10.1186/s13619-026-00300-1",
+    "title": "The generation and characterization of CTRP9-Cre(ERT2) knock-in mice for targeting endothelial cell muscle and adipose tissues."
+  },
+  "content": {
+    "abstract": "Vascular endothelial cells (ECs) exhibit significant diversity in different tissues. To elucidate the distinct physiological roles of individual EC subtypes, genetic mouse lines utilizing the Cre-loxP recombination system are crucial. However, there is still a lack of Cre mouse lines that specifically target muscle ECs. Here, through analysis of publicly available single-cell RNA sequencing datasets, C1q/tumor necrosis factor-related protein-9 (CTRP9) was identified as a highly selective marker for microvascular ECs in muscle and adipose tissues. A CTRP9-Cre(ERT2)-tdTomato knock-in mouse line was then generated using CRISPR/Cas9, with tdTomato serving as a reporter for endogenous CTRP9 expression. By breeding these mice with Rosa26(LSL-EYFP) reporter mice and administering tamoxifen, specific EYFP and tdTomato expression was observed in CD31(+) ECs in the heart, skeletal muscle, tongue, and adipose tissue from postnatal to adult stages. The EYFP(+) cells were mainly identified as microvascular ECs, rather than arterial or venous ECs. The CTRP9-Cre(ERT2) mouse model allows for precise and effective genetic manipulation of this distinct endothelial population, providing a valuable tool for investigating their roles in muscle metabolism, regeneration, and pathophysiology.",
+    "keywords": [
+      "CTRP9",
+      "CreERT2",
+      "Lineage tracing",
+      "Microvascular endothelial cells",
+      "Muscle tissue"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Qingye",
+        "Fu, Zhangxi",
+        "Wang, Haizhen",
+        "Ao, Haiou",
+        "Li, Shounian",
+        "Xu, Jie",
+        "Meng, Yaowei",
+        "Duan, Qiyue",
+        "Yang, Xiao",
+        "Wang, Jun",
+        "Teng, Yan"
+      ],
+      "short_names": [
+        "Wang Q",
+        "Fu Z",
+        "Wang H",
+        "Ao H",
+        "Li S",
+        "Xu J",
+        "Meng Y",
+        "Duan Q",
+        "Yang X",
+        "Wang J",
+        "Teng Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2186-3270"
+      ],
+      "affiliations": [
+        "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China.",
+        "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China.",
+        "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China.",
+        "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China.",
+        "College of Life Sciences, Hebei University, Baoding, 071002, China.",
+        "Hengyang Medical School, University of South China, Hengyang, 421001, China.",
+        "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China. yangx@bmi.ac.cn.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China. yangx@bmi.ac.cn.",
+        "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China. wangjun1@bmi.ac.cn.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China. wangjun1@bmi.ac.cn.",
+        "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China. tengyan@bmi.ac.cn.",
+        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China. tengyan@bmi.ac.cn.",
+        "College of Life Sciences, Hebei University, Baoding, 071002, China. tengyan@bmi.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Qingye",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Zhangxi",
+        "short_name": "Fu Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Haizhen",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Ao, Haiou",
+        "short_name": "Ao H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China.",
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shounian",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jie",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Yaowei",
+        "short_name": "Meng Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Hebei University, Baoding, 071002, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Qiyue",
+        "short_name": "Duan Q",
+        "identifiers": [],
+        "affiliations": [
+          "Hengyang Medical School, University of South China, Hengyang, 421001, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiao",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China. yangx@bmi.ac.cn.",
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China. yangx@bmi.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Jun",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China. wangjun1@bmi.ac.cn.",
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China. wangjun1@bmi.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Teng, Yan",
+        "short_name": "Teng Y",
+        "identifiers": [
+          "0000-0003-2186-3270"
+        ],
+        "affiliations": [
+          "School of Basic Medical Sciences, Anhui Medical University, Hefei, 230032, China. tengyan@bmi.ac.cn.",
+          "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Beijing, 102206, China. tengyan@bmi.ac.cn.",
+          "College of Life Sciences, Hebei University, Baoding, 071002, China. tengyan@bmi.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell regeneration (London, England)"
+    ],
+    "journal_abbrev": [
+      "Cell Regen"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 17:34",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853343",
+      "38731886",
+      "40129982",
+      "40243932",
+      "28884202",
+      "40669220",
+      "28271030",
+      "40122158",
+      "28763160",
+      "41242303",
+      "42386018",
+      "38554988",
+      "39230395",
+      "41874550",
+      "11299042",
+      "39574577",
+      "18327771",
+      "25064100",
+      "34190643",
+      "23805038",
+      "35874787",
+      "34055804",
+      "33750849",
+      "30636902",
+      "31891119",
+      "40327412",
+      "34844020",
+      "30801958",
+      "35082173",
+      "29869046",
+      "39910805",
+      "33054397",
+      "41969103",
+      "37833800",
+      "31641921",
+      "31204959",
+      "33726497",
+      "24172193",
+      "41495633",
+      "19255227",
+      "17456738",
+      "17072878",
+      "29764841",
+      "32657158",
+      "41493237",
+      "37696816",
+      "38682338",
+      "41878059",
+      "41348594",
+      "34758271",
+      "34099512",
+      "40329691",
+      "33264655",
+      "35461809",
+      "38069547",
+      "27873085",
+      "38123537",
+      "42370291",
+      "29546522",
+      "36766785",
+      "23321074",
+      "27390513",
+      "36372215",
+      "41285028",
+      "38348657",
+      "35002515",
+      "38677508",
+      "32293787",
+      "33377578",
+      "39303842",
+      "30307112",
+      "37599997",
+      "34030460",
+      "31616418",
+      "27381449",
+      "37215091",
+      "32204914",
+      "20016782",
+      "33356387",
+      "39263801",
+      "32059779",
+      "37289544",
+      "16850455",
+      "36384730",
+      "27060598",
+      "12727441",
+      "33784255",
+      "42233213",
+      "41945189",
+      "32929989",
+      "37982169",
+      "37905088",
+      "27821723",
+      "38389501",
+      "42082110",
+      "36368569",
+      "28978553",
+      "16201233",
+      "24038996",
+      "40212807"
+    ],
+    "review": [
+      "42853343",
+      "36368569"
+    ],
+    "pmc": [
+      "13653027"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

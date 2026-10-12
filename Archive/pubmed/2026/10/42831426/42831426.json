@@ -1,0 +1,358 @@
+{
+  "identity": {
+    "pmid": "42831426",
+    "doi": "10.1093/nar/gkag934",
+    "title": "Size and sequence variation of the Lid of the Cas12a nuclease domain results in a nickase phenotype."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas12a nucleases typically induce double-strand breaks (DSBs) to initiate genome editing. However, reliance on DSBs risks chromosomal rearrangements and unintended insertions or deletions at off-target sites. Therefore, engineering nickase variants that cleave only a single DNA strand might enable precise editing platforms. We describe an unbiased in vivo screen in Escherichia coli to identify LbCas12a nickase variants. We targeted the RuvC Lid domain for mutagenesis, hypothesizing that altering this region would disrupt the coordination of strand cleavage. While the screen produced many nickase variants with targeted point substitutions (Lid1), it also serendipitously yielded a variant (Lid2) with an unprecedented Lid domain in terms of size and sequence. Biochemical characterization confirms that Lid2 robustly nicks the non-target strand (NTS) with minor cleavage activity observed for the target strand (TS), accumulating predominantly nicked substrates. Cryo-electron microscopy (cryo-EM) at 2.5 A resolution reveals that, in Lid2, the native alpha-helical Lid is replaced, uncoupling the concerted cleavage mechanism. Specifically, the remodeled Lid appears to stabilize the NTS in the active site, whereas it hampers the conformational transitions required for subsequent TS cleavage. This robust nickase-phenotype of this Cas12a variant expands the CRISPR-Cas toolbox and offers a new component for precise genome editing applications.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Endodeoxyribonucleases/genetics/chemistry/metabolism",
+      "*CRISPR-Associated Proteins/genetics/chemistry/metabolism",
+      "Escherichia coli/genetics",
+      "*Deoxyribonuclease I/genetics/metabolism/chemistry",
+      "Protein Domains",
+      "Phenotype",
+      "*Bacterial Proteins/genetics/chemistry/metabolism",
+      "CRISPR-Cas Systems",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Villegas Warren, Ricardo",
+        "Omura, Satoshi N",
+        "Leon Castro, Diana",
+        "Sudfeld, Christian",
+        "Luteijn, Maartje J",
+        "Morinaga, Hayato",
+        "Inoue, Wakana J",
+        "Shuto, Yutaro",
+        "Kuijpers, Anne-Marie",
+        "Meulewaeter, Frank",
+        "De Vleesschauwer, David",
+        "Staals, Raymond H J",
+        "Nureki, Osamu",
+        "Wu, Wen Y",
+        "van der Oost, John"
+      ],
+      "short_names": [
+        "Villegas Warren R",
+        "Omura SN",
+        "Leon Castro D",
+        "Sudfeld C",
+        "Luteijn MJ",
+        "Morinaga H",
+        "Inoue WJ",
+        "Shuto Y",
+        "Kuijpers AM",
+        "Meulewaeter F",
+        "De Vleesschauwer D",
+        "Staals RHJ",
+        "Nureki O",
+        "Wu WY",
+        "van der Oost J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2436-0847",
+        "ORCID: 0000-0002-5741-9457",
+        "ORCID: 0000-0001-7147-7293",
+        "ORCID: 0000-0001-5024-1871"
+      ],
+      "affiliations": [
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands.",
+        "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan.",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands.",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands.",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands.",
+        "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan.",
+        "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan.",
+        "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan.",
+        "BASF Belgium-Innovation Center Gent, Technologiepark-Zwijnaarde 101, 9052 Ghent, Belgium.",
+        "BASF Belgium-Innovation Center Gent, Technologiepark-Zwijnaarde 101, 9052 Ghent, Belgium.",
+        "BASF Belgium-Innovation Center Gent, Technologiepark-Zwijnaarde 101, 9052 Ghent, Belgium.",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands.",
+        "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan.",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands.",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Villegas Warren, Ricardo",
+        "short_name": "Villegas Warren R",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Omura, Satoshi N",
+        "short_name": "Omura SN",
+        "identifiers": [
+          "0000-0003-2436-0847"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan."
+        ]
+      },
+      {
+        "full_name": "Leon Castro, Diana",
+        "short_name": "Leon Castro D",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Südfeld, Christian",
+        "short_name": "Südfeld C",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Luteijn, Maartje J",
+        "short_name": "Luteijn MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Morinaga, Hayato",
+        "short_name": "Morinaga H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan."
+        ]
+      },
+      {
+        "full_name": "Inoue, Wakana J",
+        "short_name": "Inoue WJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan."
+        ]
+      },
+      {
+        "full_name": "Shuto, Yutaro",
+        "short_name": "Shuto Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan."
+        ]
+      },
+      {
+        "full_name": "Kuijpers, Anne-Marie",
+        "short_name": "Kuijpers AM",
+        "identifiers": [],
+        "affiliations": [
+          "BASF Belgium-Innovation Center Gent, Technologiepark-Zwijnaarde 101, 9052 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Meulewaeter, Frank",
+        "short_name": "Meulewaeter F",
+        "identifiers": [],
+        "affiliations": [
+          "BASF Belgium-Innovation Center Gent, Technologiepark-Zwijnaarde 101, 9052 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "De Vleesschauwer, David",
+        "short_name": "De Vleesschauwer D",
+        "identifiers": [],
+        "affiliations": [
+          "BASF Belgium-Innovation Center Gent, Technologiepark-Zwijnaarde 101, 9052 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Staals, Raymond H J",
+        "short_name": "Staals RHJ",
+        "identifiers": [
+          "0000-0002-5741-9457"
+        ],
+        "affiliations": [
+          "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Nureki, Osamu",
+        "short_name": "Nureki O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Graduate School of Science, University of Tokyo, Tokyo 113-0033, Japan."
+        ]
+      },
+      {
+        "full_name": "Wu, Wen Y",
+        "short_name": "Wu WY",
+        "identifiers": [
+          "0000-0001-7147-7293"
+        ],
+        "affiliations": [
+          "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "van der Oost, John",
+        "short_name": "van der Oost J",
+        "identifiers": [
+          "0000-0001-5024-1871"
+        ],
+        "affiliations": [
+          "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 11:31",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42831426",
+      "38955179",
+      "41603736",
+      "41521661",
+      "42742450",
+      "42143446",
+      "32161115",
+      "41063348",
+      "32519675",
+      "32843348",
+      "34853172",
+      "33472057",
+      "33764415",
+      "40966510",
+      "39439303",
+      "42045650",
+      "38459694",
+      "28431230",
+      "41807709",
+      "41605928",
+      "38865309",
+      "41288355",
+      "40372912",
+      "38647045",
+      "39052360",
+      "34951457",
+      "39158766",
+      "38987539",
+      "40397663",
+      "38368461",
+      "33523494",
+      "41814651",
+      "32687187",
+      "39955288",
+      "39698811",
+      "39482449",
+      "40121071",
+      "30639240",
+      "33782402",
+      "31989168",
+      "40229905",
+      "30998096",
+      "31381206",
+      "31004485",
+      "38994558",
+      "24253446",
+      "34009379",
+      "34757726",
+      "31467167",
+      "40222509",
+      "32329776",
+      "37451121",
+      "34076237",
+      "31872209",
+      "39426279",
+      "41492065",
+      "40671523",
+      "42770331",
+      "40849498",
+      "32382982",
+      "34294706",
+      "40944362",
+      "40403646",
+      "38336977",
+      "27989439",
+      "42301915",
+      "42531075",
+      "32895548",
+      "34702830",
+      "40557869",
+      "34782635",
+      "39519677",
+      "37650631",
+      "39258555",
+      "38922054",
+      "39009379",
+      "41741470",
+      "25398355",
+      "28602637",
+      "31723075",
+      "40787745",
+      "38575054",
+      "41062469",
+      "38200119",
+      "40505881",
+      "38650045",
+      "32889710",
+      "39995038",
+      "40334424",
+      "32376630",
+      "41404798",
+      "39929897",
+      "36107767",
+      "24836556",
+      "38819403",
+      "30833733",
+      "27096365",
+      "39588774",
+      "29551514",
+      "34593942"
+    ],
+    "review": [
+      "42831426",
+      "42045650",
+      "31872209"
+    ],
+    "pmc": [
+      "13635745"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag934",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "identity": {
+    "pmid": "42858625",
+    "doi": "10.1016/j.bios.2026.119313",
+    "title": "Rationally optimized split crRNA-based CRISPR/Cas12a platform for amplification-free miRNA detection."
+  },
+  "content": {
+    "abstract": "MicroRNAs (miRNAs) are important biomarkers for cancer diagnosis and prognosis, but their short length, low abundance, and high sequence similarity make rapid and sensitive detection challenging. Split crRNA-based CRISPR/Cas12a systems have emerged as a promising amplification-free strategy for RNA detection, yet the design principles governing their performance remain largely unexplored. Here, we report a rationally engineered split crRNA-Cas12a platform for direct detection of breast cancer-associated miRNAs. Using miR-155 and miR-10b as model targets, the influence of spacer split position on assay performance was systematically evaluated and further interpreted through structural prediction analysis. The results revealed distinct effects of spacer split position on signal output, reaction kinetics, and background signal, providing guidance for the rational design of split crRNA-Cas12a systems. DNA activator design, Cas12a/crRNA ratio, and reaction conditions were further optimized to improve assay performance. The system enabled sensitive detection of miR-155 and miR-10b, achieving limits of detection of 68 and 98 fM, respectively, while maintaining excellent specificity against non-target miRNAs and strong discrimination of mismatched sequences. The assay supported dual-target screening within a single reaction and demonstrated reliable performance in serum-spiked samples. These findings establish key design principles for split crRNA-Cas12a systems and provide a rational framework for engineering amplification-free RNA detection platforms. The proposed platform extends the application of Cas12a for direct RNA detection and provides a promising strategy for rapid biomarker screening in point-of-care and resource-limited settings.",
+    "keywords": [
+      "Amplification-free detection",
+      "CRISPR/Cas12a",
+      "Split crRNA",
+      "microRNA detection"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cha, Shaozhen",
+        "Zhang, Peng",
+        "Hou, Jie",
+        "Wang, Lingyu",
+        "Yang, Qingyi",
+        "Liu, Xinqiong",
+        "Yu, Guanghui",
+        "Zhang, Li"
+      ],
+      "short_names": [
+        "Cha S",
+        "Zhang P",
+        "Hou J",
+        "Wang L",
+        "Yang Q",
+        "Liu X",
+        "Yu G",
+        "Zhang L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China.",
+        "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China; Department of General Surgery, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, China.",
+        "Department of General Surgery, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, China.",
+        "Department of Medical Laboratory, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, China.",
+        "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China.",
+        "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China. Electronic address: liuxinqiong@mail.scuec.edu.cn.",
+        "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China. Electronic address: yusheen@163.com.",
+        "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China. Electronic address: zhangli0624@scuec.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cha, Shaozhen",
+        "short_name": "Cha S",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Peng",
+        "short_name": "Zhang P",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China; Department of General Surgery, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Jie",
+        "short_name": "Hou J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lingyu",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory, Taihe Hospital, Hubei University of Medicine, Shiyan, 442000, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qingyi",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xinqiong",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China. Electronic address: liuxinqiong@mail.scuec.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yu, Guanghui",
+        "short_name": "Yu G",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China. Electronic address: yusheen@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Li",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Provincial Key Laboratory for Protection and Application of Special Plant Germplasm in the Wuling Area of China, College of Life Science, South-Central Minzu University, Wuhan, 430074, China. Electronic address: zhangli0624@scuec.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 04:08",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42858625",
+      "40610153",
+      "41330674",
+      "42424186",
+      "42753299",
+      "42144912",
+      "38609257",
+      "40354613",
+      "37980404",
+      "41614690",
+      "41960606",
+      "42790075",
+      "42838919",
+      "41129856",
+      "39333528",
+      "40745870",
+      "41506042",
+      "41261856",
+      "42669262",
+      "38772660",
+      "39982896",
+      "42734255",
+      "40160100",
+      "42546382",
+      "42679775",
+      "40886669",
+      "42077856",
+      "42628890",
+      "42441514",
+      "39831307",
+      "37922816",
+      "42489285",
+      "35605545",
+      "40234780",
+      "39894990",
+      "41352908",
+      "42148800",
+      "40199100",
+      "39254031",
+      "40599263",
+      "40882515",
+      "41913088",
+      "34011151",
+      "40704803",
+      "35857897",
+      "40930528",
+      "42018089",
+      "41489552",
+      "40179681",
+      "36318504",
+      "39449688",
+      "38503125",
+      "41729380",
+      "38521316",
+      "42367209",
+      "36824842",
+      "39740588",
+      "36778248",
+      "41652143",
+      "40749504",
+      "39739998",
+      "42600477",
+      "41747377",
+      "39516870",
+      "40865357",
+      "35987123",
+      "36974013",
+      "35988346",
+      "39135699",
+      "42417866",
+      "40825745",
+      "38245957",
+      "37657377",
+      "42266926",
+      "42263201",
+      "41073014",
+      "41240694",
+      "42677820",
+      "41762887",
+      "38319081",
+      "41104129",
+      "38815319",
+      "41730595",
+      "36240131",
+      "42379036",
+      "42707136",
+      "40254669",
+      "37669948",
+      "41834687",
+      "38489095",
+      "42068913",
+      "41628563",
+      "33133487",
+      "40499384",
+      "39718242",
+      "41834690",
+      "41260396",
+      "42543449",
+      "42243947",
+      "35946354"
+    ],
+    "review": [
+      "42858625",
+      "42144912",
+      "42838919",
+      "38489095"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00946-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

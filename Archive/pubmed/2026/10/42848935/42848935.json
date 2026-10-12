@@ -1,0 +1,390 @@
+{
+  "identity": {
+    "pmid": "42848935",
+    "doi": "10.1093/plphys/kiag759",
+    "title": "Gibberellin-mediated PtrLBD39-PtrHDA6-PtrHCT epigenetic path regulates lignin biosynthesis during tension wood formation in Populus trichocarpa."
+  },
+  "content": {
+    "abstract": "Tension wood (TW) is a specialized xylem tissue formed in angiosperm trees to counteract mechanical stresses. Increased phytohormones, particularly gibberellins (GAs), and decreased lignin deposition are two well-established features of TW, yet the molecular mechanisms linking GA signaling to lignin repression remain largely unknown. Here we revealed that TW formation in Populus trichocarpa elevates GA accumulation, which activates the expression of PtrLBD39, the most strongly induced transcription factor and a repressor of lignin biosynthesis in TW development. Inhibition of GA biosynthesis attenuates PtrLBD39 induction and restores lignin deposition in TW development. Consistently, CRISPR PtrLBD39 knockout increased lignin content and endonuclease-deficient Cas9-mediated loci-specific PtrLBD39 activation reduced lignin in TW-forming stems. ChIP-seq analysis and EMSA experiments demonstrated that PtrLBD39 binds directly to the promoters of two monolignol biosynthetic genes, PtrHCT1 and PtrHCT6, via a novel TCACGB motif, thereby repressing their transcription. The PtrLBD39-DNA binding allowed PtrLBD39 to recruit two histone deacetylases, PtrHDA6-A and PtrHDA6-B, from 16 known P. trichocarpa HDACs screened and validated by Y2H, BiFC and in vitro pull-down assays, and the specific recruitments to PtrHCT1 and PtrHCT6 were confirmed during TW development by ChIP-qPCR. PtrLBD39-PtrHDA6-A or PtrLBD39-PtrHDA6-B dimers were functional for deacetylating H3K9ac and H3K14ac on PtrHCT1 and PtrHCT6 leading to transcriptional repression and lignin reduction, as demonstrated in PtrHDA6-A overexpression lines under TW development. Consistently, PtrLBD39 overexpression lines under TW development also affected PtrHCT deacetylation for lignin reduction. Thus, we suggest that mechanical stresses transduce a GA-mediated LBD39-HDA6s-HCTs epigenetic regulatory path for effective causative regulations for TW specialization.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dai, Xiufang",
+        "Zhang, Wen",
+        "Wang, Huiting",
+        "Liu, Jiaman",
+        "Zhao, Jinfeng",
+        "Meng, Dekai",
+        "Chen, Yanjie",
+        "Zhai, Rui",
+        "Gao, Jinghui",
+        "Yu, Jing",
+        "Gao, Xue",
+        "Li, Shuang",
+        "Lan, Xingguo",
+        "Chiang, Vincent L",
+        "Zhou, Chenguang",
+        "Li, Wei"
+      ],
+      "short_names": [
+        "Dai X",
+        "Zhang W",
+        "Wang H",
+        "Liu J",
+        "Zhao J",
+        "Meng D",
+        "Chen Y",
+        "Zhai R",
+        "Gao J",
+        "Yu J",
+        "Gao X",
+        "Li S",
+        "Lan X",
+        "Chiang VL",
+        "Zhou C",
+        "Li W"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8419-4230",
+        "ORCID: 0009-0002-5262-6761",
+        "ORCID: 0009-0009-9194-9804",
+        "ORCID: 0009-0009-7735-8805",
+        "ORCID: 0009-0007-1828-7467",
+        "ORCID: 0009-0008-4327-9917",
+        "ORCID: 0009-0004-6016-1591",
+        "ORCID: 0000-0002-8190-855X",
+        "ORCID: 0000-0001-5761-4079",
+        "ORCID: 0000-0003-2352-2904",
+        "ORCID: 0000-0002-0266-0788",
+        "ORCID: 0000-0002-7152-9601",
+        "ORCID: 0000-0001-6414-4693",
+        "ORCID: 0000-0002-4407-9334"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "College of Life Sciences, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "College of Life Sciences, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "Forest Biotechnology Group, Department of Forestry and Environmental Resources, North Carolina State University, Raleigh NC, 27695, USA.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dai, Xiufang",
+        "short_name": "Dai X",
+        "identifiers": [
+          "0000-0002-8419-4230"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+          "College of Life Sciences, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wen",
+        "short_name": "Zhang W",
+        "identifiers": [
+          "0009-0002-5262-6761"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Huiting",
+        "short_name": "Wang H",
+        "identifiers": [
+          "0009-0009-9194-9804"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiaman",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jinfeng",
+        "short_name": "Zhao J",
+        "identifiers": [
+          "0009-0009-7735-8805"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Dekai",
+        "short_name": "Meng D",
+        "identifiers": [
+          "0009-0007-1828-7467"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yanjie",
+        "short_name": "Chen Y",
+        "identifiers": [
+          "0009-0008-4327-9917"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Zhai, Rui",
+        "short_name": "Zhai R",
+        "identifiers": [
+          "0009-0004-6016-1591"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jinghui",
+        "short_name": "Gao J",
+        "identifiers": [
+          "0000-0002-8190-855X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jing",
+        "short_name": "Yu J",
+        "identifiers": [
+          "0000-0001-5761-4079"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xue",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shuang",
+        "short_name": "Li S",
+        "identifiers": [
+          "0000-0003-2352-2904"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Lan, Xingguo",
+        "short_name": "Lan X",
+        "identifiers": [
+          "0000-0002-0266-0788"
+        ],
+        "affiliations": [
+          "College of Life Sciences, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Chiang, Vincent L",
+        "short_name": "Chiang VL",
+        "identifiers": [
+          "0000-0002-7152-9601"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China.",
+          "Forest Biotechnology Group, Department of Forestry and Environmental Resources, North Carolina State University, Raleigh NC, 27695, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Chenguang",
+        "short_name": "Zhou C",
+        "identifiers": [
+          "0000-0001-6414-4693"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [
+          "0000-0002-4407-9334"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin 150040, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant physiology"
+    ],
+    "journal_abbrev": [
+      "Plant Physiol"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42848935",
+      "35059630",
+      "33793955",
+      "39639540",
+      "38396881",
+      "34691108",
+      "42021465",
+      "41871420",
+      "25886950",
+      "40032095",
+      "30968143",
+      "41622808",
+      "28633298",
+      "28733593",
+      "34970280",
+      "16367961",
+      "35837467",
+      "41663340",
+      "42835065",
+      "39756755",
+      "36152809",
+      "34868103",
+      "39934964",
+      "35152419",
+      "24586282",
+      "28985414",
+      "39586445",
+      "38850037",
+      "30759868",
+      "23754401",
+      "41400294",
+      "28083709",
+      "19996151",
+      "24619611",
+      "22369296",
+      "39540795",
+      "32498411",
+      "22628084",
+      "16236158",
+      "36647609",
+      "41059766",
+      "32391036",
+      "38122834",
+      "30276825",
+      "30689054",
+      "39031878",
+      "21450982",
+      "34100089",
+      "41515013",
+      "40653242",
+      "34777481",
+      "32275650",
+      "37546258",
+      "12359514",
+      "42296191",
+      "31450644",
+      "40328402",
+      "42371121",
+      "35095939",
+      "39992899",
+      "29947466",
+      "34440740",
+      "28117379",
+      "35220431",
+      "29040741",
+      "25578281",
+      "39072753",
+      "29679008",
+      "25336570",
+      "21357770",
+      "42324810",
+      "31611886",
+      "39030690",
+      "23344904",
+      "40846785",
+      "39270565",
+      "36613871",
+      "31211386",
+      "27500520",
+      "15122040",
+      "23515474",
+      "42543729",
+      "42846099",
+      "20739427",
+      "39988581",
+      "26508520",
+      "36982881",
+      "32943464",
+      "30755461",
+      "25388807",
+      "31500311",
+      "32659969",
+      "30866808",
+      "40110439",
+      "24204619",
+      "29266248",
+      "25443838",
+      "34728415",
+      "41270871",
+      "42530094"
+    ],
+    "review": [
+      "42848935",
+      "12359514"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/plphys/article-lookup/doi/10.1093/plphys/kiag759",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

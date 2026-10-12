@@ -1,0 +1,371 @@
+{
+  "identity": {
+    "pmid": "42838053",
+    "doi": "10.1016/j.molcel.2026.09.017",
+    "title": "A genome-scale adaptation map identifies the FANCM-RMI1/2 complex as an opposing modulator of cell fitness upon BRCA1 or BRCA2 loss."
+  },
+  "content": {
+    "abstract": "Cancer cells lacking BRCA1 or BRCA2 must adapt to proliferate despite pervasive genomic instability. To delineate BRCA1- and BRCA2-specific adaptation landscapes, we developed an isogenic screening platform enabling acute depletion of either protein. Genetic interaction profiling revealed hundreds of genes with shared, distinct, or opposing effects in the two BRCA-deficient states. We identified FANCM as essential in BRCA1-deficient cells. Conversely, FANCM is toxic in BRCA2-deficient cells, where it promotes replication fork degradation through RMI1/2 recruitment and sensitizes cells to PARP inhibition. FANCM loss restored fork integrity and alleviated genomic instability and proliferation defects without restoring homologous recombination or suppressing single-stranded DNA (ssDNA) gaps. Finally, we report a FANCM variant that disrupts RMI1/2 binding in a BRCA2m breast cancer patient that is associated with PARP-inhibitor resistance. These findings define fundamentally distinct adaptive routes to BRCA1 and BRCA2 loss and establish FANCM-RMI1/2 as a determinant of mutation-specific vulnerabilities and therapeutic responses.",
+    "keywords": [
+      "BRCA1",
+      "BRCA2",
+      "FANCM",
+      "PARP-inhibitor resistance",
+      "RMI1/2",
+      "auxin-inducible degron CRISPR screen",
+      "genome stability",
+      "replication fork protection",
+      "synthetic lethality",
+      "synthetic viability"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dossin, Francois",
+        "Attia, Mikael",
+        "Montero Zuniga, Fabricio",
+        "Gonzalez-Acosta, Daniel",
+        "Brough, Rachel",
+        "Song, Fei Fei",
+        "Krastev, Dragomir B",
+        "Raghunandan, Maya",
+        "Pettitt, Stephen J",
+        "Bore, Aurelien",
+        "Vaysse, Amaury",
+        "Margueron, Raphael",
+        "Lopes, Massimo",
+        "Tutt, Andrew N J",
+        "Lord, Christopher J",
+        "Deriano, Ludovic"
+      ],
+      "short_names": [
+        "Dossin F",
+        "Attia M",
+        "Montero Zuniga F",
+        "Gonzalez-Acosta D",
+        "Brough R",
+        "Song FF",
+        "Krastev DB",
+        "Raghunandan M",
+        "Pettitt SJ",
+        "Bore A",
+        "Vaysse A",
+        "Margueron R",
+        "Lopes M",
+        "Tutt ANJ",
+        "Lord CJ",
+        "Deriano L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institut Pasteur, Universite Paris Cite, INSERM U1223, Equipe Labellisee Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France. Electronic address: francois.dossin@pasteur.fr.",
+        "Institut Pasteur, Universite Paris Cite, INSERM U1223, Equipe Labellisee Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France.",
+        "Institut Pasteur, Universite Paris Cite, INSERM U1223, Equipe Labellisee Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France.",
+        "Institute of Molecular Cancer Research, University of Zurich, 8050 Zurich, Switzerland.",
+        "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK.",
+        "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK.",
+        "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK.",
+        "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK.",
+        "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK.",
+        "CRISPR'iT Genetic Platform Screening, Institut Curie, INSERM U934, CNRS UMR3215, 75005 Paris, France.",
+        "Institut Pasteur, Universite Paris Cite, INSERM U1223, Equipe Labellisee Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France; Institut Pasteur, Universite Paris Cite, Bioinformatics and Biostatistics Hub, 75015 Paris, France.",
+        "CRISPR'iT Genetic Platform Screening, Institut Curie, INSERM U934, CNRS UMR3215, 75005 Paris, France.",
+        "Institute of Molecular Cancer Research, University of Zurich, 8050 Zurich, Switzerland.",
+        "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK.",
+        "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK.",
+        "Institut Pasteur, Universite Paris Cite, INSERM U1223, Equipe Labellisee Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France. Electronic address: ludovic.deriano@pasteur.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dossin, François",
+        "short_name": "Dossin F",
+        "identifiers": [],
+        "affiliations": [
+          "Institut Pasteur, Université Paris Cité, INSERM U1223, Équipe Labellisée Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France. Electronic address: francois.dossin@pasteur.fr."
+        ]
+      },
+      {
+        "full_name": "Attia, Mikael",
+        "short_name": "Attia M",
+        "identifiers": [],
+        "affiliations": [
+          "Institut Pasteur, Université Paris Cité, INSERM U1223, Équipe Labellisée Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France."
+        ]
+      },
+      {
+        "full_name": "Montero Zúñiga, Fabricio",
+        "short_name": "Montero Zúñiga F",
+        "identifiers": [],
+        "affiliations": [
+          "Institut Pasteur, Université Paris Cité, INSERM U1223, Équipe Labellisée Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France."
+        ]
+      },
+      {
+        "full_name": "González-Acosta, Daniel",
+        "short_name": "González-Acosta D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Cancer Research, University of Zurich, 8050 Zürich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Brough, Rachel",
+        "short_name": "Brough R",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Song, Fei Fei",
+        "short_name": "Song FF",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Krastev, Dragomir B",
+        "short_name": "Krastev DB",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Raghunandan, Maya",
+        "short_name": "Raghunandan M",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Pettitt, Stephen J",
+        "short_name": "Pettitt SJ",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Boré, Aurélien",
+        "short_name": "Boré A",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR'iT Genetic Platform Screening, Institut Curie, INSERM U934, CNRS UMR3215, 75005 Paris, France."
+        ]
+      },
+      {
+        "full_name": "Vaysse, Amaury",
+        "short_name": "Vaysse A",
+        "identifiers": [],
+        "affiliations": [
+          "Institut Pasteur, Université Paris Cité, INSERM U1223, Équipe Labellisée Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France; Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, 75015 Paris, France."
+        ]
+      },
+      {
+        "full_name": "Margueron, Raphaël",
+        "short_name": "Margueron R",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR'iT Genetic Platform Screening, Institut Curie, INSERM U934, CNRS UMR3215, 75005 Paris, France."
+        ]
+      },
+      {
+        "full_name": "Lopes, Massimo",
+        "short_name": "Lopes M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Cancer Research, University of Zurich, 8050 Zürich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Tutt, Andrew N J",
+        "short_name": "Tutt ANJ",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Lord, Christopher J",
+        "short_name": "Lord CJ",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Deriano, Ludovic",
+        "short_name": "Deriano L",
+        "identifiers": [],
+        "affiliations": [
+          "Institut Pasteur, Université Paris Cité, INSERM U1223, Équipe Labellisée Ligue Contre Le Cancer, Genome Integrity, Immunity and Cancer Unit, 75015 Paris, France. Electronic address: ludovic.deriano@pasteur.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838053",
+      "34216544",
+      "42818548",
+      "29145865",
+      "18473729",
+      "41278922",
+      "42049240",
+      "35121901",
+      "42239136",
+      "34555355",
+      "42694389",
+      "28425306",
+      "38789420",
+      "22504671",
+      "36400033",
+      "34508659",
+      "31529615",
+      "42399234",
+      "34419699",
+      "39198848",
+      "29053959",
+      "19589159",
+      "31836759",
+      "40373656",
+      "28242626",
+      "38985669",
+      "27443740",
+      "22778154",
+      "40326293",
+      "30576655",
+      "25975349",
+      "30344097",
+      "36854505",
+      "30032296",
+      "28673972",
+      "40460119",
+      "24776801",
+      "33882298",
+      "30022119",
+      "30686591",
+      "42335889",
+      "34597596",
+      "40548939",
+      "38943334",
+      "42804161",
+      "32966758",
+      "28729482",
+      "34197614",
+      "32391871",
+      "33184108",
+      "35107878",
+      "39084178",
+      "28124401",
+      "42760352",
+      "41970631",
+      "28138868",
+      "31078449",
+      "38807759",
+      "41236806",
+      "41757058",
+      "31255466",
+      "35419484",
+      "37454295",
+      "39265497",
+      "18820000",
+      "37783689",
+      "22906755",
+      "27264184",
+      "28735897",
+      "34070674",
+      "32776008",
+      "39007266",
+      "42774753",
+      "27869444",
+      "39844055",
+      "32997669",
+      "33462394",
+      "30890549",
+      "41162355",
+      "40210436",
+      "30345412",
+      "42028973",
+      "36318381",
+      "38649452",
+      "11196174",
+      "34871431",
+      "24842372",
+      "27452521",
+      "34624216",
+      "31022191",
+      "24085845",
+      "28714471",
+      "38001070",
+      "33678249",
+      "28765325",
+      "36455556",
+      "41931484",
+      "38789375",
+      "41797047",
+      "42091345"
+    ],
+    "review": [
+      "42838053",
+      "18473729",
+      "28425306",
+      "34419699",
+      "40373656",
+      "36854505",
+      "39084178",
+      "41970631",
+      "34070674",
+      "39007266",
+      "42774753",
+      "36318381"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(26)00660-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-3279",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "identity": {
+    "pmid": "42848510",
+    "doi": "10.1016/j.celrep.2026.118111",
+    "title": "Functional identification of non-coding regulatory regions that drive breast and skin carcinogenesis."
+  },
+  "content": {
+    "abstract": "Whole-genome sequencing has revealed hundreds of cancer driver mutations in protein-coding genes, while our knowledge of how non-coding mutations contribute to tumorigenesis remains limited. Here, we develop and perform large-scale functional screens to identify non-coding regulatory elements whose mutations drive cancer development in non-transformed human breast epithelial cells and mouse models of breast and skin cancer. We identify 12 frequently mutated regulatory elements associated with 16 genes as candidate cancer drivers. Mechanistically, we characterize two elements associated with the microRNA MIR21 and the tumor suppressor gene, ZFP36L2. Mutating these regulatory elements dysregulates the expression of MIR21 and ZFP36L2, thereby leading to oncogenic transformation. We identify ZFP36L2 as a p53 target gene and find that mutating the p53-binding motif in the ZFP36L2 promoter is sufficient to drive tumorigenesis. Conceptually, our data indicate that cancer driver mutations in non-coding regulatory elements are much more prevalent and potent than initially assumed.",
+    "keywords": [
+      "CP: cancer",
+      "CP: genomics",
+      "MIR21",
+      "ZFP36L2",
+      "breast cancer",
+      "cis-regulatory regions",
+      "in vivo CRISPR tiling screen",
+      "non-coding mutations",
+      "skin cancer",
+      "xenograft CRISPR screen"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Oh, Robin H",
+        "Cheng, Kevin C L",
+        "Serafimova, Evgenija",
+        "Langille, Ellen",
+        "Perez-Castro, Miguel Angel",
+        "Lowden, Christopher",
+        "Nurtanto, Jocelyn",
+        "Dessapt, Julien",
+        "Fotiadou, Iosifina",
+        "Haider, Shahan",
+        "Berman, Jacob",
+        "Tsai, Ricky",
+        "Malik, Ahmad",
+        "Uuskula-Reimand, Liis",
+        "Loganathan, Sampath K",
+        "Al-Zahrani, Khalid N",
+        "Reimand, Juri",
+        "Schramek, Daniel"
+      ],
+      "short_names": [
+        "Oh RH",
+        "Cheng KCL",
+        "Serafimova E",
+        "Langille E",
+        "Perez-Castro MA",
+        "Lowden C",
+        "Nurtanto J",
+        "Dessapt J",
+        "Fotiadou I",
+        "Haider S",
+        "Berman J",
+        "Tsai R",
+        "Malik A",
+        "Uuskula-Reimand L",
+        "Loganathan SK",
+        "Al-Zahrani KN",
+        "Reimand J",
+        "Schramek D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.",
+        "Computational Biology Program, Ontario Institute for Cancer Research, Toronto, ON, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.",
+        "Program in Genetics and Genome Biology, The Hospital for Sick Children, Toronto, ON, Canada.",
+        "Department of Otolaryngology - Head and Neck Surgery, Faculty of Medicine, McGill University, Montreal, QC, Canada; Cancer Research Program, Research Institute of the McGill University Health Centre, Montreal, QC, Canada; Departments of Experimental Surgery and Experimental Medicine, Faculty of Medicine, McGill University, Montreal, QC, Canada; Rosalind and Morris Goodman Cancer Research Institute, McGill University, Montreal, QC, Canada.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada; Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, ON, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada; Computational Biology Program, Ontario Institute for Cancer Research, Toronto, ON, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada. Electronic address: juri.reimand@utoronto.ca.",
+        "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada. Electronic address: schramek@lunenfeld.ca."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Oh, Robin H",
+        "short_name": "Oh RH",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Cheng, Kevin C L",
+        "short_name": "Cheng KCL",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Biology Program, Ontario Institute for Cancer Research, Toronto, ON, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Serafimova, Evgenija",
+        "short_name": "Serafimova E",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Langille, Ellen",
+        "short_name": "Langille E",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Pérez-Castro, Miguel Ángel",
+        "short_name": "Pérez-Castro MÁ",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Lowden, Christopher",
+        "short_name": "Lowden C",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Nurtanto, Jocelyn",
+        "short_name": "Nurtanto J",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Dessapt, Julien",
+        "short_name": "Dessapt J",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Fotiadou, Iosifina",
+        "short_name": "Fotiadou I",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Haider, Shahan",
+        "short_name": "Haider S",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Berman, Jacob",
+        "short_name": "Berman J",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Tsai, Ricky",
+        "short_name": "Tsai R",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Malik, Ahmad",
+        "short_name": "Malik A",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Uusküla-Reimand, Liis",
+        "short_name": "Uusküla-Reimand L",
+        "identifiers": [],
+        "affiliations": [
+          "Program in Genetics and Genome Biology, The Hospital for Sick Children, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Loganathan, Sampath K",
+        "short_name": "Loganathan SK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Otolaryngology - Head and Neck Surgery, Faculty of Medicine, McGill University, Montreal, QC, Canada; Cancer Research Program, Research Institute of the McGill University Health Centre, Montreal, QC, Canada; Departments of Experimental Surgery and Experimental Medicine, Faculty of Medicine, McGill University, Montreal, QC, Canada; Rosalind and Morris Goodman Cancer Research Institute, McGill University, Montreal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Al-Zahrani, Khalid N",
+        "short_name": "Al-Zahrani KN",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada; Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Reimand, Jüri",
+        "short_name": "Reimand J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada; Computational Biology Program, Ontario Institute for Cancer Research, Toronto, ON, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada. Electronic address: juri.reimand@utoronto.ca."
+        ]
+      },
+      {
+        "full_name": "Schramek, Daniel",
+        "short_name": "Schramek D",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular and Systems Biology, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada. Electronic address: schramek@lunenfeld.ca."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42848510",
+      "41062181",
+      "36625266",
+      "37398273",
+      "31954095",
+      "33095860",
+      "39276353",
+      "28658208",
+      "25903198",
+      "39367275",
+      "29354286",
+      "28874753",
+      "26562774",
+      "36507923",
+      "32024854",
+      "34556523",
+      "32441252",
+      "28056774",
+      "32005150",
+      "26992833",
+      "30704472",
+      "27311963",
+      "34816127",
+      "33665563",
+      "35101866",
+      "39371173",
+      "27174533",
+      "39843641",
+      "28362259",
+      "41402909",
+      "42433780",
+      "32940334",
+      "29654271",
+      "42281968",
+      "31001324",
+      "26082173",
+      "39825430",
+      "25261935",
+      "33785712",
+      "40359938",
+      "31078526",
+      "33589921",
+      "26908612",
+      "29559730",
+      "32513296",
+      "27956228",
+      "33509944",
+      "41122295",
+      "30111589",
+      "29456552",
+      "38308274",
+      "41977403",
+      "42421226",
+      "30119690",
+      "35869079",
+      "28712454",
+      "30404658",
+      "26040466",
+      "31360895",
+      "31417368",
+      "28854983",
+      "33427197",
+      "29855387",
+      "26356674",
+      "22535017",
+      "31185986",
+      "38187729",
+      "31860165",
+      "42309349",
+      "36265133",
+      "36342464",
+      "38948758",
+      "35176995",
+      "31729402",
+      "32332753",
+      "23971998",
+      "26433158",
+      "33660495",
+      "28333948",
+      "39341862",
+      "23077082",
+      "36768794",
+      "33986299",
+      "19969543",
+      "22759657",
+      "28302063",
+      "35672401",
+      "36573462",
+      "36477895",
+      "15345050",
+      "27449149",
+      "32025015",
+      "26751173",
+      "19238535",
+      "26813108",
+      "21527559",
+      "40427520",
+      "21423204",
+      "33113946",
+      "25810432"
+    ],
+    "review": [
+      "42848510",
+      "26992833",
+      "42433780",
+      "30111589",
+      "29456552",
+      "26356674",
+      "26433158",
+      "23077082",
+      "15345050"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01190-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

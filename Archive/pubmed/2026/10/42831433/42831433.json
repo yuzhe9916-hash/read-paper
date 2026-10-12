@@ -1,0 +1,489 @@
+{
+  "identity": {
+    "pmid": "42831433",
+    "doi": "10.1093/cvr/cvag198",
+    "title": "Redirecting full-length FLT1 expression towards its soluble isoform by targeting alternative polyadenylation promotes postischaemic angiogenesis."
+  },
+  "content": {
+    "abstract": "AIMS: Vascular endothelial growth factors (VEGFs) and their endothelial tyrosine kinase receptors are crucial mediators of vasculogenesis and angiogenesis, with FLT1 (VEGFR1) acting as a decoy receptor for VEGFs. Alternative polyadenylation (APA) of Flt1 transcripts produces a truncated mRNA transcript encoding soluble (s) FLT1, which contains only the extracellular ligand-binding domain. The relative roles of full-length (fl) FLT1 and sFLT1 in angiogenesis are incompletely understood. Alternative polyadenylation is an important post-transcriptional mechanism of gene regulation that is increasingly recognized to affect the expression of many genes related to cardiovascular diseases. However, there are no in vivo models available to target APA and to examine the physiological roles of gene isoforms. METHODS AND RESULTS: We here generated mice by introducing silent mutations into the Flt1 exon 13/intron 13 5' splice site through homology-directed repair with CRISPR/Cas9 gene editing. Embryonic development, postnatal retinal vascular development, and reparative angiogenesis were evaluated in models of hindlimb ischaemia and myocardial infarction, complemented by assessments of cardiac functional recovery and cell phenotypes through snRNAseq, as well as in vitro assays examining endothelial cell phenotype and function. The introduction of specific splice site mutations within Flt1 to activate APA led to a complete loss of flFLT1 and an increase in sFLT1 expression. Using this mouse model, we demonstrate that sFLT1 alone is sufficient for developmental vasculogenesis, whereas the specific loss of flFLT1 enhances reparative revascularization and angiogenesis and improves cardiac recovery after myocardial infarction. CONCLUSION: Our findings show that APA can be effectively targeted to modulate FLT1 isoform expression in vivo. Our mouse model may help to understand diseases driven by an imbalance in FLT1 isoform expression. Given the widespread presence of APA signals, our approach could furthermore serve as a model for studying the function of other truncated gene isoforms.",
+    "keywords": [
+      "Alternative polyadenylation",
+      "Angiogenesis",
+      "Myocardial infarction",
+      "VEGF",
+      "Vasculogenesis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bundalo, Maja",
+        "Vorlova, Sandra",
+        "Ulrich, Jessica",
+        "Rizzo, Giuseppe",
+        "Butt, Elke",
+        "Bartolomaeus, Hendrik",
+        "Ali, Hla",
+        "Barbieri, Ruggero",
+        "Richter, Leon",
+        "Hona, Leonie",
+        "Egg, Manuel",
+        "Bock, Julian",
+        "Schafer, Sarah",
+        "Amezaga Sole, Nuria",
+        "Rosa, Annabelle",
+        "Cochain, Clement",
+        "Beilhack, Andreas",
+        "Kastenmuller, Wolfgang",
+        "Henke, Erik",
+        "Skryabin, Boris V",
+        "Rozhdestvensky, Timofey S",
+        "Wildgruber, Moritz",
+        "Alitalo, Kari",
+        "Lorenz, Kristina",
+        "Kuhn, Michaela",
+        "Zernecke, Alma"
+      ],
+      "short_names": [
+        "Bundalo M",
+        "Vorlova S",
+        "Ulrich J",
+        "Rizzo G",
+        "Butt E",
+        "Bartolomaeus H",
+        "Ali H",
+        "Barbieri R",
+        "Richter L",
+        "Hona L",
+        "Egg M",
+        "Bock J",
+        "Schafer S",
+        "Amezaga Sole N",
+        "Rosa A",
+        "Cochain C",
+        "Beilhack A",
+        "Kastenmuller W",
+        "Henke E",
+        "Skryabin BV",
+        "Rozhdestvensky TS",
+        "Wildgruber M",
+        "Alitalo K",
+        "Lorenz K",
+        "Kuhn M",
+        "Zernecke A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6053-0930",
+        "ORCID: 0000-0002-3165-2648",
+        "ORCID: 0000-0002-4392-185X",
+        "ORCID: 0000-0002-7331-0902",
+        "ORCID: 0000-0002-5747-2207",
+        "ORCID: 0000-0001-8551-4729"
+      ],
+      "affiliations": [
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Pharmacology and Toxicology, University of Wurzburg, Versbacher Str. 9, Wurzburg 97078, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany.",
+        "PARCC, INSERM, Universite Paris Cite, 56 rue Leblanc, 75015 Paris, France.",
+        "Department of Internal Medicine II, Center for Experimental Molecular Medicine (ZEMM), Zinklesweg 10, University Hospital Wurzburg, Wurzburg 97078, Germany.",
+        "Wurzburg Institute of Systems Immunology, Max Planck Research Group, Julius-Maximilians University of Wurzburg, Versbacher Strasse 9, Wurzburg 97078, Germany.",
+        "Institute of Anatomy and Cell Biology, University of Wurzburg, Koellikerstrasse 6, Wurzburg 97070, Germany.",
+        "Department of Medicine, Core Facility Transgenic Animal and Genetic Engineering Models (TRAM), University of Munster, Von-Esmarch-Strasse 56, Munster 48149, Germany.",
+        "Department of Medicine, Core Facility Transgenic Animal and Genetic Engineering Models (TRAM), University of Munster, Von-Esmarch-Strasse 56, Munster 48149, Germany.",
+        "Department of Radiology, University Hospital, LMU Munich, Marchioninistrasse 15, Munich 81377, Germany.",
+        "Wihuri Research Institute, Biomedicum Helsinki, University of Helsinki, Haartmaninkatu 8, Helsinki 00290, Finland.",
+        "Institute of Pharmacology and Toxicology, University of Wurzburg, Versbacher Str. 9, Wurzburg 97078, Germany.",
+        "Department of Translational Research, Cardiovascular Pharmacology, Leibniz-Institut fur Analytische Wissenschaften-ISAS-e.V., Bunsen-Kirchhoff-Str. 11, Dortmund 44139, Germany.",
+        "Institute of Physiology, University of Wurzburg, Rontgenring 9, Wurzburg 97070, Germany.",
+        "Institute of Experimental Biomedicine, University Hospital Wurzburg, Josef-Schneider-Str. 2, D16, Wurzburg 97080, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bundalo, Maja",
+        "short_name": "Bundalo M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Vorlova, Sandra",
+        "short_name": "Vorlova S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Ulrich, Jessica",
+        "short_name": "Ulrich J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmacology and Toxicology, University of Würzburg, Versbacher Str. 9, Würzburg 97078, Germany."
+        ]
+      },
+      {
+        "full_name": "Rizzo, Giuseppe",
+        "short_name": "Rizzo G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Butt, Elke",
+        "short_name": "Butt E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Bartolomaeus, Hendrik",
+        "short_name": "Bartolomaeus H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Ali, Hla",
+        "short_name": "Ali H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Barbieri, Ruggero",
+        "short_name": "Barbieri R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Richter, Leon",
+        "short_name": "Richter L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Höna, Leonie",
+        "short_name": "Höna L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Egg, Manuel",
+        "short_name": "Egg M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Bock, Julian",
+        "short_name": "Bock J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Schäfer, Sarah",
+        "short_name": "Schäfer S",
+        "identifiers": [
+          "0000-0002-6053-0930"
+        ],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Amézaga Solé, Núria",
+        "short_name": "Amézaga Solé N",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Rosa, Annabelle",
+        "short_name": "Rosa A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      },
+      {
+        "full_name": "Cochain, Clément",
+        "short_name": "Cochain C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany.",
+          "PARCC, INSERM, Université Paris Cité, 56 rue Leblanc, 75015 Paris, France."
+        ]
+      },
+      {
+        "full_name": "Beilhack, Andreas",
+        "short_name": "Beilhack A",
+        "identifiers": [
+          "0000-0002-3165-2648"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine II, Center for Experimental Molecular Medicine (ZEMM), Zinklesweg 10, University Hospital Würzburg, Würzburg 97078, Germany."
+        ]
+      },
+      {
+        "full_name": "Kastenmüller, Wolfgang",
+        "short_name": "Kastenmüller W",
+        "identifiers": [],
+        "affiliations": [
+          "Würzburg Institute of Systems Immunology, Max Planck Research Group, Julius-Maximilians University of Würzburg, Versbacher Straße 9, Würzburg 97078, Germany."
+        ]
+      },
+      {
+        "full_name": "Henke, Erik",
+        "short_name": "Henke E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Anatomy and Cell Biology, University of Würzburg, Koellikerstraße 6, Würzburg 97070, Germany."
+        ]
+      },
+      {
+        "full_name": "Skryabin, Boris V",
+        "short_name": "Skryabin BV",
+        "identifiers": [
+          "0000-0002-4392-185X"
+        ],
+        "affiliations": [
+          "Department of Medicine, Core Facility Transgenic Animal and Genetic Engineering Models (TRAM), University of Münster, Von-Esmarch-Straße 56, Münster 48149, Germany."
+        ]
+      },
+      {
+        "full_name": "Rozhdestvensky, Timofey S",
+        "short_name": "Rozhdestvensky TS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Core Facility Transgenic Animal and Genetic Engineering Models (TRAM), University of Münster, Von-Esmarch-Straße 56, Münster 48149, Germany."
+        ]
+      },
+      {
+        "full_name": "Wildgruber, Moritz",
+        "short_name": "Wildgruber M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, University Hospital, LMU Munich, Marchioninistraße 15, Munich 81377, Germany."
+        ]
+      },
+      {
+        "full_name": "Alitalo, Kari",
+        "short_name": "Alitalo K",
+        "identifiers": [
+          "0000-0002-7331-0902"
+        ],
+        "affiliations": [
+          "Wihuri Research Institute, Biomedicum Helsinki, University of Helsinki, Haartmaninkatu 8, Helsinki 00290, Finland."
+        ]
+      },
+      {
+        "full_name": "Lorenz, Kristina",
+        "short_name": "Lorenz K",
+        "identifiers": [
+          "0000-0002-5747-2207"
+        ],
+        "affiliations": [
+          "Institute of Pharmacology and Toxicology, University of Würzburg, Versbacher Str. 9, Würzburg 97078, Germany.",
+          "Department of Translational Research, Cardiovascular Pharmacology, Leibniz-Institut für Analytische Wissenschaften-ISAS-e.V., Bunsen-Kirchhoff-Str. 11, Dortmund 44139, Germany."
+        ]
+      },
+      {
+        "full_name": "Kuhn, Michaela",
+        "short_name": "Kuhn M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Physiology, University of Würzburg, Röntgenring 9, Würzburg 97070, Germany."
+        ]
+      },
+      {
+        "full_name": "Zernecke, Alma",
+        "short_name": "Zernecke A",
+        "identifiers": [
+          "0000-0001-8551-4729"
+        ],
+        "affiliations": [
+          "Institute of Experimental Biomedicine, University Hospital Würzburg, Josef-Schneider-Str. 2, D16, Würzburg 97080, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cardiovascular research"
+    ],
+    "journal_abbrev": [
+      "Cardiovasc Res"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 11:31",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42831433",
+      "41935951",
+      "17615362",
+      "23918400",
+      "32041578",
+      "20385595",
+      "16334858",
+      "15814646",
+      "37384534",
+      "21518965",
+      "29158084",
+      "25450186",
+      "23911939",
+      "28246215",
+      "40314836",
+      "36720378",
+      "35700449",
+      "18593464",
+      "16103078",
+      "28939845",
+      "22438952",
+      "23063127",
+      "23904188",
+      "14668430",
+      "42475469",
+      "12796773",
+      "10705382",
+      "21262445",
+      "10803575",
+      "24735995",
+      "35927413",
+      "11018037",
+      "42258907",
+      "26221124",
+      "12091877",
+      "10748050",
+      "41808628",
+      "21548585",
+      "40450413",
+      "39627472",
+      "40790610",
+      "40418321",
+      "15601855",
+      "37835681",
+      "33843145",
+      "42341216",
+      "26627607",
+      "17950150",
+      "32522888",
+      "16754748",
+      "34174817",
+      "26928042",
+      "41195527",
+      "25484187",
+      "31758020",
+      "8573716",
+      "29066300",
+      "15477417",
+      "22489010",
+      "25772179",
+      "28325846",
+      "11729749",
+      "18515749",
+      "12194822",
+      "37215144",
+      "11122379",
+      "28000842",
+      "9708799",
+      "15192019",
+      "21360018",
+      "21139021",
+      "23856609",
+      "34665260",
+      "30586702",
+      "21521739",
+      "41691203",
+      "26090874",
+      "9989334",
+      "41892287",
+      "34244761",
+      "10749680",
+      "38623888",
+      "17002866",
+      "21212275",
+      "34765448",
+      "30571259",
+      "33609360",
+      "30316329",
+      "26380584",
+      "15874936",
+      "31598705",
+      "42163102",
+      "28882731",
+      "35981547",
+      "24145798",
+      "38238614",
+      "28574576",
+      "20515481",
+      "26825552",
+      "24311377"
+    ],
+    "review": [
+      "42831433",
+      "16334858",
+      "26221124",
+      "33843145",
+      "25484187",
+      "25772179",
+      "11729749",
+      "17002866",
+      "34765448"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/cardiovascres/article-lookup/doi/10.1093/cvr/cvag198",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

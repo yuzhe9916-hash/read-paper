@@ -1,0 +1,245 @@
+{
+  "identity": {
+    "pmid": "42846490",
+    "doi": "10.1093/bioadv/vbag280",
+    "title": "Transcriptomic buffering detection: a computational approach to identifying essential gene dependencies in pancreatic cancer."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Loss-of-function (LOF) mutations in essential genes (Goners) should be lethal, yet some tumours survive through compensatory buffering mechanisms. Existing computational methods for identifying synthetic lethal (SL) interactions focus on known tumour suppressor losses, missing essential gene dependencies. We developed a computational pipeline to identify SL buffering mechanisms by correlating Goner LOF burden with transcriptomic compensation. RESULTS: Applying our pipeline to pancreatic adenocarcinoma (PAAD), we integrated CRISPR essentiality screens (DepMap), mutation data, and RNA expression profiles from 165 TCGA-PAAD cases. This PAAD analysis supports the feasibility of the pipeline but does not nominate a transcriptomic buffer; applicability to other cancer types remains to be tested. AVAILABILITY AND IMPLEMENTATION: Analysis code and documentation are available at https://github.com/d3dd/goblet. Implemented in Python 3.9+ using pandas, scipy, and gseapy. All data are publicly available from TCGA and DepMap.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Boman, Magnus",
+        "Afentaki, Eleni",
+        "Greely, Julia Marie",
+        "Ezaz-Nikpay, Noura",
+        "Zain, Rula",
+        "Smith, C I Edvard"
+      ],
+      "short_names": [
+        "Boman M",
+        "Afentaki E",
+        "Greely JM",
+        "Ezaz-Nikpay N",
+        "Zain R",
+        "Smith CIE"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7949-1815"
+      ],
+      "affiliations": [
+        "Division of Clinical Epidemiology, Department of Medicine Solna, Karolinska Institutet, SE-171 76 Stockholm, Sweden.",
+        "Department of Laboratory Medicine, Karolinska Institutet, SE-141 83 Stockholm, Sweden.",
+        "Shiley-Marcos School of Engineering, University of San Diego, San Diego, CA, 92110, United States.",
+        "Department of Computing, Imperial College, London, SW7 2AZ, United Kingdom.",
+        "Department of Laboratory Medicine, Karolinska Institutet, SE-141 83 Stockholm, Sweden.",
+        "Karolinska ATMP Center, Karolinska Institutet, SE-171 64 Stockholm, Sweden.",
+        "Department of Clinical Genetics and Genomics, Centre for Rare Diseases, Karolinska University Hospital, SE-141 86 Stockholm, Sweden.",
+        "Department of Laboratory Medicine, Karolinska Institutet, SE-141 83 Stockholm, Sweden.",
+        "Karolinska ATMP Center, Karolinska Institutet, SE-171 64 Stockholm, Sweden."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Boman, Magnus",
+        "short_name": "Boman M",
+        "identifiers": [
+          "0000-0001-7949-1815"
+        ],
+        "affiliations": [
+          "Division of Clinical Epidemiology, Department of Medicine Solna, Karolinska Institutet, SE-171 76 Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Afentaki, Eleni",
+        "short_name": "Afentaki E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Karolinska Institutet, SE-141 83 Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Greely, Julia Marie",
+        "short_name": "Greely JM",
+        "identifiers": [],
+        "affiliations": [
+          "Shiley-Marcos School of Engineering, University of San Diego, San Diego, CA, 92110, United States."
+        ]
+      },
+      {
+        "full_name": "Ezaz-Nikpay, Noura",
+        "short_name": "Ezaz-Nikpay N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computing, Imperial College, London, SW7 2AZ, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Zain, Rula",
+        "short_name": "Zain R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Karolinska Institutet, SE-141 83 Stockholm, Sweden.",
+          "Karolinska ATMP Center, Karolinska Institutet, SE-171 64 Stockholm, Sweden.",
+          "Department of Clinical Genetics and Genomics, Centre for Rare Diseases, Karolinska University Hospital, SE-141 86 Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Smith, C I Edvard",
+        "short_name": "Smith CIE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Karolinska Institutet, SE-141 83 Stockholm, Sweden.",
+          "Karolinska ATMP Center, Karolinska Institutet, SE-171 64 Stockholm, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42846490",
+      "38113447",
+      "35876858",
+      "26781748",
+      "34346253",
+      "40276038",
+      "41131861",
+      "40129158",
+      "33704421",
+      "36426870",
+      "34567094",
+      "42203685",
+      "33407829",
+      "26427375",
+      "40033056",
+      "31732481",
+      "38967666",
+      "25171417",
+      "41151864",
+      "42422981",
+      "39332020",
+      "34429855",
+      "28082455",
+      "40851437",
+      "40661457",
+      "34134622",
+      "39310930",
+      "36312851",
+      "30010784",
+      "36645245",
+      "32181755",
+      "38106093",
+      "39118300",
+      "39565903",
+      "39847517",
+      "33648511",
+      "36814834",
+      "40152495",
+      "36018232",
+      "42385356",
+      "39604668",
+      "40258406",
+      "27438146",
+      "35601487",
+      "28684632",
+      "40141028",
+      "33144687",
+      "37737478",
+      "33335681",
+      "38948009",
+      "39747410",
+      "37920819",
+      "38617519",
+      "38007403",
+      "32790840",
+      "35322324",
+      "36124790",
+      "26209429",
+      "30103702",
+      "31039782",
+      "39578878",
+      "41648300",
+      "33631610",
+      "24374933",
+      "33059726",
+      "41116263",
+      "34556174",
+      "31782759",
+      "31311505",
+      "37387166",
+      "28569207",
+      "37861515",
+      "31681950",
+      "31439014",
+      "40762741",
+      "34165490",
+      "26085504",
+      "37180676",
+      "38960406",
+      "29922260",
+      "41018953",
+      "36600208",
+      "24025726",
+      "41716413",
+      "31432076",
+      "40672096",
+      "40677006",
+      "39198848",
+      "39279979",
+      "39573833",
+      "38333724",
+      "39186799",
+      "35048799",
+      "39005682",
+      "32221609",
+      "33240468",
+      "38305809",
+      "41315624",
+      "40888991",
+      "34454516"
+    ],
+    "review": [
+      "42846490",
+      "40851437"
+    ],
+    "pmc": [
+      "13644534"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-lookup/doi/10.1093/bioadv/vbag280",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

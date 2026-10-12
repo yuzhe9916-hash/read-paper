@@ -1,0 +1,274 @@
+{
+  "identity": {
+    "pmid": "42857713",
+    "doi": "10.1016/j.isci.2026.117704",
+    "title": "Inducible dCas12a system expands CRISPRi/a capabilities for functional genomics in malaria parasite Plasmodium falciparum."
+  },
+  "content": {
+    "abstract": "We developed inducible dead Cas12a (dCas12a)-based CRISPR interference/activation (CRISPRi/a) systems for Plasmodium falciparum, expanding the gene regulation toolkit beyond dCas9. Our previous systems fused dCas9 to the catalytic domains of PfSir2a or PfGCN5 under DiCre/loxP regulon, enabling conditional gene regulation but remaining constrained by Cas9's NGG protospacer adjacent motif (PAM) requirement. Unlike dCas9, dCas12a recognizes T-rich PAMs and processes a single transcript into multiple sgRNAs via its RNase activity, allowing multiplexed regulation of one or multiple genes. Functional validation targeting EBA175 and ATG18 demonstrated that single sgRNAs mediated CRISPRi/a's active gene regulation, while multiplexed sgRNA arrays enhanced CRISPRi activities. Using this platform, we showed that conditional repression of the histone methyltransferase gene PfSET7 impairs schizont egress and merozoite invasion, highlighting its critical role in parasite multiplication, consistent with its Toxoplasma homolog TgADTM1. Altogether, these results establish dCas12a-based CRISPRi/a as a versatile platform for conditional and multiplexed gene regulation in P. falciparum.",
+    "keywords": [
+      "CRISPR",
+      "Plasmodium falciparum",
+      "dCas12a",
+      "gene regulation",
+      "human malaria"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lucky, Amuza Byaruhanga",
+        "Li, XiaoLian",
+        "Kobakhidze, George",
+        "Gonzales, Jose Lulo",
+        "Wang, Chengqi",
+        "Cui, Liwang",
+        "Dong, Gang",
+        "Miao, Jun"
+      ],
+      "short_names": [
+        "Lucky AB",
+        "Li X",
+        "Kobakhidze G",
+        "Gonzales JL",
+        "Wang C",
+        "Cui L",
+        "Dong G",
+        "Miao J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+        "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+        "Max Perutz Labs, Vienna Bio-center, Center for Medical Biochemistry, Medical University of Vienna, Dr. Bohr-Gasse 9/3, 1030 Vienna, Austria.",
+        "College of Engineering, Department of Medical Engineering, University of South Florida, 4202 E. Fowler Avenue, ENG 030, Tampa, FL, USA.",
+        "Center for Global Health and Infectious Diseases Research, College of Public Health, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+        "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+        "Center for Global Health and Infectious Diseases Research, College of Public Health, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+        "Max Perutz Labs, Vienna Bio-center, Center for Medical Biochemistry, Medical University of Vienna, Dr. Bohr-Gasse 9/3, 1030 Vienna, Austria.",
+        "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+        "Center for Global Health and Infectious Diseases Research, College of Public Health, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lucky, Amuza Byaruhanga",
+        "short_name": "Lucky AB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Li, XiaoLian",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Kobakhidze, George",
+        "short_name": "Kobakhidze G",
+        "identifiers": [],
+        "affiliations": [
+          "Max Perutz Labs, Vienna Bio-center, Center for Medical Biochemistry, Medical University of Vienna, Dr. Bohr-Gasse 9/3, 1030 Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Gonzales, Jose Lulo",
+        "short_name": "Gonzales JL",
+        "identifiers": [],
+        "affiliations": [
+          "College of Engineering, Department of Medical Engineering, University of South Florida, 4202 E. Fowler Avenue, ENG 030, Tampa, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Chengqi",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Global Health and Infectious Diseases Research, College of Public Health, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Cui, Liwang",
+        "short_name": "Cui L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+          "Center for Global Health and Infectious Diseases Research, College of Public Health, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Dong, Gang",
+        "short_name": "Dong G",
+        "identifiers": [],
+        "affiliations": [
+          "Max Perutz Labs, Vienna Bio-center, Center for Medical Biochemistry, Medical University of Vienna, Dr. Bohr-Gasse 9/3, 1030 Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Miao, Jun",
+        "short_name": "Miao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA.",
+          "Center for Global Health and Infectious Diseases Research, College of Public Health, University of South Florida, 3720 Spectrum Blvd, Tampa, FL, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "iScience"
+    ],
+    "journal_abbrev": [
+      "iScience"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42857713",
+      "35510853",
+      "33536327",
+      "36378874",
+      "34197613",
+      "36719218",
+      "36655998",
+      "31964736",
+      "40361099",
+      "30584102",
+      "32826220",
+      "40022115",
+      "29311279",
+      "32379967",
+      "34403450",
+      "39026853",
+      "37107664",
+      "30760609",
+      "41792842",
+      "39227830",
+      "34685863",
+      "31043479",
+      "34584166",
+      "36475476",
+      "39402380",
+      "40380978",
+      "29862648",
+      "42068556",
+      "42771155",
+      "41096782",
+      "39162514",
+      "39445826",
+      "38617559",
+      "33727557",
+      "39636094",
+      "36687471",
+      "32274563",
+      "41005541",
+      "34643425",
+      "31103783",
+      "23489321",
+      "29635744",
+      "39849074",
+      "36576240",
+      "28634346",
+      "32184769",
+      "42190245",
+      "42096148",
+      "40667254",
+      "38350870",
+      "41885428",
+      "28607761",
+      "29714047",
+      "32958732",
+      "32150575",
+      "30979834",
+      "38709067",
+      "42475469",
+      "31937638",
+      "41670347",
+      "31594816",
+      "36974013",
+      "40643567",
+      "29970464",
+      "42267842",
+      "33238093",
+      "28700213",
+      "35155399",
+      "42272758",
+      "38026852",
+      "36323848",
+      "34713218",
+      "35543560",
+      "38126782",
+      "30954454",
+      "28698275",
+      "32215707",
+      "39510079",
+      "38427231",
+      "29359192",
+      "33006690",
+      "33688001",
+      "35938722",
+      "41659525",
+      "33104759",
+      "34709611",
+      "28791254",
+      "31829621",
+      "33617628",
+      "32376630",
+      "38563119",
+      "36711954",
+      "27353328",
+      "31959800",
+      "30745377",
+      "40558503",
+      "29678175",
+      "29535977",
+      "31526005",
+      "38842342"
+    ],
+    "review": [
+      "42857713",
+      "34685863"
+    ],
+    "pmc": [
+      "13651822"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(26)03085-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

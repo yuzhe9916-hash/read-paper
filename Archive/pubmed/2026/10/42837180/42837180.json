@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "42837180",
+    "doi": "10.1172/jci.insight.207210",
+    "title": "Targeting HSPA1A with geranylgeranylacetone alleviates ADTKD-UMOD via suppression of endoplasmic reticulum stress and ferroptosis."
+  },
+  "content": {
+    "abstract": "Missense mutations in the UMOD gene are a well-established genetic cause of autosomal dominant tubulointerstitial kidney disease (ADTKD). Here, we report two ADTKD pedigrees carrying de novo UMOD mutations, p.His36Tyr (H36Y) and p.Trp31Cys (W31C). To elucidate the underlying pathogenic mechanisms and explore targeted therapeutic strategies, we generated a UMODH36Y/+ knock-in mouse model using CRISPR/Cas9 technology, which recapitulated the major clinical manifestations observed in patients. Through single-cell RNA sequencing and experimental validation, we demonstrated that uromodulin mutations triggered endoplasmic reticulum (ER) stress and the unfolded protein response, with ferroptosis identified as the predominant mode of cell death in this disease. These findings were further confirmed in plasmid-transfected cell models expressing UMODH36Y and UMODW31C. Moreover, the molecular chaperone HSPA1A was identified as a potential therapeutic target. Geranylgeranylacetone, targeting HSPA1A as a chaperone drug, effectively mitigated endoplasmic reticulum stress, alleviated ferroptosis, and delayed the progression of renal dysfunction. Based on novel uromodulin mutations, our study reveals a pathogenic ER-ferroptosis axis in ADTKD-UMOD, deepens the insight into the pathogenesis of ADTKD-UMOD, and provides a promising strategy for developing chaperone therapy with drug repurposing in genetic kidney diseases.",
+    "keywords": [
+      "Chaperones",
+      "Drug therapy",
+      "Genetic diseases",
+      "Genetics",
+      "Nephrology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Wen",
+        "Yang, Yan",
+        "Wen, Xianli",
+        "Wu, Qianqian",
+        "Wei, Jinxuan",
+        "Wang, Xin-Lu",
+        "Shen, Junyuan",
+        "Peng, Siqi",
+        "Zhang, Xiaoliang",
+        "Liu, Bi-Cheng",
+        "Wang, Bin"
+      ],
+      "short_names": [
+        "Shi W",
+        "Yang Y",
+        "Wen X",
+        "Wu Q",
+        "Wei J",
+        "Wang XL",
+        "Shen J",
+        "Peng S",
+        "Zhang X",
+        "Liu BC",
+        "Wang B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China.",
+        "Department of Pediatrics, The Second Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China.",
+        "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Wen",
+        "short_name": "Shi W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yan",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Xianli",
+        "short_name": "Wen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, The Second Affiliated Hospital of Nanjing Medical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Qianqian",
+        "short_name": "Wu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Jinxuan",
+        "short_name": "Wei J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xin-Lu",
+        "short_name": "Wang XL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Junyuan",
+        "short_name": "Shen J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Siqi",
+        "short_name": "Peng S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiaoliang",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Bi-Cheng",
+        "short_name": "Liu BC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Bin",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Zhongda Hospital, Southeast University, Nanjing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JCI insight"
+    ],
+    "journal_abbrev": [
+      "JCI Insight"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42837180",
+      "34251273",
+      "41632531",
+      "41885939",
+      "28437467",
+      "40770350",
+      "28325753",
+      "42049740",
+      "42460295",
+      "37885358",
+      "30976393",
+      "30376835",
+      "33397327",
+      "28220896",
+      "35947615",
+      "35165522",
+      "29784615",
+      "29569962",
+      "38520530",
+      "32450155",
+      "39680459",
+      "31422399",
+      "20301530",
+      "28785050",
+      "27729211",
+      "41798828",
+      "42196832",
+      "32274456",
+      "39012617",
+      "41480152",
+      "40785686",
+      "41958050",
+      "41462127",
+      "36711449",
+      "34904096",
+      "39216982",
+      "41061854",
+      "31068150",
+      "41143746",
+      "30099615",
+      "36140366",
+      "36606057",
+      "31509055",
+      "39696072",
+      "29513881",
+      "41531277",
+      "21978600",
+      "29706351",
+      "32847529",
+      "37838725",
+      "27392076",
+      "41642419",
+      "38027261",
+      "28990932",
+      "20472742",
+      "36250282",
+      "39976632",
+      "36531871",
+      "41867867",
+      "38010247",
+      "32954071",
+      "40300987",
+      "28781372",
+      "24567330",
+      "39006416",
+      "33616882",
+      "41877217",
+      "19465746",
+      "23988501",
+      "34021396",
+      "33760469",
+      "42175989",
+      "40835155",
+      "41212227",
+      "32113667",
+      "41619559",
+      "40424196",
+      "32926855",
+      "26810206",
+      "41888689",
+      "33574344",
+      "24648000",
+      "31406136",
+      "23748428",
+      "35643372",
+      "30951856",
+      "34519781",
+      "29212948",
+      "39848530",
+      "40533238",
+      "29424336",
+      "40707830",
+      "40537005",
+      "15558519",
+      "33001861",
+      "37332102",
+      "15983957",
+      "40414463",
+      "28970584",
+      "28605509"
+    ],
+    "review": [
+      "42837180",
+      "40770350",
+      "29569962",
+      "31422399",
+      "20301530",
+      "41958050",
+      "31068150",
+      "30099615",
+      "36250282",
+      "36531871",
+      "28781372",
+      "34021396",
+      "42175989",
+      "40835155",
+      "15558519"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1172/jci.insight.207210",
+        "provider": "American Society for Clinical Investigation",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3626",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

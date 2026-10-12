@@ -1,0 +1,338 @@
+{
+  "identity": {
+    "pmid": "42838451",
+    "doi": "10.1016/j.molmet.2026.102454",
+    "title": "Cell-type-specific repression reveals MC4R neurons as a site of action for ciliary obesity genes."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: Understanding how obesity-associated genes function within defined neuronal subpopulations remains a major barrier to translating human genetics into pathophysiological mechanisms. Melanocortin-4 receptor-expressing (MC4R) neurons are key regulators of energy homeostasis and represent a potential site of action for these genes. Here, we investigated whether obesity-associated ciliary genes regulate body weight through MC4R neurons in vivo, using a Cre-dependent CRISPR interference (CRISPRi) strategy that enables temporal, spatial, and cell-type-specific gene repression without permanent DNA modification. METHODS: Gene repression was achieved in MC4R neurons using a Cre-dependent CRISPRi system with AAV-delivered sgRNAs, and physiological outcomes, including body weight and body composition, were assessed following gene downregulation. RESULTS: CRISPRi-mediated repression of Mc4r in adult PVN(MC4R) neurons reduced transcript and protein levels and induced progressive obesity, validating the approach. Downregulation of the ciliary adenylyl cyclase Adcy3 specifically in adult PVN(MC4R) neurons was sufficient to drive weight gain, establishing a cell-type-specific requirement for ADCY3 in body-weight regulation. An in vivo CRISPRi screen of obesity-associated ciliopathy genes (Bbs10, Inpp5e, Ankrd26) demonstrated that their repression in MC4R neurons is sufficient to promote obesity, identifying these neurons as a convergent site linking human ciliopathies to obesity. CONCLUSIONS: These findings define MC4R neurons as a critical neuronal population through which multiple obesity-associated ciliary genes act and establish a direct link between ciliary function in defined neuronal populations and organismal energy balance. This work provides insight into the neural mechanisms underlying obesity and a framework for linking human genetic variations to specific neuronal populations in vivo.",
+    "keywords": [
+      "ADCY3",
+      "CRISPR interference (CRISPRi)",
+      "Energy balance",
+      "MC4R neurons",
+      "Obesity",
+      "Primary cilia"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Diener Blake, Abbey",
+        "Zhang, Zhixuan",
+        "Alexandre, Coralie",
+        "Gorayeb, Anne",
+        "Jain, Mrinaalini",
+        "Liu, Qi",
+        "Pattali, Rithu",
+        "Bednarska, Alicja",
+        "Kaur Pandher, Parleen",
+        "Zhang, Sumei",
+        "Yue, Xinyu",
+        "Nunez, James",
+        "Vaisse, Christian"
+      ],
+      "short_names": [
+        "Diener Blake A",
+        "Zhang Z",
+        "Alexandre C",
+        "Gorayeb A",
+        "Jain M",
+        "Liu Q",
+        "Pattali R",
+        "Bednarska A",
+        "Kaur Pandher P",
+        "Zhang S",
+        "Yue X",
+        "Nunez J",
+        "Vaisse C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA; Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA.",
+        "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA. Electronic address: Christian.Vaisse@ucsf.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Diener Blake, Abbey",
+        "short_name": "Diener Blake A",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhixuan",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Alexandre, Coralie",
+        "short_name": "Alexandre C",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Gorayeb, Anne",
+        "short_name": "Gorayeb A",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Jain, Mrinaalini",
+        "short_name": "Jain M",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Qi",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Pattali, Rithu",
+        "short_name": "Pattali R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Bednarska, Alicja",
+        "short_name": "Bednarska A",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kaur Pandher, Parleen",
+        "short_name": "Kaur Pandher P",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Sumei",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Yue, Xinyu",
+        "short_name": "Yue X",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA; Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Nuñez, James",
+        "short_name": "Nuñez J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA; Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Vaisse, Christian",
+        "short_name": "Vaisse C",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA. Electronic address: Christian.Vaisse@ucsf.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular metabolism"
+    ],
+    "journal_abbrev": [
+      "Mol Metab"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838451",
+      "33938449",
+      "30352741",
+      "29311635",
+      "36692018",
+      "40472089",
+      "42475469",
+      "18492813",
+      "35387896",
+      "31666192",
+      "32229422",
+      "17021371",
+      "41992546",
+      "40244925",
+      "37078546",
+      "41937536",
+      "33356996",
+      "33795520",
+      "38334651",
+      "21169216",
+      "32438321",
+      "42165391",
+      "32916307",
+      "23159449",
+      "24315371",
+      "38448811",
+      "36349991",
+      "34654741",
+      "39964840",
+      "23842677",
+      "27558671",
+      "21284986",
+      "29329999",
+      "29466028",
+      "40449730",
+      "22492873",
+      "21527895",
+      "29031712",
+      "41226372",
+      "37069175",
+      "33761344",
+      "23428688",
+      "32185475",
+      "40602716",
+      "30561082",
+      "32692746",
+      "39899600",
+      "41601974",
+      "38452767",
+      "19803416",
+      "29501261",
+      "33094623",
+      "33052459",
+      "41955284",
+      "32733386",
+      "42693128",
+      "36323255",
+      "27323230",
+      "33247923",
+      "21341504",
+      "40001512",
+      "30812013",
+      "18542083",
+      "35882560",
+      "40666856",
+      "39827504",
+      "34882941",
+      "29794140",
+      "32423884",
+      "10585465",
+      "29893663",
+      "26782456",
+      "29726959",
+      "36736416",
+      "37369302",
+      "20160073",
+      "42012887",
+      "19646498",
+      "40674128",
+      "40825043",
+      "39713072",
+      "40203074",
+      "37365843",
+      "37166378",
+      "41723268",
+      "34783461",
+      "30389349",
+      "34238466",
+      "38915534",
+      "31841602",
+      "31472367",
+      "25769385",
+      "23786641",
+      "24773343",
+      "22605619",
+      "38126782",
+      "31002796",
+      "39264819",
+      "37171957",
+      "39813316"
+    ],
+    "review": [
+      "42838451",
+      "35387896",
+      "17021371",
+      "29329999",
+      "41226372",
+      "23428688",
+      "19803416",
+      "33094623",
+      "41955284",
+      "27323230",
+      "21341504",
+      "40001512",
+      "30812013",
+      "34882941",
+      "39713072",
+      "34238466"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2212-8778(26)00138-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2212-8778(26)00138-9",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

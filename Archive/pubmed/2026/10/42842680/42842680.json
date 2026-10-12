@@ -1,0 +1,545 @@
+{
+  "identity": {
+    "pmid": "42842680",
+    "doi": "10.1126/sciadv.aeg9610",
+    "title": "Translocation-induced enhancer rewiring reveals cryptic oncogenic circuits in multiple myeloma."
+  },
+  "content": {
+    "abstract": "Immunoglobulin heavy chain (IGH) enhancer translocations drive multiple myeloma (MM), but routine diagnostics resolve only 32 to 38% of cases. Here, we introduce TransFinder, a multiomic pipeline integrating SMRT long-read sequencing (LRS), Hi-C, H3K27ac ChIP-seq/CUT&Tag, and RNA-seq to systematically resolve cryptic translocations and their hijacked oncogenes by deconvoluting enhancer-promoter neo-loops at rearrangement breakpoints. Applied to MM, TransFinder identified that t(16;22)(q23;q11), a canonical translocation known to activate MAF, also hijacks enhancers to activate RAB36. It further uncovered previously unrecognized t(5;8)(q35;q24) and t(1;22)(q25;q13), which activate MYC and CBX7, respectively, through chromatin topology rewiring. CRISPR-Cas9-engineered t(1;22)(q25;q13) recapitulated CBX7 induction, and pharmacological inhibition of CBX7 suppressed myeloma cell proliferation. Beyond MM, TransFinder identified enhancer hijacking in chronic myeloid leukemia, where t(9;22)(q34;q11) repositioned an enhancer to activate BCR-ABL1, and pancreatic ductal adenocarcinoma, where t(2;12)(p24;q24) hijacked an enhancer to activate SDC1. Linking 3D genome architecture to oncogene activation, TransFinder decodes oncogenic structural variants and their trans-activities, establishing clinically actionable dependencies of noncoding drivers in malignancies.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Multiple Myeloma/genetics/pathology/metabolism",
+      "Humans",
+      "*Enhancer Elements, Genetic",
+      "*Translocation, Genetic",
+      "Gene Expression Regulation, Neoplastic",
+      "Cell Line, Tumor",
+      "Immunoglobulin Heavy Chains/genetics",
+      "*Oncogenes",
+      "Polycomb Repressive Complex 1/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zheng, Enrun",
+        "Li, Qinghua",
+        "Dou, Xuelin",
+        "Cao, Yiping",
+        "Ren, Chao",
+        "Suo, Feiya",
+        "Lin, Lin",
+        "Zhao, Yan",
+        "Liao, Zhiwei",
+        "Liu, Yang",
+        "Shang, Zesen",
+        "Guan, Sudun",
+        "Zhang, Chengying",
+        "Yang, Mengyu",
+        "Xiang, Pengyu",
+        "Chen, Yakun",
+        "Liu, Xinhua",
+        "Lai, Yueyun",
+        "Liu, Zhiqiang",
+        "Abdullayev, Adkhamjon Odilovich",
+        "He, Lin",
+        "Bo, Xiaochen",
+        "Shang, Yongfeng",
+        "Wang, Jichuan",
+        "Lu, Jin",
+        "Chen, Hebing",
+        "Sun, Luyang"
+      ],
+      "short_names": [
+        "Zheng E",
+        "Li Q",
+        "Dou X",
+        "Cao Y",
+        "Ren C",
+        "Suo F",
+        "Lin L",
+        "Zhao Y",
+        "Liao Z",
+        "Liu Y",
+        "Shang Z",
+        "Guan S",
+        "Zhang C",
+        "Yang M",
+        "Xiang P",
+        "Chen Y",
+        "Liu X",
+        "Lai Y",
+        "Liu Z",
+        "Abdullayev AO",
+        "He L",
+        "Bo X",
+        "Shang Y",
+        "Wang J",
+        "Lu J",
+        "Chen H",
+        "Sun L"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-4547-7336",
+        "ORCID: 0009-0003-1955-701X",
+        "ORCID: 0000-0001-7040-9272",
+        "ORCID: 0009-0006-8310-9010",
+        "ORCID: 0000-0002-8471-8460",
+        "ORCID: 0009-0008-3119-2750",
+        "ORCID: 0000-0002-9661-698X",
+        "ORCID: 0000-0002-0677-8097",
+        "ORCID: 0000-0003-2530-808X",
+        "ORCID: 0000-0001-7429-8012",
+        "ORCID: 0000-0003-3490-5812",
+        "ORCID: 0009-0005-7194-0192",
+        "ORCID: 0000-0001-5004-2741",
+        "ORCID: 0000-0003-4102-356X",
+        "ORCID: 0000-0003-3917-473X"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Academy of Military Medical Sciences, Beijing 100850, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Academy of Military Medical Sciences, Beijing 100850, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China.",
+        "Department of Orthopedics, Peking University Third Hospital, Beijing 100191, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Beijing Genome Precision Technology Co. Ltd., Beijing 100176, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Hangzhou Normal University, Hangzhou 311121, China.",
+        "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China.",
+        "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan 250117, China.",
+        "Laboratory of Molecular Genetics, Republican Specialized Scientific and Practical Medical Center of Oncology and Radiology of Uzbekistan, Tashkent 100109, Uzbekistan.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China.",
+        "Academy of Military Medical Sciences, Beijing 100850, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Musculoskeletal Tumor Center, Beijing Key Laboratory for Musculoskeletal Tumors, Peking University People's Hospital, Beijing 100037, China.",
+        "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China.",
+        "Academy of Military Medical Sciences, Beijing 100850, China.",
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Hematology, Shanxi Bethune Hospital, Shanxi Academy of Medical Sciences, Taiyuan 030032, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zheng, Enrun",
+        "short_name": "Zheng E",
+        "identifiers": [
+          "0009-0004-4547-7336"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qinghua",
+        "short_name": "Li Q",
+        "identifiers": [
+          "0009-0003-1955-701X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Dou, Xuelin",
+        "short_name": "Dou X",
+        "identifiers": [
+          "0000-0001-7040-9272"
+        ],
+        "affiliations": [
+          "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Yiping",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Chao",
+        "short_name": "Ren C",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Military Medical Sciences, Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Suo, Feiya",
+        "short_name": "Suo F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Lin",
+        "short_name": "Lin L",
+        "identifiers": [
+          "0009-0006-8310-9010"
+        ],
+        "affiliations": [
+          "Academy of Military Medical Sciences, Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yan",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+          "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Zhiwei",
+        "short_name": "Liao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0002-8471-8460"
+        ],
+        "affiliations": [
+          "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Zesen",
+        "short_name": "Shang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Peking University Third Hospital, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Sudun",
+        "short_name": "Guan S",
+        "identifiers": [
+          "0009-0008-3119-2750"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chengying",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Mengyu",
+        "short_name": "Yang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Pengyu",
+        "short_name": "Xiang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yakun",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Genome Precision Technology Co. Ltd., Beijing 100176, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xinhua",
+        "short_name": "Liu X",
+        "identifiers": [
+          "0000-0002-9661-698X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Hangzhou Normal University, Hangzhou 311121, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Yueyun",
+        "short_name": "Lai Y",
+        "identifiers": [],
+        "affiliations": [
+          "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhiqiang",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0000-0002-0677-8097"
+        ],
+        "affiliations": [
+          "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan 250117, China."
+        ]
+      },
+      {
+        "full_name": "Abdullayev, Adkhamjon Odilovich",
+        "short_name": "Abdullayev AO",
+        "identifiers": [
+          "0000-0003-2530-808X"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Genetics, Republican Specialized Scientific and Practical Medical Center of Oncology and Radiology of Uzbekistan, Tashkent 100109, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "He, Lin",
+        "short_name": "He L",
+        "identifiers": [
+          "0000-0001-7429-8012"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+          "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Bo, Xiaochen",
+        "short_name": "Bo X",
+        "identifiers": [
+          "0000-0003-3490-5812"
+        ],
+        "affiliations": [
+          "Academy of Military Medical Sciences, Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Yongfeng",
+        "short_name": "Shang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jichuan",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0009-0005-7194-0192"
+        ],
+        "affiliations": [
+          "Musculoskeletal Tumor Center, Beijing Key Laboratory for Musculoskeletal Tumors, Peking University People's Hospital, Beijing 100037, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Jin",
+        "short_name": "Lu J",
+        "identifiers": [
+          "0000-0001-5004-2741"
+        ],
+        "affiliations": [
+          "Peking University Institute of Hematology, Collaborative Innovation Center of Hematology, Peking University People's Hospital, Beijing 100044, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Hebing",
+        "short_name": "Chen H",
+        "identifiers": [
+          "0000-0003-4102-356X"
+        ],
+        "affiliations": [
+          "Academy of Military Medical Sciences, Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Luyang",
+        "short_name": "Sun L",
+        "identifiers": [
+          "0000-0003-3917-473X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Peking University International Cancer Institute, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Beijing 100191, China.",
+          "Department of Hematology, Shanxi Bethune Hospital, Shanxi Academy of Medical Sciences, Taiyuan 030032, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 17:33",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42842680",
+      "30481117",
+      "38934080",
+      "39033128",
+      "26229090",
+      "9616139",
+      "39312195",
+      "19395026",
+      "11418483",
+      "9226151",
+      "34534532",
+      "35863900",
+      "42026179",
+      "34584081",
+      "3106693",
+      "9326949",
+      "10979215",
+      "9787135",
+      "34521827",
+      "42487124",
+      "19064000",
+      "41250171",
+      "38722741",
+      "34933939",
+      "33579893",
+      "31289497",
+      "3863698",
+      "17043638",
+      "10568829",
+      "39122682",
+      "19996118",
+      "8695815",
+      "11429052",
+      "38849954",
+      "20010689",
+      "17287852",
+      "2257543",
+      "24585545",
+      "10931834",
+      "9188842",
+      "36289338",
+      "17170124",
+      "24752773",
+      "34140506",
+      "8684002",
+      "38328209",
+      "2981633",
+      "28052011",
+      "2119478",
+      "16023302",
+      "36094314",
+      "1301171",
+      "17498561",
+      "9892103",
+      "33602783",
+      "40250789",
+      "10397739",
+      "41758961",
+      "33728716",
+      "31542774",
+      "34635154",
+      "25633778",
+      "15543617",
+      "3921823",
+      "32793219",
+      "36947815",
+      "9666801",
+      "23456262",
+      "34092790",
+      "15370207",
+      "27810077",
+      "10024885",
+      "19013005",
+      "41339492",
+      "15687498",
+      "22711821",
+      "24703711",
+      "42679037",
+      "23460268",
+      "18695675",
+      "9308252",
+      "11990854",
+      "29884741",
+      "2987943",
+      "8585955",
+      "11698294",
+      "27856324",
+      "31076442",
+      "8497268",
+      "8515068",
+      "20453890",
+      "8943038",
+      "31015454",
+      "2790754",
+      "34893510",
+      "10720141",
+      "15355895",
+      "15257707",
+      "2866524",
+      "11043423"
+    ],
+    "review": [
+      "42842680",
+      "33728716",
+      "32793219",
+      "9666801",
+      "23456262"
+    ],
+    "pmc": [
+      "13644794"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeg9610?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/multiplemyeloma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Multiple Myeloma"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4060",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

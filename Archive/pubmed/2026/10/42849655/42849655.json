@@ -1,0 +1,313 @@
+{
+  "identity": {
+    "pmid": "42849655",
+    "doi": "10.1016/j.canlet.2026.218887",
+    "title": "Genome-wide CRISPR screen identifies PKMYT1 inhibition as a synthetic lethal vulnerability in IDH1-mutant glioma."
+  },
+  "content": {
+    "abstract": "Mutations in isocitrate dehydrogenase (IDH) are frequently observed in several aggressive malignancies, including gliomas, chondrosarcomas, and acute myeloid leukemia. Mutant IDH enzymes exhibit neomorphic activity that produces the oncometabolite D-2-hydroxyglutarate (D-2-HG), leading to widespread DNA and histone hypermethylation. This aberrant epigenetic state remodels chromatin accessibility, thereby compromising both DNA repair and replication. However, the mechanisms underlying IDH mutation-induced DNA replication stress and the therapeutic potential of this vulnerability remain elusive. Through a whole-genome CRISPR screen, we defined differential genetic dependencies between IDH1 wild-type and mutant cells. We identified the G2/M checkpoint kinase PKMYT1 as a selective survival factor for IDH1-mutated cells. Pharmacologic or genetic inhibition of PKMYT1 profoundly suppresses the growth of IDH1-mutated tumor cells in vitro and in vivo. Mechanistically, IDH1-mutated cancer cells exhibit profound replication stress, characterized by reduced nucleotide incorporation, slowed replication fork progression, and delayed S-phase entry. D-2-HG elevates H3K9 trimethylation by inhibiting KDM4A, thereby impeding DNA replication initiation and fork progression. PKMYT1 blockade alters cell cycle timing, forcing unscheduled mitotic entry with incompletely replicated genomes, resulting in elevated DNA damage and mitotic catastrophe. Collectively, our findings demonstrate a mechanistic link between IDH1-driven epigenetic dysregulation, replication stress, and heightened reliance on the G2/M checkpoint. Our findings propose PKMYT1 inhibition as a therapeutic strategy that exploits the intrinsic replication deficiency of IDH1-mutant glioma.",
+    "keywords": [
+      "CRISPR screen",
+      "DNA replication stress",
+      "IDH1 mutation",
+      "PKMYT1"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lang, Fengchao",
+        "Fu, Haiqing",
+        "Kaur, Karambir",
+        "Zhang, Meili",
+        "Song, Hua",
+        "Zhang, Wei",
+        "Ayanlaja, Abiola A",
+        "Hossain, Md Shahadat",
+        "Aladjem, Mirit I",
+        "Yang, Chunzhang"
+      ],
+      "short_names": [
+        "Lang F",
+        "Fu H",
+        "Kaur K",
+        "Zhang M",
+        "Song H",
+        "Zhang W",
+        "Ayanlaja AA",
+        "Hossain MS",
+        "Aladjem MI",
+        "Yang C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA.",
+        "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA. Electronic address: yangc2@nih.gov."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lang, Fengchao",
+        "short_name": "Lang F",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Fu, Haiqing",
+        "short_name": "Fu H",
+        "identifiers": [],
+        "affiliations": [
+          "Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Kaur, Karambir",
+        "short_name": "Kaur K",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Meili",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Song, Hua",
+        "short_name": "Song H",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wei",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Ayanlaja, Abiola A",
+        "short_name": "Ayanlaja AA",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Hossain, Md Shahadat",
+        "short_name": "Hossain MS",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Aladjem, Mirit I",
+        "short_name": "Aladjem MI",
+        "identifiers": [],
+        "affiliations": [
+          "Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Chunzhang",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "Neuro-Oncology Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA; Developmental Therapeutics Branch, Center for Cancer Research, National Cancer Institute, MD, 20892, USA. Electronic address: yangc2@nih.gov."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer letters"
+    ],
+    "journal_abbrev": [
+      "Cancer Lett"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 23:31",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42849655",
+      "42845396",
+      "41677944",
+      "27005468",
+      "41748045",
+      "24077826",
+      "34535560",
+      "22899282",
+      "37528157",
+      "31292202",
+      "39793065",
+      "35606087",
+      "30857299",
+      "36647288",
+      "23954893",
+      "37163075",
+      "38134889",
+      "27621679",
+      "36150062",
+      "42490065",
+      "34027408",
+      "30184215",
+      "41917320",
+      "41442499",
+      "30194083",
+      "32208352",
+      "33070553",
+      "32883741",
+      "39872214",
+      "26368816",
+      "32622311",
+      "27245697",
+      "41520142",
+      "34348994",
+      "29057925",
+      "31505989",
+      "26834160",
+      "27014635",
+      "23905201",
+      "27355333",
+      "27664011",
+      "42552065",
+      "36091829",
+      "23847760",
+      "41908147",
+      "31406254",
+      "28705010",
+      "30266754",
+      "28148839",
+      "23204232",
+      "40702552",
+      "34038049",
+      "23232569",
+      "38897003",
+      "30249606",
+      "29692895",
+      "35985343",
+      "26951332",
+      "37218937",
+      "31211872",
+      "35467128",
+      "29288440",
+      "27163884",
+      "23877318",
+      "29805076",
+      "31004262",
+      "32055803",
+      "36847506",
+      "30760578",
+      "23558169",
+      "30967619",
+      "34737211",
+      "22080945",
+      "31768950",
+      "37676393",
+      "29545476",
+      "30404651",
+      "25135281",
+      "28202508",
+      "35722822",
+      "38960475",
+      "31485826",
+      "36411356",
+      "22399191",
+      "39186665",
+      "41026608",
+      "29097607",
+      "30783384",
+      "31935911",
+      "25035396",
+      "28148827",
+      "32224866",
+      "31727689",
+      "27437179",
+      "41231102",
+      "22015945",
+      "41821663",
+      "30759236",
+      "28467784",
+      "31139406"
+    ],
+    "review": [
+      "42849655",
+      "27005468",
+      "30857299",
+      "27621679",
+      "30194083",
+      "32883741",
+      "27014635",
+      "23905201",
+      "27355333",
+      "36091829",
+      "34038049",
+      "23232569",
+      "23877318",
+      "29805076",
+      "22080945",
+      "38960475",
+      "31485826",
+      "22399191",
+      "30783384"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0304-3835(26)00651-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3715",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0304-3835(26)00651-8",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

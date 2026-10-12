@@ -1,0 +1,350 @@
+{
+  "identity": {
+    "pmid": "42838919",
+    "doi": "10.1080/07388551.2026.2697310",
+    "title": "Toward point-of-care CRISPR-based diagnostics using split crRNA and split activator/target systems."
+  },
+  "content": {
+    "abstract": "Split crRNA and split activator/target strategies have enhanced and advanced CRISPR-based diagnostics (CRISPR/Dx) by requiring a conditional assembly of components. The split crRNA involves dividing the guide RNA (crRNA) itself into multiple inactive fragments that only reassemble to become functional crRNA upon binding to a specific target. The split activator/target involves dividing the target or activator substrate into two reconfigurable segments that trigger Cas activation only upon proper assembly. These evolved CRISPR/Dx systems have enabled: direct quantification of miRNA and ultrashort RNA sequences, amplification-free and attomolar-level detection, single-base discrimination, protospacer adjacent motif (PAM)-free recognition, one-pot analysis, multiplex diagnostics, non-nucleic acid target detection, and constructing biochemical circuits and logic gates. Herein, we critically discuss the advances, pitfalls, challenges, and future perspectives of these CRISPR/Dx systems for field-deployable point-of-care diagnostics. Different split crRNA and split activator/target strategies and applications for CRISPR/Dx are highlighted.",
+    "keywords": [
+      "CRISPR",
+      "diagnostics",
+      "on-site detection",
+      "point-of-care testing",
+      "split activator",
+      "split crRNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lau, Cia-Hin",
+        "Huang, Yumei",
+        "Cai, Wenjie",
+        "Huang, Tingting",
+        "Xiao, Bing",
+        "Xia, Qiyuan",
+        "Chen, Xiaoqing",
+        "Li, Jiahui",
+        "Liang, Qing-Le",
+        "Zhu, Haibao"
+      ],
+      "short_names": [
+        "Lau CH",
+        "Huang Y",
+        "Cai W",
+        "Huang T",
+        "Xiao B",
+        "Xia Q",
+        "Chen X",
+        "Li J",
+        "Liang QL",
+        "Zhu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4528-0363",
+        "ORCID: 0009-0005-1982-678X"
+      ],
+      "affiliations": [
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Xiamen Flygene Medical Technology Co., Ltd, Biomedical Industrial Park, Xiamen, Fujian, China.",
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Department of Radiation Oncology, First Hospital of Quanzhou Affiliated to Fujian Medical University, Quanzhou, Fujian, China.",
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Department of Clinical Laboratory Medicine, Chongqing University Jiangjin Hospital, Chongqing, China.",
+        "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+        "Guangdong Provincial Key Laboratory of Marine Biotechnology, Shantou University, Shantou, Guangdong, China.",
+        "Shantou Key Laboratory of Marine Microbial Resources and Interactions with Environment, Shantou University, Shantou, Guangdong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lau, Cia-Hin",
+        "short_name": "Lau CH",
+        "identifiers": [
+          "0000-0002-4528-0363"
+        ],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+          "Xiamen Flygene Medical Technology Co., Ltd, Biomedical Industrial Park, Xiamen, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yumei",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Wenjie",
+        "short_name": "Cai W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, First Hospital of Quanzhou Affiliated to Fujian Medical University, Quanzhou, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Tingting",
+        "short_name": "Huang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Bing",
+        "short_name": "Xiao B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Qiyuan",
+        "short_name": "Xia Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaoqing",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiahui",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Qing-Le",
+        "short_name": "Liang QL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory Medicine, Chongqing University Jiangjin Hospital, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Haibao",
+        "short_name": "Zhu H",
+        "identifiers": [
+          "0009-0005-1982-678X"
+        ],
+        "affiliations": [
+          "Department of Biology, College of Science, Shantou University, Shantou, Guangdong, China.",
+          "Guangdong Provincial Key Laboratory of Marine Biotechnology, Shantou University, Shantou, Guangdong, China.",
+          "Shantou Key Laboratory of Marine Microbial Resources and Interactions with Environment, Shantou University, Shantou, Guangdong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Critical reviews in biotechnology"
+    ],
+    "journal_abbrev": [
+      "Crit Rev Biotechnol"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838919",
+      "40610153",
+      "41172903",
+      "42144912",
+      "40717612",
+      "39307577",
+      "41002335",
+      "41330674",
+      "40689881",
+      "42579777",
+      "42277912",
+      "41747377",
+      "40825745",
+      "37980404",
+      "42213084",
+      "42405767",
+      "39348463",
+      "40354613",
+      "41686171",
+      "36508352",
+      "35131696",
+      "40763823",
+      "38609257",
+      "42715083",
+      "42217635",
+      "39974464",
+      "40745870",
+      "42018089",
+      "40544649",
+      "40541695",
+      "41606937",
+      "36017348",
+      "39724853",
+      "36813257",
+      "42599816",
+      "40680677",
+      "41603277",
+      "42571623",
+      "41914596",
+      "41709870",
+      "41277692",
+      "35857897",
+      "41652143",
+      "42475469",
+      "42753299",
+      "40160100",
+      "42378111",
+      "41500123",
+      "38981827",
+      "41773016",
+      "39831307",
+      "27096362",
+      "42201448",
+      "31800219",
+      "42424186",
+      "42529880",
+      "38551977",
+      "35303554",
+      "33839288",
+      "41145060",
+      "41913088",
+      "37834437",
+      "42407157",
+      "41885207",
+      "36155952",
+      "40970715",
+      "40555854",
+      "38319081",
+      "42546382",
+      "39670632",
+      "41966922",
+      "40063799",
+      "41129856",
+      "41261856",
+      "41834687",
+      "41932456",
+      "42226661",
+      "42533766",
+      "41718462",
+      "40510793",
+      "40884263",
+      "39788669",
+      "40199100",
+      "32159950",
+      "39797940",
+      "40179681",
+      "41389042",
+      "37004283",
+      "41474879",
+      "41371329",
+      "39643309",
+      "37978935",
+      "42217400",
+      "32758911",
+      "41663226",
+      "42655688",
+      "42716355",
+      "39324194",
+      "42077856",
+      "36533412"
+    ],
+    "review": [
+      "42838919",
+      "41172903",
+      "42144912",
+      "40717612",
+      "39307577",
+      "41002335",
+      "42579777",
+      "42277912",
+      "42213084",
+      "42405767",
+      "36508352",
+      "35131696",
+      "40763823",
+      "42217635",
+      "39974464",
+      "40541695",
+      "41606937",
+      "39724853",
+      "36813257",
+      "42599816",
+      "40680677",
+      "41914596",
+      "41709870",
+      "42378111",
+      "41500123",
+      "42201448",
+      "42529880",
+      "35303554",
+      "33839288",
+      "41145060",
+      "37834437",
+      "42407157",
+      "36155952",
+      "40555854",
+      "41932456",
+      "42226661",
+      "42533766",
+      "40884263",
+      "32159950",
+      "39797940",
+      "41371329",
+      "37978935",
+      "32758911",
+      "42655688",
+      "42716355",
+      "39324194"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/07388551.2026.2697310?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

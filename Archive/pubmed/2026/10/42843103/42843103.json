@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "42843103",
+    "doi": "10.1016/j.bios.2026.119298",
+    "title": "A target amplification-free CRISPR biosensor with digital microfluidic processing for microRNA profiling in AI-enhanced pediatric sepsis diagnosis."
+  },
+  "content": {
+    "abstract": "MicroRNA signatures provide an informative readout of host-response dysregulation in pediatric sepsis, but their clinical translation remains limited by low target abundance and multiplexing requirements. Here, a target amplification-free CRISPR biosensing platform was established. The sensing mechanism couples Cas13a target recognition to promoter release, template reconstruction, and transcription-driven Cas13a reactivation, enabling fluorescence amplification through internal molecular cycling without amplifying the target miRNAs. Then, an electrowetting-based digital microfluidic chip was designed to compartmentalize parallel reactions and automate droplet generation, reaction assembly, isothermal incubation, magnetic separation, and fluorescence readout. Under optimized conditions, four sepsis-associated biomarkers (miR-15a, miR-21, miR-146a, and miR-155) and the reference control (snRNA U44) were detected at attomolar levels (expected mean input of 1.67 molecules per reaction) with good specificity and minimal inter-droplet interference. The resulting miRNA profiles were then used as input features for machine learning-enhanced sepsis classification and risk assessment. In 252 clinical samples, the resulting model achieved a test-set AUC of 0.973 and an overall accuracy of 92.1%. The model-derived risk score was associated with the Phoenix Sepsis Score and, in a representative longitudinal case, showed preliminary potential to reflect disease evolution. Overall, this platform enables automated analysis of disease-associated miRNA signatures and demonstrates its potential for in-vitro diagnosis of pediatric sepsis.",
+    "keywords": [
+      "CRISPR Cas13a",
+      "Digital microfluidics",
+      "Machine learning",
+      "MicroRNA detection",
+      "Sepsis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Di",
+        "Shi, Shanshan",
+        "Wang, Xitong",
+        "Li, Wei",
+        "Zhang, Xianghong",
+        "Xiang, Wenqing",
+        "Xu, Zhipeng",
+        "He, Yichen",
+        "Shen, Peijie",
+        "Fang, Xiangming",
+        "Xu, Zhinan"
+      ],
+      "short_names": [
+        "Huang D",
+        "Shi S",
+        "Wang X",
+        "Li W",
+        "Zhang X",
+        "Xiang W",
+        "Xu Z",
+        "He Y",
+        "Shen P",
+        "Fang X",
+        "Xu Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China. Electronic address: huangdi@zju.edu.cn.",
+        "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China.",
+        "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China.",
+        "Department of Clinical Laboratory, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China. Electronic address: chweige@zju.edu.cn.",
+        "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China.",
+        "Department of Clinical Laboratory, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China.",
+        "Department of Critical Care Medicine, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310003, China.",
+        "Key Laboratory of Biomass Chemical Engineering of Ministry of Education, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou, 310030, China.",
+        "Key Laboratory of Biomass Chemical Engineering of Ministry of Education, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou, 310030, China.",
+        "Department of Anesthesiology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310003, China. Electronic address: xmfang@zju.edu.cn.",
+        "Key Laboratory of Biomass Chemical Engineering of Ministry of Education, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou, 310030, China; Hangzhou FasTech Biotechnology Company Limited, Hangzhou, 310005, China. Electronic address: znxu@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Di",
+        "short_name": "Huang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China. Electronic address: huangdi@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Shi, Shanshan",
+        "short_name": "Shi S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xitong",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China. Electronic address: chweige@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xianghong",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiac Intensive Care Unit, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Wenqing",
+        "short_name": "Xiang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Diseases, Hangzhou, 310052, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Zhipeng",
+        "short_name": "Xu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Critical Care Medicine, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310003, China."
+        ]
+      },
+      {
+        "full_name": "He, Yichen",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomass Chemical Engineering of Ministry of Education, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou, 310030, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Peijie",
+        "short_name": "Shen P",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomass Chemical Engineering of Ministry of Education, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou, 310030, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Xiangming",
+        "short_name": "Fang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310003, China. Electronic address: xmfang@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xu, Zhinan",
+        "short_name": "Xu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomass Chemical Engineering of Ministry of Education, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou, 310030, China; Hangzhou FasTech Biotechnology Company Limited, Hangzhou, 310005, China. Electronic address: znxu@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 23:30",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42843103",
+      "42045967",
+      "42600477",
+      "31663165",
+      "42669262",
+      "33493854",
+      "41292433",
+      "41352918",
+      "40780174",
+      "37651913",
+      "42814153",
+      "42565148",
+      "34011151",
+      "32670752",
+      "41709870",
+      "41241835",
+      "42214852",
+      "42120650",
+      "41833409",
+      "41834687",
+      "37910547",
+      "41663226",
+      "39129860",
+      "36122469",
+      "42790075",
+      "41217571",
+      "35569871",
+      "41525963",
+      "42132561",
+      "40840128",
+      "37968923",
+      "41686171",
+      "41796733",
+      "38816160",
+      "42662332",
+      "41435708",
+      "41500045",
+      "35436733",
+      "41849887",
+      "42184674",
+      "42763165",
+      "39893949",
+      "40675426",
+      "40676485",
+      "36992332",
+      "36321557",
+      "40959136",
+      "40286513",
+      "41232934",
+      "42151593",
+      "42424186",
+      "37875060",
+      "38000080",
+      "40749504",
+      "42372689",
+      "33379087",
+      "39369515",
+      "35708271",
+      "38630279",
+      "40889206",
+      "39950596",
+      "42214709",
+      "42009554",
+      "42475469",
+      "41992333",
+      "36965355",
+      "41073014",
+      "42521788",
+      "30687316",
+      "38226658",
+      "38078412",
+      "42520632",
+      "39277941",
+      "39859402",
+      "37116358",
+      "40719649",
+      "42415080",
+      "42254504",
+      "38220270",
+      "39167939",
+      "40745870",
+      "42015157",
+      "29570270",
+      "38309848",
+      "41102315",
+      "36463653",
+      "35078139",
+      "33133487",
+      "41746436",
+      "41896971",
+      "41270284",
+      "35387453",
+      "41032977",
+      "38897009",
+      "41806414",
+      "36327567",
+      "40015791",
+      "41280765",
+      "42335458",
+      "24680405"
+    ],
+    "review": [
+      "42843103",
+      "41709870",
+      "41525963",
+      "41796733",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00931-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

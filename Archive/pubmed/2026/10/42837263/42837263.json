@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42837263",
+    "doi": "10.1016/j.xpro.2026.104888",
+    "title": "Protocol for Cas9 nickase-mediated induction and two-dimensional gel detection of i-loops at human telomeric and alpha satellite repeats."
+  },
+  "content": {
+    "abstract": "Single-stranded DNA breaks (SSBs) at repetitive elements promote internal loops (i-loops), precursors of extrachromosomal circular DNA (eccDNA). Here, we present a protocol for inducing targeted breaks at human telomeric or alpha-satellite repeats using doxycycline-inducible Cas9 nickase variants and repeat-specific sgRNAs. We describe steps for verifying strand-specific nicking by alkaline-gel Southern blotting and detecting i-loop accumulation by two-dimensional agarose gel electrophoresis (2D gel). In this protocol, DNase I treatment of isolated nuclei is employed as a Cas9-independent control. For complete details on the use and execution of this protocol, please refer to Zanella et al.(1).",
+    "keywords": [
+      "CRISPR",
+      "Cancer",
+      "Cell Biology",
+      "Molecular Biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zanella, Elia",
+        "Bruno, Flavia",
+        "Doksani, Ylli"
+      ],
+      "short_names": [
+        "Zanella E",
+        "Bruno F",
+        "Doksani Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello 16, 20139 Milan, Italy. Electronic address: elia.zanella@ifom.eu.",
+        "IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello 16, 20139 Milan, Italy.",
+        "IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello 16, 20139 Milan, Italy. Electronic address: ylli.doksani@ifom.eu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zanella, Elia",
+        "short_name": "Zanella E",
+        "identifiers": [],
+        "affiliations": [
+          "IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello 16, 20139 Milan, Italy. Electronic address: elia.zanella@ifom.eu."
+        ]
+      },
+      {
+        "full_name": "Bruno, Flavia",
+        "short_name": "Bruno F",
+        "identifiers": [],
+        "affiliations": [
+          "IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello 16, 20139 Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Doksani, Ylli",
+        "short_name": "Doksani Y",
+        "identifiers": [],
+        "affiliations": [
+          "IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello 16, 20139 Milan, Italy. Electronic address: ylli.doksani@ifom.eu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42837263",
+      "42066753",
+      "38768032",
+      "18721471",
+      "36178790",
+      "20226008",
+      "39083383",
+      "37549036",
+      "35782732",
+      "39661507",
+      "36595926",
+      "33786461",
+      "42758584",
+      "37803452",
+      "19556784",
+      "37948185",
+      "35330963",
+      "42479489",
+      "37252842",
+      "42809437",
+      "39342621",
+      "24836556",
+      "40097153",
+      "41886459",
+      "42012982",
+      "41134671",
+      "37738119",
+      "36520630",
+      "34189468",
+      "37000620",
+      "42826104",
+      "28733609",
+      "31832687",
+      "36595899",
+      "31777915",
+      "37195868",
+      "34401774",
+      "33870225",
+      "38354082",
+      "38048220",
+      "39088324",
+      "38336977",
+      "40580472",
+      "15509797",
+      "34259614",
+      "35719725",
+      "27827362",
+      "40327605",
+      "30819801",
+      "38041822",
+      "28324510",
+      "38573862",
+      "38401123",
+      "32620538",
+      "19568438",
+      "37590151",
+      "11410662",
+      "39799577",
+      "33554142",
+      "39277866",
+      "39133612",
+      "34977677",
+      "40700012",
+      "39427309",
+      "41433158",
+      "27182535",
+      "37862173",
+      "40023839",
+      "35308131",
+      "40768339",
+      "37000621",
+      "39709609",
+      "39058589",
+      "39756031",
+      "37220001",
+      "36520635",
+      "40198219",
+      "42105238",
+      "38285737",
+      "36640369",
+      "40274228",
+      "26451892",
+      "38640065",
+      "18694327",
+      "33082350",
+      "18088310",
+      "41903144",
+      "38972040",
+      "37967017",
+      "39673702",
+      "38717906",
+      "34825222",
+      "38625797",
+      "36825808",
+      "37922314",
+      "30504134",
+      "41433155",
+      "40773349",
+      "40505881",
+      "37771090"
+    ],
+    "review": [
+      "42837263",
+      "19556784",
+      "40097153"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00541-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

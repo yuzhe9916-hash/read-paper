@@ -1,0 +1,345 @@
+{
+  "identity": {
+    "pmid": "42845553",
+    "doi": "10.64898/2026.08.10.743996",
+    "title": "A CRISPR-Cas9 platform for primary human hepatocytes enables arrayed screening and in vivo validation of HBV host factors."
+  },
+  "content": {
+    "abstract": "More than two million deaths annually are attributed to liver-related conditions, making primary human hepatocytes (PHH) an invaluable in vitro model for studying liver pathophysiology and the molecular mechanisms underlying hepatic diseases. However, because PHH do not proliferate in culture, CRISPR gene editing has been highly inefficient. Here, we report lipofection- and lentivirus-mediated protocols for CRISPR-Cas9 delivery in mouse-passaged primary human hepatocytes (mpPHH), a system that enables PHH expansion in liver-humanized mice. We achieve robust gene editing efficiencies exceeding 90% in mpPHH while maintaining cell viability. We demonstrate the utility of these protocols by disrupting CYP3A4 to impair xenobiotic metabolism and by showing that edited mpPHH efficiently engraft and expand in mice, generating liver-humanized animals. We establish the feasibility of arrayed CRISPR screening in mpPHH using an 85-gene screen to identify host factors influencing hepatitis B virus (HBV) infection, and validate key findings in humanized mice by targeting the HBV entry receptor SLC10A1 (NTCP), which reduced viral infection in vivo . Our methodology enables scalable genetic manipulation of mpPHH, opening new avenues for HBV research and liver disease modeling.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Stenzel, Ansgar F",
+        "Athanasiadis, Antonis",
+        "Dangas, Georgios",
+        "Park, Paul",
+        "Maslarinou, Anthi",
+        "Moschogianni, Evgenia",
+        "Cataneo, Allan Henrique Depieri",
+        "Freije, Catherine A",
+        "Zhou, Yichen",
+        "Levenson, Kenneth C",
+        "Quirk, Corrine",
+        "Zou, Chenhui",
+        "Schneider, William M",
+        "Aguzzi, Adriano",
+        "Rice, Charles M",
+        "de Jong, Ype P",
+        "Michailidis, Eleftherios"
+      ],
+      "short_names": [
+        "Stenzel AF",
+        "Athanasiadis A",
+        "Dangas G",
+        "Park P",
+        "Maslarinou A",
+        "Moschogianni E",
+        "Cataneo AHD",
+        "Freije CA",
+        "Zhou Y",
+        "Levenson KC",
+        "Quirk C",
+        "Zou C",
+        "Schneider WM",
+        "Aguzzi A",
+        "Rice CM",
+        "de Jong YP",
+        "Michailidis E"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1024-6069",
+        "ORCID: 0009-0000-6268-6683",
+        "ORCID: 0009-0003-3771-1279",
+        "ORCID: 0009-0008-0375-9633",
+        "ORCID: 0000-0002-3567-7471",
+        "ORCID: 0000-0002-1939-3102",
+        "ORCID: 0000-0002-0344-6708",
+        "ORCID: 0000-0003-3087-8079",
+        "ORCID: 0000-0001-6357-2370",
+        "ORCID: 0000-0002-9907-4346"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Stenzel, Ansgar F",
+        "short_name": "Stenzel AF",
+        "identifiers": [
+          "0000-0002-1024-6069"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Athanasiadis, Antonis",
+        "short_name": "Athanasiadis A",
+        "identifiers": [
+          "0009-0000-6268-6683"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dangas, Georgios",
+        "short_name": "Dangas G",
+        "identifiers": [
+          "0009-0003-3771-1279"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Park, Paul",
+        "short_name": "Park P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Maslarinou, Anthi",
+        "short_name": "Maslarinou A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Moschogianni, Evgenia",
+        "short_name": "Moschogianni E",
+        "identifiers": [
+          "0009-0008-0375-9633"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cataneo, Allan Henrique Depieri",
+        "short_name": "Cataneo AHD",
+        "identifiers": [
+          "0000-0002-3567-7471"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Freije, Catherine A",
+        "short_name": "Freije CA",
+        "identifiers": [
+          "0000-0002-1939-3102"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhou, Yichen",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Levenson, Kenneth C",
+        "short_name": "Levenson KC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Quirk, Corrine",
+        "short_name": "Quirk C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zou, Chenhui",
+        "short_name": "Zou C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schneider, William M",
+        "short_name": "Schneider WM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Aguzzi, Adriano",
+        "short_name": "Aguzzi A",
+        "identifiers": [
+          "0000-0002-0344-6708"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rice, Charles M",
+        "short_name": "Rice CM",
+        "identifiers": [
+          "0000-0003-3087-8079"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "de Jong, Ype P",
+        "short_name": "de Jong YP",
+        "identifiers": [
+          "0000-0001-6357-2370"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Michailidis, Eleftherios",
+        "short_name": "Michailidis E",
+        "identifiers": [
+          "0000-0002-9907-4346"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Aug 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 11:39",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42845553",
+      "31915293",
+      "42252000",
+      "40757857",
+      "30232184",
+      "42296184",
+      "42539305",
+      "41314348",
+      "39427481",
+      "24361467",
+      "33473359",
+      "25843425",
+      "39297647",
+      "33049308",
+      "38960374",
+      "39988206",
+      "40985725",
+      "41332134",
+      "27975304",
+      "40270959",
+      "39329526",
+      "37199630",
+      "28195359",
+      "41453683",
+      "36035359",
+      "41503845",
+      "27746336",
+      "24509445",
+      "36037476",
+      "27084034",
+      "27928007",
+      "29867819",
+      "40227494",
+      "24651854",
+      "39151831",
+      "31925967",
+      "27278060",
+      "29764210",
+      "35700449",
+      "39090742",
+      "40422214",
+      "33609360",
+      "33813211",
+      "36779605",
+      "28428345",
+      "28851562",
+      "25092305",
+      "29437961",
+      "42198748",
+      "29458131",
+      "27049051",
+      "41882877",
+      "34985994",
+      "39196289",
+      "42221546",
+      "42638068",
+      "34696350",
+      "24711282",
+      "31741335",
+      "35389262",
+      "35194830",
+      "33385130",
+      "32039406",
+      "27384660",
+      "37982370",
+      "37142191",
+      "34773268",
+      "12763365",
+      "35746730",
+      "31167911",
+      "36475475",
+      "27466423",
+      "35062208",
+      "24342612",
+      "32373234",
+      "34328316",
+      "28527664",
+      "29445209",
+      "37747811",
+      "29309795",
+      "38772378",
+      "24390325",
+      "25791527",
+      "31226346",
+      "34853804",
+      "26941020",
+      "29423804",
+      "29962404",
+      "29059468",
+      "29426822",
+      "35338607",
+      "41201845",
+      "41344099",
+      "23855307",
+      "34551826",
+      "31410212",
+      "39444780",
+      "34328417",
+      "24845614",
+      "29679386"
+    ],
+    "review": [
+      "42845553",
+      "42252000",
+      "41503845",
+      "27084034",
+      "39196289",
+      "34696350",
+      "31741335",
+      "35062208",
+      "29423804",
+      "23855307"
+    ],
+    "pmc": [
+      "13640684"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.08.10.743996",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

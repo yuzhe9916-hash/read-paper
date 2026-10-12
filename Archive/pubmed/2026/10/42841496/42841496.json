@@ -1,0 +1,264 @@
+{
+  "identity": {
+    "pmid": "42841496",
+    "doi": "10.3791/72870",
+    "title": "In Silico CRISPR Restoration of F7 Promoter Activity in Hereditary Factor VII Deficiency."
+  },
+  "content": {
+    "abstract": "Hereditary Factor VII (FVII) deficiency is associated with reduced F7 gene expression and impaired coagulation, and regulatory mechanisms controlling F7 transcription remain incompletely characterized. This study aimed to computationally explore whether restoration of predicted HNF4alpha binding at the F7 promoter, through transcription factor modulation, promoter motif correction, or CRISPR activation (CRISPRa)-mediated epigenetic regulation, could theoretically enhance predicted F7 transcription in hereditary FVII deficiency. An entirely in silico pipeline was developed to characterize the F7 promoter regulatory landscape by identifying conserved transcription factor binding motifs using JASPAR, FIMO, and UCSC Genome Browser datasets. Liver expression correlations were evaluated using GTEx transcriptomic data, while chromatin accessibility and regulatory context were assessed using ENCODE ChIP-seq, ATAC-seq, and ChromHMM/Segway annotations. A hepatic regulatory network was constructed in CellDesigner to simulate the predicted effects of HNF4alpha loss on F7 transcription over a 24-h period. Six high-confidence HNF4alpha binding motifs were identified within the proximal F7 promoter, including three regions overlapping known disease-associated variants. Liver expression analyses demonstrated positive correlations between F7 and HNF4A (r = 0.68) and HNF1A (r = 0.61). Computational modeling predicted that CRISPRa targeting of HNF4alpha-associated regulatory regions could increase simulated F7 transcription toward approximately 87% of wild-type levels under the modeled conditions, with predicted target specificity. Overall, this purely computational study presents an integrated multi-omic framework for prioritizing promoter-targeted regulatory strategies in hereditary FVII deficiency. By combining transcription factor motif analysis, chromatin annotation, transcriptomic correlation, regulatory network modeling, and CRISPR guide prioritization within a unified pipeline, the study generates experimentally testable hypotheses while providing a systematic approach that extends beyond previous single-variant or isolated experimental analyses.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Promoter Regions, Genetic/genetics",
+      "*Factor VII Deficiency/genetics",
+      "Humans",
+      "*Factor VII/genetics",
+      "Hepatocyte Nuclear Factor 4/genetics/metabolism",
+      "*CRISPR-Cas Systems",
+      "Computer Simulation",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Video-Audio Media"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shmrany, Humood Al",
+        "Belali, Tareg M",
+        "Abu-Alghayth, Mohammed H",
+        "Binshaya, Abdulkarim S",
+        "Ali, Amer Al",
+        "Alyahyawi, Yara",
+        "Belali, Osamah Mohammed"
+      ],
+      "short_names": [
+        "Shmrany HA",
+        "Belali TM",
+        "Abu-Alghayth MH",
+        "Binshaya AS",
+        "Ali AA",
+        "Alyahyawi Y",
+        "Belali OM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University; h.alshmrany@psau.edu.sa.",
+        "Faculty of Applied Medical Sciences, University of Bisha.",
+        "Faculty of Applied Medical Sciences, University of Bisha.",
+        "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University.",
+        "Faculty of Applied Medical Sciences, University of Bisha.",
+        "Department of Medical Laboratory Technology, College of Nursing and Health Sciences, Jazan University.",
+        "Aseer Central Hospital."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shmrany, Humood Al",
+        "short_name": "Shmrany HA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University; h.alshmrany@psau.edu.sa."
+        ]
+      },
+      {
+        "full_name": "Belali, Tareg M",
+        "short_name": "Belali TM",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Applied Medical Sciences, University of Bisha."
+        ]
+      },
+      {
+        "full_name": "Abu-Alghayth, Mohammed H",
+        "short_name": "Abu-Alghayth MH",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Applied Medical Sciences, University of Bisha."
+        ]
+      },
+      {
+        "full_name": "Binshaya, Abdulkarim S",
+        "short_name": "Binshaya AS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory, College of Applied Medical Sciences, Prince Sattam bin Abdulaziz University."
+        ]
+      },
+      {
+        "full_name": "Ali, Amer Al",
+        "short_name": "Ali AA",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Applied Medical Sciences, University of Bisha."
+        ]
+      },
+      {
+        "full_name": "Alyahyawi, Yara",
+        "short_name": "Alyahyawi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory Technology, College of Nursing and Health Sciences, Jazan University."
+        ]
+      },
+      {
+        "full_name": "Belali, Osamah Mohammed",
+        "short_name": "Belali OM",
+        "identifiers": [],
+        "affiliations": [
+          "Aseer Central Hospital."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of visualized experiments : JoVE"
+    ],
+    "journal_abbrev": [
+      "J Vis Exp"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Video-Audio Media"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 17:33",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42841496",
+      "31005673",
+      "22628013",
+      "21760481",
+      "23731332",
+      "31629814",
+      "34342048",
+      "36123027",
+      "41451501",
+      "38397060",
+      "27341548",
+      "23665043",
+      "28447100",
+      "31273093",
+      "19601987",
+      "17614823",
+      "40117674",
+      "12935978",
+      "42361596",
+      "8978290",
+      "21829439",
+      "27513915",
+      "30797223",
+      "34786791",
+      "11110717",
+      "33587484",
+      "29182802",
+      "21241755",
+      "18282149",
+      "42475469",
+      "40613181",
+      "16173031",
+      "11145965",
+      "10828024",
+      "19996301",
+      "21206266",
+      "42794823",
+      "39047958",
+      "41063698",
+      "32472540",
+      "40434115",
+      "41926741",
+      "12888866",
+      "18513187",
+      "24819304",
+      "35949113",
+      "34425866",
+      "11129332",
+      "17292373",
+      "23050902",
+      "24418194",
+      "31672284",
+      "24997396",
+      "19540905",
+      "28882825",
+      "27752141",
+      "30191603",
+      "26527688",
+      "26540129",
+      "7559437",
+      "35163483",
+      "40421903",
+      "31730408",
+      "39326643",
+      "40653285",
+      "22315437",
+      "33406812",
+      "35802509",
+      "20460578",
+      "11139238",
+      "19651778",
+      "19822353",
+      "32333443",
+      "16914903",
+      "37367300",
+      "32613480",
+      "19179483",
+      "41250108",
+      "38433330",
+      "40748016",
+      "25582404",
+      "16603721",
+      "26692490",
+      "35349734",
+      "30208845",
+      "9442072",
+      "31185295",
+      "37488681",
+      "17344340",
+      "36951360",
+      "12472587",
+      "31525459",
+      "22873696",
+      "36571800",
+      "29665924",
+      "29331085",
+      "18474611",
+      "22155889",
+      "38447534",
+      "23531488"
+    ],
+    "review": [
+      "42841496",
+      "30797223",
+      "33406812",
+      "11139238"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3914",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org//10.3791/72870",
+        "provider": "MyJove Corporation",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

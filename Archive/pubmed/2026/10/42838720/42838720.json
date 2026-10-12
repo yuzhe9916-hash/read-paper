@@ -1,0 +1,302 @@
+{
+  "identity": {
+    "pmid": "42838720",
+    "doi": "10.1002/ajh.70520",
+    "title": "A Pooled CRISPR Screen Reveals Genes Critical for Erythroblast Enucleation."
+  },
+  "content": {
+    "abstract": "Terminal erythroid differentiation involves dramatic cellular remodeling that culminates in the expulsion of the nucleus, a process known as enucleation. While enucleation is conserved across mammals and is crucial for the generation of fully functional erythrocytes, the mechanisms governing this process have remained largely unknown, in part because the absence of genetic material in mature, enucleated red blood cells hinders genetic experimentation. Here, we performed a pooled, forward-genetic CRISPR-Cas9 screen in enucleated red blood cells derived from primary human hematopoietic stem/progenitor cells to identify genes required for enucleation. We found that Chloride Intracellular Channel 3 (CLIC3) and Vesicle-associated membrane protein 8 (VAMP8) are both necessary for terminal erythroid differentiation, yet likely act through different mechanisms. Knockdown of CLIC3 led to a delay in erythroblast differentiation, culminating in impaired enucleation. We found that the knockdown cells had increased p53 and p21 and exhibited cell cycle alterations, suggesting CLIC3 plays a crucial role in coordinating cell cycle progression during erythropoiesis. In comparison, VAMP8-depleted cells accumulated at the orthochromatic erythroblast stage and displayed a specific defect in enucleation. Transcriptional analysis of the VAMP8-knockdown cells suggested dysregulation of pathways for vesicle trafficking and actin binding, and imaging of late-stage erythroblasts revealed impaired nuclear polarization and disorganized actin. This work provides a new approach for functional genomics in enucleated cells and reveals novel factors important for terminal erythroid differentiation and enucleation.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tetard, Marilou",
+        "Lin, Tianjian",
+        "Peterson, Nana A",
+        "Gullberg, Rebekah C",
+        "Le Guen, Yann",
+        "Moshiri, Jasmine",
+        "Doench, John G",
+        "Egan, Elizabeth S"
+      ],
+      "short_names": [
+        "Tetard M",
+        "Lin T",
+        "Peterson NA",
+        "Gullberg RC",
+        "Le Guen Y",
+        "Moshiri J",
+        "Doench JG",
+        "Egan ES"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1900-0652",
+        "ORCID: 0009-0000-5279-7507",
+        "ORCID: 0000-0001-6649-8364",
+        "ORCID: 0000-0003-3621-3748",
+        "ORCID: 0000-0002-3707-9889",
+        "ORCID: 0000-0002-2112-7700"
+      ],
+      "affiliations": [
+        "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA.",
+        "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA.",
+        "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA.",
+        "Department of Biology, Stanford University, Stanford, California, USA.",
+        "Quantitative Services Unit, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA.",
+        "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, California, USA.",
+        "Genetics Perturbation Platform, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.",
+        "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA.",
+        "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, California, USA.",
+        "Biohub-San Francisco, San Francisco, California, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tetard, Marilou",
+        "short_name": "Tetard M",
+        "identifiers": [
+          "0000-0003-1900-0652"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA."
+        ]
+      },
+      {
+        "full_name": "Lin, Tianjian",
+        "short_name": "Lin T",
+        "identifiers": [
+          "0009-0000-5279-7507"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA."
+        ]
+      },
+      {
+        "full_name": "Peterson, Nana A",
+        "short_name": "Peterson NA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA."
+        ]
+      },
+      {
+        "full_name": "Gullberg, Rebekah C",
+        "short_name": "Gullberg RC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Stanford University, Stanford, California, USA."
+        ]
+      },
+      {
+        "full_name": "Le Guen, Yann",
+        "short_name": "Le Guen Y",
+        "identifiers": [
+          "0000-0001-6649-8364"
+        ],
+        "affiliations": [
+          "Quantitative Services Unit, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ]
+      },
+      {
+        "full_name": "Moshiri, Jasmine",
+        "short_name": "Moshiri J",
+        "identifiers": [
+          "0000-0003-3621-3748"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, California, USA."
+        ]
+      },
+      {
+        "full_name": "Doench, John G",
+        "short_name": "Doench JG",
+        "identifiers": [
+          "0000-0002-3707-9889"
+        ],
+        "affiliations": [
+          "Genetics Perturbation Platform, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Egan, Elizabeth S",
+        "short_name": "Egan ES",
+        "identifiers": [
+          "0000-0002-2112-7700"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Stanford University School of Medicine, Stanford, California, USA.",
+          "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, California, USA.",
+          "Biohub-San Francisco, San Francisco, California, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "American journal of hematology"
+    ],
+    "journal_abbrev": [
+      "Am J Hematol"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838720",
+      "42005862",
+      "27480112",
+      "28729432",
+      "20644112",
+      "41094106",
+      "24159174",
+      "41052410",
+      "38961734",
+      "39763869",
+      "39397781",
+      "40532307",
+      "31036072",
+      "41716140",
+      "22491741",
+      "26452208",
+      "32992584",
+      "10388012",
+      "40598222",
+      "16707498",
+      "34551066",
+      "34032849",
+      "35022784",
+      "40856920",
+      "35739577",
+      "35249258",
+      "25850942",
+      "26569102",
+      "21946500",
+      "35610497",
+      "36031698",
+      "26724640",
+      "36076260",
+      "24747950",
+      "32678227",
+      "21785407",
+      "29311991",
+      "32890311",
+      "12121614",
+      "37493969",
+      "28157724",
+      "38481061",
+      "37398027",
+      "7949103",
+      "33211827",
+      "32457162",
+      "39294765",
+      "27769165",
+      "38916993",
+      "27795297",
+      "33406813",
+      "32384137",
+      "32798012",
+      "42475469",
+      "25092175",
+      "39309892",
+      "39838539",
+      "25805124",
+      "40221460",
+      "22331356",
+      "21592797",
+      "32722249",
+      "33440185",
+      "29433555",
+      "30701702",
+      "23606586",
+      "25855754",
+      "22461493",
+      "30761254",
+      "42331751",
+      "25314917",
+      "40977284",
+      "37042948",
+      "10036613",
+      "34644394",
+      "18264091",
+      "40526785",
+      "35678476",
+      "19815832",
+      "24962543",
+      "31945154",
+      "16627753",
+      "14563645",
+      "23565219",
+      "38293086",
+      "23306203",
+      "35441599",
+      "33743353",
+      "26823606",
+      "10387976",
+      "9669755",
+      "16980975",
+      "37657739",
+      "29597129",
+      "20940306",
+      "24492678",
+      "33535038",
+      "20823130",
+      "26640516",
+      "12153557"
+    ],
+    "review": [
+      "42838720",
+      "39397781",
+      "35610497",
+      "29311991",
+      "28157724",
+      "32798012",
+      "25805124",
+      "21592797",
+      "32722249",
+      "33440185",
+      "35441599",
+      "24492678"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/ajh.70520",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

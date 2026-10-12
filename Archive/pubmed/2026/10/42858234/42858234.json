@@ -1,0 +1,610 @@
+{
+  "identity": {
+    "pmid": "42858234",
+    "doi": "10.1093/neuonc/noag254",
+    "title": "Fanconi anemia pathway disruption drives lomustine sensitivity in glioma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Therapeutic options for progressive glioblastoma remain limited, with chlorethyl-cyclohexyl-nitrosourea (CCNU, lomustine) among the approved treatments. Beyond MGMT gene promoter methylation, molecular determinants of CCNU sensitivity or resistance are ill- defined. METHODS: We employed genome-wide functional knockout screening using the CRISPR-Cas9 technology to identify and subsequently validate modulators of response to CCNU in experimental glioma. We established an immunocompetent glioma mouse model to enable functional interrogation of Fanconi anemia pathway (FA) genes in tumor growth and synthetic lethal interactions in vivo using the RCAS/tv-a somatic gene delivery system. RESULTS: Multiple FA pathway members recurrently emerged as potent synthetic lethal interactors of CCNU treatment. In vivo knockdown of Fancm accelerated tumor onset and significantly increased CCNU sensitivity. Consistently, FA pathway inhibition enhanced CCNU efficacy across in vitro, ex vivo and in vivo models. CONCLUSION: Together, these findings identify FA pathway components as key synthetic lethal interactors of CCNU response and reveal a therapeutically actionable vulnerability in glioblastoma.",
+    "keywords": [
+      "CRISPR-Cas9 screen",
+      "DNA repair",
+      "FANCM",
+      "Glioblastoma",
+      "RCAS/tv-a model"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Becker, Hannes",
+        "Walter, Bianca",
+        "Haeusser, Lara Annina",
+        "Trampert, Jil",
+        "Zago, Marcello",
+        "Surender, Surender",
+        "Maise, Louise",
+        "Volos, Polina",
+        "Erdmann, Sarah",
+        "Kuhlburger, Laurence",
+        "Falkner, Aaron",
+        "Tsiami, Foteini",
+        "Dorner, Lorenz",
+        "Maric, Marko",
+        "Skotnicki, Albert",
+        "Jagle, Hannes",
+        "Echeverria, Dimas",
+        "Jackson, Samual",
+        "Tripathi, Ansh",
+        "Segarra-Visent, Xavier",
+        "Bhandari, Anushka",
+        "Beck, Susanne",
+        "Tatagiba, Marcos",
+        "Nahnsen, Sven",
+        "Claassen, Manfred",
+        "Haraszti, Reka",
+        "Szulzewsky, Frank",
+        "Holland, Eric C",
+        "Merk, Daniel Josef",
+        "Tabatabai, Ghazaleh"
+      ],
+      "short_names": [
+        "Becker H",
+        "Walter B",
+        "Haeusser LA",
+        "Trampert J",
+        "Zago M",
+        "Surender S",
+        "Maise L",
+        "Volos P",
+        "Erdmann S",
+        "Kuhlburger L",
+        "Falkner A",
+        "Tsiami F",
+        "Dorner L",
+        "Maric M",
+        "Skotnicki A",
+        "Jagle H",
+        "Echeverria D",
+        "Jackson S",
+        "Tripathi A",
+        "Segarra-Visent X",
+        "Bhandari A",
+        "Beck S",
+        "Tatagiba M",
+        "Nahnsen S",
+        "Claassen M",
+        "Haraszti R",
+        "Szulzewsky F",
+        "Holland EC",
+        "Merk DJ",
+        "Tabatabai G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurosurgery, University Hospital Tubingen, Eberhard Karls University Tubingen, Tubingen, 72076, Germany.",
+        "Center for Neuro-Oncology, Comprehensive Cancer Center Tubingen-Stuttgart, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "German Consortium for Translational Cancer Research (DKTK), Partner site Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "M3 Research Center for Malignome, Metabolome and Microbiome, Faculty of Medicine, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Institute of Biomedical Informatics, University Hospital Tubingen, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Computer Science, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Internal Medicine I, University Hospital Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "German Consortium for Translational Cancer Research (DKTK), Partner site Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Quantitative Biology Center, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Biomedical Data Science, Department of Computer Science, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurosurgery, University Hospital Tubingen, Eberhard Karls University Tubingen, Tubingen, 72076, Germany.",
+        "Center for Neuro-Oncology, Comprehensive Cancer Center Tubingen-Stuttgart, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan School of Medicine, Worcester, MA, USA.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan School of Medicine, Worcester, MA, USA.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan School of Medicine, Worcester, MA, USA.",
+        "Department of Medicine II, Hematology, Oncology, Clinical Immunology and Rheumatology, University Hospital Tubingen, 72076 Tubingen, Germany.",
+        "Department of Medicine II, Hematology, Oncology, Clinical Immunology and Rheumatology, University Hospital Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "German Consortium for Translational Cancer Research (DKTK), Partner site Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurosurgery, University Hospital Tubingen, Eberhard Karls University Tubingen, Tubingen, 72076, Germany.",
+        "Center for Neuro-Oncology, Comprehensive Cancer Center Tubingen-Stuttgart, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "German Consortium for Translational Cancer Research (DKTK), Partner site Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "M3 Research Center for Malignome, Metabolome and Microbiome, Faculty of Medicine, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Quantitative Biology Center, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Biomedical Data Science, Department of Computer Science, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "M3 Research Center for Malignome, Metabolome and Microbiome, Faculty of Medicine, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Institute of Biomedical Informatics, University Hospital Tubingen, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Computer Science, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Department of Internal Medicine I, University Hospital Tubingen, 72076 Tubingen, Germany.",
+        "Department of Medicine II, Hematology, Oncology, Clinical Immunology and Rheumatology, University Hospital Tubingen, 72076 Tubingen, Germany.",
+        "Gene and RNA Therapy Center (GRTC), Faculty of Medicine, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Huntsman Cancer Institute, University of Utah, 2000 Circle of Hope Dr, Salt Lake City, UT, 84112, USA.",
+        "Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, UT, 84112, USA.",
+        "Human Biology Division, Fred Hutchinson Cancer Center, Seattle, Washington, 98109, USA.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tubingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tubingen, 72076 Tubingen, Germany.",
+        "Center for Neuro-Oncology, Comprehensive Cancer Center Tubingen-Stuttgart, Eberhard Karls University Tubingen, 72076 Tubingen, Germany.",
+        "German Consortium for Translational Cancer Research (DKTK), Partner site Tubingen, 72076 Tubingen, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Becker, Hannes",
+        "short_name": "Becker H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "Department of Neurosurgery, University Hospital Tübingen, Eberhard Karls University Tübingen, Tübingen, 72076, Germany.",
+          "Center for Neuro-Oncology, Comprehensive Cancer Center Tübingen-Stuttgart, Eberhard Karls University Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Walter, Bianca",
+        "short_name": "Walter B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Haeusser, Lara Annina",
+        "short_name": "Haeusser LA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "German Consortium for Translational Cancer Research (DKTK), Partner site Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Trampert, Jil",
+        "short_name": "Trampert J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Zago, Marcello",
+        "short_name": "Zago M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "M3 Research Center for Malignome, Metabolome and Microbiome, Faculty of Medicine, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Institute of Biomedical Informatics, University Hospital Tübingen, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Department of Computer Science, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Department of Internal Medicine I, University Hospital Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Surender, Surender",
+        "short_name": "Surender S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Maise, Louise",
+        "short_name": "Maise L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Volos, Polina",
+        "short_name": "Volos P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Erdmann, Sarah",
+        "short_name": "Erdmann S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "German Consortium for Translational Cancer Research (DKTK), Partner site Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Kuhlburger, Laurence",
+        "short_name": "Kuhlburger L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "Quantitative Biology Center, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Biomedical Data Science, Department of Computer Science, Eberhard Karls University Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Falkner, Aaron",
+        "short_name": "Falkner A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Tsiami, Foteini",
+        "short_name": "Tsiami F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Dörner, Lorenz",
+        "short_name": "Dörner L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Department of Neurosurgery, University Hospital Tübingen, Eberhard Karls University Tübingen, Tübingen, 72076, Germany.",
+          "Center for Neuro-Oncology, Comprehensive Cancer Center Tübingen-Stuttgart, Eberhard Karls University Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Maric, Marko",
+        "short_name": "Maric M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Skotnicki, Albert",
+        "short_name": "Skotnicki A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Jägle, Hannes",
+        "short_name": "Jägle H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Echeverria, Dimas",
+        "short_name": "Echeverria D",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan School of Medicine, Worcester, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Jackson, Samual",
+        "short_name": "Jackson S",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan School of Medicine, Worcester, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Tripathi, Ansh",
+        "short_name": "Tripathi A",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan School of Medicine, Worcester, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Segarra-Visent, Xavier",
+        "short_name": "Segarra-Visent X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine II, Hematology, Oncology, Clinical Immunology and Rheumatology, University Hospital Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Bhandari, Anushka",
+        "short_name": "Bhandari A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine II, Hematology, Oncology, Clinical Immunology and Rheumatology, University Hospital Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Beck, Susanne",
+        "short_name": "Beck S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "German Consortium for Translational Cancer Research (DKTK), Partner site Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Tatagiba, Marcos",
+        "short_name": "Tatagiba M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, University Hospital Tübingen, Eberhard Karls University Tübingen, Tübingen, 72076, Germany.",
+          "Center for Neuro-Oncology, Comprehensive Cancer Center Tübingen-Stuttgart, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "German Consortium for Translational Cancer Research (DKTK), Partner site Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Nahnsen, Sven",
+        "short_name": "Nahnsen S",
+        "identifiers": [],
+        "affiliations": [
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "M3 Research Center for Malignome, Metabolome and Microbiome, Faculty of Medicine, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Quantitative Biology Center, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Biomedical Data Science, Department of Computer Science, Eberhard Karls University Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Claassen, Manfred",
+        "short_name": "Claassen M",
+        "identifiers": [],
+        "affiliations": [
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "M3 Research Center for Malignome, Metabolome and Microbiome, Faculty of Medicine, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Institute of Biomedical Informatics, University Hospital Tübingen, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Department of Computer Science, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Department of Internal Medicine I, University Hospital Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Haraszti, Reka",
+        "short_name": "Haraszti R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine II, Hematology, Oncology, Clinical Immunology and Rheumatology, University Hospital Tübingen, 72076 Tübingen, Germany.",
+          "Gene and RNA Therapy Center (GRTC), Faculty of Medicine, Eberhard Karls University Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Szulzewsky, Frank",
+        "short_name": "Szulzewsky F",
+        "identifiers": [],
+        "affiliations": [
+          "Huntsman Cancer Institute, University of Utah, 2000 Circle of Hope Dr, Salt Lake City, UT, 84112, USA.",
+          "Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, UT, 84112, USA."
+        ]
+      },
+      {
+        "full_name": "Holland, Eric C",
+        "short_name": "Holland EC",
+        "identifiers": [],
+        "affiliations": [
+          "Human Biology Division, Fred Hutchinson Cancer Center, Seattle, Washington, 98109, USA."
+        ]
+      },
+      {
+        "full_name": "Merk, Daniel Josef",
+        "short_name": "Merk DJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Tabatabai, Ghazaleh",
+        "short_name": "Tabatabai G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Interdisciplinary Neuro-Oncology, University Hospital Tübingen, Hertie Institute for Clinical Brain Research, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "Cluster of Excellence (EXC 2180) \"Image Guided and Functionally Instructed Tumor Therapies\", Eberhard Karls University of Tübingen, 72076 Tübingen, Germany.",
+          "Center for Neuro-Oncology, Comprehensive Cancer Center Tübingen-Stuttgart, Eberhard Karls University Tübingen, 72076 Tübingen, Germany.",
+          "German Consortium for Translational Cancer Research (DKTK), Partner site Tübingen, 72076 Tübingen, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neuro-oncology"
+    ],
+    "journal_abbrev": [
+      "Neuro Oncol"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 04:08",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42858234",
+      "42083788",
+      "37131108",
+      "37365849",
+      "34536314",
+      "28825189",
+      "39998382",
+      "9426069",
+      "37224228",
+      "29892208",
+      "26614518",
+      "38773970",
+      "38948269",
+      "17221219",
+      "36321557",
+      "41986321",
+      "27766591",
+      "11325837",
+      "38475864",
+      "40827019",
+      "18813876",
+      "3342391",
+      "6831437",
+      "39756423",
+      "31039537",
+      "37771787",
+      "7471107",
+      "6883329",
+      "11571537",
+      "29105885",
+      "42475469",
+      "3965132",
+      "19188676",
+      "33113214",
+      "27166379",
+      "20301575",
+      "19048618",
+      "42050865",
+      "10690553",
+      "34298817",
+      "32408220",
+      "40056601",
+      "42586203",
+      "30540754",
+      "19371427",
+      "20652724",
+      "18089819",
+      "14712517",
+      "41817895",
+      "40886022",
+      "34559423",
+      "42396006",
+      "42782560",
+      "37646615",
+      "12153595",
+      "29982845",
+      "22683426",
+      "20043851",
+      "40447800",
+      "41969610",
+      "35664555",
+      "35747192",
+      "6831472",
+      "3759561",
+      "33189395",
+      "41392282",
+      "29891926",
+      "11464279",
+      "3829497",
+      "42263464",
+      "40653819",
+      "18315784",
+      "25071006",
+      "39150724",
+      "7553645",
+      "3456466",
+      "32706640",
+      "231595",
+      "7225287",
+      "22772480",
+      "27956228",
+      "39525666",
+      "29942135",
+      "32991787",
+      "41463023",
+      "25526274",
+      "40181456",
+      "38224404",
+      "33673490",
+      "975049",
+      "37451151",
+      "6480451",
+      "35330396",
+      "33664852",
+      "41346410",
+      "42510829",
+      "40849815",
+      "42814674",
+      "28222789",
+      "21975120"
+    ],
+    "review": [
+      "42858234",
+      "36321557",
+      "40827019",
+      "18813876",
+      "31039537",
+      "20301575",
+      "42050865",
+      "32408220",
+      "34559423",
+      "12153595",
+      "22683426",
+      "42263464",
+      "39150724",
+      "41463023",
+      "35330396",
+      "40849815"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MGMT-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/neuro-oncology/article-lookup/doi/10.1093/neuonc/noag254",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

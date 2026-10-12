@@ -1,0 +1,269 @@
+{
+  "identity": {
+    "pmid": "42832928",
+    "doi": "10.1016/j.micres.2026.128747",
+    "title": "Programmable histone acetylation enables reversible regulation of cellulase production in Myceliophthora thermophila."
+  },
+  "content": {
+    "abstract": "Myceliophthora thermophila is a thermophilic filamentous fungus with great potential for biomass biorefining and industrial protein production. However, the locus-specific epigenetic regulation of the cellulolytic network in this fungus remains poorly understood. Here, we established a CRISPR/dCas9-p300 system that recruits the p300 histone acetyltransferase to target loci and targeted the promoters of the key cellulolytic regulators clr-1, clr-2, and xyr-1. Targeted recruitment of dCas9-p300 increased the transcription of these regulators by up to 5.2-fold and promoter-associated histone acetylation by approximately 2- to 3-fold. Simultaneous targeting of all three regulators resulted in greater increases than single-locus targeting, with extracellular protein production and CMCase activity increasing by up to 5.5- and 3.7-fold, respectively. The dependence of these effects on guide RNA-directed targeting and p300 catalytic activity was confirmed using no-guide controls and the p300 inhibitor A-485. A catalytically inactive p300 mutant targeting clr-2 failed to enhance clr-2 transcription, extracellular protein production, or CMCase activity. We further developed an inducible dCas9-p300 system to examine the persistence and reversibility of the activated state. Following inducer withdrawal, the high cellulase-production phenotype was maintained during the initial propagation but gradually declined over successive passages and was restored upon re-induction. These results demonstrate that targeted histone acetylation can coordinately activate an endogenous cellulolytic regulatory network and establish a reversible high-production state without altering the DNA sequences of the target loci. This work provides a chromatin-based strategy for reversible regulation of endogenous gene networks and protein production in filamentous fungi.",
+    "keywords": [
+      "CRISPR/dCas9",
+      "Cellulase production",
+      "Epigenetic engineering",
+      "Histone acetylation",
+      "Myceliophthora thermophila",
+      "Transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Yao",
+        "Zhao, Xiucai",
+        "Yang, Xinyu",
+        "Wang, Jiaxin",
+        "Liu, Dandan",
+        "Yu, Qilin",
+        "Liu, Qian",
+        "Tian, Chaoguang"
+      ],
+      "short_names": [
+        "Li Y",
+        "Zhao X",
+        "Yang X",
+        "Wang J",
+        "Liu D",
+        "Yu Q",
+        "Liu Q",
+        "Tian C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China; College of Life Sciences, Nankai University, Tianjin, 300071, China.",
+        "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China.",
+        "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China.",
+        "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China.",
+        "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China.",
+        "College of Life Sciences, Nankai University, Tianjin, 300071, China.",
+        "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China. Electronic address: liu_q1@tib.cas.cn.",
+        "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China. Electronic address: tian_cg@tib.cas.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Yao",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China; College of Life Sciences, Nankai University, Tianjin, 300071, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xiucai",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xinyu",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiaxin",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dandan",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qilin",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Nankai University, Tianjin, 300071, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qian",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China. Electronic address: liu_q1@tib.cas.cn."
+        ]
+      },
+      {
+        "full_name": "Tian, Chaoguang",
+        "short_name": "Tian C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Engineering Biology for Low-Carbon Manufacturing, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China; National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China. Electronic address: tian_cg@tib.cas.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbiological research"
+    ],
+    "journal_abbrev": [
+      "Microbiol Res"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 23:30",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42832928",
+      "35608343",
+      "36165620",
+      "33482403",
+      "31890021",
+      "28053662",
+      "42663476",
+      "29527447",
+      "30474279",
+      "37013645",
+      "39970722",
+      "35502657",
+      "42046157",
+      "31053162",
+      "42146352",
+      "30534201",
+      "29954426",
+      "28503202",
+      "37568174",
+      "37318636",
+      "29927685",
+      "15647825",
+      "20851880",
+      "25849900",
+      "40633623",
+      "25949521",
+      "11923478",
+      "30699347",
+      "42763295",
+      "42157272",
+      "24451378",
+      "32021654",
+      "29309117",
+      "36493708",
+      "40917896",
+      "36009033",
+      "19423655",
+      "29524150",
+      "35072962",
+      "11509556",
+      "41707086",
+      "10942771",
+      "22532664",
+      "25824435",
+      "33965614",
+      "25051175",
+      "28732206",
+      "28615712",
+      "39655408",
+      "28798030",
+      "40739661",
+      "29792694",
+      "38031036",
+      "14662860",
+      "34019788",
+      "32690000",
+      "42692765",
+      "23785470",
+      "19287485",
+      "28782640",
+      "31792240",
+      "23667505",
+      "20505343",
+      "42072343",
+      "23284731",
+      "24529102",
+      "15869883",
+      "12586842",
+      "36478865",
+      "20368990",
+      "42698370",
+      "31754437",
+      "12414652",
+      "37294468",
+      "41684293",
+      "20720004",
+      "15371352",
+      "31557222",
+      "33563994",
+      "41308914",
+      "20974913",
+      "15964811",
+      "28237615",
+      "28787145",
+      "41849237",
+      "16434977",
+      "15731170",
+      "27989964",
+      "41044247",
+      "11568182",
+      "12697832",
+      "37974259",
+      "25400128",
+      "23307074",
+      "23235480",
+      "38849111",
+      "28973434",
+      "27013100",
+      "19903865",
+      "18064385"
+    ],
+    "review": [
+      "42832928",
+      "37294468"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0944-5013(26)00311-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1240",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

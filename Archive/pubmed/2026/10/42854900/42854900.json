@@ -1,0 +1,320 @@
+{
+  "identity": {
+    "pmid": "42854900",
+    "doi": "10.1016/j.jare.2026.10.018",
+    "title": "A JAZ-VQ-WRKY transcriptional feedback loop enforces homeostasis in cytotoxic alkaloid biosynthesis."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Plants face the challenge of balancing the production of defense-related secondary metabolites, requiring inducible \"accelerators\" and intrinsic \"braking\" systems to avoid overproduction. While the phytohormone jasmonate (JA) is a well-established accelerator, the molecular nature of the braking machinery and its coordination with JA signaling remain unclear. The medicinal plant Catharanthus roseus produces cytotoxic terpenoid indole alkaloids (TIAs) and serves as an ideal system to address this question. OBJECTIVES: This study aims to identify the core JA-induced transcription factors regulating TIAs synthesis, and to elucidate how their activity is precisely constrained to prevent metabolic runaway, thereby deciphering the molecular mechanisms by which plants achieve metabolic homeostasis. METHODS: We used DNA affinity purification sequencing (DAP-seq), yeast one-hybrid (Y1H), and dual luciferase reporter (Dual-LUC) assays to identify and validate the direct binding and transactivation of the transcription factor CrWRKY4 on TIAs pathway genes. Gene knockout was achieved in hairy roots using an optimized CRISPR/Cas9 system. Protein interactions were analyzed using yeast two-hybrid (Y2H), bimolecular complementation (BiFC), and immunoprecipitation (Co-IP) techniques. The functional role of the regulatory module was systematically elucidated through subcellular localization studies, electrophoresis mobility shift assay (EMSA), and metabolite quantification (UPLC-QQQ-MS/MS). RESULTS: We identified a JA-inducible master regulator transcription factor, CrWRKY4, it directly binds and activates multiple TIAs pathway genes. Concurrently, two co-repressors, CrVQ4 and CrVQ9, were characterized and inhibit CrWRKY4's DNA-binding capacity. Moreover, CrJAZ1 interacts with VQ proteins and interferes with the VQ-WRKY regulatory complex. Crucially, CrWRKY4 directly activates the expression of CrVQ4, CrVQ9, and CrJAZ1, forming an intrinsic negative feedback loop. Upon JA signaling, the repressive CrJAZ1-CrVQ4/9 module is relieved, allowing CrWRKY4 to activate TIAs gene expression. CONCLUSION: This study elucidates a core regulatory mechanism comprising the CrJAZ1-CrVQ4/9-CrWRKY4 module. This module forms a self-braking transcriptional circuit by integrating JA signal.",
+    "keywords": [
+      "Catharanthusroseus",
+      "Corepressor complex",
+      "Metabolic homeostasis",
+      "Metabolic regulation",
+      "Transcriptional feedback loop"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yaojie",
+        "Liu, Qi",
+        "Liu, Pin",
+        "Ni, Xiaofan",
+        "Liu, Hang",
+        "Qian, Shuyi",
+        "Wen, Hangyu",
+        "Li, Ling",
+        "Zhao, Jingya",
+        "Wang, Yuliang",
+        "Pan, Qifang",
+        "Fu, Xueqing",
+        "Tang, Kexuan"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Liu Q",
+        "Liu P",
+        "Ni X",
+        "Liu H",
+        "Qian S",
+        "Wen H",
+        "Li L",
+        "Zhao J",
+        "Wang Y",
+        "Pan Q",
+        "Fu X",
+        "Tang K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "Institute of Chinese Materia Medica China Academy of Chinese Medical Sciences, 10010 Beijing, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China. Electronic address: panqf@sjtu.edu.cn.",
+        "School of Design, Shanghai Jiao Tong University, 200240 Shanghai, China. Electronic address: cathyluck@sjtu.edu.cn.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China. Electronic address: kxtang@sjtu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yaojie",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qi",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chinese Materia Medica China Academy of Chinese Medical Sciences, 10010 Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Pin",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ni, Xiaofan",
+        "short_name": "Ni X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hang",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Shuyi",
+        "short_name": "Qian S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Hangyu",
+        "short_name": "Wen H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ling",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jingya",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuliang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Qifang",
+        "short_name": "Pan Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China. Electronic address: panqf@sjtu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Fu, Xueqing",
+        "short_name": "Fu X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Design, Shanghai Jiao Tong University, 200240 Shanghai, China. Electronic address: cathyluck@sjtu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Tang, Kexuan",
+        "short_name": "Tang K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, 200240 Shanghai, China. Electronic address: kxtang@sjtu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of advanced research"
+    ],
+    "journal_abbrev": [
+      "J Adv Res"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 23:31",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42854900",
+      "27154243",
+      "41715953",
+      "42195026",
+      "21988879",
+      "29178476",
+      "40604370",
+      "27694525",
+      "35732947",
+      "27801944",
+      "41213477",
+      "42770828",
+      "41245455",
+      "41844485",
+      "42296191",
+      "35508837",
+      "21418355",
+      "36361982",
+      "30922232",
+      "34929168",
+      "28137867",
+      "42764059",
+      "39423972",
+      "34564757",
+      "29931167",
+      "18955153",
+      "41925897",
+      "24950738",
+      "33532692",
+      "29966514",
+      "42401757",
+      "42024829",
+      "23632853",
+      "40194697",
+      "40437362",
+      "16188339",
+      "38540383",
+      "22529386",
+      "33539631",
+      "40478496",
+      "23979312",
+      "21401746",
+      "39806468",
+      "40653171",
+      "23402340",
+      "41242494",
+      "21321051",
+      "28036025",
+      "26351111",
+      "42687031",
+      "29270185",
+      "24063238",
+      "42531614",
+      "36513414",
+      "39043058",
+      "38743349",
+      "40274227",
+      "42119893",
+      "29105731",
+      "27342401",
+      "36526028",
+      "35954172",
+      "11198427",
+      "42278242",
+      "39115578",
+      "38825317",
+      "42225231",
+      "42587808",
+      "27467510",
+      "42431459",
+      "39743212",
+      "41548341",
+      "9435792",
+      "32992496",
+      "23970483",
+      "42475469",
+      "32593720",
+      "35722510",
+      "23011567",
+      "42371121",
+      "38704640",
+      "10449411",
+      "39769191",
+      "36204204",
+      "31195253",
+      "40774572",
+      "36247618",
+      "31741037",
+      "26080427",
+      "40920558",
+      "31727678",
+      "23890386",
+      "37665103",
+      "28665036",
+      "40957479",
+      "31852773",
+      "11169181",
+      "31455224",
+      "26374889",
+      "22535423"
+    ],
+    "review": [
+      "42854900",
+      "34564757",
+      "28036025",
+      "42587808",
+      "23011567",
+      "23890386"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2090-1232(26)00778-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

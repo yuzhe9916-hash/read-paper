@@ -1,0 +1,557 @@
+{
+  "identity": {
+    "pmid": "42844286",
+    "doi": "10.1038/s41467-026-78312-3",
+    "title": "Targeting CD28 on T lineage malignancies with chimeric antigen receptor T cells."
+  },
+  "content": {
+    "abstract": "Currently, no immunotherapy is approved for T cell acute lymphoblastic leukemia (T‑ALL). High initial response rates to CD7‑directed chimeric antigen receptor (CAR) T cells are limited by profound T cell aplasia and CD7‑negative immune escape, underscoring the need for alternative targets. Here, we show that CD28 is overexpressed on T‑ALL blasts from children and adolescents compared with lymphoid progenitors from healthy donors and is uniformly upregulated in nodal T-follicular helper cell lymphomas (nTFHL-AI, nTFHL-F). Using CRISPR/Cas9-mediated CD28 knockout to prevent fratricide, we generate highly functional anti‑CD28 CAR T cells with selective cytotoxicity against CD28(+) T‑ALL. Anti‑CD28 CAR T cells match anti‑CD7 CAR T cells in vitro and in vivo, but cause markedly less lymphodepletion, largely sparing CD8 T cells and NK cells while preferentially depleting CD4 T cells, particularly TH2 and TH17 subsets. These findings establish CD28 as an actionable target for CAR T cell therapy of T cell malignancies.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*CD28 Antigens/genetics/immunology/metabolism",
+      "*Receptors, Chimeric Antigen/immunology/metabolism/genetics",
+      "Animals",
+      "*Immunotherapy, Adoptive/methods",
+      "Mice",
+      "*Precursor T-Cell Lymphoblastic Leukemia-Lymphoma/immunology/therapy/genetics",
+      "Adolescent",
+      "Child",
+      "Female",
+      "Mice, Inbred NOD",
+      "Male",
+      "CRISPR-Cas Systems"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Willier, Semjon",
+        "Farber, Julian",
+        "Ispyrlidou, Theodora",
+        "Wilhelm, Jonas",
+        "Mayer, Eileen",
+        "Stenger, Dana",
+        "Seiferling, Jannika",
+        "Brien, Annika E",
+        "Nikolaides, Sophia",
+        "Ferrada-Ernst, Paulina",
+        "Maile, Jens Dominik",
+        "Vick, Binje",
+        "Carr, Andreas",
+        "Blaeschke, Franziska",
+        "Busch, Dirk H",
+        "Spieler, Peter",
+        "Nerreter, Thomas",
+        "Lotfi, Ramin",
+        "Rudelius, Martina",
+        "Kaeuferle, Theresa",
+        "Klein, Christoph",
+        "Escherich, Gabriele",
+        "Jeremias, Irmela",
+        "Burk, Ulrike",
+        "Feuchtinger, Tobias"
+      ],
+      "short_names": [
+        "Willier S",
+        "Farber J",
+        "Ispyrlidou T",
+        "Wilhelm J",
+        "Mayer E",
+        "Stenger D",
+        "Seiferling J",
+        "Brien AE",
+        "Nikolaides S",
+        "Ferrada-Ernst P",
+        "Maile JD",
+        "Vick B",
+        "Carr A",
+        "Blaeschke F",
+        "Busch DH",
+        "Spieler P",
+        "Nerreter T",
+        "Lotfi R",
+        "Rudelius M",
+        "Kaeuferle T",
+        "Klein C",
+        "Escherich G",
+        "Jeremias I",
+        "Burk U",
+        "Feuchtinger T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9472-2191",
+        "ORCID: 0009-0002-2609-7827",
+        "ORCID: 0009-0001-5004-869X",
+        "ORCID: 0009-0003-3053-4329",
+        "ORCID: 0000-0003-1956-2778",
+        "ORCID: 0000-0002-8231-450X",
+        "ORCID: 0000-0001-5770-4744",
+        "ORCID: 0000-0001-8713-093X",
+        "ORCID: 0000-0002-0493-1369",
+        "ORCID: 0000-0001-6928-9955",
+        "ORCID: 0009-0005-2122-7794",
+        "ORCID: 0000-0003-0956-0445",
+        "ORCID: 0000-0003-1773-7677",
+        "ORCID: 0009-0006-1484-0707",
+        "ORCID: 0000-0002-8517-9681"
+      ],
+      "affiliations": [
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany. semjon.willier@uniklinik-freiburg.de.",
+        "German Cancer Consortium (DKTK), Partner Site Freiburg, a partnership between DKFZ and University Medical Center Freiburg, Freiburg, Germany. semjon.willier@uniklinik-freiburg.de.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany. semjon.willier@uniklinik-freiburg.de.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "Research Unit Apoptosis in Hematopoietic Stem Cells, Helmholtz Munich, German Research Center for Environmental Health, Munich, Germany.",
+        "German Cancer Consortium (DKTK), Partner Site Munich, a partnership between DKFZ and University Hospital LMU Munich, Munich, Germany.",
+        "Institute for Medical Microbiology, Immunology and Hygiene, TUM School of Medicine and Health, Technical University of Munich (TUM), Munich, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Hopp Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "Department of Pediatric Hematology and Oncology, Heidelberg University Hospital, Heidelberg, Germany.",
+        "Institute for Medical Microbiology, Immunology and Hygiene, TUM School of Medicine and Health, Technical University of Munich (TUM), Munich, Germany.",
+        "German Center for Infection Research (DZIF), Partner Site Munich, Munich, Germany.",
+        "Chair for Cellular Immunotherapy, Department of Medicine II, University Hospital Wurzburg, Wurzburg, Germany.",
+        "Chair for Cellular Immunotherapy, Department of Medicine II, University Hospital Wurzburg, Wurzburg, Germany.",
+        "Institute for Clinical Transfusion Medicine and Immunogenetics Ulm, Ulm, Germany.",
+        "Institute of Pathology, Ludwig-Maximilians-University of Munich, Munich, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "German Center for Infection Research (DZIF), Partner Site Munich, Munich, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "German Center for Child and Adolescent Health (DZKJ), Partner Site Munich, Munich, Germany.",
+        "Department of Pediatric Hematology and Oncology, University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "Research Unit Apoptosis in Hematopoietic Stem Cells, Helmholtz Munich, German Research Center for Environmental Health, Munich, Germany.",
+        "German Cancer Consortium (DKTK), Partner Site Munich, a partnership between DKFZ and University Hospital LMU Munich, Munich, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+        "German Cancer Consortium (DKTK), Partner Site Freiburg, a partnership between DKFZ and University Medical Center Freiburg, Freiburg, Germany.",
+        "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "German Center for Infection Research (DZIF), Partner Site Munich, Munich, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Willier, Semjon",
+        "short_name": "Willier S",
+        "identifiers": [
+          "0000-0001-9472-2191"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany. semjon.willier@uniklinik-freiburg.de.",
+          "German Cancer Consortium (DKTK), Partner Site Freiburg, a partnership between DKFZ and University Medical Center Freiburg, Freiburg, Germany. semjon.willier@uniklinik-freiburg.de.",
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany. semjon.willier@uniklinik-freiburg.de."
+        ]
+      },
+      {
+        "full_name": "Färber, Julian",
+        "short_name": "Färber J",
+        "identifiers": [
+          "0009-0002-2609-7827"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Ispyrlidou, Theodora",
+        "short_name": "Ispyrlidou T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Wilhelm, Jonas",
+        "short_name": "Wilhelm J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Mayer, Eileen",
+        "short_name": "Mayer E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Stenger, Dana",
+        "short_name": "Stenger D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Seiferling, Jannika",
+        "short_name": "Seiferling J",
+        "identifiers": [
+          "0009-0001-5004-869X"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Brien, Annika E",
+        "short_name": "Brien AE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Nikolaides, Sophia",
+        "short_name": "Nikolaides S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Ferrada-Ernst, Paulina",
+        "short_name": "Ferrada-Ernst P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Maile, Jens Dominik",
+        "short_name": "Maile JD",
+        "identifiers": [
+          "0009-0003-3053-4329"
+        ],
+        "affiliations": [
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Vick, Binje",
+        "short_name": "Vick B",
+        "identifiers": [
+          "0000-0003-1956-2778"
+        ],
+        "affiliations": [
+          "Research Unit Apoptosis in Hematopoietic Stem Cells, Helmholtz Munich, German Research Center for Environmental Health, Munich, Germany.",
+          "German Cancer Consortium (DKTK), Partner Site Munich, a partnership between DKFZ and University Hospital LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Carr, Andreas",
+        "short_name": "Carr A",
+        "identifiers": [
+          "0000-0002-8231-450X"
+        ],
+        "affiliations": [
+          "Institute for Medical Microbiology, Immunology and Hygiene, TUM School of Medicine and Health, Technical University of Munich (TUM), Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Blaeschke, Franziska",
+        "short_name": "Blaeschke F",
+        "identifiers": [
+          "0000-0001-5770-4744"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+          "German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+          "Hopp Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "Department of Pediatric Hematology and Oncology, Heidelberg University Hospital, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Busch, Dirk H",
+        "short_name": "Busch DH",
+        "identifiers": [
+          "0000-0001-8713-093X"
+        ],
+        "affiliations": [
+          "Institute for Medical Microbiology, Immunology and Hygiene, TUM School of Medicine and Health, Technical University of Munich (TUM), Munich, Germany.",
+          "German Center for Infection Research (DZIF), Partner Site Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Spieler, Peter",
+        "short_name": "Spieler P",
+        "identifiers": [],
+        "affiliations": [
+          "Chair for Cellular Immunotherapy, Department of Medicine II, University Hospital Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Nerreter, Thomas",
+        "short_name": "Nerreter T",
+        "identifiers": [
+          "0000-0002-0493-1369"
+        ],
+        "affiliations": [
+          "Chair for Cellular Immunotherapy, Department of Medicine II, University Hospital Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Lotfi, Ramin",
+        "short_name": "Lotfi R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Clinical Transfusion Medicine and Immunogenetics Ulm, Ulm, Germany."
+        ]
+      },
+      {
+        "full_name": "Rudelius, Martina",
+        "short_name": "Rudelius M",
+        "identifiers": [
+          "0000-0001-6928-9955"
+        ],
+        "affiliations": [
+          "Institute of Pathology, Ludwig-Maximilians-University of Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Kaeuferle, Theresa",
+        "short_name": "Kaeuferle T",
+        "identifiers": [
+          "0009-0005-2122-7794"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+          "German Center for Infection Research (DZIF), Partner Site Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Klein, Christoph",
+        "short_name": "Klein C",
+        "identifiers": [
+          "0000-0003-0956-0445"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+          "German Center for Child and Adolescent Health (DZKJ), Partner Site Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Escherich, Gabriele",
+        "short_name": "Escherich G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Hematology and Oncology, University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Jeremias, Irmela",
+        "short_name": "Jeremias I",
+        "identifiers": [
+          "0000-0003-1773-7677"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+          "Research Unit Apoptosis in Hematopoietic Stem Cells, Helmholtz Munich, German Research Center for Environmental Health, Munich, Germany.",
+          "German Cancer Consortium (DKTK), Partner Site Munich, a partnership between DKFZ and University Hospital LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Burk, Ulrike",
+        "short_name": "Burk U",
+        "identifiers": [
+          "0009-0006-1484-0707"
+        ],
+        "affiliations": [
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Feuchtinger, Tobias",
+        "short_name": "Feuchtinger T",
+        "identifiers": [
+          "0000-0002-8517-9681"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Dr. von Hauner Children's Hospital, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
+          "German Cancer Consortium (DKTK), Partner Site Freiburg, a partnership between DKFZ and University Medical Center Freiburg, Freiburg, Germany.",
+          "Department of Pediatric Hematology, Oncology and Stem Cell Transplantation, Children's Hospital, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+          "German Center for Infection Research (DZIF), Partner Site Munich, Munich, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 05:31",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42844286",
+      "37690234",
+      "42457686",
+      "41539232",
+      "33028589",
+      "31097020",
+      "41775430",
+      "34274536",
+      "40598348",
+      "40238916",
+      "39243430",
+      "39013083",
+      "42409731",
+      "41736320",
+      "42679594",
+      "27548616",
+      "33854512",
+      "41855715",
+      "34531250",
+      "28074066",
+      "42679446",
+      "40770072",
+      "33384686",
+      "28539325",
+      "40515942",
+      "39715467",
+      "41238217",
+      "30860598",
+      "35659513",
+      "36086817",
+      "40943160",
+      "33281809",
+      "30309710",
+      "32755128",
+      "29503204",
+      "34840026",
+      "40390054",
+      "29483708",
+      "37485647",
+      "42047877",
+      "41111252",
+      "40416955",
+      "33188139",
+      "29503195",
+      "34627328",
+      "40416968",
+      "41627211",
+      "36396553",
+      "28331616",
+      "33627493",
+      "41469141",
+      "29515572",
+      "39192970",
+      "40181986",
+      "42659934",
+      "40443031",
+      "26056165",
+      "38589736",
+      "38788547",
+      "32483603",
+      "33888899",
+      "30120708",
+      "36214866",
+      "42399625",
+      "32747298",
+      "39201348",
+      "40789664",
+      "39033444",
+      "41162681",
+      "34920807",
+      "40306957",
+      "39535595",
+      "38718110",
+      "31005597",
+      "38670972",
+      "38700775",
+      "27323395",
+      "39364400",
+      "42139908",
+      "24986688",
+      "42098093",
+      "35507686",
+      "23585892",
+      "41845478",
+      "41209010",
+      "39885989",
+      "38955579",
+      "40519924",
+      "32849662",
+      "30122420",
+      "40186066",
+      "36968221",
+      "29637550",
+      "38900051",
+      "41916134",
+      "37391486",
+      "35464442",
+      "32205861",
+      "32616000",
+      "27887866"
+    ],
+    "review": [
+      "42844286",
+      "40515942",
+      "39715467",
+      "34840026",
+      "29515572",
+      "39192970",
+      "40181986",
+      "30120708",
+      "34920807",
+      "38955579",
+      "32849662",
+      "32616000"
+    ],
+    "pmc": [
+      "13646262"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78312-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

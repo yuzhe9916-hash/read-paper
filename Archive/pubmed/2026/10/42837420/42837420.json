@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "42837420",
+    "doi": "10.1371/journal.pbio.3004043",
+    "title": "A binding-activated CRISPR/dCas13X imaging system enables precise RNA tracking in plants."
+  },
+  "content": {
+    "abstract": "Visualizing the spatiotemporal dynamics of native RNA molecules with single-transcript-level sensitivity in living plant cells remains a formidable challenge due to the high background noise caused by the unique cellular architecture of plants. Here, using transiently transformed Nicotiana benthamiana cells and stable Arabidopsis thaliana lines, we present a high-signal-to-noise RNA imaging platform that couples CRISPR-dCas13X with a binding-associated fluorescence stabilization strategy. We identified a novel plant-specific degron that selectively targets unbound probes for proteasomal degradation while preserving target-associated signal in a manner consistent with binding-dependent protection, enabling high-fidelity detection of endogenous mRNA puncta with minimal perturbation. Leveraging this platform, we characterized dynamics of FT mRNA trafficking in living plant cells, including plasmodesmata-targeting, cell-to-cell trafficking, and long-distance movement. Loss-of-function analysis further identified the established RNA-binding protein GRP7 as a factor that contributes to efficient FT mRNA transport. This work establishes a useful toolkit for investigating plant RNA biology and provides mechanistic insight into the systemic transport of florigenic signals.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Jiayu",
+        "Tao, Yiran",
+        "Zhao, Yun",
+        "Lei, Miaomiao",
+        "Shen, Yucheng",
+        "Li, Qicong",
+        "Liu, Chenxu",
+        "Bai, Jiuyuan"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Tao Y",
+        "Zhao Y",
+        "Lei M",
+        "Shen Y",
+        "Li Q",
+        "Liu C",
+        "Bai J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3767-8291"
+      ],
+      "affiliations": [
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China.",
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China.",
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China.",
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China.",
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China.",
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China.",
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China.",
+        "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Jiayu",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Yiran",
+        "short_name": "Tao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yun",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Lei, Miaomiao",
+        "short_name": "Lei M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Yucheng",
+        "short_name": "Shen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qicong",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chenxu",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Jiuyuan",
+        "short_name": "Bai J",
+        "identifiers": [
+          "0000-0002-3767-8291"
+        ],
+        "affiliations": [
+          "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Microbiology and Metabolic Engineering Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Biol"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42837420",
+      "42671029",
+      "41909946",
+      "29581179",
+      "35130941",
+      "23912807",
+      "34591015",
+      "42475469",
+      "22614833",
+      "26863622",
+      "32710405",
+      "42184477",
+      "40633352",
+      "19193810",
+      "33042266",
+      "24157202",
+      "41874043",
+      "29051052",
+      "34904892",
+      "32710407",
+      "42219400",
+      "15258266",
+      "42128985",
+      "35236300",
+      "31535972",
+      "42000659",
+      "39933002",
+      "39919021",
+      "25287213",
+      "40172228",
+      "42763165",
+      "23607279",
+      "22013065",
+      "42194977",
+      "31990126",
+      "23434876",
+      "34373604",
+      "27356975",
+      "39966655",
+      "33577114",
+      "16126836",
+      "31768121",
+      "38663258",
+      "31065786",
+      "42575438",
+      "33098198",
+      "39071319",
+      "19453448",
+      "35349147",
+      "38502483",
+      "42252663",
+      "25228083",
+      "26392261",
+      "42367205",
+      "35025667",
+      "27320049",
+      "22545099",
+      "39142658",
+      "36207827",
+      "25269397",
+      "38924638",
+      "40203052",
+      "29084609",
+      "38177664",
+      "41576153",
+      "17540715",
+      "38268977",
+      "28991414",
+      "42006378",
+      "25576325",
+      "12024044",
+      "14520871",
+      "40187725",
+      "36420710",
+      "35349148",
+      "19281527",
+      "38446628",
+      "34709399",
+      "27241752",
+      "36453882",
+      "40982556",
+      "36011259",
+      "29991585",
+      "41656792",
+      "27255839",
+      "38075927",
+      "42642595",
+      "35685361",
+      "34783883",
+      "19704772",
+      "33274276",
+      "35046978",
+      "19805190",
+      "42064336",
+      "34437813",
+      "26626050",
+      "36574436",
+      "15491912",
+      "35061906",
+      "24144190"
+    ],
+    "review": [
+      "42837420",
+      "24157202",
+      "42128985",
+      "31990126",
+      "38663258",
+      "36207827",
+      "40187725",
+      "36420710",
+      "34709399",
+      "36011259",
+      "35046978",
+      "42064336",
+      "34437813"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pbio.3004043",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

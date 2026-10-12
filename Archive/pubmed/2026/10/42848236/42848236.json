@@ -1,0 +1,292 @@
+{
+  "identity": {
+    "pmid": "42848236",
+    "doi": "10.1007/s00604-026-08451-3",
+    "title": "Entropy-driven amplification combined with CRISPR-Cas12a to develop a dual-mode biosensor for breast cancer miR-155 detection."
+  },
+  "content": {
+    "abstract": "An entropy-driven amplification (EDA) coupled CRISPR-Cas12a dual-mode biosensor was established for sensitive detection of breast cancer biomarker miR-155. Fluorescent quantitative detection proceeds via synchronous single-tube isothermal incubation without liquid transfer, while colorimetric visual screening requires post-reaction addition of chromogenic substrates. The system eliminates reverse transcription for direct miRNA recognition and realizes cascade dual signal amplification, which greatly accelerates the apparent signal generation rate constant compared with standalone EDA. Under optimized conditions, the fluorescent mode achieves a limit of detection of 660 fM with linear quantification from 60 to 800 pM, and the colorimetric branch provides visual readout with a logarithmic linear range of 4-400 nM. The sensor shows favorable anti-interference performance in diluted healthy human serum spike-recovery tests and can realize intracellular in situ miR-155 fluorescence imaging to distinguish breast cancer cells from normal mammary epithelial cells. We systematically optimized all reaction parameters, supplemented comprehensive specificity verification including mismatched sequences, and supplemented detailed kinetic and analytical characterization to support the reliability of this dual-mode nucleic acid sensing platform.",
+    "keywords": [
+      "Breast cancer miRNA",
+      "CRISPR-Cas12a",
+      "Colorimetric visual screening",
+      "Dual-mode biosensor",
+      "Entropy driven amplification",
+      "Fluorescence detection"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*MicroRNAs/blood/genetics/analysis",
+      "*Biosensing Techniques/methods",
+      "*Breast Neoplasms/genetics/diagnosis",
+      "*CRISPR-Cas Systems/genetics",
+      "Female",
+      "Entropy",
+      "Colorimetry/methods",
+      "Limit of Detection",
+      "*Nucleic Acid Amplification Techniques/methods",
+      "Biomarkers, Tumor/blood/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yihua",
+        "Lan, Min",
+        "Zhong, Min",
+        "Jiang, Hui",
+        "Wang, Qi",
+        "Liu, Jinbo",
+        "Li, Baolin"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Lan M",
+        "Zhong M",
+        "Jiang H",
+        "Wang Q",
+        "Liu J",
+        "Li B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+        "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+        "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China.",
+        "Department of Clinical Laboratory, School of Medicine, Mianyang Central Hospital, University of Electronic Science and Technology of China, Mianyang, Sichuan, China.",
+        "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+        "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+        "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China.",
+        "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+        "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+        "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China.",
+        "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+        "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+        "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China.",
+        "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+        "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+        "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China.",
+        "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China. liujb7203@swmu.edu.cn.",
+        "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China. liujb7203@swmu.edu.cn.",
+        "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China. liujb7203@swmu.edu.cn.",
+        "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China. libaolin@swmu.edu.cn.",
+        "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China. libaolin@swmu.edu.cn.",
+        "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China. libaolin@swmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yihua",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+          "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+          "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China.",
+          "Department of Clinical Laboratory, School of Medicine, Mianyang Central Hospital, University of Electronic Science and Technology of China, Mianyang, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Lan, Min",
+        "short_name": "Lan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+          "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+          "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Min",
+        "short_name": "Zhong M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+          "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+          "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Hui",
+        "short_name": "Jiang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+          "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+          "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qi",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China.",
+          "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China.",
+          "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jinbo",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China. liujb7203@swmu.edu.cn.",
+          "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China. liujb7203@swmu.edu.cn.",
+          "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China. liujb7203@swmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Baolin",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, the Affiliated Hospital, Southwest Medical University, Luzhou, China. libaolin@swmu.edu.cn.",
+          "Molecular Diagnosis of Clinical Diseases Key Laboratory of Luzhou, Luzhou , China. libaolin@swmu.edu.cn.",
+          "Sichuan Province Engineering Technology Research Center of Molecular Diagnosis of Clinical Diseases, Luzhou, China. libaolin@swmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Mikrochimica acta"
+    ],
+    "journal_abbrev": [
+      "Mikrochim Acta"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42848236",
+      "42669262",
+      "41935002",
+      "41721123",
+      "41558405",
+      "42417866",
+      "41167881",
+      "40745870",
+      "42753299",
+      "39724854",
+      "42790075",
+      "41073014",
+      "39740588",
+      "40517335",
+      "40914019",
+      "40889206",
+      "41288772",
+      "40210281",
+      "42594438",
+      "42659818",
+      "36318504",
+      "37827669",
+      "42269453",
+      "38815319",
+      "41591771",
+      "42068913",
+      "41222482",
+      "34011151",
+      "40286513",
+      "38833812",
+      "41905041",
+      "40749504",
+      "42379036",
+      "41352918",
+      "42424999",
+      "38871161",
+      "38503125",
+      "42424186",
+      "39155100",
+      "41956025",
+      "40955638",
+      "40845666",
+      "39982896",
+      "39515055",
+      "42707723",
+      "42544618",
+      "42682078",
+      "40183844",
+      "41257956",
+      "42335458",
+      "42641282",
+      "42409502",
+      "40843586",
+      "40331901",
+      "40254669",
+      "40441113",
+      "40047714",
+      "38717230",
+      "42372689",
+      "39171896",
+      "42401475",
+      "41722363",
+      "38640680",
+      "40000476",
+      "41552883",
+      "39316855",
+      "38032800",
+      "37827629",
+      "32809800",
+      "38969407",
+      "38860504",
+      "41330674",
+      "39951690",
+      "42323937",
+      "42391661",
+      "41671823",
+      "41611402",
+      "42300772",
+      "39406093",
+      "41705504",
+      "42263201",
+      "42024570",
+      "42600443",
+      "41506042",
+      "38508125",
+      "41330302",
+      "31313769",
+      "40099627",
+      "41590269",
+      "40663809",
+      "39023769",
+      "42219637",
+      "42702425",
+      "40651075",
+      "41849887",
+      "40719616",
+      "39122278",
+      "38855960",
+      "40780174",
+      "37128982"
+    ],
+    "review": [
+      "42848236"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      }
+    ],
+    "text_mined": []
+  }
+}

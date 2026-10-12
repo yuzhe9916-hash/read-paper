@@ -1,0 +1,343 @@
+{
+  "identity": {
+    "pmid": "42838047",
+    "doi": "10.1016/j.cell.2026.09.021",
+    "title": "SPARCS enables scalable recovery of complex image-based phenotypes for genetic screening."
+  },
+  "content": {
+    "abstract": "Forward genetic screening links genotype to phenotype by introducing random genetic perturbations and identifying phenotype-altering mutations. Although genome-scale screens are routine for simple phenotypes in cultured cells, extending them to complex image-based phenotypes remains challenging. Here, we present spatially resolved CRISPR screening (SPARCS), a microscopy-based platform for forward genetic screening on single-cell images. SPARCS physically isolates mutants in situ by automated laser microdissection, enabling image-based screening at unprecedented scale with multimodal hit phenotyping. We demonstrate SPARCS in genome-wide CRISPR knockout screens of autophagosome formation and activation of the immune sensor STING across 70 million cells. Via machine learning-based image analysis, SPARCS recovered most macroautophagy genes and identified GPHR as a pH-dependent regulator of STING. Mass spectrometry-based proteomics of isolated hit cells revealed endoplasmic reticulum (ER)/Golgi disruption and nominated additional STING regulators via in silico perturbation modeling. These results establish SPARCS as a scalable platform for genome-wide genetic screening of complex cellular phenotypes with a proteome-level readout.",
+    "keywords": [
+      "CRISPR",
+      "SPARCS",
+      "STING",
+      "autophagy",
+      "genetic screening",
+      "machine learning",
+      "microscopy",
+      "perturbation",
+      "proteomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Schmacke, Niklas A",
+        "Madler, Sophia C",
+        "Wallmann, Georg",
+        "Metousis, Andreas",
+        "Varlamova, Varvara",
+        "Steigerwald, Sophia",
+        "Christ, Sarah B",
+        "Berouti, Marleen",
+        "Harz, Hartmann",
+        "Leonhardt, Heinrich",
+        "Theis, Fabian J",
+        "Mann, Matthias",
+        "Hornung, Veit"
+      ],
+      "short_names": [
+        "Schmacke NA",
+        "Madler SC",
+        "Wallmann G",
+        "Metousis A",
+        "Varlamova V",
+        "Steigerwald S",
+        "Christ SB",
+        "Berouti M",
+        "Harz H",
+        "Leonhardt H",
+        "Theis FJ",
+        "Mann M",
+        "Hornung V"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universitat Munchen, 81377 Munich, Germany; Institute of Computational Biology, Helmholtz Center Munich, 85764 Neuherberg, Germany.",
+        "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany.",
+        "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universitat Munchen, 81377 Munich, Germany; Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany.",
+        "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany.",
+        "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universitat Munchen, 81377 Munich, Germany.",
+        "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany.",
+        "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universitat Munchen, 81377 Munich, Germany.",
+        "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universitat Munchen, 81377 Munich, Germany.",
+        "Faculty of Biology, Human Biology and BioImaging, Ludwig-Maximilians-Universitat Munchen, 82152 Planegg-Martinsried, Germany.",
+        "Faculty of Biology, Human Biology and BioImaging, Ludwig-Maximilians-Universitat Munchen, 82152 Planegg-Martinsried, Germany.",
+        "Institute of Computational Biology, Helmholtz Center Munich, 85764 Neuherberg, Germany; TUM School of Life Sciences, Technical University of Munich, 80333 Munich, Germany; Department of Mathematics, Technical University of Munich, 85748 Garching, Germany.",
+        "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany. Electronic address: mmann@biochem.mpg.de.",
+        "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universitat Munchen, 81377 Munich, Germany. Electronic address: veit.hornung@lmu.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Schmacke, Niklas A",
+        "short_name": "Schmacke NA",
+        "identifiers": [],
+        "affiliations": [
+          "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany; Institute of Computational Biology, Helmholtz Center Munich, 85764 Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Mädler, Sophia C",
+        "short_name": "Mädler SC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Wallmann, Georg",
+        "short_name": "Wallmann G",
+        "identifiers": [],
+        "affiliations": [
+          "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany; Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Metousis, Andreas",
+        "short_name": "Metousis A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Varlamova, Varvara",
+        "short_name": "Varlamova V",
+        "identifiers": [],
+        "affiliations": [
+          "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Steigerwald, Sophia",
+        "short_name": "Steigerwald S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Christ, Sarah B",
+        "short_name": "Christ SB",
+        "identifiers": [],
+        "affiliations": [
+          "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Bérouti, Marleen",
+        "short_name": "Bérouti M",
+        "identifiers": [],
+        "affiliations": [
+          "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Harz, Hartmann",
+        "short_name": "Harz H",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Biology, Human Biology and BioImaging, Ludwig-Maximilians-Universität München, 82152 Planegg-Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Leonhardt, Heinrich",
+        "short_name": "Leonhardt H",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Biology, Human Biology and BioImaging, Ludwig-Maximilians-Universität München, 82152 Planegg-Martinsried, Germany."
+        ]
+      },
+      {
+        "full_name": "Theis, Fabian J",
+        "short_name": "Theis FJ",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Computational Biology, Helmholtz Center Munich, 85764 Neuherberg, Germany; TUM School of Life Sciences, Technical University of Munich, 80333 Munich, Germany; Department of Mathematics, Technical University of Munich, 85748 Garching, Germany."
+        ]
+      },
+      {
+        "full_name": "Mann, Matthias",
+        "short_name": "Mann M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany. Electronic address: mmann@biochem.mpg.de."
+        ]
+      },
+      {
+        "full_name": "Hornung, Veit",
+        "short_name": "Hornung V",
+        "identifiers": [],
+        "affiliations": [
+          "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany. Electronic address: veit.hornung@lmu.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell"
+    ],
+    "journal_abbrev": [
+      "Cell"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 23:29",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42838047",
+      "29363560",
+      "18534020",
+      "37851522",
+      "39657680",
+      "38531306",
+      "42185540",
+      "38645119",
+      "33464298",
+      "40530689",
+      "41040261",
+      "37562410",
+      "18547870",
+      "38558968",
+      "31626775",
+      "35022620",
+      "41716413",
+      "30449619",
+      "36366905",
+      "27984733",
+      "42411605",
+      "41726924",
+      "30890156",
+      "37989654",
+      "32615917",
+      "26638068",
+      "42579301",
+      "31980032",
+      "41473321",
+      "36284160",
+      "42712921",
+      "40513557",
+      "39375448",
+      "32483332",
+      "41726991",
+      "39870862",
+      "35050652",
+      "30773971",
+      "16685930",
+      "42587162",
+      "35688146",
+      "41332668",
+      "39605605",
+      "17444941",
+      "41446145",
+      "28333914",
+      "37609130",
+      "36643909",
+      "23739767",
+      "40211002",
+      "37043539",
+      "34085929",
+      "36504444",
+      "36917984",
+      "27434125",
+      "40654758",
+      "41889931",
+      "29337374",
+      "38336172",
+      "38678031",
+      "31182025",
+      "42525712",
+      "30933966",
+      "41270742",
+      "29712754",
+      "32141232",
+      "31740817",
+      "37709005",
+      "38308274",
+      "39375449",
+      "30912056",
+      "40502104",
+      "31545321",
+      "35590073",
+      "41986722",
+      "33465779",
+      "40081369",
+      "38468089",
+      "18227224",
+      "41419745",
+      "38617272",
+      "40102404",
+      "36928506",
+      "31885201",
+      "31034882",
+      "19188593",
+      "39475240",
+      "41805294",
+      "30787116",
+      "40265346",
+      "36447436",
+      "27613601",
+      "36510323",
+      "27617677",
+      "33957005",
+      "39536149",
+      "34043287",
+      "42497867",
+      "26165496",
+      "42341133"
+    ],
+    "review": [
+      "42838047",
+      "40530689",
+      "37562410",
+      "36366905",
+      "37989654",
+      "26638068",
+      "42712921",
+      "36504444",
+      "27434125",
+      "36928506",
+      "31034882"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(26)01123-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STING1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://yoda.yale.edu/clinical-trial/nct00367237-a-randomized-multicenter-international-open-label-study-of-infliximab-plus-methotrexate-versus-methotrexate-mtx-alone-for-the-treatment-of-mtx-naive-subjects-with-active-psoriatic/",
+        "provider": "The YODA Project",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "A Randomized, Multicenter, International, Open-label Study of Infliximab Plus Methotrexate Versus Methotrexate (MTX) Alone for the Treatment of MTX naïve Subjects With Active Psoriatic Arthritis"
+      }
+    ],
+    "text_mined": []
+  }
+}

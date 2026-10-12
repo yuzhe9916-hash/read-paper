@@ -1,0 +1,336 @@
+{
+  "identity": {
+    "pmid": "42835192",
+    "doi": "10.3389/fonc.2026.1952701",
+    "title": "Comparative profiling of osimertinib and fourth-generation EGFR inhibitors on EGFR-mutant proteins and cell lines."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Osimertinib is a third-generation, irreversible EGFR inhibitor that targets common activating EGFR mutations (ex19del and L858R) and the resistance EGFR mutation T790M. Clinical resistance to osimertinib frequently arises through the EGFR C797S mutation, which has driven the development of fourth-generation EGFR inhibitors. METHODS: We performed side-by-side biochemical and cellular profiling of osimertinib and three fourth-generation EGFR inhibitors: BLU-945, JBJ-09-063 and silevertinib. Kinase assays were performed both at K (m,ATP) and at physiological ATP concentration (1 mmol/L). Effects on cell viability were evaluated in a CRISPR-engineered NCI-H1975 cell line harboring L858R + T790M + C797S and across a 113 cancer cell line panel including ten EGFR-mutant cell lines, harboring mutations other than C797S. RESULTS: Biochemical assays revealed distinct profiles among the fourth-generation EGFR inhibitors across different EGFR variants under K (m,ATP) and 1 mmol/L ATP concentrations. BLU-945 was the only inhibitor demonstrating broad activity across activating EGFR variants with or without the T790M and/or C797S resistance mutation. JBJ-09-063 selectively inhibited L858R-driven mutants and maintained similar potency across ATP conditions, which is consistent with an allosteric, ATP-independent mechanism. Silevertinib showed high potency against activating EGFR mutants with or without the C797S mutation but markedly reduced activity in the presence of the T790M mutation. All fourth-generation inhibitors retained binding to C797S mutants in surface plasmon resonance experiments. Moreover, JBJ-09-063 bound EGFR L858R + T790M even after osimertinib saturation, confirming their non-overlapping binding sites. In the engineered NCI-H1975 L858R + T790M + C797S cell line model, JBJ-09-063 showed the highest potency among the tested inhibitors. In contrast, silevertinib demonstrated the greatest mutant-selective activity across a broad cell-line panel, with >200-fold selectivity for EGFR-mutant over EGFR wild-type cells, outperforming osimertinib in this regard. CONCLUSION: This comparative analysis highlights the substantial differences in the activity landscapes of fourth-generation EGFR inhibitors. The gathered insights can provide direction for the optimal deployment of the inhibitors in distinct clinical contexts.",
+    "keywords": [
+      "EGFR",
+      "drug resistance",
+      "kinase inhibitor",
+      "non-small cell lung cancer",
+      "osimertinib",
+      "surface plasmon resonance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Melis, Janneke J T M",
+        "Kevenaar, Kirsten J W",
+        "Ytsma, Jacob",
+        "Kluitmans, Daphne J F",
+        "van den End, Janneke M",
+        "Kooijman, Jeffrey J",
+        "van Eck, Jonne L K",
+        "van den Bossche, Esmee",
+        "de Roos, Jeroen A D M",
+        "Kawase, Yusuke",
+        "Willemsen-Seegers, Nicole",
+        "Grobben, Yvonne",
+        "Zaman, Guido J R"
+      ],
+      "short_names": [
+        "Melis JJTM",
+        "Kevenaar KJW",
+        "Ytsma J",
+        "Kluitmans DJF",
+        "van den End JM",
+        "Kooijman JJ",
+        "van Eck JLK",
+        "van den Bossche E",
+        "de Roos JADM",
+        "Kawase Y",
+        "Willemsen-Seegers N",
+        "Grobben Y",
+        "Zaman GJR"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Carna Biosciences, Inc., Kobe, Japan.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands.",
+        "Oncolines B.V., Oss, Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Melis, Janneke J T M",
+        "short_name": "Melis JJTM",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kevenaar, Kirsten J W",
+        "short_name": "Kevenaar KJW",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Ytsma, Jacob",
+        "short_name": "Ytsma J",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kluitmans, Daphne J F",
+        "short_name": "Kluitmans DJF",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "van den End, Janneke M",
+        "short_name": "van den End JM",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kooijman, Jeffrey J",
+        "short_name": "Kooijman JJ",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "van Eck, Jonne L K",
+        "short_name": "van Eck JLK",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "van den Bossche, Esmee",
+        "short_name": "van den Bossche E",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "de Roos, Jeroen A D M",
+        "short_name": "de Roos JADM",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kawase, Yusuke",
+        "short_name": "Kawase Y",
+        "identifiers": [],
+        "affiliations": [
+          "Carna Biosciences, Inc., Kobe, Japan."
+        ]
+      },
+      {
+        "full_name": "Willemsen-Seegers, Nicole",
+        "short_name": "Willemsen-Seegers N",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Grobben, Yvonne",
+        "short_name": "Grobben Y",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Zaman, Guido J R",
+        "short_name": "Zaman GJR",
+        "identifiers": [],
+        "affiliations": [
+          "Oncolines B.V., Oss, Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in oncology"
+    ],
+    "journal_abbrev": [
+      "Front Oncol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42835192",
+      "34855271",
+      "39800476",
+      "39444426",
+      "37249619",
+      "35696862",
+      "40649937",
+      "33174519",
+      "36178776",
+      "36605493",
+      "34242789",
+      "32943545",
+      "42021316",
+      "36308853",
+      "36728908",
+      "35810049",
+      "39536262",
+      "40053865",
+      "27251290",
+      "37885208",
+      "41564925",
+      "31377341",
+      "42123865",
+      "38689087",
+      "35845484",
+      "33476869",
+      "31758670",
+      "39246743",
+      "40966776",
+      "38142512",
+      "38174383",
+      "38691906",
+      "41950648",
+      "32207968",
+      "41882274",
+      "39278125",
+      "35838760",
+      "41649868",
+      "30916819",
+      "42804885",
+      "33297461",
+      "41129833",
+      "35413415",
+      "37141440",
+      "40667612",
+      "35447433",
+      "39094277",
+      "32676311",
+      "37197473",
+      "40876225",
+      "32102624",
+      "38351876",
+      "26629323",
+      "28625641",
+      "36815658",
+      "32391625",
+      "34074804",
+      "42561559",
+      "33009209",
+      "37839342",
+      "41895535",
+      "30796031",
+      "42082576",
+      "39192294",
+      "39724727",
+      "29713646",
+      "34794818",
+      "35229911",
+      "34093797",
+      "36517026",
+      "38908104",
+      "29627693",
+      "39832084",
+      "36558033",
+      "35032819",
+      "41269207",
+      "29377179",
+      "30233215",
+      "37043119",
+      "36279692",
+      "39489821",
+      "35499406",
+      "38009481",
+      "32353596",
+      "37783102",
+      "31223440",
+      "35510318",
+      "35700239",
+      "31092401",
+      "36744262",
+      "29506987",
+      "37793119",
+      "31254668",
+      "31787359",
+      "38169271",
+      "30670498",
+      "28843359",
+      "27044261",
+      "34157597",
+      "33459177"
+    ],
+    "review": [
+      "42835192",
+      "39246743",
+      "40667612",
+      "34074804",
+      "39724727"
+    ],
+    "pmc": [
+      "13634975"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-8",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3678",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fonc.2026.1952701",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

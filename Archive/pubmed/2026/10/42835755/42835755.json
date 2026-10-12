@@ -1,0 +1,426 @@
+{
+  "identity": {
+    "pmid": "42835755",
+    "doi": "10.3389/fpls.2026.1900057",
+    "title": "Next-generation CRISPR systems and advanced delivery paradigms for precision crop improvement: a comparative case study in sugar beet (Beta vulgaris L.)."
+  },
+  "content": {
+    "abstract": "Novel, climate-resilient, high-yielding crop varieties are urgently needed to address food security concerns for the world's growing population. Genome editing techniques have enabled the development of new crop varieties more cheaply, easily, and quickly than conventional breeding methods. A key concern with transgenic crops is producing transgene-free varieties. Transgene-free crops can be developed using new plant breeding technologies and can play a pivotal role in sustainable agriculture. Several techniques can bypass traditional methods for producing edited plants by using hypercompact nucleases and Leaper technology. This review describes various techniques for producing transgene-free crops using combinations of synthetic biology and advanced genome editing tools, such as genome writers, which insert large DNA payloads, and their roles in improving crop genetics. Further, we discuss how these cutting-edge CRISPR techniques can enable the controlled removal of transgenes. The established protocols for tissue culture remain a major hurdle to producing genome-edited plants. The review also outlines several methods that can be used to bypass this laborious tissue culture step, using the recalcitrant crop sugar beet (Beta vulgaris L.) (~30% of global sugar production), as a case study to classify each strategy as either already demonstrated in this species or still only proposed by analogy to model- and staple-crop work. In this review, we emphasize how these new plant breeding technologies - and their successful applications in model species- serve as a comparative blueprint to speed up the development of climate-smart sugar beet varieties.",
+    "keywords": [
+      "Beta vulgaris",
+      "CRISPR/Cas",
+      "genome writing",
+      "new plant breeding technologies",
+      "sugar beet",
+      "tissue culture recalcitrance",
+      "transgene-free genome editing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kachiyeva, Zulfiya",
+        "Nazik, Noman",
+        "Shahid, Muniba",
+        "Ashraf, Rabiah",
+        "Ul Hassan, Jawad",
+        "Khan, Arshia Amin",
+        "Khan, Muhammad Huzefa",
+        "Mushtaq, Huma",
+        "Saeed, Faisal",
+        "Arif, Usman",
+        "Karimov, Nurlybek",
+        "Karimov, Aibek",
+        "Gritsenko, Dilyara",
+        "Bakhsh, Allah"
+      ],
+      "short_names": [
+        "Kachiyeva Z",
+        "Nazik N",
+        "Shahid M",
+        "Ashraf R",
+        "Ul Hassan J",
+        "Khan AA",
+        "Khan MH",
+        "Mushtaq H",
+        "Saeed F",
+        "Arif U",
+        "Karimov N",
+        "Karimov A",
+        "Gritsenko D",
+        "Bakhsh A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Asfendiyarov Kazakh National Medical University, Almaty, Kazakhstan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan.",
+        "Laboratory of Molecular Biology, Institute of Plant Biology and Biotechnology, Almaty, Kazakhstan.",
+        "Nazarbayev University, Astana, Kazakhstan.",
+        "Laboratory of Molecular Biology, Institute of Plant Biology and Biotechnology, Almaty, Kazakhstan.",
+        "Research Center AgriBioTech, Almaty, Kazakhstan.",
+        "Department of Molecular Biology and Genetics, Al Farabi Kazakh National University, Almaty, Kazakhstan.",
+        "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kachiyeva, Zulfiya",
+        "short_name": "Kachiyeva Z",
+        "identifiers": [],
+        "affiliations": [
+          "Asfendiyarov Kazakh National Medical University, Almaty, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Nazik, Noman",
+        "short_name": "Nazik N",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Shahid, Muniba",
+        "short_name": "Shahid M",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Ashraf, Rabiah",
+        "short_name": "Ashraf R",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Ul Hassan, Jawad",
+        "short_name": "Ul Hassan J",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Khan, Arshia Amin",
+        "short_name": "Khan AA",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Khan, Muhammad Huzefa",
+        "short_name": "Khan MH",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Mushtaq, Huma",
+        "short_name": "Mushtaq H",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Saeed, Faisal",
+        "short_name": "Saeed F",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Arif, Usman",
+        "short_name": "Arif U",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Karimov, Nurlybek",
+        "short_name": "Karimov N",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Biology, Institute of Plant Biology and Biotechnology, Almaty, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Karimov, Aibek",
+        "short_name": "Karimov A",
+        "identifiers": [],
+        "affiliations": [
+          "Nazarbayev University, Astana, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Gritsenko, Dilyara",
+        "short_name": "Gritsenko D",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Biology, Institute of Plant Biology and Biotechnology, Almaty, Kazakhstan.",
+          "Research Center AgriBioTech, Almaty, Kazakhstan.",
+          "Department of Molecular Biology and Genetics, Al Farabi Kazakh National University, Almaty, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Bakhsh, Allah",
+        "short_name": "Bakhsh A",
+        "identifiers": [],
+        "affiliations": [
+          "Seed Biotech Lab, Centre of Excellence in Molecular Biology (CEMB), University of the Punjab, Lahore, Punjab, Pakistan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-12 19:10:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42835755",
+      "35910205",
+      "34070430",
+      "35460444",
+      "37545761",
+      "42713468",
+      "40632351",
+      "30809237",
+      "38403466",
+      "41740122",
+      "31541446",
+      "34977860",
+      "34367194",
+      "42328080",
+      "36562862",
+      "26930114",
+      "39479297",
+      "30835493",
+      "34713214",
+      "32276445",
+      "40918304",
+      "36235491",
+      "33825100",
+      "33742256",
+      "33977326",
+      "27499678",
+      "36812799",
+      "31430902",
+      "38281301",
+      "35647578",
+      "40612601",
+      "34288688",
+      "33842017",
+      "40171546",
+      "28762506",
+      "36993865",
+      "40216127",
+      "37666372",
+      "40986203",
+      "36685816",
+      "42126266",
+      "41064763",
+      "42405245",
+      "37521915",
+      "41751548",
+      "41649714",
+      "42053928",
+      "41533202",
+      "39094478",
+      "41546796",
+      "42739482",
+      "41688767",
+      "29868073",
+      "34114124",
+      "35732256",
+      "34769204",
+      "40450609",
+      "36429019",
+      "33755137",
+      "34122485",
+      "34327324",
+      "35457271",
+      "34073848",
+      "39963359",
+      "42500480",
+      "33872932",
+      "41113176",
+      "33471328",
+      "41081913",
+      "42469498",
+      "35677236",
+      "42213265",
+      "41907732",
+      "35371164",
+      "37239967",
+      "40794116",
+      "38331711",
+      "35325415",
+      "41813543",
+      "33657682",
+      "38494539",
+      "35448780",
+      "36174801",
+      "39376239",
+      "36589095",
+      "32516948",
+      "30501614",
+      "39637703",
+      "35698891",
+      "34204760",
+      "24352233",
+      "38860212",
+      "33475781",
+      "37569295",
+      "32122300",
+      "41828461",
+      "36751129",
+      "34889892",
+      "36305007",
+      "42402524"
+    ],
+    "review": [
+      "42835755",
+      "35910205",
+      "34070430",
+      "35460444",
+      "37545761",
+      "42713468",
+      "40632351",
+      "30809237",
+      "38403466",
+      "41740122",
+      "34977860",
+      "34367194",
+      "42328080",
+      "36562862",
+      "39479297",
+      "30835493",
+      "34713214",
+      "32276445",
+      "40918304",
+      "36235491",
+      "33825100",
+      "33742256",
+      "33977326",
+      "31430902",
+      "38281301",
+      "35647578",
+      "40612601",
+      "34288688",
+      "33842017",
+      "40171546",
+      "28762506",
+      "36993865",
+      "40216127",
+      "37666372",
+      "40986203",
+      "36685816",
+      "42126266",
+      "41064763",
+      "42405245",
+      "37521915",
+      "41751548",
+      "41649714",
+      "42053928",
+      "41533202",
+      "39094478",
+      "41546796",
+      "42739482",
+      "41688767",
+      "29868073",
+      "34114124",
+      "35732256",
+      "34769204",
+      "40450609",
+      "36429019",
+      "33755137",
+      "34122485",
+      "34327324",
+      "35457271",
+      "34073848",
+      "39963359",
+      "42500480",
+      "33872932",
+      "41113176",
+      "41081913",
+      "42469498",
+      "35677236",
+      "42213265",
+      "41907732",
+      "35371164",
+      "37239967",
+      "40794116",
+      "38331711",
+      "41813543",
+      "33657682",
+      "38494539",
+      "35448780",
+      "36174801",
+      "39376239",
+      "36589095",
+      "32516948",
+      "30501614",
+      "39637703",
+      "35698891",
+      "34204760",
+      "38860212",
+      "33475781",
+      "37569295",
+      "41828461",
+      "34889892",
+      "36305007",
+      "42402524"
+    ],
+    "pmc": [
+      "13637572"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1900057",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

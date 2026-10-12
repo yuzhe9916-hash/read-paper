@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42851763",
+    "doi": "10.3389/fmicb.2026.1950209",
+    "title": "Regulatory time-kill sequencing maps antibiotic-specific transcriptional control of Escherichia coli persistence at genome scale."
+  },
+  "content": {
+    "abstract": "Bacterial persistence enables a phenotypically tolerant subpopulation to survive lethal antibiotic exposure, contributing to the recalcitrance of chronic infections and facilitating the evolution of heritable resistance. Despite its importance, a systems-level, quantitative understanding of how transcriptional regulation shapes persistence kinetics has remained limited, largely because conventional time-kill assays are inherently low-throughput. Here, we develop Regulatory Time-Kill Sequencing (RTK-seq), a high-throughput functional genomics strategy that combines a pooled CRISPR interference (CRISPRi) library targeting transcription factors with time-resolved antibiotic selection and deep barcode sequencing. RTK-seq simultaneously resolves multiphasic killing trajectories for 174 Escherichia coli transcriptional regulators over five orders of magnitude in survival. The resulting profiles recapture known persistence pathways and identify previously unrecognized regulators, including rcsA, narP, and csgD, that modulate distinct phases of antibiotic killing. Additionally, applying RTK-seq across multiple antibiotic classes reveals a highly condition-dependent regulatory landscape, demonstrating that persistence is governed not by a single universal program but by drug-specific metabolic and stress responses. Overall, RTK-seq offers a scalable, versatile strategy for quantitatively mapping microbial survival networks and identifies targets for anti-persister therapies.",
+    "keywords": [
+      "antibiotic persistence",
+      "antibiotic response",
+      "highthroughput analysis",
+      "systems biology",
+      "time kill assay and antibacterial activity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Filko, Alden",
+        "Han, Yichao",
+        "Zhang, Fuzhong"
+      ],
+      "short_names": [
+        "Filko A",
+        "Han Y",
+        "Zhang F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Energy, Environmental and Chemical Engineering, Washington University in St. Louis, Saint Louis, MO, United States.",
+        "Department of Energy, Environmental and Chemical Engineering, Washington University in St. Louis, Saint Louis, MO, United States.",
+        "Energy and Environment Directorate, Pacific Northwest National Laboratory, Richland, WA, United States.",
+        "Department of Energy, Environmental and Chemical Engineering, Washington University in St. Louis, Saint Louis, MO, United States.",
+        "Division of Biological and Biomedical Sciences, Washington University in St. Louis, Saint Louis, MO, United States.",
+        "Institute of Materials Science and Engineering, Washington University in St. Louis, Saint Louis, MO, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Filko, Alden",
+        "short_name": "Filko A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Energy, Environmental and Chemical Engineering, Washington University in St. Louis, Saint Louis, MO, United States."
+        ]
+      },
+      {
+        "full_name": "Han, Yichao",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Energy, Environmental and Chemical Engineering, Washington University in St. Louis, Saint Louis, MO, United States.",
+          "Energy and Environment Directorate, Pacific Northwest National Laboratory, Richland, WA, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fuzhong",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Energy, Environmental and Chemical Engineering, Washington University in St. Louis, Saint Louis, MO, United States.",
+          "Division of Biological and Biomedical Sciences, Washington University in St. Louis, Saint Louis, MO, United States.",
+          "Institute of Materials Science and Engineering, Washington University in St. Louis, Saint Louis, MO, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-12 19:10:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42851763",
+      "42475469",
+      "40772932",
+      "31964772",
+      "41805196",
+      "37851522",
+      "41924475",
+      "35196813",
+      "41826830",
+      "34281389",
+      "37090677",
+      "35575513",
+      "39470288",
+      "41283681",
+      "40352728",
+      "31530676",
+      "32567419",
+      "42353650",
+      "29233898",
+      "37717013",
+      "40586599",
+      "38837392",
+      "32047133",
+      "36374111",
+      "27495169",
+      "37140371",
+      "33085409",
+      "37036204",
+      "34634934",
+      "41944855",
+      "40742148",
+      "41504461",
+      "42505654",
+      "35584008",
+      "42861954",
+      "25852159",
+      "41756826",
+      "29895634",
+      "18519731",
+      "26771672",
+      "36475972",
+      "29941425",
+      "38995832",
+      "42080572",
+      "33731833",
+      "42810556",
+      "42454920",
+      "39436131",
+      "41711434",
+      "34355746",
+      "41801512",
+      "42483960",
+      "40162755",
+      "33234689",
+      "34787446",
+      "38501869",
+      "41471222",
+      "29946130",
+      "42478686",
+      "34982597",
+      "29319470",
+      "42474335",
+      "36102512",
+      "24449771",
+      "38691440",
+      "40832210",
+      "29089428",
+      "35089067",
+      "39932309",
+      "42197460",
+      "29317513",
+      "32423531",
+      "37306609",
+      "32943007",
+      "29857815",
+      "36321557",
+      "33871643",
+      "34126764",
+      "41518494",
+      "41120967",
+      "40622217",
+      "37395716",
+      "36651776",
+      "41439415",
+      "42006143",
+      "42059390",
+      "35688146",
+      "40120434",
+      "39506104",
+      "29066548",
+      "38691424",
+      "34154405",
+      "40787984",
+      "34590249",
+      "33622723",
+      "34431696",
+      "32640993",
+      "38814092",
+      "34591012",
+      "42545010"
+    ],
+    "review": [
+      "42851763",
+      "32567419",
+      "42353650",
+      "42505654",
+      "42810556",
+      "34355746",
+      "41471222",
+      "42197460",
+      "29857815",
+      "36321557",
+      "41120967"
+    ],
+    "pmc": [
+      "13646166"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fmicb.2026.1950209",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

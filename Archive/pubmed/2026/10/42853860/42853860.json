@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42853860",
+    "doi": "10.1371/journal.pone.0354937",
+    "title": "Passenger co-deletion confounds glutaminolysis signatures anchored on PTEN loss: A cautionary case for location-aware signature design."
+  },
+  "content": {
+    "abstract": "PTEN-deficient tumors are widely assumed to be glutamine-dependent, a view that has helped motivate the clinical development of glutaminase inhibitors. Whether glutaminolytic transcription scales with PTEN copy-number loss in human tumors, and by what mechanism, has not been established. We classified TCGA PanCancer Atlas tumors by GISTIC copy number as PTEN intact, hemizygous, or homozygous deletion, and scored a five-gene glutaminolysis signature (GLS, SLC1A5, GOT1, GLUD1, GPT2) against loss severity across fourteen tumor types, testing MYC mediation and chromosome-10 co-deletion as alternative mechanisms, with GLS dependence assessed in DepMap CRISPR data. The signature decreased with PTEN loss in all fourteen types, significantly in twelve, but was not MYC-mediated. The decline tracked chromosomal position rather than pathway membership: GLUD1 and GOT1 flank PTEN on 10q, and thirty-seven neighboring genes carrying no glutaminolysis annotation tracked PTEN copy number just as closely (mean rho 0.843 compared with 0.842), with co-deletion fidelity falling monotonically with distance from PTEN (rho = -0.993). Adjustment for genome-wide aneuploidy left the association intact, whereas conditioning on each gene's own copy number abolished it for the chromosome-10 genes and left the others unchanged. In a natural experiment contrasting PTEN point-mutant, copy-neutral tumors with copy-neutral wild-type tumors, GLUD1 was lower in the mutant group when all cohorts were pooled (P = 1.0 x 10;-8), an effect attributable to endometrial carcinoma, the one lineage in which mutation alone lowered GLUD1; excluding that lineage in a post hoc sensitivity analysis left no detectable difference (P = 0.22, equivalence P = 0.015), whereas hemizygous and homozygous deletion lowered GLUD1 dose-dependently in every analysis. GLS dependence did not differ across dosage tiers. Prostate carcinoma was the sole departure in the negative direction, its off-chromosome-10 decline surviving adjustment for tumor purity, stage, ERG status and proliferation, opposite in direction to the signaling prediction; breast and stomach showed small positive associations. The inverse PTEN-glutaminolysis relationship in this transcript signature is therefore explained predominantly by passenger co-deletion rather than by a PTEN-linked metabolic program, making PTEN copy number unreliable as a stand-alone glutaminolysis biomarker and illustrating a general hazard: any signature scored against a frequently co-deleted locus can be confounded by where its genes sit. We provide a four-step screening procedure: decompose the signature by chromosomal position relative to the driver; test each constituent gene's own copy number against the driver's; compare driver-mutant copy-neutral tumors with copy-neutral wild-type tumors; and check the inferred pathway activity against an independent functional readout.",
+    "keywords": [],
+    "mesh_terms": [
+      "*PTEN Phosphohydrolase/genetics/metabolism/deficiency",
+      "Humans",
+      "*Glutamine/metabolism",
+      "*Gene Deletion",
+      "*Neoplasms/genetics/metabolism",
+      "DNA Copy Number Variations",
+      "Glutaminase/metabolism/genetics",
+      "Gene Dosage"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Abusneina, Abdelmuhsen M",
+        "Elwirfli, Soad M"
+      ],
+      "short_names": [
+        "Abusneina AM",
+        "Elwirfli SM"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9909-5588",
+        "ORCID: 0009-0004-5103-0290"
+      ],
+      "affiliations": [
+        "Department of Molecular Diagnostics, Faculty of Biomedical Sciences, University of Benghazi, Benghazi, Libya.",
+        "Department of Forensic Sciences, Faculty of Biomedical Sciences, University of Benghazi, Benghazi, Libya."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Abusneina, Abdelmuhsen M",
+        "short_name": "Abusneina AM",
+        "identifiers": [
+          "0000-0001-9909-5588"
+        ],
+        "affiliations": [
+          "Department of Molecular Diagnostics, Faculty of Biomedical Sciences, University of Benghazi, Benghazi, Libya."
+        ]
+      },
+      {
+        "full_name": "Elwirfli, Soad M",
+        "short_name": "Elwirfli SM",
+        "identifiers": [
+          "0009-0004-5103-0290"
+        ],
+        "affiliations": [
+          "Department of Forensic Sciences, Faculty of Biomedical Sciences, University of Benghazi, Benghazi, Libya."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 17:34",
+    "fetched_at": "2026-10-12 19:09:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853860",
+      "27174589",
+      "30430607",
+      "36321557",
+      "30993692",
+      "29308088",
+      "19597465",
+      "36977733",
+      "18664255",
+      "11585417",
+      "41761580",
+      "37267683",
+      "22705054",
+      "20062086",
+      "19402094",
+      "23171135",
+      "19602687",
+      "9671402",
+      "30228821",
+      "22281794",
+      "41129317",
+      "27391266",
+      "25425963",
+      "23545904",
+      "25939393",
+      "27500376",
+      "32115152",
+      "17452630",
+      "30140035",
+      "27576528",
+      "23319441",
+      "18704985",
+      "29996881",
+      "30291535",
+      "10862052",
+      "29471114",
+      "22982652",
+      "34975329",
+      "20930614",
+      "22240798",
+      "39497133",
+      "42475469",
+      "21602918",
+      "9426052",
+      "24510842",
+      "26141385",
+      "37851522",
+      "24098661",
+      "26781438",
+      "25986931",
+      "42794743",
+      "26088875",
+      "26554830",
+      "27738792",
+      "19351834",
+      "29631562",
+      "25330770",
+      "26009879",
+      "35251475",
+      "25829425",
+      "23628818",
+      "36409067",
+      "25907958",
+      "26202067",
+      "14732919",
+      "23599155",
+      "10628321",
+      "20799942",
+      "11291079",
+      "28323888",
+      "25353038",
+      "42193012",
+      "25989274",
+      "25003235",
+      "31914691",
+      "27880722",
+      "32180557",
+      "32015092",
+      "23242174",
+      "34335968",
+      "33813424",
+      "40925285",
+      "24737887",
+      "29050534",
+      "11395387",
+      "24154570",
+      "18683321",
+      "25955013",
+      "26341080",
+      "42201046",
+      "29844131",
+      "39695741",
+      "24141775",
+      "19407851",
+      "30704524",
+      "11021816",
+      "42742886",
+      "32252688",
+      "34311724",
+      "21685943"
+    ],
+    "review": [
+      "42853860",
+      "36321557"
+    ],
+    "pmc": [
+      "13652231"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0354937",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PTEN-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3785",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

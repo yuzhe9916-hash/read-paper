@@ -1,0 +1,434 @@
+{
+  "identity": {
+    "pmid": "42835630",
+    "doi": "10.1016/j.bneo.2026.100281",
+    "title": "IMiD/CELMoD resistance in myeloma is associated with changes in lipid metabolism that may be targetable."
+  },
+  "content": {
+    "abstract": "Immunomodulatory drugs (IMiDs) are a cornerstone of multiple myeloma treatment, and newer cereblon E3 ligase modulatory drugs (CELMoDs) are in clinical trials. However, a major barrier to improving patient outcomes is the inevitable development of resistance to these agents. To explore the mechanisms underlying IMiD/CELMoD resistance and identify novel targets for treatment, human cell line models of acquired IMiD/CELMoD resistance were generated. A quantitative proteome analysis of these models identified common changes in lipid synthesis proteins, and glucose-labeling experiments confirmed altered lipid flux. Proteomic analysis of paired patient samples at diagnosis and relapse on IMiD suggested similar changes in lipid pathways. A genome-wide CRISPR screen performed in a human multiple myeloma cell line with acquired CELMoD resistance identified dependencies in the lipid pathway genes stearoyl-CoA desaturase and membrane-bound transcription factor peptidase, site 1. This study has led to novel insights into lipid pathway changes in the IMiD/CELMoD-resistant state, which may represent targetable cancer cell vulnerabilities.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bird, Sarah A",
+        "Licciardello, Marco P",
+        "Sukhtankar, Ananya",
+        "Morales, Salomon",
+        "Sialana, Fernando J",
+        "Xu, Yitao",
+        "Wilson, Amy",
+        "Che, Harvey",
+        "Ramagiri, Pradeep",
+        "Chrisochoidou, Yakinthi",
+        "Li, Yigen",
+        "Martin, Shannon",
+        "Liu, Enze",
+        "Walker, Brian",
+        "Choudhary, Jyoti",
+        "Jackson, Graham",
+        "Kaiser, Martin",
+        "Bouguenina, Habib",
+        "Clarke, Paul A",
+        "Keun, Hector",
+        "Pawlyn, Charlotte"
+      ],
+      "short_names": [
+        "Bird SA",
+        "Licciardello MP",
+        "Sukhtankar A",
+        "Morales S",
+        "Sialana FJ",
+        "Xu Y",
+        "Wilson A",
+        "Che H",
+        "Ramagiri P",
+        "Chrisochoidou Y",
+        "Li Y",
+        "Martin S",
+        "Liu E",
+        "Walker B",
+        "Choudhary J",
+        "Jackson G",
+        "Kaiser M",
+        "Bouguenina H",
+        "Clarke PA",
+        "Keun H",
+        "Pawlyn C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Royal Marsden NHS Foundation Trust, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "Imperial College London, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "Sylvester Comprehensive Cancer Center, University of Miami Health System, Miami, FL.",
+        "Sylvester Comprehensive Cancer Center, University of Miami Health System, Miami, FL.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "Northern Institute for Cancer Research, Newcastle University, Newcastle, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Royal Marsden NHS Foundation Trust, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "Imperial College London, London, United Kingdom.",
+        "The Institute of Cancer Research, London, United Kingdom.",
+        "The Royal Marsden NHS Foundation Trust, London, United Kingdom."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bird, Sarah A",
+        "short_name": "Bird SA",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom.",
+          "The Royal Marsden NHS Foundation Trust, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Licciardello, Marco P",
+        "short_name": "Licciardello MP",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Sukhtankar, Ananya",
+        "short_name": "Sukhtankar A",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Morales, Salomon",
+        "short_name": "Morales S",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Sialana, Fernando J",
+        "short_name": "Sialana FJ",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Xu, Yitao",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Imperial College London, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Wilson, Amy",
+        "short_name": "Wilson A",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Che, Harvey",
+        "short_name": "Che H",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Ramagiri, Pradeep",
+        "short_name": "Ramagiri P",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Chrisochoidou, Yakinthi",
+        "short_name": "Chrisochoidou Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Li, Yigen",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Martin, Shannon",
+        "short_name": "Martin S",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Liu, Enze",
+        "short_name": "Liu E",
+        "identifiers": [],
+        "affiliations": [
+          "Sylvester Comprehensive Cancer Center, University of Miami Health System, Miami, FL."
+        ]
+      },
+      {
+        "full_name": "Walker, Brian",
+        "short_name": "Walker B",
+        "identifiers": [],
+        "affiliations": [
+          "Sylvester Comprehensive Cancer Center, University of Miami Health System, Miami, FL."
+        ]
+      },
+      {
+        "full_name": "Choudhary, Jyoti",
+        "short_name": "Choudhary J",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Jackson, Graham",
+        "short_name": "Jackson G",
+        "identifiers": [],
+        "affiliations": [
+          "Northern Institute for Cancer Research, Newcastle University, Newcastle, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Kaiser, Martin",
+        "short_name": "Kaiser M",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom.",
+          "The Royal Marsden NHS Foundation Trust, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Bouguenina, Habib",
+        "short_name": "Bouguenina H",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Clarke, Paul A",
+        "short_name": "Clarke PA",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Keun, Hector",
+        "short_name": "Keun H",
+        "identifiers": [],
+        "affiliations": [
+          "Imperial College London, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Pawlyn, Charlotte",
+        "short_name": "Pawlyn C",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Cancer Research, London, United Kingdom.",
+          "The Royal Marsden NHS Foundation Trust, London, United Kingdom."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Blood neoplasia"
+    ],
+    "journal_abbrev": [
+      "Blood Neoplasia"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-12 19:11:25"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42835630",
+      "41676914",
+      "35853156",
+      "36439455",
+      "42165697",
+      "39841463",
+      "41279046",
+      "29130642",
+      "39050883",
+      "40753727",
+      "42154229",
+      "41423250",
+      "36342226",
+      "27142104",
+      "34583995",
+      "39054911",
+      "36929172",
+      "34572892",
+      "35646666",
+      "34316334",
+      "34090534",
+      "35197447",
+      "36121114",
+      "38344143",
+      "40864972",
+      "34834536",
+      "38927128",
+      "38473381",
+      "33879556",
+      "33109736",
+      "28863804",
+      "37934799",
+      "33443552",
+      "41651798",
+      "33498476",
+      "38723281",
+      "38539501",
+      "39569422",
+      "42721415",
+      "39600540",
+      "26117057",
+      "39218923",
+      "42087187",
+      "30694856",
+      "32219443",
+      "34115836",
+      "40123976",
+      "40122131",
+      "29348877",
+      "35264575",
+      "38975872",
+      "22966948",
+      "30975979",
+      "42809693",
+      "35222546",
+      "28024514",
+      "29870139",
+      "25102946",
+      "36880649",
+      "40346992",
+      "30026574",
+      "40612717",
+      "36139651",
+      "29954751",
+      "42637534",
+      "34936696",
+      "40817326",
+      "34432250",
+      "36765919",
+      "32955182",
+      "37238617",
+      "39652772",
+      "32512378",
+      "27478739",
+      "32130004",
+      "36701892",
+      "41477328",
+      "38004369",
+      "22417809",
+      "24206017",
+      "40901494",
+      "33186626",
+      "38302306",
+      "37767768",
+      "27460676",
+      "30809292",
+      "41639146",
+      "23690693",
+      "26657848",
+      "24914135",
+      "21389327",
+      "34088671",
+      "32126144",
+      "26324059",
+      "42838937",
+      "39136771",
+      "28201976",
+      "37463241",
+      "24118365",
+      "34336672"
+    ],
+    "review": [
+      "42835630",
+      "36439455",
+      "42165697",
+      "39050883",
+      "42154229",
+      "36342226",
+      "39054911",
+      "36929172",
+      "34572892",
+      "34090534",
+      "34834536",
+      "38473381",
+      "41651798",
+      "38539501",
+      "39569422",
+      "42721415",
+      "30694856",
+      "40122131",
+      "22966948",
+      "42809693",
+      "36139651",
+      "40817326",
+      "36765919",
+      "32955182",
+      "37238617",
+      "38004369",
+      "40901494",
+      "38302306",
+      "27460676",
+      "28201976"
+    ],
+    "pmc": [
+      "13635510"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2950-3280(26)00092-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
