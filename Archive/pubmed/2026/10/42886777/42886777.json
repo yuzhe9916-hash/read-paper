@@ -1,0 +1,348 @@
+{
+  "identity": {
+    "pmid": "42886777",
+    "doi": "10.1126/sciadv.aea3388",
+    "title": "Chemogenetic ubiquitin E1 inhibitor TAK-243 CRISPR screen uncovers HAPSTR1/HUWE1 axis in chromatin proteostasis and cell cycle control."
+  },
+  "content": {
+    "abstract": "In this study, we sought to comprehensively map ubiquitin signaling networks at the crossroads of cellular proliferation and proteostasis, both crucial in cancer. Genome-wide CRISPR knockout screening in the presence of the ubiquitin E1 inhibitor TAK-243 identified 239 genes whose ablation sensitizes cells to ubiquitination blockade. Follow-up studies reveal a role for the nuclear protein, C16orf72/HECT, UBA, and WWE domain containing E3 ubiquitin protein ligase 1 (HUWE1)-Associated Protein modifying Stress Responses (HAPSTR1), in chromatin proteostasis and DNA replication. We show that HAPSTR1 recruits the E3 ligase HUWE1 to the chromatin, keeping the chromatin-associated proteome in check, and is itself turned over by HUWE1 during cell cycle progression. Structural modeling of the HAPSTR1/HUWE1 complex, supported by mutational analysis, demonstrates that loss of HUWE1 binding renders HAPSTR1 unable to support cellular proliferation when ubiquitin signaling is suppressed. Consequently, HAPSTR1 ablation impairs clearance of chromatin-associated proteins, triggering global transcriptional and proteostatic adaptations. Under diminished ubiquitin signaling, these adaptive mechanisms give way to replication stress and premature S phase entry, culminating in cell cycle collapse and DNA damage. Our findings uncover protein networks exhibiting synthetic lethality with ubiquitin signaling blockade and highlight vulnerabilities of actively proliferating cells to proteostatic imbalance at the chromatin.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Ubiquitin-Protein Ligases/metabolism/genetics/chemistry",
+      "*Chromatin/metabolism/genetics",
+      "*Proteostasis/drug effects/genetics",
+      "*Cell Cycle Checkpoints/drug effects/genetics",
+      "*CRISPR-Cas Systems",
+      "Signal Transduction/drug effects",
+      "DNA Replication",
+      "Ubiquitination/drug effects",
+      "Cell Proliferation/drug effects",
+      "Tumor Suppressor Proteins",
+      "Pyrazoles",
+      "Pyrimidines",
+      "Sulfonamides",
+      "Sulfides"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "van Overbeek, Nila K",
+        "Clijsters, Linda",
+        "Wirth, Martina",
+        "de Graaf, Ilona J",
+        "de Lint, Klaas",
+        "Uruci, Sidrit",
+        "Teunisse, Amina F A S",
+        "Akimov, Vyacheslav",
+        "de Ru, Arnoud H",
+        "Vukic, Maja",
+        "Kirdok, Idil",
+        "Daxinger, Lucia",
+        "van Veelen, Peter A",
+        "Blagoev, Blagoy",
+        "Luijsterburg, Martijn S",
+        "Wolthuis, Rob M F",
+        "Berlin, Ilana",
+        "Vertegaal, Alfred C O"
+      ],
+      "short_names": [
+        "van Overbeek NK",
+        "Clijsters L",
+        "Wirth M",
+        "de Graaf IJ",
+        "de Lint K",
+        "Uruci S",
+        "Teunisse AFAS",
+        "Akimov V",
+        "de Ru AH",
+        "Vukic M",
+        "Kirdok I",
+        "Daxinger L",
+        "van Veelen PA",
+        "Blagoev B",
+        "Luijsterburg MS",
+        "Wolthuis RMF",
+        "Berlin I",
+        "Vertegaal ACO"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0431-3595",
+        "ORCID: 0000-0002-3118-9702",
+        "ORCID: 0000-0002-3210-8644",
+        "ORCID: 0000-0003-4957-2424",
+        "ORCID: 0000-0001-7134-444X",
+        "ORCID: 0000-0003-3248-7960",
+        "ORCID: 0000-0002-8377-1761",
+        "ORCID: 0009-0002-1166-4059",
+        "ORCID: 0000-0002-7555-7706",
+        "ORCID: 0000-0002-6325-9218",
+        "ORCID: 0000-0001-6557-6201",
+        "ORCID: 0000-0002-7898-9408",
+        "ORCID: 0000-0002-3596-0066",
+        "ORCID: 0000-0001-5796-6541",
+        "ORCID: 0000-0002-3109-1588",
+        "ORCID: 0000-0001-7917-1475",
+        "ORCID: 0000-0002-7989-0493"
+      ],
+      "affiliations": [
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Human Genetics, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+        "Cancer Center Amsterdam, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.",
+        "Center for Proteomics and Metabolomics, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Human Genetics, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+        "Cancer Center Amsterdam, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands.",
+        "Center for Proteomics and Metabolomics, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Human Genetics, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+        "Cancer Center Amsterdam, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands.",
+        "Oncode Institute, Leiden University Medical Center, Leiden, Netherlands.",
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "van Overbeek, Nila K",
+        "short_name": "van Overbeek NK",
+        "identifiers": [
+          "0000-0002-0431-3595"
+        ],
+        "affiliations": [
+          "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Clijsters, Linda",
+        "short_name": "Clijsters L",
+        "identifiers": [
+          "0000-0002-3118-9702"
+        ],
+        "affiliations": [
+          "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Wirth, Martina",
+        "short_name": "Wirth M",
+        "identifiers": [
+          "0000-0002-3210-8644"
+        ],
+        "affiliations": [
+          "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "de Graaf, Ilona J",
+        "short_name": "de Graaf IJ",
+        "identifiers": [
+          "0000-0003-4957-2424"
+        ],
+        "affiliations": [
+          "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "de Lint, Klaas",
+        "short_name": "de Lint K",
+        "identifiers": [
+          "0000-0001-7134-444X"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+          "Cancer Center Amsterdam, Amsterdam University Medical Center, Amsterdam, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Uruci, Sidrit",
+        "short_name": "Uruci S",
+        "identifiers": [
+          "0000-0003-3248-7960"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Teunisse, Amina F A S",
+        "short_name": "Teunisse AFAS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Akimov, Vyacheslav",
+        "short_name": "Akimov V",
+        "identifiers": [
+          "0000-0002-8377-1761"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark."
+        ]
+      },
+      {
+        "full_name": "de Ru, Arnoud H",
+        "short_name": "de Ru AH",
+        "identifiers": [
+          "0009-0002-1166-4059"
+        ],
+        "affiliations": [
+          "Center for Proteomics and Metabolomics, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Vukic, Maja",
+        "short_name": "Vukic M",
+        "identifiers": [
+          "0000-0002-7555-7706"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kirdök, Idil",
+        "short_name": "Kirdök I",
+        "identifiers": [
+          "0000-0002-6325-9218"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+          "Cancer Center Amsterdam, Amsterdam University Medical Center, Amsterdam, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Daxinger, Lucia",
+        "short_name": "Daxinger L",
+        "identifiers": [
+          "0000-0001-6557-6201"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "van Veelen, Peter A",
+        "short_name": "van Veelen PA",
+        "identifiers": [
+          "0000-0002-7898-9408"
+        ],
+        "affiliations": [
+          "Center for Proteomics and Metabolomics, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Blagoev, Blagoy",
+        "short_name": "Blagoev B",
+        "identifiers": [
+          "0000-0002-3596-0066"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark."
+        ]
+      },
+      {
+        "full_name": "Luijsterburg, Martijn S",
+        "short_name": "Luijsterburg MS",
+        "identifiers": [
+          "0000-0001-5796-6541"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Wolthuis, Rob M F",
+        "short_name": "Wolthuis RMF",
+        "identifiers": [
+          "0000-0002-3109-1588"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, Amsterdam University Medical Center, Amsterdam, Netherlands.",
+          "Cancer Center Amsterdam, Amsterdam University Medical Center, Amsterdam, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Berlin, Ilana",
+        "short_name": "Berlin I",
+        "identifiers": [
+          "0000-0001-7917-1475"
+        ],
+        "affiliations": [
+          "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands.",
+          "Oncode Institute, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Vertegaal, Alfred C O",
+        "short_name": "Vertegaal ACO",
+        "identifiers": [
+          "0000-0002-7989-0493"
+        ],
+        "affiliations": [
+          "Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:05",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886777"
+    ],
+    "review": [
+      "42886777"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aea3388?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1602",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

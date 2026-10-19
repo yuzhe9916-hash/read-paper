@@ -1,0 +1,288 @@
+{
+  "identity": {
+    "pmid": "42888446",
+    "doi": "10.1111/bph.70681",
+    "title": "CRISPR screens identify ACSL4 as a key regulator in macrophage activation and metabolic inflammation."
+  },
+  "content": {
+    "abstract": "BACKGROUND AND PURPOSE: Pro-inflammatory macrophages drive obesity-associated metabolic inflammation. Identifying key regulators of their activation is crucial for new therapies. This study aimed to identify novel regulators of pro-inflammatory adipose tissue macrophage (ATM) activation and assess their therapeutic potential. EXPERIMENTAL APPROACH: We combined genome-wide CRISPR-Cas9 screening with scRNA-seq data from human adipose tissue and identified long-chain acyl-CoA synthetase 4 (ACSL4) as critical for pro-inflammatory ATM activation. Validation used myeloid-specific Acsl4 knockout mice (Acsl4(fl/fl) Lyz2(Cre)) and shRNA-mediated knockdown in macrophage cell lines (RAW264.7, THP-1, and iBMDM). Mechanisms were explored via mutagenesis, immunostaining, co-immunoprecipitation (co-IP), bimolecular fluorescence complementation (BiFC), and transcriptional activity assays. A high-throughput screen of 8,685 DrugBank compounds was performed to identify candidates targeting ACSL4. KEY RESULTS: ACSL4 deficiency markedly reduced pro-inflammatory factor expression (Tnfalpha, Il1beta, and Il6). Myeloid ACSL4 deletion protected against high-fat diet (HFD)-induced obesity, correlated with reduced pro-inflammatory ATMs and enhanced adipocyte lipolysis and thermogenesis, without affecting food intake, water intake, or locomotor activity in mice. However, glucose tolerance and insulin sensitivity were not significantly affected. Mechanistically, ACSL4 contributed to inflammation independent of its enzymatic/ferroptotic functions (Thr328 mutation, troglitazone insensitivity). Instead, ACSL4 translocated to the nucleus in a karyopherin beta1 (KPNB1)-dependent manner. DrugBank screening identified abemaciclib as a potential inhibitor of the ACSL4-KPNB1 interaction. Notably, abemaciclib treatment reduced macrophage inflammation and attenuated HFD-induced obesity in mice. CONCLUSIONS AND IMPLICATIONS: ACSL4 promotes pro-inflammatory macrophage activation through its KPNB1-dependent nuclear translocation and cooperation with IRF5. Targeting the ACSL4-KPNB1 interaction may represent a potential therapeutic strategy for metabolic inflammation.",
+    "keywords": [
+      "ACSL4",
+      "genome-wide CRISPR-Cas9 screen",
+      "macrophage",
+      "nuclear translocation",
+      "obesity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Yanting",
+        "Jing, Dongquan",
+        "Liu, Yiming",
+        "Gao, Rui",
+        "Zhao, Qixiang",
+        "Jiang, Xingyu",
+        "Da, Huijuan",
+        "Ren, Yiming",
+        "Cao, Qiuhua",
+        "Jiang, Jingwei",
+        "Sun, Yuanyuan",
+        "Yang, Yong",
+        "Gao, Xinghua"
+      ],
+      "short_names": [
+        "Lin Y",
+        "Jing D",
+        "Liu Y",
+        "Gao R",
+        "Zhao Q",
+        "Jiang X",
+        "Da H",
+        "Ren Y",
+        "Cao Q",
+        "Jiang J",
+        "Sun Y",
+        "Yang Y",
+        "Gao X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6719-2815",
+        "ORCID: 0009-0001-2501-1633",
+        "ORCID: 0009-0008-1776-6076",
+        "ORCID: 0009-0008-8221-0277",
+        "ORCID: 0009-0000-0335-032X",
+        "ORCID: 0009-0007-6253-2191",
+        "ORCID: 0009-0004-5061-1675",
+        "ORCID: 0009-0000-9782-9074",
+        "ORCID: 0009-0004-5974-2014",
+        "ORCID: 0000-0002-9163-3633",
+        "ORCID: 0009-0002-2535-2689",
+        "ORCID: 0000-0003-1038-9470",
+        "ORCID: 0000-0003-3575-9466"
+      ],
+      "affiliations": [
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Vaccine Center, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "ShuangYun BioMed Sci and Tech (Suzhou) Co., Ltd., Suzhou, Jiangsu, China.",
+        "ShuangYun BioMed Sci and Tech (Suzhou) Co., Ltd., Suzhou, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+        "Translational Medicine Center, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, Jiangsu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Yanting",
+        "short_name": "Lin Y",
+        "identifiers": [
+          "0000-0002-6719-2815"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Jing, Dongquan",
+        "short_name": "Jing D",
+        "identifiers": [
+          "0009-0001-2501-1633"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yiming",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0009-0008-1776-6076"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Rui",
+        "short_name": "Gao R",
+        "identifiers": [
+          "0009-0008-8221-0277"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Qixiang",
+        "short_name": "Zhao Q",
+        "identifiers": [
+          "0009-0000-0335-032X"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xingyu",
+        "short_name": "Jiang X",
+        "identifiers": [
+          "0009-0007-6253-2191"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Da, Huijuan",
+        "short_name": "Da H",
+        "identifiers": [
+          "0009-0004-5061-1675"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Yiming",
+        "short_name": "Ren Y",
+        "identifiers": [
+          "0009-0000-9782-9074"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Qiuhua",
+        "short_name": "Cao Q",
+        "identifiers": [
+          "0009-0004-5974-2014"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "Vaccine Center, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Jingwei",
+        "short_name": "Jiang J",
+        "identifiers": [
+          "0000-0002-9163-3633"
+        ],
+        "affiliations": [
+          "ShuangYun BioMed Sci and Tech (Suzhou) Co., Ltd., Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yuanyuan",
+        "short_name": "Sun Y",
+        "identifiers": [
+          "0009-0002-2535-2689"
+        ],
+        "affiliations": [
+          "ShuangYun BioMed Sci and Tech (Suzhou) Co., Ltd., Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yong",
+        "short_name": "Yang Y",
+        "identifiers": [
+          "0000-0003-1038-9470"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xinghua",
+        "short_name": "Gao X",
+        "identifiers": [
+          "0000-0003-3575-9466"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, China Pharmaceutical University, Nanjing, Jiangsu, China.",
+          "Translational Medicine Center, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, Jiangsu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "British journal of pharmacology"
+    ],
+    "journal_abbrev": [
+      "Br J Pharmacol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 05:33",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42888446"
+    ],
+    "review": [
+      "42888446"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/bph.70681",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ATM-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-912",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "pmid": "42869113",
+    "doi": "10.1016/j.gene.2026.150445",
+    "title": "Single-gRNA CRISPR/eCas9-mediated simultaneous targeting of cIAP1 and cIAP2 in colorectal cancer cells: RNA-seq reveals distinct transcriptomic and apoptotic responses."
+  },
+  "content": {
+    "abstract": "Cellular inhibitor of apoptosis proteins 1 and 2 (cIAP1 and cIAP2), encoded by BIRC2 and BIRC3, respectively, are important regulators of cellular survival and apoptosis. These proteins contribute to cancer cell survival by suppressing apoptotic signaling. While individual knockouts of BIRC2 or BIRC3 in cancer cells have been investigated, the consequences of simultaneously targeting both paralogs remain poorly understood. Thus, a single-gRNA CRISPR/eCas9 strategy was developed in which one gRNA targeting a shared sequence in BIRC2 and BIRC3 was used to simultaneously disrupt both genes in human colorectal cancer HCT-116 cells, and the resulting cellular and transcriptomic effects were compared with those of the individual knockouts. Individual and dual-targeting CRISPR/eCas9 constructs were experimentally validated by immunofluorescence analysis, RT-PCR, and RT-qPCR, while fluorescence microscopy and T7EI analysis were used to evaluate single-cell-derived clones. Apoptosis was evaluated using flow cytometry, and RNA sequencing was performed for differentially expressed gene (DEG) analysis. The single-gRNA dual-targeting strategy resulted in concurrent loss of cIAP1 and cIAP2 expression and produced a stronger reduction in cell survival and induction of apoptosis than targeting either gene individually. In addition, the expression levels of TNFRSF25, TRAF2, TNFSF15, and MIR663AHG were significantly upregulated following simultaneous BIRC2/BIRC3 targeting. RNA-seq analysis provided detailed insight into the molecular alterations associated with concurrent cIAP1 and cIAP2 depletion. Overall, these findings demonstrate the technical feasibility of targeting two highly homologous genes with a single gRNA and reveal that simultaneous disruption of cIAP1 and cIAP2 produces biological effects that are more pronounced than those observed following individual targeting.",
+    "keywords": [
+      "BIRC2",
+      "BIRC3",
+      "CRISPR/eCas9",
+      "Colorectal cancer",
+      "Transcriptome",
+      "cIAP1",
+      "cIAP2"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Batir, Muhammet Burak"
+      ],
+      "short_names": [
+        "Batir MB"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biology, Faculty of Engineering and Natural Sciences, Manisa Celal Bayar University, Manisa, Turkiye. Electronic address: burak.batir@cbu.edu.tr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Batır, Muhammet Burak",
+        "short_name": "Batır MB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Faculty of Engineering and Natural Sciences, Manisa Celal Bayar University, Manisa, Türkiye. Electronic address: burak.batir@cbu.edu.tr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Gene"
+    ],
+    "journal_abbrev": [
+      "Gene"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869113"
+    ],
+    "review": [
+      "42869113"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378-1119(26)00455-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-790",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "42869027",
+    "doi": "10.1016/j.neuron.2026.09.017",
+    "title": "A cross-species AAV platform for precise microglial interrogation."
+  },
+  "content": {
+    "abstract": "Targeting microglia with adeno-associated viruses (AAVs) remains challenging because of inefficient transduction, off-target expression, and inconsistent payload performance. Here, we develop an integrated, Cre-independent AAV platform that combines a compact 446-bp microglia-specific regulatory element (MSRE), a high-yield AAV2/9.m capsid, microRNA-mediated neuronal de-targeting, and a microglia-tailored codon-optimization strategy. Following direct intracranial delivery, the optimized vector achieves robust, long-lasting transgene expression with greater than 90% microglial specificity across multiple mouse brain regions, including in an Alzheimer's disease model. With doxorubicin-assisted delivery, the platform also enables efficient and selective microglial targeting in rats, rhesus macaques, and human ex vivo brain slices. Codon optimization supports the expression of otherwise challenging functional payloads, enabling calcium imaging, chemogenetic manipulation, and CRISPR-Cas9-mediated genome editing. This cross-species toolkit provides a versatile resource for investigating microglial biology and developing microglia-directed therapeutic strategies.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "calcium imaging",
+      "capsid engineering",
+      "chemogenetics",
+      "codon optimization",
+      "gene therapy",
+      "human tissue",
+      "nonhuman primate",
+      "regulatory element",
+      "viral vector"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Fengting",
+        "Wang, Ruiyu",
+        "Di, Run",
+        "Xu, Ke",
+        "Gao, Jinquan",
+        "Shang, Huiping",
+        "Yuan, Zhengwei",
+        "Dai, Ruicheng",
+        "Wu, Wenting",
+        "Weng, Danwei",
+        "Gao, Xinwei",
+        "Li, Heng",
+        "Yu, Tao",
+        "Zhang, Yuanqing",
+        "Wang, Xiongfei",
+        "Luan, Guoming",
+        "Zhao, Fei",
+        "Luo, Minmin"
+      ],
+      "short_names": [
+        "Yu F",
+        "Wang R",
+        "Di R",
+        "Xu K",
+        "Gao J",
+        "Shang H",
+        "Yuan Z",
+        "Dai R",
+        "Wu W",
+        "Weng D",
+        "Gao X",
+        "Li H",
+        "Yu T",
+        "Zhang Y",
+        "Wang X",
+        "Luan G",
+        "Zhao F",
+        "Luo M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing 100875, China; New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Neurology & Innovation Center for Neurological Disorders, Xuanwu Hospital, Capital Medical University and National Center for Neurological Disorders, Beijing, China.",
+        "Department of Neurosurgery, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China; Department of Brain Institute, Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing Key Laboratory of Epilepsy Research, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing 100875, China; New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "Department of Neurosurgery, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China; Department of Brain Institute, Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing Key Laboratory of Epilepsy Research, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China.",
+        "Department of Neurosurgery, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China; Department of Brain Institute, Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing Key Laboratory of Epilepsy Research, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China.",
+        "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China; Research Unit of Medical Neurobiology, Chinese Academy of Medical Sciences, Beijing 100005, China. Electronic address: luominmin@cibr.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Fengting",
+        "short_name": "Yu F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing 100875, China; New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruiyu",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Di, Run",
+        "short_name": "Di R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology & Innovation Center for Neurological Disorders, Xuanwu Hospital, Capital Medical University and National Center for Neurological Disorders, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ke",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China; Department of Brain Institute, Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing Key Laboratory of Epilepsy Research, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jinquan",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Huiping",
+        "short_name": "Shang H",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Zhengwei",
+        "short_name": "Yuan Z",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Ruicheng",
+        "short_name": "Dai R",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Wenting",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Weng, Danwei",
+        "short_name": "Weng D",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xinwei",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Li, Heng",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Tao",
+        "short_name": "Yu T",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuanqing",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing 100875, China; New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiongfei",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China; Department of Brain Institute, Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing Key Laboratory of Epilepsy Research, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China."
+        ]
+      },
+      {
+        "full_name": "Luan, Guoming",
+        "short_name": "Luan G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China; Department of Brain Institute, Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing Key Laboratory of Epilepsy Research, Sanbo Brain Hospital, Capital Medical University, Beijing 100093, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Fei",
+        "short_name": "Zhao F",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Minmin",
+        "short_name": "Luo M",
+        "identifiers": [],
+        "affiliations": [
+          "New Cornerstone Science Laboratory, Chinese Institute for Brain Research (CIBR), Beijing 102206, China; Beijing Institute for Brain Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China; Research Unit of Medical Neurobiology, Chinese Academy of Medical Sciences, Beijing 100005, China. Electronic address: luominmin@cibr.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neuron"
+    ],
+    "journal_abbrev": [
+      "Neuron"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869027"
+    ],
+    "review": [
+      "42869027"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0896-6273(26)00727-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://addgene.org/browse/pubmed/42869027",
+        "provider": "Addgene Non-profit plasmid repository",
+        "category": "Research Materials",
+        "attribute": "subscription/membership/fee required",
+        "linkname": "Get Article's Plasmids - Addgene"
+      }
+    ],
+    "text_mined": []
+  }
+}

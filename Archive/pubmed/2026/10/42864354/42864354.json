@@ -1,0 +1,471 @@
+{
+  "identity": {
+    "pmid": "42864354",
+    "doi": "10.1038/s41467-026-78544-3",
+    "title": "Author Correction: UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems."
+  },
+  "content": {
+    "abstract": "",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Published Erratum"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kinney, Kyle J",
+        "Jia, Kun",
+        "Zhang, He",
+        "Schmaljohn, Ellen",
+        "Osborne, Thomas",
+        "Thommandru, Bernice",
+        "Murugan, Karthik",
+        "Sanchez-Pena, Andrea",
+        "West, Sean",
+        "Chen, Shengyao",
+        "Codipilly, Roshani",
+        "Sturgeon, Morgan",
+        "Turk, Rolf",
+        "McNeill, Matthew S",
+        "Behlke, Mark",
+        "Jacobi, Ashley",
+        "Cromer, M Kyle",
+        "Rettig, Garrett",
+        "Kurgan, Gavin L"
+      ],
+      "short_names": [
+        "Kinney KJ",
+        "Jia K",
+        "Zhang H",
+        "Schmaljohn E",
+        "Osborne T",
+        "Thommandru B",
+        "Murugan K",
+        "Sanchez-Pena A",
+        "West S",
+        "Chen S",
+        "Codipilly R",
+        "Sturgeon M",
+        "Turk R",
+        "McNeill MS",
+        "Behlke M",
+        "Jacobi A",
+        "Cromer MK",
+        "Rettig G",
+        "Kurgan GL"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1029-3279",
+        "ORCID: 0000-0002-0965-9544",
+        "ORCID: 0009-0003-8769-8551",
+        "ORCID: 0000-0002-1743-3713",
+        "ORCID: 0000-0002-4843-3652",
+        "ORCID: 0000-0003-4814-1446",
+        "ORCID: 0000-0003-1283-9594",
+        "ORCID: 0000-0002-8737-785X",
+        "ORCID: 0000-0002-4218-857X",
+        "ORCID: 0000-0002-9364-6518",
+        "ORCID: 0000-0003-4634-5787",
+        "ORCID: 0000-0002-4047-1427"
+      ],
+      "affiliations": [
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Department of Surgery, University of California, San Francisco, CA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Department of Surgery, University of California, San Francisco, CA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA. gkurgan@idtdna.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kinney, Kyle J",
+        "short_name": "Kinney KJ",
+        "identifiers": [
+          "0000-0002-1029-3279"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Jia, Kun",
+        "short_name": "Jia K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, University of California, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, He",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Schmaljohn, Ellen",
+        "short_name": "Schmaljohn E",
+        "identifiers": [
+          "0000-0002-0965-9544"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Osborne, Thomas",
+        "short_name": "Osborne T",
+        "identifiers": [
+          "0009-0003-8769-8551"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Thommandru, Bernice",
+        "short_name": "Thommandru B",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Murugan, Karthik",
+        "short_name": "Murugan K",
+        "identifiers": [
+          "0000-0002-1743-3713"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Sánchez-Peña, Andrea",
+        "short_name": "Sánchez-Peña A",
+        "identifiers": [
+          "0000-0002-4843-3652"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "West, Sean",
+        "short_name": "West S",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Shengyao",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Codipilly, Roshani",
+        "short_name": "Codipilly R",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Sturgeon, Morgan",
+        "short_name": "Sturgeon M",
+        "identifiers": [
+          "0000-0003-4814-1446"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Turk, Rolf",
+        "short_name": "Turk R",
+        "identifiers": [
+          "0000-0003-1283-9594"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "McNeill, Matthew S",
+        "short_name": "McNeill MS",
+        "identifiers": [
+          "0000-0002-8737-785X"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Behlke, Mark",
+        "short_name": "Behlke M",
+        "identifiers": [
+          "0000-0002-4218-857X"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Jacobi, Ashley",
+        "short_name": "Jacobi A",
+        "identifiers": [
+          "0000-0002-9364-6518"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Cromer, M Kyle",
+        "short_name": "Cromer MK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, University of California, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Rettig, Garrett",
+        "short_name": "Rettig G",
+        "identifiers": [
+          "0000-0003-4634-5787"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Kurgan, Gavin L",
+        "short_name": "Kurgan GL",
+        "identifiers": [
+          "0000-0002-4047-1427"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA. gkurgan@idtdna.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Published Erratum"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864354",
+      "42581041",
+      "33346710",
+      "31099553",
+      "31902584",
+      "39526384",
+      "32195078",
+      "42075136",
+      "40086675",
+      "30996586",
+      "41952451",
+      "35040621",
+      "41412287",
+      "31911131",
+      "41524770",
+      "41678668",
+      "36522432",
+      "42771304",
+      "30209390",
+      "40468633",
+      "36992399",
+      "32643177",
+      "38459694",
+      "29377001",
+      "32042045",
+      "33876962",
+      "31658261",
+      "31601489",
+      "32630835",
+      "32616331",
+      "40170307",
+      "34541453",
+      "32697075",
+      "38956324",
+      "42288725",
+      "32072776",
+      "41109516",
+      "33005303",
+      "40449852",
+      "41508607",
+      "35693153",
+      "41597233",
+      "39832688",
+      "36309609",
+      "38552157",
+      "40777740",
+      "40777742",
+      "36759683",
+      "37279759",
+      "40553337",
+      "34127203",
+      "32694114",
+      "40157335",
+      "40685330",
+      "31821359",
+      "40745000",
+      "42173386",
+      "42187710",
+      "29530750",
+      "34962611",
+      "39821831",
+      "35507169",
+      "32681048",
+      "36234804",
+      "32619467",
+      "41213415",
+      "40548648",
+      "35750651",
+      "39824581",
+      "36793210",
+      "38456346",
+      "32138651",
+      "25398334",
+      "31119685",
+      "36453226",
+      "38652321",
+      "40764055",
+      "35198566",
+      "39437714",
+      "35581233",
+      "39824580",
+      "33835761",
+      "41840824",
+      "29771955",
+      "42716490",
+      "37451945",
+      "41241768",
+      "35261159",
+      "37762535",
+      "38441816",
+      "27498021",
+      "32198625",
+      "34911411",
+      "41203870",
+      "31685795",
+      "35548699",
+      "34571006",
+      "35099553",
+      "41136797",
+      "41524418"
+    ],
+    "review": [
+      "42864354",
+      "31902584",
+      "32195078",
+      "42075136",
+      "40086675",
+      "41952451",
+      "41412287",
+      "31911131",
+      "41524770",
+      "42771304",
+      "40468633",
+      "36992399",
+      "32630835",
+      "32616331",
+      "40170307",
+      "34541453",
+      "32072776",
+      "41109516",
+      "33005303",
+      "40449852",
+      "41597233",
+      "39832688",
+      "36309609",
+      "40777740",
+      "40777742",
+      "40553337",
+      "32694114",
+      "40157335",
+      "40745000",
+      "42173386",
+      "42187710",
+      "34962611",
+      "36234804",
+      "32619467",
+      "41213415",
+      "40548648",
+      "35750651",
+      "39824581",
+      "38456346",
+      "31119685",
+      "36453226",
+      "38652321",
+      "35198566",
+      "39824580",
+      "33835761",
+      "41840824",
+      "37451945",
+      "41241768",
+      "35261159",
+      "37762535",
+      "38441816",
+      "27498021",
+      "32198625",
+      "34911411",
+      "31685795",
+      "35548699",
+      "35099553",
+      "41136797"
+    ],
+    "pmc": [
+      "13658239"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78544-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

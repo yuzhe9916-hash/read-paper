@@ -1,0 +1,416 @@
+{
+  "identity": {
+    "pmid": "42878336",
+    "doi": "10.1111/jipb.70421",
+    "title": "Genomic dissection of divergent selection reveals a roadmap for reciprocal improvement of Chinese and American soybean."
+  },
+  "content": {
+    "abstract": "Soybean (Glycine max [L.] Merr.) was domesticated in China over five millennia ago; yet, its global expansion has resulted in two distinct, independently evolved breeding pools in China and the Americas. While regional breeding has optimized specific traits, a comprehensive roadmap for the reciprocal exchange of these \"breeding-specific\" beneficial alleles is lacking. Here, we performed a large-scale genomic dissection of 2,377 soybean accessions, integrating 8.4 million high-quality SNPs with multi-environment phenotyping across 11 locations. Through genome-wide association studies (GWAS), we identified 261 significant loci (223 novel) governing six key agronomic traits, revealing that Chinese and American germplasms have accumulated distinct sets of beneficial alleles of seed size/protein in China and oil/yield in the Americas. To harness this untapped potential, we developed the Soybean Targeted Improvement Navigation System (STINS), a framework integrating population genomics, GWAS, and genomic selection (GS). We demonstrate the potential of targeted beneficial allele introgression between populations via gene modification for rapid trait improvement. Proof-of-concept functional evaluation through CRISPR/Cas9-mediated knockout of GmST05 in an American cultivar and overexpression of a resistant GmSNAP18 haplotype in a Chinese cultivar provided experimental support for STINS-predicted targets for protein content and SCN resistance improvement. Our study provides a navigable genomic resource for \"knowledge-driven design breeding\", offering a blueprint for the global exchange of elite alleles to ensure future food security.",
+    "keywords": [
+      "GWAS",
+      "STINS",
+      "beneficial alleles",
+      "genomic selection",
+      "soybean"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiao, Chengzhi",
+        "Li, Delin",
+        "Zhang, Hao",
+        "Zhang, Zhongren",
+        "Wang, Xueqing",
+        "Yan, Long",
+        "Zheng, Tianqing",
+        "Zhao, Chaosen",
+        "Qiu, Hongmei",
+        "Xing, Guangnan",
+        "Hu, Guoyu",
+        "Liu, Like",
+        "Wang, Qiang",
+        "Huang, Wen",
+        "Wang, Xing",
+        "Wang, Yumin",
+        "Miao, Long",
+        "Li, YanFei",
+        "Jing, Xin",
+        "Fang, Xiaojian",
+        "Tian, Yu",
+        "Li, Ying-Hui",
+        "Wang, Xiaobo",
+        "Qiu, Li-Juan"
+      ],
+      "short_names": [
+        "Jiao C",
+        "Li D",
+        "Zhang H",
+        "Zhang Z",
+        "Wang X",
+        "Yan L",
+        "Zheng T",
+        "Zhao C",
+        "Qiu H",
+        "Xing G",
+        "Hu G",
+        "Liu L",
+        "Wang Q",
+        "Huang W",
+        "Wang X",
+        "Wang Y",
+        "Miao L",
+        "Li Y",
+        "Jing X",
+        "Fang X",
+        "Tian Y",
+        "Li YH",
+        "Wang X",
+        "Qiu LJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7037-5217",
+        "ORCID: 0000-0002-3689-3790",
+        "ORCID: 0009-0003-0723-6964",
+        "ORCID: 0000-0002-4996-7912",
+        "ORCID: 0009-0008-9388-4656",
+        "ORCID: 0009-0001-0655-515X",
+        "ORCID: 0009-0002-9455-222X",
+        "ORCID: 0000-0001-6298-8796",
+        "ORCID: 0000-0001-6951-0218",
+        "ORCID: 0000-0002-2507-9195",
+        "ORCID: 0009-0004-3537-849X",
+        "ORCID: 0009-0002-1481-7065",
+        "ORCID: 0009-0008-0197-4532",
+        "ORCID: 0009-0000-3778-0520",
+        "ORCID: 0000-0002-9214-2385",
+        "ORCID: 0009-0007-7261-7084",
+        "ORCID: 0009-0000-5470-2882",
+        "ORCID: 0000-0001-5566-7222",
+        "ORCID: 0009-0006-3673-0701",
+        "ORCID: 0000-0003-4685-1241",
+        "ORCID: 0000-0002-2765-0156",
+        "ORCID: 0000-0001-8940-1924",
+        "ORCID: 0000-0002-2810-9249",
+        "ORCID: 0000-0001-5777-3344"
+      ],
+      "affiliations": [
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "State Key Laboratory of Wheat Improvement, Shandong Laboratory of Advanced Agricultural Sciences, Peking University Institute of Advanced Agricultural Sciences, Weifang, 261325, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "Xianghu Laboratory, Hangzhou, 311231, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "Smartgenomics Technology Institute, Qingdao, 266111, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "Institute of Cereal and Oil Crops, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050031, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "Crops Research, Institute of Jiangxi Academy of Agricultural Sciences, Nanchang, 330200, China.",
+        "Soybean Research Institute, Jilin Academy of Agricultural Sciences, Changchun, 130033, China.",
+        "Soybean Research Institute, Nanjing Agricultural University, Nanjing, 210095, China.",
+        "Crop Institute of Anhui Academy of Agricultural Sciences, Hefei, 230031, China.",
+        "School of Life Sciences, Liaocheng University, Liaocheng, 252059, China.",
+        "Institute of Crop Resources, Heilongjiang Academy of Agricultural Sciences, Harbin, 150086, China.",
+        "Tong Hua Academy of Agricultural Sciences, Meihekou, 135007, China.",
+        "Xuzhou Institute of Agricultural Sciences in XuHuai Region of Jiangsu, Xuzhou, 221131, China.",
+        "Soybean Research Institute, Jilin Academy of Agricultural Sciences, Changchun, 130033, China.",
+        "School of Agronomy, Anhui Agricultural University, Hefei, 230036, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "Smartgenomics Technology Institute, Qingdao, 266111, China.",
+        "State Key Laboratory of Wheat Improvement, Shandong Laboratory of Advanced Agricultural Sciences, Peking University Institute of Advanced Agricultural Sciences, Weifang, 261325, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "School of Agronomy, Anhui Agricultural University, Hefei, 230036, China.",
+        "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiao, Chengzhi",
+        "short_name": "Jiao C",
+        "identifiers": [
+          "0000-0002-7037-5217"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+          "State Key Laboratory of Wheat Improvement, Shandong Laboratory of Advanced Agricultural Sciences, Peking University Institute of Advanced Agricultural Sciences, Weifang, 261325, China."
+        ]
+      },
+      {
+        "full_name": "Li, Delin",
+        "short_name": "Li D",
+        "identifiers": [
+          "0000-0002-3689-3790"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+          "Xianghu Laboratory, Hangzhou, 311231, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hao",
+        "short_name": "Zhang H",
+        "identifiers": [
+          "0009-0003-0723-6964"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhongren",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0000-0002-4996-7912"
+        ],
+        "affiliations": [
+          "Smartgenomics Technology Institute, Qingdao, 266111, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xueqing",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0009-0008-9388-4656"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Long",
+        "short_name": "Yan L",
+        "identifiers": [
+          "0009-0001-0655-515X"
+        ],
+        "affiliations": [
+          "Institute of Cereal and Oil Crops, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050031, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Tianqing",
+        "short_name": "Zheng T",
+        "identifiers": [
+          "0009-0002-9455-222X"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Chaosen",
+        "short_name": "Zhao C",
+        "identifiers": [
+          "0000-0001-6298-8796"
+        ],
+        "affiliations": [
+          "Crops Research, Institute of Jiangxi Academy of Agricultural Sciences, Nanchang, 330200, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Hongmei",
+        "short_name": "Qiu H",
+        "identifiers": [
+          "0000-0001-6951-0218"
+        ],
+        "affiliations": [
+          "Soybean Research Institute, Jilin Academy of Agricultural Sciences, Changchun, 130033, China."
+        ]
+      },
+      {
+        "full_name": "Xing, Guangnan",
+        "short_name": "Xing G",
+        "identifiers": [
+          "0000-0002-2507-9195"
+        ],
+        "affiliations": [
+          "Soybean Research Institute, Nanjing Agricultural University, Nanjing, 210095, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Guoyu",
+        "short_name": "Hu G",
+        "identifiers": [
+          "0009-0004-3537-849X"
+        ],
+        "affiliations": [
+          "Crop Institute of Anhui Academy of Agricultural Sciences, Hefei, 230031, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Like",
+        "short_name": "Liu L",
+        "identifiers": [
+          "0009-0002-1481-7065"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Liaocheng University, Liaocheng, 252059, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qiang",
+        "short_name": "Wang Q",
+        "identifiers": [
+          "0009-0008-0197-4532"
+        ],
+        "affiliations": [
+          "Institute of Crop Resources, Heilongjiang Academy of Agricultural Sciences, Harbin, 150086, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Wen",
+        "short_name": "Huang W",
+        "identifiers": [
+          "0009-0000-3778-0520"
+        ],
+        "affiliations": [
+          "Tong Hua Academy of Agricultural Sciences, Meihekou, 135007, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xing",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0000-0002-9214-2385"
+        ],
+        "affiliations": [
+          "Xuzhou Institute of Agricultural Sciences in XuHuai Region of Jiangsu, Xuzhou, 221131, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yumin",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0009-0007-7261-7084"
+        ],
+        "affiliations": [
+          "Soybean Research Institute, Jilin Academy of Agricultural Sciences, Changchun, 130033, China."
+        ]
+      },
+      {
+        "full_name": "Miao, Long",
+        "short_name": "Miao L",
+        "identifiers": [
+          "0009-0000-5470-2882"
+        ],
+        "affiliations": [
+          "School of Agronomy, Anhui Agricultural University, Hefei, 230036, China."
+        ]
+      },
+      {
+        "full_name": "Li, YanFei",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0001-5566-7222"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Jing, Xin",
+        "short_name": "Jing X",
+        "identifiers": [
+          "0009-0006-3673-0701"
+        ],
+        "affiliations": [
+          "Smartgenomics Technology Institute, Qingdao, 266111, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Xiaojian",
+        "short_name": "Fang X",
+        "identifiers": [
+          "0000-0003-4685-1241"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Wheat Improvement, Shandong Laboratory of Advanced Agricultural Sciences, Peking University Institute of Advanced Agricultural Sciences, Weifang, 261325, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Yu",
+        "short_name": "Tian Y",
+        "identifiers": [
+          "0000-0002-2765-0156"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ying-Hui",
+        "short_name": "Li YH",
+        "identifiers": [
+          "0000-0001-8940-1924"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaobo",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0000-0002-2810-9249"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+          "School of Agronomy, Anhui Agricultural University, Hefei, 230036, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Li-Juan",
+        "short_name": "Qiu LJ",
+        "identifiers": [
+          "0000-0001-5777-3344"
+        ],
+        "affiliations": [
+          "Key Laboratory of Grain Crop Genetic Resources Evaluation and Utilization (MARA), Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of integrative plant biology"
+    ],
+    "journal_abbrev": [
+      "J Integr Plant Biol"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42878336"
+    ],
+    "review": [
+      "42878336"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/jipb.70421",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

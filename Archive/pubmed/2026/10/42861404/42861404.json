@@ -1,0 +1,381 @@
+{
+  "identity": {
+    "pmid": "42861404",
+    "doi": "10.7759/cureus.116111",
+    "title": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Based Genome Editing in Inherited Cardiovascular Diseases: Therapeutic Advances, Emerging Editing Platforms, and Translational Challenges."
+  },
+  "content": {
+    "abstract": "Inherited cardiovascular diseases (ICVDs) are a broad category of hereditary disorders resulting from pathogenic mutations that alter cardiac anatomy, electrical conduction, and metabolic pathways. The main types include hypertrophic cardiomyopathy (HCM), dilated cardiomyopathy (DCM), cardiac channelopathies, and familial hypercholesterolemia (FH) and are associated with heart failure, malignant arrhythmias, and sudden cardiac death, particularly in young people. Current treatments, such as pharmacological therapies, implantable cardioverter-defibrillators, and heart transplantation, have significantly improved outcomes; however, these treatments are mainly targeted toward symptom control and the prevention of complications without correcting the underlying genetic defects. Recent advancements in genome editing have transformed precision cardiovascular care, with clustered regularly interspaced short palindromic repeats (CRISPR)-based technologies emerging as potential methods for targeting and modifying disease-causing variants. Emerging platforms, such as base editing, prime editing, and epigenome editing, have widened the therapeutic potential of genome engineering by enhancing editing precision and reducing some of the constraints of the traditional CRISPR-Cas9 strategy. In the setting of inherited cardiovascular disorders, promising early results have been obtained in preclinical studies using human induced pluripotent stem cell and animal models, including correction of MYBPC3 and MYH7 mutations in HCM; targeting of TTN-, RBM20-, and LMNA-associated mechanisms in DCM; restoration of ion channel function in inherited arrhythmia syndromes; and modulation of lipid-related genes such as PCSK9, LDLR, and ANGPTL3 in FH. However, major challenges remain, including off-target effects, effective delivery to cardiac tissues, immunological responses, interpretation of genetic variants, and ethical concerns. This review provides a translational, integrated view of the evolution of CRISPR-based genome editing technologies, their application to ICVDs, current preclinical and clinical advances, and the challenges that need to be addressed to achieve safe and effective translation into cardiovascular therapeutics.",
+    "keywords": [
+      "base editing",
+      "cardiac channelopathies",
+      "dilated cardiomyopthy",
+      "epigenome editing",
+      "familial hypercholestrolemia",
+      "genome editing",
+      "hypertrophic cardiomyopathy (hcm)",
+      "inherited cardiovascular diseases",
+      "prime editing",
+      "  crispr-cas9"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fakiyesi, Tosin",
+        "Ozioko, Mmaduabuchi",
+        "Ogunseye, Oluwapelumi D",
+        "Adeyemi, Olaoluwa",
+        "Adedoyin, Ibukunoluwa",
+        "Badejo, Adeolu A",
+        "Anifalaje, Olorungbami",
+        "Adegbesan, Abiodun",
+        "Olalude, Oluwakemi",
+        "Tiamiyu, Rachael",
+        "Hassan, Almustapha"
+      ],
+      "short_names": [
+        "Fakiyesi T",
+        "Ozioko M",
+        "Ogunseye OD",
+        "Adeyemi O",
+        "Adedoyin I",
+        "Badejo AA",
+        "Anifalaje O",
+        "Adegbesan A",
+        "Olalude O",
+        "Tiamiyu R",
+        "Hassan A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "General Medicine, Shirley Oaks Hospital, Croydon, GBR.",
+        "Cardiology, Leeds Teaching Hospitals NHS Trust, Leeds, GBR.",
+        "Public Health, University of Ibadan, Ibadan, NGA.",
+        "Internal Medicine, Advocate Christ Medical Center, Oak Lawn, USA.",
+        "Internal Medicine, University of Ilorin Teaching Hospital, Ilorin, NGA.",
+        "Trauma and Orthopaedic Surgery, Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle, GBR.",
+        "Plastic and Reconstructive Surgery, Mid Yorkshire Hospitals NHS Trust, Wakefield, GBR.",
+        "Menzies Institute for Medical Research, University of Tasmania, Tasmania, AUS.",
+        "Internal Medicine, Lagos State University Teaching Hospital, Lagos, NGA.",
+        "Biochemistry, Wayne State University, Detroit, USA.",
+        "Internal Medicine, Usman Danfodiyo University Teaching Hospital, Sokoto, NGA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fakiyesi, Tosin",
+        "short_name": "Fakiyesi T",
+        "identifiers": [],
+        "affiliations": [
+          "General Medicine, Shirley Oaks Hospital, Croydon, GBR."
+        ]
+      },
+      {
+        "full_name": "Ozioko, Mmaduabuchi",
+        "short_name": "Ozioko M",
+        "identifiers": [],
+        "affiliations": [
+          "Cardiology, Leeds Teaching Hospitals NHS Trust, Leeds, GBR."
+        ]
+      },
+      {
+        "full_name": "Ogunseye, Oluwapelumi D",
+        "short_name": "Ogunseye OD",
+        "identifiers": [],
+        "affiliations": [
+          "Public Health, University of Ibadan, Ibadan, NGA."
+        ]
+      },
+      {
+        "full_name": "Adeyemi, Olaoluwa",
+        "short_name": "Adeyemi O",
+        "identifiers": [],
+        "affiliations": [
+          "Internal Medicine, Advocate Christ Medical Center, Oak Lawn, USA."
+        ]
+      },
+      {
+        "full_name": "Adedoyin, Ibukunoluwa",
+        "short_name": "Adedoyin I",
+        "identifiers": [],
+        "affiliations": [
+          "Internal Medicine, University of Ilorin Teaching Hospital, Ilorin, NGA."
+        ]
+      },
+      {
+        "full_name": "Badejo, Adeolu A",
+        "short_name": "Badejo AA",
+        "identifiers": [],
+        "affiliations": [
+          "Trauma and Orthopaedic Surgery, Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle, GBR."
+        ]
+      },
+      {
+        "full_name": "Anifalaje, Olorungbami",
+        "short_name": "Anifalaje O",
+        "identifiers": [],
+        "affiliations": [
+          "Plastic and Reconstructive Surgery, Mid Yorkshire Hospitals NHS Trust, Wakefield, GBR."
+        ]
+      },
+      {
+        "full_name": "Adegbesan, Abiodun",
+        "short_name": "Adegbesan A",
+        "identifiers": [],
+        "affiliations": [
+          "Menzies Institute for Medical Research, University of Tasmania, Tasmania, AUS."
+        ]
+      },
+      {
+        "full_name": "Olalude, Oluwakemi",
+        "short_name": "Olalude O",
+        "identifiers": [],
+        "affiliations": [
+          "Internal Medicine, Lagos State University Teaching Hospital, Lagos, NGA."
+        ]
+      },
+      {
+        "full_name": "Tiamiyu, Rachael",
+        "short_name": "Tiamiyu R",
+        "identifiers": [],
+        "affiliations": [
+          "Biochemistry, Wayne State University, Detroit, USA."
+        ]
+      },
+      {
+        "full_name": "Hassan, Almustapha",
+        "short_name": "Hassan A",
+        "identifiers": [],
+        "affiliations": [
+          "Internal Medicine, Usman Danfodiyo University Teaching Hospital, Sokoto, NGA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cureus"
+    ],
+    "journal_abbrev": [
+      "Cureus"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-19 16:35:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42861404",
+      "40130092",
+      "41166658",
+      "41123248",
+      "37025725",
+      "40927382",
+      "40790091",
+      "31584620",
+      "38766272",
+      "38188709",
+      "38786024",
+      "42474011",
+      "40897994",
+      "41115768",
+      "42173386",
+      "28790199",
+      "42090053",
+      "29914921",
+      "34080099",
+      "36241547",
+      "34127197",
+      "29019352",
+      "42787623",
+      "41109516",
+      "32603681",
+      "42303162",
+      "29434642",
+      "41620000",
+      "37119122",
+      "42439976",
+      "42771304",
+      "41024979",
+      "32092381",
+      "38186450",
+      "42180538",
+      "42263664",
+      "40753800",
+      "38752340",
+      "32350510",
+      "35935390",
+      "42829072",
+      "30728669",
+      "33238136",
+      "40212235",
+      "36610813",
+      "40394347",
+      "32959897",
+      "29659822",
+      "39824585",
+      "36895064",
+      "31979133",
+      "42470832",
+      "27668807",
+      "42291973",
+      "37317833",
+      "36225598",
+      "31465267",
+      "29130076",
+      "40313442",
+      "40045853",
+      "35388882",
+      "31819946",
+      "39652018",
+      "33751237",
+      "31769791",
+      "42320852",
+      "40232991",
+      "38260726",
+      "40351170",
+      "41418774",
+      "30689007",
+      "41152563",
+      "42499346",
+      "41304743",
+      "27619566",
+      "42749951",
+      "36454461",
+      "41665042",
+      "28049282",
+      "39276086",
+      "42756827",
+      "37723364",
+      "42416481",
+      "38785523",
+      "35679361",
+      "33677855",
+      "42365126",
+      "42586245",
+      "39889868",
+      "34977000",
+      "38859956",
+      "32697075",
+      "41179948",
+      "34952739",
+      "41702027",
+      "28220462",
+      "42539480",
+      "42180850",
+      "42520925",
+      "39158822"
+    ],
+    "review": [
+      "42861404",
+      "40130092",
+      "37025725",
+      "40927382",
+      "40790091",
+      "31584620",
+      "38766272",
+      "38188709",
+      "38786024",
+      "40897994",
+      "41115768",
+      "42173386",
+      "42090053",
+      "34080099",
+      "36241547",
+      "42787623",
+      "41109516",
+      "32603681",
+      "42303162",
+      "29434642",
+      "41620000",
+      "37119122",
+      "42439976",
+      "42771304",
+      "41024979",
+      "32092381",
+      "38186450",
+      "42180538",
+      "42263664",
+      "40753800",
+      "35935390",
+      "42829072",
+      "30728669",
+      "33238136",
+      "36610813",
+      "40394347",
+      "32959897",
+      "29659822",
+      "39824585",
+      "36895064",
+      "31979133",
+      "42470832",
+      "27668807",
+      "42291973",
+      "36225598",
+      "31465267",
+      "40313442",
+      "35388882",
+      "31819946",
+      "39652018",
+      "33751237",
+      "42320852",
+      "40232991",
+      "38260726",
+      "40351170",
+      "41418774",
+      "30689007",
+      "41152563",
+      "42499346",
+      "41304743",
+      "27619566",
+      "42749951",
+      "41665042",
+      "28049282",
+      "39276086",
+      "37723364",
+      "38785523",
+      "35679361",
+      "42365126",
+      "42586245",
+      "39889868",
+      "34977000",
+      "38859956",
+      "41179948",
+      "34952739",
+      "41702027",
+      "28220462",
+      "42539480",
+      "42180850",
+      "42520925"
+    ],
+    "pmc": [
+      "13654590"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3579",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

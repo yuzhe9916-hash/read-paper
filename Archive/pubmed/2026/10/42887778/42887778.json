@@ -1,0 +1,125 @@
+{
+  "identity": {
+    "pmid": "42887778",
+    "doi": "10.1016/j.jbc.2026.113655",
+    "title": "Integrative proximity labeling and multiomic profiling uncover domain-specific interactomes and molecular vulnerabilities of oncogenic PI3K."
+  },
+  "content": {
+    "abstract": "Activating mutations in PIK3CA (encoding the p110alpha kinase) are among the most frequent oncogenic drivers in human tumors. The two major hotspot mutations, E545K (helical domain) and H1047R (kinase domain), both hyperactivate PI3K-AKT signaling, yet they exhibit distinct functional behaviors and differential drug sensitivities. The mutation-specific protein-protein interaction (PPI) networks underlying the differences, however, remain largely unexplored. In this study, we established experimental approaches to identify proteins in proximity to oncogenic PI3K using biotin ligase-based proximity labeling. Our data revealed that the PIK3CA H1047R and E545K mutants fused to BioID2 formed structurally distinct complexes, each associating with unique proximal proteins identified by liquid chromatography-tandem mass spectrometry. Further integration of the PPI networks with CRISPR dependency screens and multiomic profiling mapped the divergent functional interactomes of p110alpha hotspot mutants. H1047R exhibited a synthetic lethal dependency on the adaptor protein TAB2, which is associated with aggressive clinical phenotypes in breast cancer. Distinctly, E545K interacted with core subunits of the SWI/SNF chromatin remodeling complex, corresponding to a globally repressive chromatin state at distal enhancers. This SWI/SNF association also revealed a mutation-specific epigenetic vulnerability, with E545K-mutant cells displaying increased sensitivity to EZH2 inhibitors. Collectively, these findings demonstrate that the molecular network complexity of oncogenic PI3K can be interrogated through proximity labeling and that distinct PIK3CA point mutations rewire non-overlapping PPI networks, revealing domain-specific dependencies. Our study provides a framework for mapping mutation-specific interactomes and offers molecular insights and potential therapeutic strategies for PIK3CA-mutant tumors.",
+    "keywords": [
+      "PI3K",
+      "PIK3CA mutation",
+      "multiomic profiling",
+      "protein-protein interaction",
+      "proximity labeling",
+      "synthetic lethality"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Donghee",
+        "Koh, Jin",
+        "Choi, Sun Hee",
+        "Kim, Jong Hyuk"
+      ],
+      "short_names": [
+        "Lee D",
+        "Koh J",
+        "Choi SH",
+        "Kim JH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, Florida, United SA.",
+        "The Interdisciplinary Center for Biotechnology Research, University of Florida, Gainesville, Florida, USA.",
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, Florida, United SA.",
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, Florida, United SA; UF Health Cancer Institute, University of Florida, Gainesville, Florida, USA; Artificial Intelligence Academic Initiative (AI(2)) Center, University of Florida, Gainesville, Florida, USA; Intelligent Critical Care Center (IC(3)), University of Florida, Gainesville, Florida, USA. Electronic address: jkim19@ufl.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Donghee",
+        "short_name": "Lee D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, Florida, United SA."
+        ]
+      },
+      {
+        "full_name": "Koh, Jin",
+        "short_name": "Koh J",
+        "identifiers": [],
+        "affiliations": [
+          "The Interdisciplinary Center for Biotechnology Research, University of Florida, Gainesville, Florida, USA."
+        ]
+      },
+      {
+        "full_name": "Choi, Sun Hee",
+        "short_name": "Choi SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, Florida, United SA."
+        ]
+      },
+      {
+        "full_name": "Kim, Jong Hyuk",
+        "short_name": "Kim JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, Florida, United SA; UF Health Cancer Institute, University of Florida, Gainesville, Florida, USA; Artificial Intelligence Academic Initiative (AI(2)) Center, University of Florida, Gainesville, Florida, USA; Intelligent Critical Care Center (IC(3)), University of Florida, Gainesville, Florida, USA. Electronic address: jkim19@ufl.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of biological chemistry"
+    ],
+    "journal_abbrev": [
+      "J Biol Chem"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 23:33",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42887778"
+    ],
+    "review": [
+      "42887778"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(26)02527-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1631",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

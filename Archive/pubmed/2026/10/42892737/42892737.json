@@ -1,0 +1,299 @@
+{
+  "identity": {
+    "pmid": "42892737",
+    "doi": "10.1111/nph.71644",
+    "title": "Engineering uORFs in wheat improves abiotic stress tolerance without growth penalties."
+  },
+  "content": {
+    "abstract": "Developing climate-resilient crops is critical for ensuring global food security, yet agricultural productivity is frequently constrained by the trade-off between stress tolerance and growth. This challenge is particularly acute in allohexaploid wheat, a staple crop susceptible to abiotic stresses, underscoring the demand for precise gene regulation. Here, we established a simple, efficient, and transgene-free method for regulating gene expression in allohexaploid wheat by disrupting or creating de novo upstream open reading frames (uORFs) via genome editing. Using ribosome profiling, we identified 1199 actively translated uORFs across the wheat genome and developed a dual-luciferase screening pipeline to pinpoint potent translational repressors of positive regulators of abiotic stress. CRISPR/Cas9-mediated disruption of the uORFs in TaCIPK14 and TaGGP1 elevated downstream protein accumulation, thereby enhancing drought, cold, and salt tolerance of plants. Furthermore, base editing was employed to generate de novo uORFs in TaMADS26, effectively downregulating gene expression and improving drought resilience. Notably, both the transgene-free uorf(TaGGP1-ACG) and uORF(TaMADS26) mutants conferred pronounced yield advantages under drought conditions without incurring growth penalties under well-watered conditions. This study provides a predictable and precise way for modulating gene expression, enabling the coordinated improvement of stress resilience and agronomic performance in wheat.",
+    "keywords": [
+      "TaCIPK14",
+      "TaGGP1",
+      "TaMADS26",
+      "drought tolerance",
+      "genome editing",
+      "uORFs",
+      "wheat"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Si, Xiaomin",
+        "Yan, Yonghui",
+        "Bai, Shenglong",
+        "Guo, Guanghui",
+        "Xiao, Panpan",
+        "Hu, Mengxiao",
+        "Xia, Kai",
+        "Ren, Yongqi",
+        "Jiang, Jintao",
+        "Fan, Rong",
+        "Ji, Xiang",
+        "Wang, Yue",
+        "Li, Hao",
+        "Dang, Tingting",
+        "Gao, Qinmin",
+        "Liu, Luyu",
+        "Xiong, Changbin",
+        "Liu, Kangpeng",
+        "Zhou, Yun",
+        "Song, Chun-Peng"
+      ],
+      "short_names": [
+        "Si X",
+        "Yan Y",
+        "Bai S",
+        "Guo G",
+        "Xiao P",
+        "Hu M",
+        "Xia K",
+        "Ren Y",
+        "Jiang J",
+        "Fan R",
+        "Ji X",
+        "Wang Y",
+        "Li H",
+        "Dang T",
+        "Gao Q",
+        "Liu L",
+        "Xiong C",
+        "Liu K",
+        "Zhou Y",
+        "Song CP"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-5574-0168",
+        "ORCID: 0000-0001-6179-5407",
+        "ORCID: 0000-0001-8774-4309"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping, Center for Crop Genome Engineering, College of Agronomy, Henan Agricultural University, Zhengzhou, 450046, China.",
+        "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo, 315211, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China.",
+        "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Si, Xiaomin",
+        "short_name": "Si X",
+        "identifiers": [
+          "0009-0008-5574-0168"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Yonghui",
+        "short_name": "Yan Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Shenglong",
+        "short_name": "Bai S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Guanghui",
+        "short_name": "Guo G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Panpan",
+        "short_name": "Xiao P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Mengxiao",
+        "short_name": "Hu M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Kai",
+        "short_name": "Xia K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Yongqi",
+        "short_name": "Ren Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Jintao",
+        "short_name": "Jiang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Rong",
+        "short_name": "Fan R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Xiang",
+        "short_name": "Ji X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping, Center for Crop Genome Engineering, College of Agronomy, Henan Agricultural University, Zhengzhou, 450046, China.",
+          "State Key Laboratory for Managing Biotic and Chemical Threats to the Quality and Safety of Agro-products, Ningbo University, Ningbo, 315211, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yue",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Li, Hao",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Dang, Tingting",
+        "short_name": "Dang T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Qinmin",
+        "short_name": "Gao Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Luyu",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Changbin",
+        "short_name": "Xiong C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Kangpeng",
+        "short_name": "Liu K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yun",
+        "short_name": "Zhou Y",
+        "identifiers": [
+          "0000-0001-6179-5407"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      },
+      {
+        "full_name": "Song, Chun-Peng",
+        "short_name": "Song CP",
+        "identifiers": [
+          "0000-0001-8774-4309"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, College of Agriculture, Henan University, Kaifeng, 475004, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The New phytologist"
+    ],
+    "journal_abbrev": [
+      "New Phytol"
+    ],
+    "pub_date": "2026 Oct 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 05:37",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42892737"
+    ],
+    "review": [
+      "42892737"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "identity": {
+    "pmid": "42874805",
+    "doi": "10.1016/j.plantsci.2026.113522",
+    "title": "Suppression of plant immune responses enhances Agrobacterium-mediated transient expression in Nicotiana benthamiana."
+  },
+  "content": {
+    "abstract": "Agrobacterium tumefaciens-mediated transient expression in Nicotiana benthamiana is widely used for recombinant protein production and gene-function studies. However, agroinfiltration can activate host stress and defense responses, thereby limiting heterologous protein accumulation. To distinguish Agrobacterium-associated transcriptional responses from effects of the infiltration procedure, we performed RNA sequencing (RNA-seq) using an infection group (GV3101 carrying empty p1300), a buffer-only mock-infiltration group (Mock), and untreated wild-type (WT) plants. Relative to the mock group, the infection group contained 3529 upregulated and 2487 downregulated differentially expressed genes (DEGs), with enrichment of defense- and stress-associated pathways, including \"response to stress,\" \"plant-pathogen interaction,\" and \"plant MAPK signaling pathway\". Tobacco rattle virus (TRV)-based virus-induced gene silencing (VIGS) of selected candidates showed that silencing the ERF transcription factor PTI6 (pathogenesis-related genes transcriptional activator PTI6) increased GFP accumulation, and combined silencing of PTI5 and PTI6 produced a stronger effect than either single knockdown. Independent genetic testing using an eds1 CRISPR mutant further showed that loss of EDS1 (enhanced disease susceptibility 1) markedly enhanced transient expression of both GFP and GP3L-Flag, supporting a suppressive role of EDS1-associated immune signaling in agroinfiltration-mediated transient expression. In addition, stable NahG-Myc transgenic N. benthamiana lines derived from independent transformation events showed enhanced GFP accumulation, whereas HOS15 (high expression of osmotic stress-induced gene 15)-Flag lines did not improve transient expression under our conditions. Together, these results indicate that host immune responses can constrain transient expression and identify EDS1, PTI5/PTI6, and salicylic acid (SA)-related signaling as useful genetic targets for improving N. benthamiana as a transient expression chassis.",
+    "keywords": [
+      "Agrobacterium tumefaciens",
+      "EDS1",
+      "NahG",
+      "Nicotiana benthamiana",
+      "Transient expression efficiency",
+      "Virus-induced gene silencing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kang, Yu",
+        "Xie, Fen",
+        "Bai, Ge",
+        "Zhao, Jianguo",
+        "Zhang, Yifeng",
+        "Feng, Yang",
+        "Fu, Yaning",
+        "Wang, Aping",
+        "Zhang, Giping"
+      ],
+      "short_names": [
+        "Kang Y",
+        "Xie F",
+        "Bai G",
+        "Zhao J",
+        "Zhang Y",
+        "Feng Y",
+        "Fu Y",
+        "Wang A",
+        "Zhang G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China; Key Laboratory of Plant Synthetic Biology and Biomanufacturing, Ministry of Industry and Information Technology, Beijing Life Science Academy (BLSA), Beijing, 102206, China. Electronic address: karin@stu.pku.edu.cn.",
+        "Key Laboratory of Plant Synthetic Biology and Biomanufacturing, Ministry of Industry and Information Technology, Beijing Life Science Academy (BLSA), Beijing, 102206, China.",
+        "Yunnan Academy of Tobacco Agricultural Sciences, Kunming, 650021, China.",
+        "State Key Laboratory of Stem Cell and Reproductive Biology, Institute of Zoology, Chinese Academy of Sciences, Beijing, 100101, China.",
+        "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China.",
+        "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China.",
+        "Key Laboratory of Plant Synthetic Biology and Biomanufacturing, Ministry of Industry and Information Technology, Beijing Life Science Academy (BLSA), Beijing, 102206, China.",
+        "Longhu Laboratory, Zhengzhou, 450046, China. Electronic address: Pingaw@zzu.edu.cn.",
+        "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China; Longhu Laboratory, Zhengzhou, 450046, China; Key Laboratory of Animal Immunology, Henan Academy of Agricultural Sciences, Zhengzhou, 450002, China. Electronic address: zhanggaiping@pku.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kang, Yu",
+        "short_name": "Kang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China; Key Laboratory of Plant Synthetic Biology and Biomanufacturing, Ministry of Industry and Information Technology, Beijing Life Science Academy (BLSA), Beijing, 102206, China. Electronic address: karin@stu.pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xie, Fen",
+        "short_name": "Xie F",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Plant Synthetic Biology and Biomanufacturing, Ministry of Industry and Information Technology, Beijing Life Science Academy (BLSA), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Ge",
+        "short_name": "Bai G",
+        "identifiers": [],
+        "affiliations": [
+          "Yunnan Academy of Tobacco Agricultural Sciences, Kunming, 650021, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jianguo",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Stem Cell and Reproductive Biology, Institute of Zoology, Chinese Academy of Sciences, Beijing, 100101, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yifeng",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Yang",
+        "short_name": "Feng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Yaning",
+        "short_name": "Fu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Plant Synthetic Biology and Biomanufacturing, Ministry of Industry and Information Technology, Beijing Life Science Academy (BLSA), Beijing, 102206, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Aping",
+        "short_name": "Wang A",
+        "identifiers": [],
+        "affiliations": [
+          "Longhu Laboratory, Zhengzhou, 450046, China. Electronic address: Pingaw@zzu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Giping",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Safety and Health, School of Advanced Agricultural Sciences, Peking University, Beijing, 100871, China; Longhu Laboratory, Zhengzhou, 450046, China; Key Laboratory of Animal Immunology, Henan Academy of Agricultural Sciences, Zhengzhou, 450002, China. Electronic address: zhanggaiping@pku.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant science : an international journal of experimental plant biology"
+    ],
+    "journal_abbrev": [
+      "Plant Sci"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 23:32",
+    "fetched_at": "2026-10-19 16:34:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42874805"
+    ],
+    "review": [
+      "42874805"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0168-9452(26)00550-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

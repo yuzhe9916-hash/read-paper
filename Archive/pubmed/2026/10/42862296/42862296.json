@@ -1,0 +1,272 @@
+{
+  "identity": {
+    "pmid": "42862296",
+    "doi": "10.1007/s00449-026-03443-2",
+    "title": "High-efficiency secretion expression of FAD-dependent glucose dehydrogenase in Pichia pastoris via signal peptide optimization and redox cofactor enhancement."
+  },
+  "content": {
+    "abstract": "FAD-dependent glucose dehydrogenase (FAD-GDH) is a promising glucose sensing enzymes owing to its excellent thermostability and substrate specificity. To produce recombinant FAD-GDH with higher enzymatic activity by Pichia pastoris to meet commercial demands, three complementary strategies were proposed. First, the OST signal peptide, which outperformed ADV and MSB, replaced alpha-MF to yield much more efficient secretion, enhancing enzyme activity and protein yield up to 201.4% and 214.0% compared to the levels obtained with the original secretion signal, respectively, in shake-flask cultures. Second, to address the low specific activity of FAD-GDH, mixed feeding with riboflavin, adenosine, and yeast extract during induction period of fermentation had improved enzyme activity and specific activity to196.6% and 161.4%, respectively, while maintaining cell viability, compared with the control without additional feeding. Third, to further enhance specific activity of FAD-GDH, endogenous FAD synthase was ectopically overexpressed under the control of either the GAP or AOX1 promoter via CRISPR-Cas9-mediated genomic integration. The strain with AOX1-drivenFAD synthase (WCG-AOX1-FAD1) exhibited the most significant improvements, with enzyme activity of 1023.46 +/- 95.85 U/mL (239.4% of WCG-OST) and specific activity of 886.31 +/- 25.42 U/mg (233.4% of WCG-OST), both representing relatively high levels among similar studies. The synergistic application of these three strategies provides a reference for the industrial production of various cofactor-dependent enzymes.",
+    "keywords": [
+      "Pichia pastoris",
+      "CRISPR-Cas9",
+      "Flavin adenine dinucleotide",
+      "Glucose dehydrogenase",
+      "Signal peptide"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wei, Chun",
+        "Zhang, Zhenao",
+        "Xu, Jiahao",
+        "Zheng, Jianyong",
+        "He, Tianhao",
+        "Wang, Yuqi",
+        "Liu, Dongchen",
+        "Chen, Xueting"
+      ],
+      "short_names": [
+        "Wei C",
+        "Zhang Z",
+        "Xu J",
+        "Zheng J",
+        "He T",
+        "Wang Y",
+        "Liu D",
+        "Chen X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9821-1062"
+      ],
+      "affiliations": [
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China. zjy821212@zjut.edu.cn.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wei, Chun",
+        "short_name": "Wei C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhenao",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jiahao",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Jianyong",
+        "short_name": "Zheng J",
+        "identifiers": [
+          "0000-0002-9821-1062"
+        ],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China. zjy821212@zjut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "He, Tianhao",
+        "short_name": "He T",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuqi",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dongchen",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xueting",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, 310014, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioprocess and biosystems engineering"
+    ],
+    "journal_abbrev": [
+      "Bioprocess Biosyst Eng"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 17:30",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42862296",
+      "25022525",
+      "22151971",
+      "26410558",
+      "27510979",
+      "11377762",
+      "22027303",
+      "25435504",
+      "31731974",
+      "39132979",
+      "28633643",
+      "24141135",
+      "38037762",
+      "33751426",
+      "35435711",
+      "27469300",
+      "42343800",
+      "42851045",
+      "38777992",
+      "32828319",
+      "32729543",
+      "23735484",
+      "29129652",
+      "16556981",
+      "40102863",
+      "18371201",
+      "22246727",
+      "41845372",
+      "10833405",
+      "31757828",
+      "40109886",
+      "30638508",
+      "30067023",
+      "600094",
+      "23092193",
+      "24595668",
+      "25186468",
+      "41308761",
+      "27542751",
+      "41432175",
+      "34073858",
+      "25058396",
+      "20420682",
+      "12767813",
+      "8746634",
+      "41873086",
+      "42306519",
+      "35133569",
+      "32924367",
+      "33826047",
+      "16915640",
+      "29452270",
+      "25278015",
+      "37489850",
+      "26835836",
+      "29518537",
+      "28315397",
+      "27514666",
+      "22133436",
+      "29027448",
+      "21402188",
+      "38339093",
+      "28342171",
+      "30136206",
+      "40598404",
+      "28287419",
+      "28915057",
+      "30023641",
+      "33051008",
+      "16176807",
+      "25363138",
+      "42113034",
+      "34075757",
+      "19784554",
+      "26870311",
+      "24195359",
+      "41335133",
+      "31134410",
+      "40629383",
+      "15946860",
+      "31585990",
+      "15659196",
+      "11331018",
+      "29271179",
+      "22406863",
+      "29998959",
+      "35659241",
+      "23999737",
+      "37846178",
+      "31906187",
+      "39814229",
+      "38363126",
+      "31874696",
+      "30005638",
+      "25912449",
+      "30737736",
+      "32020278",
+      "37034257",
+      "12962542",
+      "15063618"
+    ],
+    "review": [
+      "42862296",
+      "29129652"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00449-026-03443-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

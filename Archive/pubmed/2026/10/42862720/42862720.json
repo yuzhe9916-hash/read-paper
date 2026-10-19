@@ -1,0 +1,675 @@
+{
+  "identity": {
+    "pmid": "42862720",
+    "doi": "10.1016/j.celrep.2026.118081",
+    "title": "Aberrant recursive splicing in a human disease locus."
+  },
+  "content": {
+    "abstract": "Recursive splice sites are rare motifs postulated to facilitate splicing across massive introns and shape isoform diversity. The necessity of recursive splicing (RS) and its role in human disease are unsubstantiated. Here, we use CRISPR to model intronic deletions eliminating an RS site (RS1) in CADM2 and conferring risk for attention deficit hyperactivity disorder and other neurobehavioral traits. Ablating RS1 in human induced neurons alters the gradient of RNA abundance across CADM2's first intron, decreases CADM2 expression, and impacts transcript usage. Decreased CADM2 expression is reflected in reduced exon usage downstream of RS1 and global alteration to genes involved in neuronal processes. In vivo rodent models harboring Cadm2 RS1 deletions exhibit an attenuated effect on Cadm2 expression and modest changes in behavior and functional brain connectivity. This study demonstrates RS as a noncoding regulatory mechanism in a gene associated with a spectrum of neuropsychiatric and behavioral traits.",
+    "keywords": [
+      "ADHD",
+      "CADM2",
+      "CP: genomics",
+      "CP: neuroscience",
+      "RNA-seq",
+      "alternative splicing",
+      "copy number variant",
+      "induced neurons",
+      "recursive splicing",
+      "structural variant",
+      "synCAM",
+      "synaptic cell adhesion molecule 2"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Boone, Philip M",
+        "Harripaul, Ricardo",
+        "Yadav, Rachita",
+        "Grzybowski, Michael",
+        "Hanafy, Mahmoud K",
+        "Lee, Amanda C",
+        "Choi, Esther Y",
+        "Collins, Ryan L",
+        "Polesskaya, Oksana",
+        "Makhortova, Nina",
+        "Larson, Matthew O",
+        "Kayir, Hakan",
+        "Wang, Yizhi",
+        "Avila, Rodolfo A",
+        "Frie, Jude A",
+        "Eed, Amr",
+        "Albeely, Abdalla M",
+        "Vemuri, Sunitha",
+        "Ayoub, Samantha M",
+        "Lemanski, John M",
+        "Ben-Isvy, Daniel",
+        "Zhao, Xuefang",
+        "Sanchis-Juan, Alba",
+        "Handley, Maris",
+        "Erdin, Serkan",
+        "de Esch, Celine",
+        "Mohajeri, Kiana",
+        "Chen, Clementine",
+        "Tovar, Paulina Gonzalez",
+        "Salani, Monica",
+        "Moyses-Oliveira, Mariana",
+        "Tai, Derek J C",
+        "Currall, Benjamin",
+        "McGraw, Christopher",
+        "Slaugenhaupt, Susan",
+        "Doan, Ryan",
+        "Gao, Dadi",
+        "Gusella, James F",
+        "Sanchez-Roige, Sandra",
+        "Young, Jared W",
+        "Khokhar, Jibran Y",
+        "Geurts, Aron M",
+        "Palmer, Abraham A",
+        "Talkowski, Michael E"
+      ],
+      "short_names": [
+        "Boone PM",
+        "Harripaul R",
+        "Yadav R",
+        "Grzybowski M",
+        "Hanafy MK",
+        "Lee AC",
+        "Choi EY",
+        "Collins RL",
+        "Polesskaya O",
+        "Makhortova N",
+        "Larson MO",
+        "Kayir H",
+        "Wang Y",
+        "Avila RA",
+        "Frie JA",
+        "Eed A",
+        "Albeely AM",
+        "Vemuri S",
+        "Ayoub SM",
+        "Lemanski JM",
+        "Ben-Isvy D",
+        "Zhao X",
+        "Sanchis-Juan A",
+        "Handley M",
+        "Erdin S",
+        "de Esch C",
+        "Mohajeri K",
+        "Chen C",
+        "Tovar PG",
+        "Salani M",
+        "Moyses-Oliveira M",
+        "Tai DJC",
+        "Currall B",
+        "McGraw C",
+        "Slaugenhaupt S",
+        "Doan R",
+        "Gao D",
+        "Gusella JF",
+        "Sanchez-Roige S",
+        "Young JW",
+        "Khokhar JY",
+        "Geurts AM",
+        "Palmer AA",
+        "Talkowski ME"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Stanley Center for Psychiatric Research, The Broad Institute of MIT and Harvard, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital, Boston, MA, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA.",
+        "Human Neuron Core, Boston Children's Hospital, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Division of Medical Sciences, Harvard Medical School, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Harvard Stem Cell Institute Flow Cytometry Core, Massachusetts General Hospital, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA.",
+        "Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Department of Neurology, Massachusetts General Hospital, Boston, MA, USA; Department of Neurology, Boston Children's Hospital, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA.",
+        "Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Molecular Neurogenetics Unit, Massachusetts General Hospital, Boston, MA, USA; Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, MA, USA.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA; Institute for Genomic Medicine, University of California San Diego, La Jolla, CA, USA; Department of Medicine, Division of Genetic Medicine, Vanderbilt University, Nashville, TN, USA.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA.",
+        "Department of Anatomy and Cell Biology, Western University, London, ON, Canada.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA; Institute for Genomic Medicine, University of California San Diego, La Jolla, CA, USA. Electronic address: aap@ucsd.edu.",
+        "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Stanley Center for Psychiatric Research, The Broad Institute of MIT and Harvard, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital, Boston, MA, USA. Electronic address: mtalkowski@mgh.harvard.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Boone, Philip M",
+        "short_name": "Boone PM",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Harripaul, Ricardo",
+        "short_name": "Harripaul R",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Yadav, Rachita",
+        "short_name": "Yadav R",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Stanley Center for Psychiatric Research, The Broad Institute of MIT and Harvard, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Grzybowski, Michael",
+        "short_name": "Grzybowski M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Hanafy, Mahmoud K",
+        "short_name": "Hanafy MK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Lee, Amanda C",
+        "short_name": "Lee AC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Choi, Esther Y",
+        "short_name": "Choi EY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Collins, Ryan L",
+        "short_name": "Collins RL",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Polesskaya, Oksana",
+        "short_name": "Polesskaya O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Makhortova, Nina",
+        "short_name": "Makhortova N",
+        "identifiers": [],
+        "affiliations": [
+          "Human Neuron Core, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Larson, Matthew O",
+        "short_name": "Larson MO",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Kayir, Hakan",
+        "short_name": "Kayir H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Wang, Yizhi",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Avila, Rodolfo A",
+        "short_name": "Avila RA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Frie, Jude A",
+        "short_name": "Frie JA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Eed, Amr",
+        "short_name": "Eed A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Albeely, Abdalla M",
+        "short_name": "Albeely AM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Vemuri, Sunitha",
+        "short_name": "Vemuri S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ayoub, Samantha M",
+        "short_name": "Ayoub SM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Lemanski, John M",
+        "short_name": "Lemanski JM",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ben-Isvy, Daniel",
+        "short_name": "Ben-Isvy D",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Division of Medical Sciences, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xuefang",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Sanchis-Juan, Alba",
+        "short_name": "Sanchis-Juan A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Handley, Maris",
+        "short_name": "Handley M",
+        "identifiers": [],
+        "affiliations": [
+          "Harvard Stem Cell Institute Flow Cytometry Core, Massachusetts General Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Erdin, Serkan",
+        "short_name": "Erdin S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "de Esch, Celine",
+        "short_name": "de Esch C",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Mohajeri, Kiana",
+        "short_name": "Mohajeri K",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Clementine",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Tovar, Paulina Gonzalez",
+        "short_name": "Tovar PG",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Salani, Monica",
+        "short_name": "Salani M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Moyses-Oliveira, Mariana",
+        "short_name": "Moyses-Oliveira M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Tai, Derek J C",
+        "short_name": "Tai DJC",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Currall, Benjamin",
+        "short_name": "Currall B",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "McGraw, Christopher",
+        "short_name": "McGraw C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Massachusetts General Hospital, Boston, MA, USA; Department of Neurology, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Slaugenhaupt, Susan",
+        "short_name": "Slaugenhaupt S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Doan, Ryan",
+        "short_name": "Doan R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Dadi",
+        "short_name": "Gao D",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gusella, James F",
+        "short_name": "Gusella JF",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Molecular Neurogenetics Unit, Massachusetts General Hospital, Boston, MA, USA; Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Sanchez-Roige, Sandra",
+        "short_name": "Sanchez-Roige S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA; Institute for Genomic Medicine, University of California San Diego, La Jolla, CA, USA; Department of Medicine, Division of Genetic Medicine, Vanderbilt University, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Young, Jared W",
+        "short_name": "Young JW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Khokhar, Jibran Y",
+        "short_name": "Khokhar JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, Western University, London, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Geurts, Aron M",
+        "short_name": "Geurts AM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Palmer, Abraham A",
+        "short_name": "Palmer AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, University of California San Diego, La Jolla, CA, USA; Institute for Genomic Medicine, University of California San Diego, La Jolla, CA, USA. Electronic address: aap@ucsd.edu."
+        ]
+      },
+      {
+        "full_name": "Talkowski, Michael E",
+        "short_name": "Talkowski ME",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA; Program in Medical and Population Genetics, The Broad Institute of MIT and Harvard, Boston, MA, USA; Stanley Center for Psychiatric Research, The Broad Institute of MIT and Harvard, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital, Boston, MA, USA. Electronic address: mtalkowski@mgh.harvard.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 17:30",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42862720",
+      "40919386",
+      "36993726",
+      "25970246",
+      "23301075",
+      "40748383",
+      "42475469",
+      "14966131",
+      "42818723",
+      "18456862",
+      "34759052",
+      "17881373",
+      "37137707",
+      "35685361",
+      "42039415",
+      "33887804",
+      "42787793",
+      "25771198",
+      "30388411",
+      "12968682",
+      "22291167",
+      "26392272",
+      "29684050",
+      "16260721",
+      "35188075",
+      "35723015",
+      "36303034",
+      "37961635",
+      "40205044",
+      "28049883",
+      "34425903",
+      "24239545",
+      "33292386",
+      "34788082",
+      "27965595",
+      "19480703",
+      "20100605",
+      "42204651",
+      "35867259",
+      "41793167",
+      "36621967",
+      "41318386",
+      "24222354",
+      "35447236",
+      "30718321",
+      "25561518",
+      "41791661",
+      "28934498",
+      "34570750",
+      "25523808",
+      "15802507",
+      "16839192",
+      "41993182",
+      "10982852",
+      "25869804",
+      "30926533",
+      "42026633",
+      "35939099",
+      "1869048",
+      "9292499",
+      "30904096",
+      "41198552",
+      "37543950",
+      "42247714",
+      "42620875",
+      "35089962",
+      "22747664",
+      "10627481",
+      "42346113",
+      "39608637",
+      "17144911",
+      "36077555",
+      "35982889",
+      "30696406",
+      "37889749",
+      "40641848",
+      "20385591",
+      "30148885",
+      "8255769",
+      "39558396",
+      "40716741",
+      "9774478",
+      "17158158",
+      "30093565",
+      "9234714",
+      "26670121",
+      "17332017",
+      "35140743",
+      "30148878",
+      "34948044",
+      "18194514",
+      "29698748",
+      "10556281",
+      "37182892",
+      "20704715",
+      "39456221",
+      "24209778",
+      "21826391",
+      "20547768",
+      "9175738"
+    ],
+    "review": [
+      "42862720",
+      "40748383",
+      "33887804",
+      "28049883",
+      "24222354",
+      "30904096"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01160-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

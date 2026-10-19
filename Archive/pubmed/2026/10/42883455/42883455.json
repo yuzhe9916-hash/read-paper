@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "pmid": "42883455",
+    "doi": "10.3390/biology15191782",
+    "title": "Transferability of Transcriptome-Based Gene-Dependency Models from Two-Dimensional Cancer Models to Patient-Derived Organoids: Blinded External Validation."
+  },
+  "content": {
+    "abstract": "Transferability of transcriptome-based gene-dependency models from two-dimensional cancer models to organoids remains uncertain. Expression-only Elastic Net models for 20 preselected genes were selected using patient-grouped nested cross-validation in 681 models and evaluated in a locked 171-model holdout. Historical target selection used all 852 models, making holdout performance conditional internal confirmation rather than an unbiased generalization estimate. After refitting on all 852 models, frozen models underwent exploratory evaluation in 94 Broad organoids and blinded validation in 148 Sanger organoids from 144 donors. Predictions were sealed before Sanger outcome access. Primary target-wise Spearman correlations, ranking organoids per gene, averaged 0.4094, 0.1518, and 0.1015 in holdout, Broad, and Sanger, respectively. Sanger association exceeded the within-lineage permutation null (p = 0.00040), but improvement over lineage-only prediction remained uncertain (difference, 0.0462; 95% confidence interval, -0.0065-0.0986). CDK6, MDM4, and CCNE1 passed false discovery rate correction in Sanger. Retrospective within-organoid gene ranking modestly improved over lineage-only prediction in both cohorts; top-three overlap improved only in Sanger. Pancreatic results remained unvalidated projections. Findings support weak cross-domain rank transfer and limited within-organoid ranking within the selected panel, without establishing genome-wide transferability, causal explanations for attenuation, or prospective experimental or therapeutic utility.",
+    "keywords": [
+      "CRISPR screening",
+      "Elastic Net",
+      "cross-model transferability",
+      "external validation",
+      "functional genomics",
+      "gene dependency",
+      "patient-derived organoids",
+      "transcriptomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Firat, Yelda",
+        "Kilicaslan, Yilmaz"
+      ],
+      "short_names": [
+        "Firat Y",
+        "Kilicaslan Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-8365-1000",
+        "ORCID: 0000-0002-5020-6547"
+      ],
+      "affiliations": [
+        "Department of Computer Engineering, Artvin Coruh University, Artvin 08000, Turkiye.",
+        "Department of Artificial Intelligence and Data Engineering, Istanbul Atlas University, Istanbul 34403, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fırat, Yelda",
+        "short_name": "Fırat Y",
+        "identifiers": [
+          "0009-0003-8365-1000"
+        ],
+        "affiliations": [
+          "Department of Computer Engineering, Artvin Çoruh University, Artvin 08000, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Kılıçaslan, Yılmaz",
+        "short_name": "Kılıçaslan Y",
+        "identifiers": [
+          "0000-0002-5020-6547"
+        ],
+        "affiliations": [
+          "Department of Artificial Intelligence and Data Engineering, Istanbul Atlas University, Istanbul 34403, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biology"
+    ],
+    "journal_abbrev": [
+      "Biology (Basel)"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883455"
+    ],
+    "review": [
+      "42883455"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biology15191782",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

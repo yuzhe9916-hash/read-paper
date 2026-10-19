@@ -1,0 +1,287 @@
+{
+  "identity": {
+    "pmid": "42880244",
+    "doi": "10.1016/j.stemcr.2026.103120",
+    "title": "Female iPSC X chromosome inactivation erosion and its transcriptomic effects during CRISPR gene editing and neural differentiation."
+  },
+  "content": {
+    "abstract": "Human induced pluripotent stem cells (hiPSCs), together with CRISPR editing, are commonly used for studying neurodevelopmental disorders. Female iPSCs gradually lose the expression of the noncoding X chromosome inactive-specific transcript (XIST), leading to random X chromosome inactivation (XCI) erosion that affects both X-linked and autosomal gene expression. However, the effects of CRISPR editing and neural differentiation on XCI erosion and how this may confound a real-world analysis of differentially expressed genes (DEGs) are poorly understood. Here, we analyzed hundreds of RNA sequencing (RNA-seq) samples of CRISPR-edited iPSC lines for 66 genes and the matched single-neuron RNA-seq data. We found variable XCI in CRISPR-edited female iPSCs, which was largely preserved in iPSC-derived neurons and predominantly influenced X-linked genes. Mechanistically, XIST mediates allele-specific epigenetic regulation of both X-linked and autosomal genes, with the former showing stronger allele-specific expression (ASE) bias that affects neurodevelopmental genes. These results have significant implications in hiPSC-based modeling of neurodevelopmental disorders.",
+    "keywords": [
+      "ASE",
+      "CRISPR gene editing",
+      "X-chromosome inactivation",
+      "XCI",
+      "XCI erosion",
+      "allele-specific expression",
+      "hiPSC",
+      "human pluripotent stem cells",
+      "neural differentiation",
+      "neurodevelopment"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Thapa, Christina",
+        "Oh, Emily K",
+        "Sirkin, David",
+        "Lahey, Jennifer",
+        "Diaz de Leon Guerrerro, Sol",
+        "McCarroll, Ada",
+        "Gowda, Prarthana",
+        "Zhang, Hanwen",
+        "Barishman, Alexandra",
+        "Peyton, Lilia",
+        "Zhang, Siwei",
+        "Pollak, Rebecca M",
+        "Hart, Ronald P",
+        "Pato, Carlos N",
+        "Kreimer, Anat",
+        "Mulle, Jennifer G",
+        "Sanders, Alan R",
+        "Pang, Zhiping P",
+        "Duan, Jubao"
+      ],
+      "short_names": [
+        "Thapa C",
+        "Oh EK",
+        "Sirkin D",
+        "Lahey J",
+        "Diaz de Leon Guerrerro S",
+        "McCarroll A",
+        "Gowda P",
+        "Zhang H",
+        "Barishman A",
+        "Peyton L",
+        "Zhang S",
+        "Pollak RM",
+        "Hart RP",
+        "Pato CN",
+        "Kreimer A",
+        "Mulle JG",
+        "Sanders AR",
+        "Pang ZP",
+        "Duan J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA.",
+        "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA.",
+        "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA.",
+        "Center for Advanced Biotechnology and Medicine, Rutgers Robert Wood Johnson Medical School, Piscataway, NJ, USA; Department of Psychiatry, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA.",
+        "Center for Advanced Biotechnology and Medicine, Rutgers Robert Wood Johnson Medical School, Piscataway, NJ, USA.",
+        "Department of Psychiatry, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA.",
+        "Center for Advanced Biotechnology and Medicine, Rutgers Robert Wood Johnson Medical School, Piscataway, NJ, USA; Department of Biochemistry and Molecular Biology, Rutgers, The State University of New Jersey, Piscataway, NJ, USA.",
+        "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Department of Psychiatry, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Department of Cell Biology and Neuroscience, Rutgers University, Piscataway, NJ, USA.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA.",
+        "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA. Electronic address: pangzh@rwjms.rutgers.edu.",
+        "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA. Electronic address: jduan@uchicago.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Thapa, Christina",
+        "short_name": "Thapa C",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Oh, Emily K",
+        "short_name": "Oh EK",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Sirkin, David",
+        "short_name": "Sirkin D",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Lahey, Jennifer",
+        "short_name": "Lahey J",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Díaz de León Guerrerro, Sol",
+        "short_name": "Díaz de León Guerrerro S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "McCarroll, Ada",
+        "short_name": "McCarroll A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Gowda, Prarthana",
+        "short_name": "Gowda P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hanwen",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Barishman, Alexandra",
+        "short_name": "Barishman A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Peyton, Lilia",
+        "short_name": "Peyton L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Siwei",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Pollak, Rebecca M",
+        "short_name": "Pollak RM",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Advanced Biotechnology and Medicine, Rutgers Robert Wood Johnson Medical School, Piscataway, NJ, USA; Department of Psychiatry, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Hart, Ronald P",
+        "short_name": "Hart RP",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Advanced Biotechnology and Medicine, Rutgers Robert Wood Johnson Medical School, Piscataway, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Pato, Carlos N",
+        "short_name": "Pato CN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Kreimer, Anat",
+        "short_name": "Kreimer A",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Advanced Biotechnology and Medicine, Rutgers Robert Wood Johnson Medical School, Piscataway, NJ, USA; Department of Biochemistry and Molecular Biology, Rutgers, The State University of New Jersey, Piscataway, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Mulle, Jennifer G",
+        "short_name": "Mulle JG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Department of Psychiatry, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Department of Cell Biology and Neuroscience, Rutgers University, Piscataway, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Sanders, Alan R",
+        "short_name": "Sanders AR",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Pang, Zhiping P",
+        "short_name": "Pang ZP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuroscience and Cell Biology, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ, USA. Electronic address: pangzh@rwjms.rutgers.edu."
+        ]
+      },
+      {
+        "full_name": "Duan, Jubao",
+        "short_name": "Duan J",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Psychiatric Genetics, Endeavor Health, Evanston, IL, USA; Department of Psychiatry and Behavioral Neuroscience, The University of Chicago, Chicago, IL, USA. Electronic address: jduan@uchicago.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Stem cell reports"
+    ],
+    "journal_abbrev": [
+      "Stem Cell Reports"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42880244"
+    ],
+    "review": [
+      "42880244"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2213-6711(26)00331-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

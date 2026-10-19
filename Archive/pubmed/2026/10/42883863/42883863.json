@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42883863",
+    "doi": "10.3390/ijms27198616",
+    "title": "Comparison of Prime Editing and CRISPR-Cas Mediated HDR in Correcting CFTR-F508del Mutation in Patient iPSC-Derived Airway Basal Cells."
+  },
+  "content": {
+    "abstract": "Gene editing therapy represents a promising strategy to permanently cure cystic fibrosis (CF). This paper presents the results of correcting the most common CF mutation, F508del, in the CFTR gene in airway basal cells (BCs) obtained from patients, using both classical CRISPR-Cas9-mediated homology-directed repair (HDR) and prime editing techniques. Our findings demonstrate that both methods achieve mutation correction with efficiencies reaching up to 18.9% of alleles in successfully transfected cells. However, the CRISPR-Cas9 approach results in insertions and deletions (indels) in approximately 15% of alleles at the editing site, whereas prime editing induced only minimal indel events. Functional analysis evaluating the effectiveness of gene editing revealed that prime editing of the F508del mutation in the CFTR gene-using the pegRNA4 combined with the PE2-NG variant-restores CFTR channel conductance, comparable to triple therapy with CFTR modulators (ivacaftor/tezacaftor/elexacaftor). While both prime editing and CRISPR-HDR resulted in successful correction of the CFTR-F508del mutation in patient BCs, prime editing exhibited a low frequency of unintended modifications both within and outside the editing locus, making this approach a promising candidate for the development of gene therapy strategies for CF.",
+    "keywords": [
+      "CFTR",
+      "CRISPR-Cas",
+      "F508del",
+      "cystic fibrosis",
+      "gene editing",
+      "gene therapy",
+      "prime editing"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Cystic Fibrosis Transmembrane Conductance Regulator/genetics",
+      "*CRISPR-Cas Systems/genetics",
+      "*Cystic Fibrosis/genetics/therapy",
+      "*Gene Editing/methods",
+      "*Induced Pluripotent Stem Cells/metabolism/cytology",
+      "*Mutation",
+      "*Recombinational DNA Repair",
+      "Quinolones/pharmacology",
+      "Genetic Therapy/methods",
+      "Benzodioxoles/pharmacology"
+    ],
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Volodina, Olga",
+        "Demchenko, Anna",
+        "Kondrateva, Ekaterina",
+        "Anuchina, Arina",
+        "Ryzhkova, Oxana",
+        "Kovalskaia, Valeriia",
+        "Tabakov, Vyacheslav",
+        "Amelina, Elena",
+        "Lavrov, Alexander",
+        "Kutsev, Sergey",
+        "Smirnikhina, Svetlana"
+      ],
+      "short_names": [
+        "Volodina O",
+        "Demchenko A",
+        "Kondrateva E",
+        "Anuchina A",
+        "Ryzhkova O",
+        "Kovalskaia V",
+        "Tabakov V",
+        "Amelina E",
+        "Lavrov A",
+        "Kutsev S",
+        "Smirnikhina S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0770-2569",
+        "ORCID: 0000-0002-5356-9415",
+        "ORCID: 0000-0003-4962-6947",
+        "ORCID: 0000-0002-1558-3048"
+      ],
+      "affiliations": [
+        "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "The Shared Resource Centre \"Genome\", Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "The Shared Resource Centre \"Genome\", Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "The Shared Resource Centre \"Biobank\", Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "Laboratory of Cystic Fibrosis, Research Institute of Pulmonology, Moscow 115682, Russia.",
+        "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Volodina, Olga",
+        "short_name": "Volodina O",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Demchenko, Anna",
+        "short_name": "Demchenko A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Kondrateva, Ekaterina",
+        "short_name": "Kondrateva E",
+        "identifiers": [
+          "0000-0003-0770-2569"
+        ],
+        "affiliations": [
+          "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Anuchina, Arina",
+        "short_name": "Anuchina A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Ryzhkova, Oxana",
+        "short_name": "Ryzhkova O",
+        "identifiers": [],
+        "affiliations": [
+          "The Shared Resource Centre \"Genome\", Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Kovalskaia, Valeriia",
+        "short_name": "Kovalskaia V",
+        "identifiers": [],
+        "affiliations": [
+          "The Shared Resource Centre \"Genome\", Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Tabakov, Vyacheslav",
+        "short_name": "Tabakov V",
+        "identifiers": [],
+        "affiliations": [
+          "The Shared Resource Centre \"Biobank\", Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Amelina, Elena",
+        "short_name": "Amelina E",
+        "identifiers": [
+          "0000-0002-5356-9415"
+        ],
+        "affiliations": [
+          "Laboratory of Cystic Fibrosis, Research Institute of Pulmonology, Moscow 115682, Russia."
+        ]
+      },
+      {
+        "full_name": "Lavrov, Alexander",
+        "short_name": "Lavrov A",
+        "identifiers": [
+          "0000-0003-4962-6947"
+        ],
+        "affiliations": [
+          "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Kutsev, Sergey",
+        "short_name": "Kutsev S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Smirnikhina, Svetlana",
+        "short_name": "Smirnikhina S",
+        "identifiers": [
+          "0000-0002-1558-3048"
+        ],
+        "affiliations": [
+          "Laboratory of Genome Editing, Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883863"
+    ],
+    "review": [
+      "42883863"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27198616",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cysticfibrosis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cystic Fibrosis"
+      }
+    ],
+    "text_mined": []
+  }
+}

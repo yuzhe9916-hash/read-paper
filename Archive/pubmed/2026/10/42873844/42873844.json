@@ -1,0 +1,473 @@
+{
+  "identity": {
+    "pmid": "42873844",
+    "doi": "10.1126/sciadv.aeh4023",
+    "title": "Integrative multi-omics reveals CUL4B as a modulator of macrophage pyroptosis and innate defense against Staphylococcus aureus."
+  },
+  "content": {
+    "abstract": "Staphylococcus aureus (SA) causes a broad range of invasive human diseases, increasingly complicated by antibiotic resistance. Macrophages (MPhi) play a central role in innate immunity, yet key aspects of their interaction with SA remain incompletely understood because of the pathogen's diverse immune evasion strategies. Using multi-omics and systems-level analytics, we identified the E3 ubiquitin ligase cullin 4B (CUL4B) as a host factor that modulates MPhi responses to SA infection. CRISPR-mediated deletion of CUL4B in human THP-1 MPhi enhanced intracellular bacterial killing, reduced cell death, decreased caspase-1 activation, and lowered interleukin-1beta production, consistent with altered inflammasome signaling. In a murine methicillin-resistant SA (MRSA) pneumonia model, CUL4B deficiency improved pulmonary bacterial clearance, reduced bacteremia, and decreased inflammatory tissue injury. Whole-lung and serum proteomics further revealed increased antimicrobial protein abundance and reduced markers of inflammatory damage. Together, these findings identify CUL4B as a regulator of MPhi inflammatory responses during MRSA infection and suggest a potential host-directed pathway that could be leveraged to improve outcomes against this major pathogen.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Cullin Proteins/metabolism/genetics",
+      "Humans",
+      "*Immunity, Innate",
+      "*Macrophages/metabolism/immunology/microbiology",
+      "Mice",
+      "*Pyroptosis/genetics/immunology",
+      "Multiomics",
+      "*Staphylococcus aureus/immunology",
+      "*Staphylococcal Infections/immunology/microbiology/metabolism",
+      "Inflammasomes/metabolism",
+      "Host-Pathogen Interactions/immunology",
+      "Proteomics/methods",
+      "Methicillin-Resistant Staphylococcus aureus/immunology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Askarian, Fatemeh",
+        "Sun, Daniel",
+        "Tat, Jasmine",
+        "Sorrentino, James T",
+        "Kousha, Armin",
+        "Sauceda, Consuelo",
+        "Yendluri, Siri",
+        "Yan, Yu",
+        "Yau, Ka Pui Sharon",
+        "Masson, Helen",
+        "Wozniak, Jacob",
+        "Pettersen, Kristin",
+        "Chavarria, Natalie",
+        "McLaren, Ella",
+        "Gage, Hunter",
+        "Hoffman, Alexandria",
+        "Davis, Stanley",
+        "Tsai, Chih-Ming",
+        "Monk, Jonathan",
+        "Meier, Angela",
+        "Sakoulas, George",
+        "Mollnes, Tom Eirik",
+        "Vaaje-Kolstad, Gustav",
+        "Cornax, Ingrid",
+        "Zhou, Pengbo",
+        "Johannessen, Mona",
+        "Gonzalez, David J",
+        "Lewis, Nathan E",
+        "Nizet, Victor"
+      ],
+      "short_names": [
+        "Askarian F",
+        "Sun D",
+        "Tat J",
+        "Sorrentino JT",
+        "Kousha A",
+        "Sauceda C",
+        "Yendluri S",
+        "Yan Y",
+        "Yau KPS",
+        "Masson H",
+        "Wozniak J",
+        "Pettersen K",
+        "Chavarria N",
+        "McLaren E",
+        "Gage H",
+        "Hoffman A",
+        "Davis S",
+        "Tsai CM",
+        "Monk J",
+        "Meier A",
+        "Sakoulas G",
+        "Mollnes TE",
+        "Vaaje-Kolstad G",
+        "Cornax I",
+        "Zhou P",
+        "Johannessen M",
+        "Gonzalez DJ",
+        "Lewis NE",
+        "Nizet V"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7438-4671",
+        "ORCID: 0000-0001-7119-6045",
+        "ORCID: 0009-0003-0461-9951",
+        "ORCID: 0000-0002-1487-6631",
+        "ORCID: 0000-0002-4250-5635",
+        "ORCID: 0009-0006-0262-5372",
+        "ORCID: 0009-0007-0581-9620",
+        "ORCID: 0000-0002-9830-033X",
+        "ORCID: 0000-0002-8208-8995",
+        "ORCID: 0009-0007-0650-7522",
+        "ORCID: 0000-0001-7305-7401",
+        "ORCID: 0000-0002-5785-802X",
+        "ORCID: 0000-0002-3077-8003",
+        "ORCID: 0000-0003-4604-8600",
+        "ORCID: 0000-0003-1423-5970",
+        "ORCID: 0000-0003-3847-0422"
+      ],
+      "affiliations": [
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pathology and Laboratory Medicine, Weill Medical College and Graduate School of Medical Sciences of Cornell University, New York, NY, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA.",
+        "Department of Pharmacology, University of California, San Diego, La Jolla, CA, USA.",
+        "Research Laboratory, Nordland Hospital, Bodo, Norway.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Paul G. Allen School for Global Health, Washington State University, Pullman, WA 99164.",
+        "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Anesthesiology, Division of Critical Care, University of California San Diego, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Research Laboratory, Nordland Hospital, Bodo, Norway.",
+        "Department of Immunology, Oslo University, Oslo, Norway.",
+        "Department of Immunology, Oslo University Hospital, Oslo, Norway.",
+        "Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of Life Sciences, As, Norway.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Pathology and Laboratory Medicine, Weill Medical College and Graduate School of Medical Sciences of Cornell University, New York, NY, USA.",
+        "Department of Medical Biology, Faculty of Health Sciences, UiT-The Arctic University of Norway, Tromso, Norway.",
+        "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Center for Molecular Medicine, Complex Carbohydrate Research Center, and Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA, USA.",
+        "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+        "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Askarian, Fatemeh",
+        "short_name": "Askarian F",
+        "identifiers": [
+          "0000-0002-7438-4671"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sun, Daniel",
+        "short_name": "Sun D",
+        "identifiers": [
+          "0000-0001-7119-6045"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Tat, Jasmine",
+        "short_name": "Tat J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sorrentino, James T",
+        "short_name": "Sorrentino JT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kousha, Armin",
+        "short_name": "Kousha A",
+        "identifiers": [
+          "0009-0003-0461-9951"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sauceda, Consuelo",
+        "short_name": "Sauceda C",
+        "identifiers": [
+          "0000-0002-1487-6631"
+        ],
+        "affiliations": [
+          "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Yendluri, Siri",
+        "short_name": "Yendluri S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Yan, Yu",
+        "short_name": "Yan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, Weill Medical College and Graduate School of Medical Sciences of Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Yau, Ka Pui Sharon",
+        "short_name": "Yau KPS",
+        "identifiers": [
+          "0000-0002-4250-5635"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Masson, Helen",
+        "short_name": "Masson H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Wozniak, Jacob",
+        "short_name": "Wozniak J",
+        "identifiers": [],
+        "affiliations": [
+          "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA.",
+          "Department of Pharmacology, University of California, San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Pettersen, Kristin",
+        "short_name": "Pettersen K",
+        "identifiers": [
+          "0009-0006-0262-5372"
+        ],
+        "affiliations": [
+          "Research Laboratory, Nordland Hospital, Bodø, Norway."
+        ]
+      },
+      {
+        "full_name": "Chavarria, Natalie",
+        "short_name": "Chavarria N",
+        "identifiers": [
+          "0009-0007-0581-9620"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "McLaren, Ella",
+        "short_name": "McLaren E",
+        "identifiers": [
+          "0000-0002-9830-033X"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Gage, Hunter",
+        "short_name": "Gage H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Hoffman, Alexandria",
+        "short_name": "Hoffman A",
+        "identifiers": [
+          "0000-0002-8208-8995"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Davis, Stanley",
+        "short_name": "Davis S",
+        "identifiers": [
+          "0009-0007-0650-7522"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Tsai, Chih-Ming",
+        "short_name": "Tsai CM",
+        "identifiers": [
+          "0000-0001-7305-7401"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+          "Paul G. Allen School for Global Health, Washington State University, Pullman, WA 99164."
+        ]
+      },
+      {
+        "full_name": "Monk, Jonathan",
+        "short_name": "Monk J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Meier, Angela",
+        "short_name": "Meier A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Division of Critical Care, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sakoulas, George",
+        "short_name": "Sakoulas G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Mollnes, Tom Eirik",
+        "short_name": "Mollnes TE",
+        "identifiers": [
+          "0000-0002-5785-802X"
+        ],
+        "affiliations": [
+          "Research Laboratory, Nordland Hospital, Bodø, Norway.",
+          "Department of Immunology, Oslo University, Oslo, Norway.",
+          "Department of Immunology, Oslo University Hospital, Oslo, Norway."
+        ]
+      },
+      {
+        "full_name": "Vaaje-Kolstad, Gustav",
+        "short_name": "Vaaje-Kolstad G",
+        "identifiers": [
+          "0000-0002-3077-8003"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of Life Sciences, Ås, Norway."
+        ]
+      },
+      {
+        "full_name": "Cornax, Ingrid",
+        "short_name": "Cornax I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Pengbo",
+        "short_name": "Zhou P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, Weill Medical College and Graduate School of Medical Sciences of Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Johannessen, Mona",
+        "short_name": "Johannessen M",
+        "identifiers": [
+          "0000-0003-4604-8600"
+        ],
+        "affiliations": [
+          "Department of Medical Biology, Faculty of Health Sciences, UiT-The Arctic University of Norway, Tromsø, Norway."
+        ]
+      },
+      {
+        "full_name": "Gonzalez, David J",
+        "short_name": "Gonzalez DJ",
+        "identifiers": [
+          "0000-0003-1423-5970"
+        ],
+        "affiliations": [
+          "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Lewis, Nathan E",
+        "short_name": "Lewis NE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+          "Department of Bioengineering, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+          "Center for Molecular Medicine, Complex Carbohydrate Research Center, and Department of Biochemistry and Molecular Biology, University of Georgia, Athens, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Nizet, Victor",
+        "short_name": "Nizet V",
+        "identifiers": [
+          "0000-0003-3847-0422"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, University of California San Diego, School of Medicine, La Jolla, CA, USA.",
+          "Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego, La Jolla, CA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-19 16:34:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42873844"
+    ],
+    "review": [
+      "42873844"
+    ],
+    "pmc": [
+      "13665969"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeh4023?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/staphylococcalinfections.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Staphylococcal Infections"
+      }
+    ],
+    "text_mined": []
+  }
+}

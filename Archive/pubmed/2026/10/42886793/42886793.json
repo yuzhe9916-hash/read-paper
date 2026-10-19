@@ -1,0 +1,423 @@
+{
+  "identity": {
+    "pmid": "42886793",
+    "doi": "10.1126/sciadv.ady0296",
+    "title": "Programmable and selective silencing of oncogenic fusion transcripts by CRISPR-Cas13b via breakpoint sequence recognition."
+  },
+  "content": {
+    "abstract": "Oncogenic gene fusions are key drivers of cancer, yet most remain undruggable by current therapies. Here, we establish CRISPR-PspCas13b as a personalizable platform for systematic silencing of various fusion transcripts. We reveal that recognition and cleavage of the breakpoint sequence by PspCas13b disrupt the fusion transcript, resulting in efficient protein depletion. PspCas13b cleavage produces aberrant, translation-incompetent target RNA species, a subset of which harbors internal deletions proximal to the cleavage site. We demonstrate that targeting the BCR::ABL1 breakpoint sequence efficiently degrades both wild-type and drug-resistant BCR::ABL1 mutants, which are the primary drivers of tyrosine kinase inhibitor resistance and relapse in chronic myeloid leukemia. Molecular profiling revealed that PspCas13b impairs BCR::ABL1 tyrosine phosphokinase activity and triggers extensive transcriptomic and proteomic remodeling, leading to erythroid differentiation and apoptosis in drug-resistant cells. Beyond BCR::ABL1, personalized design of PspCas13b effectively silences other undruggable oncogenic fusions. Collectively, this study establishes a molecular framework for precise targeting of undruggable or drug-resistant oncogenic transcripts.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems",
+      "Humans",
+      "*Fusion Proteins, bcr-abl/genetics",
+      "*Gene Silencing",
+      "Drug Resistance, Neoplasm/genetics",
+      "Leukemia, Myelogenous, Chronic, BCR-ABL Positive/genetics/pathology",
+      "*Oncogene Proteins, Fusion/genetics",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu 胡文欣, Wenxin",
+        "Chen 陈竑霖, Honglin",
+        "He, Steven",
+        "Casan, Joshua M L",
+        "Shembrey, Carolyn",
+        "Li, Sharon",
+        "Brown, Lauren M",
+        "Zhao, Andrea",
+        "Truong, Lynda",
+        "Buchner, Isabella",
+        "Vassiliadis, Dane",
+        "Hughes, Timothy P",
+        "White, Deborah L",
+        "Carmichael, Catherine L",
+        "De Weck, Antoine",
+        "Voskoboinik, Ilia",
+        "Gouil, Quentin",
+        "Trapani, Joseph A",
+        "Ekert, Paul G",
+        "Sadras, Teresa",
+        "Fareh, Mohamed"
+      ],
+      "short_names": [
+        "Hu 胡文欣 W",
+        "Chen 陈竑霖 H",
+        "He S",
+        "Casan JML",
+        "Shembrey C",
+        "Li S",
+        "Brown LM",
+        "Zhao A",
+        "Truong L",
+        "Buchner I",
+        "Vassiliadis D",
+        "Hughes TP",
+        "White DL",
+        "Carmichael CL",
+        "De Weck A",
+        "Voskoboinik I",
+        "Gouil Q",
+        "Trapani JA",
+        "Ekert PG",
+        "Sadras T",
+        "Fareh M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0330-5200",
+        "ORCID: 0009-0008-7469-7716",
+        "ORCID: 0000-0002-3113-9588",
+        "ORCID: 0000-0002-4322-8561",
+        "ORCID: 0000-0002-4322-8203",
+        "ORCID: 0000-0001-5898-096X",
+        "ORCID: 0000-0002-7814-4851",
+        "ORCID: 0000-0002-0910-3730",
+        "ORCID: 0000-0003-4844-333X",
+        "ORCID: 0000-0003-0887-6771",
+        "ORCID: 0000-0002-6410-009X",
+        "ORCID: 0000-0002-5142-7886",
+        "ORCID: 0000-0003-0983-1532",
+        "ORCID: 0000-0002-2976-8617",
+        "ORCID: 0000-0001-9048-9580",
+        "ORCID: 0000-0001-9551-8213"
+      ],
+      "affiliations": [
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia.",
+        "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+        "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+        "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia.",
+        "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+        "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, VIC Australia 3168.",
+        "Monash University, Clayton, VIC Australia 380010.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, VIC Australia 3168.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia.",
+        "Precision Cancer Medicine Theme. South Australian Health and Medical Research Institute (SAHMRI). Adelaide SA.",
+        "Faculty of Health and Medical Sciences, University of Adelaide, Adelaide, SA 5005, Australia.",
+        "Precision Cancer Medicine Theme. South Australian Health and Medical Research Institute (SAHMRI). Adelaide SA.",
+        "Faculty of Health and Medical Sciences, University of Adelaide, Adelaide, SA 5005, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, VIC Australia 3168.",
+        "Monash University, Clayton, VIC Australia 380010.",
+        "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+        "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+        "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia.",
+        "Murdoch Children's Research Institute, Royal Children's Hospital, 50 Flemington Rd, Parkville, Melbourne, 3052, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+        "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu 胡文欣, Wenxin",
+        "short_name": "Hu 胡文欣 W",
+        "identifiers": [
+          "0000-0002-0330-5200"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+          "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Chen 陈竑霖, Honglin",
+        "short_name": "Chen 陈竑霖 H",
+        "identifiers": [
+          "0009-0008-7469-7716"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+          "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "He, Steven",
+        "short_name": "He S",
+        "identifiers": [
+          "0000-0002-3113-9588"
+        ],
+        "affiliations": [
+          "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+          "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Casan, Joshua M L",
+        "short_name": "Casan JML",
+        "identifiers": [
+          "0000-0002-4322-8561"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+          "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Shembrey, Carolyn",
+        "short_name": "Shembrey C",
+        "identifiers": [],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia."
+        ]
+      },
+      {
+        "full_name": "Li, Sharon",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Brown, Lauren M",
+        "short_name": "Brown LM",
+        "identifiers": [
+          "0000-0002-4322-8203"
+        ],
+        "affiliations": [
+          "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+          "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Zhao, Andrea",
+        "short_name": "Zhao A",
+        "identifiers": [
+          "0000-0001-5898-096X"
+        ],
+        "affiliations": [
+          "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+          "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Truong, Lynda",
+        "short_name": "Truong L",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, VIC Australia 3168.",
+          "Monash University, Clayton, VIC Australia 380010."
+        ]
+      },
+      {
+        "full_name": "Buchner, Isabella",
+        "short_name": "Buchner I",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, VIC Australia 3168."
+        ]
+      },
+      {
+        "full_name": "Vassiliadis, Dane",
+        "short_name": "Vassiliadis D",
+        "identifiers": [
+          "0000-0002-7814-4851"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+          "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia."
+        ]
+      },
+      {
+        "full_name": "Hughes, Timothy P",
+        "short_name": "Hughes TP",
+        "identifiers": [
+          "0000-0002-0910-3730"
+        ],
+        "affiliations": [
+          "Precision Cancer Medicine Theme. South Australian Health and Medical Research Institute (SAHMRI). Adelaide SA.",
+          "Faculty of Health and Medical Sciences, University of Adelaide, Adelaide, SA 5005, Australia."
+        ]
+      },
+      {
+        "full_name": "White, Deborah L",
+        "short_name": "White DL",
+        "identifiers": [
+          "0000-0003-4844-333X"
+        ],
+        "affiliations": [
+          "Precision Cancer Medicine Theme. South Australian Health and Medical Research Institute (SAHMRI). Adelaide SA.",
+          "Faculty of Health and Medical Sciences, University of Adelaide, Adelaide, SA 5005, Australia."
+        ]
+      },
+      {
+        "full_name": "Carmichael, Catherine L",
+        "short_name": "Carmichael CL",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, VIC Australia 3168.",
+          "Monash University, Clayton, VIC Australia 380010."
+        ]
+      },
+      {
+        "full_name": "De Weck, Antoine",
+        "short_name": "De Weck A",
+        "identifiers": [
+          "0000-0003-0887-6771"
+        ],
+        "affiliations": [
+          "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+          "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Voskoboinik, Ilia",
+        "short_name": "Voskoboinik I",
+        "identifiers": [
+          "0000-0002-6410-009X"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia."
+        ]
+      },
+      {
+        "full_name": "Gouil, Quentin",
+        "short_name": "Gouil Q",
+        "identifiers": [
+          "0000-0002-5142-7886"
+        ],
+        "affiliations": [
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Trapani, Joseph A",
+        "short_name": "Trapani JA",
+        "identifiers": [
+          "0000-0003-0983-1532"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia."
+        ]
+      },
+      {
+        "full_name": "Ekert, Paul G",
+        "short_name": "Ekert PG",
+        "identifiers": [
+          "0000-0002-2976-8617"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+          "Children's Cancer Institute, Lowy Cancer Research Centre, UNSW Sydney, NSW Australia 2052.",
+          "School of Women's and Children's Health, UNSW Sydney, Sydney, NSW, Australia.",
+          "Murdoch Children's Research Institute, Royal Children's Hospital, 50 Flemington Rd, Parkville, Melbourne, 3052, Australia."
+        ]
+      },
+      {
+        "full_name": "Sadras, Teresa",
+        "short_name": "Sadras T",
+        "identifiers": [
+          "0000-0001-9048-9580"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, Melbourne, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, Melbourne, Australia."
+        ]
+      },
+      {
+        "full_name": "Fareh, Mohamed",
+        "short_name": "Fareh M",
+        "identifiers": [
+          "0000-0001-9551-8213"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3052, Australia.",
+          "Collaborative Centre for Genomic Cancer Medicine, University of Melbourne, Parkville, Victoria, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:05",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886793"
+    ],
+    "review": [
+      "42886793"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.ady0296?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1776",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

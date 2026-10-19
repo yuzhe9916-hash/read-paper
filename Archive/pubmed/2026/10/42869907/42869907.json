@@ -1,0 +1,411 @@
+{
+  "identity": {
+    "pmid": "42869907",
+    "doi": "10.1038/s41467-026-77587-w",
+    "title": "TET2 loss triggers ssDNA gap accumulation and heightened PARP inhibitor sensitivity."
+  },
+  "content": {
+    "abstract": "Somatic mutations in the de novo methyltransferase DNMT3A and cytosine demethylase TET2 are common in age-related clonal hematopoiesis and hematopoietic neoplasms. TET2 mutations, unlike DNMT3A mutations, increase sensitivity to PARP inhibitors (PARPi). We find that TET2 loss, but not DNMT3A loss, alters DNA replication fork progression upon treatment with PARPi Olaparib, resulting in longer DNA replication tracts and increased DNA breaks. This reveals a new link between abnormal fork elongation and PARPi sensitivity in TET2-deficient cells. The elongated forks of TET2-deficient cells contain PRIMPOL-dependent single-stranded (ss)-DNA gaps. This phenotype is dependent on the catalytic activity of TET2 and is mitigated by TET1/3 depletion. Furthermore, TET2 loss causes an imbalance in cytosine methylation and an increase in 5hmU modifications. These modifications are processed by SMUG1, creating abasic sites, detectable via a modified DNA fiber method. A CRISPR screen identified the base excision repair nuclease APE1 as linked to increased PARPi sensitivity in TET2-deficient cells. We propose that abasic sites, skipped by PRIMPOL repriming, lead to ssDNA gaps that are converted into DNA breaks by APE1, increasing PARPi toxicity. Finally, we identify TET2 mutations as an unrecognized predictor of PARPi response in bone marrow samples from patients with myeloid malignancies.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Dioxygenases",
+      "*DNA-Binding Proteins/genetics/metabolism",
+      "*Poly(ADP-ribose) Polymerase Inhibitors/pharmacology",
+      "*DNA, Single-Stranded/metabolism/genetics",
+      "*Proto-Oncogene Proteins/genetics/metabolism",
+      "DNA Replication/drug effects/genetics",
+      "DNA-(Apurinic or Apyrimidinic Site) Lyase/metabolism/genetics",
+      "Piperazines/pharmacology",
+      "Phthalazines/pharmacology",
+      "DNA Methylation",
+      "Excision Repair",
+      "Mutation",
+      "Uracil-DNA Glycosidase"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Agashe, Sumedha",
+        "Athreya, Nidhi",
+        "Jacobs, William",
+        "Letson, Christopher T",
+        "Sviderskiy, Vladislav O",
+        "Rouault, Celia D",
+        "Xie, Yixuan",
+        "Bras-Costa, Carolina",
+        "Zahn, Emily",
+        "Kendall, Mary Claire",
+        "Meroni, Alice",
+        "Wood, Matthew",
+        "Soares, Barbara",
+        "Shao, Jin",
+        "Cox, Maggie J",
+        "Batista, Luis Francisco Zirnberger",
+        "Challen, Grant A",
+        "Krais, John",
+        "Walter, Matthew J",
+        "Oh, Stephen T",
+        "Garcia, Benjamin A",
+        "Edwards, John",
+        "Verma, Priyanka",
+        "Vindigni, Alessandro"
+      ],
+      "short_names": [
+        "Agashe S",
+        "Athreya N",
+        "Jacobs W",
+        "Letson CT",
+        "Sviderskiy VO",
+        "Rouault CD",
+        "Xie Y",
+        "Bras-Costa C",
+        "Zahn E",
+        "Kendall MC",
+        "Meroni A",
+        "Wood M",
+        "Soares B",
+        "Shao J",
+        "Cox MJ",
+        "Batista LFZ",
+        "Challen GA",
+        "Krais J",
+        "Walter MJ",
+        "Oh ST",
+        "Garcia BA",
+        "Edwards J",
+        "Verma P",
+        "Vindigni A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9138-6169",
+        "ORCID: 0009-0005-7024-0733",
+        "ORCID: 0009-0009-0431-5820",
+        "ORCID: 0000-0003-3568-8207",
+        "ORCID: 0009-0002-7730-4371",
+        "ORCID: 0000-0003-4669-8814",
+        "ORCID: 0000-0002-3916-3435",
+        "ORCID: 0000-0002-7753-1091",
+        "ORCID: 0000-0002-8564-5400",
+        "ORCID: 0000-0003-3596-4750",
+        "ORCID: 0000-0002-2852-0767",
+        "ORCID: 0000-0002-0568-5067"
+      ],
+      "affiliations": [
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Department of Radiation Oncology, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Department of Gynecology, University of Zurich and University Hospital of Zurich, Wagistrasse 14, Schlieren, Switzerland.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Amprion Diagnostics in San Diego, San Diego, CA, USA.",
+        "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA. avindigni@wustl.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Agashe, Sumedha",
+        "short_name": "Agashe S",
+        "identifiers": [
+          "0000-0002-9138-6169"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Athreya, Nidhi",
+        "short_name": "Athreya N",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Jacobs, William",
+        "short_name": "Jacobs W",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Letson, Christopher T",
+        "short_name": "Letson CT",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Sviderskiy, Vladislav O",
+        "short_name": "Sviderskiy VO",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+          "Department of Radiation Oncology, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Rouault, Celia D",
+        "short_name": "Rouault CD",
+        "identifiers": [
+          "0009-0005-7024-0733"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Xie, Yixuan",
+        "short_name": "Xie Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Brás-Costa, Carolina",
+        "short_name": "Brás-Costa C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Zahn, Emily",
+        "short_name": "Zahn E",
+        "identifiers": [
+          "0009-0009-0431-5820"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Kendall, Mary Claire",
+        "short_name": "Kendall MC",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Meroni, Alice",
+        "short_name": "Meroni A",
+        "identifiers": [
+          "0000-0003-3568-8207"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+          "Department of Gynecology, University of Zurich and University Hospital of Zurich, Wagistrasse 14, Schlieren, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Wood, Matthew",
+        "short_name": "Wood M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA.",
+          "Amprion Diagnostics in San Diego, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Soares, Barbara",
+        "short_name": "Soares B",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Shao, Jin",
+        "short_name": "Shao J",
+        "identifiers": [
+          "0009-0002-7730-4371"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Cox, Maggie J",
+        "short_name": "Cox MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Batista, Luis Francisco Zirnberger",
+        "short_name": "Batista LFZ",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Challen, Grant A",
+        "short_name": "Challen GA",
+        "identifiers": [
+          "0000-0003-4669-8814"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Krais, John",
+        "short_name": "Krais J",
+        "identifiers": [
+          "0000-0002-3916-3435"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Walter, Matthew J",
+        "short_name": "Walter MJ",
+        "identifiers": [
+          "0000-0002-7753-1091"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Oh, Stephen T",
+        "short_name": "Oh ST",
+        "identifiers": [
+          "0000-0002-8564-5400"
+        ],
+        "affiliations": [
+          "Division of Hematology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Garcia, Benjamin A",
+        "short_name": "Garcia BA",
+        "identifiers": [
+          "0000-0003-3596-4750"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Edwards, John",
+        "short_name": "Edwards J",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Verma, Priyanka",
+        "short_name": "Verma P",
+        "identifiers": [
+          "0000-0002-2852-0767"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Vindigni, Alessandro",
+        "short_name": "Vindigni A",
+        "identifiers": [
+          "0000-0002-0568-5067"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, USA. avindigni@wustl.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:33",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869907"
+    ],
+    "review": [
+      "42869907"
+    ],
+    "pmc": [
+      "13662152"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77587-w",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-APEX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-23",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

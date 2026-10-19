@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "42863841",
+    "doi": "10.1093/nar/gkag928",
+    "title": "Development of CRISPR/Cas13-based analytical tools to study RNA-protein interactions."
+  },
+  "content": {
+    "abstract": "RNA-protein interactions (RPIs) are as important as protein-protein interactions (PPIs) for the formation of membraneless organelles (MLOs) and play vital roles in diverse biological processes. Despite remarkable advances in PPI analysis technologies, the development of tools for RPI analysis has lagged behind. To address this challenge, we integrated three established PPI technologies-bimolecular fluorescence complementation (BiFC), NanoBiT, and split-TurboID-with RNA-targeting CRISPR/dCas13. We applied these platforms to paraspeckles, a representative MLO formed through interactions between the long non-coding RNA NEAT1 and the RNA-binding protein NONO. BiFC-dCas13 functions as a fluorescence-based recorder that enables quantitative detection of NEAT1-NONO interaction events. NanoBiT-dCas13 precisely monitors dynamic changes in the NEAT1-NONO interaction through a reversible luminescence readout. Split-TurboID-dCas13 induces proximity-dependent biotinylation of proteins surrounding paraspeckles, identifying the N6-methyladenosine reader YTHDC1 as a paraspeckle-associated protein. Furthermore, BiFC-dCas13 was readily reconfigured to detect additional RPI pairs, demonstrating the modularity of the platform. Together, these complementary systems provide versatile approaches for recording, monitoring, and discovering RPI-associated biology and molecular environments.",
+    "keywords": [],
+    "mesh_terms": [
+      "*RNA-Binding Proteins/metabolism/genetics",
+      "*CRISPR-Cas Systems/genetics",
+      "Humans",
+      "*RNA, Long Noncoding/metabolism/genetics",
+      "Paraspeckles/metabolism/genetics",
+      "Protein Binding",
+      "*RNA/metabolism",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yamamoto, Keita",
+        "Shikata, Shiori",
+        "Hao, Yangying",
+        "Tomita, Takuya",
+        "Kanai, Rina",
+        "Verhoeyen, Els",
+        "Saeki, Yasushi",
+        "Goyama, Susumu"
+      ],
+      "short_names": [
+        "Yamamoto K",
+        "Shikata S",
+        "Hao Y",
+        "Tomita T",
+        "Kanai R",
+        "Verhoeyen E",
+        "Saeki Y",
+        "Goyama S"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-0225-9525",
+        "ORCID: 0000-0003-4568-9940"
+      ],
+      "affiliations": [
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan.",
+        "Division of Protein Metabolism, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639,Japan.",
+        "Protein Metabolism Project, Tokyo Metropolitan Institute of Medical Science, Tokyo, 156-8506,Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan.",
+        "CIRI-International Center for Infectiology Research, Inserm, U1111, Universite Claude Bernard Lyon 1, CNRS, UMR5308, Ecole Normale Superieure de Lyon, Universite Lyon, 69007,Lyon, France.",
+        "Universite Cote d'Azur, INSERM, C3M, 06204 Nice, France.",
+        "Division of Protein Metabolism, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639,Japan.",
+        "Protein Metabolism Project, Tokyo Metropolitan Institute of Medical Science, Tokyo, 156-8506,Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yamamoto, Keita",
+        "short_name": "Yamamoto K",
+        "identifiers": [
+          "0009-0007-0225-9525"
+        ],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan."
+        ]
+      },
+      {
+        "full_name": "Shikata, Shiori",
+        "short_name": "Shikata S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan."
+        ]
+      },
+      {
+        "full_name": "Hao, Yangying",
+        "short_name": "Hao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan."
+        ]
+      },
+      {
+        "full_name": "Tomita, Takuya",
+        "short_name": "Tomita T",
+        "identifiers": [
+          "0000-0003-4568-9940"
+        ],
+        "affiliations": [
+          "Division of Protein Metabolism, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639,Japan.",
+          "Protein Metabolism Project, Tokyo Metropolitan Institute of Medical Science, Tokyo, 156-8506,Japan."
+        ]
+      },
+      {
+        "full_name": "Kanai, Rina",
+        "short_name": "Kanai R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan."
+        ]
+      },
+      {
+        "full_name": "Verhoeyen, Els",
+        "short_name": "Verhoeyen E",
+        "identifiers": [],
+        "affiliations": [
+          "CIRI-International Center for Infectiology Research, Inserm, U1111, Université Claude Bernard Lyon 1, CNRS, UMR5308, Ecole Normale Supérieure de Lyon, Université Lyon, 69007,Lyon, France.",
+          "Université Côte d'Azur, INSERM, C3M, 06204 Nice, France."
+        ]
+      },
+      {
+        "full_name": "Saeki, Yasushi",
+        "short_name": "Saeki Y",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Protein Metabolism, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639,Japan.",
+          "Protein Metabolism Project, Tokyo Metropolitan Institute of Medical Science, Tokyo, 156-8506,Japan."
+        ]
+      },
+      {
+        "full_name": "Goyama, Susumu",
+        "short_name": "Goyama S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, 108-8639,Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 00:16",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42863841",
+      "33573434",
+      "32496517",
+      "41416371",
+      "42628853",
+      "35608889",
+      "42681516",
+      "31757757",
+      "34433054",
+      "37932453",
+      "39392366",
+      "36209820",
+      "29932899",
+      "31044562",
+      "30642400",
+      "23835137",
+      "35457249",
+      "33667716",
+      "32830222",
+      "33596778",
+      "30946555",
+      "41075892",
+      "31299635",
+      "38717150",
+      "28712728",
+      "34329720",
+      "24173718",
+      "28325845",
+      "22960638",
+      "30745340",
+      "42681518",
+      "29662142",
+      "41909946",
+      "34006179",
+      "32458346",
+      "40768359",
+      "35547764",
+      "39028820",
+      "37474102",
+      "36207756",
+      "38631547",
+      "39937081",
+      "40770919",
+      "23324609",
+      "19720872",
+      "25553361",
+      "27665741",
+      "29289458",
+      "32572232",
+      "41122778",
+      "27064654",
+      "35403619",
+      "40514312",
+      "41309576",
+      "34741808",
+      "34671127",
+      "35654483",
+      "39592606",
+      "32140725",
+      "30767760",
+      "32839320",
+      "31818879",
+      "40650263",
+      "35974014",
+      "42475469",
+      "27783096",
+      "23912807",
+      "38802648",
+      "39698821",
+      "34407706",
+      "34553495",
+      "33217325",
+      "22416126",
+      "30250064",
+      "29515109",
+      "29940185",
+      "39033706",
+      "39032650",
+      "34896376",
+      "32583968",
+      "37349114",
+      "25831520",
+      "19217333",
+      "30725116",
+      "42615282",
+      "29855963",
+      "40652511",
+      "25316907",
+      "26709446",
+      "29394378",
+      "41103024",
+      "25013176",
+      "42437933",
+      "19771334",
+      "36354291",
+      "37210856",
+      "39214388",
+      "32914209",
+      "24507715",
+      "28202761"
+    ],
+    "review": [
+      "42863841",
+      "31044562",
+      "35457249",
+      "32830222",
+      "38717150",
+      "23324609",
+      "19720872",
+      "25553361",
+      "29289458",
+      "35403619",
+      "40514312",
+      "34671127",
+      "34407706",
+      "34553495",
+      "33217325",
+      "29940185",
+      "39033706",
+      "34896376",
+      "42437933",
+      "19771334"
+    ],
+    "pmc": [
+      "13657679"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag928",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "identity": {
+    "pmid": "42887957",
+    "doi": "10.1016/j.aca.2026.346200",
+    "title": "Primer-programmed circular template generation enables padlock-free rolling circle amplification for low-background CRISPR-based pathogen detection."
+  },
+  "content": {
+    "abstract": "Rolling circle amplification (RCA) is a powerful nucleic acid amplification strategy, yet conventional RCA-based biosensing often relies on target-specific padlock probes for circular template construction, which increases probe-design complexity and may introduce nonspecific ligation and background amplification. Here, we develop a padlock-free RCA strategy for CRISPR-based pathogen detection through primer-programmed circular template generation (PPCTG) strategy. Asymmetric recombinase polymerase amplification (RPA) with rationally designed phosphorylated primers generates target-derived single-stranded DNA (ssDNA), which subsequently undergoes universal splint-mediated circularization to form amplification templates without target-specific padlock probes. By integrating target recognition into the amplification-derived ssDNA intermediate, PPCTG couples target amplification with circular template generation while simplifying probe design and reducing nonspecific background. The resulting circular templates support continuous RCA, generating long ssDNA scaffolds that provide abundant activator sites for CRISPR-Cas12a, thereby enabling cascaded signal amplification through trans-cleavage of fluorophore-quencher reporters. The platform achieved a limit of detection of 3.47 aM for Staphylococcus aureus with high analytical specificity. Moreover, extraction-free detection was demonstrated in crude sputum and exhaled breath condensate, with recovery rates of 96.4%-105.5% and good agreement with qPCR results. Overall, PPCTG provides a padlock-free strategy for programmable circular template generation and integrates target amplification, RCA, and CRISPR-Cas12a signal amplification into a streamlined workflow, offering a low-background and ultrasensitive approach for pathogen detection in complex biological matrices.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "Nucleic acid detection",
+      "Padlock-free rolling circle amplification",
+      "Pathogen detection",
+      "Primer-programmed circular template generation"
+    ],
+    "mesh_terms": [
+      "*Nucleic Acid Amplification Techniques/methods",
+      "*Staphylococcus aureus/isolation & purification/genetics",
+      "DNA, Single-Stranded/chemistry/genetics",
+      "*DNA Primers/chemistry/genetics",
+      "*CRISPR-Cas Systems/genetics",
+      "Limit of Detection",
+      "Biosensing Techniques/methods",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats/genetics",
+      "DNA, Circular",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Han, Yemin",
+        "Yu, Haotian",
+        "Lv, Manman",
+        "Cheng, Mengqing",
+        "Li, Weihao",
+        "Ge, Houyang",
+        "Gao, Song",
+        "Yin, Lu",
+        "Ge, Qinyu",
+        "Xu, Xinping",
+        "Huang, Yan",
+        "Sun, Longhua",
+        "Lu, Zuhong",
+        "Liu, Quanjun"
+      ],
+      "short_names": [
+        "Han Y",
+        "Yu H",
+        "Lv M",
+        "Cheng M",
+        "Li W",
+        "Ge H",
+        "Gao S",
+        "Yin L",
+        "Ge Q",
+        "Xu X",
+        "Huang Y",
+        "Sun L",
+        "Lu Z",
+        "Liu Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China. Electronic address: ndyfy05715@ncu.edu.cn.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China; Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China; Southeast University Shenzhen Research Institute, Shenzhen, 518063, China. Electronic address: lqj@seu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Han, Yemin",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Haotian",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Manman",
+        "short_name": "Lv M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Mengqing",
+        "short_name": "Cheng M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Li, Weihao",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Houyang",
+        "short_name": "Ge H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Song",
+        "short_name": "Gao S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Lu",
+        "short_name": "Yin L",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Qinyu",
+        "short_name": "Ge Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xinping",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yan",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Longhua",
+        "short_name": "Sun L",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China. Electronic address: ndyfy05715@ncu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Lu, Zuhong",
+        "short_name": "Lu Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Quanjun",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 211189, China; Jiangxi Provincial Key Laboratory of Respiratory Diseases, The Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, 330052, China; Southeast University Shenzhen Research Institute, Shenzhen, 518063, China. Electronic address: lqj@seu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytica chimica acta"
+    ],
+    "journal_abbrev": [
+      "Anal Chim Acta"
+    ],
+    "pub_date": "2026 Nov 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 23:33",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42887957"
+    ],
+    "review": [
+      "42887957"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-2670(26)01150-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

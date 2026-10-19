@@ -1,0 +1,208 @@
+{
+  "identity": {
+    "pmid": "42892233",
+    "doi": "10.1016/j.bios.2026.119343",
+    "title": "Unipoint-anchored cascade amplification strategy integrating FUSE probe-activated CRISPR-Cas12a for dual mode osteopontin detection toward osteosarcoma assessment and therapeutic response evaluation."
+  },
+  "content": {
+    "abstract": "Reliable assessment of disease status and therapeutic response in osteosarcoma remains an unmet clinical need. Integrative bioinformatics analysis and protein-level verification in paired clinical specimens prioritized secreted phosphoprotein 1 (SPP1, osteopontin) as a liquid biopsy target associated with osteosarcoma progression and patient survival. On this basis, CRUMP, a CRISPR-Cas12a and FUSE Probe-based dual-mode biosensing platform, was developed for SPP1 quantification. A bifunctional NH(2)-ZIF-8 probe co-immobilizes the components required for target recognition and Cas12a activation, while MoS(2)@AuNPs interfaces transduce the resulting signals. Signal amplification is achieved through a unipoint-anchored multisite cascade based on a DNA tetrahedron-HCR architecture, enabling one-to-multiple parallel amplification while balancing stability and sensitivity. A single Cas12a cleavage event simultaneously decreases the electrochemical (EC) signal and increases the fluorescence (FL) signal. These reciprocal changes allow the two readouts to provide an internal consistency check for each measurement. Each channel covers more than five orders of magnitude, with detection limits of 167.7 fg/mL for EC and 331.6 fg/mL for FL. The broad measurement ranges allow most serum samples to be analyzed directly, without the per-sample dilution optimization that ELISA requires, and the complete analysis takes only approximately 85 min. Validation across osteosarcoma cell lines, clinical specimens, and tumor-bearing mouse models provided preliminary evidence for the feasibility of CRUMP in SPP1 quantification and endpoint assessment of chemotherapeutic response. By combining biomarker prioritization, biosensor engineering, and preliminary application testing, this work presents CRUMP as a candidate platform for SPP1-based assessment of osteosarcoma and its therapeutic response.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "Dual-mode biosensor",
+      "Osteosarcoma",
+      "Secreted phosphoprotein 1",
+      "Therapeutic response evaluation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Jie",
+        "Gao, Miaomiao",
+        "Ding, Hongmei",
+        "Song, Youshen",
+        "Zhang, Yantao",
+        "Ten, Yuze",
+        "Wang, Fei",
+        "Miao, Zukang",
+        "Zhang, Jingyu",
+        "Yang, Shuang",
+        "Jiao, Jun"
+      ],
+      "short_names": [
+        "Zhao J",
+        "Gao M",
+        "Ding H",
+        "Song Y",
+        "Zhang Y",
+        "Ten Y",
+        "Wang F",
+        "Miao Z",
+        "Zhang J",
+        "Yang S",
+        "Jiao J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Tianjin Hospital, Tianjin University, Tianjin, 300072, China; Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China.",
+        "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China.",
+        "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China.",
+        "The Third Central Clinical College of Tianjin Medical University, Tianjin, 300170, China.",
+        "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China.",
+        "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China.",
+        "The Third Central Clinical College of Tianjin Medical University, Tianjin, 300170, China.",
+        "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China.",
+        "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China. Electronic address: zhangjingyu2010@tju.edu.cn.",
+        "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China. Electronic address: yangshuang@nankai.edu.cn.",
+        "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China. Electronic address: junjiao@nankai.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Jie",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Hospital, Tianjin University, Tianjin, 300072, China; Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Miaomiao",
+        "short_name": "Gao M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Hongmei",
+        "short_name": "Ding H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China."
+        ]
+      },
+      {
+        "full_name": "Song, Youshen",
+        "short_name": "Song Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Central Clinical College of Tianjin Medical University, Tianjin, 300170, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yantao",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China."
+        ]
+      },
+      {
+        "full_name": "Ten, Yuze",
+        "short_name": "Ten Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Fei",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Central Clinical College of Tianjin Medical University, Tianjin, 300170, China."
+        ]
+      },
+      {
+        "full_name": "Miao, Zukang",
+        "short_name": "Miao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jingyu",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China. Electronic address: zhangjingyu2010@tju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Shuang",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China. Electronic address: yangshuang@nankai.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Jiao, Jun",
+        "short_name": "Jiao J",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China. Electronic address: junjiao@nankai.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors & bioelectronics"
+    ],
+    "journal_abbrev": [
+      "Biosens Bioelectron"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 05:37",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42892233"
+    ],
+    "review": [
+      "42892233"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0956-5663(26)00976-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SPP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3592",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

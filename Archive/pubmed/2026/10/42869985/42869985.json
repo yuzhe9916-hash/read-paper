@@ -1,0 +1,191 @@
+{
+  "identity": {
+    "pmid": "42869985",
+    "doi": "10.1038/s41423-026-01471-2",
+    "title": "CRISPRa screen unveils noncanonical NF-kappaB to boost the antitumor activity of TCR-based CAR-T cells."
+  },
+  "content": {
+    "abstract": "Engineering autologous T cells for adoptive therapies has revolutionized cancer treatment, yet limited persistence remains a major barrier to robust clinical responses and durable disease control. Although costimulation with 4-1BB markedly improves CAR-T-cell persistence, no comparably effective approach has been identified to enhance persistence in T-cell therapies that rely on native TCR signaling, including conventional TCR-T cells and synthetic T-cell receptor and antigen receptor (STAR) T cells. To identify intrinsic persistence regulators in a TCR-based context, we performed an in vivo CRISPR activation screen in STAR-T cells and identified the noncanonical NF-kappaB axis, with RELB as the top hit. Direct RELB overexpression, however, exhibited dose-dependent cytotoxicity, motivating a translational alternative: overexpression of p52, the ncNF-kappaB transcription partner of RELB. Under prolonged antigen exposure, p52 overexpression sustained proliferation, preserved effector functions, and increased the intratumoral trafficking potential, particularly in CD8(+) T cells, thereby yielding superior tumor control. Mechanistically, transcriptomic profiling revealed coordinated upregulation of cell cycle programs and chemokine receptors, along with downregulation of apoptosis and exhaustion-associated modules. Moreover, p52 overexpression restored RELB nuclear translocation in the context of PD-1/PD-L1 engagement, indicating partial resistance to checkpoint-mediated suppression and sustained ncNF-kappaB activity in PD-L1(hi) immunosuppressive environments. Collectively, our findings identify p52 as an antigen-dependent enhancer of ncNF-kappaB, conferring durable persistence and checkpoint resilience on TCR-based T cells and providing a feasible strategy to improve therapeutic effects in solid tumors.",
+    "keywords": [
+      "CRISPR activation screening",
+      "Non-canonical NF-kappaB signaling",
+      "STAR",
+      "T cell persistence",
+      "p52"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Hanyang",
+        "Wu, Yingxin",
+        "Liu, Yue",
+        "Wei, Ruxue",
+        "Zhou, Zhixiao",
+        "Yu, Li",
+        "Lin, Xin",
+        "Wang, Jiasheng"
+      ],
+      "short_names": [
+        "Yu H",
+        "Wu Y",
+        "Liu Y",
+        "Wei R",
+        "Zhou Z",
+        "Yu L",
+        "Lin X",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-4425-424X",
+        "ORCID: 0000-0003-0956-3654"
+      ],
+      "affiliations": [
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "Tsinghua University-Peking University Center for Life Sciences, Beijing, China.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "Tsinghua University-Peking University Center for Life Sciences, Beijing, China.",
+        "Beijing Changping Laboratory, Beijing, China.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "Tsinghua University-Peking University Center for Life Sciences, Beijing, China.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "Tsinghua University-Peking University Center for Life Sciences, Beijing, China.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China. linxin307@tsinghua.edu.cn.",
+        "Tsinghua University-Peking University Center for Life Sciences, Beijing, China. linxin307@tsinghua.edu.cn.",
+        "Beijing Changping Laboratory, Beijing, China. linxin307@tsinghua.edu.cn.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China. carsonwang@cpl.ac.cn.",
+        "Tsinghua University-Peking University Center for Life Sciences, Beijing, China. carsonwang@cpl.ac.cn.",
+        "Beijing Changping Laboratory, Beijing, China. carsonwang@cpl.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Hanyang",
+        "short_name": "Yu H",
+        "identifiers": [
+          "0009-0006-4425-424X"
+        ],
+        "affiliations": [
+          "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yingxin",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+          "Tsinghua University-Peking University Center for Life Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yue",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+          "Tsinghua University-Peking University Center for Life Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Ruxue",
+        "short_name": "Wei R",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Changping Laboratory, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zhixiao",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+          "Tsinghua University-Peking University Center for Life Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Li",
+        "short_name": "Yu L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+          "Tsinghua University-Peking University Center for Life Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Xin",
+        "short_name": "Lin X",
+        "identifiers": [
+          "0000-0003-0956-3654"
+        ],
+        "affiliations": [
+          "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China. linxin307@tsinghua.edu.cn.",
+          "Tsinghua University-Peking University Center for Life Sciences, Beijing, China. linxin307@tsinghua.edu.cn.",
+          "Beijing Changping Laboratory, Beijing, China. linxin307@tsinghua.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiasheng",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China. carsonwang@cpl.ac.cn.",
+          "Tsinghua University-Peking University Center for Life Sciences, Beijing, China. carsonwang@cpl.ac.cn.",
+          "Beijing Changping Laboratory, Beijing, China. carsonwang@cpl.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cellular & molecular immunology"
+    ],
+    "journal_abbrev": [
+      "Cell Mol Immunol"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:34",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869985"
+    ],
+    "review": [
+      "42869985"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41423-026-01471-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TNFRSF9-5",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

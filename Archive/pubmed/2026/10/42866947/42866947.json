@@ -1,0 +1,203 @@
+{
+  "identity": {
+    "pmid": "42866947",
+    "doi": "10.1093/nar/gkag965",
+    "title": "CRISPR-mediated gap-based replacement enables site-specific DNA lesion insertion into long DNA and nucleosomes."
+  },
+  "content": {
+    "abstract": "Defined DNA lesions are essential substrates for dissecting DNA repair mechanisms, yet existing approaches remain limited in positional flexibility, lesion diversity, efficiency, or compatibility with long and chromatinized DNA. Here, we present CGRID (CRISPR-mediated Gap-based Replacement for Insertion of DNA damage), a programmable strategy for site-specific installation of DNA lesions into long DNA and nucleosomes. CGRID uses paired Cas9 nickases to generate two adjacent nicks, followed by gap formation and replacement with a synthetic lesion-containing oligonucleotide. This design enables easy and efficient insertion of diverse DNA lesions at user-defined positions without pre-engineered nicking sites or substrate redesign. Applied to long lambda-DNA, CGRID supports efficient installation of single lesions and internal double-strand breaks at predefined positions, which are challenging to obtain using existing methods. These molecules enable high-throughput single-molecule analysis of diverse repair pathways including base excision repair (BER), nonhomologous end joining, and microhomology-mediated end joining without hydrodynamic force. CGRID further allows efficient site-specific lesion incorporation into nucleosomal DNA, enabling systematic repositioning of damage within a nucleosome. This shows that nucleosome context and lesion orientation strongly influence APE1 incision efficiency. Together, CGRID establishes a broadly applicable platform for programmable DNA damage engineering, bridging biochemical and single-molecule methodologies, and facilitates mechanistic studies of chromatin-dependent genome maintenance.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Nucleosomes/genetics/metabolism",
+      "*DNA/genetics/metabolism/chemistry",
+      "*CRISPR-Cas Systems/genetics",
+      "*DNA Damage",
+      "Excision Repair",
+      "DNA Repair",
+      "DNA Breaks, Double-Stranded"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Youngseo",
+        "An, Soyeong",
+        "Choi, Jimin",
+        "Choi, Moonjung",
+        "Lee, Gyeongjin",
+        "Takata, Kei-Ichi",
+        "Anand, Roopesh",
+        "Myung, Kyungjae",
+        "Lee, Ja Yil"
+      ],
+      "short_names": [
+        "Kim Y",
+        "An S",
+        "Choi J",
+        "Choi M",
+        "Lee G",
+        "Takata KI",
+        "Anand R",
+        "Myung K",
+        "Lee JY"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8272-3397",
+        "ORCID: 0000-0002-5726-9022"
+      ],
+      "affiliations": [
+        "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+        "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+        "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+        "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea.",
+        "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+        "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea.",
+        "Department of biomedical engineering, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+        "Institute of Molecular Biology (IMB), Mainz 55128, Germany.",
+        "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea.",
+        "Department of biomedical engineering, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+        "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+        "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Youngseo",
+        "short_name": "Kim Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "An, Soyeong",
+        "short_name": "An S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Choi, Jimin",
+        "short_name": "Choi J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Choi, Moonjung",
+        "short_name": "Choi M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Gyeongjin",
+        "short_name": "Lee G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Takata, Kei-Ichi",
+        "short_name": "Takata KI",
+        "identifiers": [
+          "0000-0002-8272-3397"
+        ],
+        "affiliations": [
+          "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea.",
+          "Department of biomedical engineering, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Anand, Roopesh",
+        "short_name": "Anand R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Biology (IMB), Mainz 55128, Germany."
+        ]
+      },
+      {
+        "full_name": "Myung, Kyungjae",
+        "short_name": "Myung K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea.",
+          "Department of biomedical engineering, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Ja Yil",
+        "short_name": "Lee JY",
+        "identifiers": [
+          "0000-0002-5726-9022"
+        ],
+        "affiliations": [
+          "Department of biological sciences, Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea.",
+          "Institute for Basic Science Center for Genomic Integrity, Ulsan 44919, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 17:37",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42866947"
+    ],
+    "review": [
+      "42866947"
+    ],
+    "pmc": [
+      "13659233"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-APEX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-23",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag965",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

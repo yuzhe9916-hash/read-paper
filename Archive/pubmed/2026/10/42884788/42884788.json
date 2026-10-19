@@ -1,0 +1,178 @@
+{
+  "identity": {
+    "pmid": "42884788",
+    "doi": "10.3390/plants15192923",
+    "title": "Independent Validation and Refinement of the LAX1-Regulated Transcriptional Network in Rice Panicle Development."
+  },
+  "content": {
+    "abstract": "Rice panicle architecture plays a critical role in determining grain yield; however, the regulatory networks influencing axillary meristem formation remain inadequately elucidated. A previous study identified LAX1 as a canonical bHLH transcription factor, detailing its direct targets and global transcriptomic alterations in lax1 mutants. In this study, an independent CRISPR/Cas9 LAX1 knockout mutant was generated, followed by transcriptome profiling of young panicles. The lax1-KO mutant displayed a reduction in secondary branches and grain number. Applying a more stringent threshold (|log(2) fold change (log(2)FC)| >/= 1), 518 high-confidence differentially expressed genes (DEGs) were identified, 131 of which overlapped with previously reported DEGs (direction concordance: 88.5%), supporting the core LAX1-regulated network. The analysis revealed member-specific PIN regulation (OsPIN1c/1d and OsPIN2 downregulated; OsPIN3t and OsPIN9 upregulated), expression changes in hormone-associated genes (OsPP2C09, OsPP2C49, OsRR3, OsRR9, OsGASR9) and OsTPP genes (OsTPP1, OsTPP4, OsTPP9), and altered expression of panicle regulators (IPA1, OsTB1, DEP1, DEP3, CUC, and MADS-box genes). Motif enrichment analysis further identified bHLH motifs as the most frequently represented, whereas CAMTA and FRS/FRF motifs exhibited the highest statistical significance in DEG promoters, suggesting a possible multi-layered transcriptional architecture. Collectively, these findings validate and refine the LAX1-regulated network, positioning LAX1 as a pivotal coordinator of rice panicle development.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "LAX1",
+      "PIN genes",
+      "auxin transport",
+      "panicle architecture",
+      "rice",
+      "transcriptomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bao, Jin-Lin",
+        "Li, Han",
+        "Wei, Jian-Xin",
+        "Huang, Yu-Xian",
+        "He, Jia-Tong",
+        "Jin, Jian",
+        "Huang, Jing"
+      ],
+      "short_names": [
+        "Bao JL",
+        "Li H",
+        "Wei JX",
+        "Huang YX",
+        "He JT",
+        "Jin J",
+        "Huang J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+        "College of Agriculture, Guangxi University, Nanning 530004, China.",
+        "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+        "College of Life Science and Technology, Guangxi University, Nanning 530004, China.",
+        "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+        "College of Agriculture, Guangxi University, Nanning 530004, China.",
+        "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+        "College of Life Science and Technology, Guangxi University, Nanning 530004, China.",
+        "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+        "College of Life Science and Technology, Guangxi University, Nanning 530004, China.",
+        "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+        "College of Life Science and Technology, Guangxi University, Nanning 530004, China.",
+        "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bao, Jin-Lin",
+        "short_name": "Bao JL",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+          "College of Agriculture, Guangxi University, Nanning 530004, China."
+        ]
+      },
+      {
+        "full_name": "Li, Han",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+          "College of Life Science and Technology, Guangxi University, Nanning 530004, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Jian-Xin",
+        "short_name": "Wei JX",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+          "College of Agriculture, Guangxi University, Nanning 530004, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yu-Xian",
+        "short_name": "Huang YX",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+          "College of Life Science and Technology, Guangxi University, Nanning 530004, China."
+        ]
+      },
+      {
+        "full_name": "He, Jia-Tong",
+        "short_name": "He JT",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+          "College of Life Science and Technology, Guangxi University, Nanning 530004, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Jian",
+        "short_name": "Jin J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China.",
+          "College of Life Science and Technology, Guangxi University, Nanning 530004, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jing",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi University, Nanning 530004, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plants (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Plants (Basel)"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884788"
+    ],
+    "review": [
+      "42884788"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=plants15192923",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1761",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

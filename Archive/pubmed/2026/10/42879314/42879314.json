@@ -1,0 +1,173 @@
+{
+  "identity": {
+    "pmid": "42879314",
+    "doi": "10.1093/bib/bbag559",
+    "title": "Decoding cellular vulnerabilities for interpretable drug response prediction."
+  },
+  "content": {
+    "abstract": "Accurate prediction of anticancer drug response remains challenging because conventional approaches based on chemical structures and baseline molecular profiles do not directly capture drug-induced perturbations or cellular dependencies. Here, we present vulnerability-guided cascaded attention transformer (VCAT), which integrates Connectivity Map (CMap)/Library of Integrated Network-based Cellular Signatures (LINCS)-derived consensus transcriptional signatures with clustered regularly interspaced short palindromic repeats (CRISPR)-supervised cellular representations through adaptive encoders and dual stream cascaded attention. Across four data splitting strategies, VCAT outperformed conventional machine learning and published deep learning models, achieving the best performance in 11 of 12 classification split metric comparisons. Ablation analyses showed that CRISPR-derived vulnerability features complement baseline gene expression and that the proposed interaction architecture further improves prediction. VCAT also enhanced continuous IC50 prediction and generalized across Cancer Therapeutics Response Portal (CTRP), Profiling Relative Inhibition Simultaneously in Mixtures (PRISM), patient-derived organoids, and hepatocellular carcinoma cohorts. Attention based prioritization and integrated gradients jointly highlighted biologically relevant genes, while knockdown of cytosolic iron-sulfur assembly component 3 (CIAO3), methylenetetrahydrofolate dehydrogenase 2 (MTHFD2), and WD repeat domain 1 (WDR1) increased sorafenib sensitivity in hepatocellular carcinoma cell lines. These findings support integrating drug-induced perturbations with genetic vulnerabilities for accurate, interpretable, and transferable anticancer drug response prediction.",
+    "keywords": [
+      "deep learning",
+      "drug response prediction",
+      "gene dependency",
+      "interpretability",
+      "precision oncology"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Antineoplastic Agents/pharmacology/therapeutic use",
+      "Deep Learning",
+      "Gene Expression Regulation, Neoplastic/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Chonghao",
+        "Du, Yulei",
+        "Jiang, Yaxin",
+        "Wang, Yuanfang",
+        "Tang, Di",
+        "Ding, Xiaofan",
+        "He, Mian"
+      ],
+      "short_names": [
+        "Chen C",
+        "Du Y",
+        "Jiang Y",
+        "Wang Y",
+        "Tang D",
+        "Ding X",
+        "He M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6486-273X",
+        "ORCID: 0000-0002-4813-5487"
+      ],
+      "affiliations": [
+        "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China.",
+        "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China.",
+        "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China.",
+        "Department of General Surgery, The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628 Zhenyuan Road, Guangming District, Shenzhen, Guangdong 518107, China.",
+        "Department of General Surgery, The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628 Zhenyuan Road, Guangming District, Shenzhen, Guangdong 518107, China.",
+        "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China.",
+        "MOE Frontiers Science Center for Precision Oncology, University of Macau, Avenida da Universidade, Taipa, Macau SAR 999078, China.",
+        "Department of General Surgery, The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628 Zhenyuan Road, Guangming District, Shenzhen, Guangdong 518107, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Chonghao",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China."
+        ]
+      },
+      {
+        "full_name": "Du, Yulei",
+        "short_name": "Du Y",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yaxin",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuanfang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628 Zhenyuan Road, Guangming District, Shenzhen, Guangdong 518107, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Di",
+        "short_name": "Tang D",
+        "identifiers": [
+          "0000-0002-6486-273X"
+        ],
+        "affiliations": [
+          "Department of General Surgery, The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628 Zhenyuan Road, Guangming District, Shenzhen, Guangdong 518107, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Xiaofan",
+        "short_name": "Ding X",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Health Sciences, University of Macau, Avenida da Universidade, Taipa, Macao SAR 999078, China.",
+          "MOE Frontiers Science Center for Precision Oncology, University of Macau, Avenida da Universidade, Taipa, Macau SAR 999078, China."
+        ]
+      },
+      {
+        "full_name": "He, Mian",
+        "short_name": "He M",
+        "identifiers": [
+          "0000-0002-4813-5487"
+        ],
+        "affiliations": [
+          "Department of General Surgery, The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628 Zhenyuan Road, Guangming District, Shenzhen, Guangdong 518107, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42879314"
+    ],
+    "review": [
+      "42879314"
+    ],
+    "pmc": [
+      "13671233"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3680",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbag559",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42875730",
+    "doi": "10.1002/advs.78229",
+    "title": "CRISPR-Scan: Cas13a Mismatch Tolerance Enabled Ultra-Multiplexed Detection of Same-Site Indels in Acute Myeloid Leukemia."
+  },
+  "content": {
+    "abstract": "Detection of gene mutations related to acute myeloid leukemia (AML) is crucial for its early diagnosis, personalized treatment, and recurrence monitoring. However, accurate detection of diverse mutations occurring at the same locus remains technically challenging. The CRISPR/Cas system, with its unique programmable nucleic acid recognition capabilities, provides a promising solution. Here, we elucidated that CRISPR/LwaCas13a is tolerant to consecutive substitutions but highly sensitive to insertions or deletions (indels) at specific positions of the spacer sequence, enabling rational CRISPR RNA (crRNA) design for multiplex detection of same-site indels. Guided by these principles, we achieved effective detection of ultra-multiplex nucleophosmin 1 (NPM1) c.863_864 4-bp insertions with a single crRNA, while maintaining specificity against the wild-type transcripts. We further established a one-pot CRISPR system, CRISPR-Scan, by integrating recombinase polymerase amplification with LwaCas13a cleavage. CRISPR-Scan enabled detection of mutations in backgrounds as low as 0.01%. In clinical validation, it identified NPM1 mutations in 43 of 120 AML patients, consistent with next-generation sequencing (NGS). Continuous monitoring of four AML patients indicated early recurrence with higher sensitivity than first-generation sequencing (FGS) and full concordance with NGS. A microfluidic chip and portable device further facilitate accurate AML mutation detection. This platform offers an efficient and convenient approach for early AML diagnosis and measurable residual disease (MRD) monitoring.",
+    "keywords": [
+      "CRISPR/Cas13",
+      "CRISPR-Scan",
+      "NPM1 insertion",
+      "acute myeloid leukemia (AML)",
+      "mismatch tolerance",
+      "same-locus indels"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bai, Linlin",
+        "Wang, Bei",
+        "Shi, Mingmin",
+        "Liu, Dianwei",
+        "Ji, Huimin",
+        "Wang, Ting",
+        "Wang, Ziwei",
+        "Guo, Kaiming",
+        "Dou, Xinyang",
+        "Qian, Chunyan",
+        "Zhang, Fang",
+        "Wang, Yongming",
+        "Mao, Hongju",
+        "Wang, Rui"
+      ],
+      "short_names": [
+        "Bai L",
+        "Wang B",
+        "Shi M",
+        "Liu D",
+        "Ji H",
+        "Wang T",
+        "Wang Z",
+        "Guo K",
+        "Dou X",
+        "Qian C",
+        "Zhang F",
+        "Wang Y",
+        "Mao H",
+        "Wang R"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-8497-4753",
+        "ORCID: 0000-0002-3237-1522",
+        "ORCID: 0009-0004-7408-016X",
+        "ORCID: 0009-0006-3118-6479",
+        "ORCID: 0000-0001-8269-5296",
+        "ORCID: 0000-0003-2945-2046"
+      ],
+      "affiliations": [
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "State Key Laboratory of Digital Medical Engineering, Department of Otolaryngology Head and Neck Surgery, School of Medicine, Advanced Institute for Life and Health, Zhongda Hospital, Jiangsu Province High-Tech Key Laboratory for Bio-Medical Research, Southeast University, Nanjing, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Department of Hematology, Peking University Shenzhen Hospital, Shenzhen Peking University-The Hong Kong University of Science and Technology Medical Center, Shenzhen, China.",
+        "Department of Gastroenterology, Shanghai Institute of Pancreatic Diseases, National Key Laboratory of Immunity and Inflammation, Changhai Hospital, Naval Medical University, Shanghai, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Clinical Laboratory, Linping Campus, The Second Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, China.",
+        "College of Biological Science and Engineering, Fuzhou University, Fuzhou, China.",
+        "Research Institute for Microbiology and Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Kowloon, Hong Kong, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "International Human Phenome Institutes, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bai, Linlin",
+        "short_name": "Bai L",
+        "identifiers": [
+          "0009-0009-8497-4753"
+        ],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Bei",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Digital Medical Engineering, Department of Otolaryngology Head and Neck Surgery, School of Medicine, Advanced Institute for Life and Health, Zhongda Hospital, Jiangsu Province High-Tech Key Laboratory for Bio-Medical Research, Southeast University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Mingmin",
+        "short_name": "Shi M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dianwei",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Huimin",
+        "short_name": "Ji H",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ting",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Peking University Shenzhen Hospital, Shenzhen Peking University-The Hong Kong University of Science and Technology Medical Center, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ziwei",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0000-0002-3237-1522"
+        ],
+        "affiliations": [
+          "Department of Gastroenterology, Shanghai Institute of Pancreatic Diseases, National Key Laboratory of Immunity and Inflammation, Changhai Hospital, Naval Medical University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Kaiming",
+        "short_name": "Guo K",
+        "identifiers": [
+          "0009-0004-7408-016X"
+        ],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Dou, Xinyang",
+        "short_name": "Dou X",
+        "identifiers": [
+          "0009-0006-3118-6479"
+        ],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Chunyan",
+        "short_name": "Qian C",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+          "Clinical Laboratory, Linping Campus, The Second Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fang",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biological Science and Engineering, Fuzhou University, Fuzhou, China.",
+          "Research Institute for Microbiology and Department of Food Science and Nutrition, The Hong Kong Polytechnic University, Kowloon, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yongming",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0001-8269-5296"
+        ],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Hongju",
+        "short_name": "Mao H",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Rui",
+        "short_name": "Wang R",
+        "identifiers": [
+          "0000-0003-2945-2046"
+        ],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Department of Laboratory Medicine, Shanghai Pudong Hospital, Human Phenome Institute, State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+          "International Human Phenome Institutes, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 07:18",
+    "fetched_at": "2026-10-19 16:34:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42875730"
+    ],
+    "review": [
+      "42875730"
+    ],
+    "pmc": [
+      "13669218"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

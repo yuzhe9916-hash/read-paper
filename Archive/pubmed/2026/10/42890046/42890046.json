@@ -1,0 +1,141 @@
+{
+  "identity": {
+    "pmid": "42890046",
+    "doi": "10.1021/acsomega.6c07302",
+    "title": "DEG2MOL: Conditional Latent Flow Matching for Transcriptome-Guided de novo Drug Design."
+  },
+  "content": {
+    "abstract": "Transcriptomic profiles capture cellular responses to perturbations, offering a principled foundation for biologically grounded de novo drug design. However, existing transcriptome-guided generative approaches remain limited in biological specificity, transcriptomic coverage, and evaluation across diverse perturbation contexts. Here, we propose DEG2MOL, a biologically grounded conditioning framework that encodes differentially expressed gene profiles through a Gene Ontology (GO)-informed encoder and maps this representation into the latent space of a frozen, pre-trained scaffold-aware VAE via conditional latent flow matching. When benchmarked against five baseline models, DEG2MOL ranked first by rank-sum aggregation of six metrics in both the random- and scaffold-split evaluations. For two representative compound conditions, GO-informed encoder activations were accompanied by enrichment of the corresponding target-engaging pharmacophores among the generated molecules. In docking case studies of two compound-target pairs, generated molecules showed favorable predicted docking scores and reference-associated contacts. DEG2MOL also generated molecules from shRNA knockdown, CRISPR knockout, and Perturb-seq profiles without additional training, indicating transfer across the perturbation types and profiling platforms evaluated. At the transcriptional level, an in silico gene-expression analysis showed that the predicted signatures of generated molecules were more similar to those of target-matched inhibitors than to those of unrelated inhibitors. The data and code are available at https://github.com/KU-MedAI/DEG2MOL.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Songhyeon",
+        "Lim, Wootaek",
+        "Lee, Hawon",
+        "Bong, Hyunsu",
+        "Kim, Jitae",
+        "Jeon, Minji"
+      ],
+      "short_names": [
+        "Kim S",
+        "Lim W",
+        "Lee H",
+        "Bong H",
+        "Kim J",
+        "Jeon M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5731-6186"
+      ],
+      "affiliations": [
+        "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea. RINGGOLD: 36899",
+        "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea. RINGGOLD: 36899",
+        "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea. RINGGOLD: 36899",
+        "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea. RINGGOLD: 36899",
+        "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea. RINGGOLD: 36899",
+        "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea. RINGGOLD: 36899",
+        "Department of Biomedical Informatics, Korea University College of Medicine, 161 Jeongreung-ro, Seoul 02708, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Songhyeon",
+        "short_name": "Kim S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Wootaek",
+        "short_name": "Lim W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Hawon",
+        "short_name": "Lee H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Bong, Hyunsu",
+        "short_name": "Bong H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Jitae",
+        "short_name": "Kim J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jeon, Minji",
+        "short_name": "Jeon M",
+        "identifiers": [
+          "0000-0001-5731-6186"
+        ],
+        "affiliations": [
+          "Department of Biomedical Sciences, Korea University College of Medicine, 73 Goryeodae-ro, Seoul 02841, Republic of Korea.",
+          "Department of Biomedical Informatics, Korea University College of Medicine, 161 Jeongreung-ro, Seoul 02708, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:12",
+    "fetched_at": "2026-10-19 16:32:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42890046"
+    ],
+    "review": [
+      "42890046"
+    ],
+    "pmc": [
+      "13670877"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/acsodf/article-lookup/doi/10.1021/acsomega.6c07302",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "identity": {
+    "pmid": "42882837",
+    "doi": "10.3390/cancers18193142",
+    "title": "H3K27M Mutation Modulates the Antigenic Landscape in Diffuse Midline Glioma."
+  },
+  "content": {
+    "abstract": "BACKGROUND/OBJECTIVES: Diffuse midline gliomas (DMGs) are among the most aggressive paediatric brain tumours, with the pathognomonic H3K27M mutation present in over 80% of cases. This mutation drives epigenetic dysregulation and transcriptional reprogramming, yet its impact on the tumour antigenic landscape remains poorly understood. Given the low mutational burden of DMG, an expanded search beyond neoantigens to include epigenetically dysregulated tumour-associated antigens (TAAs) is critical for advancing antigen-specific immunotherapies. METHODS: We performed immunopeptidomic analysis of two patient-derived H3K27M-mutant DMG cell lines (SU-DIPG13 and BT245) and their isogenic counterparts in which only the mutant H3F3A allele was disrupted by CRISPR editing (H3K27M-KO), leaving wild-type histone H3.3 intact. High-resolution mass spectrometry and bioinformatics were used to define H3K27M-associated changes in the immunopeptidome, and functional T cell assays with HLA-matched healthy donor PBMCs assessed peptide immunogenicity. RESULTS: H3K27M modulated the tumour antigenic landscape in a model-specific manner. Loss of the mutant allele increased HLA-I expression in SU-DIPG13 but not BT245, while immunopeptidomic profiling revealed distinct shifts in tumour-associated peptide presentation in both models, indicating that HLA-I abundance alone does not explain these changes. We identified six peptides derived from SLITRK2, PRAME, XKR5 and CBX2 that elicited T-cell responses in vitro; T cells raised against five of these preferentially recognised the parental H3K27M-mutant DMG cells. Several prioritised peptides were detected only in parental H3K27M-mutant cells, supporting mutation-associated, antigen-selective differences in peptide presentation and tumour antigenicity. CONCLUSIONS: This study shows that H3K27M modulates the antigenic landscape in DMG in a model-dependent, antigen-selective manner, uncovering immunogenic tumour-associated peptides that could serve as targets for precision immunotherapy and establishing a foundation for T cell-based therapies in this otherwise treatment-refractory disease.",
+    "keywords": [
+      "H3K27M",
+      "PRAME",
+      "T cell immunotherapy",
+      "antigen processing and presentation",
+      "immunopeptidomics",
+      "paediatric diffuse midline glioma",
+      "tumour-associated antigens"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shamekhi, Tima",
+        "Zeng, Bijun",
+        "Sun, Claire Xin",
+        "Daniel, Paul",
+        "Lim Kam Sian, Terry C C",
+        "Goncalves, Gabriel",
+        "Huang, Grace",
+        "Fahimi, Farnaz",
+        "Selvakumar, Nivedhitha",
+        "Tanuwidjaya, Erwin",
+        "Woodhouse, Isaac",
+        "Kritzer, Bettina",
+        "Schittenhelm, Ralf B",
+        "Mazzieri, Roberta",
+        "Cain, Jason E",
+        "Nazarian, Javad",
+        "Hansford, Jordan R",
+        "Firestein, Ron",
+        "Dolcetti, Riccardo",
+        "Faridi, Pouya"
+      ],
+      "short_names": [
+        "Shamekhi T",
+        "Zeng B",
+        "Sun CX",
+        "Daniel P",
+        "Lim Kam Sian TCC",
+        "Goncalves G",
+        "Huang G",
+        "Fahimi F",
+        "Selvakumar N",
+        "Tanuwidjaya E",
+        "Woodhouse I",
+        "Kritzer B",
+        "Schittenhelm RB",
+        "Mazzieri R",
+        "Cain JE",
+        "Nazarian J",
+        "Hansford JR",
+        "Firestein R",
+        "Dolcetti R",
+        "Faridi P"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3597-4086",
+        "ORCID: 0000-0002-6199-0584",
+        "ORCID: 0000-0002-2124-3074",
+        "ORCID: 0000-0001-7038-1214",
+        "ORCID: 0009-0001-2316-7474",
+        "ORCID: 0009-0007-5711-5318",
+        "ORCID: 0000-0003-2154-0535",
+        "ORCID: 0000-0002-8221-7697",
+        "ORCID: 0009-0003-6060-8931",
+        "ORCID: 0000-0001-8738-1878",
+        "ORCID: 0000-0003-3987-5894",
+        "ORCID: 0000-0002-1951-9828",
+        "ORCID: 0000-0001-7733-383X",
+        "ORCID: 0000-0002-5255-1838",
+        "ORCID: 0000-0003-1625-9853",
+        "ORCID: 0000-0002-2712-3356"
+      ],
+      "affiliations": [
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3010, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+        "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+        "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+        "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia.",
+        "Department of Paediatrics, University Children's Hospital Zurich, 8008 Zurich, Switzerland.",
+        "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3010, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Molecular and Translational Science, School of Medicine, Nursing and Health Sciences, Monash University, Clayton, VIC 3800, Australia.",
+        "Department of Paediatrics, Monash University, Clayton, VIC 3168, Australia.",
+        "Department of Paediatrics, University Children's Hospital Zurich, 8008 Zurich, Switzerland.",
+        "Michael Rice Centre for Hematology and Oncology, Women's and Children's Hospital, South Australia Health and Medical Research Institute, South Australia Immunogenomics Cancer Institute, Adelaide University, Ade-laide, SA 5000, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3010, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, Parkville, VIC 3010, Australia.",
+        "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+        "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+        "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shamekhi, Tima",
+        "short_name": "Shamekhi T",
+        "identifiers": [
+          "0000-0003-3597-4086"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia."
+        ]
+      },
+      {
+        "full_name": "Zeng, Bijun",
+        "short_name": "Zeng B",
+        "identifiers": [
+          "0000-0002-6199-0584"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3010, Australia."
+        ]
+      },
+      {
+        "full_name": "Sun, Claire Xin",
+        "short_name": "Sun CX",
+        "identifiers": [
+          "0000-0002-2124-3074"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia."
+        ]
+      },
+      {
+        "full_name": "Daniel, Paul",
+        "short_name": "Daniel P",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia."
+        ]
+      },
+      {
+        "full_name": "Lim Kam Sian, Terry C C",
+        "short_name": "Lim Kam Sian TCC",
+        "identifiers": [
+          "0000-0001-7038-1214"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+          "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Goncalves, Gabriel",
+        "short_name": "Goncalves G",
+        "identifiers": [
+          "0009-0001-2316-7474"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+          "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Huang, Grace",
+        "short_name": "Huang G",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia."
+        ]
+      },
+      {
+        "full_name": "Fahimi, Farnaz",
+        "short_name": "Fahimi F",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia."
+        ]
+      },
+      {
+        "full_name": "Selvakumar, Nivedhitha",
+        "short_name": "Selvakumar N",
+        "identifiers": [
+          "0009-0007-5711-5318"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Tanuwidjaya, Erwin",
+        "short_name": "Tanuwidjaya E",
+        "identifiers": [
+          "0000-0003-2154-0535"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+          "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Woodhouse, Isaac",
+        "short_name": "Woodhouse I",
+        "identifiers": [
+          "0000-0002-8221-7697"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Kritzer, Bettina",
+        "short_name": "Kritzer B",
+        "identifiers": [
+          "0009-0003-6060-8931"
+        ],
+        "affiliations": [
+          "Department of Paediatrics, University Children's Hospital Zurich, 8008 Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Schittenhelm, Ralf B",
+        "short_name": "Schittenhelm RB",
+        "identifiers": [
+          "0000-0001-8738-1878"
+        ],
+        "affiliations": [
+          "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+        ]
+      },
+      {
+        "full_name": "Mazzieri, Roberta",
+        "short_name": "Mazzieri R",
+        "identifiers": [],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3010, Australia."
+        ]
+      },
+      {
+        "full_name": "Cain, Jason E",
+        "short_name": "Cain JE",
+        "identifiers": [
+          "0000-0003-3987-5894"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Molecular and Translational Science, School of Medicine, Nursing and Health Sciences, Monash University, Clayton, VIC 3800, Australia.",
+          "Department of Paediatrics, Monash University, Clayton, VIC 3168, Australia."
+        ]
+      },
+      {
+        "full_name": "Nazarian, Javad",
+        "short_name": "Nazarian J",
+        "identifiers": [
+          "0000-0002-1951-9828"
+        ],
+        "affiliations": [
+          "Department of Paediatrics, University Children's Hospital Zurich, 8008 Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hansford, Jordan R",
+        "short_name": "Hansford JR",
+        "identifiers": [
+          "0000-0001-7733-383X"
+        ],
+        "affiliations": [
+          "Michael Rice Centre for Hematology and Oncology, Women's and Children's Hospital, South Australia Health and Medical Research Institute, South Australia Immunogenomics Cancer Institute, Adelaide University, Ade-laide, SA 5000, Australia."
+        ]
+      },
+      {
+        "full_name": "Firestein, Ron",
+        "short_name": "Firestein R",
+        "identifiers": [
+          "0000-0002-5255-1838"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia."
+        ]
+      },
+      {
+        "full_name": "Dolcetti, Riccardo",
+        "short_name": "Dolcetti R",
+        "identifiers": [
+          "0000-0003-1625-9853"
+        ],
+        "affiliations": [
+          "Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia.",
+          "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, VIC 3010, Australia.",
+          "Department of Microbiology and Immunology, The University of Melbourne, Parkville, VIC 3010, Australia."
+        ]
+      },
+      {
+        "full_name": "Faridi, Pouya",
+        "short_name": "Faridi P",
+        "identifiers": [
+          "0000-0002-2712-3356"
+        ],
+        "affiliations": [
+          "Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, VIC 3168, Australia.",
+          "Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC 3168, Australia.",
+          "Monash Proteomics and Metabolomics Platform, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancers"
+    ],
+    "journal_abbrev": [
+      "Cancers (Basel)"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42882837"
+    ],
+    "review": [
+      "42882837"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cancers18193142",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

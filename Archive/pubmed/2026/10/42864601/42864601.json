@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "42864601",
+    "doi": "10.24272/j.issn.2095-8137.2025.361",
+    "title": "Optimized gGBE enables robust G-to-Y conversion in mammalian cells and zebrafish embryos."
+  },
+  "content": {
+    "abstract": "Base editing is a powerful and precise genome-editing tool capable of introducing single-base substitutions with high resolution. Depending on the base-modification domains employed, base editors can mediate both transition and transversion base editing in mammalian cells. While deaminase-derived base editors have enabled efficient transition editing in the zebrafish genome, glycosidase-derived transversion editing remains a significant challenge. In this study, guided by structural insights into the Cas9 complex, we engineered a series of glycosidase guanine base editor (gGBE) constructs by inlaying the N-methylpurine DNA glycosylase (MPG) domain into Cas9 protein. Among these variants, we identified a high-performance gGBE in which MPG was inserted between residues G1246 and S1247 of the PI domain in Streptococcus pyogenes Cas9, which we named gGBE-PIGS. This variant improved editing efficiency by up to 3.5-fold in mammalian cells and 13-fold in zebrafish embryos, without compromising editing precision. Furthermore, we developed a gGBE-editing-responsive GFP reporter to monitor editing efficiency and enrich for gGBE-edited cells and embryos. Using a combination of the optimized gGBE-PIGS and the GFP reporter, we successfully generated zebrafish models carrying mutations homologous to human amyotrophic lateral sclerosis (ALS)-associated variants. Together, these findings highlight the robustness and versatility of the gGBE platform for precise base editing and underscore its promising potential for in vivo disease modeling and therapeutic genome engineering.",
+    "keywords": [
+      "Amyotrophic lateral sclerosis",
+      "Base editing",
+      "CRISPR/Cas9",
+      "Glycosidase",
+      "Zebrafish"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Zebrafish/genetics/embryology",
+      "Humans",
+      "*Gene Editing/methods",
+      "Embryo, Nonmammalian",
+      "CRISPR-Cas Systems",
+      "Amyotrophic Lateral Sclerosis/genetics",
+      "*Glycoside Hydrolases/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Min",
+        "Jiao, Yao-Ge",
+        "Tao, Rui",
+        "Hu, Yun",
+        "Fei, Jun-Yi",
+        "Wang, Chun-Ting",
+        "Yao, Shao-Hua"
+      ],
+      "short_names": [
+        "Li M",
+        "Jiao YG",
+        "Tao R",
+        "Hu Y",
+        "Fei JY",
+        "Wang CT",
+        "Yao SH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Institute of Kidney Diseases, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Tianfu Jincheng Laboratory, Chengdu, Sichuan 610095, China. E-mail: shaohuayao@scu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Min",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Yao-Ge",
+        "short_name": "Jiao YG",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Rui",
+        "short_name": "Tao R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Kidney Diseases, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Yun",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China."
+        ]
+      },
+      {
+        "full_name": "Fei, Jun-Yi",
+        "short_name": "Fei JY",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chun-Ting",
+        "short_name": "Wang CT",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Shao-Hua",
+        "short_name": "Yao SH",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biotherapy, National Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+          "Tianfu Jincheng Laboratory, Chengdu, Sichuan 610095, China. E-mail: shaohuayao@scu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zoological research"
+    ],
+    "journal_abbrev": [
+      "Zool Res"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864601",
+      "37404457",
+      "41678668",
+      "29500194",
+      "28740134",
+      "35333175",
+      "39428086",
+      "37105976",
+      "39960330",
+      "40685751",
+      "41121388",
+      "37495752",
+      "35373735",
+      "41548978",
+      "37322276",
+      "42487445",
+      "23528705",
+      "40469890",
+      "32813255",
+      "30892626",
+      "28300641",
+      "41422102",
+      "35701478",
+      "32674364",
+      "30458760",
+      "27317783",
+      "31914687",
+      "30076894",
+      "42758354",
+      "33272268",
+      "40449999",
+      "30981084",
+      "40954319",
+      "39096898",
+      "28585179",
+      "24257628",
+      "40728527",
+      "31116473",
+      "38851742",
+      "42411453",
+      "39031643",
+      "34735006",
+      "42754893",
+      "33720688",
+      "32887910",
+      "32748174",
+      "35887335",
+      "40885742",
+      "39126615",
+      "42806035",
+      "41285890",
+      "42192532",
+      "39454989",
+      "30836137",
+      "40437234",
+      "31872379",
+      "39499471",
+      "40781772",
+      "42214710",
+      "36374037",
+      "38168994",
+      "32006412",
+      "39496611",
+      "39547118",
+      "29295818",
+      "35238619",
+      "35700449",
+      "34661426",
+      "39848539",
+      "38545958",
+      "36876933",
+      "31991108",
+      "31071267",
+      "35164736",
+      "31964350",
+      "32978399",
+      "31657874",
+      "39556313",
+      "28800611",
+      "35381364",
+      "30819928",
+      "33174413",
+      "40187931",
+      "31433621",
+      "42106677",
+      "41630603",
+      "33462442",
+      "31597252",
+      "25431076",
+      "40492429",
+      "36720917",
+      "41928060",
+      "37434066",
+      "37434184",
+      "39887234",
+      "27096365",
+      "40021632",
+      "27698232",
+      "30593278",
+      "37164010"
+    ],
+    "review": [
+      "42864601",
+      "37495752",
+      "41548978",
+      "40469890",
+      "28300641",
+      "42758354",
+      "39454989",
+      "30836137",
+      "39547118",
+      "31433621"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "http://www.zoores.ac.cn/EN/10.24272/j.issn.2095-8137.2025.361",
+        "provider": "Editorial Office of Zoological Research",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

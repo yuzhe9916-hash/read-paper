@@ -1,0 +1,315 @@
+{
+  "identity": {
+    "pmid": "42864970",
+    "doi": "10.1002/anie.2501228",
+    "title": "Bioorthogonal Vitamin C Probes Enable Cellular Profiling and Investigation of Lysine Vitcylation."
+  },
+  "content": {
+    "abstract": "Vitamin C is an essential micronutrient, yet its direct chemical engagement with the proteome remains poorly defined. Here, we develop and experimentally benchmark a bioorthogonal probe platform for labeling, profiling, and imaging of lysine vitcylation, a recently identified vitamin C-derived post-translational modification, in living cells. Chemoproteomic analysis and fluorescence imaging reveal a candidate vitcylome enriched in nucleolar proteins associated with ribonucleoprotein biogenesis and RNA processing, and reporter-derived lysine adducts on selected targets were validated by mass spectrometry. Time-resolved analyses demonstrate that intracellular vitcylation undergoes unexpectedly rapid remodeling, indicating active cellular regulation. Furthermore, a genome-wide CRISPR-Cas9 screen identifies glutathione S-transferase P1 (GSTP1) as an upstream regulator of global vitamin C-derived protein modification, linking vitcylation remodeling to cellular electrophile handling and redox homeostasis. Collectively, this platform provides a chemical framework for profiling, visualizing, and investigating protein vitcylation in living cells, and reveals vitcylation as a dynamic, spatially organized and regulated metabolic modification.",
+    "keywords": [
+      "biochemistry",
+      "bioorthogonal chemistry",
+      "cell biology",
+      "chemistry",
+      "intracellular",
+      "lysine",
+      "proteome",
+      "proteomics",
+      "ribosome biogenesis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Wanting",
+        "Ding, Baoli",
+        "Yang, Shuqiao",
+        "Li, Xuejie",
+        "Yang, Jiawei",
+        "Zhou, Zhiwan",
+        "Xiao, Sidong",
+        "He, Xiadi",
+        "Zhu, Cheng-Liang",
+        "Zhang, Shuai"
+      ],
+      "short_names": [
+        "Wang W",
+        "Ding B",
+        "Yang S",
+        "Li X",
+        "Yang J",
+        "Zhou Z",
+        "Xiao S",
+        "He X",
+        "Zhu CL",
+        "Zhang S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8285-5795",
+        "ORCID: 0000-0001-5044-9947"
+      ],
+      "affiliations": [
+        "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, China.",
+        "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+        "Department of Endocrine and Metabolic Diseases, Shanghai Institute of Endocrine and Metabolic Diseases, National Clinical Research Center for Metabolic Diseases (Shanghai), Key Laboratory for Endocrine and Metabolic Diseases of the National Health Commission of the PR China, Lifecycle Health Management Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, China.",
+        "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Wanting",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Baoli",
+        "short_name": "Ding B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Shuqiao",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuejie",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jiawei",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zhiwan",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Sidong",
+        "short_name": "Xiao S",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiadi",
+        "short_name": "He X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Endocrine and Metabolic Diseases, Shanghai Institute of Endocrine and Metabolic Diseases, National Clinical Research Center for Metabolic Diseases (Shanghai), Key Laboratory for Endocrine and Metabolic Diseases of the National Health Commission of the PR China, Lifecycle Health Management Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Cheng-Liang",
+        "short_name": "Zhu CL",
+        "identifiers": [
+          "0000-0002-8285-5795"
+        ],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shuai",
+        "short_name": "Zhang S",
+        "identifiers": [
+          "0000-0001-5044-9947"
+        ],
+        "affiliations": [
+          "Hubei Hongshan Laboratory, College of Biomedicine and Health, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Angewandte Chemie (International ed. in English)"
+    ],
+    "journal_abbrev": [
+      "Angew Chem Int Ed Engl"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864970",
+      "42246097",
+      "40023152",
+      "40106725",
+      "42816890",
+      "37733063",
+      "41871182",
+      "31711353",
+      "41226219",
+      "20192265",
+      "37425798",
+      "23912807",
+      "39817196",
+      "35296687",
+      "31869209",
+      "34707257",
+      "32989125",
+      "28411555",
+      "21634380",
+      "20218676",
+      "42435822",
+      "28760965",
+      "41637536",
+      "39661110",
+      "41129672",
+      "27535354",
+      "36633073",
+      "41696360",
+      "42594421",
+      "41687715",
+      "35685793",
+      "31591248",
+      "40719618",
+      "34505430",
+      "31040352",
+      "41345137",
+      "36468704",
+      "27768298",
+      "24768905",
+      "23749335",
+      "25751157",
+      "34370893",
+      "27577262",
+      "28234478",
+      "37247644",
+      "42475469",
+      "28137568",
+      "31577124",
+      "37460812",
+      "38577373",
+      "33928561",
+      "42393509",
+      "35489685",
+      "34342529",
+      "23572520",
+      "27183143",
+      "23667794",
+      "29897771",
+      "35849593",
+      "38838187",
+      "37742082",
+      "36631736",
+      "32027064",
+      "42061713",
+      "31451547",
+      "28893905",
+      "41316889",
+      "30620550",
+      "15606144",
+      "23166591",
+      "35512328",
+      "36630201",
+      "42321533",
+      "39637805",
+      "39348182",
+      "40580095",
+      "31916746",
+      "25363132",
+      "38712070",
+      "24035694",
+      "32911193",
+      "41457686",
+      "39600982",
+      "34468164",
+      "31809900",
+      "34500091",
+      "26902839",
+      "39722009",
+      "35972276",
+      "31097712",
+      "31152396",
+      "22865919",
+      "32690958",
+      "42239292",
+      "42706783",
+      "38619103",
+      "42574220",
+      "15604283",
+      "21669532",
+      "42554672"
+    ],
+    "review": [
+      "42864970",
+      "42816890",
+      "31869209",
+      "34707257",
+      "20218676",
+      "39661110",
+      "36633073",
+      "31577124",
+      "31916746"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/anie.2501228",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GSTP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-212",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

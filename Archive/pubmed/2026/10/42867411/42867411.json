@@ -1,0 +1,355 @@
+{
+  "identity": {
+    "pmid": "42867411",
+    "doi": "10.1093/jimmun/vkag187",
+    "title": "CRISPR-Cas9 screen identifies eIF4G2 as a regulator of CD8+ T cell dysfunction."
+  },
+  "content": {
+    "abstract": "CD8+ T cells directly target and kill cancer cells and are required for effective antitumor immunity. However, CD8+ T cells may become dysfunctional when exposed to chronic antigen stimulation during cancer. Dysfunction is characterized by reduced proliferation, increased expression of inhibitory receptors, and impaired effector function, yet the genetic mechanisms controlling dysfunction remain poorly understood. Therefore, we developed a murine ex vivo chronic stimulation model that recapitulates features of CD8+ T cell dysfunction observed within the tumor microenvironment. By coupling this system with genome-wide CRISPR-Cas9 loss-of-function screening, we discovered that the progression of murine CD8+ T cells to a dysfunctional state required eIF4G2, a noncanonical mRNA translation factor. Deletion of eIF4G2 restored CD8+ T cell survival and proliferation during chronic stimulation conditions in vitro. Transcriptomic, proteomic, and flow cytometric analyses revealed that eIF4G2 deletion shifts CD8+ T cell phenotype from a dysfunctional state to a proliferative state. eIF4G2 depletion reduced oxidative stress, lipid peroxidation, and accumulation of misfolded protein aggresomes during chronic in vitro stimulation. Finally, eIF4G2-depleted cells mediated enhanced tumor control in a murine model of melanoma. These data suggest that targeting eIF4G2 may promote CD8+ T cell resilience and improve therapeutic antitumor immunity.",
+    "keywords": [
+      "T cell",
+      "adoptive cell therapy",
+      "immunotherapy",
+      "tumor microenvironment",
+      "tumor-infiltrating lymphocyte"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*CD8-Positive T-Lymphocytes/immunology/metabolism",
+      "Mice",
+      "*CRISPR-Cas Systems",
+      "*Eukaryotic Initiation Factor-4G/genetics/metabolism/immunology",
+      "Tumor Microenvironment/immunology",
+      "Mice, Inbred C57BL",
+      "T-Cell Exhaustion",
+      "Cell Proliferation",
+      "Melanoma, Experimental/immunology",
+      "Mice, Knockout",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Holcomb, Erin A",
+        "Jiang, Long",
+        "Pearson, Ashley N",
+        "James, Jadyn",
+        "Tate, Akshay",
+        "Wang, Zhuwen",
+        "Dasgupta, Anwesha",
+        "Clauwaert, Jim",
+        "Armas, Nicholas D",
+        "Elaimy, Ameer L",
+        "Palagama, Dilrukshika S W",
+        "Goodwin, Samantha K",
+        "Kwiatkowski, Matthew J",
+        "Gijon, Miguel",
+        "Morgan, Meredith A",
+        "Courtney, Adam H",
+        "Carty, Shannon A",
+        "Huber, Amanda K",
+        "Zou, Weiping",
+        "Prensner, John R",
+        "Green, Michael D"
+      ],
+      "short_names": [
+        "Holcomb EA",
+        "Jiang L",
+        "Pearson AN",
+        "James J",
+        "Tate A",
+        "Wang Z",
+        "Dasgupta A",
+        "Clauwaert J",
+        "Armas ND",
+        "Elaimy AL",
+        "Palagama DSW",
+        "Goodwin SK",
+        "Kwiatkowski MJ",
+        "Gijon M",
+        "Morgan MA",
+        "Courtney AH",
+        "Carty SA",
+        "Huber AK",
+        "Zou W",
+        "Prensner JR",
+        "Green MD"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4583-2682",
+        "ORCID: 0000-0002-7024-636X"
+      ],
+      "affiliations": [
+        "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Pediatrics, Division of Pediatric Hematology/Oncology, University of Michigan Medical School, Ann Arbor, MI, United States.",
+        "Department of Biological Chemistry, University of Michigan, Ann Arbor, MI, United States.",
+        "Department of Pediatrics, Division of Pediatric Hematology/Oncology, University of Michigan Medical School, Ann Arbor, MI, United States.",
+        "Department of Biological Chemistry, University of Michigan, Ann Arbor, MI, United States.",
+        "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Cayman Chemical Company, Ann Arbor, MI, United States.",
+        "Cayman Chemical Company, Ann Arbor, MI, United States.",
+        "Cayman Chemical Company, Ann Arbor, MI, United States.",
+        "Cayman Chemical Company, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Pharmacology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Division of Hematology and Oncology, Department of Internal Medicine, University of Michigan, Ann Arbor, MI, United States.",
+        "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, United States.",
+        "Department of Surgery, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Pediatrics, Division of Pediatric Hematology/Oncology, University of Michigan Medical School, Ann Arbor, MI, United States.",
+        "Department of Biological Chemistry, University of Michigan, Ann Arbor, MI, United States.",
+        "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, United States.",
+        "Department of Microbiology and Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+        "Department of Radiation Oncology, Veterans Affairs Ann Arbor Healthcare System, Ann Arbor, MI, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Holcomb, Erin A",
+        "short_name": "Holcomb EA",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Jiang, Long",
+        "short_name": "Jiang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Pearson, Ashley N",
+        "short_name": "Pearson AN",
+        "identifiers": [
+          "0000-0002-4583-2682"
+        ],
+        "affiliations": [
+          "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "James, Jadyn",
+        "short_name": "James J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Tate, Akshay",
+        "short_name": "Tate A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhuwen",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Dasgupta, Anwesha",
+        "short_name": "Dasgupta A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Division of Pediatric Hematology/Oncology, University of Michigan Medical School, Ann Arbor, MI, United States.",
+          "Department of Biological Chemistry, University of Michigan, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Clauwaert, Jim",
+        "short_name": "Clauwaert J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Division of Pediatric Hematology/Oncology, University of Michigan Medical School, Ann Arbor, MI, United States.",
+          "Department of Biological Chemistry, University of Michigan, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Armas, Nicholas D",
+        "short_name": "Armas ND",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Elaimy, Ameer L",
+        "short_name": "Elaimy AL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Palagama, Dilrukshika S W",
+        "short_name": "Palagama DSW",
+        "identifiers": [],
+        "affiliations": [
+          "Cayman Chemical Company, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Goodwin, Samantha K",
+        "short_name": "Goodwin SK",
+        "identifiers": [],
+        "affiliations": [
+          "Cayman Chemical Company, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Kwiatkowski, Matthew J",
+        "short_name": "Kwiatkowski MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Cayman Chemical Company, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Gijón, Miguel",
+        "short_name": "Gijón M",
+        "identifiers": [],
+        "affiliations": [
+          "Cayman Chemical Company, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Morgan, Meredith A",
+        "short_name": "Morgan MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Courtney, Adam H",
+        "short_name": "Courtney AH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Carty, Shannon A",
+        "short_name": "Carty SA",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology and Oncology, Department of Internal Medicine, University of Michigan, Ann Arbor, MI, United States.",
+          "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Huber, Amanda K",
+        "short_name": "Huber AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Zou, Weiping",
+        "short_name": "Zou W",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+          "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, United States.",
+          "Department of Surgery, University of Michigan School of Medicine, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Prensner, John R",
+        "short_name": "Prensner JR",
+        "identifiers": [
+          "0000-0002-7024-636X"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, Division of Pediatric Hematology/Oncology, University of Michigan Medical School, Ann Arbor, MI, United States.",
+          "Department of Biological Chemistry, University of Michigan, Ann Arbor, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Green, Michael D",
+        "short_name": "Green MD",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program in Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+          "Department of Radiation Oncology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+          "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, United States.",
+          "Department of Microbiology and Immunology, University of Michigan School of Medicine, Ann Arbor, MI, United States.",
+          "Department of Radiation Oncology, Veterans Affairs Ann Arbor Healthcare System, Ann Arbor, MI, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of immunology (Baltimore, Md. : 1950)"
+    ],
+    "journal_abbrev": [
+      "J Immunol"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 17:37",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42867411"
+    ],
+    "review": [
+      "42867411"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jimmunol/article-lookup/doi/10.1093/jimmun/vkag187",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

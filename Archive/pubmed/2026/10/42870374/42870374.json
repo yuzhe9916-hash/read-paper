@@ -1,0 +1,420 @@
+{
+  "identity": {
+    "pmid": "42870374",
+    "doi": "10.1002/cam4.72386",
+    "title": "Impact of p53 Target Genes on Drug Resistance in TP53-Mutated B-Cell Precursor Acute Lymphoblastic Leukemia."
+  },
+  "content": {
+    "abstract": "TP53 mutations are linked to poor prognoses in B-cell precursor acute lymphoblastic leukemia (BCP-ALL), indicating that specific p53 target genes may contribute to drug resistance. Although the impact of specific genetic alterations on drug sensitivity has been reported in BCP-ALL, the effects of TP53 mutations on sensitivity to individual agents remain poorly defined in the clinical setting because of the use of combination chemotherapy regimens. In the present study, we addressed this issue through two complementary analyses using a large panel of BCP-ALL cell lines. Initially, 30 cell lines harboring TP53 mutations demonstrated significantly greater resistance to daunorubicin (DNR), mafosfamide (MAF; an active analog of cyclophosphamide), 6-mercaptopurine (6-MP), and prednisolone compared to 46 cell lines without mutations. Second, 11 CRISPR/Cas9-mediated TP53-knockout sublines derived from cell lines with wild-type TP53 recapitulated resistance to DNR, MAF, and 6-MP, as well as to vincristine (VCR) and cytarabine (Ara-C). Consistent with these findings, re-evaluation of genome-wide CRISPR screening datasets revealed significant enrichment of TP53 gRNAs in cells treated with DNR, MAF, 6-MP, Ara-C, and VCR. Furthermore, transcriptomic and proteomic analyses of p53 target genes in the two cell line models, along with re-evaluation of genome-wide CRISPR screening datasets, identified BAX, BBC3, and FDXR as key p53 target genes associated with multidrug resistance. These results highlight the potential value of targeting these p53 downstream pathways to improve outcomes in TP53-mutated BCP-ALL cases.",
+    "keywords": [
+      "B-cell precursor acute lymphoblastic leukemia",
+      "TP53 mutation",
+      "cell line",
+      "drug resistance",
+      "p53 target genes"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Drug Resistance, Neoplasm/genetics",
+      "*Tumor Suppressor Protein p53/genetics/metabolism",
+      "*Mutation",
+      "*Precursor B-Cell Lymphoblastic Leukemia-Lymphoma/genetics/drug therapy",
+      "Cell Line, Tumor",
+      "Daunorubicin/pharmacology",
+      "Mercaptopurine/pharmacology",
+      "Vincristine/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nguyen, Thao T T",
+        "Tamai, Minori",
+        "Akahane, Koshi",
+        "Komatsu, Chiaki",
+        "Kagami, Keiko",
+        "Qi, Xuekang",
+        "Aswad, Luay",
+        "Miyake, Kunio",
+        "Kasai, Shin",
+        "Somazu, Shinpei",
+        "Watanabe, Atsushi",
+        "Goi, Kumiko",
+        "Oshima, Koichi",
+        "Imanaga, Hiroshi",
+        "Semba, Yuichiro",
+        "Sanada, Masashi",
+        "Lehtio, Janne",
+        "Goto, Hiroaki",
+        "Minegishi, Masayoshi",
+        "Inaba, Toshiya",
+        "Iwamoto, Shotaro",
+        "Maeda, Takahiro",
+        "Jafari, Rozbeh",
+        "Inukai, Takeshi"
+      ],
+      "short_names": [
+        "Nguyen TTT",
+        "Tamai M",
+        "Akahane K",
+        "Komatsu C",
+        "Kagami K",
+        "Qi X",
+        "Aswad L",
+        "Miyake K",
+        "Kasai S",
+        "Somazu S",
+        "Watanabe A",
+        "Goi K",
+        "Oshima K",
+        "Imanaga H",
+        "Semba Y",
+        "Sanada M",
+        "Lehtio J",
+        "Goto H",
+        "Minegishi M",
+        "Inaba T",
+        "Iwamoto S",
+        "Maeda T",
+        "Jafari R",
+        "Inukai T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6905-4582",
+        "ORCID: 0000-0001-8591-1281",
+        "ORCID: 0000-0002-2659-309X",
+        "ORCID: 0000-0001-9196-2229",
+        "ORCID: 0009-0003-2708-9906",
+        "ORCID: 0000-0001-5153-4545",
+        "ORCID: 0000-0002-4181-8111",
+        "ORCID: 0000-0002-0771-3551",
+        "ORCID: 0000-0003-1012-2311",
+        "ORCID: 0000-0001-8576-3530",
+        "ORCID: 0000-0001-6737-1509",
+        "ORCID: 0000-0003-4530-6460",
+        "ORCID: 0000-0002-3396-4709",
+        "ORCID: 0000-0002-4783-2184"
+      ],
+      "affiliations": [
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan.",
+        "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden.",
+        "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden.",
+        "Department of Epidemiology and Environmental Medicine, Interdisciplinary Graduate School of Medicine and Engineering, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan.",
+        "Institute for Cancer Genetics, Columbia University, New York, New York, USA.",
+        "Department of Hematology/Oncology, Saitama Children's Medical Center, Saitama, Japan.",
+        "Department of Medicine and Biosystemic Science, Kyushu University Graduate School of Medical Sciences, Fukuoka, Japan.",
+        "Division of Precision Medicine, Kyushu University Graduate School of Medical Sciences, Fukuoka, Japan.",
+        "Department of Advanced Diagnosis, Clinical Research Center, NHO Nagoya Medical Center, Nagoya, Japan.",
+        "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden.",
+        "Division of Hematology/Oncology, Kanagawa Children's Medical Center, Yokohama, Japan.",
+        "Japanese Red Cross Miyagi Blood Center, Sendai, Japan.",
+        "Department of Animal Experimentation, The Foundation for Biomedical Research and Innovation at Kobe, Kobe, Japan.",
+        "Department of Pediatrics, Mie University Graduate School of Medicine, Tsu, Japan.",
+        "Division of Precision Medicine, Kyushu University Graduate School of Medical Sciences, Fukuoka, Japan.",
+        "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden.",
+        "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+        "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nguyen, Thao T T",
+        "short_name": "Nguyen TTT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Tamai, Minori",
+        "short_name": "Tamai M",
+        "identifiers": [
+          "0000-0001-6905-4582"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+          "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Akahane, Koshi",
+        "short_name": "Akahane K",
+        "identifiers": [
+          "0000-0001-8591-1281"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+          "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Komatsu, Chiaki",
+        "short_name": "Komatsu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+          "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Kagami, Keiko",
+        "short_name": "Kagami K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+          "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Qi, Xuekang",
+        "short_name": "Qi X",
+        "identifiers": [
+          "0000-0002-2659-309X"
+        ],
+        "affiliations": [
+          "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden."
+        ]
+      },
+      {
+        "full_name": "Aswad, Luay",
+        "short_name": "Aswad L",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden."
+        ]
+      },
+      {
+        "full_name": "Miyake, Kunio",
+        "short_name": "Miyake K",
+        "identifiers": [
+          "0000-0001-9196-2229"
+        ],
+        "affiliations": [
+          "Department of Epidemiology and Environmental Medicine, Interdisciplinary Graduate School of Medicine and Engineering, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Kasai, Shin",
+        "short_name": "Kasai S",
+        "identifiers": [
+          "0009-0003-2708-9906"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Somazu, Shinpei",
+        "short_name": "Somazu S",
+        "identifiers": [
+          "0000-0001-5153-4545"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Watanabe, Atsushi",
+        "short_name": "Watanabe A",
+        "identifiers": [
+          "0000-0002-4181-8111"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Goi, Kumiko",
+        "short_name": "Goi K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+          "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan."
+        ]
+      },
+      {
+        "full_name": "Oshima, Koichi",
+        "short_name": "Oshima K",
+        "identifiers": [
+          "0000-0002-0771-3551"
+        ],
+        "affiliations": [
+          "Institute for Cancer Genetics, Columbia University, New York, New York, USA.",
+          "Department of Hematology/Oncology, Saitama Children's Medical Center, Saitama, Japan."
+        ]
+      },
+      {
+        "full_name": "Imanaga, Hiroshi",
+        "short_name": "Imanaga H",
+        "identifiers": [
+          "0000-0003-1012-2311"
+        ],
+        "affiliations": [
+          "Department of Medicine and Biosystemic Science, Kyushu University Graduate School of Medical Sciences, Fukuoka, Japan."
+        ]
+      },
+      {
+        "full_name": "Semba, Yuichiro",
+        "short_name": "Semba Y",
+        "identifiers": [
+          "0000-0001-8576-3530"
+        ],
+        "affiliations": [
+          "Division of Precision Medicine, Kyushu University Graduate School of Medical Sciences, Fukuoka, Japan."
+        ]
+      },
+      {
+        "full_name": "Sanada, Masashi",
+        "short_name": "Sanada M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Advanced Diagnosis, Clinical Research Center, NHO Nagoya Medical Center, Nagoya, Japan."
+        ]
+      },
+      {
+        "full_name": "Lehtiö, Janne",
+        "short_name": "Lehtiö J",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden."
+        ]
+      },
+      {
+        "full_name": "Goto, Hiroaki",
+        "short_name": "Goto H",
+        "identifiers": [
+          "0000-0001-6737-1509"
+        ],
+        "affiliations": [
+          "Division of Hematology/Oncology, Kanagawa Children's Medical Center, Yokohama, Japan."
+        ]
+      },
+      {
+        "full_name": "Minegishi, Masayoshi",
+        "short_name": "Minegishi M",
+        "identifiers": [],
+        "affiliations": [
+          "Japanese Red Cross Miyagi Blood Center, Sendai, Japan."
+        ]
+      },
+      {
+        "full_name": "Inaba, Toshiya",
+        "short_name": "Inaba T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Experimentation, The Foundation for Biomedical Research and Innovation at Kobe, Kobe, Japan."
+        ]
+      },
+      {
+        "full_name": "Iwamoto, Shotaro",
+        "short_name": "Iwamoto S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Mie University Graduate School of Medicine, Tsu, Japan."
+        ]
+      },
+      {
+        "full_name": "Maeda, Takahiro",
+        "short_name": "Maeda T",
+        "identifiers": [
+          "0000-0003-4530-6460"
+        ],
+        "affiliations": [
+          "Division of Precision Medicine, Kyushu University Graduate School of Medical Sciences, Fukuoka, Japan."
+        ]
+      },
+      {
+        "full_name": "Jafari, Rozbeh",
+        "short_name": "Jafari R",
+        "identifiers": [
+          "0000-0002-3396-4709"
+        ],
+        "affiliations": [
+          "Clinical Proteomics Mass Spectrometry, Department of Oncology-Pathology, Karolinska Institutet, Science for Life Laboratory, Solna, Sweden."
+        ]
+      },
+      {
+        "full_name": "Inukai, Takeshi",
+        "short_name": "Inukai T",
+        "identifiers": [
+          "0000-0002-4783-2184"
+        ],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, University of Yamanashi, Chuo, Japan.",
+          "Global Leukemia Cell-Line Assembly Network, University of Yamanashi, Chuo, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer medicine"
+    ],
+    "journal_abbrev": [
+      "Cancer Med"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:34",
+    "fetched_at": "2026-10-19 16:34:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42870374"
+    ],
+    "review": [
+      "42870374"
+    ],
+    "pmc": [
+      "13662230"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/cam4.72386",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

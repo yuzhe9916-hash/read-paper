@@ -1,0 +1,125 @@
+{
+  "identity": {
+    "pmid": "42879020",
+    "doi": "10.1007/978-1-0716-5587-0_15",
+    "title": "Genetic and Epigenetic Manipulation Using CRISPR Techniques in Ewing Sarcoma."
+  },
+  "content": {
+    "abstract": "CRISPR-based technologies have transformed experimental biology by enabling precise, efficient, and programmable manipulation of the genome and epigenome. This chapter provides a comprehensive and practical guide to genetic and epigenetic editing using CRISPR technology, with a particular focus on applications in Ewing sarcoma cell models. We describe strategies for CRISPR-mediated gene knockout (CRISPR KO) via nonhomologous end joining (NHEJ), precise gene knock-in (CRISPR KI) through homology-directed repair (HDR), and reversible transcriptional modulation using CRISPR interference (CRISPRi) and CRISPR activation (CRISPRa). We emphasize the use of ribonucleoprotein (RNP) delivery of Cas9 and single guide RNAs, which offers improved editing efficiency, reduced off-target activity, and enhanced safety compared to plasmid-based approaches. Detailed protocols are provided for guide RNA design, RNP assembly, electroporation-based delivery, single-cell cloning, and molecular validation of edited clones. In addition, we outline best practices for HDR template design, discuss strategies to improve KI efficiency, and address common challenges such as polyploidy, variable editing rates, and DNA-mediated cytotoxicity. For CRISPRi and CRISPRa applications, we describe plasmid-based systems employing catalytically inactive Cas9 fused to transcriptional repressors or activators, enabling potentially tunable and reversible control of endogenous gene expression. Throughout the chapter, practical advice, troubleshooting tips, and critical considerations are included to facilitate successful implementation across diverse experimental settings. Collectively, this chapter serves as a detailed methodological resource for researchers aiming to employ CRISPR-based engineering for functional studies.",
+    "keywords": [
+      "CRISPR",
+      "CRISPRa",
+      "CRISPRi",
+      "Cas9",
+      "Ewing sarcoma",
+      "Gene expression",
+      "Guide RNA"
+    ],
+    "mesh_terms": [
+      "*Sarcoma, Ewing/genetics",
+      "Humans",
+      "*CRISPR-Cas Systems",
+      "RNA, Guide, CRISPR-Cas Systems/genetics",
+      "*Epigenesis, Genetic",
+      "*Gene Editing/methods",
+      "Epigenome Editing",
+      "Cell Line, Tumor",
+      "Gene Knockout Techniques",
+      "Gene Knock-In Techniques",
+      "DNA End-Joining Repair",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Knott, Maximilian M L",
+        "Li, Jing"
+      ],
+      "short_names": [
+        "Knott MML",
+        "Li J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Hopp Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany. maximilian.knott@kitz-heidelberg.de.",
+        "National Center for Tumor Diseases (NCT), NCT Heidelberg, A Partnership Between DKFZ and Heidelberg University Hospital, Heidelberg, Germany. maximilian.knott@kitz-heidelberg.de.",
+        "Division of Translational Pediatric Sarcoma Research, German Cancer Research Center (DKFZ), German Cancer Consortium (DKTK), Heidelberg, Germany. maximilian.knott@kitz-heidelberg.de.",
+        "Hopp Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+        "National Center for Tumor Diseases (NCT), NCT Heidelberg, A Partnership Between DKFZ and Heidelberg University Hospital, Heidelberg, Germany.",
+        "Division of Translational Pediatric Sarcoma Research, German Cancer Research Center (DKFZ), German Cancer Consortium (DKTK), Heidelberg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Knott, Maximilian M L",
+        "short_name": "Knott MML",
+        "identifiers": [],
+        "affiliations": [
+          "Hopp Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany. maximilian.knott@kitz-heidelberg.de.",
+          "National Center for Tumor Diseases (NCT), NCT Heidelberg, A Partnership Between DKFZ and Heidelberg University Hospital, Heidelberg, Germany. maximilian.knott@kitz-heidelberg.de.",
+          "Division of Translational Pediatric Sarcoma Research, German Cancer Research Center (DKFZ), German Cancer Consortium (DKTK), Heidelberg, Germany. maximilian.knott@kitz-heidelberg.de."
+        ]
+      },
+      {
+        "full_name": "Li, Jing",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Hopp Children's Cancer Center Heidelberg (KiTZ), Heidelberg, Germany.",
+          "National Center for Tumor Diseases (NCT), NCT Heidelberg, A Partnership Between DKFZ and Heidelberg University Hospital, Heidelberg, Germany.",
+          "Division of Translational Pediatric Sarcoma Research, German Cancer Research Center (DKFZ), German Cancer Consortium (DKTK), Heidelberg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-19 16:33:29"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42879020"
+    ],
+    "review": [
+      "42879020"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5587-0_15",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

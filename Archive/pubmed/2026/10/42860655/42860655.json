@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "pmid": "42860655",
+    "doi": "10.1002/cnr2.70723",
+    "title": "Integrated Transcriptomic Analysis Identifies ENO3 as a Candidate Lactate Metabolism-Associated Biomarker in Colorectal Cancer Metastasis."
+  },
+  "content": {
+    "abstract": "BACKGROUND AND OBJECTIVES: Metastasis is the primary cause of mortality in colorectal cancer (CRC), a leading global malignancy. Although metabolic reprogramming is a hallmark of cancer, the stage-associated transcriptional features of metabolic pathways during CRC progression remain incompletely understood. This study aimed to characterize transcriptionally inferred metabolic heterogeneity during CRC progression and identify candidate molecular factors associated with metastasis. METHODS: We performed an integrated transcriptomic analysis using TCGA and GEO datasets and compared metabolic pathway signatures across normal tissues, primary tumors, and metastatic lesions. An exploratory tumor lactate metabolism score (TLMS) was developed using Cox regression and LASSO analysis. Consensus clustering identified metabolic subtypes, and their associations with computationally estimated immune-cell signatures were assessed. The functional consequences of ENO3 loss were preliminarily evaluated using CRISPR/Cas9 knockout, cell proliferation assays, and an NSG tail-vein experimental lung colonization model. RESULTS: We observed a stage-associated reversal-like transcriptional pattern: primary tumors showed broad suppression of metabolic pathway signatures relative to normal tissues, whereas metastatic lesions showed reactivation of several signatures, including the pentose phosphate pathway. A six-gene lactate metabolism-related signature stratified patients into prognostic groups within the TCGA cohort. The high-risk group showed higher ssGSEA-inferred neutrophil abundance and enrichment of a neutrophil extracellular trap (NET)-associated transcriptional signature. ENO3 expression was associated with poor outcome, while ENO3 knockout reduced MC38 cell proliferation and experimental lung colonization in NSG mice. CONCLUSIONS: CRC progression is accompanied by stage-associated changes in transcriptomically inferred metabolic programs. TLMS and ENO3 represent exploratory candidate biomarkers that require independent clinical validation and further mechanistic investigation, particularly with respect to lactate metabolism and the tumor immune microenvironment.",
+    "keywords": [
+      "ENO3",
+      "biomarker",
+      "colorectal cancer",
+      "metabolic reprogramming",
+      "tumor metastasis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Colorectal Neoplasms/genetics/pathology/metabolism",
+      "*Phosphopyruvate Hydratase/genetics/metabolism",
+      "*Biomarkers, Tumor/genetics/metabolism",
+      "Animals",
+      "*Lactic Acid/metabolism",
+      "Mice",
+      "Gene Expression Profiling",
+      "Metabolic Reprogramming",
+      "Gene Expression Regulation, Neoplastic",
+      "Prognosis",
+      "Male",
+      "Cell Line, Tumor",
+      "Neoplasm Metastasis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qian, Jiahao",
+        "Wang, Miaomiao",
+        "Liu, Jiaqi",
+        "Gao, Meiling"
+      ],
+      "short_names": [
+        "Qian J",
+        "Wang M",
+        "Liu J",
+        "Gao M"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-2155-5144",
+        "ORCID: 0009-0002-3117-6044"
+      ],
+      "affiliations": [
+        "Central Research Laboratory, the First Affiliated Hospital of Soochow University, Suzhou, China.",
+        "Department of Dermatology, The First Affiliated Hospital of Soochow University, Suzhou, China.",
+        "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China.",
+        "Central Research Laboratory, the First Affiliated Hospital of Soochow University, Suzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qian, Jiahao",
+        "short_name": "Qian J",
+        "identifiers": [
+          "0009-0003-2155-5144"
+        ],
+        "affiliations": [
+          "Central Research Laboratory, the First Affiliated Hospital of Soochow University, Suzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Miaomiao",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Dermatology, The First Affiliated Hospital of Soochow University, Suzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiaqi",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Meiling",
+        "short_name": "Gao M",
+        "identifiers": [
+          "0009-0002-3117-6044"
+        ],
+        "affiliations": [
+          "Central Research Laboratory, the First Affiliated Hospital of Soochow University, Suzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer reports (Hoboken, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Cancer Rep (Hoboken)"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-19 16:35:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860655",
+      "41436831",
+      "41485251",
+      "42848099",
+      "39121198",
+      "41743703",
+      "42773727",
+      "41832427",
+      "41836446",
+      "40547013",
+      "42618857",
+      "41987073",
+      "35477821",
+      "40933995",
+      "42212139",
+      "42827850",
+      "40362431",
+      "42317343",
+      "42079738",
+      "38779664",
+      "42601732",
+      "38902737",
+      "41562081",
+      "41761968",
+      "42550740",
+      "42702836",
+      "41917876",
+      "40764361",
+      "42798652",
+      "40963631",
+      "39516442",
+      "41194017",
+      "40303483",
+      "42650169",
+      "41672292",
+      "42185987",
+      "41694488",
+      "41380489",
+      "41779351",
+      "41208987",
+      "40068177",
+      "40438104",
+      "34344319",
+      "41694394",
+      "42794739",
+      "41904502",
+      "42464330",
+      "41293172",
+      "42495647",
+      "42332846",
+      "39396837",
+      "26248089",
+      "42643572",
+      "40438100",
+      "41378020",
+      "41163045",
+      "41849028",
+      "38817665",
+      "39353384",
+      "42112339",
+      "34193202",
+      "40143685",
+      "42244292",
+      "40574852",
+      "40097546",
+      "42263482",
+      "41303528",
+      "42378631",
+      "41208601",
+      "42106773",
+      "41779075",
+      "40728646",
+      "24440673",
+      "41219406",
+      "40047469",
+      "42143404",
+      "42074579",
+      "39966486",
+      "34335633",
+      "40656609",
+      "41601652",
+      "26686083",
+      "42287557",
+      "40485064",
+      "42643512",
+      "42510824",
+      "41618991",
+      "38724951",
+      "41351424",
+      "42170969",
+      "41635856",
+      "41567189",
+      "42812411",
+      "42279338",
+      "41006685",
+      "41507372",
+      "42257998",
+      "41235257",
+      "42789583",
+      "41756290"
+    ],
+    "review": [
+      "42860655",
+      "41219406"
+    ],
+    "pmc": [
+      "13655375"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/colorectalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Colorectal Cancer"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/cnr2.70723",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3791",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

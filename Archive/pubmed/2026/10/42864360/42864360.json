@@ -1,0 +1,437 @@
+{
+  "identity": {
+    "pmid": "42864360",
+    "doi": "10.1038/s41467-026-77495-z",
+    "title": "In vivo CRISPR screens identify dual functions of DNMT3A in mediating tumor immune evasion."
+  },
+  "content": {
+    "abstract": "Cancer immunotherapy has achieved remarkable clinical efficacy across multiple cancers but remains ineffective for most patients, and the mechanisms underlying resistance remain incompletely understood. Here, we perform in vivo CRISPR-Cas9 screens in female mice and identify DNA methyltransferase 3 A (DNMT3A) as a key driver of tumor immune evasion through both methyltransferase-dependent and -independent mechanisms. DNMT3A represses TNFRSF1A and TNFRSF1B expression, enabling tumor cells to evade TNFalpha-induced killing. Independently of its methyltransferase activity, DNMT3A interacts with NFYA to activate cholesterol biosynthesis, leading to zymosterol accumulation in tumor interstitial fluid. Zymosterol impairs SREBP2 cleavage and promotes HMGCR degradation in CD8(+) T cells, thereby suppressing cholesterol biosynthesis and compromising their antitumor effector functions. Targeting DNMT3A with antisense oligonucleotides overcomes resistance to immune checkpoint blockade. Collectively, these findings establish DNMT3A as an integrated epigenetic and metabolic checkpoint in tumor immune evasion and a potential target for immunotherapy.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "DNA Methyltransferase 3A",
+      "Female",
+      "*DNA (Cytosine-5-)-Methyltransferases/genetics/metabolism/immunology",
+      "Mice",
+      "CRISPR-Cas Systems",
+      "Humans",
+      "*Tumor Escape/genetics/immunology",
+      "Cell Line, Tumor",
+      "Cholesterol/biosynthesis",
+      "CD8-Positive T-Lymphocytes/immunology/metabolism",
+      "*Neoplasms/immunology/genetics",
+      "Immunotherapy",
+      "Mice, Inbred C57BL",
+      "Gene Expression Regulation, Neoplastic"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Jianhong",
+        "Deng, Yanrong",
+        "Chen, Haonan",
+        "Zhou, Xiaojun",
+        "Yin, Siyuan",
+        "Qian, Qun",
+        "Xie, Xiaoyu",
+        "Chen, Quanjiao",
+        "Zhang, Jinfang",
+        "Fan, Lifang",
+        "Ren, Xianghai",
+        "Chen, Baoxiang",
+        "Jiang, Congqing"
+      ],
+      "short_names": [
+        "Zhao J",
+        "Deng Y",
+        "Chen H",
+        "Zhou X",
+        "Yin S",
+        "Qian Q",
+        "Xie X",
+        "Chen Q",
+        "Zhang J",
+        "Fan L",
+        "Ren X",
+        "Chen B",
+        "Jiang C"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-7408-7462",
+        "ORCID: 0000-0001-6035-0756",
+        "ORCID: 0000-0001-8487-6007",
+        "ORCID: 0000-0001-8092-6687",
+        "ORCID: 0009-0001-9513-6618",
+        "ORCID: 0000-0001-6324-5740"
+      ],
+      "affiliations": [
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. 19jhzhao@whu.edu.cn.",
+        "Department of Immunology, University of Texas Southwestern Medical Center, Dallas, TX, USA. 19jhzhao@whu.edu.cn.",
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China.",
+        "College of Life Sciences, Hubei University, Wuhan, China.",
+        "College of Bioengineering, Henan University of Technology, Zhengzhou, China.",
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China.",
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China.",
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China.",
+        "CAS Key Laboratory of Special Pathogens and Biosafety, CAS Center for Influenza Research and Early Warning, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "Department of Radiation and Medical Oncology, Medical Research Institute, Frontier Science Center of Immunology and Metabolism, Hubei Key Laboratory of Tumor Biological Behavior, Hubei Provincial Clinical Research Center for Cancer, Zhongnan Hospital of Wuhan University, Wuhan University, Wuhan, China.",
+        "State Key Laboratory of Metabolism and Regulation in Complex Organisms, College of Life Sciences, Taikang Center for Life and Medical Sciences, Wuhan University, Wuhan, China.",
+        "Department of Pathology, Zhongnan Hospital of Wuhan University, Wuhan, China. lifangfan@whu.edu.cn.",
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. xhren@whu.edu.cn.",
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. bxchen@whu.edu.cn.",
+        "Rosalind and Morris Goodman Cancer Institute, McGill University, Montreal, QC, Canada. bxchen@whu.edu.cn.",
+        "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+        "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+        "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+        "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. wb002554@whu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Jianhong",
+        "short_name": "Zhao J",
+        "identifiers": [
+          "0009-0006-7408-7462"
+        ],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. 19jhzhao@whu.edu.cn.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. 19jhzhao@whu.edu.cn.",
+          "Department of Immunology, University of Texas Southwestern Medical Center, Dallas, TX, USA. 19jhzhao@whu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Deng, Yanrong",
+        "short_name": "Deng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Haonan",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Hubei University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaojun",
+        "short_name": "Zhou X",
+        "identifiers": [
+          "0000-0001-6035-0756"
+        ],
+        "affiliations": [
+          "College of Bioengineering, Henan University of Technology, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Siyuan",
+        "short_name": "Yin S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Qun",
+        "short_name": "Qian Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Xiaoyu",
+        "short_name": "Xie X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Quanjiao",
+        "short_name": "Chen Q",
+        "identifiers": [],
+        "affiliations": [
+          "CAS Key Laboratory of Special Pathogens and Biosafety, CAS Center for Influenza Research and Early Warning, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jinfang",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0000-0001-8487-6007"
+        ],
+        "affiliations": [
+          "Department of Radiation and Medical Oncology, Medical Research Institute, Frontier Science Center of Immunology and Metabolism, Hubei Key Laboratory of Tumor Biological Behavior, Hubei Provincial Clinical Research Center for Cancer, Zhongnan Hospital of Wuhan University, Wuhan University, Wuhan, China.",
+          "State Key Laboratory of Metabolism and Regulation in Complex Organisms, College of Life Sciences, Taikang Center for Life and Medical Sciences, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Lifang",
+        "short_name": "Fan L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Zhongnan Hospital of Wuhan University, Wuhan, China. lifangfan@whu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Ren, Xianghai",
+        "short_name": "Ren X",
+        "identifiers": [
+          "0000-0001-8092-6687"
+        ],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. xhren@whu.edu.cn.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. xhren@whu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Baoxiang",
+        "short_name": "Chen B",
+        "identifiers": [
+          "0009-0001-9513-6618"
+        ],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. bxchen@whu.edu.cn.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. bxchen@whu.edu.cn.",
+          "Rosalind and Morris Goodman Cancer Institute, McGill University, Montreal, QC, Canada. bxchen@whu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Jiang, Congqing",
+        "short_name": "Jiang C",
+        "identifiers": [
+          "0000-0001-6324-5740"
+        ],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+          "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+          "Clinical Center of Intestinal and Colorectal Diseases of Hubei Province, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+          "Low Rectal Cancer Diagnosis and Treatment Center, Zhongnan Hospital of Wuhan University, Wuhan, China. wb002554@whu.edu.cn.",
+          "Wuhan Clinical Research Center for Constipation and Pelvic Floor Disorders, Wuhan, China. wb002554@whu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864360",
+      "33589527",
+      "34416901",
+      "41265176",
+      "37847338",
+      "39960919",
+      "41887394",
+      "41319963",
+      "40091029",
+      "39990209",
+      "40764968",
+      "41133888",
+      "39892819",
+      "16131836",
+      "41700824",
+      "40509568",
+      "42620795",
+      "40976049",
+      "31509742",
+      "41679170",
+      "42589572",
+      "38951697",
+      "38992029",
+      "29776993",
+      "40108474",
+      "39898483",
+      "42208982",
+      "39873720",
+      "32968282",
+      "41417728",
+      "34093541",
+      "34879274",
+      "37095198",
+      "40833532",
+      "38635884",
+      "29324392",
+      "42638604",
+      "38906602",
+      "40541864",
+      "41093624",
+      "40475762",
+      "41915438",
+      "39990668",
+      "38380551",
+      "41564866",
+      "40945645",
+      "39420583",
+      "41965902",
+      "40991281",
+      "39152265",
+      "42593543",
+      "39292786",
+      "39298484",
+      "39891171",
+      "42028950",
+      "37001908",
+      "39227744",
+      "42054532",
+      "29236683",
+      "42297231",
+      "41252204",
+      "41785601",
+      "39617792",
+      "42091690",
+      "41022734",
+      "40279954",
+      "38820140",
+      "41662369",
+      "40745160",
+      "29728415",
+      "40447165",
+      "40221151",
+      "39401555",
+      "42000030",
+      "31442407",
+      "41799200",
+      "38734931",
+      "40629035",
+      "27335278",
+      "42791538",
+      "32554751",
+      "42210236",
+      "42758798",
+      "41005980",
+      "42667989",
+      "24837369",
+      "41977119",
+      "40050045",
+      "40730259",
+      "41500473",
+      "41987339",
+      "41436831",
+      "39107297",
+      "27835902",
+      "27582468",
+      "34039392",
+      "40665335",
+      "33795383",
+      "33090550",
+      "42217559"
+    ],
+    "review": [
+      "42864360",
+      "42589572",
+      "41417728",
+      "42297231",
+      "41977119",
+      "41987339"
+    ],
+    "pmc": [
+      "13658228"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77495-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

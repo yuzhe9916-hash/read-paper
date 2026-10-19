@@ -1,0 +1,170 @@
+{
+  "identity": {
+    "pmid": "42872486",
+    "doi": "10.1093/bioinformatics/btag708",
+    "title": "CRISPR-HAWK: haplotype- and variant-aware guide design toolkit for CRISPR-Cas."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Current CRISPR guide RNA design tools rely on reference genomes, overlooking how genetic variation impacts editing outcomes. As genome editing advances toward clinical applications, incorporating population diversity becomes essential for ensuring therapeutic efficacy across diverse populations. RESULTS: We present CRISPR-HAWK, a framework integrating individual- and population-scale variants and haplotypes into gRNA design. Analyzing therapeutic targets across 79 648 genomes reveals that genetic variants substantially alter guide performance. For the clinically approved sickle cell disease therapeutic guide targeting BCL11A, we identify haplotypes that completely abolish predicted cutting activity. Across seven therapeutic loci, 82.5% of guides contain variants modifying on-target activity. Variants also create novel protospacer adjacent motif sites generating individual-specific guides invisible to reference-based design. These findings demonstrate that variant-aware selection is critical for equitable genome editing. AVAILABILITY: CRISPR-HAWK is available at https://github.com/pinellolab/CRISPR-HAWK and https://github.com/InfOmics/CRISPR-HAWK.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Haplotypes",
+      "*CRISPR-Cas Systems",
+      "*RNA, Guide, CRISPR-Cas Systems/genetics",
+      "Humans",
+      "*Software",
+      "Genetic Variation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kumbara, Alisa",
+        "Tognon, Manuel",
+        "Carone, Giulia",
+        "Fontanesi, Arianna",
+        "Bombieri, Nicola",
+        "Giugno, Rosalba",
+        "Pinello, Luca"
+      ],
+      "short_names": [
+        "Kumbara A",
+        "Tognon M",
+        "Carone G",
+        "Fontanesi A",
+        "Bombieri N",
+        "Giugno R",
+        "Pinello L"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-3899-3928",
+        "ORCID: 0000-0002-6707-2071",
+        "ORCID: 0000-0001-9843-7638",
+        "ORCID: 0000-0003-1109-3823"
+      ],
+      "affiliations": [
+        "Department of Engineering for Innovation Medicine, University of Verona, Verona, VR 37134, Italy.",
+        "Department of Computer Science, University of Verona, Verona, VR 37134, Italy.",
+        "Department of Computer Science, University of Verona, Verona, VR 37134, Italy.",
+        "Department of Computer Science, University of Verona, Verona, VR 37134, Italy.",
+        "Department of Engineering for Innovation Medicine, University of Verona, Verona, VR 37134, Italy.",
+        "Department of Computer Science, University of Verona, Verona, VR 37134, Italy.",
+        "Molecular Pathology Unit, Center for Computational and Integrative Biology and Center for Cancer Research, Massachusetts General Hospital, Charlestown, MA 02129, United States.",
+        "Department of Pathology, Harvard Medical School, Boston, MA 02115, United States.",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kumbara, Alisa",
+        "short_name": "Kumbara A",
+        "identifiers": [
+          "0009-0002-3899-3928"
+        ],
+        "affiliations": [
+          "Department of Engineering for Innovation Medicine, University of Verona, Verona, VR 37134, Italy."
+        ]
+      },
+      {
+        "full_name": "Tognon, Manuel",
+        "short_name": "Tognon M",
+        "identifiers": [
+          "0000-0002-6707-2071"
+        ],
+        "affiliations": [
+          "Department of Computer Science, University of Verona, Verona, VR 37134, Italy."
+        ]
+      },
+      {
+        "full_name": "Carone, Giulia",
+        "short_name": "Carone G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, University of Verona, Verona, VR 37134, Italy."
+        ]
+      },
+      {
+        "full_name": "Fontanesi, Arianna",
+        "short_name": "Fontanesi A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, University of Verona, Verona, VR 37134, Italy."
+        ]
+      },
+      {
+        "full_name": "Bombieri, Nicola",
+        "short_name": "Bombieri N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Engineering for Innovation Medicine, University of Verona, Verona, VR 37134, Italy."
+        ]
+      },
+      {
+        "full_name": "Giugno, Rosalba",
+        "short_name": "Giugno R",
+        "identifiers": [
+          "0000-0001-9843-7638"
+        ],
+        "affiliations": [
+          "Department of Computer Science, University of Verona, Verona, VR 37134, Italy."
+        ]
+      },
+      {
+        "full_name": "Pinello, Luca",
+        "short_name": "Pinello L",
+        "identifiers": [
+          "0000-0003-1109-3823"
+        ],
+        "affiliations": [
+          "Molecular Pathology Unit, Center for Computational and Integrative Biology and Center for Cancer Research, Massachusetts General Hospital, Charlestown, MA 02129, United States.",
+          "Department of Pathology, Harvard Medical School, Boston, MA 02115, United States.",
+          "Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-19 16:34:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42872486"
+    ],
+    "review": [
+      "42872486"
+    ],
+    "pmc": [
+      "13674355"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag708",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

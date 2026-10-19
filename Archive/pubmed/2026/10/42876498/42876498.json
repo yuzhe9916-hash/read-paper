@@ -1,0 +1,164 @@
+{
+  "identity": {
+    "pmid": "42876498",
+    "doi": "10.3389/fcimb.2026.1946820",
+    "title": "MerR-type regulator ZccR links zinc homeostasis to biofilm formation and interspecies competition in Streptococcus mutans."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: Zinc is widely present in the oral microenvironment and can influence the growth of oral bacteria. ZccR is a MerR-type transcriptional regulator that controls zinc efflux in Streptococcus mutans (S. mutans), but its role in biofilm virulence and interspecies competition with oral commensals remains unclear. This study aimed to investigate the role of ZccR in the formation of single-species biofilms of S. mutans and dual-species biofilms with oral commensal streptococci, and its underlying regulatory mechanisms. METHODS: We constructed an in-frame zccR knockout mutant of S. mutans. The growth curve, crystal violet staining, anthrone method, scanning electron microscopy, fluorescence in situ hybridization, and deferred antagonism assay were used to assess growth, biofilm development, dual-species biofilm composition, and interspecies competitive capacity. RNA-seq was employed to identify genome-wide transcriptional alterations, and promoter-lacZ reporter strains were constructed to confirm the transcriptional regulation mode of ZccR on zccE and on itself. RESULTS: The deletion of zccR significantly suppressed biofilm formation and water-insoluble exopolysaccharide production of S. mutans at 150 muM Zn(2+), a concentration that only modestly affected planktonic growth. In dual-species biofilms containing Streptococcus gordonii (S. gordonii), the mutant exhibited reduced oxidative stress tolerance and weaker inhibition of S. gordonii, despite upregulation of bacteriocin genes. RNA-sequencing identified 89 differentially expressed genes (67 upregulated and 22 downregulated), including downregulation of the mutanobactin cluster and FAD-dependent oxidoreductases, upregulation of iron-uptake genes, induction of HomR-tcy-linked cystine-uptake pathways, glutamine biosynthesis, and CRISPR-Cas genes, and a shift from sucrose import (scrA/msmX) toward lac-dependent lactose/galactose metabolism. Most of these shifts tracked intracellular zinc accumulation rather than direct ZccR control. Promoter-lacZ assays revealed that ZccR activates zccE and represses its own promoter, and zinc acts on these promoters through ZccR-dependent and ZccR-independent routes. CONCLUSIONS: ZccR links zinc homeostasis with biofilm formation and oral interspecies ecology of S. mutans, thus offering a future intervention point for cariogenic biofilm control.",
+    "keywords": [
+      "Streptococcus mutans",
+      "ZccR",
+      "biofilm formation",
+      "interspecies competition",
+      "oral microecology",
+      "transcriptional regulation",
+      "zinc homeostasis"
+    ],
+    "mesh_terms": [
+      "*Biofilms/growth & development",
+      "*Streptococcus mutans/genetics/metabolism/growth & development/physiology",
+      "*Zinc/metabolism",
+      "*Homeostasis",
+      "Gene Expression Regulation, Bacterial",
+      "*Bacterial Proteins/genetics/metabolism",
+      "*Transcription Factors/genetics/metabolism",
+      "Promoter Regions, Genetic",
+      "Gene Knockout Techniques"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pan, Yangyang",
+        "Xu, Zhaonan",
+        "Wang, Shuyu",
+        "Xu, Muxin",
+        "Dong, Haiyun",
+        "Mei, Liqin",
+        "Zhang, Keke"
+      ],
+      "short_names": [
+        "Pan Y",
+        "Xu Z",
+        "Wang S",
+        "Xu M",
+        "Dong H",
+        "Mei L",
+        "Zhang K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China.",
+        "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China.",
+        "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Stomatology, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Stomatology, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China.",
+        "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China.",
+        "Institute of Stomatology, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pan, Yangyang",
+        "short_name": "Pan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Zhaonan",
+        "short_name": "Xu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shuyu",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Muxin",
+        "short_name": "Xu M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Stomatology, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Haiyun",
+        "short_name": "Dong H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Stomatology, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Mei, Liqin",
+        "short_name": "Mei L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Dentistry, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Keke",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Stomatology, School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cellular and infection microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Infect Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 13:35",
+    "fetched_at": "2026-10-19 16:34:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42876498"
+    ],
+    "review": [
+      "42876498"
+    ],
+    "pmc": [
+      "13661357"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fcimb.2026.1946820",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

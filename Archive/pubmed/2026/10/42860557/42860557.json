@@ -1,0 +1,350 @@
+{
+  "identity": {
+    "pmid": "42860557",
+    "doi": "10.1002/tcr.70259",
+    "title": "Surface-Enhanced Raman Spectroscopy Aptasensors for Nucleic-Acid Detection: Advances, Challenges, and Future Perspectives."
+  },
+  "content": {
+    "abstract": "Nucleic-acid biomarkers play pivotal roles in disease diagnosis, therapeutic monitoring, and precision medicine, creating an urgent demand for analytical platforms combining high sensitivity, molecular specificity, and rapid detection. Surface-enhanced Raman spectroscopy (SERS) integrated with aptamers, short single-stranded DNA or RNA oligonucleotides, has attracted considerable attention by coupling programmable molecular recognition with ultrasensitive plasmon-enhanced Raman detection. This review evaluates recent advances in aptamer-based SERS biosensors for nucleic-acid analysis, systematically examining sensing mechanisms, plasmonic substrate engineering, aptamer immobilization, signal-transduction pathways, and amplification approaches, including catalytic hairpin assembly, hybridization chain reaction, rolling circle amplification, and CRISPR-assisted systems. Recent developments in microfluidics, artificial intelligence-assisted spectral analysis, portable Raman instrumentation, and point-of-care platforms are assessed while distinguishing true aptamer-mediated sensing from conventional hybridization-based DNA detection. Rational hotspot engineering, deterministic nanogap architectures, and advanced amplification strategies have enabled detection from femtomolar to attomolar levels with improved selectivity, multiplexing, and reproducibility. Challenges including substrate variability, quantitative standardization, aptamer stability, biosafety, and clinical translation are discussed. Future directions toward standardized, intelligent, clinically deployable SERS platforms for next-generation molecular diagnostics and precision healthcare are proposed.",
+    "keywords": [
+      "aptamer biosensors",
+      "nucleic-acid detection",
+      "plasmonic nanostructures",
+      "surface-enhanced Raman spectroscopy",
+      "ultrasensitive biosensing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alam, Md Saiful",
+        "Hassan, Kazi Mohammed Mehedi",
+        "Tarafdar, Monika",
+        "Hossain, Mohammad Imran",
+        "Parvez, Mohammad Anwar",
+        "Rahaman, Mostafizur",
+        "Hasnat, Mohammad A"
+      ],
+      "short_names": [
+        "Alam MS",
+        "Hassan KMM",
+        "Tarafdar M",
+        "Hossain MI",
+        "Parvez MA",
+        "Rahaman M",
+        "Hasnat MA"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-5353-7979",
+        "ORCID: 0000-0001-5375-3637",
+        "ORCID: 0000-0001-6388-901X",
+        "ORCID: 0000-0002-5495-1771",
+        "ORCID: 0000-0002-9441-3986"
+      ],
+      "affiliations": [
+        "Electrochemistry & Catalysis Research Laboratory (ECRL), Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh.",
+        "Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh.",
+        "Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh.",
+        "Electrochemistry & Catalysis Research Laboratory (ECRL), Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh.",
+        "Department of Chemical Engineering, College of Engineering, King Faisal University, Al-Ahsa, Saudi Arabia.",
+        "Department of Chemistry, College of Science, King Saud University, Riyadh, Saudi Arabia.",
+        "Electrochemistry & Catalysis Research Laboratory (ECRL), Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Alam, Md Saiful",
+        "short_name": "Alam MS",
+        "identifiers": [],
+        "affiliations": [
+          "Electrochemistry & Catalysis Research Laboratory (ECRL), Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Hassan, Kazi Mohammed Mehedi",
+        "short_name": "Hassan KMM",
+        "identifiers": [
+          "0009-0003-5353-7979"
+        ],
+        "affiliations": [
+          "Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Tarafdar, Monika",
+        "short_name": "Tarafdar M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Hossain, Mohammad Imran",
+        "short_name": "Hossain MI",
+        "identifiers": [
+          "0000-0001-5375-3637"
+        ],
+        "affiliations": [
+          "Electrochemistry & Catalysis Research Laboratory (ECRL), Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Parvez, Mohammad Anwar",
+        "short_name": "Parvez MA",
+        "identifiers": [
+          "0000-0001-6388-901X"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, College of Engineering, King Faisal University, Al-Ahsa, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Rahaman, Mostafizur",
+        "short_name": "Rahaman M",
+        "identifiers": [
+          "0000-0002-5495-1771"
+        ],
+        "affiliations": [
+          "Department of Chemistry, College of Science, King Saud University, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Hasnat, Mohammad A",
+        "short_name": "Hasnat MA",
+        "identifiers": [
+          "0000-0002-9441-3986"
+        ],
+        "affiliations": [
+          "Electrochemistry & Catalysis Research Laboratory (ECRL), Department of Chemistry, School of Physical Sciences, Shahjalal University of Science and Technology, Sylhet, Bangladesh."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical record (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Chem Rec"
+    ],
+    "pub_date": "2026 Oct 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-19 16:35:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860557",
+      "42439725",
+      "39943486",
+      "42246243",
+      "41371329",
+      "42405767",
+      "40780173",
+      "42444903",
+      "42772054",
+      "41641524",
+      "39749546",
+      "42715723",
+      "42584103",
+      "40991036",
+      "42628452",
+      "41698023",
+      "42490334",
+      "41977591",
+      "41352752",
+      "37703463",
+      "41149348",
+      "42184318",
+      "42702327",
+      "42430895",
+      "42519356",
+      "41600295",
+      "42414244",
+      "41220416",
+      "42590737",
+      "39727829",
+      "40914357",
+      "39991932",
+      "42659825",
+      "40862937",
+      "33939402",
+      "40778194",
+      "42451374",
+      "33714469",
+      "35943403",
+      "40294575",
+      "41641521",
+      "41709870",
+      "40300474",
+      "41020277",
+      "42790644",
+      "42287190",
+      "42479228",
+      "40801693",
+      "35966585",
+      "41241483",
+      "39307577",
+      "40701727",
+      "42345902",
+      "42217635",
+      "39023836",
+      "41606937",
+      "34369760",
+      "41222338",
+      "42112886",
+      "38811142",
+      "41873606",
+      "42176519",
+      "40525845",
+      "42197154",
+      "31484403",
+      "20919697",
+      "41251787",
+      "39067931",
+      "42676354",
+      "42567578",
+      "42272446",
+      "42508314",
+      "42002340",
+      "42364512",
+      "40907370",
+      "41808396",
+      "29306030",
+      "37998152",
+      "35473867",
+      "41902167",
+      "38099470",
+      "42048928",
+      "42201448",
+      "40917009",
+      "40096150",
+      "41264989",
+      "40300343",
+      "31486639",
+      "41816930",
+      "27993009",
+      "25766032",
+      "35183908",
+      "42176005",
+      "42639808",
+      "32928438",
+      "42627324",
+      "41803510",
+      "40255478",
+      "41954658",
+      "38436691"
+    ],
+    "review": [
+      "42860557",
+      "42439725",
+      "39943486",
+      "42246243",
+      "41371329",
+      "42405767",
+      "40780173",
+      "42444903",
+      "42772054",
+      "41641524",
+      "39749546",
+      "42715723",
+      "42584103",
+      "40991036",
+      "42628452",
+      "41698023",
+      "42490334",
+      "41977591",
+      "41352752",
+      "41149348",
+      "42184318",
+      "42702327",
+      "42430895",
+      "41600295",
+      "42414244",
+      "41220416",
+      "42590737",
+      "39727829",
+      "40914357",
+      "39991932",
+      "42659825",
+      "40862937",
+      "42451374",
+      "33714469",
+      "35943403",
+      "40294575",
+      "41641521",
+      "41709870",
+      "40300474",
+      "41020277",
+      "42790644",
+      "42479228",
+      "40801693",
+      "39307577",
+      "42345902",
+      "42217635",
+      "41606937",
+      "41222338",
+      "42176519",
+      "40525845",
+      "42197154",
+      "31484403",
+      "41251787",
+      "42676354",
+      "42272446",
+      "42508314",
+      "42364512",
+      "40907370",
+      "41808396",
+      "37998152",
+      "35473867",
+      "41902167",
+      "38099470",
+      "42048928",
+      "42201448",
+      "40917009",
+      "40096150",
+      "41264989",
+      "40300343",
+      "35183908",
+      "42176005",
+      "42639808",
+      "32928438",
+      "42627324",
+      "41803510",
+      "40255478",
+      "41954658"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/tcr.70259",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

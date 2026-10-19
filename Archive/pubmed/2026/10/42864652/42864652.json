@@ -1,0 +1,379 @@
+{
+  "identity": {
+    "pmid": "42864652",
+    "doi": "10.1186/s13073-026-01718-7",
+    "title": "CRISPR integration of an FLT3 CAR into the TRAC locus generates CAR T cells for AML."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Acute myeloid leukemia (AML) remains a therapeutically challenging hematological malignancy with high relapse rates, especially in patients harboring mutations in the FMS-like tyrosine kinase 3 (FLT3) gene. FLT3, a receptor tyrosine kinase involved in hematopoietic cell proliferation and survival, is frequently mutated or overexpressed in AML, contributing to leukemic proliferation and poor prognosis. Although FLT3 inhibitors have demonstrated clinical benefit, resistance often develops, underscoring the need for alternative treatment strategies. METHODS: In this study, we developed and evaluated allogeneic anti-FLT3 CAR T cells engineered by CRISPR/Cas9-mediated targeted integration into the T cell receptor alpha constant (TRAC) locus (TRAC-CAR T). This approach enables CAR expression under the endogenous TRAC promoter while simultaneously disrupting native TCR expression, thereby allowing the use of allogeneic T cells with reduced risk of graft-versus-host disease. RESULTS: TRAC-CAR T cells demonstrated efficient disruption of TCRalphabeta expression, robust surface CAR expression, and superior integration efficiency compared to safe harbor AAVS1-targeted and lentivirally transduced CAR T cells (LV-CAR T). Functionally, TRAC-CAR T cells exhibited potent and selective cytotoxicity against FLT3-positive AML cell lines in vitro, achieving comparable killing relative to LV-CAR T cells. In a xenograft AML mouse model, TRAC-CAR T cells effectively reduced leukemia burden and prolonged mouse survival, with efficacy matching that of LV-CAR T cells. Notably, TRAC-CAR T cells exhibited reduced exhaustion marker expression. CONCLUSIONS: Together, these results highlight TRAC-integrated anti-FLT3 CAR T cells as a promising off-the-shelf immunotherapy candidate, combining precise gene editing, efficient manufacturing, and potent anti-leukemic activity.",
+    "keywords": [
+      "Acute myeloid leukemia",
+      "CAR T cells",
+      "CAR-T cells",
+      "CRISPR/Cas9",
+      "FLT3",
+      "TCR knockout",
+      "TRAC locus",
+      "allogeneic immunotherapy",
+      "graft-versus-host disease",
+      "targeted integration"
+    ],
+    "mesh_terms": [
+      "*fms-Like Tyrosine Kinase 3/genetics/immunology",
+      "Humans",
+      "*Leukemia, Myeloid, Acute/therapy/genetics/immunology",
+      "Animals",
+      "*T-Lymphocytes/immunology/metabolism",
+      "*Immunotherapy, Adoptive/methods",
+      "*Receptors, Chimeric Antigen/genetics",
+      "Mice",
+      "*CRISPR-Cas Systems",
+      "Cell Line, Tumor",
+      "*Genetic Loci"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Noer, Maya G",
+        "Christensen, Kimmie B",
+        "Mikkelsen, Nanna S",
+        "Skjelbostad, Sigrid Fu",
+        "Rothemejer, Frederik H",
+        "Wittenborn, Thomas",
+        "Famme, Simon",
+        "Mikkelsen, Kasper",
+        "Barington, Torben",
+        "Thomsen, Martin K",
+        "Barnkob, Mike B",
+        "Moller, Bjarne K",
+        "Bak, Rasmus O"
+      ],
+      "short_names": [
+        "Noer MG",
+        "Christensen KB",
+        "Mikkelsen NS",
+        "Skjelbostad SF",
+        "Rothemejer FH",
+        "Wittenborn T",
+        "Famme S",
+        "Mikkelsen K",
+        "Barington T",
+        "Thomsen MK",
+        "Barnkob MB",
+        "Moller BK",
+        "Bak RO"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7255-3139",
+        "ORCID: 0000-0001-6968-148X",
+        "ORCID: 0000-0002-5892-1174",
+        "ORCID: 0000-0002-7383-0297"
+      ],
+      "affiliations": [
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Clinical Immunology, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, Aarhus, 8200, Denmark.",
+        "Department of Clinical Immunology, Odense University Hospital, Odense, Denmark.",
+        "Centre for Cellular Immunotherapy of Haematological Cancer Odense (CITCO), Odense, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Clinical Medicine, Aarhus University, 8200, Aarhus, Denmark.",
+        "Department of Infectious Diseases, Aarhus University Hospital, 8200, Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Clinical Immunology, Odense University Hospital, Odense, Denmark.",
+        "Centre for Cellular Immunotherapy of Haematological Cancer Odense (CITCO), Odense, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+        "Department of Clinical Immunology, Odense University Hospital, Odense, Denmark.",
+        "Centre for Cellular Immunotherapy of Haematological Cancer Odense (CITCO), Odense, Denmark.",
+        "Department of Clinical Immunology, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, Aarhus, 8200, Denmark. bjmoel@onerm.dk.",
+        "Department of Clinical Medicine, Aarhus University, 8200, Aarhus, Denmark. bjmoel@onerm.dk.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark. bak@biomed.au.dk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Noer, Maya G",
+        "short_name": "Noer MG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+          "Department of Clinical Immunology, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, Aarhus, 8200, Denmark."
+        ]
+      },
+      {
+        "full_name": "Christensen, Kimmie B",
+        "short_name": "Christensen KB",
+        "identifiers": [
+          "0000-0001-7255-3139"
+        ],
+        "affiliations": [
+          "Department of Clinical Immunology, Odense University Hospital, Odense, Denmark.",
+          "Centre for Cellular Immunotherapy of Haematological Cancer Odense (CITCO), Odense, Denmark."
+        ]
+      },
+      {
+        "full_name": "Mikkelsen, Nanna S",
+        "short_name": "Mikkelsen NS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark."
+        ]
+      },
+      {
+        "full_name": "Skjelbostad, Sigrid Fu",
+        "short_name": "Skjelbostad SF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark."
+        ]
+      },
+      {
+        "full_name": "Rothemejer, Frederik H",
+        "short_name": "Rothemejer FH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark.",
+          "Department of Clinical Medicine, Aarhus University, 8200, Aarhus, Denmark.",
+          "Department of Infectious Diseases, Aarhus University Hospital, 8200, Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Wittenborn, Thomas",
+        "short_name": "Wittenborn T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark."
+        ]
+      },
+      {
+        "full_name": "Fammé, Simon",
+        "short_name": "Fammé S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark."
+        ]
+      },
+      {
+        "full_name": "Mikkelsen, Kasper",
+        "short_name": "Mikkelsen K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark."
+        ]
+      },
+      {
+        "full_name": "Barington, Torben",
+        "short_name": "Barington T",
+        "identifiers": [
+          "0000-0001-6968-148X"
+        ],
+        "affiliations": [
+          "Department of Clinical Immunology, Odense University Hospital, Odense, Denmark.",
+          "Centre for Cellular Immunotherapy of Haematological Cancer Odense (CITCO), Odense, Denmark."
+        ]
+      },
+      {
+        "full_name": "Thomsen, Martin K",
+        "short_name": "Thomsen MK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark."
+        ]
+      },
+      {
+        "full_name": "Barnkob, Mike B",
+        "short_name": "Barnkob MB",
+        "identifiers": [
+          "0000-0002-5892-1174"
+        ],
+        "affiliations": [
+          "Department of Clinical Immunology, Odense University Hospital, Odense, Denmark.",
+          "Centre for Cellular Immunotherapy of Haematological Cancer Odense (CITCO), Odense, Denmark."
+        ]
+      },
+      {
+        "full_name": "Møller, Bjarne K",
+        "short_name": "Møller BK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Immunology, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, Aarhus, 8200, Denmark. bjmoel@onerm.dk.",
+          "Department of Clinical Medicine, Aarhus University, 8200, Aarhus, Denmark. bjmoel@onerm.dk."
+        ]
+      },
+      {
+        "full_name": "Bak, Rasmus O",
+        "short_name": "Bak RO",
+        "identifiers": [
+          "0000-0002-7383-0297"
+        ],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergsgade 10, Bldg. 1115, 8000, Aarhus C, Denmark. bak@biomed.au.dk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome medicine"
+    ],
+    "journal_abbrev": [
+      "Genome Med"
+    ],
+    "pub_date": "2026 Jul 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-19 16:34:44"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864652",
+      "32592688",
+      "40789664",
+      "40943160",
+      "29716633",
+      "41324594",
+      "41916134",
+      "29472720",
+      "42284763",
+      "35950535",
+      "41845478",
+      "36163632",
+      "41721623",
+      "35246156",
+      "39285441",
+      "40324075",
+      "40921629",
+      "39856752",
+      "37379267",
+      "41985065",
+      "41485047",
+      "29605708",
+      "38580329",
+      "38493479",
+      "38868778",
+      "37795087",
+      "30860598",
+      "33627493",
+      "42035126",
+      "42659934",
+      "28225754",
+      "28676343",
+      "41702366",
+      "39008193",
+      "36214866",
+      "42435781",
+      "33384686",
+      "40425009",
+      "27907031",
+      "41225489",
+      "39535595",
+      "33531429",
+      "42098093",
+      "34412685",
+      "34531250",
+      "39133622",
+      "42679594",
+      "29077054",
+      "41386018",
+      "36845088",
+      "32483603",
+      "35288466",
+      "40659447",
+      "41242468",
+      "32589753",
+      "42409731",
+      "36382633",
+      "35711141",
+      "28246194",
+      "38231412",
+      "39387839",
+      "39113090",
+      "25887778",
+      "35803613",
+      "41899506",
+      "40761794",
+      "27265873",
+      "39033444",
+      "42750591",
+      "40443031",
+      "30405611",
+      "40879055",
+      "41888396",
+      "37180104",
+      "32358567",
+      "38871487",
+      "41608579",
+      "39935177",
+      "41540104",
+      "41270153",
+      "29316944",
+      "42035942",
+      "40873035",
+      "29463558",
+      "31751472",
+      "37108788",
+      "41136363",
+      "41126239",
+      "41213188",
+      "38978049",
+      "31005597",
+      "29856956",
+      "42827984",
+      "29483708",
+      "31217189",
+      "27778197",
+      "42616838",
+      "39236794",
+      "29706119",
+      "41405764"
+    ],
+    "review": [
+      "42864652",
+      "34412685",
+      "41242468",
+      "41126239",
+      "41405764"
+    ],
+    "pmc": [
+      "13660038"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-026-01718-7",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/acutemyeloidleukemia.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Acute Myeloid Leukemia"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3547",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
