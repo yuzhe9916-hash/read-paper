@@ -1,0 +1,152 @@
+{
+  "identity": {
+    "pmid": "42895018",
+    "doi": "10.1021/acssensors.6c02339",
+    "title": "Multiplexed Nucleic Acid Detection Using Sequence-Specific Cleavage Mediated by Repair Endonucleases."
+  },
+  "content": {
+    "abstract": "Rapid, portable detection of multiple nucleic acid targets is essential for infectious disease surveillance and precision oncology. CRISPR-based diagnostics have set a high bar for sensitivity and single-base specificity, yet their reliance on collateral nuclease activity complicates multiplexing, integration with amplification, and point-of-care deployment. Here, we present TIMBER (templated incision mediated by endonucleases of repair), a non-CRISPR platform that achieves comparable performance without nonspecific nuclease activity. TIMBER uses a repair endonuclease to cleave probes containing abasic sites only when they are hybridized to a matched target. The system exhibits strong specificity, enabling single-nucleotide polymorphism discrimination. TIMBER provides an analytical limit of detection of 12 pM without preamplification or one copy per muL (1.6 aM) with preamplification through RT-PCR or RT-LAMP, with results observable by visual fluorescence or on lateral flow. We deploy TIMBER to detect SARS-CoV-2 in clinical saliva samples and further demonstrate multiplex detection of four targets, enabling identification of EGFR mutations in lung cancer samples. This approach offers a flexible, rapid, and low-instrument-ready solution for diverse nucleic acid diagnostics, from viral detection to cancer genotyping.",
+    "keywords": [
+      "low-instrumentation assay",
+      "multiplex detection",
+      "nucleic acid diagnostics",
+      "repair endonuclease",
+      "single-nucleotide polymorphism (SNP) discrimination"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Garden, Padric M",
+        "Li, Yudan",
+        "Murugan, Vel",
+        "Green, Alexander A"
+      ],
+      "short_names": [
+        "Garden PM",
+        "Li Y",
+        "Murugan V",
+        "Green AA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2161-2730",
+        "ORCID: 0000-0003-2491-8302",
+        "ORCID: 0000-0002-7368-7742",
+        "ORCID: 0000-0003-2058-1204"
+      ],
+      "affiliations": [
+        "Department of Biomedical Engineering, Boston University, Boston, Massachusetts02215, United States.",
+        "Biological Design Center, Boston University, Boston, Massachusetts02215, United States.",
+        "Molecular Biology, Cell Biology and Biochemistry Program, Boston University, Boston, Massachusetts02215, United States.",
+        "Biological Design Center, Boston University, Boston, Massachusetts02215, United States.",
+        "Biodesign Virginia G. Piper Center for Personalized Diagnostics at the Biodesign Institute, Arizona State University, Tempe, Arizona85281, United States.",
+        "Department of Biomedical Engineering, Boston University, Boston, Massachusetts02215, United States.",
+        "Molecular Biology, Cell Biology and Biochemistry Program, Boston University, Boston, Massachusetts02215, United States.",
+        "Biological Design Center, Boston University, Boston, Massachusetts02215, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Garden, Padric M",
+        "short_name": "Garden PM",
+        "identifiers": [
+          "0000-0002-2161-2730"
+        ],
+        "affiliations": [
+          "Department of Biomedical Engineering, Boston University, Boston, Massachusetts02215, United States.",
+          "Biological Design Center, Boston University, Boston, Massachusetts02215, United States."
+        ]
+      },
+      {
+        "full_name": "Li, Yudan",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0003-2491-8302"
+        ],
+        "affiliations": [
+          "Molecular Biology, Cell Biology and Biochemistry Program, Boston University, Boston, Massachusetts02215, United States.",
+          "Biological Design Center, Boston University, Boston, Massachusetts02215, United States."
+        ]
+      },
+      {
+        "full_name": "Murugan, Vel",
+        "short_name": "Murugan V",
+        "identifiers": [
+          "0000-0002-7368-7742"
+        ],
+        "affiliations": [
+          "Biodesign Virginia G. Piper Center for Personalized Diagnostics at the Biodesign Institute, Arizona State University, Tempe, Arizona85281, United States."
+        ]
+      },
+      {
+        "full_name": "Green, Alexander A",
+        "short_name": "Green AA",
+        "identifiers": [
+          "0000-0003-2058-1204"
+        ],
+        "affiliations": [
+          "Department of Biomedical Engineering, Boston University, Boston, Massachusetts02215, United States.",
+          "Molecular Biology, Cell Biology and Biochemistry Program, Boston University, Boston, Massachusetts02215, United States.",
+          "Biological Design Center, Boston University, Boston, Massachusetts02215, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 11:36",
+    "fetched_at": "2026-10-26 16:14:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42895018"
+    ],
+    "review": [
+      "42895018"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-12",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c02339",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

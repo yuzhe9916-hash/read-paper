@@ -1,0 +1,264 @@
+{
+  "identity": {
+    "pmid": "42919349",
+    "doi": "10.1186/s40694-026-00223-1",
+    "title": "Antifungal resistance landscapes in major fungal pathogens in Zhejiang, China."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Invasive fungal infections caused by Aspergillus fumigatus and other pathogenic fungi represent a major global health threat, with treatment increasingly complicated by the emergence of antifungal drug resistance. Azole antifungals serve as the first-line therapy for aspergillosis, but resistance rates vary substantially across geographical regions. This study aimed to characterize the antifungal resistance landscape among clinical fungal isolates from Hangzhou and Yiwu cities in Zhejiang Province, Eastern China, and to elucidate the molecular mechanisms underlying azole resistance in Aspergillus fumigatus. RESULTS: We analyzed 110 Aspergillus clinical isolates for antifungal susceptibility. Among A. fumigatus strains, 8.6% exhibited azole resistance, with half of these harboring the tandem repeat mutation TR34/L98H in the cyp51A gene. One resistant strain carried the TR46/Y121F/T289A mutation combination. Minimum inhibitory concentration testing revealed that 8.6% of A. fumigatus isolates were resistant to amphotericin B We identified one resistant isolate without known resistance mutations and characterized it through whole-genome sequencing and transcriptomic analysis. Novel mutations S437F in cyp51A and P298T in hmg1 were discovered; however, functional validation using CRISPR-Cas9 demonstrated these mutations do not directly confer resistance. Instead, transcriptomic profiling revealed significant upregulation of ergosterol biosynthesis pathway genes and efflux transporter genes, suggesting alternative resistance mechanisms. Among non-A. fumigatus species, all A. niger isolates displayed resistance to itraconazole and posaconazole. CONCLUSIONS: This comprehensive regional surveillance reveals concerning patterns of antifungal resistance among major human pathogenic fungi in Zhejiang Province, China. The identification of both classical resistance mutations and novel transcription-mediated resistance mechanisms highlights the complex and evolving nature of antifungal resistance. These findings emphasize the critical need for continued surveillance programs and rapid resistance detection methods to inform clinical treatment strategies and improve patient outcomes.",
+    "keywords": [
+      "Aspergillus fumigatus",
+      "Aspergillus spp.",
+      "Antifungal testing",
+      "Azole resistance",
+      "MIC"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Haochuan",
+        "Zhang, Jinxiao",
+        "Zhang, Nan",
+        "Ji, Youqi",
+        "Hong, Xin",
+        "Samano-Sanchez, Hugo",
+        "Xu, Fan",
+        "Han, Yi",
+        "Xiong, Xushen",
+        "Welburn, Susan C",
+        "Schulze, Holger",
+        "Bachmann, Till T",
+        "Ge, Yumei",
+        "Scharf, Daniel H"
+      ],
+      "short_names": [
+        "Wang H",
+        "Zhang J",
+        "Zhang N",
+        "Ji Y",
+        "Hong X",
+        "Samano-Sanchez H",
+        "Xu F",
+        "Han Y",
+        "Xiong X",
+        "Welburn SC",
+        "Schulze H",
+        "Bachmann TT",
+        "Ge Y",
+        "Scharf DH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6446-2824",
+        "ORCID: 0000-0001-6121-2021",
+        "ORCID: 0000-0003-0766-8663"
+      ],
+      "affiliations": [
+        "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China.",
+        "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK.",
+        "The Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, China.",
+        "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "The Second Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou, Zhejiang, China.",
+        "Department of Clinical Laboratory, Laboratory Medicine Center, Zhejiang Provincial People's Hospital (Affiliated People's Hospital, Hangzhou Medical College), Hangzhou, Zhejiang, China.",
+        "Department of Green Pharmaceutical Collaborative Innovation Center, School of Pharmacy, Zhejiang University of Technology, Hangzhou, Zhejiang, China.",
+        "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China.",
+        "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "The Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China.",
+        "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK.",
+        "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK.",
+        "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China. till.bachmann@ed.ac.uk.",
+        "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK. till.bachmann@ed.ac.uk.",
+        "Department of Clinical Laboratory, Laboratory Medicine Center, Zhejiang Provincial People's Hospital (Affiliated People's Hospital, Hangzhou Medical College), Hangzhou, Zhejiang, China. 11218070@zju.edu.cn.",
+        "Key Laboratory of Precision Medicine for Head and Neck Cancers of Zhejiang Province, Zhejiang Provincial People's Hospital, Hangzhou, Zhejiang, China. 11218070@zju.edu.cn.",
+        "Department of Clinical Laboratory, Zhejiang Provincial People's Hospital Bijie Hospital, Bijie, Guizhou, China. 11218070@zju.edu.cn.",
+        "Key Laboratory for Cancer Prevention and Treatment of Guizhou Province, Bijie, Guizhou, China. 11218070@zju.edu.cn.",
+        "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China. dhscharf@zju.edu.cn.",
+        "The Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, China. dhscharf@zju.edu.cn.",
+        "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China. dhscharf@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Haochuan",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China.",
+          "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jinxiao",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "The Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Nan",
+        "short_name": "Zhang N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Youqi",
+        "short_name": "Ji Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Hong, Xin",
+        "short_name": "Hong X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Laboratory Medicine Center, Zhejiang Provincial People's Hospital (Affiliated People's Hospital, Hangzhou Medical College), Hangzhou, Zhejiang, China.",
+          "Department of Green Pharmaceutical Collaborative Innovation Center, School of Pharmacy, Zhejiang University of Technology, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Sámano-Sánchez, Hugo",
+        "short_name": "Sámano-Sánchez H",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Fan",
+        "short_name": "Xu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Han, Yi",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Xushen",
+        "short_name": "Xiong X",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Welburn, Susan C",
+        "short_name": "Welburn SC",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China.",
+          "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Schulze, Holger",
+        "short_name": "Schulze H",
+        "identifiers": [
+          "0000-0002-6446-2824"
+        ],
+        "affiliations": [
+          "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Bachmann, Till T",
+        "short_name": "Bachmann TT",
+        "identifiers": [
+          "0000-0001-6121-2021"
+        ],
+        "affiliations": [
+          "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China. till.bachmann@ed.ac.uk.",
+          "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, UK. till.bachmann@ed.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Ge, Yumei",
+        "short_name": "Ge Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Laboratory Medicine Center, Zhejiang Provincial People's Hospital (Affiliated People's Hospital, Hangzhou Medical College), Hangzhou, Zhejiang, China. 11218070@zju.edu.cn.",
+          "Key Laboratory of Precision Medicine for Head and Neck Cancers of Zhejiang Province, Zhejiang Provincial People's Hospital, Hangzhou, Zhejiang, China. 11218070@zju.edu.cn.",
+          "Department of Clinical Laboratory, Zhejiang Provincial People's Hospital Bijie Hospital, Bijie, Guizhou, China. 11218070@zju.edu.cn.",
+          "Key Laboratory for Cancer Prevention and Treatment of Guizhou Province, Bijie, Guizhou, China. 11218070@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Scharf, Daniel H",
+        "short_name": "Scharf DH",
+        "identifiers": [
+          "0000-0003-0766-8663"
+        ],
+        "affiliations": [
+          "Zhejiang University-University of Edinburgh Institute (ZJE), Zhejiang University School of Medicine, Zhejiang University, Haining, Zhejiang, China. dhscharf@zju.edu.cn.",
+          "The Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, China. dhscharf@zju.edu.cn.",
+          "Department of Microbiology, School of Basic Medical Sciences, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China. dhscharf@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Fungal biology and biotechnology"
+    ],
+    "journal_abbrev": [
+      "Fungal Biol Biotechnol"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42919349"
+    ],
+    "review": [
+      "42919349"
+    ],
+    "pmc": [
+      "13688737"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://fungalbiolbiotech.biomedcentral.com/articles/10.1186/s40694-026-00223-1",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

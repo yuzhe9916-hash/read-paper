@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42923064",
+    "doi": "10.1093/nargab/lqag127",
+    "title": "WasteFams: a database of protein families from global wastewater microbiomes."
+  },
+  "content": {
+    "abstract": "Wastewater surveillance has emerged as a critical tool for global epidemiology, yet the functional diversity of wastewater microbiomes remains poorly characterized at the protein level. Here, we present WasteFams, the first comprehensive database dedicated to the systematic exploration of protein families in wastewater metagenomic and metatranscriptomic studies worldwide. Integrating data from 580 metagenomes, 132 metatranscriptomes, and 1709 reference genomes (504 metagenomes, 129 metatranscriptomes, and 1151 reference genomes after filtering), WasteFams catalogs 3887 non-redundant protein families (containing ⪰100 members) derived from over 105 million predicted proteins. Each protein family is enriched with multi-layered annotations, including AlphaFold3 structural predictions, taxonomic classifications, and biome-specific metadata. To further expand their functional annotation, we integrated deep genomic context analysis to link protein families to mobile genetic elements, biosynthetic gene clusters, antibiotic resistance genes, and CRISPR elements. Accessible through the EnvoFams portal, WasteFams provides a user-friendly interface featuring advanced search capabilities, sequence and structural similarity tools, and interactive visualization modules. As global initiatives increasingly leverage wastewater for public health and environmental insights, WasteFams can serve as a critical resource for discovering novel microbial functions, monitoring resistance mechanisms, and exploring the biotechnological potential of secondary metabolites within wastewater-engineered ecosystems.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Wastewater/microbiology",
+      "*Microbiota/genetics",
+      "Metagenome",
+      "Metagenomics",
+      "*Databases, Protein",
+      "*Bacterial Proteins/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Galaras, Alexandros",
+        "Chasapi, Iro N",
+        "Aplakidou, Eleni",
+        "Chasapi, Maria N",
+        "Lamari, Efthimia",
+        "Diplari, Sophia",
+        "Georgakopoulos-Soares, Ilias",
+        "Karatzas, Evangelos",
+        "Baltoumas, Fotis A",
+        "Kyrpides, Nikos C",
+        "Pavlopoulos, Georgios A"
+      ],
+      "short_names": [
+        "Galaras A",
+        "Chasapi IN",
+        "Aplakidou E",
+        "Chasapi MN",
+        "Lamari E",
+        "Diplari S",
+        "Georgakopoulos-Soares I",
+        "Karatzas E",
+        "Baltoumas FA",
+        "Kyrpides NC",
+        "Pavlopoulos GA"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-0737-4817",
+        "ORCID: 0009-0009-0336-0515",
+        "ORCID: 0000-0002-2870-2931",
+        "ORCID: 0000-0002-6131-0462",
+        "ORCID: 0000-0002-4577-8276"
+      ],
+      "affiliations": [
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "Department of Informatics and Telecommunications, National and Kapodistrian University of Athens, Athens 16122, Greece.",
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "Division of Basic Sciences, University of Crete Medical School, Heraklion 71110, Greece.",
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "Medical School of Athens, National and Kapodistrian University of Athens, Goudi 11527, Greece.",
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "Medical School of Athens, National and Kapodistrian University of Athens, Goudi 11527, Greece.",
+        "Division of Pharmacology and Toxicology, College of Pharmacy, The University of Texas at Austin, Dell Pediatric Research Institute, 1400 Barbara Jordan Blvd., Austin, TX 78723, United States.",
+        "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom.",
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA 94720, United States.",
+        "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+        "Division of Biological and Life Sciences, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Building 1B, Masdar City, Abu Dhabi SE45 05, United Arab Emirates."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Galaras, Alexandros",
+        "short_name": "Galaras A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece."
+        ]
+      },
+      {
+        "full_name": "Chasapi, Iro N",
+        "short_name": "Chasapi IN",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+          "Department of Informatics and Telecommunications, National and Kapodistrian University of Athens, Athens 16122, Greece."
+        ]
+      },
+      {
+        "full_name": "Aplakidou, Eleni",
+        "short_name": "Aplakidou E",
+        "identifiers": [
+          "0009-0002-0737-4817"
+        ],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+          "Division of Basic Sciences, University of Crete Medical School, Heraklion 71110, Greece."
+        ]
+      },
+      {
+        "full_name": "Chasapi, Maria N",
+        "short_name": "Chasapi MN",
+        "identifiers": [
+          "0009-0009-0336-0515"
+        ],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece."
+        ]
+      },
+      {
+        "full_name": "Lamari, Efthimia",
+        "short_name": "Lamari E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+          "Medical School of Athens, National and Kapodistrian University of Athens, Goudi 11527, Greece."
+        ]
+      },
+      {
+        "full_name": "Diplari, Sophia",
+        "short_name": "Diplari S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+          "Medical School of Athens, National and Kapodistrian University of Athens, Goudi 11527, Greece."
+        ]
+      },
+      {
+        "full_name": "Georgakopoulos-Soares, Ilias",
+        "short_name": "Georgakopoulos-Soares I",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Pharmacology and Toxicology, College of Pharmacy, The University of Texas at Austin, Dell Pediatric Research Institute, 1400 Barbara Jordan Blvd., Austin, TX 78723, United States."
+        ]
+      },
+      {
+        "full_name": "Karatzas, Evangelos",
+        "short_name": "Karatzas E",
+        "identifiers": [],
+        "affiliations": [
+          "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Baltoumas, Fotis A",
+        "short_name": "Baltoumas FA",
+        "identifiers": [
+          "0000-0002-2870-2931"
+        ],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece."
+        ]
+      },
+      {
+        "full_name": "Kyrpides, Nikos C",
+        "short_name": "Kyrpides NC",
+        "identifiers": [
+          "0000-0002-6131-0462"
+        ],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA 94720, United States."
+        ]
+      },
+      {
+        "full_name": "Pavlopoulos, Georgios A",
+        "short_name": "Pavlopoulos GA",
+        "identifiers": [
+          "0000-0002-4577-8276"
+        ],
+        "affiliations": [
+          "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari 16672, Greece.",
+          "Division of Biological and Life Sciences, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Building 1B, Masdar City, Abu Dhabi SE45 05, United Arab Emirates."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "NAR genomics and bioinformatics"
+    ],
+    "journal_abbrev": [
+      "NAR Genom Bioinform"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42923064"
+    ],
+    "review": [
+      "42923064"
+    ],
+    "pmc": [
+      "13687564"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nargab/article-lookup/doi/10.1093/nargab/lqag127",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "identity": {
+    "pmid": "42901917",
+    "doi": "10.1038/s41419-026-09127-9",
+    "title": "Identification and validation of NCOA5-ZCCHC3/FGF22 axis as a prognostic marker in lung adenocarcinoma migration and invasion."
+  },
+  "content": {
+    "abstract": "Lung adenocarcinoma (LUAD), the most common subtype of lung cancer, is associated with substantial global mortality. Nuclear receptor coactivator 5 (NCOA5) has been implicated in several malignancies; however, its functional role and regulatory mechanisms in LUAD remain largely unknown. In this study, NCOA5 expression was evaluated in 94 paired LUAD and adjacent tissues using immunohistochemistry, RT-PCR, and Western blotting. Functional analyses were conducted using shRNA knockdown, CRISPR-mediated knockout, and overexpression models to assess the effects of NCOA5 on LUAD cell proliferation, migration, invasion, apoptosis, cell cycle progression, and organoid formation. Xenograft models were used to validate tumorigenicity in vivo. IP-MS and co-immunoprecipitation identified NCOA5-interacting proteins, while ChIP-seq and dual-luciferase assays interrogated downstream transcriptional regulation. NCOA5 was significantly upregulated in LUAD tissues and associated with advanced stage, poor differentiation, and reduced overall survival, serving as an independent prognostic factor (P < .040). NCOA5 knockdown inhibited LUAD cell proliferation, migration, invasion, induced G0/G1 arrest, promoted apoptosis, reduced organoid formation, and suppressed xenograft growth, whereas NCOA5 overexpression produced the opposite effects. Among 39 candidate interacting proteins identified by IP-MS, ZCCHC3 was validated as a direct NCOA5-binding partner. ZCCHC3 depletion phenocopied NCOA5 loss and reversed NCOA5-induced proliferation, migration, invasion, and colony formation, supporting a functional NCOA5-ZCCHC3 interaction. ChIP-seq analysis identified fibroblast growth factor 22 (FGF22) as a direct transcriptional target of NCOA5. FGF22 was markedly downregulated in LUAD tissues and higher FGF22 expression was associated with improved patient survival. NCOA5 suppressed FGF22 transcription, while NCOA5 inhibition increased FGF22 expression. Functionally, FGF22 knockdown enhanced LUAD aggressiveness, whereas FGF22 restoration abrogated the oncogenic effects of NCOA5 in vitro and in vivo. Collectively, these findings identify a previously unrecognized NCOA5-ZCCHC3/FGF22 axis that drives LUAD progression and provide new mechanistic insight into the role of NCOA5 in LUAD biology.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Cell Movement/genetics",
+      "Animals",
+      "Prognosis",
+      "*Lung Neoplasms/pathology/genetics/metabolism",
+      "*Nuclear Receptor Coactivators/metabolism/genetics",
+      "*Adenocarcinoma of Lung/pathology/genetics/metabolism",
+      "Female",
+      "Cell Proliferation/genetics",
+      "*Biomarkers, Tumor/metabolism/genetics",
+      "Male",
+      "Neoplasm Invasiveness",
+      "Mice",
+      "Mice, Nude",
+      "*Fibroblast Growth Factors/metabolism/genetics",
+      "Apoptosis/genetics",
+      "Cell Line, Tumor",
+      "Gene Expression Regulation, Neoplastic",
+      "Middle Aged"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Yiran",
+        "Jin, Wen",
+        "Chaogetu, Erdun",
+        "Zhang, Xiaoli",
+        "Liu, Xi",
+        "Gao, Yahan",
+        "Li, Feng",
+        "Su, Rila"
+      ],
+      "short_names": [
+        "Yu Y",
+        "Jin W",
+        "Chaogetu E",
+        "Zhang X",
+        "Liu X",
+        "Gao Y",
+        "Li F",
+        "Su R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0299-4390"
+      ],
+      "affiliations": [
+        "Graduate School of Inner Mongolia Medical University, Hohhot, China.",
+        "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Thoracic Surgery Department of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China. rsu5@alumni.jh.edu.",
+        "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China. rsu5@alumni.jh.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Yiran",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Inner Mongolia Medical University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Wen",
+        "short_name": "Jin W",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Chaogetu, Erdun",
+        "short_name": "Chaogetu E",
+        "identifiers": [],
+        "affiliations": [
+          "Thoracic Surgery Department of Inner Mongolia People's Hospital, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiaoli",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xi",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yahan",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Li, Feng",
+        "short_name": "Li F",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Su, Rila",
+        "short_name": "Su R",
+        "identifiers": [
+          "0000-0002-0299-4390"
+        ],
+        "affiliations": [
+          "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China. rsu5@alumni.jh.edu.",
+          "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China. rsu5@alumni.jh.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell death & disease"
+    ],
+    "journal_abbrev": [
+      "Cell Death Dis"
+    ],
+    "pub_date": "2026 Jul 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/21 05:32",
+    "fetched_at": "2026-10-26 16:14:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42901917"
+    ],
+    "review": [
+      "42901917"
+    ],
+    "pmc": [
+      "13683410"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41419-026-09127-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

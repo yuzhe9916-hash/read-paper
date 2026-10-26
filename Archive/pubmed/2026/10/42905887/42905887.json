@@ -1,0 +1,253 @@
+{
+  "identity": {
+    "pmid": "42905887",
+    "doi": "10.1093/hmg/ddag102",
+    "title": "KATNAL2 dysfunction impairs microtubule dynamics and contributes to syndromic neurodevelopmental disease."
+  },
+  "content": {
+    "abstract": "Katanins are microtubule-severing ATPases. Dysfunction of katanin subunits has been implicated in impaired neurogenesis, morphogenesis, and neuronal migration. Although heterozygous variants in KATNAL2 (katanin-like 2), a known autism-spectrum disorder (ASD) risk gene, have been reported in patients with ASD or other neurodevelopmental disorders (NDD), the underlying cellular mechanisms remain incompletely defined. Whole-exome sequencing (WES) identified a homozygous missense variant in KATNAL2 (NM_001387690.1:c.1390T>C; p.(Ser464Pro)) in a pediatric patient presenting with severe global developmental delay, intellectual disability, infantile-onset epilepsy, and autistic features, extending the phenotypic spectrum beyond prior autism-focused associations. To elucidate the cellular mechanisms underlying KATNAL2 dysfunction, we established induced pluripotent stem cells (iPSCs) from patient fibroblasts and differentiated them into neural progenitor cells (NPCs) for quantitative immunofluorescence analyses of microtubule organization, microtubule regulatory proteins, and transcriptome profiling. In parallel, we generated CRISPR/Cas9 katnal2 zebrafish crispants and assessed body patterning and axonal projections using the transgenic nbt:dsRed line. Patient iPSC-derived NPCs showed impaired interphase microtubule network organization with increased angular standard deviation in directionality and mitotic/cytokinetic abnormalities, including abnormal positioning of the microtubule-rich cytokinetic midbody region. In vivo, CRISPR/Cas9 katnal2 zebrafish crispants showed abnormal body patterning together with disorganized motor neuron and posterior lateral line nerve axonal projections. Together, these findings support KATNAL2 as a regulator of microtubule network organization and mitotic progression in human NPCs. Our data from patient-derived NPCs and a zebrafish model provide functional evidence linking the p.(Ser464Pro) variant to an expanded syndromic neurodevelopmental phenotype.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "autism spectrum disorder",
+      "disease modeling",
+      "iPSC model",
+      "neurogenetics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Animals",
+      "Zebrafish/genetics",
+      "*Microtubules/metabolism/genetics/pathology",
+      "*Katanin/genetics/metabolism",
+      "*Neurodevelopmental Disorders/genetics/pathology/metabolism",
+      "Induced Pluripotent Stem Cells/metabolism",
+      "Neural Stem Cells/metabolism/pathology",
+      "Male",
+      "Exome Sequencing",
+      "Female",
+      "Mutation, Missense",
+      "Intellectual Disability/genetics",
+      "Autism Spectrum Disorder/genetics/pathology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sonmezler, Ece",
+        "Hiz Kurul, Semra",
+        "Erez, Ozlem",
+        "Ekinci, Burcu",
+        "Yaras, Tutku",
+        "Binokay, Leman",
+        "Karakulah, Gokhan",
+        "Lochmuller, Hanns",
+        "Horvath, Rita",
+        "Yaramis, Ahmet",
+        "Cakan-Akdogan, Gulcin",
+        "Oktay, Yavuz"
+      ],
+      "short_names": [
+        "Sonmezler E",
+        "Hiz Kurul S",
+        "Erez O",
+        "Ekinci B",
+        "Yaras T",
+        "Binokay L",
+        "Karakulah G",
+        "Lochmuller H",
+        "Horvath R",
+        "Yaramis A",
+        "Cakan-Akdogan G",
+        "Oktay Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8526-1477",
+        "ORCID: 0000-0002-9841-170X"
+      ],
+      "affiliations": [
+        "Izmir International Biomedicine and Genome Institute, Dokuz Eylul University, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir International Biomedicine and Genome Institute, Dokuz Eylul University, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Department of Paediatric Neurology, School of Medicine, Dokuz Eylul University, Mithatpasa Street No: 1606, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir International Biomedicine and Genome Institute, Dokuz Eylul University, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir International Biomedicine and Genome Institute, Dokuz Eylul University, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Children's Hospital of Eastern Ontario Research Institute, 401 Smyth Road, Ottawa, ON K1H 8L1, Canada.",
+        "Division of Neurology, Department of Medicine, The Ottawa Hospital Civic Campus, 1053 Carling Avenue, Ottawa, ON K1Y 4E9, Canada.",
+        "Eric Poulin Center for Neuromuscular Disease, Brain and Mind Research Institute, University of Ottawa, 451 Smyth Road, Ottawa, ON K1H 8M5, Canada.",
+        "Department of Neuropediatrics and Muscle Disorders, Medical Center - University of Freiburg, Faculty of Medicine, Mathildenstr. 1, 79106 Freiburg, Germany.",
+        "Centro Nacional de Analisis Genomico (CNAG), Baldiri Reixac 4, Barcelona Science Park - Tower I, 08028 Barcelona, Spain.",
+        "Department of Clinical Neurosciences, University of Cambridge, John van Geest Centre for Brain Repair, Robinson Way CB2 0PY, Cambridge, United Kingdom.",
+        "Pediatric Neurology Clinic, Private Practice, Mahabad Boulevard, Kayapinar, Diyarbakir 21070, Turkiye.",
+        "Izmir International Biomedicine and Genome Institute, Dokuz Eylul University, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir International Biomedicine and Genome Institute, Dokuz Eylul University, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Izmir Biomedicine and Genome Center, Mithatpasa Street No: 58/5, Balcova, Izmir 35340, Turkiye.",
+        "Department of Medical Biology, School of Medicine, Dokuz Eylul University, Mithatpasa Street No: 1606, Balcova, Izmir 35340, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sönmezler, Ece",
+        "short_name": "Sönmezler E",
+        "identifiers": [
+          "0000-0001-8526-1477"
+        ],
+        "affiliations": [
+          "İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Hız Kurul, Semra",
+        "short_name": "Hız Kurul S",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "Department of Paediatric Neurology, School of Medicine, Dokuz Eylül University, Mithatpaşa Street No: 1606, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Erez, Ozlem",
+        "short_name": "Erez O",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Ekinci, Burcu",
+        "short_name": "Ekinci B",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Yaraş, Tutku",
+        "short_name": "Yaraş T",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Binokay, Leman",
+        "short_name": "Binokay L",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Karakülah, Gökhan",
+        "short_name": "Karakülah G",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Lochmüller, Hanns",
+        "short_name": "Lochmüller H",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Hospital of Eastern Ontario Research Institute, 401 Smyth Road, Ottawa, ON K1H 8L1, Canada.",
+          "Division of Neurology, Department of Medicine, The Ottawa Hospital Civic Campus, 1053 Carling Avenue, Ottawa, ON K1Y 4E9, Canada.",
+          "Eric Poulin Center for Neuromuscular Disease, Brain and Mind Research Institute, University of Ottawa, 451 Smyth Road, Ottawa, ON K1H 8M5, Canada.",
+          "Department of Neuropediatrics and Muscle Disorders, Medical Center - University of Freiburg, Faculty of Medicine, Mathildenstr. 1, 79106 Freiburg, Germany.",
+          "Centro Nacional de Análisis Genómico (CNAG), Baldiri Reixac 4, Barcelona Science Park - Tower I, 08028 Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Horvath, Rita",
+        "short_name": "Horvath R",
+        "identifiers": [
+          "0000-0002-9841-170X"
+        ],
+        "affiliations": [
+          "Department of Clinical Neurosciences, University of Cambridge, John van Geest Centre for Brain Repair, Robinson Way CB2 0PY, Cambridge, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Yaramış, Ahmet",
+        "short_name": "Yaramış A",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Neurology Clinic, Private Practice, Mahabad Boulevard, Kayapınar, Diyarbakır 21070, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Cakan-Akdogan, Gulcin",
+        "short_name": "Cakan-Akdogan G",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Oktay, Yavuz",
+        "short_name": "Oktay Y",
+        "identifiers": [],
+        "affiliations": [
+          "İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "İzmir Biomedicine and Genome Center, Mithatpaşa Street No: 58/5, Balçova, İzmir 35340, Türkiye.",
+          "Department of Medical Biology, School of Medicine, Dokuz Eylül University, Mithatpaşa Street No: 1606, Balçova, İzmir 35340, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Human molecular genetics"
+    ],
+    "journal_abbrev": [
+      "Hum Mol Genet"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-26 16:14:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42905887"
+    ],
+    "review": [
+      "42905887"
+    ],
+    "pmc": [
+      "13685775"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/hmg/article-lookup/doi/10.1093/hmg/ddag102",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

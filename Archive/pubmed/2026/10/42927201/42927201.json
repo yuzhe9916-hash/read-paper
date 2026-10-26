@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42927201",
+    "doi": "10.1016/j.omtn.2026.103117",
+    "title": "Genome-wide CRISPRa screens identify modulators of CAR T survival across diverse tumor cytokine milieus."
+  },
+  "content": {
+    "abstract": "Chimeric antigen receptor (CAR) T cell therapy has revolutionized the treatment of B cell malignancies, and extending this success to other cancers remains an urgent clinical objective. CRISPR activation (CRISPRa) is a gene nomination platform with the potential to direct next-generation cell product development, but genome-wide surveys using this technology in primary T cells have been limited by prohibitive cell requirements and short-lived activity. Here, we describe a CAR-restricted T cell expansion platform generating yields of CRISPRa-CAR T cells far exceeding those required for genome-scale screening ( approximately 10(9)). CRISPRa activity is sustained by incorporating divergent, duplicate elongation factor 1alpha core/human T cell leukemia virus hybrid promoters and by delivering guide RNAs late by lentiviral transduction to avoid losing perturbations that compromise early T cell activation or expansion. Manufactured CRISPRa-CAR T cells maintain potent on-target gene overexpression (>85% target(+)) across varied cell subsets, including those associated with T cell exhaustion, and over extended culture periods. When applied to survival-based genome-wide screens, CRISPRa-CAR T cell pools nominate endogenous genes that enhance CAR T cell persistence across varied cytokine levels in the presence of tumor (e.g., IRF4, GFI1, and GSE1). In a proof-of-concept study, we find that the survival effect of GSE1 can be preserved using a clinically relevant transgene overexpression strategy. More broadly, this screening framework establishes a foundation for systematic identification and downstream validation of genes that enhance cellular therapies.",
+    "keywords": [
+      "CAR T cells",
+      "CRISPRa",
+      "MT: Delivery Strategies",
+      "T cell persistence",
+      "adoptive cell therapy",
+      "cancer immunotherapy",
+      "functional genomics",
+      "gain-of-function screening",
+      "genome-wide CRISPR screen",
+      "synthetic immunology",
+      "tumor microenvironment"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Curtis, Benjamin C",
+        "Spurrell, Cailyn H",
+        "Flint, Lindsay",
+        "Lande, Aalton M",
+        "Leonardi, Marissa",
+        "Rosser, James M",
+        "Parker, Tavie",
+        "Chai, Tiffanie",
+        "Valdez, Ardizon",
+        "Toumi, Ryma",
+        "Murren, Nat",
+        "Fitzgerald, Michael",
+        "Martinez-Reyes, Jasmin",
+        "Watt, Finn",
+        "Saxby, Christopher P",
+        "Summers, Corinne",
+        "Gwiazda, Kamila S",
+        "Jensen, Michael C V",
+        "Oda, Shannon K"
+      ],
+      "short_names": [
+        "Curtis BC",
+        "Spurrell CH",
+        "Flint L",
+        "Lande AM",
+        "Leonardi M",
+        "Rosser JM",
+        "Parker T",
+        "Chai T",
+        "Valdez A",
+        "Toumi R",
+        "Murren N",
+        "Fitzgerald M",
+        "Martinez-Reyes J",
+        "Watt F",
+        "Saxby CP",
+        "Summers C",
+        "Gwiazda KS",
+        "Jensen MCV",
+        "Oda SK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Department of Laboratory Medicine and Pathology, University of Washington, 1959 NE Pacific Street, Seattle, WA 98195, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Department of Bioengineering, University of Washington, 3720 15th Ave NE, Seattle, WA 98195, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+        "Division of Hematology, Oncology, and Bone Marrow Transplant, Department of Pediatrics, University of Washington Medical School, 4800 Sand Point Way NE, Seattle, WA 98105, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Curtis, Benjamin C",
+        "short_name": "Curtis BC",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+          "Department of Laboratory Medicine and Pathology, University of Washington, 1959 NE Pacific Street, Seattle, WA 98195, USA."
+        ]
+      },
+      {
+        "full_name": "Spurrell, Cailyn H",
+        "short_name": "Spurrell CH",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Flint, Lindsay",
+        "short_name": "Flint L",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Lande, Aalton M",
+        "short_name": "Lande AM",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Leonardi, Marissa",
+        "short_name": "Leonardi M",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Rosser, James M",
+        "short_name": "Rosser JM",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Parker, Tavie",
+        "short_name": "Parker T",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Chai, Tiffanie",
+        "short_name": "Chai T",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Valdez, Ardizon",
+        "short_name": "Valdez A",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Toumi, Ryma",
+        "short_name": "Toumi R",
+        "identifiers": [],
+        "affiliations": [
+          "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Murren, Nat",
+        "short_name": "Murren N",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Fitzgerald, Michael",
+        "short_name": "Fitzgerald M",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Martinez-Reyes, Jasmin",
+        "short_name": "Martinez-Reyes J",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Watt, Finn",
+        "short_name": "Watt F",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Saxby, Christopher P",
+        "short_name": "Saxby CP",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+          "Department of Bioengineering, University of Washington, 3720 15th Ave NE, Seattle, WA 98195, USA."
+        ]
+      },
+      {
+        "full_name": "Summers, Corinne",
+        "short_name": "Summers C",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Gwiazda, Kamila S",
+        "short_name": "Gwiazda KS",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Jensen, Michael C V",
+        "short_name": "Jensen MCV",
+        "identifiers": [],
+        "affiliations": [
+          "Seattle Children's Therapeutics, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA."
+        ]
+      },
+      {
+        "full_name": "Oda, Shannon K",
+        "short_name": "Oda SK",
+        "identifiers": [],
+        "affiliations": [
+          "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, 1920 Terry Ave, Seattle, WA 98101, USA.",
+          "Division of Hematology, Oncology, and Bone Marrow Transplant, Department of Pediatrics, University of Washington Medical School, 4800 Sand Point Way NE, Seattle, WA 98105, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy. Nucleic acids"
+    ],
+    "journal_abbrev": [
+      "Mol Ther Nucleic Acids"
+    ],
+    "pub_date": "2026 Dec 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 11:32",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42927201"
+    ],
+    "review": [
+      "42927201"
+    ],
+    "pmc": [
+      "13694873"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2162-2531(26)00288-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42926559",
+    "doi": "10.64898/2026.10.02.756296",
+    "title": "Niche-dependent epistasis within the cancer genome shapes metastatic fitness."
+  },
+  "content": {
+    "abstract": "Epistasis, the genetic interaction between loci, directs non-additive genotype-to-phenotype outcomes. Within a multicellular organism, how the tissue niche (E) shapes gene-by-gene epistasis (GxG) and its phenotypic consequences remains poorly studied. Using tumor lung metastasis as an experimental model, we mapped GxGxE through combinatorial CRISPR perturbation coupled with depletion of defined host myeloid populations in mice. The metastatic niche first selects disseminated tumor cells on GxG epistatic fitness, then drives transcriptome convergence regardless of genotype. Removing anatomically distinct myeloid populations reshaped the metastatic epistasis landscape despite identical tumor genotypes. Gene-by-gene-by-environment epistasis therefore operates at the organismal level, with interaction magnitude and sign set by niche cells. Beyond metastasis, our data suggest that the tissue niche conditions how genetic interactions translate into divergent phenotypes.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Xiyu",
+        "He, Le",
+        "Zhao, Min",
+        "Golomb, Samantha M",
+        "Ma, Wei",
+        "Yang, Xinrui",
+        "Aleksandrovic, Emilija",
+        "Borges, Hazel M",
+        "Dean, Kevin M",
+        "Wang, Lei",
+        "Hon, Gary C",
+        "Gan, Dailin",
+        "Zhu, Hao",
+        "Li, Jun",
+        "Xu, Lin",
+        "Zhang, Siyuan"
+      ],
+      "short_names": [
+        "Liu X",
+        "He L",
+        "Zhao M",
+        "Golomb SM",
+        "Ma W",
+        "Yang X",
+        "Aleksandrovic E",
+        "Borges HM",
+        "Dean KM",
+        "Wang L",
+        "Hon GC",
+        "Gan D",
+        "Zhu H",
+        "Li J",
+        "Xu L",
+        "Zhang S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6803-2696",
+        "ORCID: 0009-0002-7488-0947",
+        "ORCID: 0009-0009-0198-1182",
+        "ORCID: 0000-0003-1737-7085",
+        "ORCID: 0000-0001-6947-6662",
+        "ORCID: 0000-0002-5631-4354",
+        "ORCID: 0000-0001-6698-2893",
+        "ORCID: 0000-0003-0839-2320",
+        "ORCID: 0000-0002-1615-0391",
+        "ORCID: 0000-0003-0535-1259",
+        "ORCID: 0000-0002-8417-9698",
+        "ORCID: 0000-0003-4353-5761",
+        "ORCID: 0000-0001-5815-4457",
+        "ORCID: 0000-0003-0910-3666"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Xiyu",
+        "short_name": "Liu X",
+        "identifiers": [
+          "0000-0002-6803-2696"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "He, Le",
+        "short_name": "He L",
+        "identifiers": [
+          "0009-0002-7488-0947"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhao, Min",
+        "short_name": "Zhao M",
+        "identifiers": [
+          "0009-0009-0198-1182"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Golomb, Samantha M",
+        "short_name": "Golomb SM",
+        "identifiers": [
+          "0000-0003-1737-7085"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ma, Wei",
+        "short_name": "Ma W",
+        "identifiers": [
+          "0000-0001-6947-6662"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yang, Xinrui",
+        "short_name": "Yang X",
+        "identifiers": [
+          "0000-0002-5631-4354"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Aleksandrovic, Emilija",
+        "short_name": "Aleksandrovic E",
+        "identifiers": [
+          "0000-0001-6698-2893"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Borges, Hazel M",
+        "short_name": "Borges HM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dean, Kevin M",
+        "short_name": "Dean KM",
+        "identifiers": [
+          "0000-0003-0839-2320"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Lei",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hon, Gary C",
+        "short_name": "Hon GC",
+        "identifiers": [
+          "0000-0002-1615-0391"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gan, Dailin",
+        "short_name": "Gan D",
+        "identifiers": [
+          "0000-0003-0535-1259"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhu, Hao",
+        "short_name": "Zhu H",
+        "identifiers": [
+          "0000-0002-8417-9698"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Jun",
+        "short_name": "Li J",
+        "identifiers": [
+          "0000-0003-4353-5761"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xu, Lin",
+        "short_name": "Xu L",
+        "identifiers": [
+          "0000-0001-5815-4457"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Siyuan",
+        "short_name": "Zhang S",
+        "identifiers": [
+          "0000-0003-0910-3666"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 05:37",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42926559"
+    ],
+    "review": [
+      "42926559"
+    ],
+    "pmc": [
+      "13692069"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.10.02.756296",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

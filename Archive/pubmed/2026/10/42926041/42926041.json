@@ -1,0 +1,305 @@
+{
+  "identity": {
+    "pmid": "42926041",
+    "doi": "10.1016/j.jtct.2026.10.034",
+    "title": "Recovery of a CMV-Reactive TCR from a Clinical Virus-Specific T-Cell Product for Generation of a Defined TCR-T Cell Product."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Virus-specific T-cell (VST) therapy is used in the management of viral complications after allogeneic HSCT. Current VST products are polyclonal and heterogeneous. This limits standardization, potency assessment, and precise product characterization. T-cell receptor (TCR)-based engineering may allow antiviral specificity to be captured from donor-derived immunity and redirected into a more defined cellular therapy candidate. OBJECTIVE(S): To identify a functional cytomegalovirus (CMV)-reactive TCR from a donor-derived VST product administered to a patient, generate and characterize a defined anti-CMV TCR-T cell candidate, and assess TRAC knockout as a strategy to support endogenous TCR removal in future allogeneic applications. STUDY DESIGN: A trivalent donor-derived VST product generated against adenovirus, BK polyomavirus, and CMV was administered under compassionate use to a pediatric haploidentical HSCT recipient with post-transplant viremia. Serial post-infusion blood samples were used to assess changes in the peripheral T-cell receptor repertoire over time. The clinical VST product was re-stimulated with the human leukocyte antigen (HLA)-A*02:01-restricted CMV pp65 495-503 epitope. Antigen-responsive CD8(+)4-1BB(+) cultures were used for functional TCR recovery. The selected CMV-reactive TCR was reconstructed with murine constant regions, cloned into an MSGV1 gamma-retroviral vector, and introduced into primary human T cells. Engineered cells were assessed for introduced TCR expression, antigen-specific activation, interferon-gamma (IFNgamma) secretion, HLA-A*02:01-restricted recognition, endogenous TCR expression over time, and generation of a TRAC-disrupted TCR-T cell population. RESULTS: Peripheral TCR repertoire analysis after sequential VST infusions showed temporal changes in dominant circulating TCRbeta clonotypes, with annotation based on overlap with antigen-responsive CD4(+) and CD8(+) reference datasets generated from the clinical VST product. Functional re-stimulation of the VST product with pp65 495-503 enriched antigen-responsive CD8(+)4-1BB(+) cells. From these cultures, a CMV-reactive TCR was recovered and advanced based on reproducible peptide-specific activity. Following reconstruction and retroviral transfer, the selected TCR mediated pp65 495-503-specific activation and IFNgamma secretion in primary T cells. Stimulation with pp65 495-503 induced 35.82% CD3(+)OX40(+)4-1BB(+) cells and approximately 9.8 x 10(3) pg/mL IFNgamma, while responses to non-cognate adenoviral Hexon stimulation remained low. The engineered anti-CMV TCR-T cells showed stronger IFNgamma responses to pp65 495-503 than the parental VST product. Irrelevant TCR controls remained near baseline. Endogenous TCR expression decreased early after TCR transduction alone but recovered by approximately day 14 and persisted through day 35. Following CRISPR/Cas9-mediated TRAC knockout, approximately 70% of cells were within the intended mTCR(+)hTCR(-) population before sorting, and this population was enriched by flow sorting for downstream characterization. CONCLUSION(S): This study demonstrates a clinically grounded workflow for deriving a defined antiviral TCR-T cell candidate from a donor-derived VST product. A functional CMV-reactive TCR was recovered from the clinical VST product and redirected into primary T cells while preserving pp65-specific activity. The recovery of endogenous TCR expression after transduction alone indicates that early downmodulation is not sufficient for durable removal of the native TCR. Incorporating TRAC knockout therefore provides a strategy to generate a more defined engineered T-cell population for future antiviral cellular therapy development.",
+    "keywords": [
+      "T-cell receptor engineering",
+      "TCR-T cells",
+      "TRAC knockout",
+      "antiviral cellular therapy",
+      "cytomegalovirus",
+      "hematopoietic stem cell transplantation",
+      "virus-specific T cells"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shachal, Rotem",
+        "Lieberman, Amihai",
+        "Ben-Haim, Nimrod",
+        "Vax, Einav",
+        "Berlinsky, Sagi",
+        "Teichman, Shlomit",
+        "Shemer, Anat",
+        "Rosenberg, Michael",
+        "Ashwal-Fluss, Reut",
+        "Zuckerman, Netta",
+        "Pereg, Mor Hava",
+        "Teperberg, Michal",
+        "Bielorai, Bella",
+        "Adam, Etai",
+        "Esensten, Jonathan H",
+        "Varda-Bloom, Nira",
+        "Jacoby, Elad",
+        "Hendel, Ayal",
+        "Cafri, Gal"
+      ],
+      "short_names": [
+        "Shachal R",
+        "Lieberman A",
+        "Ben-Haim N",
+        "Vax E",
+        "Berlinsky S",
+        "Teichman S",
+        "Shemer A",
+        "Rosenberg M",
+        "Ashwal-Fluss R",
+        "Zuckerman N",
+        "Pereg MH",
+        "Teperberg M",
+        "Bielorai B",
+        "Adam E",
+        "Esensten JH",
+        "Varda-Bloom N",
+        "Jacoby E",
+        "Hendel A",
+        "Cafri G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel; The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel.",
+        "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel; BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel.",
+        "The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel.",
+        "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel.",
+        "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel.",
+        "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel.",
+        "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel.",
+        "The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel.",
+        "Cancer Research Center, Wohl Institute of Translational Medicine, Sheba Medical Center, Tel Hashomer, Israel.",
+        "Bioinformatics and Genomics Unit, Central Virology Laboratory, Ministry of Health, Sheba Medical Center, Tel Hashomer, Israel.",
+        "Bioinformatics and Genomics Unit, Central Virology Laboratory, Ministry of Health, Sheba Medical Center, Tel Hashomer, Israel.",
+        "Bioinformatics and Genomics Unit, Central Virology Laboratory, Ministry of Health, Sheba Medical Center, Tel Hashomer, Israel.",
+        "Pediatric Hemato-Oncology Department, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical & Health Sciences, Tel Aviv University, Tel Aviv, Israel.",
+        "Pediatric Hemato-Oncology Department, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical & Health Sciences, Tel Aviv University, Tel Aviv, Israel.",
+        "Advanced Biotherapy Center (ABC), Sheba Medical Center, Ramat Gan, Israel.",
+        "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel.",
+        "Pediatric Hemato-Oncology Department, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical & Health Sciences, Tel Aviv University, Tel Aviv, Israel; Advanced Biotherapy Center (ABC), Sheba Medical Center, Ramat Gan, Israel.",
+        "The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel. Electronic address: ayal.hendel@biu.ac.il.",
+        "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel. Electronic address: gal.cafri@sheba.health.gov.il."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shachal, Rotem",
+        "short_name": "Shachal R",
+        "identifiers": [],
+        "affiliations": [
+          "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel; The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Lieberman, Amihai",
+        "short_name": "Lieberman A",
+        "identifiers": [],
+        "affiliations": [
+          "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel; BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Ben-Haim, Nimrod",
+        "short_name": "Ben-Haim N",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Vax, Einav",
+        "short_name": "Vax E",
+        "identifiers": [],
+        "affiliations": [
+          "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Berlinsky, Sagi",
+        "short_name": "Berlinsky S",
+        "identifiers": [],
+        "affiliations": [
+          "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Teichman, Shlomit",
+        "short_name": "Teichman S",
+        "identifiers": [],
+        "affiliations": [
+          "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Shemer, Anat",
+        "short_name": "Shemer A",
+        "identifiers": [],
+        "affiliations": [
+          "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Rosenberg, Michael",
+        "short_name": "Rosenberg M",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Ashwal-Fluss, Reut",
+        "short_name": "Ashwal-Fluss R",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Research Center, Wohl Institute of Translational Medicine, Sheba Medical Center, Tel Hashomer, Israel."
+        ]
+      },
+      {
+        "full_name": "Zuckerman, Netta",
+        "short_name": "Zuckerman N",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics and Genomics Unit, Central Virology Laboratory, Ministry of Health, Sheba Medical Center, Tel Hashomer, Israel."
+        ]
+      },
+      {
+        "full_name": "Pereg, Mor Hava",
+        "short_name": "Pereg MH",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics and Genomics Unit, Central Virology Laboratory, Ministry of Health, Sheba Medical Center, Tel Hashomer, Israel."
+        ]
+      },
+      {
+        "full_name": "Teperberg, Michal",
+        "short_name": "Teperberg M",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics and Genomics Unit, Central Virology Laboratory, Ministry of Health, Sheba Medical Center, Tel Hashomer, Israel."
+        ]
+      },
+      {
+        "full_name": "Bielorai, Bella",
+        "short_name": "Bielorai B",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Hemato-Oncology Department, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical & Health Sciences, Tel Aviv University, Tel Aviv, Israel."
+        ]
+      },
+      {
+        "full_name": "Adam, Etai",
+        "short_name": "Adam E",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Hemato-Oncology Department, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical & Health Sciences, Tel Aviv University, Tel Aviv, Israel."
+        ]
+      },
+      {
+        "full_name": "Esensten, Jonathan H",
+        "short_name": "Esensten JH",
+        "identifiers": [],
+        "affiliations": [
+          "Advanced Biotherapy Center (ABC), Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Varda-Bloom, Nira",
+        "short_name": "Varda-Bloom N",
+        "identifiers": [],
+        "affiliations": [
+          "BMT Processing Lab, Hematology Laboratory, Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Jacoby, Elad",
+        "short_name": "Jacoby E",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Hemato-Oncology Department, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical & Health Sciences, Tel Aviv University, Tel Aviv, Israel; Advanced Biotherapy Center (ABC), Sheba Medical Center, Ramat Gan, Israel."
+        ]
+      },
+      {
+        "full_name": "Hendel, Ayal",
+        "short_name": "Hendel A",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute for Advanced Materials and Nanotechnology, The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel. Electronic address: ayal.hendel@biu.ac.il."
+        ]
+      },
+      {
+        "full_name": "Cafri, Gal",
+        "short_name": "Cafri G",
+        "identifiers": [],
+        "affiliations": [
+          "Immunotherapy and Genetic Engineering Laboratory, Cancer Research Center, Sheba Medical Center, Ramat Gan, Israel. Electronic address: gal.cafri@sheba.health.gov.il."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Transplantation and cellular therapy"
+    ],
+    "journal_abbrev": [
+      "Transplant Cell Ther"
+    ],
+    "pub_date": "2026 Oct 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42926041"
+    ],
+    "review": [
+      "42926041"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-6367(26)00845-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2666-6367(26)00845-6",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/nursing/content/playBy/pii?v=S2666-6367(26)00845-6",
+        "provider": "ClinicalKey Nursing",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

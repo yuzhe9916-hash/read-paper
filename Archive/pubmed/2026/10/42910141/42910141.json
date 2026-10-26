@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "42910141",
+    "doi": "10.7150/ijms.135746",
+    "title": "The deficiency of htr6 gene results in aberrant brain development and epileptiform discharges in zebrafish larvae."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The 5-Hydroxytryptamine Receptor 6 (HTR6) is a G protein-coupled receptor implicated in neurodevelopmental disorders and epilepsy. Our previous studies identified a somatic HTR6 mutation in brain surgical specimens from patients with focal cortical dysplasia type II, suggesting its potential involvement in disease pathogenesis. OBJECTIVE: To investigate the functional role of the htr6 in zebrafish, focusing on its impact on neurodevelopment and seizure susceptibility. METHODS: A F0 mosaic htr6 crispant zebrafish model was generated using CRISPR/Cas9 and validated by sequencing and TIDE analysis. Morphological and central nervous system (CNS) abnormalities were assessed at 5 days post-fertilization (dpf) by bright-field and Tg (HuC: eGFP) fluorescence imaging. Survival was monitored to 21 dpf. Locomotor behavior was evaluated using DanioVision, and epileptiform activity was examined by local field potential recording. Human HTR6 mRNA rescue experiments, transcriptome sequencing, and qPCR validation were also performed. RESULTS: Deficiency of htr6 resulted in significant reductions in interocular and central nervous system areas. In addition, F0 mosaic htr6 crispant showed significantly reduced survival compared with Cas9 controls. While locomotor activity was markedly unaffected, electrophysiological recordings revealed epileptiform events in 9 of 24 F0 mosaic htr6 crispant but none in the Cas9 controls. Co-injection of human HTR6 mRNA rescued both neurodevelopmental abnormalities and epileptiform activity. Transcriptome analysis identified 402 differentially expressed genes, including the upregulation of 355 and the downregulation of 47 genes, suggesting profound neuronal impacts from htr6 deficiency. KEGG pathway enrichment analysis linked these changes to ABC transporters and metabolic pathways, demonstrating the significance of htr6 in maintaining neuronal health. CONCLUSION: Deficiency of htr6 in zebrafish results in abnormal brain development and epileptiform activity, underscoring its critical role in neurodevelopment and neuronal excitability. These findings suggest the importance of HTR6 in neurodevelopment and epilepsy, providing a foundation for further research on therapeutic strategies targeting HTR6-related pathways in neurological disorders.",
+    "keywords": [
+      "epilepsy",
+      "neurodevelopment",
+      "transcriptome analysis",
+      "zebrafish"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Zebrafish/genetics/growth & development",
+      "*Brain/growth & development/pathology/physiopathology",
+      "Humans",
+      "Disease Models, Animal",
+      "*Epilepsy/genetics/pathology/physiopathology",
+      "*Receptors, Serotonin/genetics/deficiency/metabolism",
+      "Neurodevelopment/genetics",
+      "Larva/genetics/growth & development",
+      "*Zebrafish Proteins/genetics",
+      "Animals, Genetically Modified"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chu, Hongyuan",
+        "Wang, Hao",
+        "Wen, Sijia",
+        "Li, Renqiuguo",
+        "Zhang, Junjiao",
+        "Zhang, Fan",
+        "Luo, Huaxia",
+        "Wu, Ye",
+        "Wang, Jingmin",
+        "Gao, Kai",
+        "Jiang, Yuwu"
+      ],
+      "short_names": [
+        "Chu H",
+        "Wang H",
+        "Wen S",
+        "Li R",
+        "Zhang J",
+        "Zhang F",
+        "Luo H",
+        "Wu Y",
+        "Wang J",
+        "Gao K",
+        "Jiang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Key Laboratory for Neuroscience, Ministry of Education/National Health and Family Planning Commission, Peking University, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Key Laboratory for Neuroscience, Ministry of Education/National Health and Family Planning Commission, Peking University, Beijing, China.",
+        "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+        "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+        "Key Laboratory for Neuroscience, Ministry of Education/National Health and Family Planning Commission, Peking University, Beijing, China.",
+        "Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chu, Hongyuan",
+        "short_name": "Chu H",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Hao",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Sijia",
+        "short_name": "Wen S",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Renqiuguo",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Junjiao",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fan",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Huaxia",
+        "short_name": "Luo H",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Ye",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jingmin",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+          "Key Laboratory for Neuroscience, Ministry of Education/National Health and Family Planning Commission, Peking University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Kai",
+        "short_name": "Gao K",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+          "Key Laboratory for Neuroscience, Ministry of Education/National Health and Family Planning Commission, Peking University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yuwu",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Medical Center, Peking University First Hospital, Beijing, China.",
+          "Beijing Key Laboratory of Molecular Diagnosis and Study on Pediatric Genetic Diseases, Beijing, China.",
+          "Children Epilepsy Center, Peking University First Hospital, Beijing, China.",
+          "Key Laboratory for Neuroscience, Ministry of Education/National Health and Family Planning Commission, Peking University, Beijing, China.",
+          "Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of medical sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Med Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-26 16:13:49"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42910141"
+    ],
+    "review": [
+      "42910141"
+    ],
+    "pmc": [
+      "13685442"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/epilepsy.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Epilepsy"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3953",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.medsci.org/v23p3515.htm",
+        "provider": "Ivyspring International Publisher",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/epilepsy.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Epilepsy"
+      }
+    ],
+    "text_mined": []
+  }
+}

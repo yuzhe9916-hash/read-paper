@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42919464",
+    "doi": "10.1002/advs.78246",
+    "title": "Scaffold RNA Reengineering for a Leakage-Suppressed CRISPR/Cas12a Cascade System Toward Precise Nucleic Acid Diagnostics."
+  },
+  "content": {
+    "abstract": "Amplification-free CRISPR detection has attracted significant attention for its capacity to circumvent the intricacies of nucleic acid amplification. Yet, the persistent challenge of high background signals remains a critical bottleneck, motivating intensive efforts toward background suppression strategies. Here, we present a 3'-end DNA extension of scaffold RNA (3'D-SR) conformational switch to drive the cascade-activatable and leakage-suppressed Cas12a system, a mechanism we denote as CALCas. By engineering the crRNA of Cas12a system and introducing steric hindrance as an activation barrier, we reshape crRNA into a \"threshold-controlled\" smart molecular switch, enabling Cas12a to shift from \"inhibition\" to \"precise activation\". Unlike other Cas cascade reaction generally suffer from internal self-activation that leads to uncontrolled background increase, this newly developed framework, leveraging a DNA-mediated allosteric regulation mechanism and a leakage-suppressed design based on inherent steric hindrance, effectively solves the dilemma between signal enlargement and minor background variation. Through rational design, this cascaded CRISPR system achieves femtomolar sensitivity (over 10,000-fold higher than single Cas12a system), enables rapid HPV16/18 detection, and reduces assay time to under 30 min. This engineered crRNA approach unlocks a new pathway to reprogram Cas12a's enzymatic activities with a stabilized benchmark signal that can be critical in precise quantitative nucleic acid detection.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "amplification-free",
+      "engineering modification",
+      "nucleic acid detection",
+      "steric hindrance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Xingrong",
+        "Hu, Honghua",
+        "Jiang, Xinli",
+        "Fu, Xuhuai",
+        "Hu, Lin",
+        "Wu, Qinghua",
+        "Chai, Jiatong",
+        "Li, Diangeng",
+        "Guo, Jinhong",
+        "Li, Zhiqiang",
+        "Li, Yi",
+        "Li, Yirong"
+      ],
+      "short_names": [
+        "Li X",
+        "Hu H",
+        "Jiang X",
+        "Fu X",
+        "Hu L",
+        "Wu Q",
+        "Chai J",
+        "Li D",
+        "Guo J",
+        "Li Z",
+        "Li Y",
+        "Li Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-7958-662X",
+        "ORCID: 0009-0004-9048-819X",
+        "ORCID: 0000-0001-5288-0490",
+        "ORCID: 0000-0002-8698-4746",
+        "ORCID: 0000-0003-2659-3150",
+        "ORCID: 0000-0002-4148-780X",
+        "ORCID: 0000-0003-2226-5918",
+        "ORCID: 0000-0002-5619-1614"
+      ],
+      "affiliations": [
+        "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+        "Department of Laboratory Medicine and Sichuan Provincial Key Laboratory for Human Disease Gene Study, Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China.",
+        "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+        "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Department of Academic Research, Beijing Ditan Hospital, Capital Medical University, National Center for Infectious Diseases (Beijing), Beijing, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+        "Brain Glioma Center, Zhongnan Hospital of Wuhan University, Wuhan University, Wuhan, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+        "Western Institute of Digital-Intelligent Medicine, Chongqing, China.",
+        "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Hubei Provincial Clinical Medical Research Center for Molecular Diagnostics, Wuhan, China.",
+        "Wuhan Research Center for Infectious Diseases and Cancer, Chinese Academy of Medical Sciences, Wuhan, China.",
+        "Hubei Engineering Center for Infectious Disease Prevention, Control and Treatment, Wuhan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Xingrong",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Honghua",
+        "short_name": "Hu H",
+        "identifiers": [
+          "0009-0000-7958-662X"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+          "Department of Laboratory Medicine and Sichuan Provincial Key Laboratory for Human Disease Gene Study, Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xinli",
+        "short_name": "Jiang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Xuhuai",
+        "short_name": "Fu X",
+        "identifiers": [
+          "0009-0004-9048-819X"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Lin",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Qinghua",
+        "short_name": "Wu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Chai, Jiatong",
+        "short_name": "Chai J",
+        "identifiers": [
+          "0000-0001-5288-0490"
+        ],
+        "affiliations": [
+          "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Diangeng",
+        "short_name": "Li D",
+        "identifiers": [
+          "0000-0002-8698-4746"
+        ],
+        "affiliations": [
+          "Department of Academic Research, Beijing Ditan Hospital, Capital Medical University, National Center for Infectious Diseases (Beijing), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jinhong",
+        "short_name": "Guo J",
+        "identifiers": [
+          "0000-0003-2659-3150"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhiqiang",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0000-0002-4148-780X"
+        ],
+        "affiliations": [
+          "Brain Glioma Center, Zhongnan Hospital of Wuhan University, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yi",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0003-2226-5918"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing, China.",
+          "Western Institute of Digital-Intelligent Medicine, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yirong",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0002-5619-1614"
+        ],
+        "affiliations": [
+          "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+          "Hubei Provincial Clinical Medical Research Center for Molecular Diagnostics, Wuhan, China.",
+          "Wuhan Research Center for Infectious Diseases and Cancer, Chinese Academy of Medical Sciences, Wuhan, China.",
+          "Hubei Engineering Center for Infectious Disease Prevention, Control and Treatment, Wuhan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42919464"
+    ],
+    "review": [
+      "42919464"
+    ],
+    "pmc": [
+      "13690970"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SNCG-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

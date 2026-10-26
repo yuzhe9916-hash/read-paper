@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42924439",
+    "doi": "10.1093/nar/gkag1015",
+    "title": "NEAT1 remodeling rewires the MYC degradation pathway."
+  },
+  "content": {
+    "abstract": "MYC is among the most frequently amplified oncogenes in human cancer, yet its intrinsically disordered nature has rendered it refractory to direct pharmacological targeting. Here, we demonstrate that the long noncoding RNA NEAT1_1 functions as a molecular gatekeeper that controls MYC protein stability by regulating its access to the E3 ubiquitin ligase UBR5. We show that NEAT1_1 forms a ribonucleoprotein (RNP) complex with both MYC and UBR5, and that NEAT1_1 suppression disrupts this interaction, leading to decreased MYC polyubiquitination and enhanced protein stability. To systematically map the regulatory architecture of NEAT1_1 without altering its abundance, we screened 88 antisense oligonucleotide (ASO) mixmers tiling across the transcript. Strikingly, this phenotypic screen identified region-specific mixmers that elicit bidirectional control over MYC, either driving robust MYC destabilization or promoting its stabilization in a strictly expression-independent manner. Mechanistically, MYC-destabilizing mixmers selectively enhance the interaction between MYC and UBR5 to accelerate proteasomal degradation. A focused CRISPR screen targeting the ubiquitin-proteasome pathway independently validated UBR5 as the essential E3 ligase mediating this mixmer-induced turnover. In vivo, our lead mixmer ASO_#24 significantly suppressed tumor growth in MYC-high xenografts, whereas MYC-low tumors remained unaffected. Our findings reveal that the functional output of a scaffold lncRNA is encoded in its sub-domain architecture rather than bulk transcript levels, establishing domain-specific RNA targeting as a tractable strategy to rewire protein turnover pathways for otherwise undruggable oncogenes.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Proto-Oncogene Proteins c-myc/metabolism/genetics",
+      "Humans",
+      "*Ubiquitin-Protein Ligases/metabolism/genetics",
+      "Animals",
+      "*RNA, Long Noncoding/genetics/metabolism",
+      "Ubiquitination",
+      "Proteolysis",
+      "Mice",
+      "Protein Stability",
+      "Proteasome Endopeptidase Complex/metabolism",
+      "Cell Line, Tumor",
+      "Oligonucleotides, Antisense/genetics",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jang, Hagoon",
+        "Suh, Bo Kyoung",
+        "Zhang, Feijie",
+        "Lin, Angela",
+        "Tan, Mingdian",
+        "Liu, Yi",
+        "Chua, Mei-Sze",
+        "So, Samuel",
+        "Kay, Mark A"
+      ],
+      "short_names": [
+        "Jang H",
+        "Suh BK",
+        "Zhang F",
+        "Lin A",
+        "Tan M",
+        "Liu Y",
+        "Chua MS",
+        "So S",
+        "Kay MA"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8079-9446",
+        "ORCID: 0000-0002-2799-2615"
+      ],
+      "affiliations": [
+        "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States.",
+        "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States.",
+        "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States.",
+        "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States.",
+        "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States.",
+        "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States.",
+        "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States.",
+        "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States.",
+        "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jang, Hagoon",
+        "short_name": "Jang H",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States."
+        ]
+      },
+      {
+        "full_name": "Suh, Bo Kyoung",
+        "short_name": "Suh BK",
+        "identifiers": [
+          "0000-0001-8079-9446"
+        ],
+        "affiliations": [
+          "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Feijie",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States."
+        ]
+      },
+      {
+        "full_name": "Lin, Angela",
+        "short_name": "Lin A",
+        "identifiers": [],
+        "affiliations": [
+          "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States."
+        ]
+      },
+      {
+        "full_name": "Tan, Mingdian",
+        "short_name": "Tan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States."
+        ]
+      },
+      {
+        "full_name": "Liu, Yi",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States."
+        ]
+      },
+      {
+        "full_name": "Chua, Mei-Sze",
+        "short_name": "Chua MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States."
+        ]
+      },
+      {
+        "full_name": "So, Samuel",
+        "short_name": "So S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgery, School of Medicine, Stanford University, Stanford, CA 94304, United States."
+        ]
+      },
+      {
+        "full_name": "Kay, Mark A",
+        "short_name": "Kay MA",
+        "identifiers": [
+          "0000-0002-2799-2615"
+        ],
+        "affiliations": [
+          "Departments of Pediatrics and Genetics, Stanford University, Stanford, CA 94305, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42924439"
+    ],
+    "review": [
+      "42924439"
+    ],
+    "pmc": [
+      "13691374"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1015",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

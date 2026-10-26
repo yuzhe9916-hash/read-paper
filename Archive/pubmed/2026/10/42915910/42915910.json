@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42915910",
+    "doi": "10.1021/acs.analchem.6c03958",
+    "title": "Machine Learning-Assisted Multiplexed and Ultrasensitive Biosensing of Pathogenic Bacteria based on a TtAgo-Powered Autocatalytic Nucleic Acid Circuit and Encoded SERS Tags."
+  },
+  "content": {
+    "abstract": "Programmable nucleases have obtained widespread application in the field of pathogen detection, yet they face considerable challenges in multiplex detection. As a sister technology to CRISPR/Cas systems, Argonaute proteins (Ago) possess programmability, sequence specificity, and multi-turnover capability, rendering them promising candidates for next-generation multiplex detection technologies. Herein, a novel machine learning-assisted amplification-free and multiple SERS biosensing platform based on an Ago-driven autocatalytic nucleic acid circuit (SAANC) was developed for the multiplexed detection of pathogenic bacteria. The SAANC platform utilized the cross-catalytic activity of TtAgo to construct an autocatalytic nucleic acid circuit, enabling continuous reactions without pre-amplification and achieving autocatalytic signal amplification. Meanwhile, by precisely modulating the density of reporter DNA on the surface of silver@Raman reporter@gold nanoparticles (Ag@Ra@Au NPs), both cleavage efficiency and Raman response were significantly enhanced. This integrated approach significantly enhanced reaction efficiency, achieving highly sensitive and specific multiplex detection of pathogenic bacteria. The SAANC method exhibited linear detection ranges of 102-108 CFU/mL for Salmonella typhimurium and 103-108 CFU/mL for Staphylococcus aureus, respectively. Moreover, satisfactory recoveries (89%-110%) in food sample detection were obtained. Furthermore, machine learning-assisted quantitative analysis was introduced to effectively address the challenge of overlapping SERS signals from dual targets, substantially improving the robustness of simultaneous multi-target quantification. This platform provides a feasible strategy for developing high-performance Ago-based multiplex pathogen detection systems and offers an innovative solution for efficient multiplex detection of pathogenic bacteria.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Biosensing Techniques/methods",
+      "*Spectrum Analysis, Raman/methods",
+      "Gold/chemistry",
+      "*Machine Learning",
+      "Metal Nanoparticles/chemistry",
+      "*Salmonella typhimurium/isolation & purification",
+      "Silver/chemistry",
+      "Limit of Detection",
+      "*Staphylococcus aureus/isolation & purification"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Xiru",
+        "Qiu, Manyan",
+        "Huang, Jiaxin",
+        "Zhang, Yiyi",
+        "Tian, Yuhang",
+        "Zhang, Wei",
+        "Jiang, Yujun",
+        "Zhang, Xianlong"
+      ],
+      "short_names": [
+        "Zhang X",
+        "Qiu M",
+        "Huang J",
+        "Zhang Y",
+        "Tian Y",
+        "Zhang W",
+        "Jiang Y",
+        "Zhang X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2857-2137",
+        "ORCID: 0000-0002-7773-0074"
+      ],
+      "affiliations": [
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+        "Key Laboratory of Cattle and Sheep Milk and Meat Products Risk Control and Key Technology, State Administration for Market Regulation, Hohhot010000, China.",
+        "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+        "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Xiru",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Manyan",
+        "short_name": "Qiu M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jiaxin",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yiyi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Yuhang",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wei",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yujun",
+        "short_name": "Jiang Y",
+        "identifiers": [
+          "0000-0002-2857-2137"
+        ],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China.",
+          "Key Laboratory of Cattle and Sheep Milk and Meat Products Risk Control and Key Technology, State Administration for Market Regulation, Hohhot010000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xianlong",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0000-0002-7773-0074"
+        ],
+        "affiliations": [
+          "Key Laboratory of Dairy Science, Ministry of Education, Department of Food Science, Northeast Agricultural University, Harbin150030, China.",
+          "Key Laboratory of Infant Formula Food for State Market Regulation, Harbin150030, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915910"
+    ],
+    "review": [
+      "42915910"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c03958",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

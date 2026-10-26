@@ -1,0 +1,203 @@
+{
+  "identity": {
+    "pmid": "42926121",
+    "doi": "10.1016/j.ymeth.2026.10.007",
+    "title": "A DNA-free CRISPR-Cas9 ribonucleoprotein electroporation protocol for efficient knockout generation in cardiac and skeletal muscle cell lines."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Efficient, reproducible gene knockout in cardiomyocyte-related cell models is critical for cardiovascular research but remains challenging because of cell-type-specific sensitivity to genome-editing workflows. METHODS: We developed an optimized CRISPR-Cas9 genome-editing protocol using electroporation of ribonucleoprotein (RNP) complexes to generate knockout lines in cardiac and skeletal muscle cells. We also provide practical guidance for gRNA design, genotyping, and clonal line generation. Using human AC16 cardiomyocyte-like cells and rodent muscle-derived cell lines (C2C12, L6, and H9C2), we optimized electroporation conditions to maximize editing efficiency while maintaining viability. RESULTS: SpCas9-single-guide RNA (sgRNA) RNPs targeting the lipid-trafficking regulator SAR1B/Sar1b produced high-frequency frameshift indels and marked loss of target protein expression in all models. A composite knockout score that combines editing efficiency and cell survival identified optimal electroporation settings of 1400 V, 10 ms, and 3 pulses for AC16 cells, and 1500 V, 10 ms, and 3 pulses for C2C12, L6, and H9C2 cells. CONCLUSIONS: This protocol combines rational sgRNA design, chemically modified sgRNAs for efficient RNP assembly, and standardized genotyping to improve reproducibility. The framework is transferable to other cardiomyocyte and muscle-derived cell types and supports both pthe olyclonal and monoclonal CRISPR-Cas9 knockout approaches.",
+    "keywords": [
+      "AC16",
+      "C2C12",
+      "CRISPR-Cas9",
+      "Cardiac and skeletal muscle cells",
+      "Cardiomyocyte",
+      "Electroporation",
+      "Genome editing",
+      "H9C2",
+      "Heart",
+      "Knockout",
+      "L6",
+      "Metabolism",
+      "Ribonucleoprotein",
+      "SAR1"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nami, Babak",
+        "Xiao, Yuhe",
+        "Kaur, Gurpreet",
+        "Kolla, Harish Babu",
+        "Vesuna, Aryan",
+        "Finnigan, Ethan",
+        "Vivek, Aparna",
+        "Jose, Anu",
+        "Kumari, Simran",
+        "Kienesberger, Petra C",
+        "Pulinilkunnil, Thomas"
+      ],
+      "short_names": [
+        "Nami B",
+        "Xiao Y",
+        "Kaur G",
+        "Kolla HB",
+        "Vesuna A",
+        "Finnigan E",
+        "Vivek A",
+        "Jose A",
+        "Kumari S",
+        "Kienesberger PC",
+        "Pulinilkunnil T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "University of New Brunswick, Saint John, New Brunswick, Canada; Dynoma Biosciences Inc, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada; University of New Brunswick, Saint John, New Brunswick, Canada. Electronic address: tpulinil@dal.ca."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nami, Babak",
+        "short_name": "Nami B",
+        "identifiers": [],
+        "affiliations": [
+          "University of New Brunswick, Saint John, New Brunswick, Canada; Dynoma Biosciences Inc, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Xiao, Yuhe",
+        "short_name": "Xiao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Kaur, Gurpreet",
+        "short_name": "Kaur G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Kolla, Harish Babu",
+        "short_name": "Kolla HB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Vesuna, Aryan",
+        "short_name": "Vesuna A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Finnigan, Ethan",
+        "short_name": "Finnigan E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Vivek, Aparna",
+        "short_name": "Vivek A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Jose, Anu",
+        "short_name": "Jose A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Kumari, Simran",
+        "short_name": "Kumari S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Kienesberger, Petra C",
+        "short_name": "Kienesberger PC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada."
+        ]
+      },
+      {
+        "full_name": "Pulinilkunnil, Thomas",
+        "short_name": "Pulinilkunnil T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Faculty of Medicine, Dalhousie University, Dalhousie Medicine New Brunswick, Saint John, New Brunswick, Canada; University of New Brunswick, Saint John, New Brunswick, Canada. Electronic address: tpulinil@dal.ca."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods (San Diego, Calif.)"
+    ],
+    "journal_abbrev": [
+      "Methods"
+    ],
+    "pub_date": "2026 Oct 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42926121"
+    ],
+    "review": [
+      "42926121"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1046-2023(26)00212-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

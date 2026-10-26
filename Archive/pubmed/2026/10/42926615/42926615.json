@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42926615",
+    "doi": "10.64898/2026.10.05.756638",
+    "title": "SLC25A28 is a synthetic lethal vulnerability in nucleotide excision repair-deficient cancers."
+  },
+  "content": {
+    "abstract": "Approximately 10% of bladder, upper urinary tract, and endometrial cancers harbor deleterious somatic alterations in nucleotide excision repair (NER) pathway genes. Although platinum-based chemotherapy is the standard treatment for NER-deficient tumors, its utility is limited by nephrotoxicity, motivating alternative strategies that avoid direct DNA targeting. Here, we employed a genome-wide CRISPR-Cas9 screen to identify synthetic lethal vulnerabilities in NER-deficient cancer cells. An ERCC4 -null RT112/84 bladder cancer cell line was generated and validated by Sanger sequencing and Western blotting, and functional NER deficiency was confirmed using a host cell reactivation assay. Parallel screens in ERCC4 -deficient and isogenic wild-type cells. nominated SLC25A28 as the top-ranked synthetic lethal candidate in ERCC4 -deficient cells, an interaction further supported by DepMap dependency. Clonogenic assays confirmed that loss of SLC25A28 selectively impaired cell viability in cells deficient for ERCC2 , ERCC3 , ERCC4 , or ERCC5 and inducible knockout selectively suppressed ERCC4 -deficient xenograft growth in-viv o. Mechanistically, RNA sequencing followed by gene set enrichment analysis revealed enrichment of oxidative stress-related pathways, including cellular responses to reactive oxygen species (ROS) and DNA damage signatures, upon SLC25A28 loss. These transcriptional changes are consistent with increased oxidative stress and DNA damage, placing heightened demand on NER-mediated repair. Direct measurement confirmed increased intracellular ROS. Collectively, our nominates SLC25A28 as a previously unrecognized synthetic lethal vulnerability in NER-deficient cancers and implicate mitochondrial iron homeostasis as a candidate metabolic dependency that may be targeted independently of platinum-based chemotherapy. SIGNIFICANCE: This study identifies SLC25A28 as a synthetic lethal vulnerability in nucleotide excision repair-deficient cancers, linking mitochondrial iron homeostasis and oxidative stress to selective DNA damage intolerance and therapeutic opportunity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Nan",
+        "Hoeg, Lisa",
+        "Bai, Xuechun",
+        "Gao, Sizhi",
+        "de Stanchina, Elisa",
+        "Solit, David",
+        "Topka, Sabine",
+        "Belhadj, Sami",
+        "Carrot-Zhang, Jian",
+        "Iyer, Gopa",
+        "Durocher, Daniel",
+        "Mouw, Kent W",
+        "Joseph, Vijai",
+        "Offit, Kenneth",
+        "Lipkin, Steven"
+      ],
+      "short_names": [
+        "Yang N",
+        "Hoeg L",
+        "Bai X",
+        "Gao S",
+        "de Stanchina E",
+        "Solit D",
+        "Topka S",
+        "Belhadj S",
+        "Carrot-Zhang J",
+        "Iyer G",
+        "Durocher D",
+        "Mouw KW",
+        "Joseph V",
+        "Offit K",
+        "Lipkin S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6052-5728",
+        "ORCID: 0000-0002-0109-3646",
+        "ORCID: 0009-0001-3868-2786",
+        "ORCID: 0000-0002-6675-4003",
+        "ORCID: 0000-0002-3873-315X",
+        "ORCID: 0000-0002-6614-802X",
+        "ORCID: 0000-0002-7767-4471",
+        "ORCID: 0000-0002-0528-9187",
+        "ORCID: 0000-0002-0103-9965",
+        "ORCID: 0000-0002-5093-6099",
+        "ORCID: 0000-0003-3863-8635",
+        "ORCID: 0000-0001-7939-7343",
+        "ORCID: 0000-0002-7933-151X",
+        "ORCID: 0000-0002-2180-2032",
+        "ORCID: 0000-0002-0603-9139"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Nan",
+        "short_name": "Yang N",
+        "identifiers": [
+          "0000-0002-6052-5728"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hoeg, Lisa",
+        "short_name": "Hoeg L",
+        "identifiers": [
+          "0000-0002-0109-3646"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bai, Xuechun",
+        "short_name": "Bai X",
+        "identifiers": [
+          "0009-0001-3868-2786"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gao, Sizhi",
+        "short_name": "Gao S",
+        "identifiers": [
+          "0000-0002-6675-4003"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "de Stanchina, Elisa",
+        "short_name": "de Stanchina E",
+        "identifiers": [
+          "0000-0002-3873-315X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Solit, David",
+        "short_name": "Solit D",
+        "identifiers": [
+          "0000-0002-6614-802X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Topka, Sabine",
+        "short_name": "Topka S",
+        "identifiers": [
+          "0000-0002-7767-4471"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Belhadj, Sami",
+        "short_name": "Belhadj S",
+        "identifiers": [
+          "0000-0002-0528-9187"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Carrot-Zhang, Jian",
+        "short_name": "Carrot-Zhang J",
+        "identifiers": [
+          "0000-0002-0103-9965"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Iyer, Gopa",
+        "short_name": "Iyer G",
+        "identifiers": [
+          "0000-0002-5093-6099"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Durocher, Daniel",
+        "short_name": "Durocher D",
+        "identifiers": [
+          "0000-0003-3863-8635"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mouw, Kent W",
+        "short_name": "Mouw KW",
+        "identifiers": [
+          "0000-0001-7939-7343"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Joseph, Vijai",
+        "short_name": "Joseph V",
+        "identifiers": [
+          "0000-0002-7933-151X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Offit, Kenneth",
+        "short_name": "Offit K",
+        "identifiers": [
+          "0000-0002-2180-2032"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lipkin, Steven",
+        "short_name": "Lipkin S",
+        "identifiers": [
+          "0000-0002-0603-9139"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 05:37",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42926615"
+    ],
+    "review": [
+      "42926615"
+    ],
+    "pmc": [
+      "13692116"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERCC2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.05.756638",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

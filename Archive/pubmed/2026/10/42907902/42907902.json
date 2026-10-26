@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42907902",
+    "doi": "10.1186/s13059-026-04211-x",
+    "title": "Accurate prediction of CRISPR editing outcomes in somatic cell lines and zygotes with few-shot learning with inDecay."
+  },
+  "content": {
+    "abstract": "Prediction of CRISPR/Cas outcomes remains unsatisfactory in embryos due to distinct DNA repair preferences and the lack of large-scale embryo editing profiles. We introduce inDecay, a flexible system for predicting the proportion of CRISPR-induced indels from the target sequence. Owing to its parameter-efficient and cell-type-aware design, inDecay performs well in both in-sample training and out-of-sample fine-tuning. Starting with cross-cell-line predictions, we observed that inDecay maintains high accuracy in mouse zygote editing and in goat, cattle and porcine embryos. inDecay may accelerate mouse model generation, livestock embryonic editing, and gene therapy applications.",
+    "keywords": [
+      "CRISPR editing",
+      "DNA repair",
+      "Editing outcome prediction",
+      "Machine learning"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Zygote/metabolism",
+      "*Gene Editing/methods",
+      "*CRISPR-Cas Systems",
+      "Mice",
+      "Cattle",
+      "Cell Line",
+      "Swine",
+      "*Machine Learning",
+      "INDEL Mutation",
+      "Prediction Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zheng, Weizhong",
+        "Yu, Lu",
+        "Wu, Chao",
+        "Cao, Shaoxian",
+        "Zhao, Mengying",
+        "Wang, Guoliang",
+        "So, Kam Ho",
+        "Song, Jun",
+        "Cheng, Chen",
+        "Ho, Joshua W K",
+        "Liu, Xueqin",
+        "Wu, Meng",
+        "Liu, Zhonghua",
+        "Wang, Huili",
+        "Liu, Pentao",
+        "Lan, Guocheng",
+        "Huang, Yuanhua"
+      ],
+      "short_names": [
+        "Zheng W",
+        "Yu L",
+        "Wu C",
+        "Cao S",
+        "Zhao M",
+        "Wang G",
+        "So KH",
+        "Song J",
+        "Cheng C",
+        "Ho JWK",
+        "Liu X",
+        "Wu M",
+        "Liu Z",
+        "Wang H",
+        "Liu P",
+        "Lan G",
+        "Huang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+        "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+        "Genome Technologies Limited, Hong Kong Science Park, Hong Kong SAR, China.",
+        "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences, Nanjing, China.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+        "College of Life Science, Northeast Agricultural University, Harbin, 150030, China.",
+        "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, Northeast Agricultural University, Harbin, China.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+        "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+        "School of Biomedical Engineering, The University of Hong Kong, Hong Kong SAR, China.",
+        "Chongqing Academy of Animal Sciences, Chongqing, China.",
+        "Chongqing Academy of Animal Sciences, Chongqing, China.",
+        "College of Life Science, Northeast Agricultural University, Harbin, 150030, China.",
+        "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, Northeast Agricultural University, Harbin, China.",
+        "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences, Nanjing, China. wanghuili318@163.com.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China. pliu88@hku.hk.",
+        "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China. pliu88@hku.hk.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China. lan01@baizegtl.com.",
+        "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China. lan01@baizegtl.com.",
+        "Genome Technologies Limited, Hong Kong Science Park, Hong Kong SAR, China. lan01@baizegtl.com.",
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China. yuanhua@hku.hk.",
+        "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China. yuanhua@hku.hk.",
+        "Department of Statistics and Actuarial Science, The University of Hong Kong, Hong Kong SAR, China. yuanhua@hku.hk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zheng, Weizhong",
+        "short_name": "Zheng W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+          "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Lu",
+        "short_name": "Yu L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Chao",
+        "short_name": "Wu C",
+        "identifiers": [],
+        "affiliations": [
+          "Genome Technologies Limited, Hong Kong Science Park, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Shaoxian",
+        "short_name": "Cao S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Mengying",
+        "short_name": "Zhao M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Guoliang",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "So, Kam Ho",
+        "short_name": "So KH",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Song, Jun",
+        "short_name": "Song J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science, Northeast Agricultural University, Harbin, 150030, China.",
+          "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Chen",
+        "short_name": "Cheng C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+          "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Ho, Joshua W K",
+        "short_name": "Ho JWK",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.",
+          "School of Biomedical Engineering, The University of Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xueqin",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Academy of Animal Sciences, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Meng",
+        "short_name": "Wu M",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Academy of Animal Sciences, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhonghua",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science, Northeast Agricultural University, Harbin, 150030, China.",
+          "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Huili",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Science, Jiangsu Academy of Agricultural Sciences, Nanjing, China. wanghuili318@163.com."
+        ]
+      },
+      {
+        "full_name": "Liu, Pentao",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China. pliu88@hku.hk.",
+          "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China. pliu88@hku.hk."
+        ]
+      },
+      {
+        "full_name": "Lan, Guocheng",
+        "short_name": "Lan G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China. lan01@baizegtl.com.",
+          "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China. lan01@baizegtl.com.",
+          "Genome Technologies Limited, Hong Kong Science Park, Hong Kong SAR, China. lan01@baizegtl.com."
+        ]
+      },
+      {
+        "full_name": "Huang, Yuanhua",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China. yuanhua@hku.hk.",
+          "Center for Translational Stem Cell Biology, Hong Kong Science and Technology Park, Hong Kong SAR, China. yuanhua@hku.hk.",
+          "Department of Statistics and Actuarial Science, The University of Hong Kong, Hong Kong SAR, China. yuanhua@hku.hk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome biology"
+    ],
+    "journal_abbrev": [
+      "Genome Biol"
+    ],
+    "pub_date": "2026 Jul 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-26 16:13:49"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42907902"
+    ],
+    "review": [
+      "42907902"
+    ],
+    "pmc": [
+      "13689239"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-026-04211-x",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

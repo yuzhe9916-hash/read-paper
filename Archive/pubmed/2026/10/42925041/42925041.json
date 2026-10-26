@@ -1,0 +1,187 @@
+{
+  "identity": {
+    "pmid": "42925041",
+    "doi": "10.1128/mbio.02180-26",
+    "title": "The core interaction network of transcription elongation factors is broadly maintained across diverse bacteria."
+  },
+  "content": {
+    "abstract": "Bacterial transcription elongation has been investigated most thoroughly for the model bacterium Escherichia coli. The E. coli elongation factor NusG associates through its N-terminal domain with the transcription elongation complex (TEC), while its C-terminal domain forms mutually exclusive interactions with either ribosomal protein S10 or Rho termination factor. The E. coli NusG:S10 complex bridges the TEC with a pioneering ribosome for coupling of transcription and translation. NusG also participates in antitermination complexes (ATC) that inhibit Rho-dependent termination and increase transcription of rRNA operons. A characteristic sequence in the nascent rrn RNA, called boxA, loads E. coli NusB:S10 onto the NusG-bound TEC, leading to the formation of the rrn ATC. However, these findings may not extend to all bacteria. Rho-dependent termination is less important in gram-positive bacteria, including some that do not encode Rho, and transcription and translation remain uncoupled in Bacillus subtilis and many other gram-positive bacteria. It is therefore unclear whether the interaction network for E. coli elongation factors is conserved in these organisms. We identified boxA-like sequences upstream of 16S and 23S genes in Bacillus species and found that they associate directly with NusB. We also found that B. subtilis S10 associates with both NusB and NusG, and that Rho can also associate with NusG. Bioinformatic analyses revealed conservation of interaction interface residues across multiple phyla. Together, these data demonstrate that the core interaction network of bacterial elongation factors is broadly conserved across diverse bacteria, despite differences in how these interactions function in individual species. IMPORTANCE: Escherichia coli is known to use several key elongation factors that promote direct coupling of transcription with translation. These factors also trigger the formation of an antitermination complex that protects the synthesis of ribosomal RNA and CRISPR transcripts from interference by the Rho termination factor. However, Bacillus subtilis is not thought to couple transcription with translation. It is also not known whether B. subtilis needs to suppress Rho, given that its Rho is dispensable. Therefore, we purified B. subtilis elongation factors and mapped their interaction network. Surprisingly, we find that the B. subtilis elongation factors form complexes that closely resemble E. coli counterparts, despite the significant mechanistic differences in how these bacteria control transcription elongation.",
+    "keywords": [
+      "Bacillus subtilis",
+      "antitermination",
+      "transcription elongation",
+      "transcription-translation coupling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tran, Thao N P",
+        "Peterson, Reid E",
+        "Jiang, Xiaofang",
+        "Sevugan, Swathi A",
+        "Ranaweera, Sandeepani",
+        "Babitzke, Paul",
+        "Fushman, David",
+        "Winkler, Wade C"
+      ],
+      "short_names": [
+        "Tran TNP",
+        "Peterson RE",
+        "Jiang X",
+        "Sevugan SA",
+        "Ranaweera S",
+        "Babitzke P",
+        "Fushman D",
+        "Winkler WC"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5342-4534",
+        "ORCID: 0000-0002-0955-8284",
+        "ORCID: 0000-0003-2481-1062",
+        "ORCID: 0000-0002-6634-8056",
+        "ORCID: 0000-0002-2584-6219"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA. RINGGOLD: 1068",
+        "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, USA. RINGGOLD: 1068",
+        "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA. RINGGOLD: 1068",
+        "Intramural Research Program, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, USA. RINGGOLD: 2511. ROR: https://ror.org/045p44t13",
+        "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, USA. RINGGOLD: 1068",
+        "Department of Biochemistry and Molecular Biology, Center for RNA Molecular Biology, Pennsylvania State University, University Park, Pennsylvania, USA. RINGGOLD: 189499. ROR: https://ror.org/04p491231",
+        "Department of Biochemistry and Molecular Biology, Center for RNA Molecular Biology, Pennsylvania State University, University Park, Pennsylvania, USA. RINGGOLD: 189499. ROR: https://ror.org/04p491231",
+        "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA. RINGGOLD: 1068",
+        "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA. RINGGOLD: 1068",
+        "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, USA. RINGGOLD: 1068"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tran, Thao N P",
+        "short_name": "Tran TNP",
+        "identifiers": [
+          "0000-0001-5342-4534"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA.",
+          "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, USA."
+        ]
+      },
+      {
+        "full_name": "Peterson, Reid E",
+        "short_name": "Peterson RE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xiaofang",
+        "short_name": "Jiang X",
+        "identifiers": [
+          "0000-0002-0955-8284"
+        ],
+        "affiliations": [
+          "Intramural Research Program, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, USA."
+        ]
+      },
+      {
+        "full_name": "Sevugan, Swathi A",
+        "short_name": "Sevugan SA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, USA."
+        ]
+      },
+      {
+        "full_name": "Ranaweera, Sandeepani",
+        "short_name": "Ranaweera S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Center for RNA Molecular Biology, Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Babitzke, Paul",
+        "short_name": "Babitzke P",
+        "identifiers": [
+          "0000-0003-2481-1062"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Center for RNA Molecular Biology, Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Fushman, David",
+        "short_name": "Fushman D",
+        "identifiers": [
+          "0000-0002-6634-8056"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA."
+        ]
+      },
+      {
+        "full_name": "Winkler, Wade C",
+        "short_name": "Winkler WC",
+        "identifiers": [
+          "0000-0002-2584-6219"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Center for Biomolecular Structure and Organization, University of Maryland, College Park, Maryland, USA.",
+          "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mBio"
+    ],
+    "journal_abbrev": [
+      "mBio"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 16:12:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42925041"
+    ],
+    "review": [
+      "42925041"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/mbio.02180-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ATM-4",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

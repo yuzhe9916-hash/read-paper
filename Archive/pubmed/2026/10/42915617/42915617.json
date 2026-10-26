@@ -1,0 +1,139 @@
+{
+  "identity": {
+    "pmid": "42915617",
+    "doi": "10.1021/acssynbio.6c00398",
+    "title": "DeepCRISPR-Typer: Accurate CRISPR-Cas Identification and Subtyping in Metagenomes via Integrated Deep Learning."
+  },
+  "content": {
+    "abstract": "Accurate identification and classification of CRISPR-Cas systems are crucial for understanding microbial immune mechanisms and developing novel genome-editing tools. However, traditional homology-based mining methods face severe computational bottlenecks and assembly fragmentation challenges when processing massive metagenomic data. Here, we present DeepCRISPR-Typer, a comprehensive computational framework integrating a large protein language model (TEMC-Cas), a deep sequence feature extractor (CRISPR-RepTyper), and an adaptive targeted HMM profiling strategy. DeepCRISPR-Typer integrates array and Cas evidence and significantly reduces computational overhead by dynamically invoking subtype-specific HMM subsets. In metagenomic dataset evaluations, DeepCRISPR-Typer achieved a classification accuracy of 94.26% and demonstrated a significant acceleration of approximately 1 orders of magnitude compared to existing mainstream tools. This research provides a robust and scalable engine for metagenome-scale CRISPR system discovery, significantly expanding the mining toolbox for genome engineering applications.",
+    "keywords": [
+      "CRISPR loci classification",
+      "CRISPR-Cas systems",
+      "Cas proteins",
+      "deep learning"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "*Deep Learning",
+      "*Metagenome/genetics",
+      "Gene Editing/methods",
+      "*Metagenomics/methods",
+      "Clustered Regularly Interspaced Short Palindromic Repeats/genetics",
+      "Software"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wen, Long",
+        "Jing, Minghui",
+        "Li, Yanyan",
+        "Shang, Xuequn",
+        "Liao, Xingyu"
+      ],
+      "short_names": [
+        "Wen L",
+        "Jing M",
+        "Li Y",
+        "Shang X",
+        "Liao X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0061-1317"
+      ],
+      "affiliations": [
+        "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China.",
+        "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China.",
+        "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China.",
+        "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China.",
+        "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wen, Long",
+        "short_name": "Wen L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Jing, Minghui",
+        "short_name": "Jing M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Yanyan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Shang, Xuequn",
+        "short_name": "Shang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liao, Xingyu",
+        "short_name": "Liao X",
+        "identifiers": [
+          "0000-0002-0061-1317"
+        ],
+        "affiliations": [
+          "School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, Shaanxi710072, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915617"
+    ],
+    "review": [
+      "42915617"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/asbcd6/article-lookup/doi/10.1021/acssynbio.6c00398",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

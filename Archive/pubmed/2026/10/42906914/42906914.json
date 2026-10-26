@@ -1,0 +1,481 @@
+{
+  "identity": {
+    "pmid": "42906914",
+    "doi": "10.1093/humrep/deag154",
+    "title": "Loss-of-function variants in CFAP57, SEPTIN4, SPEM2, and CFAP46 cause asthenoteratozoospermia."
+  },
+  "content": {
+    "abstract": "STUDY QUESTION: What are the genetic causes of asthenoteratozoospermia in consanguineous families, and what is the specific role of cilia- and flagella-associated proteins (CFAP) 46 in mammalian spermiogenesis? SUMMARY ANSWER: CFAP46 is a central apparatus protein essential for sperm flagellar assembly and head remodeling. WHAT IS KNOWN ALREADY: Asthenoteratozoospermia is a genetically heterogeneous condition characterized by reduced sperm motility and abnormal morphology. While several CFAPs are known to support axonemal organization, the functional role of CFAP46 in mammals remained uncharacterized prior to this study. STUDY DESIGN, SIZE, DURATION: We performed whole-genome or whole-exome sequencing on 13 consanguineous families affected by primary male infertility. Functional validation was conducted using three CRISPR/Cas9-engineered mouse models: a null allele, a FLAG-tagged knock-in, and a humanized patient-specific nonsense allele. PARTICIPANTS/MATERIALS, SETTING, METHODS: Genomic DNA from affected individuals and fertile relatives was analyzed by NGS and validated via Sanger sequencing. Mouse phenotypes were characterized through sperm analysis, immunofluorescence, and electron microscopy. Protein interactions were identified via immunoprecipitation and mass spectrometry. Additionally, a gene-level burden analysis was applied to unresolved cases across 345 spermiogenesis-associated genes. MAIN RESULTS AND THE ROLE OF CHANCE: We identified homozygous loss-of-function variants in CFAP46, CFAP57, SEPTIN4, and SPEM2 segregating with infertility. Cfap46-deficient males were infertile due to significantly decreased sperm count, motility, and severe axonemal disruptions. CFAP46 was found to form an in vivo complex with CFAP54, CFAP74, and CFAP221. In families without a monogenic cause, affected individuals harbored a significantly higher burden of rare deleterious variants (4-16 genes) compared to fertile controls. LARGE SCALE DATA: Large-scale datasets and scripts are available via GitHub (https://github.com/sirusb/Nawaz_et_al_scripts). LIMITATIONS, REASONS FOR CAUTION: While functional mouse data strongly supports the identified variants, the rare-variant burden analysis identifies associations that require further functional validation to confirm specific oligogenic interactions. WIDER IMPLICATIONS OF THE FINDINGS: This study establishes CFAP46 as a regulator of mammalian spermiogenesis and suggests that, beyond monogenic defects, aggregated rare-variant burden may also contribute to male infertility. These findings refine the genetic basis of asthenoteratozoospermia, supporting precise molecular diagnosis, individualized prognostic counseling, and informed use of assisted reproduction (e.g. ICSI) in affected couples. FUNDING: This work was supported by Sidra Medicine grant SDR400185 (to M.A.A.), the FERTILITY-IQ Study and Qatar National Research Fund (QNRF) grant NPRP12S-0318-190394 (to M.A.A. and K.F.), the Qatar Research, Development and Innovation (QRDI) grant GSRA12-I-0311-250014 (to M.A.Abd.), the Quaid-i-Azam University Research Project (URF-QAU) 2020-21 (to I.U.), Japan Society for the Promotion of Science KAKENHI grants JP24K12461 (to H.K.), JP23K18328 (to H.M.), and JP21H05033 and JP23K20043 (to M.I.), Japan Agency for Medical Research and Development (AMED) grants JP23jf0126001 and JP26gn0110011 (to M.I.), and JSRM Ferting Grant 2025 (to H.K.). Open access funding was provided by the Qatar National Library. DISCLOSURES: The authors declare no competing interests.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "ICSI",
+      "MMAF",
+      "mouse model",
+      "spermiogenesis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nawaz, Shoaib",
+        "Kitakaze, Hiroaki",
+        "Abdulla, Maha A",
+        "Khan, Nida",
+        "Miyata, Haruhiko",
+        "Djekidel, Mohamed Nadhir",
+        "Ata, Manar",
+        "Kaneda, Yuki",
+        "Khan, Hammal",
+        "Khan, Ihsan",
+        "Esteves, Maria",
+        "Devadoss Gandhi, Geethanjali",
+        "Choucair, Fadi",
+        "Hussain, Shabir",
+        "Aliyev, Elbay",
+        "Hatanaka, Yuki",
+        "Kujime, Yuma",
+        "Tsujimura, Go",
+        "Imanaka, Takahiro",
+        "Kuribayashi, Sohei",
+        "Ueda, Norichika",
+        "Arafa, Mohamed M",
+        "Elbardisi, Haitham T",
+        "Takezawa, Kentaro",
+        "Fukuhara, Shinichiro",
+        "Nonomura, Norio",
+        "Sathappan, Abbirami",
+        "Salhab, Abdul Rahman",
+        "Awwad, Johnny",
+        "Ullah, Imran",
+        "Fakhro, Khalid",
+        "Ikawa, Masahito",
+        "Avella, Matteo A"
+      ],
+      "short_names": [
+        "Nawaz S",
+        "Kitakaze H",
+        "Abdulla MA",
+        "Khan N",
+        "Miyata H",
+        "Djekidel MN",
+        "Ata M",
+        "Kaneda Y",
+        "Khan H",
+        "Khan I",
+        "Esteves M",
+        "Devadoss Gandhi G",
+        "Choucair F",
+        "Hussain S",
+        "Aliyev E",
+        "Hatanaka Y",
+        "Kujime Y",
+        "Tsujimura G",
+        "Imanaka T",
+        "Kuribayashi S",
+        "Ueda N",
+        "Arafa MM",
+        "Elbardisi HT",
+        "Takezawa K",
+        "Fukuhara S",
+        "Nonomura N",
+        "Sathappan A",
+        "Salhab AR",
+        "Awwad J",
+        "Ullah I",
+        "Fakhro K",
+        "Ikawa M",
+        "Avella MA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4758-5803",
+        "ORCID: 0000-0002-0564-6404",
+        "ORCID: 0000-0003-1336-4316",
+        "ORCID: 0000-0002-9543-042X",
+        "ORCID: 0000-0001-9859-6217",
+        "ORCID: 0000-0003-0104-3304"
+      ],
+      "affiliations": [
+        "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Faculty of Life Sciences and Medicine, King's College London, London, UK.",
+        "Department of Obstetrics & Gynecology, Hayatabad Medical Complex, Peshawar, Pakistan.",
+        "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+        "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "College of Health and Life Sciences, Hamad Bin Khalifa University, Doha, Qatar.",
+        "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+        "Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan.",
+        "Department of Biosciences, COMSATS University, Islamabad, Pakistan.",
+        "Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan.",
+        "Department of Biotechnology, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan.",
+        "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Laboratory of Genomic Medicine, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Reproductive Medicine Unit, Sidra Medicine, Doha, Qatar.",
+        "Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan.",
+        "Laboratory of Genomic Medicine, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Department of Urology, Hamad Medical Corporation, Doha, Qatar.",
+        "Department of Urology, Hamad Medical Corporation, Doha, Qatar.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
+        "Deep Phenotyping Core, Advanced Imaging Lab, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Genomic Data Science Core, Sidra Medicine, Doha, Qatar.",
+        "Reproductive Medicine Unit, Sidra Medicine, Doha, Qatar.",
+        "Department of Genetic Medicine, Weill Cornell Medicine, Doha, Qatar.",
+        "Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan.",
+        "College of Health and Life Sciences, Hamad Bin Khalifa University, Doha, Qatar.",
+        "Laboratory of Genomic Medicine, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "Department of Genetic Medicine, Weill Cornell Medicine, Doha, Qatar.",
+        "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+        "Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan.",
+        "Laboratory of Reproductive Systems Biology, The Institute of Medical Science, The University of Tokyo, Minato-ku, Tokyo, Japan.",
+        "Center for Infectious Disease Education and Research, The University of Osaka, Suita, Osaka, Japan.",
+        "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+        "College of Health and Life Sciences, Hamad Bin Khalifa University, Doha, Qatar.",
+        "Department of Biomedical Sciences, Qatar University, Doha, Qatar."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nawaz, Shoaib",
+        "short_name": "Nawaz S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Kitakaze, Hiroaki",
+        "short_name": "Kitakaze H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Abdulla, Maha A",
+        "short_name": "Abdulla MA",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+          "Faculty of Life Sciences and Medicine, King's College London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Khan, Nida",
+        "short_name": "Khan N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics & Gynecology, Hayatabad Medical Complex, Peshawar, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Miyata, Haruhiko",
+        "short_name": "Miyata H",
+        "identifiers": [
+          "0000-0003-4758-5803"
+        ],
+        "affiliations": [
+          "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Djekidel, Mohamed Nadhir",
+        "short_name": "Djekidel MN",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Ata, Manar",
+        "short_name": "Ata M",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+          "College of Health and Life Sciences, Hamad Bin Khalifa University, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Kaneda, Yuki",
+        "short_name": "Kaneda Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+          "Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Khan, Hammal",
+        "short_name": "Khan H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, COMSATS University, Islamabad, Pakistan.",
+          "Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Khan, Ihsan",
+        "short_name": "Khan I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Esteves, Maria",
+        "short_name": "Esteves M",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Devadoss Gandhi, Geethanjali",
+        "short_name": "Devadoss Gandhi G",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genomic Medicine, Translational Medicine, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Choucair, Fadi",
+        "short_name": "Choucair F",
+        "identifiers": [],
+        "affiliations": [
+          "Reproductive Medicine Unit, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Hussain, Shabir",
+        "short_name": "Hussain S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Aliyev, Elbay",
+        "short_name": "Aliyev E",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genomic Medicine, Translational Medicine, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Hatanaka, Yuki",
+        "short_name": "Hatanaka Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Kujime, Yuma",
+        "short_name": "Kujime Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Tsujimura, Go",
+        "short_name": "Tsujimura G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Imanaka, Takahiro",
+        "short_name": "Imanaka T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Kuribayashi, Sohei",
+        "short_name": "Kuribayashi S",
+        "identifiers": [
+          "0000-0002-0564-6404"
+        ],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Ueda, Norichika",
+        "short_name": "Ueda N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Arafa, Mohamed M",
+        "short_name": "Arafa MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Hamad Medical Corporation, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Elbardisi, Haitham T",
+        "short_name": "Elbardisi HT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Hamad Medical Corporation, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Takezawa, Kentaro",
+        "short_name": "Takezawa K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Fukuhara, Shinichiro",
+        "short_name": "Fukuhara S",
+        "identifiers": [
+          "0000-0003-1336-4316"
+        ],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Nonomura, Norio",
+        "short_name": "Nonomura N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Graduate School of Medicine, The University of Osaka, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Sathappan, Abbirami",
+        "short_name": "Sathappan A",
+        "identifiers": [],
+        "affiliations": [
+          "Deep Phenotyping Core, Advanced Imaging Lab, Translational Medicine, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Salhab, Abdul Rahman",
+        "short_name": "Salhab AR",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Data Science Core, Sidra Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Awwad, Johnny",
+        "short_name": "Awwad J",
+        "identifiers": [
+          "0000-0002-9543-042X"
+        ],
+        "affiliations": [
+          "Reproductive Medicine Unit, Sidra Medicine, Doha, Qatar.",
+          "Department of Genetic Medicine, Weill Cornell Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Ullah, Imran",
+        "short_name": "Ullah I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Fakhro, Khalid",
+        "short_name": "Fakhro K",
+        "identifiers": [],
+        "affiliations": [
+          "College of Health and Life Sciences, Hamad Bin Khalifa University, Doha, Qatar.",
+          "Laboratory of Genomic Medicine, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+          "Department of Genetic Medicine, Weill Cornell Medicine, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Ikawa, Masahito",
+        "short_name": "Ikawa M",
+        "identifiers": [
+          "0000-0001-9859-6217"
+        ],
+        "affiliations": [
+          "Department of Experimental Genome Research, Research Institute for Microbial Diseases, The University of Osaka, Suita, Osaka, Japan.",
+          "Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan.",
+          "Laboratory of Reproductive Systems Biology, The Institute of Medical Science, The University of Tokyo, Minato-ku, Tokyo, Japan.",
+          "Center for Infectious Disease Education and Research, The University of Osaka, Suita, Osaka, Japan."
+        ]
+      },
+      {
+        "full_name": "Avella, Matteo A",
+        "short_name": "Avella MA",
+        "identifiers": [
+          "0000-0003-0104-3304"
+        ],
+        "affiliations": [
+          "Laboratory of Reproductive Biology, Translational Medicine, Sidra Medicine, Doha, Qatar.",
+          "College of Health and Life Sciences, Hamad Bin Khalifa University, Doha, Qatar.",
+          "Department of Biomedical Sciences, Qatar University, Doha, Qatar."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Human reproduction (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Hum Reprod"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-26 16:14:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906914"
+    ],
+    "review": [
+      "42906914"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/deag154",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

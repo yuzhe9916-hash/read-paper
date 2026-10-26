@@ -1,0 +1,367 @@
+{
+  "identity": {
+    "pmid": "42919469",
+    "doi": "10.1111/1759-7714.70406",
+    "title": "SRC Activation Drives Acquired Pemetrexed Resistance in Non-Small Cell Lung Cancer and Is Targetable by Dasatinib."
+  },
+  "content": {
+    "abstract": "PURPOSE: Pemetrexed, a standard antifolate chemotherapy for non-squamous non-small cell lung cancer (NSCLC), is often limited by acquired resistance. We investigated whether SRC kinase mediates pemetrexed resistance and whether SRC inhibition can suppress survival signaling in pemetrexed-resistant NSCLC cells. METHODS: Pemetrexed-resistant cell lines (PC9 R, NCI-H460 R, and NCI-H3122 R) were generated through chronic pemetrexed exposure. Protein phosphorylation profiling and Western blotting identified key signaling alterations. SRC was abrogated using transient and doxycycline-inducible CRISPR/Cas9 systems, and reciprocal siRNA knockdown of SRC and thymidylate synthase (TS) was performed. Three SRC inhibitors-dasatinib, bosutinib, and saracatinib-were assessed using cell viability, colony formation, apoptosis, and cell cycle assays. RESULTS: All pemetrexed-resistant cell lines demonstrated elevated phosphorylated SRC (p-SRC Y416) and enhanced downstream signaling. SRC knockout reduced p-SRC Y416, p-STAT3, and p-FAK, while increasing markers of DNA damage (gamma-H2AX) and apoptosis (cleaved caspase-3), impairing cell viability and clonogenicity. SRC knockdown reduced TS expression in two resistant models, whereas TS knockdown did not suppress p-SRC Y416. Among SRC inhibitors, dasatinib showed the most potent, dose-dependent suppression of SRC signaling. Dasatinib also induced G0/G1 arrest, DNA damage, and apoptosis, thereby reducing colony formation. CONCLUSION: SRC activation is a critical mechanism of acquired pemetrexed resistance in NSCLC and may contribute to resistance through TS-associated survival signaling. SRC inhibition, particularly with dasatinib, disrupts pro-survival pathways and promotes DNA damage-mediated cell death in pemetrexed-resistant cells. These findings support further investigation of SRC inhibitors, alone or with pemetrexed, as a biomarker-guided therapeutic strategy for SRC-activated pemetrexed-resistant NSCLC.",
+    "keywords": [
+      "SRC",
+      "acquired resistance",
+      "dasatinib",
+      "lung cancer",
+      "pemetrexed"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Dasatinib/pharmacology/therapeutic use",
+      "*Carcinoma, Non-Small-Cell Lung/drug therapy/pathology/genetics/metabolism",
+      "*Pemetrexed/pharmacology/therapeutic use",
+      "*Drug Resistance, Neoplasm",
+      "*Lung Neoplasms/drug therapy/pathology/metabolism",
+      "*src-Family Kinases/metabolism/antagonists & inhibitors/genetics",
+      "Cell Line, Tumor",
+      "Apoptosis/drug effects",
+      "Protein Kinase Inhibitors/pharmacology",
+      "Signal Transduction",
+      "Cell Proliferation",
+      "Tyrosine Kinase Inhibitors"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Seo, Jeongmin",
+        "Kim, Kui-Jin",
+        "Kim, Se Hyun",
+        "Sung, Ji Hea",
+        "Hwang, Sung-Hyun",
+        "Park, Woochan",
+        "Kang, Minsu",
+        "Jung, Eun Hee",
+        "Kim, Sang-A",
+        "Suh, Koung Jin",
+        "Lee, Ji Yun",
+        "Kim, Ji-Won",
+        "Lee, Jeong-Ok",
+        "Kim, Jin Won",
+        "Kim, Yu Jung",
+        "Lee, Keun-Wook",
+        "Kim, Jee Hyun",
+        "Bang, Soo-Mi",
+        "Kwon, Ji-Hyun",
+        "Lee, Jong Seok"
+      ],
+      "short_names": [
+        "Seo J",
+        "Kim KJ",
+        "Kim SH",
+        "Sung JH",
+        "Hwang SH",
+        "Park W",
+        "Kang M",
+        "Jung EH",
+        "Kim SA",
+        "Suh KJ",
+        "Lee JY",
+        "Kim JW",
+        "Lee JO",
+        "Kim JW",
+        "Kim YJ",
+        "Lee KW",
+        "Kim JH",
+        "Bang SM",
+        "Kwon JH",
+        "Lee JS"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9992-6273",
+        "ORCID: 0000-0002-2292-906X",
+        "ORCID: 0000-0003-2413-5287",
+        "ORCID: 0000-0002-1696-8214",
+        "ORCID: 0000-0001-6491-2277",
+        "ORCID: 0000-0002-8529-0232",
+        "ORCID: 0000-0002-5835-7219",
+        "ORCID: 0000-0001-6426-9074",
+        "ORCID: 0000-0001-9402-6372",
+        "ORCID: 0000-0002-1357-7015",
+        "ORCID: 0000-0002-5037-0523",
+        "ORCID: 0000-0002-8491-703X"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Biomedical Research Institute, Seoul National University Bundang Hospital, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Biomedical Research Institute, Seoul National University Bundang Hospital, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea.",
+        "Department of Internal Medicine, Chungbuk National University College of Medicine, Cheongju, Republic of Korea.",
+        "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Seo, Jeongmin",
+        "short_name": "Seo J",
+        "identifiers": [
+          "0000-0001-9992-6273"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Kui-Jin",
+        "short_name": "Kim KJ",
+        "identifiers": [],
+        "affiliations": [
+          "Biomedical Research Institute, Seoul National University Bundang Hospital, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Se Hyun",
+        "short_name": "Kim SH",
+        "identifiers": [
+          "0000-0002-2292-906X"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Sung, Ji Hea",
+        "short_name": "Sung JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Hwang, Sung-Hyun",
+        "short_name": "Hwang SH",
+        "identifiers": [
+          "0000-0003-2413-5287"
+        ],
+        "affiliations": [
+          "Biomedical Research Institute, Seoul National University Bundang Hospital, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Woochan",
+        "short_name": "Park W",
+        "identifiers": [
+          "0000-0002-1696-8214"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kang, Minsu",
+        "short_name": "Kang M",
+        "identifiers": [
+          "0000-0001-6491-2277"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jung, Eun Hee",
+        "short_name": "Jung EH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Sang-A",
+        "short_name": "Kim SA",
+        "identifiers": [
+          "0000-0002-8529-0232"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Suh, Koung Jin",
+        "short_name": "Suh KJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Ji Yun",
+        "short_name": "Lee JY",
+        "identifiers": [
+          "0000-0002-5835-7219"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Ji-Won",
+        "short_name": "Kim JW",
+        "identifiers": [
+          "0000-0001-6426-9074"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Jeong-Ok",
+        "short_name": "Lee JO",
+        "identifiers": [
+          "0000-0001-9402-6372"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Jin Won",
+        "short_name": "Kim JW",
+        "identifiers": [
+          "0000-0002-1357-7015"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Yu Jung",
+        "short_name": "Kim YJ",
+        "identifiers": [
+          "0000-0002-5037-0523"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Keun-Wook",
+        "short_name": "Lee KW",
+        "identifiers": [
+          "0000-0002-8491-703X"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Jee Hyun",
+        "short_name": "Kim JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Bang, Soo-Mi",
+        "short_name": "Bang SM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kwon, Ji-Hyun",
+        "short_name": "Kwon JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Chungbuk National University College of Medicine, Cheongju, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Jong Seok",
+        "short_name": "Lee JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Thoracic cancer"
+    ],
+    "journal_abbrev": [
+      "Thorac Cancer"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42919469"
+    ],
+    "review": [
+      "42919469"
+    ],
+    "pmc": [
+      "13694200"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/1759-7714.70406",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CASP3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-905",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

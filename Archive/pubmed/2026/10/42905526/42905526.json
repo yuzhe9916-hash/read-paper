@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "42905526",
+    "doi": "10.1002/cpz1.70492",
+    "title": "Endogenous Protein Tagging in Postmitotic Neurons via Lentiviral and Adeno-associated Virus Delivery."
+  },
+  "content": {
+    "abstract": "This protocol describes a method for endogenous protein tagging in postmitotic primary neurons using homology-independent targeted integration (HITI), a CRISPR/Cas9-based approach that exploits non-homologous end joining (NHEJ). Unlike homology-directed repair (HDR), HITI does not require cell division, making it uniquely suited for postmitotic neurons. SpCas9 is delivered by a replication-incompetent simian immunodeficiency lentiviral vector (pLenti SIV), while the sgRNA, donor tag cassette, and a fluorescent plasma membrane marker are co-packaged in a single AAV vector. The two vectors are co-delivered at DIV5, and endogenous tagging is assessed at DIV15-23. The workflow is illustrated using Junctophilin-3 (JPH3) tagged with mEmerald at its endogenous locus. Airyscan microscopy imaging of endogenously tagged JPH3 at native expression levels revealed its localization at endoplasmic reticulum-plasma membrane (ER-PM) contact sites and uncovered a periodic distribution of ER-PM junctions along the dendritic arbor, enabling identification of a previously unrecognized ladder-like organization of the ER in neuronal dendrites. Genomic integration of the tag is validated at both 5' and 3' junctions by next-generation sequencing. The protocol can be adapted to other neuronal proteins by redesigning the guide RNA and donor sequence, and supports fluorescent proteins as well as epitope and self-labeling tags. The plasma membrane marker can also be replaced with other fluorescent reporters or markers for intracellular organelles to assess infection efficiency and verify subcellular localization of the protein of interest. The full workflow takes 5-6 weeks. (c) 2026 The Author(s). Current Protocols published by Wiley Periodicals LLC. Protocols included in this article: Basic Protocol 1: sgRNA design and HITI donor vector cloning Basic Protocol 2: Primary rat neuron culture and viral co-transduction Basic Protocol 3: Live-cell imaging of endogenously tagged proteins Support Protocol 1: Production of lentiviral and AAV particles Support Protocol 2: Validation of knock-in by next-generation sequencing (NGS).",
+    "keywords": [
+      "AAV",
+      "CRISPR/Cas9",
+      "HITI",
+      "SIV-based lentiviral vector",
+      "endogenous protein tagging",
+      "neurons"
+    ],
+    "mesh_terms": [
+      "*Lentivirus/genetics",
+      "*Neurons/metabolism/cytology",
+      "Animals",
+      "*Dependovirus/genetics",
+      "Genetic Vectors/genetics",
+      "CRISPR-Cas Systems",
+      "Humans",
+      "Membrane Proteins/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Benedetti, Lorena",
+        "Yi, Hyun Ah",
+        "Wang, Lihua",
+        "Lippincott-Schwartz, Jennifer"
+      ],
+      "short_names": [
+        "Benedetti L",
+        "Yi HA",
+        "Wang L",
+        "Lippincott-Schwartz J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.",
+        "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.",
+        "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.",
+        "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Benedetti, Lorena",
+        "short_name": "Benedetti L",
+        "identifiers": [],
+        "affiliations": [
+          "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA."
+        ]
+      },
+      {
+        "full_name": "Yi, Hyun Ah",
+        "short_name": "Yi HA",
+        "identifiers": [],
+        "affiliations": [
+          "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Lihua",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA."
+        ]
+      },
+      {
+        "full_name": "Lippincott-Schwartz, Jennifer",
+        "short_name": "Lippincott-Schwartz J",
+        "identifiers": [],
+        "affiliations": [
+          "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current protocols"
+    ],
+    "journal_abbrev": [
+      "Curr Protoc"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-26 16:14:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42905526"
+    ],
+    "review": [
+      "42905526"
+    ],
+    "pmc": [
+      "13686251"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cpz1.70492",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

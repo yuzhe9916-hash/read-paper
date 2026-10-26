@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42915270",
+    "doi": "10.1021/acs.analchem.6c05200",
+    "title": "CHAI-sEV: A Programmable Hairpin-Driven Cas9 Platform with AI Integration for Dual-Protein Profiling and Intelligent Classification of Tumor-Derived Small Extracellular Vesicles."
+  },
+  "content": {
+    "abstract": "Multiplexed protein profiling of tumor-derived small extracellular vesicles (TsEVs) requires signal-conversion strategies that are sensitive, low-background, and orthogonal. Collateral-cleavage CRISPR assays based on Cas12a or Cas13a provide efficient amplification but can compromise single-pot multitarget detection, whereas the sequence-specific cleavage of Cas9 remains underexplored for converting vesicle-surface protein recognition into orthogonal amplified outputs. Here, we report CHAI-sEV, a programmable Cas9-mediated trigger-release strategy based on PAM-bearing hairpin-locking probes (PHLPs) for dual-protein profiling of TsEVs. Each PHLP integrates Cas9 recognition and signal conversion into a single molecular substrate, in which sgRNA-guided Cas9 cleavage unlocks a sequestered CHA activator to initiate orthogonal signal amplification. After EGFR- or PD-L1-binding aptamers label TsEVs, engineered aptamer tails recruit specific Cas9-sgRNA complexes to the vesicle surface, enabling protein-specific PHLP activation and amplified fluorescence readout. This Cas9-programmed trigger-release mechanism enables dual-channel TsEV protein detection without relying on nonspecific collateral cleavage. Under optimized conditions, CHAI-sEV achieved detection limits of 162 and 328 particles/muL for EGFR and PD-L1. In plasma samples, CHAI-sEV differentiated lung cancer patients from benign-lung-disease patients and healthy controls and showed decreased EGFR and PD-L1 signals in post-treatment samples. As proof-of-concept extensions, the CHAI-sEV was further coupled to an IGZO-FET electrical readout and an exploratory machine-learning analysis combining dual-protein signals with clinical features. Overall, PHLPs provide a substrate-design principle that converts Cas9 cleavage into amplification-compatible and orthogonally multiplexable biosensing outputs, enabling sensitive and multiplexed protein profiling of TsEVs and offering potential for extension to diverse molecular targets.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Extracellular Vesicles/metabolism/chemistry/classification",
+      "*CRISPR-Cas Systems",
+      "*CRISPR-Associated Protein 9/metabolism/genetics",
+      "Aptamers, Nucleotide/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shen, Haoyu",
+        "Pan, Xinyu",
+        "Wu, Yan",
+        "Chen, Bing",
+        "Zhou, Xiaolei",
+        "Qiao, Linbo",
+        "Effah, Clement Yaw",
+        "Zhou, Jing",
+        "Yu, Junying",
+        "Zhang, Zhenzhong",
+        "Yang, Xiaonan",
+        "Wu, Yongjun",
+        "Ding, Lihua"
+      ],
+      "short_names": [
+        "Shen H",
+        "Pan X",
+        "Wu Y",
+        "Chen B",
+        "Zhou X",
+        "Qiao L",
+        "Effah CY",
+        "Zhou J",
+        "Yu J",
+        "Zhang Z",
+        "Yang X",
+        "Wu Y",
+        "Ding L"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8188-3594",
+        "ORCID: 0000-0002-9095-4558",
+        "ORCID: 0000-0002-3834-0997",
+        "ORCID: 0000-0002-6835-189X",
+        "ORCID: 0000-0002-0509-7521",
+        "ORCID: 0009-0006-2592-7998"
+      ],
+      "affiliations": [
+        "College of Public Health, Zhengzhou University, Zhengzhou450001, China.",
+        "College of Public Health, Zhengzhou University, Zhengzhou450001, China.",
+        "Xinchang Community Health Service Center of Pudong New Area, Shanghai201314, China.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou450001, China.",
+        "Henan Provincial Chest Hospital, Zhengzhou450008, China.",
+        "School of Electrical and Information Engineering, Zhengzhou University, Zhengzhou450001, China.",
+        "College of Public Health, Zhengzhou University, Zhengzhou450001, China.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou450001, China.",
+        "College of Public Health, Zhengzhou University, Zhengzhou450001, China.",
+        "School of Pharmaceutical Sciences, Zhengzhou University, Zhengzhou450001, China.",
+        "School of Electrical and Information Engineering, Zhengzhou University, Zhengzhou450001, China.",
+        "College of Public Health, Zhengzhou University, Zhengzhou450001, China.",
+        "College of Public Health, Zhengzhou University, Zhengzhou450001, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shen, Haoyu",
+        "short_name": "Shen H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Xinyu",
+        "short_name": "Pan X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yan",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xinchang Community Health Service Center of Pudong New Area, Shanghai201314, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Bing",
+        "short_name": "Chen B",
+        "identifiers": [
+          "0000-0001-8188-3594"
+        ],
+        "affiliations": [
+          "Department of Gastroenterology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaolei",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Henan Provincial Chest Hospital, Zhengzhou450008, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Linbo",
+        "short_name": "Qiao L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Electrical and Information Engineering, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Effah, Clement Yaw",
+        "short_name": "Effah CY",
+        "identifiers": [
+          "0000-0002-9095-4558"
+        ],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jing",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Junying",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhenzhong",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0000-0002-3834-0997"
+        ],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiaonan",
+        "short_name": "Yang X",
+        "identifiers": [
+          "0000-0002-6835-189X"
+        ],
+        "affiliations": [
+          "School of Electrical and Information Engineering, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yongjun",
+        "short_name": "Wu Y",
+        "identifiers": [
+          "0000-0002-0509-7521"
+        ],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Lihua",
+        "short_name": "Ding L",
+        "identifiers": [
+          "0009-0006-2592-7998"
+        ],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou450001, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 16:13:49"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915270"
+    ],
+    "review": [
+      "42915270"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-12",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c05200",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

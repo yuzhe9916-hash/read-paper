@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "42902180",
+    "doi": "10.1186/s11658-026-00982-0",
+    "title": "Periplocin targets low density lipoprotein receptor-related protein 4 and protects against osteoarthritis."
+  },
+  "content": {
+    "abstract": "Osteoarthritis (OA) is recognized as the most common chronic joint disease, characterized primarily by the degeneration of articular cartilage. Through screening a natural product library, we identified periplocin as a candidate agent capable of promoting chondrocyte anabolism. Periplocin, a cardiotonic steroid isolated from Periploca forrestii, has been proven to be involved in antiinflammatory responses. However, the role and mechanism of periplocin in OA have not been confirmed. This study aims to explore the biological role and potential of periplocin in chondrocyte metabolism and OA treatment. A drug library was screened to identify candidate components that promote chondrocyte anabolism. In vitro experiments showed that periplocin could promote chondrocyte anabolism, enhance chondrogenic differentiation, and inhibit inflammation-induced chondrocyte catabolism. Using a surgically induced destabilization of the medial meniscus (DMM) OA mice model, combined with histological staining, micro-computed tomography, and behavioral assessments, we confirmed that periplocin alleviated cartilage degeneration, suppressed osteophyte formation, improved motor function, and relieved OA-related pain in DMM mice. Molecular docking, Drug Affinity Responsive Target Stability (DARTS) assay, Cellular Thermal Shift Assay (CETSA), and Molecular dynamic (MD) simulation identified LRP4 as the key target of periplocin, with Asp812 serving as its critical binding site. With the help of CRISPR-Cas9 gene editing to knock out low-density lipoprotein receptor-related protein 4 (LRP4) in C28I2 and generate chondrocyte-specific Lrp4 knockout mice, the dependence of periplocin-mediated regulation of chondrocyte function on LRP4 was verified. This study not only provides new insights into understanding the chondroprotective effect of periplocin targeting LRP4 and its underlying mechanism but also offers experimental evidence for the use of periplocin as a potential disease-modifying OA drug (DMOAD) in OA treatment.",
+    "keywords": [
+      "Catabolism",
+      "Chondrocyte",
+      "LRP4",
+      "MAPK",
+      "Osteoarthritis",
+      "Periplocin"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Chondrocytes/drug effects/metabolism",
+      "*Osteoarthritis/drug therapy/metabolism/pathology/prevention & control",
+      "Mice",
+      "Humans",
+      "Male",
+      "Molecular Docking Simulation",
+      "Mice, Inbred C57BL",
+      "*LDL-Receptor Related Proteins/metabolism/chemistry",
+      "Cell Differentiation/drug effects",
+      "Disease Models, Animal",
+      "Chondrogenesis/drug effects",
+      "Saponins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Jincheng",
+        "Fu, Qingyang",
+        "Li, Chunlin",
+        "Gao, Kun",
+        "Sun, Mengsi",
+        "Xu, Mingyu",
+        "Chen, Junfei",
+        "Zhai, Xu",
+        "Zhang, Wencan",
+        "Li, Le",
+        "Xu, Wanlong",
+        "Liu, Yang",
+        "Wu, Xinhui",
+        "Si, Haipeng",
+        "Wang, Kaidi"
+      ],
+      "short_names": [
+        "Liu J",
+        "Fu Q",
+        "Li C",
+        "Gao K",
+        "Sun M",
+        "Xu M",
+        "Chen J",
+        "Zhai X",
+        "Zhang W",
+        "Li L",
+        "Xu W",
+        "Liu Y",
+        "Wu X",
+        "Si H",
+        "Wang K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China.",
+        "Laboratory of Experimental Marine Biology, Institute of Oceanology, Chinese Academy of Sciences, Qingdao, 266000, People's Republic of China.",
+        "Biochemistry Core, Shenzhen Bay Labortotary, Guangming District, Shenzhen, 518055, Guangdong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Pediatric Surgery, Qilu Hospital of Shandong University, Cheeloo College of Medicine, Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+        "Department of Nephrology, Shandong Electric Power Central Hospital, Jinan, 250001, Shandong, People's Republic of China.",
+        "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China. sihaipeng1978@email.sdu.edu.cn.",
+        "Key Laboratory of Qingdao in Medicine and Engineering, Department of Orthopedics, Qilu Hospital of Shandong University (Qingdao), Qingdao, 266035, Shandong, People's Republic of China. sihaipeng1978@email.sdu.edu.cn.",
+        "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China. Kaidi.Wang@email.sdu.edu.cn.",
+        "Key Laboratory of Qingdao in Medicine and Engineering, Department of Orthopedics, Qilu Hospital of Shandong University (Qingdao), Qingdao, 266035, Shandong, People's Republic of China. Kaidi.Wang@email.sdu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Jincheng",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+          "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Fu, Qingyang",
+        "short_name": "Fu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+          "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Chunlin",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China.",
+          "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Gao, Kun",
+        "short_name": "Gao K",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Experimental Marine Biology, Institute of Oceanology, Chinese Academy of Sciences, Qingdao, 266000, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sun, Mengsi",
+        "short_name": "Sun M",
+        "identifiers": [],
+        "affiliations": [
+          "Biochemistry Core, Shenzhen Bay Labortotary, Guangming District, Shenzhen, 518055, Guangdong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Mingyu",
+        "short_name": "Xu M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Chen, Junfei",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatric Surgery, Qilu Hospital of Shandong University, Cheeloo College of Medicine, Shandong University, Jinan, 250000, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhai, Xu",
+        "short_name": "Zhai X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wencan",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Le",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wanlong",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xinhui",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Shandong Electric Power Central Hospital, Jinan, 250001, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Si, Haipeng",
+        "short_name": "Si H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics, Qilu Hospital of Shandong University, Jinan, 250000, Shandong, People's Republic of China. sihaipeng1978@email.sdu.edu.cn.",
+          "Key Laboratory of Qingdao in Medicine and Engineering, Department of Orthopedics, Qilu Hospital of Shandong University (Qingdao), Qingdao, 266035, Shandong, People's Republic of China. sihaipeng1978@email.sdu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Kaidi",
+        "short_name": "Wang K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Experimental Center, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao, 266035, Shandong, People's Republic of China. Kaidi.Wang@email.sdu.edu.cn.",
+          "Key Laboratory of Qingdao in Medicine and Engineering, Department of Orthopedics, Qilu Hospital of Shandong University (Qingdao), Qingdao, 266035, Shandong, People's Republic of China. Kaidi.Wang@email.sdu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cellular & molecular biology letters"
+    ],
+    "journal_abbrev": [
+      "Cell Mol Biol Lett"
+    ],
+    "pub_date": "2026 Jul 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/21 05:32",
+    "fetched_at": "2026-10-26 16:14:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42902180"
+    ],
+    "review": [
+      "42902180"
+    ],
+    "pmc": [
+      "13681885"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://cmbl.biomedcentral.com/articles/10.1186/s11658-026-00982-0",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/osteoarthritis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Osteoarthritis"
+      },
+      {
+        "url": "https://dx.doi.org/10.1186/s11658-026-00982-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3454",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

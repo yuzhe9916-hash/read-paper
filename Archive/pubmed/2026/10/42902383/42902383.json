@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "42902383",
+    "doi": "10.1186/s12943-026-02746-y",
+    "title": "Metabolic plasticity underlies ferroptosis resistance driven by mutant p53 in pancreatic ductal adenocarcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy characterized by late diagnosis, rapid progression, and resistance to conventional therapies. Mutations in the tumor suppressor gene TP53 are prevalent in this cancer and have been associated with gain-of-function activities that promote tumor survival. Ferroptosis, an iron-dependent form of regulated cell death driven by lipid peroxidation, represents a potential therapeutic vulnerability. However, the influence of mutant p53 on ferroptosis susceptibility remains poorly understood. METHODS: We employed isogenic pancreatic cancer cell models, including CRISPR-Cas9-mediated TP53 Knockout (TP53-KO) and transient overexpression of common mutant TP53 variants, to examine ferroptosis sensitivity. Cell viability, reactive oxygen species accumulation, lipid peroxidation, mitochondrial integrity, and metabolic profiling were assessed following treatment with ferroptosis inducers. Transcriptional changes were analysed by RNA sequencing, and functional contributions of glycolysis and mitochondrial respiration were evaluated using metabolic flux assays. Pharmacological reactivation of wild-type p53 was tested in combination with ferroptosis inducers in vitro and in orthotopic murine models. RESULTS: Deletion of mutant TP53 sensitized pancreatic cancer cells to ferroptosis, accompanied by increased oxidative stress, lipid peroxidation and mitochondrial dysfunction. Mutant TP53 expression preserved mitochondrial integrity and sustained bioenergetic flexibility under ferroptotic stress. Transcriptomic analyses revealed a multi-layered adaptive program, including upregulation of antioxidant and metabolic genes, and activation of PI3K-AKT signaling, which is associated to a selective glycolytic shift to maintain ATP levels. Functional modulation confirmed that glucose supplementation enhanced, whereas glycolytic inhibition impaired, survival under ferroptotic conditions in mutant TP53-expressing cells, but not in TP53-KO cells. Pharmacological reactivation of wild-type p53 disrupted this adaptive network, abrogating glycolytic reprogramming and significantly increasing ferroptotic cell death both in vitro and in vivo. CONCLUSIONS: Mutant p53 orchestrates transcriptional and metabolic plasticity that confers ferroptosis resistance in pancreatic cancer. Reactivating wild-type p53 in combination with ferroptosis induction overcomes this resistance, highlighting a therapeutically actionable vulnerability and supporting the development of combinatorial strategies for this aggressive malignancy.",
+    "keywords": [
+      "Ferroptosis",
+      "Glycolysis",
+      "Mitochondria",
+      "Mutant p53",
+      "PDAC"
+    ],
+    "mesh_terms": [
+      "*Ferroptosis/genetics",
+      "*Tumor Suppressor Protein p53/genetics/metabolism",
+      "Humans",
+      "*Carcinoma, Pancreatic Ductal/genetics/metabolism/pathology",
+      "Animals",
+      "*Pancreatic Neoplasms/metabolism/genetics/pathology",
+      "Mice",
+      "*Mutation",
+      "Metabolic Reprogramming",
+      "Cell Line, Tumor",
+      "Gene Expression Regulation, Neoplastic",
+      "Mitochondria/metabolism",
+      "Reactive Oxygen Species/metabolism",
+      "Glycolysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Celesia, Adriana",
+        "Piccoli, Filippo",
+        "Wang, Tian",
+        "Hu, Yushu",
+        "Danzi, Federica",
+        "Aparo, Antonino",
+        "Cisterna, Barbara",
+        "Pacchiana, Raffaella",
+        "Poles, Maria",
+        "Scupoli, Maria Teresa",
+        "Luchini, Claudio",
+        "Ugel, Stefano",
+        "Donadelli, Massimo",
+        "Fiore, Alessandra"
+      ],
+      "short_names": [
+        "Celesia A",
+        "Piccoli F",
+        "Wang T",
+        "Hu Y",
+        "Danzi F",
+        "Aparo A",
+        "Cisterna B",
+        "Pacchiana R",
+        "Poles M",
+        "Scupoli MT",
+        "Luchini C",
+        "Ugel S",
+        "Donadelli M",
+        "Fiore A"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-0141-2862"
+      ],
+      "affiliations": [
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy.",
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy.",
+        "Department of Medicine, Section of Immunology, University of Verona Hospital Trust, Verona, Italy.",
+        "Department of Medicine, Section of Immunology, University of Verona Hospital Trust, Verona, Italy.",
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy.",
+        "Department of Diagnostics and Public Health, Section of Pathology, University and Hospital Trust of Verona, Verona, Italy.",
+        "Research Center LURM (Interdepartmental Laboratory of Medical Research), University of Verona, Verona, Italy.",
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Anatomy and Histology, University of Verona, Verona, Italy.",
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy.",
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy.",
+        "Department of Engineering for Innovation Medicine, Section of Biomedicine, University of Verona, Verona, Italy.",
+        "Department of Diagnostics and Public Health, Section of Pathology, University and Hospital Trust of Verona, Verona, Italy.",
+        "Department of Medicine, Section of Immunology, University of Verona Hospital Trust, Verona, Italy.",
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy. massimo.donadelli@univr.it.",
+        "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy. alessandra.fiore@univr.it."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Celesia, Adriana",
+        "short_name": "Celesia A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Piccoli, Filippo",
+        "short_name": "Piccoli F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Wang, Tian",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Section of Immunology, University of Verona Hospital Trust, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Hu, Yushu",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Section of Immunology, University of Verona Hospital Trust, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Danzi, Federica",
+        "short_name": "Danzi F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy.",
+          "Department of Diagnostics and Public Health, Section of Pathology, University and Hospital Trust of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Aparo, Antonino",
+        "short_name": "Aparo A",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center LURM (Interdepartmental Laboratory of Medical Research), University of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Cisterna, Barbara",
+        "short_name": "Cisterna B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Anatomy and Histology, University of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Pacchiana, Raffaella",
+        "short_name": "Pacchiana R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Poles, Maria",
+        "short_name": "Poles M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Scupoli, Maria Teresa",
+        "short_name": "Scupoli MT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Engineering for Innovation Medicine, Section of Biomedicine, University of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Luchini, Claudio",
+        "short_name": "Luchini C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Diagnostics and Public Health, Section of Pathology, University and Hospital Trust of Verona, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Ugel, Stefano",
+        "short_name": "Ugel S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Section of Immunology, University of Verona Hospital Trust, Verona, Italy."
+        ]
+      },
+      {
+        "full_name": "Donadelli, Massimo",
+        "short_name": "Donadelli M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy. massimo.donadelli@univr.it."
+        ]
+      },
+      {
+        "full_name": "Fiore, Alessandra",
+        "short_name": "Fiore A",
+        "identifiers": [
+          "0009-0001-0141-2862"
+        ],
+        "affiliations": [
+          "Department of Neurosciences, Biomedicine and Movement Sciences, Section of Biochemistry, University of Verona, Verona, Italy. alessandra.fiore@univr.it."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cancer"
+    ],
+    "journal_abbrev": [
+      "Mol Cancer"
+    ],
+    "pub_date": "2026 Jul 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/21 05:32",
+    "fetched_at": "2026-10-26 16:14:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42902383"
+    ],
+    "review": [
+      "42902383"
+    ],
+    "pmc": [
+      "13685200"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-026-02746-y",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/pancreaticcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Pancreatic Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

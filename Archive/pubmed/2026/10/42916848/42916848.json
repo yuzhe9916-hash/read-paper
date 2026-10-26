@@ -1,0 +1,268 @@
+{
+  "identity": {
+    "pmid": "42916848",
+    "doi": "10.1021/acs.nanolett.6c03317",
+    "title": "Mismatch-Engineered CRISPR Transistors for Ultra-Low-Frequency Single-Nucleotide Variant Detection."
+  },
+  "content": {
+    "abstract": "Accurate detection of low-frequency single-nucleotide variants (SNVs) in a high wild-type (WT) background remains challenging. Here, we report a mismatch-engineered CRISPR transistor (MECT) for rapid, amplification-free detection of mutant RNA. MECT integrates a Cas13a-crRNA recognition interface with a graphene field-effect transistor and employs a spaced mismatch crRNA design centered on the mutation site in a nonseed region. It leverages the synergistic effect between natural and engineered mismatches at the mutation site to weaken WT binding while preserving mutant recognition, thereby amplifying the difference in response between mutants and the WT. Using BRAF V600E RNA as a target, MECT generates a mutant response approximately 11.58 times stronger than the WT background, with a detection limit of 3 x 10-18 mol L-1. MECT can also detect mutants as low as 0.0001% against a WT background. A portable MECT-based prototype is validated using cell-derived RNA and clinical samples, supporting decentralized analysis of low-frequency cancer mutations.",
+    "keywords": [
+      "CRISPR-Cas",
+      "biosensor",
+      "field-effect transistor",
+      "low-frequency SNV detection",
+      "point-of-care diagnostics"
+    ],
+    "mesh_terms": [
+      "*Polymorphism, Single Nucleotide/genetics",
+      "Humans",
+      "*CRISPR-Cas Systems",
+      "*Transistors, Electronic",
+      "Base Pair Mismatch",
+      "*Proto-Oncogene Proteins B-raf/genetics",
+      "*Biosensing Techniques/instrumentation",
+      "Mutation",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats",
+      "RNA/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Chang",
+        "Ma, Hongwenjie",
+        "Xia, Hanting",
+        "Zhang, Bo",
+        "Yin, Kailai",
+        "Xie, Feiyu",
+        "Yue, Yang",
+        "Bai, Linlin",
+        "Wen, Jie",
+        "Yang, Yuetong",
+        "Lv, Xiangyu",
+        "Kong, Derong",
+        "Liu, Yunqi",
+        "Wei, Dacheng"
+      ],
+      "short_names": [
+        "Chen C",
+        "Ma H",
+        "Xia H",
+        "Zhang B",
+        "Yin K",
+        "Xie F",
+        "Yue Y",
+        "Bai L",
+        "Wen J",
+        "Yang Y",
+        "Lv X",
+        "Kong D",
+        "Liu Y",
+        "Wei D"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5521-2316",
+        "ORCID: 0000-0003-3593-9897"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "Department of Orthopaedics, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou310022, P. R. China.",
+        "Zhejiang Cancer Hospital, Hangzhou Institute of Medicine, Chinese Academy of Sciences, Hangzhou310022, P. R. China.",
+        "Postgraduate Training Base Alliance, Wenzhou Medical University, Hangzhou310022, P. R. China.",
+        "Zhejiang Cancer Hospital, Hangzhou Institute of Medicine, Chinese Academy of Sciences, Hangzhou310022, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "Department of Liver Surgery and Transplantation, Fudan University, Shanghai200433, P. R. China.",
+        "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+        "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+        "Zhejiang Key Laboratory of Extreme Environment Functional Materials, Yiwu Research Institute, Fudan University, Yiwu322000, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Chang",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Ma, Hongwenjie",
+        "short_name": "Ma H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xia, Hanting",
+        "short_name": "Xia H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopaedics, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou310022, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Bo",
+        "short_name": "Zhang B",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Cancer Hospital, Hangzhou Institute of Medicine, Chinese Academy of Sciences, Hangzhou310022, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yin, Kailai",
+        "short_name": "Yin K",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Training Base Alliance, Wenzhou Medical University, Hangzhou310022, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xie, Feiyu",
+        "short_name": "Xie F",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Cancer Hospital, Hangzhou Institute of Medicine, Chinese Academy of Sciences, Hangzhou310022, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yue, Yang",
+        "short_name": "Yue Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Bai, Linlin",
+        "short_name": "Bai L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Liver Surgery and Transplantation, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wen, Jie",
+        "short_name": "Wen J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yuetong",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Lv, Xiangyu",
+        "short_name": "Lv X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Kong, Derong",
+        "short_name": "Kong D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yunqi",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0001-5521-2316"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wei, Dacheng",
+        "short_name": "Wei D",
+        "identifiers": [
+          "0000-0003-3593-9897"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, Fudan University, Shanghai200433, P. R. China.",
+          "Laboratory of Molecular Materials and Devices, Fudan University, Shanghai200433, P. R. China.",
+          "Zhejiang Key Laboratory of Extreme Environment Functional Materials, Yiwu Research Institute, Fudan University, Yiwu322000, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nano letters"
+    ],
+    "journal_abbrev": [
+      "Nano Lett"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916848"
+    ],
+    "review": [
+      "42916848"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BRAF-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/nalefd/article-lookup/doi/10.1021/acs.nanolett.6c03317",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

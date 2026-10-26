@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42915930",
+    "doi": "10.1021/acs.analchem.6c02379",
+    "title": "An XNA-CRISPR Platform for PAM-Free Detection of the katG Ser315Thr Mutation Associated with Isoniazid Resistance in Tuberculosis."
+  },
+  "content": {
+    "abstract": "Drug-resistance Tuberculosis (TB) is a major threat to global public health. Simple and precise detection of the mutations associated with drug resistance is still a significant challenge. CRISPR-based nucleic acid detection has emerged as a transformative technology in molecular diagnostics due to its high specificity and programmability. However, the CRISPR-Cas12a system requires a protospacer adjacent motif (PAM) in the target double-stranded DNA (dsDNA) for efficient recognition and activation, which limits its application for detecting single-nucleotide variants (SNVs). To overcome this limitation, we leveraged high-affinity xenonucleic acids (XNAs) to engineer an XNA-CRISPR platform that combines a helicase and sequence-specific XNAs (such as peptide nucleic acid (PNA), locked nucleic acid (LNA), or 2'-modified RNA), to unwind the dsDNA, enabling them to invade and form stable hybrids, thereby displacing a single strand for PAM-independent Cas12a activation. This recognition mechanism, combining XNA hybridization and CRISPR verification, achieves single-base resolution. To bridge the sensitivity gap for clinical application, we integrated this platform with polydisperse droplet digital technology (PddXNA-CRISPR), which significantly enhanced the sensitivity. Clinical sputum samples were detected by using PddXNA-CRISPR for Mycobacterium tuberculosis (MTB) katG Ser315Thr mutation, which showed 90% concordance with sequencing results. This modular, amplification-free platform expands the CRISPR-based diagnostic toolkit and provides a versatile and sensitive approach for detecting critical SNVs.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Mycobacterium tuberculosis/genetics/drug effects",
+      "*Isoniazid/pharmacology",
+      "*Bacterial Proteins/genetics",
+      "Mutation",
+      "*Drug Resistance, Bacterial/genetics",
+      "*Catalase/genetics",
+      "Humans",
+      "*Antitubercular Agents/pharmacology",
+      "*CRISPR-Cas Systems/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liao, Xinyi",
+        "Chen, Junhong",
+        "Wan, Yunzhu",
+        "Xu, Wenfei",
+        "Zhou, Jianhua",
+        "Liu, Yanping",
+        "Li, Xuhui",
+        "Yang, Chongguang",
+        "Wang, Jiasi"
+      ],
+      "short_names": [
+        "Liao X",
+        "Chen J",
+        "Wan Y",
+        "Xu W",
+        "Zhou J",
+        "Liu Y",
+        "Li X",
+        "Yang C",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9895-8679",
+        "ORCID: 0000-0003-4619-6814"
+      ],
+      "affiliations": [
+        "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China.",
+        "School of Public Health (Shenzhen), Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Shenzhen Campus of Sun Yat-sen University, Sun Yat-sen University, Guangdong518107, China.",
+        "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China.",
+        "Zhejiang Key Laboratory of Multiomics and Molecular Enzymology, Yangtze Delta Region Institute of Tsinghua University, Zhejiang, Zhejiang314006, China.",
+        "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China.",
+        "School of Public Health (Shenzhen), Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Shenzhen Campus of Sun Yat-sen University, Sun Yat-sen University, Guangdong518107, China.",
+        "Zhejiang Key Laboratory of Multiomics and Molecular Enzymology, Yangtze Delta Region Institute of Tsinghua University, Zhejiang, Zhejiang314006, China.",
+        "School of Public Health (Shenzhen), Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Shenzhen Campus of Sun Yat-sen University, Sun Yat-sen University, Guangdong518107, China.",
+        "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liao, Xinyi",
+        "short_name": "Liao X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Junhong",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health (Shenzhen), Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Shenzhen Campus of Sun Yat-sen University, Sun Yat-sen University, Guangdong518107, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Yunzhu",
+        "short_name": "Wan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wenfei",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Multiomics and Molecular Enzymology, Yangtze Delta Region Institute of Tsinghua University, Zhejiang, Zhejiang314006, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jianhua",
+        "short_name": "Zhou J",
+        "identifiers": [
+          "0000-0001-9895-8679"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yanping",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health (Shenzhen), Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Shenzhen Campus of Sun Yat-sen University, Sun Yat-sen University, Guangdong518107, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuhui",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Multiomics and Molecular Enzymology, Yangtze Delta Region Institute of Tsinghua University, Zhejiang, Zhejiang314006, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Chongguang",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health (Shenzhen), Shenzhen Key Laboratory of Pathogenic Microbes and Biosafety, Shenzhen Campus of Sun Yat-sen University, Sun Yat-sen University, Guangdong518107, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiasi",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0000-0003-4619-6814"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Sensor Technology and Biomedical Instrument, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915930"
+    ],
+    "review": [
+      "42915930"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/antibioticresistance.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antibiotic Resistance"
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c02379",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

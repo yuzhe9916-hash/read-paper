@@ -1,0 +1,193 @@
+{
+  "identity": {
+    "pmid": "42916579",
+    "doi": "10.1021/acssynbio.6c00205",
+    "title": "Automated Mini-Bioreactors Reveal the Temporal Dynamics and Multi-Omics Responses of CRISPRi Knockdowns in Pseudomonas putida."
+  },
+  "content": {
+    "abstract": "Characterizing CRISPR interference (CRISPRi) phenotypes presents a fundamental temporal challenge: pre-existing overabundance of target proteins can mask early silencing, requiring extended growth for dilution, yet prolonged repression rapidly selects for escaper mutants. To resolve this, we integrated a tightly regulated CRISPRi system in Pseudomonas putida with an automated mini bioreactor platform operating in turbidostat mode. By maintaining continuous exponential growth, we mapped the exact temporal dynamics of essential gene silencing. We identified a critical observation window between 7.8 and 26.7 h (corresponding to 6.4-23.5 cumulative cell doublings of the uninduced condition) where repression exerts its maximum physiological impact, directly preceding population takeover by target-site mutated escapers. Applying this workflow to the arginine biosynthesis pathway, multi-omics profiling disentangled transient physiological buffering from long-term mutational events, revealing that argH and argG knockdowns trigger highly diverse metabolomic perturbations. This scalable framework overcomes batch culture limitations for CRISPRi experiments, ensuring precise temporal control for accurate phenotypic characterization and reliable functional genomics.",
+    "keywords": [
+      "CRISPRi",
+      "Pseudomonas putida",
+      "automation",
+      "gene silencing",
+      "metabolism",
+      "mini-bioreactor",
+      "omics",
+      "temporal dynamics",
+      "turbidostat"
+    ],
+    "mesh_terms": [
+      "*Pseudomonas putida/genetics/metabolism",
+      "*Bioreactors",
+      "Multiomics",
+      "*CRISPR-Cas Systems/genetics",
+      "Gene Knockdown Techniques/methods",
+      "Bacterial Proteins/genetics/metabolism",
+      "Gene Silencing",
+      "Arginine/biosynthesis",
+      "Metabolomics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saavedra, Mariana Arango",
+        "Grassi, Sara",
+        "Jespersen, Magnus Ganer",
+        "Rocha, Catarina",
+        "Kandasamy, Viji",
+        "Nielsen, Lars Keld",
+        "Nikel, Pablo Ivan",
+        "Donati, Stefano"
+      ],
+      "short_names": [
+        "Saavedra MA",
+        "Grassi S",
+        "Jespersen MG",
+        "Rocha C",
+        "Kandasamy V",
+        "Nielsen LK",
+        "Nikel PI",
+        "Donati S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9780-0228",
+        "ORCID: 0000-0001-7211-8233",
+        "ORCID: 0000-0001-8191-3511",
+        "ORCID: 0000-0002-9313-7481",
+        "ORCID: 0000-0001-9946-0346"
+      ],
+      "affiliations": [
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+        "Australian Institute for Bioengineering and Nanotechnology (AIBN), The University of Queensland, Brisbane, QueenslandQLD 4072, Australia.",
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+        "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saavedra, Mariana Arango",
+        "short_name": "Saavedra MA",
+        "identifiers": [
+          "0000-0002-9780-0228"
+        ],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+        ]
+      },
+      {
+        "full_name": "Grassi, Sara",
+        "short_name": "Grassi S",
+        "identifiers": [],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+        ]
+      },
+      {
+        "full_name": "Jespersen, Magnus Ganer",
+        "short_name": "Jespersen MG",
+        "identifiers": [],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+        ]
+      },
+      {
+        "full_name": "Rocha, Catarina",
+        "short_name": "Rocha C",
+        "identifiers": [],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+        ]
+      },
+      {
+        "full_name": "Kandasamy, Viji",
+        "short_name": "Kandasamy V",
+        "identifiers": [
+          "0000-0001-7211-8233"
+        ],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+        ]
+      },
+      {
+        "full_name": "Nielsen, Lars Keld",
+        "short_name": "Nielsen LK",
+        "identifiers": [
+          "0000-0001-8191-3511"
+        ],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark.",
+          "Australian Institute for Bioengineering and Nanotechnology (AIBN), The University of Queensland, Brisbane, QueenslandQLD 4072, Australia."
+        ]
+      },
+      {
+        "full_name": "Nikel, Pablo Ivan",
+        "short_name": "Nikel PI",
+        "identifiers": [
+          "0000-0002-9313-7481"
+        ],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+        ]
+      },
+      {
+        "full_name": "Donati, Stefano",
+        "short_name": "Donati S",
+        "identifiers": [
+          "0000-0001-9946-0346"
+        ],
+        "affiliations": [
+          "The Novo Nordisk Foundation Biotechnology Research Institute for the Green Transition, Technical University of Denmark, Kongens LyngbyDK-2800, Denmark."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916579"
+    ],
+    "review": [
+      "42916579"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/asbcd6/article-lookup/doi/10.1021/acssynbio.6c00205",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

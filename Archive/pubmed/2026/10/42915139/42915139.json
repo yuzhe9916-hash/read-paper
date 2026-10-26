@@ -1,0 +1,180 @@
+{
+  "identity": {
+    "pmid": "42915139",
+    "doi": "10.1021/acs.jafc.6c05415",
+    "title": "Engineering a Transcription Activation Toolkit by Rewiring Prokaryotic Transcription Factors and Synthetic Yeast Promoters in Yarrowia lipolytica."
+  },
+  "content": {
+    "abstract": "Yarrowia lipolytica is a promising industrial host, yet its metabolic engineering potential remains limited by insufficient genetic tools. Here, we engineered a synthetic Transcription Activation Toolkit (TAT) based on LacI-VPRH, a chimeric protein fusing the prokaryotic DNA-binding domain LacI with the eukaryotic activation domain VPRH. Systematic optimization of LacO copy numbers and core promoter composition achieved up to 205-fold gene activation. The TAT platform was further expanded to construct bidirectional expression systems and enable multiplexed gene control. Applied to resveratrol biosynthesis via a \"push-pull\" strategy, CRISPR/Cas9-mediated integration of TAT-controlled synthetic promoters upregulated the shikimate pathway genes aroM10 and aroC alongside the rate-limiting enzyme ST1, achieving a shake-flask titer of 2.715 g/L horizontal line the highest reported to date. Additionally, an IPTG-inducible \"turn-on\" system (TAT-2.0) incorporating the antiLacI9 mutant was developed for small-molecule-responsive transcriptional control. Collectively, the modular TAT system provides a versatile strategy for precise metabolic pathway optimization in Y. lipolytica.",
+    "keywords": [
+      "Yarrowia lipolytica",
+      "LacI-VPRH",
+      "Transcription activation toolkit",
+      "resveratrol",
+      "synthetic yeast promoters"
+    ],
+    "mesh_terms": [
+      "*Yarrowia/genetics/metabolism",
+      "*Promoter Regions, Genetic",
+      "*Transcription Factors/genetics/metabolism",
+      "*Transcriptional Activation",
+      "Metabolic Engineering",
+      "Resveratrol/metabolism",
+      "*Fungal Proteins/genetics/metabolism",
+      "Shikimic Acid/metabolism",
+      "*Saccharomyces cerevisiae/genetics/metabolism",
+      "Gene Expression Regulation, Fungal"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Yunhe",
+        "Wei, Wenping",
+        "Zhang, Ping",
+        "Huang, Ting",
+        "Shang, Yanzhe",
+        "Zhou, Ying",
+        "Ye, Bang-Ce"
+      ],
+      "short_names": [
+        "Li Y",
+        "Wei W",
+        "Zhang P",
+        "Huang T",
+        "Shang Y",
+        "Zhou Y",
+        "Ye BC"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-0748-4828",
+        "ORCID: 0000-0001-9241-1293",
+        "ORCID: 0000-0002-5555-5359"
+      ],
+      "affiliations": [
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China.",
+        "Institute of Engineering Biology and Health, Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, Zhejiang310014, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China.",
+        "Institute of Engineering Biology and Health, Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, Zhejiang310014, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China.",
+        "Institute of Engineering Biology and Health, Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, Zhejiang310014, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Yunhe",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Wenping",
+        "short_name": "Wei W",
+        "identifiers": [
+          "0009-0007-0748-4828"
+        ],
+        "affiliations": [
+          "Institute of Engineering Biology and Health, Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, Zhejiang310014, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ping",
+        "short_name": "Zhang P",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Ting",
+        "short_name": "Huang T",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Engineering Biology and Health, Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, Zhejiang310014, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Yanzhe",
+        "short_name": "Shang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Ying",
+        "short_name": "Zhou Y",
+        "identifiers": [
+          "0000-0001-9241-1293"
+        ],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Bang-Ce",
+        "short_name": "Ye BC",
+        "identifiers": [
+          "0000-0002-5555-5359"
+        ],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai200237, China.",
+          "Institute of Engineering Biology and Health, Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, Zhejiang310014, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 16:13:49"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915139"
+    ],
+    "review": [
+      "42915139"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1163",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c05415",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

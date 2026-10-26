@@ -1,0 +1,163 @@
+{
+  "identity": {
+    "pmid": "42911498",
+    "doi": "10.1007/978-1-0716-5627-3_17",
+    "title": "Cas13d-Mediated Knockdown of Long Noncoding RNAs."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas13 systems represent a powerful and programmable platform for RNA-targeted applications, including RNA knockdown. Long noncoding RNA (lncRNA), which lacks an open reading frame and is thereby often refractory to Cas9-mediated indel production, can be successfully knocked down by Cas13 systems. DeepCas13, a deep learning-based model, was developed to predict Cas13d on-target activity for RNA interference with high accuracy. Here, we describe detailed protocols about sgRNA design and experimental procedures for the lentiviral vector-based CRISPR-Cas13 system to knock down individual lncRNAs. Our protocol can be naturally extended to knockdown other types of coding and noncoding RNAs, including messenger RNA (mRNA) circular RNA (circRNA).",
+    "keywords": [
+      "Cas13",
+      "DeepCas13",
+      "RNA knockdown",
+      "lncRNA",
+      "sgRNA"
+    ],
+    "mesh_terms": [
+      "*RNA, Long Noncoding/genetics",
+      "*Gene Knockdown Techniques/methods",
+      "*CRISPR-Cas Systems",
+      "Humans",
+      "RNA, Guide, CRISPR-Cas Systems/genetics",
+      "Lentivirus/genetics",
+      "RNA Interference",
+      "Genetic Vectors/genetics",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chao, Lumen",
+        "Li, Zexu",
+        "Li, Zihan",
+        "Cheng, Xiaolong",
+        "Fei, Teng",
+        "Li, Wei"
+      ],
+      "short_names": [
+        "Chao L",
+        "Li Z",
+        "Li Z",
+        "Cheng X",
+        "Fei T",
+        "Li W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center for Precision Medicine and Genomics Research, Children's National Hospital, Washington, DC, 20010, USA.",
+        "Department of Genomics and Precision Medicine, George Washington University, Washington, DC, 20010, USA.",
+        "Department of Pharmacology and Physiology, University of Maryland School of Medicine, Baltimore, MD, 21201, USA.",
+        "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, 21201, USA.",
+        "Department of Anatomy, Engineering Research Center for Organ Intelligent Biological Manufacturing of Chongqing, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third Military Medical University, Chongqing, 400038, China.",
+        "Engineering Research Center of Ministry of Education for Tissue and Organ Regeneration and Manufacturing, Chongqing, 400038, China.",
+        "Key Laboratory of Bioresource Research and Development of Liaoning Province, College of Life and Health Sciences, Northeastern University, Shenyang, 110819, China.",
+        "Center for Precision Medicine and Genomics Research, Children's National Hospital, Washington, DC, 20010, USA.",
+        "Department of Genomics and Precision Medicine, George Washington University, Washington, DC, 20010, USA.",
+        "Key Laboratory of Bioresource Research and Development of Liaoning Province, College of Life and Health Sciences, Northeastern University, Shenyang, 110819, China. feiteng@mail.neu.edu.cn.",
+        "University of Maryland-Institute for Health Computing, North Bethesda, MD, 20852, USA. wli2@som.umaryland.edu.",
+        "Department of Pharmacology and Physiology, University of Maryland School of Medicine, Baltimore, MD, 21201, USA. wli2@som.umaryland.edu.",
+        "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, 21201, USA. wli2@som.umaryland.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chao, Lumen",
+        "short_name": "Chao L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Precision Medicine and Genomics Research, Children's National Hospital, Washington, DC, 20010, USA.",
+          "Department of Genomics and Precision Medicine, George Washington University, Washington, DC, 20010, USA.",
+          "Department of Pharmacology and Physiology, University of Maryland School of Medicine, Baltimore, MD, 21201, USA.",
+          "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, 21201, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Zexu",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anatomy, Engineering Research Center for Organ Intelligent Biological Manufacturing of Chongqing, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third Military Medical University, Chongqing, 400038, China.",
+          "Engineering Research Center of Ministry of Education for Tissue and Organ Regeneration and Manufacturing, Chongqing, 400038, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zihan",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioresource Research and Development of Liaoning Province, College of Life and Health Sciences, Northeastern University, Shenyang, 110819, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Xiaolong",
+        "short_name": "Cheng X",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Precision Medicine and Genomics Research, Children's National Hospital, Washington, DC, 20010, USA.",
+          "Department of Genomics and Precision Medicine, George Washington University, Washington, DC, 20010, USA."
+        ]
+      },
+      {
+        "full_name": "Fei, Teng",
+        "short_name": "Fei T",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Bioresource Research and Development of Liaoning Province, College of Life and Health Sciences, Northeastern University, Shenyang, 110819, China. feiteng@mail.neu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "University of Maryland-Institute for Health Computing, North Bethesda, MD, 20852, USA. wli2@som.umaryland.edu.",
+          "Department of Pharmacology and Physiology, University of Maryland School of Medicine, Baltimore, MD, 21201, USA. wli2@som.umaryland.edu.",
+          "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, 21201, USA. wli2@som.umaryland.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-26 16:13:49"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42911498"
+    ],
+    "review": [
+      "42911498"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5627-3_17",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

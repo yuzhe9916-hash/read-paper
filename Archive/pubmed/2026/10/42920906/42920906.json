@@ -1,0 +1,180 @@
+{
+  "identity": {
+    "pmid": "42920906",
+    "doi": "10.1016/j.omtn.2026.103121",
+    "title": "Minimal indel-inducing and window-adjustable base editing using inactive Cas12b effectors."
+  },
+  "content": {
+    "abstract": "The recent CRISPR-Cas12b gene editing system, which recognizes DNA targets based on reprogrammed RNA, is increasingly being utilized in various fields. We developed an advanced base-editing technology that seamlessly integrates the TadA8e deaminase with an inactivated dBhCas12b (dead Bacillus hisashii Cas12b) module, enabling precise single-base DNA substitutions in human cell lines. Using the TadA8e-dBhCas12b module, we successfully induced single-base (A-to-G) substitutions at genomic target sites in HEK293FT cells, with an efficiency ranging from 3.96% +/- 1.10%-25.78% +/- 0.78%, with minimal unintended indel formation due to target DNA nicking. Notably, the editing window of the TadA8e-dBhCas12b module, spanning approximately positions 5-10, can be precisely modulated through the introduction of point mutations within the RuvC domain and the fusion of nonspecific DNA-binding domains, such as Sso7d. These modifications enable efficient base editing at target sites containing thymine-rich protospacer-adjacent motifs (PAMs). The optimized TadA8e-dBhCas12b platform therefore represents a complementary alternative to conventional CRISPR-Cas9-derived base editors and may broaden the range of targetable pathogenic variants, particularly those located within T-rich genomic contexts. Its DNA context-dependent editing window and expanded targeting capacity highlight its potential utility in both basic biological research and therapeutic genome editing.",
+    "keywords": [
+      "CRISPR-Cas12b",
+      "MT: RNA/DNA Editing",
+      "PAM recognition",
+      "TadA8e",
+      "adenine base editor",
+      "base editing",
+      "editing window",
+      "genome editing",
+      "off-target analysis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Wi-Jae",
+        "Kim, Yun Gyeong",
+        "Oh, Yeounsun",
+        "Gwon, Lee Wha",
+        "Lim, Dongjae",
+        "Kim, Ho-Joong",
+        "Sim, Bo-Woong",
+        "Lee, Seung Hwan"
+      ],
+      "short_names": [
+        "Lee WJ",
+        "Kim YG",
+        "Oh Y",
+        "Gwon LW",
+        "Lim D",
+        "Kim HJ",
+        "Sim BW",
+        "Lee SH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju 28116, Republic of Korea.",
+        "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju 28116, Republic of Korea.",
+        "KRIBB School of Bioscience, University of Science and Technology (UST), Daejeon 34113, Republic of Korea.",
+        "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "Department of Chemistry, Chosun University, Gwangju 61452, Republic of Korea.",
+        "Futuristic Animal Resource & Research Center (FARRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju 28116, Republic of Korea.",
+        "Department of Functional Genomics, University of Science and Technology, Daejeon 34113, Republic of Korea.",
+        "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Wi-Jae",
+        "short_name": "Lee WJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea.",
+          "National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju 28116, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Yun Gyeong",
+        "short_name": "Kim YG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Oh, Yeounsun",
+        "short_name": "Oh Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Gwon, Lee Wha",
+        "short_name": "Gwon LW",
+        "identifiers": [],
+        "affiliations": [
+          "National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju 28116, Republic of Korea.",
+          "KRIBB School of Bioscience, University of Science and Technology (UST), Daejeon 34113, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Dongjae",
+        "short_name": "Lim D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Ho-Joong",
+        "short_name": "Kim HJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Chosun University, Gwangju 61452, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Sim, Bo-Woong",
+        "short_name": "Sim BW",
+        "identifiers": [],
+        "affiliations": [
+          "Futuristic Animal Resource & Research Center (FARRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju 28116, Republic of Korea.",
+          "Department of Functional Genomics, University of Science and Technology, Daejeon 34113, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Seung Hwan",
+        "short_name": "Lee SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science, Chung-Ang University, Seoul 06974, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy. Nucleic acids"
+    ],
+    "journal_abbrev": [
+      "Mol Ther Nucleic Acids"
+    ],
+    "pub_date": "2026 Dec 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42920906"
+    ],
+    "review": [
+      "42920906"
+    ],
+    "pmc": [
+      "13691310"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2162-2531(26)00292-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

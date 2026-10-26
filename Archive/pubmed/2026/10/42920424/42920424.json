@@ -1,0 +1,202 @@
+{
+  "identity": {
+    "pmid": "42920424",
+    "doi": "10.12688/f1000research.183746.2",
+    "title": "High-Quality Draft Genome Sequence of Endophytic Kluyvera Ascorbata Strain PCL31 Isolated from Piper Crocatum (red betel)."
+  },
+  "content": {
+    "abstract": "Endophytic bacteria within medicinal plants are a largely untapped reservoir of bioactive compounds and adaptive genetic traits. Piper crocatum (red betel), a Southeast Asian medicinal herb rich in flavonoids, alkaloids, and phenolics, offers a chemically selective niche for endophytes, yet the genomes of its microbial associates remain poorly characterised. Kluyvera ascorbata occurs as a plant-associated endophyte and an opportunistic human pathogen, and its chromosomal blaKLUA gene is the recognised progenitor of the clinically important CTX-M-2 beta-lactamase sublineage. We report a high-quality draft genome of endophytic strain PCL31, isolated from surface-sterilised Piper crocatum tissues collected in Bogor, Indonesia. Whole-genome sequencing used the Oxford Nanopore PromethION platform, with de novo assembly in Flye, polishing in Medaka, and quality assessment by QUAST and BUSCO. The assembly spans 4,978,299 bp across eight contigs (N50 1.45 Mbp; GC content 54.26%; 100% BUSCO completeness, enterobacterales_odb10, n = 440). Species identity was confirmed by digital DNA-DNA hybridisation (dDDH 88.6% against the type strain K. ascorbata ATCC 33433) and average nucleotide identity (ANI 98.6% against reference genome NZ_CP096201.1). Annotation identified 4,579 protein-coding sequences, 22 ribosomal RNA, 88 transfer RNA, and 81 non-coding RNA genes, and no CRISPR/Cas systems. antiSMASH 8.0 predicted four biosynthetic gene clusters (BGCs): a 53.8 kb non-ribosomal peptide synthetase (NRPS)-metallophore cluster matching the conserved enterobactin locus (MIBiG similarity 0.83), plus three low-similarity clusters (</= 0.50) of uncertain novelty - a ribosomally synthesised and post-translationally modified peptide (RiPP)-like cluster, a terpene-precursor cluster, and an azole-containing RiPP. CARD-RGI profiling returned one Perfect hit ( blaCTX-M-2) and 25 Strict hits, the latter dominated by intrinsic Enterobacteriaceae efflux and target-modification genes; phenotypic confirmation was not performed. This genome provides a resource for bioprospecting secondary metabolites from medicinal-plant endophytes and underscores the value of plant-associated isolates for biosafety and antimicrobial-resistance surveillance in opportunistic pathogens.",
+    "keywords": [
+      "Kluyvera ascorbata",
+      "Oxford Nanopore",
+      "Piper crocatum",
+      "bacterial endophyte",
+      "biosynthetic gene clusters",
+      "genome mining",
+      "resistance genes"
+    ],
+    "mesh_terms": [
+      "*Genome, Bacterial",
+      "*Piper/microbiology",
+      "*Endophytes/genetics",
+      "Whole Genome Sequencing"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sidhartha, Elizabeth",
+        "Pratama, Rahadian",
+        "Ng, Ernst Richard",
+        "Christiawan, Irene Nathania",
+        "Valentine, Yeshaya",
+        "Hermantara, Rio",
+        "Artika, I Made",
+        "Poetri, Okti Nadia",
+        "Safithri, Mega"
+      ],
+      "short_names": [
+        "Sidhartha E",
+        "Pratama R",
+        "Ng ER",
+        "Christiawan IN",
+        "Valentine Y",
+        "Hermantara R",
+        "Artika IM",
+        "Poetri ON",
+        "Safithri M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1475-4693",
+        "ORCID: 0000-0002-2709-7370",
+        "ORCID: 0000-0003-0480-2388"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, Graduate School, IPB University, Bogor, West Java, Indonesia.",
+        "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia.",
+        "Biomolecule Division, Department of Biochemistry, IPB University, Bogor, West Java, Indonesia.",
+        "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia.",
+        "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia.",
+        "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia.",
+        "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia.",
+        "Biomolecule Division, Department of Biochemistry, IPB University, Bogor, West Java, Indonesia.",
+        "Department of Infectious Diseases and Public Health, School of Veterinary Medicine and Biomedical Sciences, IPB University, Bogor, West Java, Indonesia.",
+        "Bioanalysis Division, Department of Biochemistry, IPB University, Bogor, West Java, Indonesia.",
+        "Tropical Biopharmaca Research Center, IPB University, Bogor, West Java, Indonesia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sidhartha, Elizabeth",
+        "short_name": "Sidhartha E",
+        "identifiers": [
+          "0000-0002-1475-4693"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Graduate School, IPB University, Bogor, West Java, Indonesia.",
+          "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Pratama, Rahadian",
+        "short_name": "Pratama R",
+        "identifiers": [
+          "0000-0002-2709-7370"
+        ],
+        "affiliations": [
+          "Biomolecule Division, Department of Biochemistry, IPB University, Bogor, West Java, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Ng, Ernst Richard",
+        "short_name": "Ng ER",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Christiawan, Irene Nathania",
+        "short_name": "Christiawan IN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Valentine, Yeshaya",
+        "short_name": "Valentine Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Hermantara, Rio",
+        "short_name": "Hermantara R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, School of Health and Life Sciences, i3L University, Jakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Artika, I Made",
+        "short_name": "Artika IM",
+        "identifiers": [],
+        "affiliations": [
+          "Biomolecule Division, Department of Biochemistry, IPB University, Bogor, West Java, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Poetri, Okti Nadia",
+        "short_name": "Poetri ON",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infectious Diseases and Public Health, School of Veterinary Medicine and Biomedical Sciences, IPB University, Bogor, West Java, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Safithri, Mega",
+        "short_name": "Safithri M",
+        "identifiers": [
+          "0000-0003-0480-2388"
+        ],
+        "affiliations": [
+          "Bioanalysis Division, Department of Biochemistry, IPB University, Bogor, West Java, Indonesia.",
+          "Tropical Biopharmaca Research Center, IPB University, Bogor, West Java, Indonesia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "F1000Research"
+    ],
+    "journal_abbrev": [
+      "F1000Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/24 05:35",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42920424"
+    ],
+    "review": [
+      "42920424"
+    ],
+    "pmc": [
+      "13687735"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1475",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://f1000research.com/articles/10.12688/f1000research.183746.2/doi",
+        "provider": "F1000 Research Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

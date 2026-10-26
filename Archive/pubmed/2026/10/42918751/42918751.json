@@ -1,0 +1,417 @@
+{
+  "identity": {
+    "pmid": "42918751",
+    "doi": "10.1038/s41392-026-03000-z",
+    "title": "Arrhythmic events and genetic variants as drivers for Takotsubo Syndrome: a patient-specific atrial stem-cell model."
+  },
+  "content": {
+    "abstract": "Takotsubo Syndrome (TTS) is an acute, potentially life-threatening condition often complicated by ventricular dysfunction and arrhythmias. Atrial fibrillation (AF) is common in TTS patients and associated with increased mortality. However, the arrhythmic mechanisms, genetic variability underlying TTS, and personalised therapy remain unclear. We generated induced pluripotent stem cell-derived atrial and ventricular cardiomyocytes (iPSC-CMs) from TTS patients and provoked TTS-like events by isoprenaline (Iso) stimulation. Compared with controls, atrial TTS iPSC-CMs exhibited enhanced diastolic sarcoplasmic reticulum (SR) Ca(2)(+) leak and increased arrhythmogenic potential following Iso exposure. Iso-induced stress further increased systolic Ca(2)(+) transient amplitude and reduced phosphodiesterase 4 (PDE4) activity in TTS iPSC-CMs. Under baseline conditions, atrial TTS iPSC-CMs demonstrated unchanged Ca(2+) transient amplitude, reduced diastolic Ca(2+), elevated SERCA2 activity with faster Ca(2)(+) decay compared to controls, which could be explained by increased phosphorylation of PKA-specific phospholamban S16. In contrast, ventricular TTS-iPSC-CM showed increased L-Type Ca(2+) current density, but reduced Ca(2+) transient amplitude with increased resting Ca(2+) leak and reduced PDE4 activity post-Iso-exposure. In atrial TTS iPSC-CMs, the PDE4 activator MR-L2 restored PDE4 activity, normalised several defects in Ca(2)(+) handling and prevented arrhythmias more efficiently than the beta-blocker metoprolol. Genetic analyses identified variants in the Ca(2)(+) handling genes AHNAK and CASQ2 in TTS. Using CRISPR/Cas9, we generated isogenic rescue and mutation-insertion lines, confirming a causal role of p.P5390T in catecholamine-induced arrhythmogenic phenotypes in atrial TTS iPSC-CMs. Our findings support a mechanistic link between genetic predisposition to an excessive catecholaminergic stress response, dysregulated PDE/cAMP signalling, and atrial arrhythmogenesis in TTS-CMs, identifying PDE4 as a potential therapeutic target in this critical condition.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Induced Pluripotent Stem Cells/metabolism/pathology",
+      "*Myocytes, Cardiac/metabolism/pathology/drug effects",
+      "*Takotsubo Cardiomyopathy/genetics/pathology/metabolism",
+      "Cyclic Nucleotide Phosphodiesterases, Type 4/genetics/metabolism",
+      "Heart Atria/pathology/metabolism",
+      "Sarcoplasmic Reticulum Calcium-Transporting ATPases/genetics/metabolism",
+      "Isoproterenol/pharmacology",
+      "Phospholamban",
+      "Calcium/metabolism",
+      "Sarcoplasmic Reticulum/metabolism/genetics/pathology",
+      "Calcium-Binding Proteins/genetics/metabolism",
+      "Genetic Variation",
+      "*Arrhythmias, Cardiac/genetics/pathology",
+      "*Atrial Fibrillation/genetics/pathology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Brand, Charlotte",
+        "Zinke, Clarissa",
+        "Syed Ali, Gideon",
+        "Hubscher, Daniela",
+        "Ajmail, Karim",
+        "Seedorf, Aylin",
+        "Steinker, Pauline",
+        "Treu, Franziska",
+        "Jung, Philipp",
+        "Eberl, Hanna",
+        "Li, Yun",
+        "Dybkova, Nataliya",
+        "Feld, Lukas",
+        "Ghadri, Jelena R",
+        "Templin, Christian",
+        "Sossalla, Samuel",
+        "Maack, Christoph",
+        "Voigt, Niels",
+        "Nikolaev, Viacheslav O",
+        "Wollnik, Bernd",
+        "Streckfuss-Bomeke, Katrin"
+      ],
+      "short_names": [
+        "Brand C",
+        "Zinke C",
+        "Syed Ali G",
+        "Hubscher D",
+        "Ajmail K",
+        "Seedorf A",
+        "Steinker P",
+        "Treu F",
+        "Jung P",
+        "Eberl H",
+        "Li Y",
+        "Dybkova N",
+        "Feld L",
+        "Ghadri JR",
+        "Templin C",
+        "Sossalla S",
+        "Maack C",
+        "Voigt N",
+        "Nikolaev VO",
+        "Wollnik B",
+        "Streckfuss-Bomeke K"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-2941-5005",
+        "ORCID: 0009-0000-1399-6001",
+        "ORCID: 0000-0001-8034-2673",
+        "ORCID: 0000-0001-8230-2341",
+        "ORCID: 0000-0001-5137-7228"
+      ],
+      "affiliations": [
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "Institute for Cardiomyopathies (ICH), University Clinic Heidelberg, Heidelberg, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Institute of Pharmacology and Toxicology, University of Wurzburg, Wurzburg, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Institute of Pharmacology and Toxicology, University Medical Centre Gottingen, Georg-August-University Gottingen, Gottingen, Germany.",
+        "Institute of Pharmacology and Toxicology, University of Wurzburg, Wurzburg, Germany.",
+        "Institute of Human Genetics, University Medical Centre Gottingen, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Centre for Molecular Cardiology, Schlieren Campus, University of Zurich, Zurich, Switzerland.",
+        "Internal Medicine B, University Medicine Greifswald, Greifswald, Germany.",
+        "Department of Cardiology, University Hospital Zurich, Zurich, Switzerland.",
+        "DZHK (German Centre for Cardiovascular Research), partner site North, Hamburg, Lubeck, Kiel, Greifswald, Germany.",
+        "Centre for Molecular Cardiology, Schlieren Campus, University of Zurich, Zurich, Switzerland.",
+        "Internal Medicine B, University Medicine Greifswald, Greifswald, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site North, Hamburg, Lubeck, Kiel, Greifswald, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Medical Clinic I, Cardiology and Angiology, Justus-Liebig-University, Giessen, Germany.",
+        "Department of Cardiology, Campus Kerckhoff, Bad Nauheim, Germany.",
+        "Cardio-Pulmonary Institute (CPI), Giessen, Germany.",
+        "Comprehensive Heart Failure Center (CHFC), University Clinic Wurzburg, Wurzburg, Germany.",
+        "Medical Clinic and Polyclinic I, University Clinic Wurzburg, Wurzburg, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Institute of Pharmacology and Toxicology, University Medical Centre Gottingen, Georg-August-University Gottingen, Gottingen, Germany.",
+        "Cluster of Excellence 'Multiscale Bioimaging: From Molecular Machines to Networks of Excitable Cells' (MBExC), University Medical Centre Gottingen, Gottingen, Germany.",
+        "Department of Pharmacology and Toxicology, European Center for Angioscience, University Heidelberg, Mannheim, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site North, Hamburg, Lubeck, Kiel, Greifswald, Germany.",
+        "Institute for Experimental Cardiovascular Research, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany.",
+        "Institute of Human Genetics, University Medical Centre Gottingen, Gottingen, Germany.",
+        "Cluster of Excellence 'Multiscale Bioimaging: From Molecular Machines to Networks of Excitable Cells' (MBExC), University Medical Centre Gottingen, Gottingen, Germany.",
+        "German Centre for Child and Adolescent Health (DZKJ), partner site Gottingen, Gottingen, Germany.",
+        "Clinic for Cardiology and Pneumology, University Medical Centre Gottingen, Gottingen, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de.",
+        "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Gottingen, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de.",
+        "Institute of Pharmacology and Toxicology, University of Wurzburg, Wurzburg, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de.",
+        "Medical Clinic I, Cardiology and Angiology, Justus-Liebig-University, Giessen, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Brand, Charlotte",
+        "short_name": "Brand C",
+        "identifiers": [
+          "0009-0000-2941-5005"
+        ],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "Institute for Cardiomyopathies (ICH), University Clinic Heidelberg, Heidelberg, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Zinke, Clarissa",
+        "short_name": "Zinke C",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Syed Ali, Gideon",
+        "short_name": "Syed Ali G",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Hübscher, Daniela",
+        "short_name": "Hübscher D",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Ajmail, Karim",
+        "short_name": "Ajmail K",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Seedorf, Aylin",
+        "short_name": "Seedorf A",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Steinker, Pauline",
+        "short_name": "Steinker P",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmacology and Toxicology, University of Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Treu, Franziska",
+        "short_name": "Treu F",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Jung, Philipp",
+        "short_name": "Jung P",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany.",
+          "Institute of Pharmacology and Toxicology, University Medical Centre Göttingen, Georg-August-University Göttingen, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Eberl, Hanna",
+        "short_name": "Eberl H",
+        "identifiers": [
+          "0009-0000-1399-6001"
+        ],
+        "affiliations": [
+          "Institute of Pharmacology and Toxicology, University of Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Li, Yun",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, University Medical Centre Göttingen, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Dybkova, Nataliya",
+        "short_name": "Dybkova N",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Feld, Lukas",
+        "short_name": "Feld L",
+        "identifiers": [],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Ghadri, Jelena R",
+        "short_name": "Ghadri JR",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular Cardiology, Schlieren Campus, University of Zurich, Zurich, Switzerland.",
+          "Internal Medicine B, University Medicine Greifswald, Greifswald, Germany.",
+          "Department of Cardiology, University Hospital Zurich, Zurich, Switzerland.",
+          "DZHK (German Centre for Cardiovascular Research), partner site North, Hamburg, Lübeck, Kiel, Greifswald, Germany."
+        ]
+      },
+      {
+        "full_name": "Templin, Christian",
+        "short_name": "Templin C",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Molecular Cardiology, Schlieren Campus, University of Zurich, Zurich, Switzerland.",
+          "Internal Medicine B, University Medicine Greifswald, Greifswald, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site North, Hamburg, Lübeck, Kiel, Greifswald, Germany."
+        ]
+      },
+      {
+        "full_name": "Sossalla, Samuel",
+        "short_name": "Sossalla S",
+        "identifiers": [
+          "0000-0001-8034-2673"
+        ],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany.",
+          "Medical Clinic I, Cardiology and Angiology, Justus-Liebig-University, Gießen, Germany.",
+          "Department of Cardiology, Campus Kerckhoff, Bad Nauheim, Germany.",
+          "Cardio-Pulmonary Institute (CPI), Gießen, Germany."
+        ]
+      },
+      {
+        "full_name": "Maack, Christoph",
+        "short_name": "Maack C",
+        "identifiers": [],
+        "affiliations": [
+          "Comprehensive Heart Failure Center (CHFC), University Clinic Würzburg, Würzburg, Germany.",
+          "Medical Clinic and Polyclinic I, University Clinic Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Voigt, Niels",
+        "short_name": "Voigt N",
+        "identifiers": [
+          "0000-0001-8230-2341"
+        ],
+        "affiliations": [
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany.",
+          "Institute of Pharmacology and Toxicology, University Medical Centre Göttingen, Georg-August-University Göttingen, Göttingen, Germany.",
+          "Cluster of Excellence 'Multiscale Bioimaging: From Molecular Machines to Networks of Excitable Cells' (MBExC), University Medical Centre Göttingen, Göttingen, Germany.",
+          "Department of Pharmacology and Toxicology, European Center for Angioscience, University Heidelberg, Mannheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Nikolaev, Viacheslav O",
+        "short_name": "Nikolaev VO",
+        "identifiers": [],
+        "affiliations": [
+          "DZHK (German Centre for Cardiovascular Research), partner site North, Hamburg, Lübeck, Kiel, Greifswald, Germany.",
+          "Institute for Experimental Cardiovascular Research, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Wollnik, Bernd",
+        "short_name": "Wollnik B",
+        "identifiers": [],
+        "affiliations": [
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany.",
+          "Institute of Human Genetics, University Medical Centre Göttingen, Göttingen, Germany.",
+          "Cluster of Excellence 'Multiscale Bioimaging: From Molecular Machines to Networks of Excitable Cells' (MBExC), University Medical Centre Göttingen, Göttingen, Germany.",
+          "German Centre for Child and Adolescent Health (DZKJ), partner site Göttingen, Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Streckfuss-Bömeke, Katrin",
+        "short_name": "Streckfuss-Bömeke K",
+        "identifiers": [
+          "0000-0001-5137-7228"
+        ],
+        "affiliations": [
+          "Clinic for Cardiology and Pneumology, University Medical Centre Göttingen, Göttingen, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de.",
+          "DZHK (German Centre for Cardiovascular Research), partner site Lower Saxony, Göttingen, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de.",
+          "Institute of Pharmacology and Toxicology, University of Würzburg, Würzburg, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de.",
+          "Medical Clinic I, Cardiology and Angiology, Justus-Liebig-University, Gießen, Germany. katrin.streckfuss-boemeke@uni-wuerzburg.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Signal transduction and targeted therapy"
+    ],
+    "journal_abbrev": [
+      "Signal Transduct Target Ther"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-26 16:13:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42918751"
+    ],
+    "review": [
+      "42918751"
+    ],
+    "pmc": [
+      "13691113"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/atrialfibrillation.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Atrial Fibrillation"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41392-026-03000-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SNCG-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-177",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
