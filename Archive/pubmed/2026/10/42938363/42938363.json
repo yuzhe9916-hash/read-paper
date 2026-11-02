@@ -1,0 +1,143 @@
+{
+  "identity": {
+    "pmid": "42938363",
+    "doi": "10.3390/genes17101247",
+    "title": "Engineering of the High-Precision Cas12m Dual Base Editor-Loaded Virus-like Particles for A-to-G and C-to-T Conversions."
+  },
+  "content": {
+    "abstract": "Background/Objectives: CRISPR/Cas-dependent base editing enables the precise correction of genomic sequences by direct modification of DNA bases without creating potentially mutagenic DNA double-strand breaks. Base editing is considered a therapeutic approach for rare monogenic disorders or viral infections. However, many variants of base editors suffer from limited specificity because they induce bystander edits within a broad editing window. However, nucleotide substitution is sufficient to correct a mutation or to achieve a therapeutic effect. Methods: PCR, cloning by restriction digest, and ligation were used to create genetic constructs. The editing efficiency was evaluated using NGS. Virus-like particles were produced in HEK293T cells using transient expression. VLPs were visualized by electron microscopy. Results: Using dual base editors that induce C-to-T and A-to-G substitutions, we show that high editing precision can be achieved by engineering the linker between the MmCas12m domain and the deaminase domain of the editor. By testing different linker sequences, we have created high-precision dual base editors with narrowed editing windows that can edit a single nucleotide at a target position with high accuracy. Conclusions: We found that shortening the linker to an acceptable length provides a single-nucleotide substitution in vitro with minimal bystander activity (less than 0.8%), while the high-precision MmCas12m dual base editor retains up to 90% of the editing efficiency of the original base editor. These high-precision base editors will be useful in cases where high precision is required, and editing of adjacent nucleotides is undesirable.",
+    "keywords": [
+      "CRISPR/Cas",
+      "Cas12m",
+      "Cas9",
+      "TadDE",
+      "VLP",
+      "base editing",
+      "linker"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Gene Editing/methods",
+      "*CRISPR-Cas Systems/genetics",
+      "HEK293 Cells",
+      "*CRISPR-Associated Proteins/genetics",
+      "*Endodeoxyribonucleases/genetics",
+      "*Virion/genetics",
+      "*Bacterial Proteins/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aliev, Timur",
+        "Imatdinov, Almaz",
+        "Prudnikova, Elena",
+        "Imatdinov, Ilnaz"
+      ],
+      "short_names": [
+        "Aliev T",
+        "Imatdinov A",
+        "Prudnikova E",
+        "Imatdinov I"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2889-6112"
+      ],
+      "affiliations": [
+        "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia.",
+        "Faculty of Natural Sciences, Novosibirsk State University, Novosibirsk 630090, Russia.",
+        "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia.",
+        "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia.",
+        "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aliev, Timur",
+        "short_name": "Aliev T",
+        "identifiers": [],
+        "affiliations": [
+          "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia.",
+          "Faculty of Natural Sciences, Novosibirsk State University, Novosibirsk 630090, Russia."
+        ]
+      },
+      {
+        "full_name": "Imatdinov, Almaz",
+        "short_name": "Imatdinov A",
+        "identifiers": [
+          "0000-0003-2889-6112"
+        ],
+        "affiliations": [
+          "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia."
+        ]
+      },
+      {
+        "full_name": "Prudnikova, Elena",
+        "short_name": "Prudnikova E",
+        "identifiers": [],
+        "affiliations": [
+          "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia."
+        ]
+      },
+      {
+        "full_name": "Imatdinov, Ilnaz",
+        "short_name": "Imatdinov I",
+        "identifiers": [],
+        "affiliations": [
+          "State Research Center of Virology and Biotechnology \"Vector\", Kol'tsovo 630559, Novosibirsk Region, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes"
+    ],
+    "journal_abbrev": [
+      "Genes (Basel)"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:31",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42938363"
+    ],
+    "review": [
+      "42938363"
+    ],
+    "pmc": [
+      "13704335"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=genes17101247",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42938363/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

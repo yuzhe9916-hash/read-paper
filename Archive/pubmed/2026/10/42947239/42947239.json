@@ -1,0 +1,275 @@
+{
+  "identity": {
+    "pmid": "42947239",
+    "doi": "10.1186/s13073-026-01738-3",
+    "title": "Phenotype rescue through the restoration of full-length dystrophin using CRISPR/Cas9 genome editing in Duchenne muscular dystrophy patient-derived iPSCs carrying the deletion of two exons."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Duchenne muscular dystrophy (DMD) is a X-linked disease affecting skeletal and cardiac muscle and is caused by mutations in the dystrophin gene (DMD). Patient-derived induced pluripotent stem cells (iPSCs) serve as reliable in vitro disease models. Their genetic correction by CRISPR/Cas9 allows the generation of isogenic controls and holds promises for gene therapy. However, restoring full-length dystrophin, especially when deletions involve multiple exons, constitutes a technological challenge. This study aimed to fully repair the dystrophin gene from a DMD iPSC line carrying the deletion of exons 49-50 and to characterize the rescue of the cardiac phenotype. METHODS: We developed an innovative CRISPR/Cas9-based approach involving the insertion of coding sequences of the deleted region, at the 3' of exon 48, thereby generating a single continuous coding sequence encompassing exons 48-49-50. Subsequently, iPSCs were differentiated into cardiomyocytes and cardiac fibroblasts. Cardiac phenotypes were analysed by western blot, immunofluorescence, ELISA, FACS, Ionoptix, 3D engineered heart tissue (EHT) and single-nuclei RNA-seq. RESULTS: The correction of a two-exons DMD gene deletion in Duchenne iPSCs, using CRISPR/Cas9, enabled the re-expression of a stable and functional full-length dystrophin in cardiomyocytes resulting in the rescue of cardiac pathological phenotypes. Edited cardiomyocytes showed improved morphology, reduced release of the cardiomyocytes damage marker troponin I, and decreased ROS production. Moreover, dystrophin restoration enhanced contractility and ameliorated the Ca(2+) kinetics. Notably, edited iPSC derived fibroblasts showed reduced pro-fibrotic stimuli response. In parallel, we also observed enhanced functioning of a 3D engineered heart tissue and profound change in the transcriptomic profile in both cardiomyocytes and fibroblasts after the re-expression of full-length dystrophin. CONCLUSIONS: We developed an innovative approach that enabled the re-expression of full-length dystrophin in a DMD iPSC line with consequent complete rescue of in vitro DMD cardiac phenotypes. On the long term, these results could lay a foundation for future applications of cell therapy or in vivo CRISPR/Cas9-based intervention to treat DMD.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "Duchenne muscular dystrophy",
+      "Dystrophin",
+      "cardiomyocytes, stromal cells, engineered heart tissue",
+      "iPSC"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Induced Pluripotent Stem Cells/metabolism/cytology",
+      "*Dystrophin/genetics",
+      "*Muscular Dystrophy, Duchenne/genetics/therapy/pathology",
+      "*CRISPR-Cas Systems",
+      "*Exons",
+      "*Gene Editing",
+      "Phenotype",
+      "Myocytes, Cardiac/metabolism",
+      "Fibroblasts/metabolism",
+      "*Sequence Deletion",
+      "Cell Differentiation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rovina, Davide",
+        "Milasi, Sofia",
+        "Di Giuseppe, Giusy",
+        "Pioner, Jose Manuel",
+        "Langione, Marianna",
+        "Giammarino, Lucrezia",
+        "Ferrantini, Cecilia",
+        "Chiesa, Mattia",
+        "Canonico, Francesco",
+        "D'Amario, Domenico",
+        "Mercuri, Eugenio Maria",
+        "Pompilio, Giulio",
+        "Sommariva, Elena",
+        "Gowran, Aoife",
+        "Maione, Angela Serena"
+      ],
+      "short_names": [
+        "Rovina D",
+        "Milasi S",
+        "Di Giuseppe G",
+        "Pioner JM",
+        "Langione M",
+        "Giammarino L",
+        "Ferrantini C",
+        "Chiesa M",
+        "Canonico F",
+        "D'Amario D",
+        "Mercuri EM",
+        "Pompilio G",
+        "Sommariva E",
+        "Gowran A",
+        "Maione AS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy. davide.rovina@cardiologicomonzino.it.",
+        "iPSC Facility for Cardiac Modelling and Function, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy. davide.rovina@cardiologicomonzino.it.",
+        "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+        "Department of Pharmacy, School of Medicine and Surgery, University of Naples Federico II, Naples, 80131, Italy.",
+        "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+        "Department of Biology, University of Florence, Florence, 50134, Italy.",
+        "Department of Biology, University of Florence, Florence, 50134, Italy.",
+        "Department of NeuroFarBa, University of Florence, Florence, 50139, Italy.",
+        "Department of Experimental and Clinical Medicine, University of Florence, Florence, 50139, Italy.",
+        "Bioinformatics and Artificial Intelligence Facility, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+        "Department of Electronics, Information and Biomedical Engineering, Politecnico di Milano, Milan, 20133, Italy.",
+        "Department of Thoracic and Cardiovascular Diseases, Azienda Ospedaliero-Universitaria Maggiore della Carita, Novara, 28100, Italy.",
+        "Department of Translational Medicine, University of Eastern Piedmont, Novara, 28100, Italy.",
+        "Paediatric Neurology and Centro Clinico NeMO, Policlinico Gemelli, Catholic University, Fondazione Policlinico Universitario Agostino Gemelli IRCSS, Rome, 00168, Italy.",
+        "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+        "Department of Biomedical, Surgical and Dental Sciences, Universita degli Studi di Milano, Milan, 20122, Italy.",
+        "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+        "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+        "iPSC Facility for Cardiac Modelling and Function, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rovina, Davide",
+        "short_name": "Rovina D",
+        "identifiers": [],
+        "affiliations": [
+          "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy. davide.rovina@cardiologicomonzino.it.",
+          "iPSC Facility for Cardiac Modelling and Function, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy. davide.rovina@cardiologicomonzino.it."
+        ]
+      },
+      {
+        "full_name": "Milasi, Sofia",
+        "short_name": "Milasi S",
+        "identifiers": [],
+        "affiliations": [
+          "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+          "Department of Pharmacy, School of Medicine and Surgery, University of Naples Federico II, Naples, 80131, Italy."
+        ]
+      },
+      {
+        "full_name": "Di Giuseppe, Giusy",
+        "short_name": "Di Giuseppe G",
+        "identifiers": [],
+        "affiliations": [
+          "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy."
+        ]
+      },
+      {
+        "full_name": "Pioner, Josè Manuel",
+        "short_name": "Pioner JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Florence, Florence, 50134, Italy."
+        ]
+      },
+      {
+        "full_name": "Langione, Marianna",
+        "short_name": "Langione M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Florence, Florence, 50134, Italy."
+        ]
+      },
+      {
+        "full_name": "Giammarino, Lucrezia",
+        "short_name": "Giammarino L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of NeuroFarBa, University of Florence, Florence, 50139, Italy."
+        ]
+      },
+      {
+        "full_name": "Ferrantini, Cecilia",
+        "short_name": "Ferrantini C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Experimental and Clinical Medicine, University of Florence, Florence, 50139, Italy."
+        ]
+      },
+      {
+        "full_name": "Chiesa, Mattia",
+        "short_name": "Chiesa M",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics and Artificial Intelligence Facility, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+          "Department of Electronics, Information and Biomedical Engineering, Politecnico di Milano, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Canonico, Francesco",
+        "short_name": "Canonico F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic and Cardiovascular Diseases, Azienda Ospedaliero-Universitaria Maggiore della Carità, Novara, 28100, Italy."
+        ]
+      },
+      {
+        "full_name": "D'Amario, Domenico",
+        "short_name": "D'Amario D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Translational Medicine, University of Eastern Piedmont, Novara, 28100, Italy."
+        ]
+      },
+      {
+        "full_name": "Mercuri, Eugenio Maria",
+        "short_name": "Mercuri EM",
+        "identifiers": [],
+        "affiliations": [
+          "Paediatric Neurology and Centro Clinico NeMO, Policlinico Gemelli, Catholic University, Fondazione Policlinico Universitario Agostino Gemelli IRCSS, Rome, 00168, Italy."
+        ]
+      },
+      {
+        "full_name": "Pompilio, Giulio",
+        "short_name": "Pompilio G",
+        "identifiers": [],
+        "affiliations": [
+          "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy.",
+          "Department of Biomedical, Surgical and Dental Sciences, Università degli Studi di Milano, Milan, 20122, Italy."
+        ]
+      },
+      {
+        "full_name": "Sommariva, Elena",
+        "short_name": "Sommariva E",
+        "identifiers": [],
+        "affiliations": [
+          "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy."
+        ]
+      },
+      {
+        "full_name": "Gowran, Aoife",
+        "short_name": "Gowran A",
+        "identifiers": [],
+        "affiliations": [
+          "Unit of Inherited Cardiomyopathies, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy."
+        ]
+      },
+      {
+        "full_name": "Maione, Angela Serena",
+        "short_name": "Maione AS",
+        "identifiers": [],
+        "affiliations": [
+          "iPSC Facility for Cardiac Modelling and Function, Centro Cardiologico Monzino IRCCS, Milan, 20138, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome medicine"
+    ],
+    "journal_abbrev": [
+      "Genome Med"
+    ],
+    "pub_date": "2026 Jul 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 05:28",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42947239"
+    ],
+    "review": [
+      "42947239"
+    ],
+    "pmc": [
+      "13715161"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-026-01738-3",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42947239/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-177",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

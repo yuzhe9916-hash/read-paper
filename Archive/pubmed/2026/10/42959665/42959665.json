@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "pmid": "42959665",
+    "doi": "10.1021/acsomega.6c07239",
+    "title": "Nanoimaging, Spectroscopy, and Biosensor Assays for Alternatively Spliced RNA Isoforms in Disease Diagnostics."
+  },
+  "content": {
+    "abstract": "Alternative splicing (AS) generates distinct mRNA isoforms, and frequently distinct proteins, from single genes; its dysregulation is established in cancer, neurodegeneration, and immune disease. Sequencing now nominates candidate splice events at scale, but a nominated event does not become a usable measurement until an isoform-discriminating sequence has been converted into a physical signal. Existing AS reviews concentrate on sequencing workflows, computational event calling, or disease catalogs; the assay-engineering step that follows target nomination remains comparatively underserved, and it is where most translational failures occur. This review addresses that gap. We group postsequencing detection into five classes defined by the physical origin of the signal: (i) fixed-tissue in situ localization, (ii) live-cell RNA imaging, (iii) plasmonic and spectroscopic readouts, (iv) label-free nanophotonic biosensing combined with site-specific RNA processing, and (v) protein-level proteogenomic confirmation. These classes are compared on target definition, reported analytical performance, multiplexing, matrix compatibility, perturbation risk, and clinical readiness. The reported performance spans single-copy imaging of splice variants in living cells to label-free detection at 580 fM in under 30 min without cDNA synthesis or PCR. Three conclusions follow. First, assay selection should be governed by the class of claim being made rather than by platform novelty. Second, analytical sensitivity measured on synthetic targets systematically overstates readiness in clinical matrices; therefore, matrix-matched validation is not optional. Third, cross-laboratory comparison is currently obstructed by inconsistent reporting, which we address by proposing a minimum performance-reporting set and explicit platform-selection criteria. We close with emerging directions, including CRISPR-based isoform detection, biosensor integration with nanopore sequencing, AI-assisted probe design, and digital and microfluidic formats.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kadam, Ulhas S",
+        "Zhou, Zhongwu",
+        "Irudayaraj, Joseph",
+        "Cho, Il-Hoon",
+        "Hong, Jong Chan"
+      ],
+      "short_names": [
+        "Kadam US",
+        "Zhou Z",
+        "Irudayaraj J",
+        "Cho IH",
+        "Hong JC"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8737-167X",
+        "ORCID: 0000-0002-0630-1520"
+      ],
+      "affiliations": [
+        "Plant Molecular Biology and Biotechnology Research Centre, and Division of Applied Life Science, Gyeongsang National University, Jinju-si 52828, Republic of Korea.",
+        "Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio 44106, United States. RINGGOLD: 12330",
+        "School Biological Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois 61801, United States. RINGGOLD: 8101",
+        "Department of Biomedical Laboratory Science, College of Health Science, Eulji University, Seongnam-si 13135, Republic of Korea.",
+        "Plant Molecular Biology and Biotechnology Research Centre, and Division of Applied Life Science, Gyeongsang National University, Jinju-si 52828, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kadam, Ulhas S",
+        "short_name": "Kadam US",
+        "identifiers": [
+          "0000-0001-8737-167X"
+        ],
+        "affiliations": [
+          "Plant Molecular Biology and Biotechnology Research Centre, and Division of Applied Life Science, Gyeongsang National University, Jinju-si 52828, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zhongwu",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio 44106, United States."
+        ]
+      },
+      {
+        "full_name": "Irudayaraj, Joseph",
+        "short_name": "Irudayaraj J",
+        "identifiers": [
+          "0000-0002-0630-1520"
+        ],
+        "affiliations": [
+          "School Biological Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois 61801, United States."
+        ]
+      },
+      {
+        "full_name": "Cho, Il-Hoon",
+        "short_name": "Cho IH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Laboratory Science, College of Health Science, Eulji University, Seongnam-si 13135, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Hong, Jong Chan",
+        "short_name": "Hong JC",
+        "identifiers": [],
+        "affiliations": [
+          "Plant Molecular Biology and Biotechnology Research Centre, and Division of Applied Life Science, Gyeongsang National University, Jinju-si 52828, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42959665"
+    ],
+    "review": [
+      "42959665"
+    ],
+    "pmc": [
+      "13717799"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42959665/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/acsodf/article-lookup/doi/10.1021/acsomega.6c07239",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

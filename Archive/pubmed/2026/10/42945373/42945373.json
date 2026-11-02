@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42945373",
+    "doi": "10.1371/journal.pgen.1012351",
+    "title": "CDH1 loss remodels gene expression and lineage identity in human mammary epithelial cells."
+  },
+  "content": {
+    "abstract": "Invasive lobular carcinoma (ILC) is a common subtype of breast cancer, molecularly defined by genetic loss of CDH1, and subsequent loss of cell adhesion protein E-cadherin, in ~95% of ILC. Though CDH1 loss occurs early in ILC oncogenesis, it is unclear how this facilitates transformation. We modeled early CDH1 loss using \"normal\" human mammary epithelial cells (HMEC), i.e., finite lifespan cells reflecting early hyperplasia, and targeted E-cadherin signaling using antibodies versus causing genetic CDH1 loss using siRNA or CRISPR/Cas9-knockout. Transcriptome analysis across four HMEC models showed that the mode of E-cadherin targeting is critical for the subsequent phenotype. Antibody-mediated inhibition of cell-cell contacts induced gene signatures of epithelial-mesenchymal transition (EMT), consistent with the role of E-cadherin suppression during the EMT process. Conversely, genetic CDH1 loss - as in ILC oncogenesis - repressed EMT signatures, and instead remodeled gene expression toward a luminal epithelial phenotype. RNA-seq, single cell transcriptomics, flow cytometry, microscopy, and ATAC-seq analyses support that CDH1 loss induces lineage remodeling to a luminal state, which is mirrored in transcriptomic analysis of clinical ILC precursor lesions. By isolating luminal versus basal cells prior to CDH1 knockout, we found that CDH1 loss led to remodeling of lineage identity in both populations, converging on a new lineage homeostasis with a luminal progenitor-like phenotype. Consistent with the shift to a luminal progenitor phenotype, CDH1 loss enhanced proliferative capacity over the finite lifespan of the HMECs, highlighting a feature of early CDH1 loss that may contribute to clonal advantage during tumor initiation. Moreover, CDH1 loss enhanced anoikis resistance, a defining feature of ILC cells. Our findings support that genetic loss of CDH1 in mammary epithelial cells induces transcriptional and phenotypic changes consistent with lineage identity remodeling toward a luminal progenitor-like state, which may underpin the mechanism by which early CDH1 loss mediates ILC oncogenesis.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Cadherins/genetics/metabolism",
+      "*Epithelial Cells/metabolism/pathology",
+      "Female",
+      "Epithelial-Mesenchymal Transition/genetics",
+      "*Antigens, CD/genetics/metabolism",
+      "*Mammary Glands, Human/metabolism/cytology/pathology",
+      "*Breast Neoplasms/genetics/pathology/metabolism",
+      "Cell Lineage/genetics",
+      "Gene Expression Regulation, Neoplastic",
+      "*Carcinoma, Lobular/genetics/pathology/metabolism",
+      "Cell Transformation, Neoplastic/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Musick, Maggie",
+        "Ufondu, Chinasa A",
+        "Rowland, Carmen E",
+        "Brown, Micaela E",
+        "Sottnik, Joseph L",
+        "Shackleford, Madeleine T",
+        "Nesiba, Camryn S",
+        "Danis, Etienne P",
+        "Goodspeed, Andrew E",
+        "Zera, Richard",
+        "Johnson, Arthur T",
+        "Schwertfeger, Kathryn L",
+        "Nelson, Andrew C",
+        "Ostrander, Julie H",
+        "Sikora, Matthew J"
+      ],
+      "short_names": [
+        "Musick M",
+        "Ufondu CA",
+        "Rowland CE",
+        "Brown ME",
+        "Sottnik JL",
+        "Shackleford MT",
+        "Nesiba CS",
+        "Danis EP",
+        "Goodspeed AE",
+        "Zera R",
+        "Johnson AT",
+        "Schwertfeger KL",
+        "Nelson AC",
+        "Ostrander JH",
+        "Sikora MJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3564-2527",
+        "ORCID: 0009-0007-3883-2936",
+        "ORCID: 0000-0002-0263-3608",
+        "ORCID: 0000-0002-5651-8111",
+        "ORCID: 0000-0002-4741-0010",
+        "ORCID: 0000-0002-5038-6875",
+        "ORCID: 0000-0003-2915-7442"
+      ],
+      "affiliations": [
+        "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Department of Pharmacology, Molecular Pharmacology and Therapeutics (MPaT) Program, University of Minnesota, Twin Cities, Minneapolis, Minnesota, United States of America.",
+        "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "University of Colorado Cancer Center, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Department of Biomedical Informatics, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "University of Colorado Cancer Center, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Department of Biomedical Informatics, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "Hennepin County Medical Center, Minneapolis, Minnesota, United States of America.",
+        "Hennepin County Medical Center, Minneapolis, Minnesota, United States of America.",
+        "Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, Minnesota, United States of America.",
+        "Masonic Cancer Center, University of Minnesota, Twin Cities, Minneapolis, Minnesota, United States of America.",
+        "Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, Minnesota, United States of America.",
+        "Masonic Cancer Center, University of Minnesota, Twin Cities, Minneapolis, Minnesota, United States of America.",
+        "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+        "University of Colorado Cancer Center, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Musick, Maggie",
+        "short_name": "Musick M",
+        "identifiers": [
+          "0000-0002-3564-2527"
+        ],
+        "affiliations": [
+          "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Ufondu, Chinasa A",
+        "short_name": "Ufondu CA",
+        "identifiers": [
+          "0009-0007-3883-2936"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, Molecular Pharmacology and Therapeutics (MPaT) Program, University of Minnesota, Twin Cities, Minneapolis, Minnesota, United States of America."
+        ]
+      },
+      {
+        "full_name": "Rowland, Carmen E",
+        "short_name": "Rowland CE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Brown, Micaela E",
+        "short_name": "Brown ME",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sottnik, Joseph L",
+        "short_name": "Sottnik JL",
+        "identifiers": [
+          "0000-0002-0263-3608"
+        ],
+        "affiliations": [
+          "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Shackleford, Madeleine T",
+        "short_name": "Shackleford MT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Nesiba, Camryn S",
+        "short_name": "Nesiba CS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Danis, Etienne P",
+        "short_name": "Danis EP",
+        "identifiers": [
+          "0000-0002-5651-8111"
+        ],
+        "affiliations": [
+          "University of Colorado Cancer Center, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+          "Department of Biomedical Informatics, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Goodspeed, Andrew E",
+        "short_name": "Goodspeed AE",
+        "identifiers": [],
+        "affiliations": [
+          "University of Colorado Cancer Center, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+          "Department of Biomedical Informatics, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      },
+      {
+        "full_name": "Zera, Richard",
+        "short_name": "Zera R",
+        "identifiers": [],
+        "affiliations": [
+          "Hennepin County Medical Center, Minneapolis, Minnesota, United States of America."
+        ]
+      },
+      {
+        "full_name": "Johnson, Arthur T",
+        "short_name": "Johnson AT",
+        "identifiers": [],
+        "affiliations": [
+          "Hennepin County Medical Center, Minneapolis, Minnesota, United States of America."
+        ]
+      },
+      {
+        "full_name": "Schwertfeger, Kathryn L",
+        "short_name": "Schwertfeger KL",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, Minnesota, United States of America.",
+          "Masonic Cancer Center, University of Minnesota, Twin Cities, Minneapolis, Minnesota, United States of America."
+        ]
+      },
+      {
+        "full_name": "Nelson, Andrew C",
+        "short_name": "Nelson AC",
+        "identifiers": [
+          "0000-0002-4741-0010"
+        ],
+        "affiliations": [
+          "Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, Minnesota, United States of America."
+        ]
+      },
+      {
+        "full_name": "Ostrander, Julie H",
+        "short_name": "Ostrander JH",
+        "identifiers": [
+          "0000-0002-5038-6875"
+        ],
+        "affiliations": [
+          "Masonic Cancer Center, University of Minnesota, Twin Cities, Minneapolis, Minnesota, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sikora, Matthew J",
+        "short_name": "Sikora MJ",
+        "identifiers": [
+          "0000-0003-2915-7442"
+        ],
+        "affiliations": [
+          "Department of Pathology, University of Colorado Anschutz, Aurora, Colorado, United States of America.",
+          "University of Colorado Cancer Center, University of Colorado Anschutz, Aurora, Colorado, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS genetics"
+    ],
+    "journal_abbrev": [
+      "PLoS Genet"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 17:30",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42945373"
+    ],
+    "review": [
+      "42945373"
+    ],
+    "pmc": [
+      "13722294"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pgen.1012351",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42945373/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1599",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "identity": {
+    "pmid": "42932844",
+    "doi": "10.1093/bib/bbag482",
+    "title": "scDRP: disentangled representation learning for predicting single-cell responses to perturbations and estimating individual treatment effects."
+  },
+  "content": {
+    "abstract": "Dissecting cell-state-specific changes in gene regulation induced by perturbations is crucial for understanding biological mechanisms. However, single-cell sequencing provides only unmatched snapshots of cells under different conditions. This destructive measurement process hinders the estimation of individualized treatment effects (ITEs), which are essential for pinpointing these heterogeneous mechanistic responses. We develop scDRP, a generative framework that leverages disentangled representation learning with asymptotic correctness guarantees to separate perturbation-induced and perturbation-invariant latent variables via a sparsity regularized $\\beta $-variational autoencoder. Assuming quantile-preserving effects of perturbations conditional on confounders, scDRP performs conditional optimal transport in the disentangled latent space to infer counterfactual states and estimate ITEs. Applied to simulated and real single-cell perturbation data, scDRP accurately estimates treatment effects and individual counterfactual responses, with subsequent biclustering analysis further elucidating cell-type-specific functional gene module dynamics. Specifically, it captures distinct cellular patterns under rhinovirus and cigarette-smoke extract exposures, reveals heterogeneous responses to interferon stimulation across diverse immune cell types, and identifies distinct functional module activation in chronic myeloid leukemia cells following CRISPR activation targeting different genes. scDRP also generalizes to unseen perturbation doses and combinations. Our framework provides a principled computational approach to extracting heterogeneous causal relationships from single-cell perturbation data, enabling a deeper understanding of cellular and molecular mechanisms.",
+    "keywords": [
+      "disentangled representation",
+      "functional gene module",
+      "heterogeneous cellular response",
+      "individual treatment effect",
+      "optimal transport",
+      "single-cell perturbation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Single-Cell Analysis/methods",
+      "Representation Machine Learning",
+      "Single-Cell Gene Expression Analysis",
+      "Autoencoder",
+      "Treatment Effect Heterogeneity",
+      "*Leukemia, Myelogenous, Chronic, BCR-ABL Positive/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Jianle",
+        "Stojanov, Petar",
+        "Zhang, Kun"
+      ],
+      "short_names": [
+        "Sun J",
+        "Stojanov P",
+        "Zhang K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0001-0992"
+      ],
+      "affiliations": [
+        "Carnegie Mellon University, Pittsburgh 15213, PA, United States.",
+        "Broad institute of MIT and Harvard, Cambridge 02142, MA, United States.",
+        "Carnegie Mellon University, Pittsburgh 15213, PA, United States.",
+        "Mohamed bin Zayed University of Artificial Intelligence, Masdar City Abu Dhabi, United Arab Emirates."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Jianle",
+        "short_name": "Sun J",
+        "identifiers": [
+          "0000-0002-0001-0992"
+        ],
+        "affiliations": [
+          "Carnegie Mellon University, Pittsburgh 15213, PA, United States."
+        ]
+      },
+      {
+        "full_name": "Stojanov, Petar",
+        "short_name": "Stojanov P",
+        "identifiers": [],
+        "affiliations": [
+          "Broad institute of MIT and Harvard, Cambridge 02142, MA, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Kun",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": [
+          "Carnegie Mellon University, Pittsburgh 15213, PA, United States.",
+          "Mohamed bin Zayed University of Artificial Intelligence, Masdar City Abu Dhabi, United Arab Emirates."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 17:31",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42932844"
+    ],
+    "review": [
+      "42932844"
+    ],
+    "pmc": [
+      "13704780"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/chronicmyeloidleukemia.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Chronic Myeloid Leukemia"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42932844/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbag482",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

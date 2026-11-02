@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42951937",
+    "doi": "10.1038/s41594-026-01903-7",
+    "title": "Structural mechanism of programmable gene integration by the R2 retrotransposon coupled with CRISPR-Cas9."
+  },
+  "content": {
+    "abstract": "R2 retroelements are non-long-terminal-repeat retrotransposons that primarily insert into 28S ribosomal DNA loci across diverse eukaryotes. R2 elements home to their target sites through target-primed reverse transcription (TPRT), in which the R2 protein recognizes and nicks the target DNA to prime reverse transcription using an R2-encoding RNA as the template. The avian R2 system from Taeniopygia guttata (R2Tg) can insert a payload sequence within an RNA template into 28S ribosomal DNA loci in human cells. Here, we present cryo-electron microscopy structures of the R2Tg-template RNA-target DNA complex in the TPRT initiation state, both alone and bound to a Cas9-guide RNA complex. These structures provide mechanistic insights into R2Tg-mediated TPRT in its natural context and in the programmable gene integration system STITCHR (site-specific target-primed insertion through targeted CRISPR homing of retroelements). Furthermore, we combine these structural insights with computational protein design methods to engineer an enhanced STITCHR system.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Komatsu, Daisuke",
+        "Hiraizumi, Masahiro",
+        "Fell, Christopher W",
+        "Fujimatsu, Kenta",
+        "Nagahata, Naoto",
+        "Yamada, Sota",
+        "Sapkota, Sworaj",
+        "Ramani, Harsh",
+        "Arya, Benjamin",
+        "Shibata, Mikihiro",
+        "Yamashita, Keitaro",
+        "Gootenberg, Jonathan S",
+        "Abudayyeh, Omar O",
+        "Nishimasu, Hiroshi"
+      ],
+      "short_names": [
+        "Komatsu D",
+        "Hiraizumi M",
+        "Fell CW",
+        "Fujimatsu K",
+        "Nagahata N",
+        "Yamada S",
+        "Sapkota S",
+        "Ramani H",
+        "Arya B",
+        "Shibata M",
+        "Yamashita K",
+        "Gootenberg JS",
+        "Abudayyeh OO",
+        "Nishimasu H"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6159-797X",
+        "ORCID: 0000-0002-4340-2937",
+        "ORCID: 0000-0001-7343-3702",
+        "ORCID: 0009-0005-4944-5814",
+        "ORCID: 0000-0001-5041-3979",
+        "ORCID: 0000-0002-5442-7582",
+        "ORCID: 0000-0003-2757-2175",
+        "ORCID: 0000-0002-7979-3220",
+        "ORCID: 0000-0002-2505-1416"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Institute for Frontier Science Initiative, Kanazawa University, Ishikawa, Japan.",
+        "WPI Nano Life Science Institute (WPI-NanoLSI), Kanazawa University, Ishikawa, Japan.",
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+        "Structural Biology Division, Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. jgoot@mit.edu.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA. jgoot@mit.edu.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. jgoot@mit.edu.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA. jgoot@mit.edu.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. omar@abudayyeh.science.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA. omar@abudayyeh.science.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. omar@abudayyeh.science.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA. omar@abudayyeh.science.",
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan. nisimasu@g.ecc.u-tokyo.ac.jp.",
+        "Structural Biology Division, Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan. nisimasu@g.ecc.u-tokyo.ac.jp.",
+        "Inamori Research Institute for Science, Kyoto, Japan. nisimasu@g.ecc.u-tokyo.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Komatsu, Daisuke",
+        "short_name": "Komatsu D",
+        "identifiers": [
+          "0009-0000-6159-797X"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Hiraizumi, Masahiro",
+        "short_name": "Hiraizumi M",
+        "identifiers": [
+          "0000-0002-4340-2937"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Fell, Christopher W",
+        "short_name": "Fell CW",
+        "identifiers": [
+          "0000-0001-7343-3702"
+        ],
+        "affiliations": [
+          "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+          "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+          "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Fujimatsu, Kenta",
+        "short_name": "Fujimatsu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Nagahata, Naoto",
+        "short_name": "Nagahata N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamada, Sota",
+        "short_name": "Yamada S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Sapkota, Sworaj",
+        "short_name": "Sapkota S",
+        "identifiers": [
+          "0009-0005-4944-5814"
+        ],
+        "affiliations": [
+          "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+          "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+          "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ramani, Harsh",
+        "short_name": "Ramani H",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+          "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+          "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Arya, Benjamin",
+        "short_name": "Arya B",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+          "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+          "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Shibata, Mikihiro",
+        "short_name": "Shibata M",
+        "identifiers": [
+          "0000-0001-5041-3979"
+        ],
+        "affiliations": [
+          "Institute for Frontier Science Initiative, Kanazawa University, Ishikawa, Japan.",
+          "WPI Nano Life Science Institute (WPI-NanoLSI), Kanazawa University, Ishikawa, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamashita, Keitaro",
+        "short_name": "Yamashita K",
+        "identifiers": [
+          "0000-0002-5442-7582"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+          "Structural Biology Division, Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Gootenberg, Jonathan S",
+        "short_name": "Gootenberg JS",
+        "identifiers": [
+          "0000-0003-2757-2175"
+        ],
+        "affiliations": [
+          "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. jgoot@mit.edu.",
+          "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA. jgoot@mit.edu.",
+          "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. jgoot@mit.edu.",
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA. jgoot@mit.edu."
+        ]
+      },
+      {
+        "full_name": "Abudayyeh, Omar O",
+        "short_name": "Abudayyeh OO",
+        "identifiers": [
+          "0000-0002-7979-3220"
+        ],
+        "affiliations": [
+          "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. omar@abudayyeh.science.",
+          "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA. omar@abudayyeh.science.",
+          "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. omar@abudayyeh.science.",
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA. omar@abudayyeh.science."
+        ]
+      },
+      {
+        "full_name": "Nishimasu, Hiroshi",
+        "short_name": "Nishimasu H",
+        "identifiers": [
+          "0000-0002-2505-1416"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan. nisimasu@g.ecc.u-tokyo.ac.jp.",
+          "Structural Biology Division, Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan. nisimasu@g.ecc.u-tokyo.ac.jp.",
+          "Inamori Research Institute for Science, Kyoto, Japan. nisimasu@g.ecc.u-tokyo.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature structural & molecular biology"
+    ],
+    "journal_abbrev": [
+      "Nat Struct Mol Biol"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 05:30",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42951937"
+    ],
+    "review": [
+      "42951937"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41594-026-01903-7",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42967779",
+    "doi": "10.1016/j.aca.2026.346335",
+    "title": "An extraction-free one-pot immunomagnetic-RPA-CRISPR/Cas13a platform for ultrasensitive detection of exosomal PD-L1."
+  },
+  "content": {
+    "abstract": "Programmed death-ligand 1 (PD-L1) expressed on the surface of exosomes (exo) is a promising liquid biopsy biomarker for monitoring response to immunotherapy in hepatocellular carcinoma (HCC). However, existing detection methods are limited by insufficient sensitivity and complicated operation. To address this, we developed an extraction-free immunomagnetic recombinase polymerase amplification (RPA)-based one-pot high-sensitivity CRISPR/Cas13a platform (iMRO-HCRISPR) employing DNA-conjugated antibodies. Exosomes in blood were enriched with anti-CD63/CD81/CD9 antibody-conjugated magnetic beads and recognized by PD-L1-specific DNA-antibody probes; the probe DNA then underwent RPA amplification, in vitro transcription (IVT), and Cas13a trans-cleavage, achieving multi-level signal amplification with fluorescent readout. Toehold-mediated DNA affinity pull-down effectively reduced the detection background. The platform achieved a limit of detection (LOD) as low as 10(1) particles/mL (positive detection at the single-particle level), a limit of quantification (LOQ) of 10(3) particles/mL, and a quantitative range of 10(3)-10(11) particles/mL, with the entire process completed in a single closed tube without exosome isolation. Clinical validation demonstrated that the platform effectively distinguished HCC patients from healthy controls (P < 0.0001), with an area under the receiver operating characteristic (ROC) curve (AUC) of 0.964. This study provides robust technical support for the ultrasensitive detection of exosomal PD-L1 in HCC and for dynamic monitoring of immunotherapy response.",
+    "keywords": [
+      "CRISPR/Cas13a",
+      "Exosomes",
+      "Hepatocellular carcinoma",
+      "Liquid biopsy",
+      "One-pot",
+      "PD-L1",
+      "RPA"
+    ],
+    "mesh_terms": [
+      "*B7-H1 Antigen/blood/analysis/immunology",
+      "*Exosomes/chemistry/metabolism",
+      "Humans",
+      "*CRISPR-Cas Systems/genetics",
+      "Limit of Detection",
+      "*Nucleic Acid Amplification Techniques",
+      "Carcinoma, Hepatocellular/diagnosis",
+      "Liver Neoplasms/diagnosis",
+      "*Immunomagnetic Separation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Hansen",
+        "Chen, Jiayi",
+        "Lin, Xiaocong",
+        "Zhang, Yaning",
+        "Wu, Haiqi",
+        "Zeng, Biyun",
+        "Zhang, Peijun",
+        "Luo, Qianying",
+        "Liu, Tiancai",
+        "Zeng, Tao"
+      ],
+      "short_names": [
+        "Shi H",
+        "Chen J",
+        "Lin X",
+        "Zhang Y",
+        "Wu H",
+        "Zeng B",
+        "Zhang P",
+        "Luo Q",
+        "Liu T",
+        "Zeng T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China; Key Laboratory of Antibody Engineering of Guangdong Higher Education Institutes, School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Medical Laboratory Center, Foresea Life Insurance Guangzhou General Hospital, Guangzhou, Guangdong, PR China.",
+        "Institute of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Guangdong Medical University, Zhanjiang, Guangdong, 524023, PR China.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China.",
+        "Key Laboratory of Antibody Engineering of Guangdong Higher Education Institutes, School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou, Guangdong, PR China. Electronic address: liutc@smu.edu.cn.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China. Electronic address: zengt@smu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Hansen",
+        "short_name": "Shi H",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China; Key Laboratory of Antibody Engineering of Guangdong Higher Education Institutes, School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jiayi",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Laboratory Center, Foresea Life Insurance Guangzhou General Hospital, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Lin, Xiaocong",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Guangdong Medical University, Zhanjiang, Guangdong, 524023, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yaning",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Wu, Haiqi",
+        "short_name": "Wu H",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Biyun",
+        "short_name": "Zeng B",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Peijun",
+        "short_name": "Zhang P",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Luo, Qianying",
+        "short_name": "Luo Q",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Liu, Tiancai",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Antibody Engineering of Guangdong Higher Education Institutes, School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou, Guangdong, PR China. Electronic address: liutc@smu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zeng, Tao",
+        "short_name": "Zeng T",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China. Electronic address: zengt@smu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytica chimica acta"
+    ],
+    "journal_abbrev": [
+      "Anal Chim Acta"
+    ],
+    "pub_date": "2026 Dec 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/01 23:27",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42967779"
+    ],
+    "review": [
+      "42967779"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-2670(26)01285-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD274-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1281",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

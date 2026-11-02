@@ -1,0 +1,144 @@
+{
+  "identity": {
+    "pmid": "42962510",
+    "doi": "10.1016/j.ctarc.2026.101510",
+    "title": "Integrated single-cell and bulk RNA-Seq analysis reveals a LCR-related prognostic signature for precision prognostication and therapeutic stratification in clear cell renal cell carcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUNDS: Lysine crotonylation (LCR) is an emerging post-translational modification, yet its clinical significance and therapeutic relevance in clear cell renal cell carcinoma (ccRCC) remain poorly understood. METHODS: Multi-omics data were collected from public repositories. Consensus clustering based on 18 LCR-related genes (LCRGs) was performed to define molecular subtypes. Co-expression modules identified via WGCNA were integrated into 101 machine-learning combinations to establish a LCR-related signature (LCRS). The signature was evaluated for survival prediction, immune microenvironment characteristics, and drug response across multiple cohorts, complemented by single-cell RNA sequencing. Candidate therapeutic targets and compounds were screened using DepMap CRISPR dependency data and pharmacogenomic databases (CTRP and PRISM). RESULTS: Two distinct molecular subtypes (C1 and C2) were identified, displaying significant differences in survival, immune infiltration, and signaling pathways. Integrating WGCNA hub genes with an optimal machine-learning framework yielded a robust 15-gene LCRS, which served as an independent prognostic factor in the TCGA cohorts. Single-cell analysis localized signature genes predominantly to endothelial cells. Pharmacogenomic profiling indicated higher sensitivity to sunitinib among high-risk patients, whereas low-risk patients displayed elevated sensitivity to axitinib and pazopanib. Furthermore, dependency screening prioritized CLCNKA as a key therapeutic target along with ten candidate compounds for high-risk patients. CONCLUSIONS: This study establishes a robust LCR-related prognostic signature and nominates CLCNKA as a novel therapeutic vulnerability, offering actionable insights for personalized stratification and treatment in ccRCC.",
+    "keywords": [
+      "Clear cell renal cell carcinoma",
+      "Drug sensitivity",
+      "Immune",
+      "Lysine crotonylation",
+      "Molecular subtypes",
+      "Therapeutic targets",
+      "WGCNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhong, Weimin",
+        "Rao, Rong",
+        "Zhang, Jinxiang",
+        "Cheng, Maoyang",
+        "Wu, Xiaohong"
+      ],
+      "short_names": [
+        "Zhong W",
+        "Rao R",
+        "Zhang J",
+        "Cheng M",
+        "Wu X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China.",
+        "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China.",
+        "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China.",
+        "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China. Electronic address: chengmaoyang@xmsdwyy.cn.",
+        "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China. Electronic address: wuxiaohong@xmsdwyy.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhong, Weimin",
+        "short_name": "Zhong W",
+        "identifiers": [],
+        "affiliations": [
+          "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China."
+        ]
+      },
+      {
+        "full_name": "Rao, Rong",
+        "short_name": "Rao R",
+        "identifiers": [],
+        "affiliations": [
+          "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jinxiang",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Maoyang",
+        "short_name": "Cheng M",
+        "identifiers": [],
+        "affiliations": [
+          "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China. Electronic address: chengmaoyang@xmsdwyy.cn."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaohong",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "The Fifth Hospital of Xiamen, Xiamen 361101, Fujian Province, China. Electronic address: wuxiaohong@xmsdwyy.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer treatment and research communications"
+    ],
+    "journal_abbrev": [
+      "Cancer Treat Res Commun"
+    ],
+    "pub_date": "2026 Oct 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 23:29",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42962510"
+    ],
+    "review": [
+      "42962510"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2468-2942(26)00419-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1104",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2468-2942(26)00419-3",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

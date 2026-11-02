@@ -1,0 +1,161 @@
+{
+  "identity": {
+    "pmid": "42967393",
+    "doi": "10.1016/j.talanta.2026.130823",
+    "title": "Transcription factor-regulated rolling circle transcription cascaded with Cas12a for sensitive determination of tetracycline."
+  },
+  "content": {
+    "abstract": "The ability to perform convenient and user-friendly quantitative analysis of antibiotic residues in water is critical for mitigating ecological risks, yet current methods often suffer from limited sensitivity, fixed detection ranges, or complex procedures. Here, we present a hierarchical cascade signal amplification platform integrating rolling circle transcription (RCT) with CRISPR-Cas12a for one-pot tetracycline (Tc) detection. A rationally designed circular DNA template containing a T7 promoter, a TetR-binding motif, and a crRNA-encoding sequence serves as the molecular switch. In the absence of Tc, TetR binds to the template and blocks transcription. Upon Tc addition, TetR detaches, triggering RCT to produce numerous crRNA copies, which activate Cas12a-mediated trans-cleavage of fluorescent reporters, generating amplified signals. By adjusting the TetR-to-template ratio from 10:1 to 15:1, the detection range can be tuned from 6.0-100 nM to 20-600 nM, with detection limits of 1.35 nM and 16.4 nM, respectively. The system exhibits excellent selectivity against common interferents and achieves satisfactory recoveries (90%-110%) in spiked aquaculture tailwater, with results consistent with HPLC analysis. This platform offers hierarchical signal amplification, one-pot operation, tunable dynamic range, and modular template design, providing a versatile strategy for environmental pollutant monitoring.",
+    "keywords": [
+      "Cas12a",
+      "Cascade signal amplification",
+      "One-pot detection",
+      "RCT",
+      "Tetracycline"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Siyu",
+        "Wang, Rujia",
+        "Su, Yongguang",
+        "Zhang, Junjie",
+        "Li, Zhijie",
+        "Xie, Shiyi",
+        "Du, Zhonghui",
+        "Liu, Junjun"
+      ],
+      "short_names": [
+        "Chen S",
+        "Wang R",
+        "Su Y",
+        "Zhang J",
+        "Li Z",
+        "Xie S",
+        "Du Z",
+        "Liu J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China; Shenzhen Engineering Lab of Flexible Transparent Conductive Films, School of Materials Science and Engineering, Harbin Institute of Technology, Shenzhen, Shenzhen, 518055, PR China; Jiangxi Wannianxin Microelectronics Co., Ltd., Wannian, 335500, PR China.",
+        "State Key Laboratory of Chemo/Biosensing and Chemometrics, College of Chemistry and Chemical Engineering, Hunan University, Changsha, 410082, PR China.",
+        "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China.",
+        "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China.",
+        "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China.",
+        "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China. Electronic address: Xieshiyi@szpu.edu.cn.",
+        "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China. Electronic address: duzhonghui@szpu.edu.cn.",
+        "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China. Electronic address: Liujunjun@szpu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Siyu",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China; Shenzhen Engineering Lab of Flexible Transparent Conductive Films, School of Materials Science and Engineering, Harbin Institute of Technology, Shenzhen, Shenzhen, 518055, PR China; Jiangxi Wannianxin Microelectronics Co., Ltd., Wannian, 335500, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Rujia",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemo/Biosensing and Chemometrics, College of Chemistry and Chemical Engineering, Hunan University, Changsha, 410082, PR China."
+        ]
+      },
+      {
+        "full_name": "Su, Yongguang",
+        "short_name": "Su Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Junjie",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhijie",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China."
+        ]
+      },
+      {
+        "full_name": "Xie, Shiyi",
+        "short_name": "Xie S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China. Electronic address: Xieshiyi@szpu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Du, Zhonghui",
+        "short_name": "Du Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China. Electronic address: duzhonghui@szpu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Junjun",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials and Environmental Engineering, Shenzhen Polytechnic University, Shenzhen, 518055, PR China. Electronic address: Liujunjun@szpu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Talanta"
+    ],
+    "journal_abbrev": [
+      "Talanta"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/01 23:27",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42967393"
+    ],
+    "review": [
+      "42967393"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0039-9140(26)01479-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

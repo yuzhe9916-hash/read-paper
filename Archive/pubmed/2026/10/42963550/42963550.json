@@ -1,0 +1,413 @@
+{
+  "identity": {
+    "pmid": "42963550",
+    "doi": "10.1186/s13059-026-04228-2",
+    "title": "A molecular rheostat of ABA signaling coordinates the trade-off between stem growth and drought adaptation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Plants balance vegetative growth and stress responses through antagonistic phytohormone crosstalk, notably between abscisic acid (ABA) and cytokinin. However, the genetic architecture and molecular mechanisms driving this adaptive trade-off, particularly in perennial trees, remain elusive. RESULTS: Integrating genome-environment and genome-wide association studies across 302 Populus tomentosa accessions, we identify PtoAG1 as a pleiotropic regulator of climate adaptation and stem growth. A naturally occurring frameshift mutation abolishes its repressor function, driving geographical niche differentiation by enhancing growth in humid habitats. Mechanistically, PtoAG1 acts as a molecular rheostat. Under drought, ABA-activated PtoSnRK2.2 phosphorylates PtoMYB84 to transactivate PtoAG1. PtoAG1 then represses the cytokinin-signaling regulator PtoRR12, consequently releasing its inhibition of PtoSnRK2.2. This positive feedback further suppresses vegetative growth under stress while amplifying ABA responses via PtoAREB3. Concurrently, PtoAG1 directly represses PtoAREB3 as a transcriptional brake to maintain signaling homeostasis. Evolutionary analyses reveal that PtoMYB84 and PtoAG1 constitute a tightly linked cis-regulatory module conserved across eudicots. Functional analysis on AG1 orthologs in poplar, Arabidopsis, rice, and tomato demonstrates conserved cross-species utility: loss-of-function increases vegetative biomass but overexpression significantly boosts drought resilience. CONCLUSIONS: Our study identifies a hierarchical crosstalk mechanism bridging ABA and cytokinin signaling to optimize environmental fitness. The evolutionarily conserved MYB84-AG1 cis-regulatory module establishes a versatile, translatable genetic target for precision breeding of climate-resilient and high-yielding crops.",
+    "keywords": [
+      "Populus",
+      "ABA-CTK signal antagonism",
+      "CRISPR-Cas9",
+      "HD-ZIP",
+      "Hormonal rheostat",
+      "Transgenerational inheritance"
+    ],
+    "mesh_terms": [
+      "*Abscisic Acid/metabolism",
+      "*Signal Transduction",
+      "*Populus/genetics/growth & development/metabolism/physiology",
+      "Drought Resistance",
+      "Gene Expression Regulation, Plant",
+      "Droughts",
+      "Plant Proteins/genetics/metabolism",
+      "*Plant Stems/growth & development/genetics/metabolism",
+      "*Adaptation, Physiological",
+      "Plant Growth Regulators/metabolism",
+      "Stress, Physiological"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lv, Chenfei",
+        "He, Yuling",
+        "Zhang, Donghai",
+        "Zhang, Mengjiao",
+        "Yuan, Mingjia",
+        "Zhong, Leishi",
+        "Tian, Chongde",
+        "Zhou, Jiaxuan",
+        "Huang, Rui",
+        "Jin, Zhuoying",
+        "Li, Peng",
+        "Lu, Wenjie",
+        "Xiao, Liang",
+        "Li, Jinlong",
+        "Quan, Mingyang",
+        "Li, Zhonghai",
+        "Zhao, Rui",
+        "Du, Liang",
+        "Liu, Li-Jun",
+        "Zhang, Deqiang",
+        "Du, Qingzhang"
+      ],
+      "short_names": [
+        "Lv C",
+        "He Y",
+        "Zhang D",
+        "Zhang M",
+        "Yuan M",
+        "Zhong L",
+        "Tian C",
+        "Zhou J",
+        "Huang R",
+        "Jin Z",
+        "Li P",
+        "Lu W",
+        "Xiao L",
+        "Li J",
+        "Quan M",
+        "Li Z",
+        "Zhao R",
+        "Du L",
+        "Liu LJ",
+        "Zhang D",
+        "Du Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "College of Forestry, State Forestry and Grassland Administration Key Laboratory of Silviculture in Downstream Areas of the Yellow River, Shandong Agricultural University, Tai'an 271018, Shandong, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+        "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China. QingzhangDu@bjfu.edu.cn.",
+        "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China. QingzhangDu@bjfu.edu.cn.",
+        "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China. QingzhangDu@bjfu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lv, Chenfei",
+        "short_name": "Lv C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "He, Yuling",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Donghai",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Mengjiao",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Mingjia",
+        "short_name": "Yuan M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Leishi",
+        "short_name": "Zhong L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Tian, Chongde",
+        "short_name": "Tian C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jiaxuan",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Rui",
+        "short_name": "Huang R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Jin, Zhuoying",
+        "short_name": "Jin Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Peng",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lu, Wenjie",
+        "short_name": "Lu W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Liang",
+        "short_name": "Xiao L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Jinlong",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Quan, Mingyang",
+        "short_name": "Quan M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhonghai",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Rui",
+        "short_name": "Zhao R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Du, Liang",
+        "short_name": "Du L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Li-Jun",
+        "short_name": "Liu LJ",
+        "identifiers": [],
+        "affiliations": [
+          "College of Forestry, State Forestry and Grassland Administration Key Laboratory of Silviculture in Downstream Areas of the Yellow River, Shandong Agricultural University, Tai'an 271018, Shandong, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Deqiang",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Du, Qingzhang",
+        "short_name": "Du Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China. QingzhangDu@bjfu.edu.cn.",
+          "National Engineering Research Center of Tree Breeding and Ecological Restoration, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China. QingzhangDu@bjfu.edu.cn.",
+          "Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of Education, College of Biological Sciences and Technology, Beijing Forestry University, No. 35, Qinghua East Road, Beijing, 100083, People's Republic of China. QingzhangDu@bjfu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome biology"
+    ],
+    "journal_abbrev": [
+      "Genome Biol"
+    ],
+    "pub_date": "2026 Aug 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 05:32",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42963550"
+    ],
+    "review": [
+      "42963550"
+    ],
+    "pmc": [
+      "13721217"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-026-04228-2",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42963550/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1790",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

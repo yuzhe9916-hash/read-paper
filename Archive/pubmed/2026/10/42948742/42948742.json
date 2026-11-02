@@ -1,0 +1,200 @@
+{
+  "identity": {
+    "pmid": "42948742",
+    "doi": "10.1016/j.chmed.2026.03.006",
+    "title": "Prediction of therapeutic targets and drug candidates for pancreatic ductal adenocarcinoma by network-based computational framework."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, with limited therapeutic options and an urgent need for novel treatment strategies. This study presented a network-based computational framework for in silico genome-wide therapeutic target identification and drug discovery. METHODS: A network-based computational framework was developed that integrates transcriptomic data from multiple independent PDAC cohorts to construct gene co-expression networks. Prognostic gene signatures were incorporated to identify feature modules via hypergeometric enrichment analysis. Key regulatory genes within these modules were prioritized using multi-metric centrality analysis. Functional relevance of candidate targets was assessed using single-cell ribonucleic acid (RNA) sequencing, genome-wide clustered regularly interspaced short palindromic repeats (CRISPR) dependency datasets, and clinical survival analyses. To enable therapeutic translation, this study implemented a transcriptome-guided drug discovery strategy to systematically match pancreatic ductal adenocarcinoma (PDAC)-specific gene expression signatures with compound-induced transcriptional profiles from the Library of Integrated Network-based Cellular Signatures (LINCS) database. Candidate compounds were ranked using a cross-cohort consensus scoring approach and subsequently evaluated in vitro using quantitative reverse transcription polymerase chain reaction (qRT-PCR), Western blotting, and cell viability assays. RESULTS: Comprehensive analysis of multi-cohort PDAC transcriptomic data identified 14 key genes with high network centrality, including three potential oncogenic drivers: Cytoskeleton associated protein 2 like (CKAP2L), kinesin family member 18A (KIF18A), and minichromosome maintenance 10 replication initiation factor (MCM10), which exhibited tumor-specific overexpression and poor prognostic associations. Single-cell RNA sequencing (ScRNA-seq) revealed their predominant expression in epithelial tumor cells, while CRISPR screening confirmed functional essentiality. The transcriptome-guided drug discovery approach matched these targets with LINCS perturbation profiles, identifying mitoxantrone/OTSSP167 (CKAP2L inhibitors), PF-3758309 (KIF18A inhibitors), and vorinostat (MCM10 inhibitors) as candidate therapeutics. Experimental validation using qRT-PCR, Western blotting, and cell counting kit-8 (CCK-8) assays collectively demonstrated the dose-dependent therapeutic effects of these compounds, showing significant mRNA suppression, corresponding decreases in protein levels, and potent anti-proliferative activity in PDAC cells. CONCLUSION: This study establishes a robust, network-based framework for therapeutic target discovery and transcriptome-driven drug prediction in PDAC. It identifies three novel, functionally essential oncogenic drivers and proposes clinically actionable compounds, offering a scalable approach for addressing undruggable targets in cancer therapy.",
+    "keywords": [
+      "PDAC",
+      "co-expression network",
+      "computational framework",
+      "drug discovery",
+      "therapeutic target"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lu, Jinyuan",
+        "Liang, Weishan",
+        "Liang, Yixue",
+        "Ren, Jiajia",
+        "Guo, Chengyang",
+        "Li, Xia",
+        "Pan, Jianquan",
+        "Zhang, Weidong",
+        "Tian, Saisai"
+      ],
+      "short_names": [
+        "Lu J",
+        "Liang W",
+        "Liang Y",
+        "Ren J",
+        "Guo C",
+        "Li X",
+        "Pan J",
+        "Zhang W",
+        "Tian S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China.",
+        "Key Laboratory of Molecular Pharmacology and Drug Evaluation (Yantai University), Ministry of Education, Yantai University, Yantai 264005, China.",
+        "Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
+        "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China.",
+        "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China.",
+        "School of Pharmacy, Henan University, Kaifeng 475004, China.",
+        "School of Pharmacy, Naval Medical University, Shanghai 200433, China.",
+        "School of Pharmacy, Anhui University of Chinese Medicine, Hefei 230012, China.",
+        "School of Pharmacy, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
+        "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China.",
+        "Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
+        "School of Pharmacy, Naval Medical University, Shanghai 200433, China.",
+        "State Key Laboratory for Quality Ensurance and Sustainable Use of Dao-di Herbs, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China.",
+        "Key Laboratory of Molecular Pharmacology and Drug Evaluation (Yantai University), Ministry of Education, Yantai University, Yantai 264005, China.",
+        "School of Pharmacy, Naval Medical University, Shanghai 200433, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lu, Jinyuan",
+        "short_name": "Lu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China.",
+          "Key Laboratory of Molecular Pharmacology and Drug Evaluation (Yantai University), Ministry of Education, Yantai University, Yantai 264005, China.",
+          "Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Weishan",
+        "short_name": "Liang W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Yixue",
+        "short_name": "Liang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Jiajia",
+        "short_name": "Ren J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Henan University, Kaifeng 475004, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Chengyang",
+        "short_name": "Guo C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Naval Medical University, Shanghai 200433, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xia",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Anhui University of Chinese Medicine, Hefei 230012, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Jianquan",
+        "short_name": "Pan J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Weidong",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Guangdong Pharmaceutical University, Guangzhou 510006, China.",
+          "Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
+          "School of Pharmacy, Naval Medical University, Shanghai 200433, China.",
+          "State Key Laboratory for Quality Ensurance and Sustainable Use of Dao-di Herbs, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Saisai",
+        "short_name": "Tian S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Pharmacology and Drug Evaluation (Yantai University), Ministry of Education, Yantai University, Yantai 264005, China.",
+          "School of Pharmacy, Naval Medical University, Shanghai 200433, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chinese herbal medicines"
+    ],
+    "journal_abbrev": [
+      "Chin Herb Med"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 11:36",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42948742"
+    ],
+    "review": [
+      "42948742"
+    ],
+    "pmc": [
+      "13712358"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1674-6384(26)00041-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42948742/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1210",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

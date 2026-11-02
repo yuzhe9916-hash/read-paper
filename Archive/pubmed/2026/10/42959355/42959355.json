@@ -1,0 +1,355 @@
+{
+  "identity": {
+    "pmid": "42959355",
+    "doi": "10.1016/j.omtn.2026.103123",
+    "title": "Targeted insertion of partial CFTR cDNA replicates native CFTR expression with restored channel function in CF airway epithelium."
+  },
+  "content": {
+    "abstract": "Our objective is to develop a universal gene editing therapeutic for individuals with cystic fibrosis (CF). Due to the large number of CFTR variants, we sought to develop a correction methodology utilizing targeted integration of CFTR (2-27) sequence into CFTR intron 1 (TI-1). Following electroporation of CF primary airway basal stem cells with intron 1-targeted Cas9/gRNA, we delivered CFTR (2-27) donor, flanked by a splice acceptor and polyadenylation signal, via an integrase defective lentiviral vector. Molecular characterization revealed highly efficient integration of the CFTR (2-27) sequence into the native CFTR intron 1 with most insertion events reflecting the desired homology-directed repair. Fully differentiated airway epithelium, derived from TI-1 treated basal cells without enrichment for corrected cells, exhibited functional restoration of CFTR channel activity with significant improvement of mucus hydration and transport. ATAC-seq revealed that the native CFTR chromatin architecture was unaffected by the CFTR (2-27) sequence insertion, and importantly, scRNA-seq demonstrated that the cell-type-specific expression of the introduced transgene replicated that of the endogenous CFTR. In this report, we demonstrate an almost completely mutation-agnostic therapeutic approach that is capable of functional CFTR restoration. These results may also be relevant to CFTR (2-27) integration via other editing and delivery methodologies.",
+    "keywords": [
+      "CFTR native expression",
+      "CRISPR/Cas9",
+      "MT: RNA/DNA editing",
+      "cystic fibrosis",
+      "functional restoration",
+      "integrase defective lentivirus",
+      "targeted integration"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Barilla, Cristina",
+        "Suzuki, Shingo",
+        "Park, So Hyun",
+        "Nalluri, Divyasri",
+        "Wen, Hui",
+        "Hanafy, Mohamed A",
+        "Betancourth, Daniel",
+        "Umrigar, Ayushi",
+        "Leir, Shih-Hsing",
+        "Lovrenert, Katreya",
+        "Sivachenko, Andrey",
+        "Tabak, Barbara",
+        "Liu, Zhong",
+        "Zhao, Rui",
+        "Valley, Hillary C",
+        "Rab, Andras",
+        "Sorscher, Eric J",
+        "Solomon, George M",
+        "Mense, Martin",
+        "Carulli, John P",
+        "Harris, Ann",
+        "Bao, Gang",
+        "Davis, Brian R"
+      ],
+      "short_names": [
+        "Barilla C",
+        "Suzuki S",
+        "Park SH",
+        "Nalluri D",
+        "Wen H",
+        "Hanafy MA",
+        "Betancourth D",
+        "Umrigar A",
+        "Leir SH",
+        "Lovrenert K",
+        "Sivachenko A",
+        "Tabak B",
+        "Liu Z",
+        "Zhao R",
+        "Valley HC",
+        "Rab A",
+        "Sorscher EJ",
+        "Solomon GM",
+        "Mense M",
+        "Carulli JP",
+        "Harris A",
+        "Bao G",
+        "Davis BR"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Center for Stem Cells and Regenerative Medicine, University of Texas Health Science Center at Houston, Houston, TX 77030, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Center for Stem Cells and Regenerative Medicine, University of Texas Health Science Center at Houston, Houston, TX 77030, USA.",
+        "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Department of Bioengineering, Rice University, Houston, TX 77030, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Department of Bioengineering, Rice University, Houston, TX 77030, USA.",
+        "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA.",
+        "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA.",
+        "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA.",
+        "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA.",
+        "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA.",
+        "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Department of Biochemistry and Molecular Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Department of Biochemistry and Molecular Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA.",
+        "Department of Pediatrics, School of Medicine, Emory University, Atlanta, GA 30322, USA.",
+        "Department of Pediatrics, School of Medicine, Emory University, Atlanta, GA 30322, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA.",
+        "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA.",
+        "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA.",
+        "Department of Bioengineering, Rice University, Houston, TX 77030, USA.",
+        "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+        "Center for Stem Cells and Regenerative Medicine, University of Texas Health Science Center at Houston, Houston, TX 77030, USA.",
+        "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Barillà, Cristina",
+        "short_name": "Barillà C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+          "Center for Stem Cells and Regenerative Medicine, University of Texas Health Science Center at Houston, Houston, TX 77030, USA."
+        ]
+      },
+      {
+        "full_name": "Suzuki, Shingo",
+        "short_name": "Suzuki S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+          "Center for Stem Cells and Regenerative Medicine, University of Texas Health Science Center at Houston, Houston, TX 77030, USA.",
+          "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Park, So Hyun",
+        "short_name": "Park SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, Rice University, Houston, TX 77030, USA."
+        ]
+      },
+      {
+        "full_name": "Nalluri, Divyasri",
+        "short_name": "Nalluri D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Wen, Hui",
+        "short_name": "Wen H",
+        "identifiers": [],
+        "affiliations": [
+          "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Hanafy, Mohamed A",
+        "short_name": "Hanafy MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+          "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Betancourth, Daniel",
+        "short_name": "Betancourth D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, Rice University, Houston, TX 77030, USA."
+        ]
+      },
+      {
+        "full_name": "Umrigar, Ayushi",
+        "short_name": "Umrigar A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA."
+        ]
+      },
+      {
+        "full_name": "Leir, Shih-Hsing",
+        "short_name": "Leir SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA."
+        ]
+      },
+      {
+        "full_name": "Lovrenert, Katreya",
+        "short_name": "Lovrenert K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA."
+        ]
+      },
+      {
+        "full_name": "Sivachenko, Andrey",
+        "short_name": "Sivachenko A",
+        "identifiers": [],
+        "affiliations": [
+          "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA."
+        ]
+      },
+      {
+        "full_name": "Tabak, Barbara",
+        "short_name": "Tabak B",
+        "identifiers": [],
+        "affiliations": [
+          "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhong",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+          "Department of Biochemistry and Molecular Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Rui",
+        "short_name": "Zhao R",
+        "identifiers": [],
+        "affiliations": [
+          "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+          "Department of Biochemistry and Molecular Genetics, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Valley, Hillary C",
+        "short_name": "Valley HC",
+        "identifiers": [],
+        "affiliations": [
+          "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA."
+        ]
+      },
+      {
+        "full_name": "Rab, Andras",
+        "short_name": "Rab A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, Emory University, Atlanta, GA 30322, USA."
+        ]
+      },
+      {
+        "full_name": "Sorscher, Eric J",
+        "short_name": "Sorscher EJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, School of Medicine, Emory University, Atlanta, GA 30322, USA."
+        ]
+      },
+      {
+        "full_name": "Solomon, George M",
+        "short_name": "Solomon GM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+          "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      },
+      {
+        "full_name": "Mense, Martin",
+        "short_name": "Mense M",
+        "identifiers": [],
+        "affiliations": [
+          "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA."
+        ]
+      },
+      {
+        "full_name": "Carulli, John P",
+        "short_name": "Carulli JP",
+        "identifiers": [],
+        "affiliations": [
+          "Cystic Fibrosis Foundation Therapeutics Lab, Cystic Fibrosis Foundation, Lexington, MA 02421, USA."
+        ]
+      },
+      {
+        "full_name": "Harris, Ann",
+        "short_name": "Harris A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, OH 44106, USA."
+        ]
+      },
+      {
+        "full_name": "Bao, Gang",
+        "short_name": "Bao G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, Rice University, Houston, TX 77030, USA."
+        ]
+      },
+      {
+        "full_name": "Davis, Brian R",
+        "short_name": "Davis BR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA.",
+          "Center for Stem Cells and Regenerative Medicine, University of Texas Health Science Center at Houston, Houston, TX 77030, USA.",
+          "Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35294, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy. Nucleic acids"
+    ],
+    "journal_abbrev": [
+      "Mol Ther Nucleic Acids"
+    ],
+    "pub_date": "2026 Dec 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42959355"
+    ],
+    "review": [
+      "42959355"
+    ],
+    "pmc": [
+      "13717110"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2162-2531(26)00294-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42959355/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

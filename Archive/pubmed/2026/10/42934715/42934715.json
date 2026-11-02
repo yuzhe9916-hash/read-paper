@@ -1,0 +1,183 @@
+{
+  "identity": {
+    "pmid": "42934715",
+    "doi": "10.1186/s12967-026-08388-4",
+    "title": "Microfluidic platforms for CAR-T cell engineering: a multidisciplinary review on potential next generation intracellular delivery method."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Chimeric antigen receptor T (CAR-T) cell therapies have transformed the treatment landscape for hematological malignancies, yet their large-scale manufacturing still faces significant technical, economic, and regulatory constraints. Microfluidic-mediated mechanical poration (MMP) has emerged as a promising non-viral strategy for intracellular delivery in cell engineering, offering high-throughput operation, reduced reagent consumption, and the possibility of preserving cell viability compared with conventional physical delivery methods. MAIN BODY: This review provides a structured assessment of the main MMP modalities, including constriction-based squeezing, volume exchange convective transfection (VECT), vortex shedding, spiral/viscoelastic hydroporation, and droplet mechanoporation, highlighting how device geometry, flow regime, and deformation mechanism influence delivery efficiency and cell integrity. Across the studies analyzed, reported delivery efficiencies frequently range from 60% to >95%, with cell viabilities commonly above 80-90% and processing capacities reaching from approximately 1 x 10(6) to 2.5 x 10(8) cells/min, depending on the device design, cargo, cell type, and operating conditions. Compared with viral vectors, MMP avoids complex vector production and may reduce biosafety and manufacturing burdens, while compared with electroporation, it may offer advantages in continuous-flow processing, cytotoxicity reduction, and cell recovery. CONCLUSIONS: Microfluidic-mediated mechanical poration shows strong potential as a next-generation intracellular delivery strategy for CAR-T cell manufacturing, combining efficiency, scalability, and reduced cytotoxicity. However, the current evidence remains uneven: many studies still rely on model cell lines or surrogate cargos, and direct validation in primary human T cells using CAR-encoding mRNA, DNA, or CRISPR-Cas9 components remains limited. Further optimization, regulatory alignment, and GMP-compatible integration are required to translate MMP from high-performing laboratory prototypes into reliable components of next-generation CAR-T cell manufacturing workflows.",
+    "keywords": [
+      "CAR-T cell",
+      "Fluid dynamics",
+      "Hydroporation",
+      "Microfabrication",
+      "Transfection"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Microfluidics/methods",
+      "*Receptors, Chimeric Antigen/metabolism",
+      "*Cell Engineering/methods",
+      "Animals",
+      "*T-Lymphocytes"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aparecida de Araujo Andreotti, Isabela",
+        "Griep, Gabriel",
+        "Patino Narino, Edgar Andres",
+        "Ribeiro Batista-Silva, Leonardo",
+        "Gongora-Rubio, Mario Ricardo",
+        "Bonamino, Martin Hernan",
+        "Balbino, Tiago Albertini"
+      ],
+      "short_names": [
+        "Aparecida de Araujo Andreotti I",
+        "Griep G",
+        "Patino Narino EA",
+        "Ribeiro Batista-Silva L",
+        "Gongora-Rubio MR",
+        "Bonamino MH",
+        "Balbino TA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7132-9300",
+        "ORCID: 0000-0001-8522-1889"
+      ],
+      "affiliations": [
+        "Chemistry and Molecular Physics Department, University of Sao Paulo, Sao Carlos, Brazil.",
+        "Brazilian Nanotechnology National Laboratory, Brazilian Center for Research in Energy and Materials, Campinas, Brazil.",
+        "Micromanufacturing Laboratory, Institute for Technological Research, Sao Paulo, Brazil.",
+        "Microelectronics Department, University of Sao Paulo, Sao Paulo, Brazil.",
+        "Basque Center for Applied Mathematics (BCAM), Bilbao, Spain.",
+        "Institute of Technology in Immunobiologicals (Bio-Manguinhos), Oswaldo Cruz Foundation (FIOCRUZ), Rio de Janeiro, Brazil.",
+        "Micromanufacturing Laboratory, Institute for Technological Research, Sao Paulo, Brazil.",
+        "Cell and Gene Therapy Program - Research Coordination, Brazilian National Cancer Institute (INCA), Rio de Janeiro, Brazil.",
+        "Vice-Presidency of Research and Biological Collections (VPPCB), Oswaldo Cruz Foundation (FIOCRUZ), Rio de Janeiro, Brazil.",
+        "Pasteur Fiocruz Center on Immunology and Immunotherapy, Ceara, Brazil.",
+        "Nanotechnology Engineering Department (PENt), Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE), Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil. tiagoab@pent.coppe.ufrj.br."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aparecida de Araujo Andreotti, Isabela",
+        "short_name": "Aparecida de Araujo Andreotti I",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry and Molecular Physics Department, University of São Paulo, São Carlos, Brazil.",
+          "Brazilian Nanotechnology National Laboratory, Brazilian Center for Research in Energy and Materials, Campinas, Brazil.",
+          "Micromanufacturing Laboratory, Institute for Technological Research, São Paulo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Griep, Gabriel",
+        "short_name": "Griep G",
+        "identifiers": [],
+        "affiliations": [
+          "Microelectronics Department, University of São Paulo, São Paulo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Patiño Nariño, Edgar Andrés",
+        "short_name": "Patiño Nariño EA",
+        "identifiers": [
+          "0000-0002-7132-9300"
+        ],
+        "affiliations": [
+          "Basque Center for Applied Mathematics (BCAM), Bilbao, Spain."
+        ]
+      },
+      {
+        "full_name": "Ribeiro Batista-Silva, Leonardo",
+        "short_name": "Ribeiro Batista-Silva L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Technology in Immunobiologicals (Bio-Manguinhos), Oswaldo Cruz Foundation (FIOCRUZ), Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Góngora-Rubio, Mario Ricardo",
+        "short_name": "Góngora-Rubio MR",
+        "identifiers": [],
+        "affiliations": [
+          "Micromanufacturing Laboratory, Institute for Technological Research, São Paulo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Bonamino, Martín Hernán",
+        "short_name": "Bonamino MH",
+        "identifiers": [],
+        "affiliations": [
+          "Cell and Gene Therapy Program - Research Coordination, Brazilian National Cancer Institute (INCA), Rio de Janeiro, Brazil.",
+          "Vice-Presidency of Research and Biological Collections (VPPCB), Oswaldo Cruz Foundation (FIOCRUZ), Rio de Janeiro, Brazil.",
+          "Pasteur Fiocruz Center on Immunology and Immunotherapy, Ceará, Brazil."
+        ]
+      },
+      {
+        "full_name": "Balbino, Tiago Albertini",
+        "short_name": "Balbino TA",
+        "identifiers": [
+          "0000-0001-8522-1889"
+        ],
+        "affiliations": [
+          "Nanotechnology Engineering Department (PENt), Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE), Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil. tiagoab@pent.coppe.ufrj.br."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of translational medicine"
+    ],
+    "journal_abbrev": [
+      "J Transl Med"
+    ],
+    "pub_date": "2026 Jul 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 05:29",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42934715"
+    ],
+    "review": [
+      "42934715"
+    ],
+    "pmc": [
+      "13711778"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-026-08388-4",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42934715/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

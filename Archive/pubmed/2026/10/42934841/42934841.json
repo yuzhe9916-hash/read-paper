@@ -1,0 +1,382 @@
+{
+  "identity": {
+    "pmid": "42934841",
+    "doi": "10.1093/cvr/cvag236",
+    "title": "Identification of STYXL1 as novel susceptibility gene for anthracycline-induced cardiotoxicity in breast cancer patients."
+  },
+  "content": {
+    "abstract": "",
+    "keywords": [
+      "Anthracyclines",
+      "Breast Cancer",
+      "CRISPR",
+      "Cardiotoxicity",
+      "Nuclear Mitochondrial Genes",
+      "iPSC"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Velasco-Ruiz, Alejandro",
+        "Nunez-Torres, Rocio",
+        "Pita, Guillermo",
+        "Torres-Ruiz, Raul",
+        "Diaz-Talavera, Alberto",
+        "Tejera-Perez, Hugo",
+        "Wildiers, Hans",
+        "Lambrechts, Diether",
+        "Hatse, Sigrid",
+        "Delombaerde, Danielle",
+        "Van Brussel, Thomas",
+        "Alonso, M Rosario",
+        "Alvarez, Nuria",
+        "Herraez, Belen",
+        "Alonso-Gordoa, Teresa",
+        "Talavera-Calle, Pedro",
+        "Serrano-Antolin, Jose Maria",
+        "Campos-Olivas, Ramon",
+        "Robledo, Mercedes",
+        "Vulsteke, Christof",
+        "Rodriguez-Perales, Sandra",
+        "Zamora, Pilar",
+        "Lopez-Fernandez, Teresa",
+        "Gonzalez-Neira, Anna"
+      ],
+      "short_names": [
+        "Velasco-Ruiz A",
+        "Nunez-Torres R",
+        "Pita G",
+        "Torres-Ruiz R",
+        "Diaz-Talavera A",
+        "Tejera-Perez H",
+        "Wildiers H",
+        "Lambrechts D",
+        "Hatse S",
+        "Delombaerde D",
+        "Van Brussel T",
+        "Alonso MR",
+        "Alvarez N",
+        "Herraez B",
+        "Alonso-Gordoa T",
+        "Talavera-Calle P",
+        "Serrano-Antolin JM",
+        "Campos-Olivas R",
+        "Robledo M",
+        "Vulsteke C",
+        "Rodriguez-Perales S",
+        "Zamora P",
+        "Lopez-Fernandez T",
+        "Gonzalez-Neira A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6037-6251",
+        "ORCID: 0000-0003-4279-338X",
+        "ORCID: 0000-0001-8990-7837",
+        "ORCID: 0000-0002-3429-302X",
+        "ORCID: 0000-0002-6764-2628",
+        "ORCID: 0000-0002-1706-8381",
+        "ORCID: 0000-0002-8966-7236",
+        "ORCID: 0000-0001-6256-5902",
+        "ORCID: 0000-0002-5421-2020"
+      ],
+      "affiliations": [
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Molecular Cytogenetics & Genome Editing Unit, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Advanced Therapies Unit, Hematopoietic Innovative Therapies Division, Centro de Investigacion Energeticas Medioambientales y Tecnologicas (CIEMAT), Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, Spain.",
+        "Hereditary Endocrine Cancer Group, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Instituto de Salud Carlos III (ISCIII), Madrid, Spain.",
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Department of General Medical Oncology, University Hospital of Leuven, Leuven, Belgium.",
+        "Multidisciplinary Breast Centre, University Hospital of Leuven, Leuven, Belgium.",
+        "Laboratory of Experimental Oncology (LEO), Department of Oncology, Katholieke Universiteit (KU) Leuven, Leuven, Belgium.",
+        "Laboratory of Translational Genetics, VIB Center for Cancer Biology, Department of Human Genetics, VIB and Katholieke Universiteit (KU) Leuven, Leuven, Belgium.",
+        "Multidisciplinary Breast Centre, University Hospital of Leuven, Leuven, Belgium.",
+        "Laboratory of Experimental Oncology (LEO), Department of Oncology, Katholieke Universiteit (KU) Leuven, Leuven, Belgium.",
+        "Integrated Cancer Center Ghent, Department of Medical Oncology, AZ Maria Middelares, Gent, Belgium.",
+        "Center for Oncological Research (CORE), Integrated Personalized and Precision Oncology Network (IPPON), University of Antwerp, Antwerp, Belgium.",
+        "Laboratory of Translational Genetics, VIB Center for Cancer Biology, Department of Human Genetics, VIB and Katholieke Universiteit (KU) Leuven, Leuven, Belgium.",
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Department of Medical Oncology, University Hospital Ramon y Cajal, Madrid, Spain.",
+        "Department of Cardiology, University Hospital Fuenlabrada, Madrid, Spain.",
+        "Department of Cardiology, University Hospital Fuenlabrada, Madrid, Spain.",
+        "Spectroscopy and Nuclear Magnetic Resonance Unit, Structural Biology Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Hereditary Endocrine Cancer Group, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Centro de Investigacion Biomedica en Red de Enfermedades Raras (CIBERER), Instituto de Salud Carlos III (ISCIII), Madrid, Spain.",
+        "Integrated Cancer Center Ghent, Department of Medical Oncology, AZ Maria Middelares, Gent, Belgium.",
+        "Center for Oncological Research (CORE), Integrated Personalized and Precision Oncology Network (IPPON), University of Antwerp, Antwerp, Belgium.",
+        "Molecular Cytogenetics & Genome Editing Unit, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Department of Medical Oncology, University Hospital La Paz, Madrid, Spain.",
+        "Department of Cardiology, University Hospital La Paz, IdiPAZ Research Institute, Madrid, Spain.",
+        "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Velasco-Ruiz, Alejandro",
+        "short_name": "Velasco-Ruiz A",
+        "identifiers": [
+          "0000-0001-6037-6251"
+        ],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Núñez-Torres, Rocío",
+        "short_name": "Núñez-Torres R",
+        "identifiers": [],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Pita, Guillermo",
+        "short_name": "Pita G",
+        "identifiers": [],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Torres-Ruiz, Raul",
+        "short_name": "Torres-Ruiz R",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cytogenetics & Genome Editing Unit, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+          "Advanced Therapies Unit, Hematopoietic Innovative Therapies Division, Centro de Investigación Energeticas Medioambientales y Tecnologicas (CIEMAT), Instituto de Investigacion Sanitaria Fundacion Jimenez Diaz (IIS-FJD, UAM), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Díaz-Talavera, Alberto",
+        "short_name": "Díaz-Talavera A",
+        "identifiers": [
+          "0000-0003-4279-338X"
+        ],
+        "affiliations": [
+          "Hereditary Endocrine Cancer Group, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Instituto de Salud Carlos III (ISCIII), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Tejera-Perez, Hugo",
+        "short_name": "Tejera-Perez H",
+        "identifiers": [],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Wildiers, Hans",
+        "short_name": "Wildiers H",
+        "identifiers": [
+          "0000-0001-8990-7837"
+        ],
+        "affiliations": [
+          "Department of General Medical Oncology, University Hospital of Leuven, Leuven, Belgium.",
+          "Multidisciplinary Breast Centre, University Hospital of Leuven, Leuven, Belgium.",
+          "Laboratory of Experimental Oncology (LEO), Department of Oncology, Katholieke Universiteit (KU) Leuven, Leuven, Belgium."
+        ]
+      },
+      {
+        "full_name": "Lambrechts, Diether",
+        "short_name": "Lambrechts D",
+        "identifiers": [
+          "0000-0002-3429-302X"
+        ],
+        "affiliations": [
+          "Laboratory of Translational Genetics, VIB Center for Cancer Biology, Department of Human Genetics, VIB and Katholieke Universiteit (KU) Leuven, Leuven, Belgium."
+        ]
+      },
+      {
+        "full_name": "Hatse, Sigrid",
+        "short_name": "Hatse S",
+        "identifiers": [
+          "0000-0002-6764-2628"
+        ],
+        "affiliations": [
+          "Multidisciplinary Breast Centre, University Hospital of Leuven, Leuven, Belgium.",
+          "Laboratory of Experimental Oncology (LEO), Department of Oncology, Katholieke Universiteit (KU) Leuven, Leuven, Belgium."
+        ]
+      },
+      {
+        "full_name": "Delombaerde, Danielle",
+        "short_name": "Delombaerde D",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated Cancer Center Ghent, Department of Medical Oncology, AZ Maria Middelares, Gent, Belgium.",
+          "Center for Oncological Research (CORE), Integrated Personalized and Precision Oncology Network (IPPON), University of Antwerp, Antwerp, Belgium."
+        ]
+      },
+      {
+        "full_name": "Van Brussel, Thomas",
+        "short_name": "Van Brussel T",
+        "identifiers": [
+          "0000-0002-1706-8381"
+        ],
+        "affiliations": [
+          "Laboratory of Translational Genetics, VIB Center for Cancer Biology, Department of Human Genetics, VIB and Katholieke Universiteit (KU) Leuven, Leuven, Belgium."
+        ]
+      },
+      {
+        "full_name": "Alonso, M Rosario",
+        "short_name": "Alonso MR",
+        "identifiers": [],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Álvarez, Nuria",
+        "short_name": "Álvarez N",
+        "identifiers": [],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Herráez, Belén",
+        "short_name": "Herráez B",
+        "identifiers": [],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Alonso-Gordoa, Teresa",
+        "short_name": "Alonso-Gordoa T",
+        "identifiers": [
+          "0000-0002-8966-7236"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, University Hospital Ramón y Cajal, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Talavera-Calle, Pedro",
+        "short_name": "Talavera-Calle P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, University Hospital Fuenlabrada, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Serrano-Antolín, José María",
+        "short_name": "Serrano-Antolín JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, University Hospital Fuenlabrada, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Campos-Olivas, Ramón",
+        "short_name": "Campos-Olivas R",
+        "identifiers": [],
+        "affiliations": [
+          "Spectroscopy and Nuclear Magnetic Resonance Unit, Structural Biology Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Robledo, Mercedes",
+        "short_name": "Robledo M",
+        "identifiers": [
+          "0000-0001-6256-5902"
+        ],
+        "affiliations": [
+          "Hereditary Endocrine Cancer Group, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+          "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Instituto de Salud Carlos III (ISCIII), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Vulsteke, Christof",
+        "short_name": "Vulsteke C",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated Cancer Center Ghent, Department of Medical Oncology, AZ Maria Middelares, Gent, Belgium.",
+          "Center for Oncological Research (CORE), Integrated Personalized and Precision Oncology Network (IPPON), University of Antwerp, Antwerp, Belgium."
+        ]
+      },
+      {
+        "full_name": "Rodríguez-Perales, Sandra",
+        "short_name": "Rodríguez-Perales S",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cytogenetics & Genome Editing Unit, Cancer Genomics Program, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Zamora, Pilar",
+        "short_name": "Zamora P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, University Hospital La Paz, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "López-Fernández, Teresa",
+        "short_name": "López-Fernández T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, University Hospital La Paz, IdiPAZ Research Institute, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Gonzalez-Neira, Anna",
+        "short_name": "Gonzalez-Neira A",
+        "identifiers": [
+          "0000-0002-5421-2020"
+        ],
+        "affiliations": [
+          "Human Genotyping Unit, CeGen (Spanish National Genotyping Centre), Cancer Genomics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cardiovascular research"
+    ],
+    "journal_abbrev": [
+      "Cardiovasc Res"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 05:29",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42934841"
+    ],
+    "review": [
+      "42934841"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/cardiovascres/article-lookup/doi/10.1093/cvr/cvag236",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

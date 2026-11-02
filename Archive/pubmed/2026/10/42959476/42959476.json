@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42959476",
+    "doi": "10.1016/j.omtn.2026.103126",
+    "title": "LNP-mediated CRISPR gene editing of human vascular endothelial cells in 2D and 3D microfluidic cell culture systems."
+  },
+  "content": {
+    "abstract": "Efficient and cell-type-specific delivery remains a major barrier to CRISPR-based genome editing in vascular endothelial cells. Here, we systematically evaluate lipid nanoparticle (LNP)-mediated mRNA and CRISPR delivery in human umbilical vein endothelial cells (HUVECs). While a conventional SM-102-based LNP formulation enables highly efficient mRNA delivery to both HEK293T cells and HUVECs, CRISPR-SpCas9 gene editing is observed exclusively in HEK293T cells, revealing strong cell-dependent limitations. We identify reduced SpCas9 mRNA translation as a key bottleneck in endothelial cells and demonstrate that rational modification of LNP lipid composition dramatically enhances SpCas9 protein expression and restores robust genome editing in HUVECs. Using the optimized LNP formulation, we achieve efficient editing of VEGFA and HIF1A in both 2D cultures and physiologically relevant 3D microfluidic endothelial systems mimicking flow conditions in vivo. Together, our results establish lipid composition as a critical determinant of endothelial CRISPR editing efficiency and provide a scalable, non-viral strategy for genome engineering in the vascular endothelium.",
+    "keywords": [
+      "CRISPR",
+      "Cas9",
+      "LNP",
+      "MT: delivery strategies",
+      "endothelial cells",
+      "endothelium",
+      "genome editing",
+      "lipid nanoparticles",
+      "microfluidics",
+      "microvasculature on a chip"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Olsen, Amalie Lykke",
+        "Brandt, Camilla Blunk Vorso",
+        "Larsen, Rasmus Karred",
+        "Fonager, Sofie Vestergaard",
+        "Zubia-Aranburu, Judith",
+        "Hasko, Janos",
+        "Helmig, Rikke Bek",
+        "Degn, Soren Egedal",
+        "Dong, Mingdong",
+        "Jessen, Niels",
+        "Etzerodt, Anders",
+        "Rieben, Robert",
+        "Lin, Lin",
+        "Luo, Yonglun"
+      ],
+      "short_names": [
+        "Olsen AL",
+        "Brandt CBV",
+        "Larsen RK",
+        "Fonager SV",
+        "Zubia-Aranburu J",
+        "Hasko J",
+        "Helmig RB",
+        "Degn SE",
+        "Dong M",
+        "Jessen N",
+        "Etzerodt A",
+        "Rieben R",
+        "Lin L",
+        "Luo Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Interdisciplinary Nanoscience Center (iNANO), Aarhus University, 8000 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Department of Obstetrics and Gynecology, Aarhus University Hospital, 8200 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Interdisciplinary Nanoscience Center (iNANO), Aarhus University, 8000 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Department for Biomedical Research, University of Bern, 3008 Bern, Switzerland.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+        "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Olsen, Amalie Lykke",
+        "short_name": "Olsen AL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Brandt, Camilla Blunk Vorsø",
+        "short_name": "Brandt CBV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+          "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Larsen, Rasmus Karred",
+        "short_name": "Larsen RK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+          "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Fonager, Sofie Vestergaard",
+        "short_name": "Fonager SV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Zubia-Aranburu, Judith",
+        "short_name": "Zubia-Aranburu J",
+        "identifiers": [],
+        "affiliations": [
+          "Interdisciplinary Nanoscience Center (iNANO), Aarhus University, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Haskó, János",
+        "short_name": "Haskó J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Helmig, Rikke Bek",
+        "short_name": "Helmig RB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Aarhus University Hospital, 8200 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Degn, Søren Egedal",
+        "short_name": "Degn SE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Dong, Mingdong",
+        "short_name": "Dong M",
+        "identifiers": [],
+        "affiliations": [
+          "Interdisciplinary Nanoscience Center (iNANO), Aarhus University, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Jessen, Niels",
+        "short_name": "Jessen N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+          "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Etzerodt, Anders",
+        "short_name": "Etzerodt A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Rieben, Robert",
+        "short_name": "Rieben R",
+        "identifiers": [],
+        "affiliations": [
+          "Department for Biomedical Research, University of Bern, 3008 Bern, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Lin, Lin",
+        "short_name": "Lin L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+          "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Luo, Yonglun",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.",
+          "Steno Diabetes Center Aarhus, Aarhus University Hospital, 8200 Aarhus, Denmark."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy. Nucleic acids"
+    ],
+    "journal_abbrev": [
+      "Mol Ther Nucleic Acids"
+    ],
+    "pub_date": "2026 Dec 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42959476"
+    ],
+    "review": [
+      "42959476"
+    ],
+    "pmc": [
+      "13717028"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2162-2531(26)00297-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42959476/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

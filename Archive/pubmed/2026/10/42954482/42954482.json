@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42954482",
+    "doi": "10.1128/mbio.02276-26",
+    "title": "Targeted CPSF6 recoding reveals global fitness advantages of SPAD integration targeting and cell type-specific roles for capsid binding in HIV-1 DNA synthesis and nuclear import."
+  },
+  "content": {
+    "abstract": "As part of the CFIm complex, CPSF6 regulates cellular gene expression via alternative polyadenylation. CPSF6 binds primate lentiviral capsids and has been implicated in HIV-1 reverse transcription, nuclear import, and integration targeting. However, interpretations of the role(s) of CPSF6 during HIV-1 replication are complicated by the transcriptional changes that occur when the protein is depleted from cells. To disentangle the role of CPSF6 in HIV-1 replication from alternative polyadenylation, we selectively recoded its capsid-binding phenylalanine-glycine motif to alanine-alanine in CD4-positive Jurkat T cells, CEM12D7 T cells, and THP-1 myeloid/macrophage cells using CRISPR/Cas9-based homology-directed repair. While large variations in single-round HIV-1 infection were observed among isolated T cell clones, en masse comparisons of recoded T cells to cloned control T cells failed to reveal any significant differences in infection levels. Consistent with an overall fitness advantage provided by DNA integration in speckle-associated domains, which was ablated by recoding across cell types, HIV-1 replicated more robustly in control T cell populations. Single-round infection, in addition to spreading replication, was reduced in recoded myeloid/macrophage cells, which correlated with reductions in reverse transcription, and more robust blocks to HIV-1 nuclear import. Recoded monocytes/macrophages, however, did not reveal any evidence for enhanced type I interferon production or sensing of HIV-1 nucleic acids. Altogether, we define endogenously recoded cell lines to uncouple capsid binding from CPSF6's role in RNA metabolism, which highlights a global fitness advantage of targeted DNA integration and cell type-specific roles for CPSF6 in HIV-1 reverse transcription, nuclear import, and virus replication proficiency.IMPORTANCEHIV-1 usurps cellular factors to effectively replicate and avoid innate immune sensing. HIV-1 capsid binds CPSF6, but the consequences of this virus-host interaction on HIV-1 biology are necessarily complicated by the cellular role of CPSF6 in pre-RNA processing. By endogenously recoding CPSF6 to selectively disrupt capsid binding while preserving its RNA-processing activity, we demonstrate in two different T cell lines that CPSF6-mediated targeting of HIV-1 DNA integration into nuclear speckle-associated domains correlates with optimal viral replication. Recoded THP-1 myeloid/macrophage cells revealed additional single-round and multi-round infection defects, which correlated with reductions in reverse transcription and HIV-1 nuclear import. These defects, however, did not correlate with enhanced type I interferon production or detection of HIV-1 nucleic acids by known innate immune sensors. Our work clarifies diverse roles for the capsid-CPSF6 interaction in HIV-1 infection of T lymphocytic versus myeloid cell lines and provides novel cell reagents for future research studies.",
+    "keywords": [
+      "CPSF6",
+      "HIV-1",
+      "capsid",
+      "innate immunity",
+      "integration",
+      "nuclear import",
+      "replication"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jang, Sooin",
+        "Radhakrishnan, Rajalingam",
+        "Greenwood, Juliet",
+        "Singh, Parmit K",
+        "Bedwell, Gregory J",
+        "Robles-Sikisaka, Refugio",
+        "Routh, Andrew L",
+        "Engelman, Alan N"
+      ],
+      "short_names": [
+        "Jang S",
+        "Radhakrishnan R",
+        "Greenwood J",
+        "Singh PK",
+        "Bedwell GJ",
+        "Robles-Sikisaka R",
+        "Routh AL",
+        "Engelman AN"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2874-5990",
+        "ORCID: 0000-0002-9709-2591"
+      ],
+      "affiliations": [
+        "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA. RINGGOLD: 1855. ROR: https://ror.org/02jzgtq86",
+        "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA. RINGGOLD: 1812. ROR: https://ror.org/03vek6s52",
+        "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA. RINGGOLD: 1855. ROR: https://ror.org/02jzgtq86",
+        "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA. RINGGOLD: 1855. ROR: https://ror.org/02jzgtq86",
+        "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA. RINGGOLD: 1855. ROR: https://ror.org/02jzgtq86",
+        "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA. RINGGOLD: 1812. ROR: https://ror.org/03vek6s52",
+        "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA. RINGGOLD: 1855. ROR: https://ror.org/02jzgtq86",
+        "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA. RINGGOLD: 1812. ROR: https://ror.org/03vek6s52",
+        "Department of Immunology and Microbiology, Scripps Research, La Jolla, California, USA. RINGGOLD: 4356",
+        "Department of Immunology and Microbiology, Scripps Research, La Jolla, California, USA. RINGGOLD: 4356",
+        "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA. RINGGOLD: 1855. ROR: https://ror.org/02jzgtq86",
+        "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA. RINGGOLD: 1812. ROR: https://ror.org/03vek6s52"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jang, Sooin",
+        "short_name": "Jang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA.",
+          "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Radhakrishnan, Rajalingam",
+        "short_name": "Radhakrishnan R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Greenwood, Juliet",
+        "short_name": "Greenwood J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Singh, Parmit K",
+        "short_name": "Singh PK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA.",
+          "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Bedwell, Gregory J",
+        "short_name": "Bedwell GJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA.",
+          "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Robles-Sikisaka, Refugio",
+        "short_name": "Robles-Sikisaka R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology and Microbiology, Scripps Research, La Jolla, California, USA."
+        ]
+      },
+      {
+        "full_name": "Routh, Andrew L",
+        "short_name": "Routh AL",
+        "identifiers": [
+          "0000-0002-2874-5990"
+        ],
+        "affiliations": [
+          "Department of Immunology and Microbiology, Scripps Research, La Jolla, California, USA."
+        ]
+      },
+      {
+        "full_name": "Engelman, Alan N",
+        "short_name": "Engelman AN",
+        "identifiers": [
+          "0000-0002-9709-2591"
+        ],
+        "affiliations": [
+          "Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA.",
+          "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mBio"
+    ],
+    "journal_abbrev": [
+      "mBio"
+    ],
+    "pub_date": "2026 Oct 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 15:20",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42954482"
+    ],
+    "review": [
+      "42954482"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/mbio.02276-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

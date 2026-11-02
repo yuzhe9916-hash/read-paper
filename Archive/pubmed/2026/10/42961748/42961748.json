@@ -1,0 +1,96 @@
+{
+  "identity": {
+    "pmid": "42961748",
+    "doi": "10.1007/978-1-0716-5583-2_14",
+    "title": "Array Assembler: A Constraint-Aware Pipeline for Cas12 and Cas13 crRNA Array Design and Oligonucleotide Decomposition."
+  },
+  "content": {
+    "abstract": "Array-based CRISPR systems such as Cas12 and Cas13 enable compact multiplexed perturbations by encoding multiple spacers within a single precursor transcript that is autonomously processed into individual targeting crRNAs. In practice, however, crRNA arrays are difficult to synthesize directly because conserved direct repeats introduce extensive sequence repetitiveness, and reliable cloning requires that ligation junctions avoid repeated sequences while remaining compatible with a chosen plasmid context. Here, we describe Array Assembler, an interactive, browser-based computational workflow that formalizes crRNA array design as a constrained sequence construction and oligonucleotide decomposition problem. Given a CRISPR variant, an ordered list of spacer sequences, and basic cloning parameters (including direct-repeat context and overhang sequences), the pipeline constructs the full in silico array insert and algorithmically decomposes it into paired forward and reverse oligonucleotides that satisfy junction placement rules and practical synthesis limits. Output oligonucleotides are exported as a vendor-ready spreadsheet to enable rapid ordering and downstream assembly. The chapter provides step-by-step instructions for running the tool, outlines the underlying segmentation logic for developers, and includes a worked example illustrating design-to-assembly for a multiplexed Cas12 crRNA array.",
+    "keywords": [
+      "CRISPR",
+      "Cas12a",
+      "Cas13",
+      "Constraint-based design",
+      "Construct design",
+      "Multiplexed perturbation",
+      "Oligonucleotide decomposition",
+      "crRNA array"
+    ],
+    "mesh_terms": [
+      "*Oligonucleotides/genetics",
+      "*CRISPR-Cas Systems/genetics",
+      "*Software",
+      "*CRISPR-Associated Proteins/genetics",
+      "Algorithms",
+      "*Computational Biology/methods",
+      "*Oligonucleotide Array Sequence Analysis/methods",
+      "Clustered Regularly Interspaced Short Palindromic Repeats"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bryson, James William"
+      ],
+      "short_names": [
+        "Bryson JW"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Section for Computational and RNA Biology, Department of Biology, University of Copenhagen,, Copenhagen, Denmark. james.w.bryson@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bryson, James William",
+        "short_name": "Bryson JW",
+        "identifiers": [],
+        "affiliations": [
+          "Section for Computational and RNA Biology, Department of Biology, University of Copenhagen,, Copenhagen, Denmark. james.w.bryson@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 17:43",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42961748"
+    ],
+    "review": [
+      "42961748"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5583-2_14",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

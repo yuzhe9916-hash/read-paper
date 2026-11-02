@@ -1,0 +1,173 @@
+{
+  "identity": {
+    "pmid": "42957717",
+    "doi": "10.1038/s41467-026-78205-5",
+    "title": "Repurposing Cas12a2-mediated abortive infection for efficient and low-toxicity microbial genome editing."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas systems have revolutionized microbial genome engineering, yet counter-selection strategies typically rely on targeted DNA cleavage, where the severe cytotoxicity of double-strand breaks restricts transformation efficiency and clonal recovery. Here, we present an innovative strategy, SuCas12a2-Universal Recombination Editing (SURE), that circumvents these limitations by repurposing the RNA-targeting CRISPR-Cas12a2 system. Instead of directly attacking the genome, SURE utilizes Cas12a2's RNA-triggered collateral activity to induce an abortive infection-like state, providing a potent yet recoverable selective pressure. This strategy increases transformation efficiency by up to 1,000-fold compared to Cas9- or Cas12-based systems while achieving over 90% editing efficiency for gene knockout, insertion, and replacement in Escherichia coli MG1655. We validate the SURE platform's broad utility by extending it to diverse species, including Bacillus subtilis BSZR and Shewanella oneidensis MR-1. Mechanistically, we identify collateral double-stranded DNA degradation as the decisive factor for driving efficient selection. Finally, we apply this system to engineer E. coli MG1655 for efficient assimilation of the plastic monomer ethylene glycol, demonstrating its practical utility. Collectively, this work establishes a universal and robust RNA-guided editing framework that resolves the toxicity-efficiency trade-off inherent to the conventional DNA-targeting methods.",
+    "keywords": [],
+    "mesh_terms": [
+      "Escherichia coli/genetics/metabolism",
+      "*Gene Editing/methods",
+      "*CRISPR-Cas Systems/genetics",
+      "Bacillus subtilis/genetics",
+      "Shewanella/genetics",
+      "*Genome, Bacterial",
+      "*CRISPR-Associated Proteins/genetics/metabolism",
+      "*Bacterial Proteins/genetics/metabolism",
+      "RNA, Guide, CRISPR-Cas Systems/genetics",
+      "*Endodeoxyribonucleases/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Hao-Da",
+        "Hu, Lan",
+        "Han, Jing",
+        "Cheng, Zhou-Hua",
+        "Yu, Han-Qing",
+        "Liu, Dong-Feng"
+      ],
+      "short_names": [
+        "Wang HD",
+        "Hu L",
+        "Han J",
+        "Cheng ZH",
+        "Yu HQ",
+        "Liu DF"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6333-3257",
+        "ORCID: 0009-0000-0976-307X",
+        "ORCID: 0000-0001-7122-2661",
+        "ORCID: 0000-0001-5247-6244",
+        "ORCID: 0000-0002-5954-6476"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China.",
+        "School of Life Sciences, University of Science and Technology of China, Hefei, China.",
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China.",
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China. zhc121@ustc.edu.cn.",
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China.",
+        "School of Life Sciences, University of Science and Technology of China, Hefei, China.",
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China. dfl@ustc.edu.cn.",
+        "School of Life Sciences, University of Science and Technology of China, Hefei, China. dfl@ustc.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Hao-Da",
+        "short_name": "Wang HD",
+        "identifiers": [
+          "0009-0000-6333-3257"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Lan",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Han, Jing",
+        "short_name": "Han J",
+        "identifiers": [
+          "0009-0000-0976-307X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Zhou-Hua",
+        "short_name": "Cheng ZH",
+        "identifiers": [
+          "0000-0001-7122-2661"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China. zhc121@ustc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yu, Han-Qing",
+        "short_name": "Yu HQ",
+        "identifiers": [
+          "0000-0001-5247-6244"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China.",
+          "School of Life Sciences, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dong-Feng",
+        "short_name": "Liu DF",
+        "identifiers": [
+          "0000-0002-5954-6476"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, China. dfl@ustc.edu.cn.",
+          "School of Life Sciences, University of Science and Technology of China, Hefei, China. dfl@ustc.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 05:30",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42957717"
+    ],
+    "review": [
+      "42957717"
+    ],
+    "pmc": [
+      "13720045"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78205-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42957717/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

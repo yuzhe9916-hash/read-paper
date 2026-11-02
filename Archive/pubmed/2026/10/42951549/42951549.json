@@ -1,0 +1,181 @@
+{
+  "identity": {
+    "pmid": "42951549",
+    "doi": "10.1016/j.aca.2026.346312",
+    "title": "CRISPR/Cas12a-based simplified lateral flow assay for sensitive detection of OTA and AFB1."
+  },
+  "content": {
+    "abstract": "Mycotoxin contamination in agricultural commodities poses serious health risks, necessitating sensitive and user-friendly detection methods for food safety monitoring. Here, we present a multiplex CRISPR/Cas12a-assisted lateral flow assay (MC-LFA) for the parallel detection of Ochratoxin A (OTA) and Aflatoxin B1 (AFB1). The platform employs a duplex Switch design in which target binding releases an activator sequence (Probe 2), triggering Cas12a trans-cleavage of a half-blocking reporter (HBR). Cleavage generates dsDNA products labeled with Dig/FAM (for OTA) or TAMRA/FAM (for AFB1), which are captured at distinct test lines via specific antibody recognition. An integrated streptavidin (SA) capture line binds intact HBR through biotin-streptavidin interactions, effectively replacing conventional magnetic separation steps. The total assay time is approximately 65 min, including a 45-min target identification and a 15-min Cas12a reaction followed by a 5-min lateral flow readout. This approach achieves visual detection limits of 50 pg/mL for OTA and 250 pg/mL for AFB1. The assay exhibits excellent linear correlation over broad concentration ranges and demonstrates high accuracy in double-blind testing (97.22% for OTA and 94.44% for AFB1). Notably, the platform requires only aptamer replacement for different targets while maintaining the same Cas12a and crRNA sequences, substantially reducing experimental costs. Furthermore, by co-localizing detection probes in a single tube, an \"OR\" logic gate strategy enables parallel screening for both mycotoxins with a single test line. This cost-effective, sensitive, and operationally simple platform possesses strong potential for on-site food safety monitoring in resource-limited settings.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "Enzyme-assisted signal amplification",
+      "Functionalized quantum dots",
+      "Lateral flow assay",
+      "Mycotoxin"
+    ],
+    "mesh_terms": [
+      "*Aflatoxin B1/analysis",
+      "*Ochratoxins/analysis",
+      "*CRISPR-Cas Systems/genetics",
+      "Limit of Detection",
+      "Rapid Diagnostic Tests",
+      "*Biosensing Techniques/methods",
+      "Food Contamination/analysis",
+      "*Endodeoxyribonucleases/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Wenjun",
+        "Zhu, Yidan",
+        "Kang, Jingyi",
+        "Zhu, Ziyi",
+        "Qian, Kun",
+        "Ji, Haiwei",
+        "Wang, Qi",
+        "Qin, Yuling",
+        "Wu, Li"
+      ],
+      "short_names": [
+        "Jiang W",
+        "Zhu Y",
+        "Kang J",
+        "Zhu Z",
+        "Qian K",
+        "Ji H",
+        "Wang Q",
+        "Qin Y",
+        "Wu L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China. Electronic address: jihaiwei64@ntu.edu.cn.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China; The Jiangsu Province Boron Neutron Capture Therapy Center for Multi-Cancer Precision Targeted Treatment Technology and Engineering Research, Affiliated Hospital of Nantong University, No. 20 Xisi Road, Nantong, 226019, PR China. Electronic address: ylqin@ntu.edu.cn.",
+        "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China; The Jiangsu Province Boron Neutron Capture Therapy Center for Multi-Cancer Precision Targeted Treatment Technology and Engineering Research, Affiliated Hospital of Nantong University, No. 20 Xisi Road, Nantong, 226019, PR China. Electronic address: wuli8686@ntu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Wenjun",
+        "short_name": "Jiang W",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Yidan",
+        "short_name": "Zhu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China."
+        ]
+      },
+      {
+        "full_name": "Kang, Jingyi",
+        "short_name": "Kang J",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Ziyi",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China."
+        ]
+      },
+      {
+        "full_name": "Qian, Kun",
+        "short_name": "Qian K",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China."
+        ]
+      },
+      {
+        "full_name": "Ji, Haiwei",
+        "short_name": "Ji H",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China. Electronic address: jihaiwei64@ntu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Qi",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China."
+        ]
+      },
+      {
+        "full_name": "Qin, Yuling",
+        "short_name": "Qin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China; The Jiangsu Province Boron Neutron Capture Therapy Center for Multi-Cancer Precision Targeted Treatment Technology and Engineering Research, Affiliated Hospital of Nantong University, No. 20 Xisi Road, Nantong, 226019, PR China. Electronic address: ylqin@ntu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wu, Li",
+        "short_name": "Wu L",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Advanced Medical Analysis and Public Health, Nantong Key Laboratory of Public Health and Medical Analysis, School of Public Health, Nantong University, Nantong, Jiangsu, 226019, PR China; The Jiangsu Province Boron Neutron Capture Therapy Center for Multi-Cancer Precision Targeted Treatment Technology and Engineering Research, Affiliated Hospital of Nantong University, No. 20 Xisi Road, Nantong, 226019, PR China. Electronic address: wuli8686@ntu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytica chimica acta"
+    ],
+    "journal_abbrev": [
+      "Anal Chim Acta"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 23:27",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42951549"
+    ],
+    "review": [
+      "42951549"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-2670(26)01262-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

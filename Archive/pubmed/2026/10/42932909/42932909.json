@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42932909",
+    "doi": "10.1021/acsami.6c17334",
+    "title": "T7 Ribonucleic Acid Polymerase-Triggered CRISPR/Cas13a and Branched HCR Cascade Amplification with Machine Learning for SERS Detection of Cardiac Troponin I."
+  },
+  "content": {
+    "abstract": "Cardiac troponin I (cTnI) serves as a critical biomarker of acute myocardial infarction (AMI). Its serum level is extremely sparse, and the clinical cut-off value reaches merely 0.2 ng mL-1. This poses a significant challenge, requiring highly sensitive analytical techniques for reliable quantification. This study proposes a powerful surface-enhanced Raman scattering (SERS) sensing strategy integrating multistage signal amplification and machine learning to enhance detection performance. By combining T7 RNA polymerase, CRISPR/Cas13a, branched hybridization chain reaction (bHCR), and Fe3O4@COF@Ag magnetic substrate, the strategy constructs an efficient \"recognition-amplification-signal output\" closed loop for cTnI detection. Experimental results demonstrate that the platform has a linear calibration range of 0.1-104 pg/mL for cTnI, with an estimated limit of detection (LOD) of 0.1 pg/mL, holding promise for future AMI-related biomarker analysis. It also shows excellent selectivity against common serum interferents, good reproducibility (intra-batch RSD = 2.87%, inter-batch RSD = 7.96%), and reliable recovery (100.1%-110%) in human serum samples. Based on Raman signals, the k-nearest neighbor (kNN) classifier demonstrated high accuracy in classifying cTnI concentration levels, while the artificial neural network (ANN) model exhibited strong quantitative predictive performance with an R2 of 0.9997. This platform overcomes the limitations of conventional cTnI assays in terms of sensitivity and signal amplification efficiency, providing a promising analytical platform for future AMI-related biomarker studies.",
+    "keywords": [
+      "CRISPR/Cas13a",
+      "Fe3O4@COF@Ag",
+      "SERS",
+      "T7 RNA polymerase",
+      "cardiac troponin I",
+      "machine learning"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Na",
+        "Ma, Yueyue",
+        "Wang, Yunxia",
+        "Zhai, Fuheng",
+        "Li, Yuanyuan",
+        "Luo, Xiaojun",
+        "Shao, Bing"
+      ],
+      "short_names": [
+        "Zhou N",
+        "Ma Y",
+        "Wang Y",
+        "Zhai F",
+        "Li Y",
+        "Luo X",
+        "Shao B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3899-0105",
+        "ORCID: 0000-0001-5631-6889"
+      ],
+      "affiliations": [
+        "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China.",
+        "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China.",
+        "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China.",
+        "Center for Medical Research and Innovation, Shanghai Pudong Hospital, Fudan University Pudong Medical Center, Fudan University, Shanghai201399, P R China.",
+        "Shanghai Institute of Doping Analyses, Shanghai University of Sport , Shanghai200438, P R China.",
+        "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China.",
+        "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Na",
+        "short_name": "Zhou N",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China."
+        ]
+      },
+      {
+        "full_name": "Ma, Yueyue",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yunxia",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China."
+        ]
+      },
+      {
+        "full_name": "Zhai, Fuheng",
+        "short_name": "Zhai F",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Research and Innovation, Shanghai Pudong Hospital, Fudan University Pudong Medical Center, Fudan University, Shanghai201399, P R China."
+        ]
+      },
+      {
+        "full_name": "Li, Yuanyuan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Doping Analyses, Shanghai University of Sport , Shanghai200438, P R China."
+        ]
+      },
+      {
+        "full_name": "Luo, Xiaojun",
+        "short_name": "Luo X",
+        "identifiers": [
+          "0000-0002-3899-0105"
+        ],
+        "affiliations": [
+          "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China."
+        ]
+      },
+      {
+        "full_name": "Shao, Bing",
+        "short_name": "Shao B",
+        "identifiers": [
+          "0000-0001-5631-6889"
+        ],
+        "affiliations": [
+          "School of Food and Bioengineering, Xihua University, Chengdu610039, P R China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS applied materials & interfaces"
+    ],
+    "journal_abbrev": [
+      "ACS Appl Mater Interfaces"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 23:27",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42932909"
+    ],
+    "review": [
+      "42932909"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TNNI3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/aamick/article-lookup/doi/10.1021/acsami.6c17334",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

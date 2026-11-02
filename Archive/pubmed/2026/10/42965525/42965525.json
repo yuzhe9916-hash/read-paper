@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42965525",
+    "doi": "10.1002/cpz1.70504",
+    "title": "Scalable Arrayed T-cell CRISPR Screening in Autologous Tumor Co-cultures to Prioritize Combination Partners for T-cell Engagers."
+  },
+  "content": {
+    "abstract": "T-cell-engaging therapies (TCE) have shown clinical promise in hematologic malignancies, but the T-cell-intrinsic determinants of TCE-mediated cytotoxicity remain incompletely defined. This is in part because functional studies in patient-derived primary samples have been technically challenging. Here, we describe a flow cytometry-based arrayed CRISPR knockout screening platform to prioritize regulators of TCE-mediated cytotoxicity in suspension tumor cells using patient-derived, autologous chronic lymphocytic leukemia (CLL) samples. The principal advantage of this system is the use of matched T cells and tumor cells from the same patient, retaining patient-matched effector-target pairings that are not captured in donor-mismatched or cell line-based assays. In this workflow, CD3+ T cells isolated from viably frozen CLL peripheral blood mononuclear cells (PBMC) are expanded and edited for 2 days using arrayed Cas9 ribonucleoprotein nucleofection. TCE-mediated cytotoxicity was assessed in a 72-hr, feeder-supported co-culture assay using patient-matched CLL tumor cells in the presence of CD20xCD3 TCE. In the current implementation, the workflow is organized into modules that accommodate up to 96 arrayed perturbations, with technical replicates evaluated under TCE and control conditions. Because perturbations remain physically indexed in an arrayed format, the workflow is amenable to parallelization and laboratory automation, providing a path toward substantially larger targeted screens. This platform therefore provides a scalable framework for mechanistic studies and combination-target discovery for TCE therapies. (c) 2026 The Author(s). Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: CD3+ T cell isolation from CLL patient PBMC (Day 0) Alternate Protocol 1: Sequential label-free isolation of CD19+ and CD3+ T cells from healthy donor PBMC Alternate Protocol 2: Sequential label-free isolation of CD3+ T cells and B-CLL cells from CLL donor PBMC Basic Protocol 2: Transfer activated T cells to G-Rex for large-scale expansion (Day 4) Basic Protocol 3: Harvest and CRISPR Editing of Expanded T Cells (Day 11) Support Protocol 1: CRISPR knockout optimization and validation in T cells Basic Protocol 4: CLL co-culture with CRISPR-edited T cells (Day 13) Basic Protocol 5: Flow cytometry analysis of tumor viability and T cell phenotype (Day 16) Support Protocol 2: Selecting suitable co-culture conditions for E:T ratio and TCE concentration for large-scale screening.",
+    "keywords": [
+      "T cell engager",
+      "arrayed CRISPR",
+      "autologous",
+      "bispecific antibody",
+      "chronic lymphocytic leukemia"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*T-Lymphocytes/immunology",
+      "*Leukemia, Lymphocytic, Chronic, B-Cell/immunology/therapy",
+      "Coculture Techniques/methods",
+      "Flow Cytometry/methods",
+      "*CRISPR-Cas Systems",
+      "Clustered Regularly Interspaced Short Palindromic Repeats"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ernste, Keenan",
+        "Zhang, Qiao",
+        "Cazares, Oscar",
+        "Lu, Kai",
+        "Palencia, Servando",
+        "Hatzi, Katerina",
+        "Eidenshenk, Celine",
+        "Tong, Zhixiang",
+        "Jiang, Yanwen",
+        "Jin, Hyun Yong"
+      ],
+      "short_names": [
+        "Ernste K",
+        "Zhang Q",
+        "Cazares O",
+        "Lu K",
+        "Palencia S",
+        "Hatzi K",
+        "Eidenshenk C",
+        "Tong Z",
+        "Jiang Y",
+        "Jin HY"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Translational Medicine, Genentech, South San Francisco, CA, USA.",
+        "Pathology and Immunology Department, Baylor College of Medicine, Houston, TX, USA.",
+        "Translational Genomics and Proteomics Center, Genentech, South San Francisco, CA, USA.",
+        "Translational Medicine, Genentech, South San Francisco, CA, USA.",
+        "Translational Medicine, Genentech, South San Francisco, CA, USA.",
+        "Translational Medicine, Genentech, South San Francisco, CA, USA.",
+        "Translational Medicine, Genentech, South San Francisco, CA, USA.",
+        "Translational Genomics and Proteomics Center, Genentech, South San Francisco, CA, USA.",
+        "Translational Genomics and Proteomics Center, Genentech, South San Francisco, CA, USA.",
+        "Translational Medicine, Genentech, South San Francisco, CA, USA.",
+        "Translational Medicine, Genentech, South San Francisco, CA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ernste, Keenan",
+        "short_name": "Ernste K",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Medicine, Genentech, South San Francisco, CA, USA.",
+          "Pathology and Immunology Department, Baylor College of Medicine, Houston, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qiao",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics and Proteomics Center, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Cazares, Oscar",
+        "short_name": "Cazares O",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Medicine, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Lu, Kai",
+        "short_name": "Lu K",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Medicine, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Palencia, Servando",
+        "short_name": "Palencia S",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Medicine, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Hatzi, Katerina",
+        "short_name": "Hatzi K",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Medicine, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Eidenshenk, Celine",
+        "short_name": "Eidenshenk C",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics and Proteomics Center, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Tong, Zhixiang",
+        "short_name": "Tong Z",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Genomics and Proteomics Center, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yanwen",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Medicine, Genentech, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Jin, Hyun Yong",
+        "short_name": "Jin HY",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Medicine, Genentech, South San Francisco, CA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current protocols"
+    ],
+    "journal_abbrev": [
+      "Curr Protoc"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 23:25",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42965525"
+    ],
+    "review": [
+      "42965525"
+    ],
+    "pmc": [
+      "13723204"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cpz1.70504",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

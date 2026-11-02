@@ -1,0 +1,194 @@
+{
+  "identity": {
+    "pmid": "42952505",
+    "doi": "10.3389/fphys.2026.1957980",
+    "title": "Coxiella burnetii effector CelF reprograms host proteostasis via competitive disruption of the UBQLN1-PSMD4 axis to stabilize autophagic SNARE SNAP29 and modulate lysosomal metabolic maturation."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: The ubiquitin-proteasome system (UPS) and autophagy-lysosome pathway constitute the core proteolytic metabolic networks that maintain cellular protein homeostasis (proteostasis) and organelle metabolic identity. Intracellular pathogens frequently reprogram host metabolic pathways to establish replicative niches, yet how they manipulate proteostatic metabolism to remodel organelle maturation remains incompletely understood. METHODS: CelF secretion was confirmed by TEM translocation assay. CRISPR-dCas9 was used to generate CelF knockdown and complementation strains, with celF transcription verified by RT-qPCR. Cell infection and SCID mouse models were used to assess intracellular survival, Coxiella-containing vacuole (CCV) maturation, and virulence of Coxiella burnetii. The effect of CelF on late autophagy was examined by dual-fluorescence LC3 and Western blotting. Then, UBQLN1 was identified as a CelF-interacting host protein by co-IP and pull-down, followed by truncation mapping. Finally, co-IP, UBQLN1 knockdown, Western blotting and MST assays were used to analyze the effect of CelF on SNARE assembly, SNAP29 degradation and ubiquitination, and competitive binding of CelF and PSMD4 to UBQLN1. RESULTS: CelF depletion severely impaired the metabolic maturation of CCV, suppressed bacterial proliferation in macrophages, and attenuated virulence in vivo. Mechanistically, CelF acted as a molecular decoy that directly bound the ubiquitin-like (UBL) domain of the proteasomal shuttle factor UBQLN1, competitively displacing the proteasome subunit PSMD4. This competitive interference blocked UBQLN1-mediated proteasomal delivery of SNAP29 without altering its ubiquitination status, thereby enhancing SNAP29 protein stability and promoting assembly of the STX17-SNAP29-VAMP8 fusogenic complex. The augmented SNARE activity drove autophagosome-lysosome fusion, sustained autophagic flux, and facilitated lysosomal metabolic remodeling to support CCV biogenesis. DISCUSSION: Unlike canonical pathogen-encoded UPS modulators that function as E3 ligases or deubiquitinases, CelF operates purely through competitive protein-protein interaction, representing a previously unrecognized paradigm for microbial manipulation of host proteostatic metabolism. Our findings reveal that intracellular pathogens can actively orchestrate organelle metabolic identity by rewiring host proteostasis, and identify the UBQLN1-PSMD4-SNAP29 axis as a novel regulatory checkpoint for SNARE proteostasis and lysosomal metabolic maturation.",
+    "keywords": [
+      "SNARE proteostasis",
+      "UBQLN1",
+      "autophagic flux",
+      "intracellular infection metabolism",
+      "lysosomal metabolism",
+      "protein homeostasis",
+      "ubiquitin-proteasome system"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Shan",
+        "Jiang, Yufei",
+        "Lin, Yinhui",
+        "Chen, Xiaoxiao",
+        "Zhang, Yuchen",
+        "Yu, Yonghui",
+        "OuYang, Xuan",
+        "Zhou, Dongsheng",
+        "Song, Yajun",
+        "Jiao, Jun"
+      ],
+      "short_names": [
+        "Zhang S",
+        "Jiang Y",
+        "Lin Y",
+        "Chen X",
+        "Zhang Y",
+        "Yu Y",
+        "OuYang X",
+        "Zhou D",
+        "Song Y",
+        "Jiao J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Shan",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yufei",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yinhui",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaoxiao",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuchen",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yonghui",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "OuYang, Xuan",
+        "short_name": "OuYang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Dongsheng",
+        "short_name": "Zhou D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Song, Yajun",
+        "short_name": "Song Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Jun",
+        "short_name": "Jiao J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in physiology"
+    ],
+    "journal_abbrev": [
+      "Front Physiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 05:30",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42952505"
+    ],
+    "review": [
+      "42952505"
+    ],
+    "pmc": [
+      "13713298"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42952505/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fphys.2026.1957980",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

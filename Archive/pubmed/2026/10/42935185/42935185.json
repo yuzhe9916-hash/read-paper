@@ -1,0 +1,264 @@
+{
+  "identity": {
+    "pmid": "42935185",
+    "doi": "10.1111/tpj.71184",
+    "title": "Genetic architecture of low-temperature germinability in rice revealed by integrated maps of SNPs and structural variation."
+  },
+  "content": {
+    "abstract": "Low-temperature germinability (LTG) limits rice direct seeding, yet its genetic architecture and regulatory roles of structural variations (SVs) remain largely unclear. We evaluated LTG in 403 rice accessions at four temperatures (13 degrees C, 15 degrees C, 18 degrees C, 21 degrees C). Integrating SNP/SV-GWAS, RNA-seq, gene editing, population genetics, and machine learning, we dissected the genetic basis of LTG and built a genomic selection (GS) prediction model. The panel showed extensive LTG variation, which was negatively correlated with origin latitude. SV- and SNP-based GWAS for LTG detected 119 and 127 QTLs, respectively, with 25 loci overlapping between the two datasets. Combining GWAS and RNA-seq, we screened 30 candidate genes and 48 favorable haplotypes, with high-LTG favorable alleles enriched in low-latitude Xian (Indica) accessions. We identified a deletion in the qLTG3-1 coding region that negatively regulated LTG, and gene editing (CRISPR/Cas9) confirmed qLT11d is a key gene for LTG. Population genetic analysis identified 29 inter-subspecies (Xian-Geng) and 37 intra-Xian divergent regions for LTG, implying shared selected regions across and within subspecies under low temperature. Using SNP and SV data, we built corresponding genomic selection (GS) models with the machine learning-based MFGP method, achieving high prediction accuracy across all temperatures. All cross-temperature prediction correlations exceeded 0.55, with optimal performance at 18 degrees C. Our results clarify rice LTG genetic architecture and suggest potential regulatory roles for SVs that merit further investigation, providing candidate genes, favorable haplotypes, and a GS model for LTG genetic improvement in direct seeding rice.",
+    "keywords": [
+      "Xian-Geng differentiation",
+      "divergent region",
+      "low-temperature germinability",
+      "machine learning",
+      "structural variation"
+    ],
+    "mesh_terms": [
+      "*Oryza/genetics/growth & development/physiology",
+      "*Polymorphism, Single Nucleotide/genetics",
+      "Cold Temperature",
+      "Quantitative Trait Loci/genetics",
+      "Genome-Wide Association Study",
+      "Genome, Plant/genetics",
+      "Haplotypes"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Youshuai",
+        "Xu, Kai",
+        "Lv, Yamei",
+        "He, Xiaoyu",
+        "Yu, Tingting",
+        "Wu, Fengcai",
+        "Liang, Lunping",
+        "Feng, Ting",
+        "Zhang, Liang",
+        "Liu, Erbao",
+        "Li, Zhikang",
+        "Wang, Wensheng",
+        "Li, Min",
+        "Zhang, Chaopu"
+      ],
+      "short_names": [
+        "Shi Y",
+        "Xu K",
+        "Lv Y",
+        "He X",
+        "Yu T",
+        "Wu F",
+        "Liang L",
+        "Feng T",
+        "Zhang L",
+        "Liu E",
+        "Li Z",
+        "Wang W",
+        "Li M",
+        "Zhang C"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-0926-3255",
+        "ORCID: 0000-0002-8726-1128",
+        "ORCID: 0000-0003-4880-6313",
+        "ORCID: 0000-0002-8842-3432",
+        "ORCID: 0000-0002-9504-1766"
+      ],
+      "affiliations": [
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding, Beijing, 100081, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding, Beijing, 100081, China.",
+        "Chinese Academy of Agricultural Sciences, Institute of Crop Sciences, Beijing, 100081, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+        "College of Agronomy, Anhui Agricultural University, Hefei, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Youshuai",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Kai",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Yamei",
+        "short_name": "Lv Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiaoyu",
+        "short_name": "He X",
+        "identifiers": [
+          "0009-0006-0926-3255"
+        ],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Tingting",
+        "short_name": "Yu T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Fengcai",
+        "short_name": "Wu F",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Lunping",
+        "short_name": "Liang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Ting",
+        "short_name": "Feng T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Liang",
+        "short_name": "Zhang L",
+        "identifiers": [
+          "0000-0002-8726-1128"
+        ],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Erbao",
+        "short_name": "Liu E",
+        "identifiers": [
+          "0000-0003-4880-6313"
+        ],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhikang",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China.",
+          "State Key Laboratory of Crop Gene Resources and Breeding, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wensheng",
+        "short_name": "Wang W",
+        "identifiers": [
+          "0000-0002-8842-3432"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Crop Gene Resources and Breeding, Beijing, 100081, China.",
+          "Chinese Academy of Agricultural Sciences, Institute of Crop Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Li, Min",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chaopu",
+        "short_name": "Zhang C",
+        "identifiers": [
+          "0000-0002-9504-1766"
+        ],
+        "affiliations": [
+          "College of Agronomy, Anhui Agricultural University, Hefei, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Plant journal : for cell and molecular biology"
+    ],
+    "journal_abbrev": [
+      "Plant J"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 05:29",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42935185"
+    ],
+    "review": [
+      "42935185"
+    ],
+    "pmc": [
+      "13711015"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42935185/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1111/tpj.71184",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

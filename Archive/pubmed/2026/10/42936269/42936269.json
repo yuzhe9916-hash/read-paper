@@ -1,0 +1,126 @@
+{
+  "identity": {
+    "pmid": "42936269",
+    "doi": "10.1093/narcan/zcag031",
+    "title": "xNNPCD identifies regulators of programmed cell death by integrating perturbation transcriptomes with cancer dependency profiles."
+  },
+  "content": {
+    "abstract": "Programmed cell death (PCD) encompasses regulated processes whose dysregulation shapes cancer fitness, yet computational studies use known PCD genes for prognosis rather than discovering regulators. We developed xNNPCD, an interpretable neural-network framework that links CRISPR-Cas9 perturbation signatures from CMap to gene dependency profiles from DepMap. The model constrains hidden neurons to five PCD pathways and iteratively refines a prior gene-PCD pathway mask matrix derived from GO, KEGG, and Reactome using pathway-neuron ablation. This converts binary gene-pathway relationships into continuous-valued associations and improves dependency prediction over random forests, fully connected multi-layer perceptrons, and its own non-iterative variant. The learned mask matrix recovers annotated death regulators and nominates candidate regulators, including RPL23A, HSPA5, SNRPA1, SLC6A2, and ASAH1; combined with dependency scores, it separates pathway coupling from regulatory direction. Transferring the refined mask matrix and learned weights to compound-induced perturbation data enables in silico drug screening, identifying BRD-K19103580 and decitabine as therapeutic agents for apoptosis and ferroptosis, respectively. The pathway-resolved drug profiles can facilitate the design of combination therapies targeting complementary PCD pathways to overcome single-pathway resistance. Overall, xNNPCD offers a pan-cancer, interpretable approach that generalizes across perturbation modalities for mapping the regulatory landscape and elucidating the molecular processes of PCD in cancer.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Neoplasms/genetics/pathology/drug therapy",
+      "*Apoptosis/genetics/drug effects",
+      "*Transcriptome",
+      "Endoplasmic Reticulum Chaperone BiP",
+      "Gene Expression Regulation, Neoplastic",
+      "*Computational Biology/methods",
+      "CRISPR-Cas Systems",
+      "Ferroptosis/drug effects/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yin, Qingyang",
+        "Chen, Liang"
+      ],
+      "short_names": [
+        "Yin Q",
+        "Chen L"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6164-4553"
+      ],
+      "affiliations": [
+        "Department of Quantitative and Computational Biology, University of Southern California, Los Angeles, CA 90089, United States.",
+        "Department of Quantitative and Computational Biology, University of Southern California, Los Angeles, CA 90089, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yin, Qingyang",
+        "short_name": "Yin Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Quantitative and Computational Biology, University of Southern California, Los Angeles, CA 90089, United States."
+        ]
+      },
+      {
+        "full_name": "Chen, Liang",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0000-0001-6164-4553"
+        ],
+        "affiliations": [
+          "Department of Quantitative and Computational Biology, University of Southern California, Los Angeles, CA 90089, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "NAR cancer"
+    ],
+    "journal_abbrev": [
+      "NAR Cancer"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 16:33",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42936269"
+    ],
+    "review": [
+      "42936269"
+    ],
+    "pmc": [
+      "13697225"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42936269/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-524",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/narcancer/article-lookup/doi/10.1093/narcan/zcag031",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "identity": {
+    "pmid": "42944055",
+    "doi": "10.3390/v18101135",
+    "title": "Systematic Review and Meta-Analysis of Genome-Wide CRISPR-Cas Screens to Identify Host Factors Involved in HIV-1 Infection."
+  },
+  "content": {
+    "abstract": "Human immunodeficiency virus type 1 (HIV-1) replication depends on a complex interplay between viral proteins and host cellular factors, which represent promising therapeutic targets. However, systematic integration of results from genome-wide CRISPR screens for HIV host factors remains limited. Here, we performed a systematic review and meta-analysis of pooled genome-wide CRISPR-Cas9 screens to identify host dependency, restriction, and latency-promoting factors in HIV-1 infection. Following PRISMA guidelines, we identified 11 eligible studies from which we extracted 26 gene lists. These were classified into three phenotypic categories, including dependency (5 lists), restriction (10 lists), and latency-promoting (7 lists), and integrated using meta-analysis by information content (MAIC). GO over-representation analysis and Gene Set Enrichment Analysis were performed on MAIC-ranked gene lists to characterize pathway architectures. MAIC successfully recovered well-established host factors, including the entry receptors CD4, CCR5, and CXCR4; the integration cofactor PSIP1 (LEDGF/p75); and the restriction factors TRIM5, TRIM22, PML, G3BP1, and EIF2AK2. RNF114 emerged as the top-ranked restriction factor, supported by four independent publication-level categories. Additional high-confidence hits included TRIM56, BIRC3, DTX3L, and components of the ubiquitin-proteasome system across the dependency and latency datasets, further supporting the robustness of the MAIC framework. Beyond these canonical factors, we identified multiple undercharacterized genes and pathways, including coagulation and IL-17 signaling in dependency factors, SUMOylation and DNA damage response in restriction factors, and the Integrator complex and proteasome-granule co-enrichment in latency-promoting factors. Leading-edge analysis confirmed that most of these non-canonical enrichments are driven by coherent gene modules rather than a small set of pleiotropic hubs. These findings reveal distinct pathway architectures across the three infection states and highlight previously unrecognized host processes that may serve as targets for antiviral therapy. Our analysis provides a comprehensive resource for guiding future mechanistic studies of host-HIV interactions and developing strategies to enhance immunity, block viral replication, and reverse latency.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "HIV-1",
+      "genome-wide screen",
+      "host factors",
+      "meta-analysis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*HIV-1/physiology/genetics",
+      "*HIV Infections/virology/genetics",
+      "*CRISPR-Cas Systems",
+      "*Host-Pathogen Interactions/genetics",
+      "Virus Replication",
+      "Virus Latency",
+      "Receptors, CCR5/genetics",
+      "Genome-Wide Association Study"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Review",
+      "Systematic Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhu, Min",
+        "Sun, Zhou",
+        "Xu, Ke",
+        "Ye, Ling"
+      ],
+      "short_names": [
+        "Zhu M",
+        "Sun Z",
+        "Xu K",
+        "Ye L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3216-2974",
+        "ORCID: 0000-0001-5260-4445"
+      ],
+      "affiliations": [
+        "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China.",
+        "Zhejiang Key Laboratory of Multi-Omics in Infection and Immunity, Hangzhou 310021, China.",
+        "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China.",
+        "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China.",
+        "Zhejiang Key Laboratory of Multi-Omics in Infection and Immunity, Hangzhou 310021, China.",
+        "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China.",
+        "Zhejiang Key Laboratory of Multi-Omics in Infection and Immunity, Hangzhou 310021, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhu, Min",
+        "short_name": "Zhu M",
+        "identifiers": [
+          "0000-0002-3216-2974"
+        ],
+        "affiliations": [
+          "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China.",
+          "Zhejiang Key Laboratory of Multi-Omics in Infection and Immunity, Hangzhou 310021, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Zhou",
+        "short_name": "Sun Z",
+        "identifiers": [
+          "0000-0001-5260-4445"
+        ],
+        "affiliations": [
+          "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ke",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China.",
+          "Zhejiang Key Laboratory of Multi-Omics in Infection and Immunity, Hangzhou 310021, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Ling",
+        "short_name": "Ye L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of HIV/AIDS Control and Prevention, Hangzhou Center for Disease Control and Prevention, Hangzhou Health Supervision Institution, Hangzhou 310021, China.",
+          "Zhejiang Key Laboratory of Multi-Omics in Infection and Immunity, Hangzhou 310021, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Viruses"
+    ],
+    "journal_abbrev": [
+      "Viruses"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Review",
+      "Systematic Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42944055"
+    ],
+    "review": [
+      "42944055"
+    ],
+    "pmc": [
+      "13709478"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=v18101135",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/hiv.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "HIV"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42944055/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-374",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "identity": {
+    "pmid": "42935243",
+    "doi": "10.1093/nar/gkag1033",
+    "title": "OSCAR: an omics atlas of paired single-cell ATAC-seq and RNA-seq for decoding cell-specific gene regulation."
+  },
+  "content": {
+    "abstract": "Paired single-cell chromatin accessibility and transcriptome profiles provide a powerful framework for dissecting cell-specific regulatory programs underlying diverse biological processes and human diseases. The rapid accumulation of paired single-cell assay for transposase-accessible chromatin sequencing (scATAC-seq) and single-cell RNA sequencing (scRNA-seq) data has led to an urgent need to comprehensively integrate these data to illustrate the regulatory landscape at single-cell resolution. To address this need, we developed OSCAR (an Omics atlas of paired Single-Cell ATAC and RNA-seq, https://bio.liclab.net/OSCAR/) to curate large-scale paired scATAC-seq and scRNA-seq data and to provide comprehensive regulatory annotations and analyses. The current version of OSCAR catalogs 7749 898 human cells from 1136 samples across 30 tissue types. Importantly, OSCAR integrates paired scATAC-seq and scRNA-seq profiles for joint cell clustering and peak-to-gene linkage identification, and provides detailed (epi)genetic annotations for marker peaks and regulatory elements of marker genes, including super-enhancers, enhancers, enhancer RNAs (eRNAs), common and risk single nucleotide polymorphisms, expression quantitative trait loci, transcription factor binding sites, transcription factor/transcription co-factor binding peaks, Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9 target sites, DNase I hypersensitivity sites, chromatin accessibility regions, DNA methylation sites, chromatin interaction regions, and topologically associating domains. Furthermore, OSCAR provides three online analysis tools, including cell type enrichment analysis, sequence-based peak regulatory analysis, and peak-to-gene linkage analysis. Hence, OSCAR is a useful platform to query, browse, analyze, and visualize cell-specific regulatory programs across diverse human tissues and diseases.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Song, Chao",
+        "Zhou, Yao",
+        "Feng, Chenchen",
+        "Dai, Xintong",
+        "Xiao, Jiaxin",
+        "Fan, Xuan",
+        "Wang, Kewei",
+        "Xiao, Pengxiang",
+        "Zheng, Yixin",
+        "Luo, Wenxi",
+        "Li, Chunquan",
+        "Wang, Qiuyu"
+      ],
+      "short_names": [
+        "Song C",
+        "Zhou Y",
+        "Feng C",
+        "Dai X",
+        "Xiao J",
+        "Fan X",
+        "Wang K",
+        "Xiao P",
+        "Zheng Y",
+        "Luo W",
+        "Li C",
+        "Wang Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4700-5496"
+      ],
+      "affiliations": [
+        "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+        "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China.",
+        "National Health Commission Key Laboratory of Birth Defect Research and Prevention & MOE Key Lab of Rare Pediatric Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+        "NHC Key Laboratory of Neurodegenerative Diseases, University of South China, Hengyang 421001, China.",
+        "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+        "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Song, Chao",
+        "short_name": "Song C",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yao",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Chenchen",
+        "short_name": "Feng C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Xintong",
+        "short_name": "Dai X",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Jiaxin",
+        "short_name": "Xiao J",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Xuan",
+        "short_name": "Fan X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Kewei",
+        "short_name": "Wang K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Pengxiang",
+        "short_name": "Xiao P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Yixin",
+        "short_name": "Zheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Wenxi",
+        "short_name": "Luo W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      },
+      {
+        "full_name": "Li, Chunquan",
+        "short_name": "Li C",
+        "identifiers": [
+          "0000-0002-4700-5496"
+        ],
+        "affiliations": [
+          "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China.",
+          "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China.",
+          "National Health Commission Key Laboratory of Birth Defect Research and Prevention & MOE Key Lab of Rare Pediatric Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+          "NHC Key Laboratory of Neurodegenerative Diseases, University of South China, Hengyang 421001, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qiuyu",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital & Hunan Provincial Key Laboratory of Multi-omics and Artificial Intelligence of Cardiovascular Diseases, Hengyang Medical School, University of South China, Hengyang, Hunan 421001, China.",
+          "School of Computer, University of South China, Hengyang, Hunan 421001, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 05:29",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42935243"
+    ],
+    "review": [
+      "42935243"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1033",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

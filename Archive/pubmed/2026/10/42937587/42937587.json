@@ -1,0 +1,188 @@
+{
+  "identity": {
+    "pmid": "42937587",
+    "doi": "10.1021/acsnano.6c13618",
+    "title": "Fluorescence Encoding-Enabled Multiplexed Droplet Digital Recombinase Polymerase Amplification-CRISPR/Cas12a Assay for Rapid Screening of Lower Respiratory Tract Infection-Associated Bacterial Pathogens."
+  },
+  "content": {
+    "abstract": "Digital RPA-CRISPR/Cas12a assays enable accurate nucleic acid quantification; however, their multiplexing capacity is inherently limited by signal confounding arising from the promiscuous trans-cleavage activity of Cas12a effectors. To overcome this limitation, we developed a fluorescence encoding-enabled multiplexed droplet digital RPA-CRISPR/Cas12a (FLEMD-CRISPR) assay that integrates combinatorial fluorescence encoding, deterministic droplet pairing within a calabash-shaped microwell array, and a machine learning-assisted decoding pipeline. In FLEMD-CRISPR, small-volume fluorescence-encoded CRISPR/Cas12a droplets, each assigned a unique spectral signature corresponding to a specific crRNA, are one-to-one paired with large-volume RPA droplets. Following RPA amplification and droplet merging, Cas12a-mediated reporter cleavage occurs only in droplets containing target amplicons. The decoding pipeline then localizes droplets, classifies their colors to assign crRNA identities, and finally detects positive signals, enabling high-throughput, hands-off analysis of the entire droplet array. FLEMD-CRISPR enabled simultaneous quantification of nucleic acid targets from eight major lower respiratory tract infection-associated bacterial pathogens, showing strong linear correlation (R2 = 0.9987-0.9998) and consistent detection efficiency (slopes = 0.9849-1.0198) relative to single-plex digital PCR. The complete workflow, from sample preparation to final readout, can be completed within 2 h. Clinical validation using 30 bronchoalveolar lavage fluid samples showed that the bacterial detection outcomes of FLEMD-CRISPR were highly concordant with standard-of-care culture, achieving 100% (20/20) positive percent agreement and 99.1% (218/220) negative percent agreement. By enabling panel reconfiguration through simple modifications of the droplet encoding library, FLEMD-CRISPR provides a flexible platform for the development of highly multiplexed digital CRISPR assays.",
+    "keywords": [
+      "RPA-CRISPR/Cas12a",
+      "droplet microfluidics",
+      "fluorescence encoding",
+      "lower respiratory tract infections",
+      "multiplexed digital detection"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "Fluorescence",
+      "*Respiratory Tract Infections/microbiology/diagnosis",
+      "Humans",
+      "CRISPR-Associated Proteins/genetics",
+      "Rapid Diagnostic Tests",
+      "*Nucleic Acid Amplification Techniques/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yifan",
+        "Huang, Enqi",
+        "Zhang, Ziyi",
+        "Zhu, Xicong",
+        "Zhang, Ting",
+        "Yang, Na",
+        "Chen, Zhenhua",
+        "Cai, Dongyang",
+        "Liu, Dayu"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Huang E",
+        "Zhang Z",
+        "Zhu X",
+        "Zhang T",
+        "Yang N",
+        "Chen Z",
+        "Cai D",
+        "Liu D"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6538-8718"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Guangdong Engineering Technology Research Center of Microfluidic Chip Medical Diagnosis, Guangzhou510180, China.",
+        "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+        "Guangdong Engineering Technology Research Center of Microfluidic Chip Medical Diagnosis, Guangzhou510180, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yifan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Enqi",
+        "short_name": "Huang E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ziyi",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Xicong",
+        "short_name": "Zhu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ting",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Na",
+        "short_name": "Yang N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhenhua",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Dongyang",
+        "short_name": "Cai D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+          "Guangdong Engineering Technology Research Center of Microfluidic Chip Medical Diagnosis, Guangzhou510180, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dayu",
+        "short_name": "Liu D",
+        "identifiers": [
+          "0000-0002-6538-8718"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine, School of Medicine, The Second Affiliated Hospital of South China University of Technology (Guangzhou First People's Hospital), Guangzhou510180, China.",
+          "Guangdong Engineering Technology Research Center of Microfluidic Chip Medical Diagnosis, Guangzhou510180, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS nano"
+    ],
+    "journal_abbrev": [
+      "ACS Nano"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:31",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42937587"
+    ],
+    "review": [
+      "42937587"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ancac3/article-lookup/doi/10.1021/acsnano.6c13618",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

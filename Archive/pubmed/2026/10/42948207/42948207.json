@@ -1,0 +1,148 @@
+{
+  "identity": {
+    "pmid": "42948207",
+    "doi": "10.1007/s11032-026-01736-8",
+    "title": "GESV: a bioinformatic pipeline for genome editing sequence variants analysis."
+  },
+  "content": {
+    "abstract": "Rapid and accurate identification of sequence modifications is essential in genome editing, yet user-friendly bioinformatic tools for processing amplicon data remain limited. Inspired by amplicon-data processing strategies in microbiomics, we developed GESV (Genome-Edited Sequence Variants), a simple and flexible pipeline for the direct extraction of sequence variants from amplicon data of genome-edited organisms. Unlike conventional methods that adopt traditional single-nucleotide variant calling pipelines to analyze editing outcomes of genome-edited organisms, the GESV workflow directly extract sequence variants through the following core steps: merging paired-end reads, removing low-quality and short reads, dereplicating sequences to generate unique sequences with abundance, filtering out potential PCR/sequencing errors, and finally calling sequence modifications to profile edited sequence variants (ESVs). We demonstrate that this pipeline simplifies amplicon-based genotyping while maintaining high accuracy and flexibility. Both online and standalone versions of the GESV tool are available at http://crispr.hzau.edu.cn/gesv. Together, this study presents a novel and flexible data analysis pipeline for amplicon-based genotyping of gene-edited organisms, which will facilitate the application of gene editing in crop breeding. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s11032-026-01736-8.",
+    "keywords": [
+      "Amplicon sequencing",
+      "GESV",
+      "Genome editing",
+      "Genotyping"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Peiyao",
+        "Liu, Hao",
+        "Ye, Shangqi",
+        "Ma, Weihua",
+        "Zhang, Jianwei",
+        "Xie, Kabin"
+      ],
+      "short_names": [
+        "Hu P",
+        "Liu H",
+        "Ye S",
+        "Ma W",
+        "Zhang J",
+        "Xie K"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0643-2456"
+      ],
+      "affiliations": [
+        "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "Hubei Key Laboratory of Plant Pathology, Huazhong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "Hubei Key Laboratory of Plant Pathology, Huazhong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137",
+        "Hubei Key Laboratory of Plant Pathology, Huazhong Agricultural University, Wuhan, 430070 China. ROR: https://ror.org/023b72294. GRID: grid.35155.37. ISNI: 0000 0004 1790 4137"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Peiyao",
+        "short_name": "Hu P",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China.",
+          "Hubei Key Laboratory of Plant Pathology, Huazhong Agricultural University, Wuhan, 430070 China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hao",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China."
+        ]
+      },
+      {
+        "full_name": "Ye, Shangqi",
+        "short_name": "Ye S",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China.",
+          "Hubei Key Laboratory of Plant Pathology, Huazhong Agricultural University, Wuhan, 430070 China."
+        ]
+      },
+      {
+        "full_name": "Ma, Weihua",
+        "short_name": "Ma W",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jianwei",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China."
+        ]
+      },
+      {
+        "full_name": "Xie, Kabin",
+        "short_name": "Xie K",
+        "identifiers": [
+          "0000-0003-0643-2456"
+        ],
+        "affiliations": [
+          "National Key Laboratory of Crop Genetic Improvement and Hubei Hongshan Laboratory, Huzahong Agricultural University, Wuhan, 430070 China.",
+          "Hubei Key Laboratory of Plant Pathology, Huazhong Agricultural University, Wuhan, 430070 China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular breeding : new strategies in plant improvement"
+    ],
+    "journal_abbrev": [
+      "Mol Breed"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 11:36",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42948207"
+    ],
+    "review": [
+      "42948207"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s11032-026-01736-8",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

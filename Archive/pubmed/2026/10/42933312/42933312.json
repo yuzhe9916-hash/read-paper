@@ -1,0 +1,98 @@
+{
+  "identity": {
+    "pmid": "42933312",
+    "doi": "10.1016/j.cbpa.2026.102804",
+    "title": "CRISPR-based functional screening of noncoding regulatory elements."
+  },
+  "content": {
+    "abstract": "The vast majority of trait-associated genetic variants reside in noncoding cis-regulatory elements (CREs), yet most regulatory sequences remain functionally uncharacterized. CRISPR-based screens enable direct perturbation of CREs in their native genomic context and have expanded into a diverse toolkit, including CRISPRi/CRISPRa, nuclease-mediated editing, base editing, prime editing, and continuous mutagenesis. Moreover, these approaches can be paired with phenotypic, transcriptomic, or chromatin readouts at single-cell resolution. However, a limitation of conventional pooled CRISPR screens is that cells are assigned by sgRNA identity rather than by the genotype installed. New genotype-resolved approaches address this gap by directly reading the edited endogenous sequence. Because sequence variants in CREs are associated with human disease, continued development of CRISPR-based technologies may help advance new therapies. In this review, we discuss diverse CRISPR-based modalities and their limitations, emerging genotype-resolved techniques, their applications in gene therapy, and computational approaches for predicting the function of regulatory sequences.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Roh, Heejin",
+        "Liau, Brian B"
+      ],
+      "short_names": [
+        "Roh H",
+        "Liau BB"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, 02215, USA; Gene Regulation Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, 02142, USA.",
+        "Gene Regulation Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, 02142, USA; Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA. Electronic address: liau@chemistry.harvard.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Roh, Heejin",
+        "short_name": "Roh H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, 02215, USA; Gene Regulation Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Liau, Brian B",
+        "short_name": "Liau BB",
+        "identifiers": [],
+        "affiliations": [
+          "Gene Regulation Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, 02142, USA; Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA. Electronic address: liau@chemistry.harvard.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current opinion in chemical biology"
+    ],
+    "journal_abbrev": [
+      "Curr Opin Chem Biol"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 23:27",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42933312"
+    ],
+    "review": [
+      "42933312"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1367-5931(26)00153-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

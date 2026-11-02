@@ -1,0 +1,159 @@
+{
+  "identity": {
+    "pmid": "42965685",
+    "doi": "10.1007/s00425-026-05201-w",
+    "title": "Pangenomics as a framework for discovering structural variants underlying cold tolerance in chilli pepper."
+  },
+  "content": {
+    "abstract": "Pangenomics-based structural variant discovery offers a transformative framework to resolve missing cold-tolerance heritability in chilli pepper and accelerate climate-resilient cultivar development. Chilli pepper (Capsicum annuum L.) is a globally important crop severely restricted by cold sensitivity. SNP-based GWAS explain only 20-30% of the variance in cold tolerance, leaving a \"missing heritability\" gap. The GanZi/XianSheng paradox cultivars sharing >99% coding sequence identity yet exhibiting 5-10-fold differences in cold tolerance strongly implicates regulatory and dosage-based structural variants (SVs) as the primary drivers of phenotypic variation, a gap that pangenomics is positioned to address. This review synthesizes pangenomics, structural variant discovery, QTL mapping, and genome editing as an integrated framework for developing cold-tolerant chilli pepper cultivars. Based on cross-species evidence from rice, barley, and tomato pangenome studies, we propose four SV mechanisms predicted to underlie the GanZi cold-tolerance advantage: (1) regulatory SVs in promoters of CaMYB80, CBF/DREB (DREB, Dehydration-Responsive Element-Binding protein), and CaICE1; (2) copy number variations (CNVs) in antioxidant gene families (CaSOD (Superoxide Dismutase), CaCAT (Catalase), CaAPX (Ascorbate Peroxidase)) and the chlorophyll biosynthesis gene CaALAD (delta-Aminolevulinic Acid Dehydratase); (3) transposable element insertions creating novel regulatory elements in osmolyte biosynthesis genes (P5CS (Delta1-Pyrroline-5-Carboxylate Synthase), BADH (Betaine Aldehyde Dehydrogenase)); and (4) chromosomal inversions coordinating master cold-regulator gene clusters. A multi-SV haplotype in GanZi is predicted to explain 60-80% of phenotypic variance in cold tolerance, more than three times the explanatory power of SNP-based approaches. We outline a pangenome construction strategy (15-17 genomes, PacBio/Nanopore long-read sequencing, 18-24 months, $650K-$980K) followed by SV-GWAS on 200-500 accessions to identify 10-25 high-impact SVs. A four-phase breeding roadmap integrates QTL identification (1-2 years), candidate gene discovery via fine mapping and VIGS (1.5-2 years), CRISPR/Cas9 genome editing via TSWV/TRV viral vectors achieving 6.3-77.9% heritable editing efficiency (2-3 years), and multi-environment field validation across 4-6 locations (2-3 years).This integrated pangenomics-to-breeding strategy is projected to deliver climate-resilient chilli pepper cultivars with 2-5 degrees C improvements in freezing tolerance within 7-10 years, substantially outpacing the 10-12-year timeline of traditional breeding. The proposed structural variant mechanisms remain to be experimentally confirmed in pepper and represent a testable research agenda for the chilli pepper genomics community.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "Cold tolerance",
+      "Missing heritability",
+      "Pangenomics",
+      "QTL mapping",
+      "Structural variants"
+    ],
+    "mesh_terms": [
+      "*Capsicum/genetics/physiology",
+      "Quantitative Trait Loci/genetics",
+      "Cold Temperature",
+      "*Genomics/methods",
+      "*Genome, Plant/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ahmad, Syed Sohail",
+        "Nawaz, Muhammad Azher",
+        "Can, Wang",
+        "Zhao, Yue",
+        "Xin, Liu",
+        "Chen, Rugang"
+      ],
+      "short_names": [
+        "Ahmad SS",
+        "Nawaz MA",
+        "Can W",
+        "Zhao Y",
+        "Xin L",
+        "Chen R"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0593-506X"
+      ],
+      "affiliations": [
+        "College of Horticulture, Northwest A&F University, Yangling, 712100, China.",
+        "Department of Horticultural Sciences, Faculty of Agriculture and Environment, The Islamia University of Bahawalpur, Pakistan, Bahawalpur, Pakistan.",
+        "College of Horticulture, Northwest A&F University, Yangling, 712100, China.",
+        "College of Horticulture, Northwest A&F University, Yangling, 712100, China.",
+        "College of Horticulture, Northwest A&F University, Yangling, 712100, China.",
+        "College of Horticulture, Northwest A&F University, Yangling, 712100, China. rugangchen@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ahmad, Syed Sohail",
+        "short_name": "Ahmad SS",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Northwest A&F University, Yangling, 712100, China."
+        ]
+      },
+      {
+        "full_name": "Nawaz, Muhammad Azher",
+        "short_name": "Nawaz MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Horticultural Sciences, Faculty of Agriculture and Environment, The Islamia University of Bahawalpur, Pakistan, Bahawalpur, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Can, Wang",
+        "short_name": "Can W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Northwest A&F University, Yangling, 712100, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yue",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Northwest A&F University, Yangling, 712100, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Liu",
+        "short_name": "Xin L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Northwest A&F University, Yangling, 712100, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Rugang",
+        "short_name": "Chen R",
+        "identifiers": [
+          "0000-0003-0593-506X"
+        ],
+        "affiliations": [
+          "College of Horticulture, Northwest A&F University, Yangling, 712100, China. rugangchen@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Planta"
+    ],
+    "journal_abbrev": [
+      "Planta"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 23:25",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42965685"
+    ],
+    "review": [
+      "42965685"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00425-026-05201-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-11",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

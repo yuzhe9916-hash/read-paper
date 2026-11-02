@@ -1,0 +1,360 @@
+{
+  "identity": {
+    "pmid": "42951949",
+    "doi": "10.1038/s41587-026-03352-5",
+    "title": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo."
+  },
+  "content": {
+    "abstract": "Achieving coordinated CRISPR-based transactivation (CRISPRa) regulation in vivo remains challenging, as the requisite genetic elements frequently exceed the packaging capacity of AAV vectors. Here we report the identification and engineering of the Cas12m protein family, a naturally nuclease-dead CRISPR system that possesses intrinsic self-processing activity for its precursor crRNA. We develop an optimized variant, denCas12m, and leverage it in the smCRISPRa platform. We show that a single transcriptional unit encoding a multi-gRNA array can be processed into individual functional guides within a target cell, enabling efficient synergistic activation of a single gene through multiple sites or simultaneous activation of distinct endogenous genes from a single all-in-one AAV vector. We demonstrate phenotypic rescue in mouse models of Duchenne muscular dystrophy and Scn1a haploinsufficiency. Furthermore, a single all-in-one AAV vector supports the simultaneous activation of multiple distinct endogenous genes in mice, with a single vector delivering up to eight crRNAs for activation of six different genes, demonstrating the platform's high-order multiplexing.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Hainan",
+        "Yang, Lin",
+        "Liu, Yuling",
+        "Han, Dingyi",
+        "Li, Yingnan",
+        "Lin, Jiajia",
+        "Wang, Bingyan",
+        "Hu, Jiaxu",
+        "Zhang, Yaru",
+        "Zhang, Yi",
+        "Li, Jinhui",
+        "Wei, Shuping",
+        "Liu, Simiao",
+        "Li, Tong",
+        "Zhong, Na",
+        "Zhang, Ganggang",
+        "Zhou, Xingtao",
+        "Shi, Linyu",
+        "Huang, Jinhai",
+        "Yang, Hui",
+        "Tan, Guohe",
+        "Zhou, Yingsi",
+        "Li, Guoling"
+      ],
+      "short_names": [
+        "Zhang H",
+        "Yang L",
+        "Liu Y",
+        "Han D",
+        "Li Y",
+        "Lin J",
+        "Wang B",
+        "Hu J",
+        "Zhang Y",
+        "Zhang Y",
+        "Li J",
+        "Wei S",
+        "Liu S",
+        "Li T",
+        "Zhong N",
+        "Zhang G",
+        "Zhou X",
+        "Shi L",
+        "Huang J",
+        "Yang H",
+        "Tan G",
+        "Zhou Y",
+        "Li G"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1058-0462",
+        "ORCID: 0009-0003-4901-7567",
+        "ORCID: 0000-0001-9952-3175",
+        "ORCID: 0000-0002-8023-0230",
+        "ORCID: 0000-0002-1101-207X"
+      ],
+      "affiliations": [
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. zhanghainan@simm.ac.cn.",
+        "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai Research Center for Brain Science and Brain-Inspired Intelligence, Chinese Academy of Sciences, Shanghai, China.",
+        "Department of Neurology, Fujian Institute of Neurology, the First Affiliated Hospital, Fujian Medical University, Fuzhou, China.",
+        "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+        "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China.",
+        "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China.",
+        "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai Research Center for Brain Science and Brain-Inspired Intelligence, Chinese Academy of Sciences, Shanghai, China.",
+        "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai Research Center for Brain Science and Brain-Inspired Intelligence, Chinese Academy of Sciences, Shanghai, China.",
+        "Department of Neurology, Fujian Institute of Neurology, the First Affiliated Hospital, Fujian Medical University, Fuzhou, China.",
+        "Institute of Neuroscience and Guangxi Key Laboratory of Brain Science, Department of Human Anatomy, School of Basic Medical Sciences, Guangxi Medical University, Nanning, China.",
+        "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China.",
+        "Guangzhou University of Chinese Medicine, Guangzhou, China.",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China.",
+        "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China.",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China.",
+        "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China.",
+        "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China.",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China.",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China.",
+        "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+        "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China.",
+        "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China.",
+        "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+        "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China.",
+        "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China.",
+        "HUIDAGENE Therapeutics, Inc., Shanghai, China.",
+        "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China. jinhaihuang@fudan.edu.cn.",
+        "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China. jinhaihuang@fudan.edu.cn.",
+        "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China. jinhaihuang@fudan.edu.cn.",
+        "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China. yanghui@simm.ac.cn.",
+        "State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. yanghui@simm.ac.cn.",
+        "Institute of Neuroscience and Guangxi Key Laboratory of Brain Science, Department of Human Anatomy, School of Basic Medical Sciences, Guangxi Medical University, Nanning, China. tanguohe@gxmu.edu.cn.",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. zhouyingsi@simm.ac.cn.",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. liguoling@simm.ac.cn.",
+        "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China. liguoling@simm.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Hainan",
+        "short_name": "Zhang H",
+        "identifiers": [
+          "0000-0002-1058-0462"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. zhanghainan@simm.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Lin",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai Research Center for Brain Science and Brain-Inspired Intelligence, Chinese Academy of Sciences, Shanghai, China.",
+          "Department of Neurology, Fujian Institute of Neurology, the First Affiliated Hospital, Fujian Medical University, Fuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yuling",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+          "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China.",
+          "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Han, Dingyi",
+        "short_name": "Han D",
+        "identifiers": [
+          "0009-0003-4901-7567"
+        ],
+        "affiliations": [
+          "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai Research Center for Brain Science and Brain-Inspired Intelligence, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yingnan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai Research Center for Brain Science and Brain-Inspired Intelligence, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Jiajia",
+        "short_name": "Lin J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Fujian Institute of Neurology, the First Affiliated Hospital, Fujian Medical University, Fuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Bingyan",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Neuroscience and Guangxi Key Laboratory of Brain Science, Department of Human Anatomy, School of Basic Medical Sciences, Guangxi Medical University, Nanning, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Jiaxu",
+        "short_name": "Hu J",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China.",
+          "Guangzhou University of Chinese Medicine, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yaru",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jinhui",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Shuping",
+        "short_name": "Wei S",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Simiao",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Tong",
+        "short_name": "Li T",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Na",
+        "short_name": "Zhong N",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ganggang",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+          "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China.",
+          "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xingtao",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+          "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China.",
+          "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Linyu",
+        "short_name": "Shi L",
+        "identifiers": [],
+        "affiliations": [
+          "HUIDAGENE Therapeutics, Inc., Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Jinhai",
+        "short_name": "Huang J",
+        "identifiers": [
+          "0000-0001-9952-3175"
+        ],
+        "affiliations": [
+          "Eye Institute and Department of Ophthalmology, Eye & ENT Hospital, Fudan University, Shanghai, China. jinhaihuang@fudan.edu.cn.",
+          "NHC Key Laboratory of Myopia and Related Eye Diseases, Key Laboratory of Myopia and Related Eye Diseases, Chinese Academy of Medical Sciences, Shanghai, China. jinhaihuang@fudan.edu.cn.",
+          "Shanghai Research Center of Ophthalmology and Optometry, Shanghai, China. jinhaihuang@fudan.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Hui",
+        "short_name": "Yang H",
+        "identifiers": [
+          "0000-0002-8023-0230"
+        ],
+        "affiliations": [
+          "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China. yanghui@simm.ac.cn.",
+          "State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. yanghui@simm.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Tan, Guohe",
+        "short_name": "Tan G",
+        "identifiers": [
+          "0000-0002-1101-207X"
+        ],
+        "affiliations": [
+          "Institute of Neuroscience and Guangxi Key Laboratory of Brain Science, Department of Human Anatomy, School of Basic Medical Sciences, Guangxi Medical University, Nanning, China. tanguohe@gxmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yingsi",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. zhouyingsi@simm.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Guoling",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. liguoling@simm.ac.cn.",
+          "Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Zhongshan, China. liguoling@simm.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature biotechnology"
+    ],
+    "journal_abbrev": [
+      "Nat Biotechnol"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 05:30",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42951949"
+    ],
+    "review": [
+      "42951949"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41587-026-03352-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

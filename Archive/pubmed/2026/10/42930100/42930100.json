@@ -1,0 +1,210 @@
+{
+  "identity": {
+    "pmid": "42930100",
+    "doi": "10.3390/bios16100553",
+    "title": "A Collective CRISPR-Cas12a Biosensing Platform for Effect-Based Screening of Pesticide Residues."
+  },
+  "content": {
+    "abstract": "The simultaneous screening of multicomponent pesticide residues, rather than a single specific compound, remains a critical yet challenging frontier in safety surveillance, largely due to the inherent one-to-one recognition bottleneck in conventional aptamer- or antibody-based biosensors. Herein, we develop a collective CRISPR-Cas12a biosensing platform for effect-based screening of pesticide residues by integrating effect-based enzymatic recognition with PAM-independent CRISPR signal amplification. Rather than employing a dedicated aptamer or antibody for each pesticide, the proposed strategy exploits the inhibitory effects of diverse pesticide residues on alkaline phosphatase (ALP) as a common biochemical response. ALP activity inhibition serves as a common trigger, converting the presence of diverse toxicants into the controlled generation of Cu(+) as a unified biochemical signal via ALP-mediated ascorbic acid production. To transduce this signal into a robust nucleic acid output, we further engineer a CRISPR-Cas12a system that operates completely independent of PAM sequences through click chemistry-mediated covalent ligation of two hairpin fragments. The complete activator strand activated Cas12a trans-cleavage, thereby circumventing the sequence constraints imposed by PAM recognition. The platform exhibits quantitative responses toward TCE, CPF, and Piri, with limits of detection of 22.1 nM, 19.3 nM, and 12.0 nM, respectively. Furthermore, it successfully reports pesticide contamination in a complex real sample matrix, which provides a simple and flexible strategy for preliminary pesticide screening. Importantly, the platform is not intended to convert the collective fluorescence response into the total concentration of diverse pesticide residues; rather, the output reflects the integrated perturbation of the ALP-mediated biochemical pathway under the defined assay conditions. Overall, this work establishes an effect-based collective sensing paradigm that shifts pesticide screening from compound-specific molecular recognition toward integrated biochemical response, providing a flexible strategy for rapid screening and early warning of multicomponent pesticide contamination.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "click-chemistry",
+      "collective biosensing",
+      "effect-based sensing",
+      "pesticide residue screening"
+    ],
+    "mesh_terms": [
+      "*Biosensing Techniques",
+      "*CRISPR-Cas Systems",
+      "*Pesticide Residues/analysis",
+      "Alkaline Phosphatase"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bo, Xiaoya",
+        "Li, Ji",
+        "Huang, Chao",
+        "Liu, Qun",
+        "Qi, Mingyue",
+        "Li, Qunxian",
+        "Dai, Long",
+        "Zhu, Riran",
+        "Ding, Shengyong"
+      ],
+      "short_names": [
+        "Bo X",
+        "Li J",
+        "Huang C",
+        "Liu Q",
+        "Qi M",
+        "Li Q",
+        "Dai L",
+        "Zhu R",
+        "Ding S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4019-0323",
+        "ORCID: 0009-0006-2844-5986"
+      ],
+      "affiliations": [
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+        "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bo, Xiaoya",
+        "short_name": "Bo X",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ji",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+          "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Chao",
+        "short_name": "Huang C",
+        "identifiers": [
+          "0000-0003-4019-0323"
+        ],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+          "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qun",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+          "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Qi, Mingyue",
+        "short_name": "Qi M",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qunxian",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Long",
+        "short_name": "Dai L",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Riran",
+        "short_name": "Zhu R",
+        "identifiers": [],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+          "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Shengyong",
+        "short_name": "Ding S",
+        "identifiers": [
+          "0009-0006-2844-5986"
+        ],
+        "affiliations": [
+          "The First Clinical Medical College, Shandong University of Traditional Chinese Medicine, Jinan 250014, China.",
+          "Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan 250014, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biosensors"
+    ],
+    "journal_abbrev": [
+      "Biosensors (Basel)"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 11:29",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42930100"
+    ],
+    "review": [
+      "42930100"
+    ],
+    "pmc": [
+      "13702698"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=bios16100553",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42930100/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

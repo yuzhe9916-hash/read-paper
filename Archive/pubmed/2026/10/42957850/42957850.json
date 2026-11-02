@@ -1,0 +1,224 @@
+{
+  "identity": {
+    "pmid": "42957850",
+    "doi": "10.1038/s41564-026-02480-7",
+    "title": "Planetary-scale metagenomic analysis reveals CRISPR targeting dynamics across ecosystems."
+  },
+  "content": {
+    "abstract": "Interactions between microorganisms and their mobile genetic elements (MGEs), including viruses and plasmids, impact microbiome dynamics. CRISPR-Cas systems are important regulators of these host-MGE interactions, but a global understanding of the diversity, activity and roles of CRISPR spacers across Earth's biomes is still lacking. Here we develop a computational approach to search short-read data and collect 794 million CRISPR spacers across 367,609 public metagenomes, from which we identified 1.18 billion hits between 41 million spacers and 2.5 million viruses and plasmids. While spacers were highly variable across samples, those matching known viruses were more prevalent and conserved, consistent with a positive selection pressure associated with phage targeting. Among these, however, we find evidence suggestive of recurrent entry of phage genomes into non-host microbial cells, further blurring the line between CRISPR targeting and virus-host interactions. These results highlight key drivers of CRISPR targeting patterns likely to influence strain-level diversification and selection processes in microbiomes.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Roux, Simon",
+        "Neri, Uri",
+        "Bushnell, Brian",
+        "Fremin, Brayon J",
+        "George, Nikhil A",
+        "Gophna, Uri",
+        "Hug, Laura A",
+        "Camargo, Antonio Pedro",
+        "Wu, Dongying",
+        "Ivanova, Natalia",
+        "Kyrpides, Nikos C",
+        "Eloe-Fadrosh, Emiley A"
+      ],
+      "short_names": [
+        "Roux S",
+        "Neri U",
+        "Bushnell B",
+        "Fremin BJ",
+        "George NA",
+        "Gophna U",
+        "Hug LA",
+        "Camargo AP",
+        "Wu D",
+        "Ivanova N",
+        "Kyrpides NC",
+        "Eloe-Fadrosh EA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5831-5895",
+        "ORCID: 0000-0002-8140-0131",
+        "ORCID: 0000-0001-5129-5652",
+        "ORCID: 0000-0001-5974-9428",
+        "ORCID: 0000-0003-3913-2484",
+        "ORCID: 0000-0002-5802-9485",
+        "ORCID: 0000-0002-6131-0462",
+        "ORCID: 0000-0002-8162-1276"
+      ],
+      "affiliations": [
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. sroux@lbl.gov.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA.",
+        "The Shmunis School of Biomedicine and Cancer Research, Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel.",
+        "Department of Biology, University of Waterloo, Waterloo, Ontaria, Canada.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. eaeloefadrosh@lbl.gov."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Roux, Simon",
+        "short_name": "Roux S",
+        "identifiers": [
+          "0000-0002-5831-5895"
+        ],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. sroux@lbl.gov."
+        ]
+      },
+      {
+        "full_name": "Neri, Uri",
+        "short_name": "Neri U",
+        "identifiers": [],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Bushnell, Brian",
+        "short_name": "Bushnell B",
+        "identifiers": [
+          "0000-0002-8140-0131"
+        ],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Fremin, Brayon J",
+        "short_name": "Fremin BJ",
+        "identifiers": [],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "George, Nikhil A",
+        "short_name": "George NA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gophna, Uri",
+        "short_name": "Gophna U",
+        "identifiers": [
+          "0000-0001-5129-5652"
+        ],
+        "affiliations": [
+          "The Shmunis School of Biomedicine and Cancer Research, Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel."
+        ]
+      },
+      {
+        "full_name": "Hug, Laura A",
+        "short_name": "Hug LA",
+        "identifiers": [
+          "0000-0001-5974-9428"
+        ],
+        "affiliations": [
+          "Department of Biology, University of Waterloo, Waterloo, Ontaria, Canada."
+        ]
+      },
+      {
+        "full_name": "Camargo, Antonio Pedro",
+        "short_name": "Camargo AP",
+        "identifiers": [
+          "0000-0003-3913-2484"
+        ],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Dongying",
+        "short_name": "Wu D",
+        "identifiers": [],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ivanova, Natalia",
+        "short_name": "Ivanova N",
+        "identifiers": [
+          "0000-0002-5802-9485"
+        ],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kyrpides, Nikos C",
+        "short_name": "Kyrpides NC",
+        "identifiers": [
+          "0000-0002-6131-0462"
+        ],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Eloe-Fadrosh, Emiley A",
+        "short_name": "Eloe-Fadrosh EA",
+        "identifiers": [
+          "0000-0002-8162-1276"
+        ],
+        "affiliations": [
+          "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. eaeloefadrosh@lbl.gov."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature microbiology"
+    ],
+    "journal_abbrev": [
+      "Nat Microbiol"
+    ],
+    "pub_date": "2026 Oct 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 05:30",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42957850"
+    ],
+    "review": [
+      "42957850"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41564-026-02480-7",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

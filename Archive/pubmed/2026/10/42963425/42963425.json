@@ -1,0 +1,482 @@
+{
+  "identity": {
+    "pmid": "42963425",
+    "doi": "10.1038/s43018-026-01267-3",
+    "title": "BAZ2A-induced epigenetic states in cancer cells fuel palmitate accumulation in the tumor microenvironment driving CAR-T cell exhaustion."
+  },
+  "content": {
+    "abstract": "Chimeric antigen receptor T (CAR-T) cell therapy shows limited efficacy in solid tumors, partly owing to poorly defined tumor-intrinsic resistance mechanisms. Here we show that the epigenetic regulator BAZ2A drives resistance to CD70-targeted CAR-T therapy by reprogramming tumor lipid metabolism. Using an in vivo CRISPR screen in a mouse renal cell carcinoma model, we identify BAZ2A as a key mediator that promotes the production and accumulation of palmitic acid, a saturated fatty acid in the tumor microenvironment. Excess palmitic acid is taken up by CAR-T cells and impairs mitochondrial fitness by inhibiting PGC-1alpha activity, thereby enforcing a dysfunctional state. Pharmacologic inhibition of BAZ2A reduces lipid accumulation and restores CAR-T cell activity in vivo. These findings reveal an epigenetic-metabolic mechanism of immune resistance and suggest that targeting tumor lipid remodeling represents a therapeutic strategy to overcome CAR-T resistance in solid tumors.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Hongye",
+        "Geng, Haigang",
+        "Zhao, Jingtong",
+        "Ge, Haodong",
+        "Shen, Yan",
+        "Wu, Zhaorong",
+        "Bian, Linke",
+        "Zuo, Jinlu",
+        "Sun, Zhen",
+        "Yang, Ying",
+        "Zhu, Jiufei",
+        "Shen, Weiming",
+        "Zheng, Jiaojiao",
+        "Cui, Dan",
+        "Ding, Jiawei",
+        "Yang, Shuxian",
+        "He, Hongchao",
+        "Huang, Hai",
+        "Gao, Yi",
+        "Gao, Keke",
+        "Huo, Mengfei",
+        "Liu, Hanqing",
+        "Liu, Yixun",
+        "Xiao, Jun",
+        "Xu, Dan-Feng",
+        "He, Qiang",
+        "Zhang, Yihao",
+        "Liu, Feng",
+        "Liu, Lianxin",
+        "Zheng, Minghua",
+        "Jin, Haojie",
+        "Zhai, Bo",
+        "Zhang, Chuanjie"
+      ],
+      "short_names": [
+        "Wang H",
+        "Geng H",
+        "Zhao J",
+        "Ge H",
+        "Shen Y",
+        "Wu Z",
+        "Bian L",
+        "Zuo J",
+        "Sun Z",
+        "Yang Y",
+        "Zhu J",
+        "Shen W",
+        "Zheng J",
+        "Cui D",
+        "Ding J",
+        "Yang S",
+        "He H",
+        "Huang H",
+        "Gao Y",
+        "Gao K",
+        "Huo M",
+        "Liu H",
+        "Liu Y",
+        "Xiao J",
+        "Xu DF",
+        "He Q",
+        "Zhang Y",
+        "Liu F",
+        "Liu L",
+        "Zheng M",
+        "Jin H",
+        "Zhai B",
+        "Zhang C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6467-0316",
+        "ORCID: 0009-0006-0115-7052",
+        "ORCID: 0000-0002-3535-6467",
+        "ORCID: 0000-0001-9295-1951",
+        "ORCID: 0000-0003-4337-7126",
+        "ORCID: 0000-0003-3807-8084"
+      ],
+      "affiliations": [
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Biliary and Pancreatic Surgery, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Department of Gastrointestinal Surgery, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gastrointestinal Cancer Translational Research, Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Peking University Cancer Hospital, Beijing, China.",
+        "Shanghai Lung Cancer Center, Shanghai Key Laboratory of Thoracic Tumor Biotherapy, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Shanghai Minimally Invasive Surgery Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Research Center for Experimental Medicine of Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Shanghai Lung Cancer Center, Shanghai Key Laboratory of Thoracic Tumor Biotherapy, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Readybio Biological Technology Co., Ltd., Zhengzhou, China.",
+        "Readybio Biological Technology Co., Ltd., Zhengzhou, China.",
+        "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
+        "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
+        "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Nephrology, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+        "Division of Life Sciences and Medicine, Department of Hepatobiliary Surgery, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, China. liulx@ustc.edu.cn.",
+        "Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhengmhrjhospital@163.com.",
+        "Shanghai Minimally Invasive Surgery Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhengmhrjhospital@163.com.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China. hjjin1986@126.com.",
+        "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. hjjin1986@126.com.",
+        "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China. zhaiboshi@sina.com.",
+        "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhaiboshi@sina.com.",
+        "Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. chuanjie_zhang@ustc.edu.cn.",
+        "Shanghai Minimally Invasive Surgery Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. chuanjie_zhang@ustc.edu.cn.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. chuanjie_zhang@ustc.edu.cn.",
+        "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China. chuanjie_zhang@ustc.edu.cn.",
+        "Department of Nephrology, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China. chuanjie_zhang@ustc.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Hongye",
+        "short_name": "Wang H",
+        "identifiers": [
+          "0000-0002-6467-0316"
+        ],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+          "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Department of Biliary and Pancreatic Surgery, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Geng, Haigang",
+        "short_name": "Geng H",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+          "Department of Gastrointestinal Surgery, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Department of Gastrointestinal Cancer Translational Research, Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Peking University Cancer Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jingtong",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Lung Cancer Center, Shanghai Key Laboratory of Thoracic Tumor Biotherapy, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Haodong",
+        "short_name": "Ge H",
+        "identifiers": [
+          "0009-0006-0115-7052"
+        ],
+        "affiliations": [
+          "Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+          "Shanghai Minimally Invasive Surgery Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Yan",
+        "short_name": "Shen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Experimental Medicine of Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhaorong",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Bian, Linke",
+        "short_name": "Bian L",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zuo, Jinlu",
+        "short_name": "Zuo J",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Zhen",
+        "short_name": "Sun Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ying",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Lung Cancer Center, Shanghai Key Laboratory of Thoracic Tumor Biotherapy, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jiufei",
+        "short_name": "Zhu J",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China.",
+          "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Weiming",
+        "short_name": "Shen W",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Jiaojiao",
+        "short_name": "Zheng J",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Dan",
+        "short_name": "Cui D",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Jiawei",
+        "short_name": "Ding J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Shuxian",
+        "short_name": "Yang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "He, Hongchao",
+        "short_name": "He H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Hai",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yi",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Keke",
+        "short_name": "Gao K",
+        "identifiers": [],
+        "affiliations": [
+          "Readybio Biological Technology Co., Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Huo, Mengfei",
+        "short_name": "Huo M",
+        "identifiers": [],
+        "affiliations": [
+          "Readybio Biological Technology Co., Ltd., Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hanqing",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yixun",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Jun",
+        "short_name": "Xiao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Dan-Feng",
+        "short_name": "Xu DF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "He, Qiang",
+        "short_name": "He Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yihao",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Feng",
+        "short_name": "Liu F",
+        "identifiers": [],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Lianxin",
+        "short_name": "Liu L",
+        "identifiers": [
+          "0000-0002-3535-6467"
+        ],
+        "affiliations": [
+          "Division of Life Sciences and Medicine, Department of Hepatobiliary Surgery, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, China. liulx@ustc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zheng, Minghua",
+        "short_name": "Zheng M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhengmhrjhospital@163.com.",
+          "Shanghai Minimally Invasive Surgery Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhengmhrjhospital@163.com."
+        ]
+      },
+      {
+        "full_name": "Jin, Haojie",
+        "short_name": "Jin H",
+        "identifiers": [
+          "0000-0001-9295-1951"
+        ],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China. hjjin1986@126.com.",
+          "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. hjjin1986@126.com."
+        ]
+      },
+      {
+        "full_name": "Zhai, Bo",
+        "short_name": "Zhai B",
+        "identifiers": [
+          "0000-0003-4337-7126"
+        ],
+        "affiliations": [
+          "Mini-invasive Interventional Therapy Center, Shanghai East Hospital, Tongji University, Shanghai, China. zhaiboshi@sina.com.",
+          "Shanghai Cancer Institute, State Key Laboratory of Systems Medicine for Cancer, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhaiboshi@sina.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chuanjie",
+        "short_name": "Zhang C",
+        "identifiers": [
+          "0000-0003-3807-8084"
+        ],
+        "affiliations": [
+          "Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. chuanjie_zhang@ustc.edu.cn.",
+          "Shanghai Minimally Invasive Surgery Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. chuanjie_zhang@ustc.edu.cn.",
+          "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. chuanjie_zhang@ustc.edu.cn.",
+          "Department of Urology, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China. chuanjie_zhang@ustc.edu.cn.",
+          "Department of Nephrology, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China. chuanjie_zhang@ustc.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature cancer"
+    ],
+    "journal_abbrev": [
+      "Nat Cancer"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 05:32",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42963425"
+    ],
+    "review": [
+      "42963425"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s43018-026-01267-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD70-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

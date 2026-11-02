@@ -1,0 +1,112 @@
+{
+  "identity": {
+    "pmid": "42947942",
+    "doi": "10.21769/BioProtoc.5846",
+    "title": "Antiangiogenic Drug Testing Using Proangiogenic and Hypoxia Zebrafish Model."
+  },
+  "content": {
+    "abstract": "Zebrafish is an excellent in vivo model for high-throughput antiangiogenic drug testing, commonly known as the zebrafish angiogenesis assay. Conventional zebrafish angiogenesis assays are performed in wild-type zebrafish to evaluate the vascular changes in intersegmental and subintestinal vessel regions of the zebrafish larvae at 2 and 3 dpf stages, respectively. However, wild-type zebrafish larvae do not adequately mimic the hypoxia microenvironment and ectopic vessel branching characteristics of cancer. To overcome this limitation, we developed a genetically engineered zebrafish model with constitutive activation of the hypoxia signaling pathway by targeting the vhl, a tumor suppressor, by negative regulation of the hypoxia pathway, using CRISPR mutagenesis. This model exhibits robust ectopic blood vessel branching throughout the larval body, thereby recapitulating pathological angiogenesis. The utility of this zebrafish model system for drug screening was validated with the sorafenib treatment, a known antiangiogenic tyrosine kinase inhibitor. Overall, this proangiogenic hypoxia zebrafish model provides a physiologically relevant platform for testing antiangiogenic drugs. Key features * Generate a vhl mutant zebrafish line with constitutive activation of the hypoxia signaling pathway using CRISPR-CAS9 mutagenesis. * The generated model exhibits extensive ectopic neovascular branching and abnormal vascular growth resembling pathological angiogenesis observed in solid tumors. * Mimics the chronic hypoxic microenvironment commonly associated with cancer progression and angiogenesis. * Provides an economical alternative to mammalian tumor models for early-stage antiangiogenic drug testing.",
+    "keywords": [
+      "Angiogenesis",
+      "Antiangiogenic drug testing",
+      "Hypoxia signaling",
+      "In vivo disease model",
+      "Tg(fli1:EGFP)",
+      "Zebrafish"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vinoth, S",
+        "Santhakumar, Kirankumar"
+      ],
+      "short_names": [
+        "Vinoth S",
+        "Santhakumar K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Zebrafish Genetics Laboratory, Department of Genetic Engineering, SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India.",
+        "Zebrafish Genetics Laboratory, Department of Genetic Engineering, SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vinoth, S",
+        "short_name": "Vinoth S",
+        "identifiers": [],
+        "affiliations": [
+          "Zebrafish Genetics Laboratory, Department of Genetic Engineering, SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Santhakumar, Kirankumar",
+        "short_name": "Santhakumar K",
+        "identifiers": [],
+        "affiliations": [
+          "Zebrafish Genetics Laboratory, Department of Genetic Engineering, SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bio-protocol"
+    ],
+    "journal_abbrev": [
+      "Bio Protoc"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 05:28",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42947942"
+    ],
+    "review": [
+      "42947942"
+    ],
+    "pmc": [
+      "13710127"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42947942/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3953",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://bio-protocol.org/e5846",
+        "provider": "Bio-Protocol, LLC",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

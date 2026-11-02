@@ -1,0 +1,344 @@
+{
+  "identity": {
+    "pmid": "42928503",
+    "doi": "10.1002/advs.78430",
+    "title": "In Vivo CRISPR Screen Identifies RPS19 as an Immunotherapy Target in Hepatocellular Carcinoma."
+  },
+  "content": {
+    "abstract": "Despite the remarkable clinical success of immunotherapy, its efficacy against hepatocellular carcinoma (HCC) remains severely limited, highlighting an urgent need for novel targets and strategies to overcome immune evasion. Here, we aimed to identify key regulators of HCC immunity via unbiased functional screening and develop a targeted therapy to remodel the immunosuppressive tumor microenvironment (TME). We performed an in vivo CRISPR-knockout screen using a 4500-gene sgRNA library in syngeneic HCC mouse models. Single-cell RNA sequencing of human HCC tissues and in vivo macrophage-depletion assays were utilized to dissect cellular populations and validate underlying mechanisms. We identified ribosomal protein S19 (RPS19) as a central mediator of HCC immune evasion, whose deletion in HCC cells mitigates the immunosuppressive TME. Mechanistically, scRNA-seq pinpointed tumor-associated macrophages as the key effector subset, whereby complement C5a receptor 1 (C5aR1) transduces RPS19 signals to trigger macrophage-dependent immune suppression. We further constructed SP94-peptide-modified disulfide-bond-containing nanoparticles (SNP(SS)) for targeted CRISPR-Cas9 delivery. SNP(SS) efficiently homes to HCC cells, releases payloads within the glutathione-rich TME, downregulates RPS19, reverses immune suppression, and robustly suppresses HCC progression in vivo. Collectively, the RPS19-C5aR1-macrophage axis fuels HCC immune escape, and SNP(SS)-based RPS19 gene-editing offers a promising strategy to remodel the TME and boost HCC immunotherapy efficacy.",
+    "keywords": [
+      "CRISPR screens",
+      "RPS19",
+      "gene editing",
+      "hepatocellular carcinoma",
+      "tumor immunotherapy"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "He, Lei",
+        "Yu, Duo",
+        "Xie, Fei",
+        "Hou, Kaisheng",
+        "Li, Zhaozhao",
+        "Dai, Meifang",
+        "Yun, Jingyi",
+        "Cao, Haiyan",
+        "Xiao, Yang",
+        "Qiu, Yueyuan",
+        "Shi, Gege",
+        "Zhang, Wangqian",
+        "Wang, Shuning",
+        "Hao, Qiang",
+        "Zhang, Jieyu",
+        "Wang, Zhaowei",
+        "Zhang, Yingqi",
+        "Zhang, Kuo",
+        "Gu, Jintao",
+        "Du, Haichen",
+        "Li, Meng"
+      ],
+      "short_names": [
+        "He L",
+        "Yu D",
+        "Xie F",
+        "Hou K",
+        "Li Z",
+        "Dai M",
+        "Yun J",
+        "Cao H",
+        "Xiao Y",
+        "Qiu Y",
+        "Shi G",
+        "Zhang W",
+        "Wang S",
+        "Hao Q",
+        "Zhang J",
+        "Wang Z",
+        "Zhang Y",
+        "Zhang K",
+        "Gu J",
+        "Du H",
+        "Li M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4631-2291",
+        "ORCID: 0009-0002-9852-9721",
+        "ORCID: 0009-0006-1935-2331",
+        "ORCID: 0009-0008-5184-3637",
+        "ORCID: 0000-0002-9596-9417",
+        "ORCID: 0000-0003-4135-8394",
+        "ORCID: 0000-0001-6541-144X",
+        "ORCID: 0000-0003-0951-2435"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "Department of Neurosurgery, General Hospital of Central Theater Command, Wuhan, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "Department of Neurosurgery, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "Department of Experiment Surgery, Xijing Hospital, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+        "Department of Oncology, 940th Hospital, Joint Logistic Support Force, Lanzhou, China.",
+        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "He, Lei",
+        "short_name": "He L",
+        "identifiers": [
+          "0000-0002-4631-2291"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Duo",
+        "short_name": "Yu D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+          "Department of Neurosurgery, General Hospital of Central Theater Command, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Fei",
+        "short_name": "Xie F",
+        "identifiers": [
+          "0009-0002-9852-9721"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Kaisheng",
+        "short_name": "Hou K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhaozhao",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Meifang",
+        "short_name": "Dai M",
+        "identifiers": [
+          "0009-0006-1935-2331"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Yun, Jingyi",
+        "short_name": "Yun J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Haiyan",
+        "short_name": "Cao H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+          "Department of Neurosurgery, Tangdu Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Yang",
+        "short_name": "Xiao Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China.",
+          "Department of Experiment Surgery, Xijing Hospital, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Yueyuan",
+        "short_name": "Qiu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Gege",
+        "short_name": "Shi G",
+        "identifiers": [
+          "0009-0008-5184-3637"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wangqian",
+        "short_name": "Zhang W",
+        "identifiers": [
+          "0000-0002-9596-9417"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shuning",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Qiang",
+        "short_name": "Hao Q",
+        "identifiers": [
+          "0000-0003-4135-8394"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jieyu",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhaowei",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0000-0001-6541-144X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yingqi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Kuo",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Jintao",
+        "short_name": "Gu J",
+        "identifiers": [
+          "0000-0003-0951-2435"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Du, Haichen",
+        "short_name": "Du H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, 940th Hospital, Joint Logistic Support Force, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Meng",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Department of Biopharmaceutics, School of Pharmacy, Fourth Military Medical University, Xi'an, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 05:30",
+    "fetched_at": "2026-11-02 19:39:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42928503"
+    ],
+    "review": [
+      "42928503"
+    ],
+    "pmc": [
+      "13696879"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42928503/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-436",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

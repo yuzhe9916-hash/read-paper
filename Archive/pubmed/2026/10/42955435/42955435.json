@@ -1,0 +1,174 @@
+{
+  "identity": {
+    "pmid": "42955435",
+    "doi": "10.1007/s11033-026-13053-6",
+    "title": "Comparative analysis of single and dual sgRNA CRISPR/Cas9 ribonucleoprotein strategies for efficient Park7 gene editing in primary mouse embryonic fibroblasts."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Parkinson's disease (PD) is a progressive neurological condition that predominantly affects dopaminergic neurons in the substantia nigra. Mutations or deletions in the Park7 gene may cause a rare autosomal recessive form of early-onset PD. Generating reliable cellular models with specific Park7 disruption is crucial for elucidating the molecular mechanisms underlying PD pathogenesis. METHODS AND RESULTS: This study developed a plasmid-free CRISPR/Cas9 genome-editing method for targeting the Park7 gene in primary mouse embryonic fibroblasts (MEFs) using single- and dual-sgRNA-mediated ribonucleoprotein (RNP) system. Gene modification through the single sgRNA strategy was confirmed by the detection of indels by T7 endonuclease assay, whereas gene editing by the dual sgRNA strategy was validated through detection of large deletions by junctional PCR and Sanger sequencing. Deep amplicon sequencing showed an overall editing frequency of 50.68% and 24.87% for single-sgRNA and dual-sgRNA editing strategies, respectively. While single-sgRNA editing predominantly generated small insertions and deletions, large deletions constituted the predominant editing outcome in the dual-sgRNA group, accounting for 22.23% of the total reads. Further, Western blot analysis demonstrated a 12.03 +/- 7.6% reduction in PARK7 protein expression following single sgRNA transfection, whereas dual sgRNA transfection showed a significant reduction of 54.89 +/- 9.1% (p < 0.0001). CONCLUSION: This study demonstrates a plasmid-free CRISPR/Cas9 RNP-based approach for targeted Park7 gene editing in primary MEFs. The results underline the importance of considering both the outcomes of genomic editing and the expression of functional protein when evaluating CRISPR/Cas9 approaches. This established approach sets the basis for the development of Park7-edited cellular models to study molecular mechanisms associated with PD and the subsequent development of disease-relevant models.",
+    "keywords": [
+      "Park7",
+      "CRISPR/Cas9",
+      "Mouse embryonic fibroblast",
+      "Parkinson's disease",
+      "Ribonucleoprotein (RNP)",
+      "sgRNA"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*CRISPR-Cas Systems/genetics",
+      "Mice",
+      "Fibroblasts/metabolism",
+      "*Gene Editing/methods",
+      "*Ribonucleoproteins/genetics/metabolism",
+      "*Protein Deglycase DJ-1/genetics/metabolism",
+      "*RNA, Guide, CRISPR-Cas Systems/genetics",
+      "Parkinson Disease/genetics"
+    ],
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Suryadevara, Lekhana",
+        "Srinivas, Vilasagaram",
+        "Barathidasan, Rajamani",
+        "Mhaske, Suhas Tukaram",
+        "Naik, Ramavat Ravindar",
+        "Gupta, Mukesh Kumar",
+        "Pramod, Ravindran Kumar"
+      ],
+      "short_names": [
+        "Suryadevara L",
+        "Srinivas V",
+        "Barathidasan R",
+        "Mhaske ST",
+        "Naik RR",
+        "Gupta MK",
+        "Pramod RK"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1327-4679"
+      ],
+      "affiliations": [
+        "Intramural research project, ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India.",
+        "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India.",
+        "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India.",
+        "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India.",
+        "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India.",
+        "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India.",
+        "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India. pramod.r@icmr.gov.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Suryadevara, Lekhana",
+        "short_name": "Suryadevara L",
+        "identifiers": [],
+        "affiliations": [
+          "Intramural research project, ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India."
+        ]
+      },
+      {
+        "full_name": "Srinivas, Vilasagaram",
+        "short_name": "Srinivas V",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India."
+        ]
+      },
+      {
+        "full_name": "Barathidasan, Rajamani",
+        "short_name": "Barathidasan R",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India."
+        ]
+      },
+      {
+        "full_name": "Mhaske, Suhas Tukaram",
+        "short_name": "Mhaske ST",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India."
+        ]
+      },
+      {
+        "full_name": "Naik, Ramavat Ravindar",
+        "short_name": "Naik RR",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India."
+        ]
+      },
+      {
+        "full_name": "Gupta, Mukesh Kumar",
+        "short_name": "Gupta MK",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India."
+        ]
+      },
+      {
+        "full_name": "Pramod, Ravindran Kumar",
+        "short_name": "Pramod RK",
+        "identifiers": [
+          "0000-0003-1327-4679"
+        ],
+        "affiliations": [
+          "ICMR National Institute for Pre-Clinical Research, Genome Valley, Hyderabad, Telangana, 500101, India. pramod.r@icmr.gov.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology reports"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Rep"
+    ],
+    "pub_date": "2026 Oct 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 17:36",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42955435"
+    ],
+    "review": [
+      "42955435"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11033-026-13053-6",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3991",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

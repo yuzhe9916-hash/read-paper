@@ -1,0 +1,198 @@
+{
+  "identity": {
+    "pmid": "42957858",
+    "doi": "10.1038/s41418-026-01866-8",
+    "title": "DCST1 drives cisplatin resistance via non-canonical ubiquitination and stabilization of NFAT5 to suppress PANoptosis in bladder cancer."
+  },
+  "content": {
+    "abstract": "Cisplatin-based chemotherapy constitutes the cornerstone of first-line treatment for muscle-invasive and metastatic bladder cancer (BCa); however, the frequent emergence of chemoresistance presents a formidable clinical obstacle. In the present study, by combining a systematic CRISPR-Cas9 E3 ligase library screen with drug sensitivity data from the GDSC database, DCST1 (DC-STAMP Domain Containing 1) was identified as a pivotal driver of cisplatin resistance. DCST1 expression was found to be markedly upregulated in chemoresistant BCa tissues, and its elevated expression served as an independent predictor of poor patient prognosis. Functionally, DCST1 deficiency sensitizes BCa cells to cisplatin in vitro and in vivo by triggering PANoptosis (simultaneous apoptosis, pyroptosis, and necroptosis). Mechanistically, DCST1 functions as an atypical E3 ubiquitin ligase to catalyze the K11/K27-linked polyubiquitination of NFAT5 at residue K450. This non-canonical ubiquitination stabilizes NFAT5 by preventing its lysosomal degradation and promotes its nuclear accumulation. Nuclear NFAT5 then transcriptionally activates SOD2, orchestrating an anti-PANoptotic program that ensures BCa cell survival under chemotherapeutic stress. Furthermore, through molecular docking and CETSA validation, digoxin was identified as a potent pharmacological inhibitor of NFAT5 that overcomes DCST1-mediated chemoresistance and synergistically restores cisplatin sensitivity. Collectively, these findings unveil a previously unrecognized ubiquitination-dependent mechanism of chemoresistance and establish the DCST1-NFAT5 signaling axis as a promising therapeutic target for overcoming drug resistance in BCa.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cao, Chun",
+        "Lai, Yiqi",
+        "Ye, Wanteng",
+        "Wang, Zihuan",
+        "Chen, Yuwen",
+        "Fan, Qin",
+        "Deng, Fan",
+        "Hou, Lina",
+        "Wang, Zhizhang",
+        "Tan, Wanlong",
+        "Li, Fei"
+      ],
+      "short_names": [
+        "Cao C",
+        "Lai Y",
+        "Ye W",
+        "Wang Z",
+        "Chen Y",
+        "Fan Q",
+        "Deng F",
+        "Hou L",
+        "Wang Z",
+        "Tan W",
+        "Li F"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-6930-4448",
+        "ORCID: 0000-0002-4699-953X",
+        "ORCID: 0000-0002-7971-0288"
+      ],
+      "affiliations": [
+        "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Department of Cell Biology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, PR China.",
+        "Huiqiao Medical Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China. twl@smu.edu.cn.",
+        "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China. feili20700338@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cao, Chun",
+        "short_name": "Cao C",
+        "identifiers": [
+          "0009-0004-6930-4448"
+        ],
+        "affiliations": [
+          "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Lai, Yiqi",
+        "short_name": "Lai Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Ye, Wanteng",
+        "short_name": "Ye W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zihuan",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yuwen",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Fan, Qin",
+        "short_name": "Fan Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Deng, Fan",
+        "short_name": "Deng F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, PR China."
+        ]
+      },
+      {
+        "full_name": "Hou, Lina",
+        "short_name": "Hou L",
+        "identifiers": [],
+        "affiliations": [
+          "Huiqiao Medical Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhizhang",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0000-0002-4699-953X"
+        ],
+        "affiliations": [
+          "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China."
+        ]
+      },
+      {
+        "full_name": "Tan, Wanlong",
+        "short_name": "Tan W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China. twl@smu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Fei",
+        "short_name": "Li F",
+        "identifiers": [
+          "0000-0002-7971-0288"
+        ],
+        "affiliations": [
+          "Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, PR China. feili20700338@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell death and differentiation"
+    ],
+    "journal_abbrev": [
+      "Cell Death Differ"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 05:30",
+    "fetched_at": "2026-11-02 19:37:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42957858"
+    ],
+    "review": [
+      "42957858"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41418-026-01866-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

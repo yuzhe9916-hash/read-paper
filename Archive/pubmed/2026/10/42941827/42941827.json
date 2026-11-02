@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "42941827",
+    "doi": "10.3390/ijms27209054",
+    "title": "IndelQuant: A Workflow for Cost-Efficient Amplicon Sequencing Analysis of Genome-Edited Chickens."
+  },
+  "content": {
+    "abstract": "Accurate quantification of Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9-induced insertions and deletions (indels) is essential in chicken genome-editing studies, where low editing efficiencies and mosaicism can complicate the assessment of target-site modifications. Existing assays often involve a trade-off between affordability and the sensitivity orsequence information needed for detailed analysis. Here, we introduce IndelQuant, a cost-efficient workflow integrating sample-specific barcode PCR, pooled amplicon library construction, AdapterRemoval3-based read processing, and CRISPResso2-based indel quantification. The workflow provides graphical and tabularsummaries of editing efficiency, indel positions, indel-size distributions, and sample-level mutation profiles. We evaluated the workflow in TYR-edited DF-1 cells and genome-edited chickens. In edited chickens, IndelQuant detected tissue-specific indel signals, most below 5%, while negative controls showed background frequencies from 0 to 0.03%. These findings indicate that IndelQuant retains the sequence-level information provided by amplicon sequencing while simplifying sample processing and analysis, offering a practical approach to routine screening for low-frequency and mosaic indels in poultry genome-editing studies.",
+    "keywords": [
+      "CRISPR",
+      "amplicon sequencing",
+      "chicken",
+      "genome editing",
+      "low-cost workflow"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Chickens/genetics",
+      "*INDEL Mutation",
+      "*Gene Editing/methods/economics",
+      "CRISPR-Cas Systems",
+      "Genome",
+      "Workflow",
+      "*High-Throughput Nucleotide Sequencing/methods",
+      "Sequence Analysis, DNA/methods",
+      "Cost-Benefit Analysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Duan, Yujuan",
+        "Xu, Ke",
+        "Zhou, Hao",
+        "He, Chuan",
+        "Ding, Jinmei",
+        "Qin, Chao",
+        "Zhang, Yan",
+        "Han, Chengxiao",
+        "Meng, He"
+      ],
+      "short_names": [
+        "Duan Y",
+        "Xu K",
+        "Zhou H",
+        "He C",
+        "Ding J",
+        "Qin C",
+        "Zhang Y",
+        "Han C",
+        "Meng H"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-2566-7119",
+        "ORCID: 0000-0003-0906-9410",
+        "ORCID: 0000-0003-0767-7818",
+        "ORCID: 0000-0002-3374-2241"
+      ],
+      "affiliations": [
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Carilion Clinic, Roanoke, VA 24016, USA.",
+        "School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Duan, Yujuan",
+        "short_name": "Duan Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ke",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Hao",
+        "short_name": "Zhou H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "He, Chuan",
+        "short_name": "He C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Jinmei",
+        "short_name": "Ding J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Chao",
+        "short_name": "Qin C",
+        "identifiers": [
+          "0009-0003-2566-7119"
+        ],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yan",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0003-0906-9410"
+        ],
+        "affiliations": [
+          "Carilion Clinic, Roanoke, VA 24016, USA."
+        ]
+      },
+      {
+        "full_name": "Han, Chengxiao",
+        "short_name": "Han C",
+        "identifiers": [
+          "0000-0003-0767-7818"
+        ],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Meng, He",
+        "short_name": "Meng H",
+        "identifiers": [
+          "0000-0002-3374-2241"
+        ],
+        "affiliations": [
+          "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42941827"
+    ],
+    "review": [
+      "42941827"
+    ],
+    "pmc": [
+      "13705014"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27209054",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42941827/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3697",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

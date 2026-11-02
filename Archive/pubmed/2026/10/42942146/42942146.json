@@ -1,0 +1,143 @@
+{
+  "identity": {
+    "pmid": "42942146",
+    "doi": "10.3390/ijms27209381",
+    "title": "Beyond Homologous Recombination: Functional Modules of Olaparib Resistance Revealed by CRISPR Screens."
+  },
+  "content": {
+    "abstract": "Clinical use of PARP inhibitors (PARPi), including olaparib, has improved outcomes for patients with BRCA1/2-mutant and homologous recombination (HR)-deficient tumors. However, acquired resistance remains a major limitation to their efficacy. CRISPR-Cas9 screening approaches have been developed to identify genetic drivers of PARPi resistance. However, differences in experimental conditions, library coverage, and selection design complicate comparisons across studies. In this review, we present a harmonized reanalysis of CRISPR knockout olaparib resistance screens to identify recurrent resistance-associated genes and pathways. Datasets with raw data were collected from the BioGRID ORCS database. Resistance hits identified in at least two screens were subjected to Reactome pathway-enrichment analysis and organized into functional modules. Using this approach, we identified eight modules: DNA-damage repair and replication stress; cell-cycle regulation; chromatin remodeling and histone modification; post-translational regulation; mitochondrial function; TGF-beta and mTOR signaling; RNA processing and nucleocytoplasmic transport; and emerging adaptive mechanisms. Importantly, mitochondrial function genes were observed as recurrent hits, but their relation to olaparib resistance is underinvestigated. Our integrative analysis suggests that PARPi resistance is a complex, adaptive phenotype shaped by recurrent but context-dependent vulnerabilities across multiple cellular programs. This framework prioritizes candidate resistance drivers for validation and highlights directions for the design of combination therapies aimed at overcoming PARPi resistance.",
+    "keywords": [
+      "CRISPR screen",
+      "PARP inhibitor resistance",
+      "functional genomics",
+      "olaparib"
+    ],
+    "mesh_terms": [
+      "*Phthalazines/pharmacology/therapeutic use",
+      "*Piperazines/pharmacology/therapeutic use",
+      "Humans",
+      "*Drug Resistance, Neoplasm/genetics",
+      "*Homologous Recombination",
+      "*Poly(ADP-ribose) Polymerase Inhibitors/pharmacology/therapeutic use",
+      "*CRISPR-Cas Systems",
+      "Animals",
+      "DNA Repair"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dildabayeva, Dana",
+        "Samarkhanova, Diana",
+        "Lezina, Larissa"
+      ],
+      "short_names": [
+        "Dildabayeva D",
+        "Samarkhanova D",
+        "Lezina L"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2109-132X",
+        "ORCID: 0000-0002-6558-6546",
+        "ORCID: 0009-0002-8580-1327"
+      ],
+      "affiliations": [
+        "Department of Biological and Biomedical Sciences, School of Medicine, Nazarbayev University, Astana 010000, Kazakhstan.",
+        "Department of Biological and Biomedical Sciences, School of Medicine, Nazarbayev University, Astana 010000, Kazakhstan.",
+        "Department of Biological and Biomedical Sciences, School of Medicine, Nazarbayev University, Astana 010000, Kazakhstan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dildabayeva, Dana",
+        "short_name": "Dildabayeva D",
+        "identifiers": [
+          "0000-0003-2109-132X"
+        ],
+        "affiliations": [
+          "Department of Biological and Biomedical Sciences, School of Medicine, Nazarbayev University, Astana 010000, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Samarkhanova, Diana",
+        "short_name": "Samarkhanova D",
+        "identifiers": [
+          "0000-0002-6558-6546"
+        ],
+        "affiliations": [
+          "Department of Biological and Biomedical Sciences, School of Medicine, Nazarbayev University, Astana 010000, Kazakhstan."
+        ]
+      },
+      {
+        "full_name": "Lezina, Larissa",
+        "short_name": "Lezina L",
+        "identifiers": [
+          "0009-0002-8580-1327"
+        ],
+        "affiliations": [
+          "Department of Biological and Biomedical Sciences, School of Medicine, Nazarbayev University, Astana 010000, Kazakhstan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-02 19:38:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42942146"
+    ],
+    "review": [
+      "42942146"
+    ],
+    "pmc": [
+      "13705357"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27209381",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42942146/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

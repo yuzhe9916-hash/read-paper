@@ -1,0 +1,182 @@
+{
+  "identity": {
+    "pmid": "42966321",
+    "doi": "10.1016/j.tranon.2026.103094",
+    "title": "MANF promotes cell fitness and attenuates bortezomib sensitivity in multiple myeloma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Multiple myeloma (MM) is a clonal plasma cell malignancy in which disease relapse and treatment resistance remain major clinical challenges. Identifying molecular dependencies that support myeloma cell fitness may reveal therapeutic vulnerabilities beyond recurrent genomic alterations. Mesencephalic astrocyte-derived neurotrophic factor (MANF) is an endoplasmic reticulum-resident, stress-responsive protein, but its clinical and biological significance in MM remains poorly defined. METHODS: Publicly available DepMap CRISPR dependency data were analyzed to identify candidate MM-preferential dependencies. MANF expression and prognostic associations were examined in the MMRF CoMMpass cohort. Single-cell RNA sequencing and in silico perturbation analyses characterized its cellular distribution and predicted functional associations. MANF knockdown and genetic rescue using an siRNA-resistant MANF construct were performed in RPMI-8226 and OPM-2 cells to assess proliferation, cell-cycle distribution, and bortezomib sensitivity. Transcriptomic profiling characterized gene expression changes following MANF knockdown, while measurements at multiple time points assessed the temporal patterns of IRE1alpha-XBP1s-associated readouts. RESULTS: MANF was identified as a candidate MM-preferential dependency. Higher MANF expression was associated with advanced ISS stage and inferior overall survival, with the survival association retained after adjustment for established clinical and cytogenetic risk factors. Single-cell analysis localized MANF expression predominantly to plasma cells, while virtual knockout predicted changes involving ER protein processing, proteasome function, and metabolism. MANF knockdown inhibited proliferation, increased G0/G1 accumulation, and reduced MYC/E2F-associated transcriptional programs and cell-cycle regulatory proteins. Time-course analyses revealed early enhancement followed by later attenuation in selected IRE1alpha-XBP1s-associated readouts. MANF knockdown also increased bortezomib-induced apoptosis and reduced its IC(5)(0). MANF re-expression partially reversed proliferation and cell-cycle phenotypes, restored IRE1alpha-XBP1s-associated protein abundance, and attenuated bortezomib sensitization. CONCLUSION: These findings identify MANF as a previously underexplored candidate myeloma-associated dependency that supports proliferative fitness and modulates bortezomib sensitivity in the tested MM models. MANF depletion is associated with dynamic changes in IRE1alpha-XBP1s-related readouts. These results support further investigation of MANF as a candidate therapeutic vulnerability in MM.",
+    "keywords": [
+      "Bortezomib",
+      "Endoplasmic reticulum stress",
+      "MANF",
+      "Multiple myeloma",
+      "Unfolded protein response"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Can",
+        "Yu, Wen-Jie",
+        "Rao, Yue-Xuan",
+        "Xu, Peng",
+        "Ji, Yun-Fei",
+        "Wang, Yan-Xia",
+        "Hu, Yong-Jun",
+        "Li, Zhen-Yu"
+      ],
+      "short_names": [
+        "Huang C",
+        "Yu WJ",
+        "Rao YX",
+        "Xu P",
+        "Ji YF",
+        "Wang YX",
+        "Hu YJ",
+        "Li ZY"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China.",
+        "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China.",
+        "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China.",
+        "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China.",
+        "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China.",
+        "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China.",
+        "Department of Hematology, Huaian Hospital of Huaian City, Huaian Cancer Hospital, Huaian, People's Republic of China. Electronic address: 13952330728@163.com.",
+        "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China. Electronic address: lizhenyumd@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Can",
+        "short_name": "Huang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Wen-Jie",
+        "short_name": "Yu WJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China."
+        ]
+      },
+      {
+        "full_name": "Rao, Yue-Xuan",
+        "short_name": "Rao YX",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Peng",
+        "short_name": "Xu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Yun-Fei",
+        "short_name": "Ji YF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yan-Xia",
+        "short_name": "Wang YX",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Yong-Jun",
+        "short_name": "Hu YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Huaian Hospital of Huaian City, Huaian Cancer Hospital, Huaian, People's Republic of China. Electronic address: 13952330728@163.com."
+        ]
+      },
+      {
+        "full_name": "Li, Zhen-Yu",
+        "short_name": "Li ZY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221006, China; Institute of Hematology, Xuzhou Medical University, Xuzhou, Jiangsu 221002, China. Electronic address: lizhenyumd@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Translational oncology"
+    ],
+    "journal_abbrev": [
+      "Transl Oncol"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 23:53",
+    "fetched_at": "2026-11-02 19:37:09"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42966321"
+    ],
+    "review": [
+      "42966321"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1936-5233(26)00430-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CALR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-403",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S1936-5233(26)00430-4",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

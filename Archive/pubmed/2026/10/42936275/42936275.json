@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42936275",
+    "doi": "10.3389/fgeed.2026.1817322",
+    "title": "Protocol for non-viral HDR-based CRISPR/Cas9 platform for small custom editing in primary T cells."
+  },
+  "content": {
+    "abstract": "CRISPR/Cas9 enables precision gene editing via homology-directed repair (HDR) for mutation correction and disease modelling. Here we present a customizable T cell single nucleotide variant (SNV) correction platform based on non-viral HDR, previously described in Mamia et al. Precision T Cell Correction Platform for Inborn Errors of Immunity. Molecular Therapy, 2025. To enable reproducible application, we provide a comprehensive, step-by-step 8-day HDR workflow for editing primary T cells, covering CRISPR/Cas9 reagent design, custom genomic editing from start to finish, optimization and validation strategies, on-target detection, and flow cytometric assessment of T cell phenotype and exhaustion. The platform separates locus-specific reagent optimization from a fixed cellular workflow, enabling implementation of new genomic targets without modifying the downstream T cell editing pipeline. Using this workflow, we have achieved up to 80% editing efficiency across multiple loci and donors. We have further optimized the T cell culture platform for PBMC stimulation to promote CD4(+) and CD8(+) T cell activation and proliferation. We validated this culture platform in 33 patients with Inborn Errors of Immunity using flow cytometry and observed that the defined culture conditions maintain low T cell exhaustion and support persistence of memory T cell populations. The protocol was developed under research-grade conditions but supports scalability and transition to preclinical and clinical GMP workflows. Overall, this adaptable platform is a broadly applicable framework for precision T cell engineering across diverse genomic targets offering opportunities for both in vitro disease modeling and therapeutic genome correction.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "T cells",
+      "genome editing",
+      "homology directed repair (HDR)",
+      "inborn errors of immunity (IEI)"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mamia, Katariina",
+        "Matheson Sollano, Anniken Solveig",
+        "Lundberg, Vanja",
+        "Vakkilainen, Svetlana",
+        "Kekalainen, Eliisa",
+        "Schalin-Jantti, Camilla",
+        "Leinonen, Eira",
+        "Fevang, Borre",
+        "Gronholm, Juha",
+        "Martelius, Timi",
+        "Dahal-Koirala, Shiva",
+        "Haapaniemi, Emma Maria"
+      ],
+      "short_names": [
+        "Mamia K",
+        "Matheson Sollano AS",
+        "Lundberg V",
+        "Vakkilainen S",
+        "Kekalainen E",
+        "Schalin-Jantti C",
+        "Leinonen E",
+        "Fevang B",
+        "Gronholm J",
+        "Martelius T",
+        "Dahal-Koirala S",
+        "Haapaniemi EM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+        "Department of Pediatrics, Oslo University Hospital, Oslo, Norway.",
+        "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway.",
+        "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+        "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway.",
+        "School of Biosciences and Medicine, University of Surrey, Guildford, Surrey, United Kingdom.",
+        "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+        "Department of Pediatrics, Institute of Clinical Sciences, the Sahlgrenska Academy at the University of Gothenburg, Gothenburg, Sweden.",
+        "Department of Rheumatology and Inflammation Research, Institute of Medicine, the Sahlgrenska Academy at the University of Gothenburg, Gothenburg, Sweden.",
+        "Children's Hospital and Pediatric Research Center, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+        "Clinical Microbiology, HUS Diagnostic Center, Helsinki University Hospital and University of Helsinki, Helsinki, Finland.",
+        "Translational Immunology Research Program, University of Helsinki, Helsinki, Finland.",
+        "Institute for Molecular Medicine Finland and Helsinki Institute of Life Science, University of Helsinki, Helsinki, Finland.",
+        "Endocrinology, Abdominal Center, Helsinki University Hospital, Helsinki, Finland.",
+        "University of Helsinki, ENDO-ERN (European Reference Network on Rare Endocrine Conditions), Helsinki, Finland.",
+        "Folkhalsan Institute of Genetics, and Stem Cells and Metabolism Research Program, University of Helsinki, Helsinki, Finland.",
+        "Institute of Clinical Medicine, University of Oslo, Oslo, Norway.",
+        "Section of Clinical Immunology and Infectious Diseases, Oslo University Hospital, Rikshospitalet, Oslo, Norway.",
+        "Translational Immunology Research Program, University of Helsinki, Helsinki, Finland.",
+        "Pediatric Research Center, New Children's Hospital, University of Helsinki and HUS Helsinki University Hospital, Helsinki, Finland.",
+        "Division of Hematology, Oncology, and Stem Cell Transplantation, New Children's Hospital, HUS Helsinki University Hospital, Helsinki, Finland.",
+        "Inflammation Center, Department of Infectious Disease, Helsinki University Hospital and University of Helsinki, Helsinki, Finland.",
+        "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+        "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway.",
+        "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+        "Department of Pediatrics, Oslo University Hospital, Oslo, Norway.",
+        "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mamia, Katariina",
+        "short_name": "Mamia K",
+        "identifiers": [],
+        "affiliations": [
+          "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+          "Department of Pediatrics, Oslo University Hospital, Oslo, Norway.",
+          "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway."
+        ]
+      },
+      {
+        "full_name": "Matheson Sollano, Anniken Solveig",
+        "short_name": "Matheson Sollano AS",
+        "identifiers": [],
+        "affiliations": [
+          "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+          "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway.",
+          "School of Biosciences and Medicine, University of Surrey, Guildford, Surrey, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Lundberg, Vanja",
+        "short_name": "Lundberg V",
+        "identifiers": [],
+        "affiliations": [
+          "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+          "Department of Pediatrics, Institute of Clinical Sciences, the Sahlgrenska Academy at the University of Gothenburg, Gothenburg, Sweden.",
+          "Department of Rheumatology and Inflammation Research, Institute of Medicine, the Sahlgrenska Academy at the University of Gothenburg, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Vakkilainen, Svetlana",
+        "short_name": "Vakkilainen S",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Hospital and Pediatric Research Center, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Kekäläinen, Eliisa",
+        "short_name": "Kekäläinen E",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Microbiology, HUS Diagnostic Center, Helsinki University Hospital and University of Helsinki, Helsinki, Finland.",
+          "Translational Immunology Research Program, University of Helsinki, Helsinki, Finland.",
+          "Institute for Molecular Medicine Finland and Helsinki Institute of Life Science, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Schalin-Jäntti, Camilla",
+        "short_name": "Schalin-Jäntti C",
+        "identifiers": [],
+        "affiliations": [
+          "Endocrinology, Abdominal Center, Helsinki University Hospital, Helsinki, Finland.",
+          "University of Helsinki, ENDO-ERN (European Reference Network on Rare Endocrine Conditions), Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Leinonen, Eira",
+        "short_name": "Leinonen E",
+        "identifiers": [],
+        "affiliations": [
+          "Folkhälsan Institute of Genetics, and Stem Cells and Metabolism Research Program, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Fevang, Børre",
+        "short_name": "Fevang B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Clinical Medicine, University of Oslo, Oslo, Norway.",
+          "Section of Clinical Immunology and Infectious Diseases, Oslo University Hospital, Rikshospitalet, Oslo, Norway."
+        ]
+      },
+      {
+        "full_name": "Grönholm, Juha",
+        "short_name": "Grönholm J",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Immunology Research Program, University of Helsinki, Helsinki, Finland.",
+          "Pediatric Research Center, New Children's Hospital, University of Helsinki and HUS Helsinki University Hospital, Helsinki, Finland.",
+          "Division of Hematology, Oncology, and Stem Cell Transplantation, New Children's Hospital, HUS Helsinki University Hospital, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Martelius, Timi",
+        "short_name": "Martelius T",
+        "identifiers": [],
+        "affiliations": [
+          "Inflammation Center, Department of Infectious Disease, Helsinki University Hospital and University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Dahal-Koirala, Shiva",
+        "short_name": "Dahal-Koirala S",
+        "identifiers": [],
+        "affiliations": [
+          "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+          "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway."
+        ]
+      },
+      {
+        "full_name": "Haapaniemi, Emma Maria",
+        "short_name": "Haapaniemi EM",
+        "identifiers": [],
+        "affiliations": [
+          "Norwegian Centre for Molecular Biosciences and Medicine, University of Oslo, Oslo, Norway.",
+          "Department of Pediatrics, Oslo University Hospital, Oslo, Norway.",
+          "Precision Immunotherapy Alliance, University of Oslo, Oslo, Norway."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in genome editing"
+    ],
+    "journal_abbrev": [
+      "Front Genome Ed"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 16:33",
+    "fetched_at": "2026-11-02 19:38:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42936275"
+    ],
+    "review": [
+      "42936275"
+    ],
+    "pmc": [
+      "13696951"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42936275/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fgeed.2026.1817322",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
