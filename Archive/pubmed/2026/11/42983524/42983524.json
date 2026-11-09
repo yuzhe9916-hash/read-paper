@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42983524",
+    "doi": "10.1186/s12943-026-02757-9",
+    "title": "CRISPR screens reveal MCT1-driven metabolic escape from SMAD3 inhibition as a therapeutic vulnerability."
+  },
+  "content": {
+    "abstract": "Resistance to therapy remains a critical challenge in cancer. This is exemplified by TGF-beta pathway inhibitors which, despite broad clinical testing, have failed to deliver survival benefit. More precise SMAD3 targeting has shown preclinical promise, yet resistance mechanisms to SMAD3 inhibition remain entirely unknown. Using complementary genome-wide CRISPR activation and knockout screens, we discover that cancer cells escape SMAD3 inhibition through metabolic reprogramming. Strikingly, this escape is driven not by transcriptional bypass but by the lactate transporter MCT1, with the effect preserved across BRAF-mutated melanoma, KRAS-mutated lung adenocarcinoma, and mouse melanoma. Mechanistically, SMAD3 inhibition creates energetic stress that cancer cells exploit through MCT1. By conferring metabolic flexibility and switching toward glycolysis under drug pressure, MCT1 increases anabolic activity to drive lipid and cholesterol synthesis. Pharmacological and genetic MCT1 inhibition synergizes strongly with SMAD3 blockade to impair tumor viability in BRAF-mutated melanoma, while suppressing drug-tolerant cell emergence in BRAF inhibitor-resistant cells. Critically, this synergy extends to preclinical models, where co-inhibition of SMAD3 and MCT1 potently reduces tumor growth in vivo. Given the additional and well-established role of MCT1 in shaping the tumor immune microenvironment via lactate transport, these results position MCT1 as both a metabolic and immunological target and provide a strong rationale for the repurposing of TGF-beta/SMAD3 pathway inhibitors in combination.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Monocarboxylic Acid Transporters/metabolism/genetics/antagonists & inhibitors",
+      "Monocarboxylate Transport Protein 1",
+      "Humans",
+      "*Smad3 Protein/antagonists & inhibitors/metabolism/genetics",
+      "Animals",
+      "*Symporters/genetics/metabolism/antagonists & inhibitors",
+      "Mice",
+      "Metabolic Reprogramming",
+      "Cell Line, Tumor",
+      "Drug Resistance, Neoplasm/genetics",
+      "*CRISPR-Cas Systems",
+      "*Clustered Regularly Interspaced Short Palindromic Repeats",
+      "Proto-Oncogene Proteins B-raf/genetics",
+      "Melanoma/genetics/metabolism/drug therapy/pathology"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Matvere, Antti",
+        "Menchon, Gregory",
+        "Martinetti, Laetitia",
+        "Menant, Amelie",
+        "Callac, Loan",
+        "Ferrari, Hugo",
+        "Jarry, Ulrich",
+        "Gourdel, Mathilde",
+        "Bore, Aurelien",
+        "Chassignolle, Morgane",
+        "Le Bars, Victor",
+        "Cadieu, Edouard",
+        "Derrien, Thomas",
+        "Aubry, Marc",
+        "Gilot, David",
+        "Pedeux, Remy"
+      ],
+      "short_names": [
+        "Matvere A",
+        "Menchon G",
+        "Martinetti L",
+        "Menant A",
+        "Callac L",
+        "Ferrari H",
+        "Jarry U",
+        "Gourdel M",
+        "Bore A",
+        "Chassignolle M",
+        "Le Bars V",
+        "Cadieu E",
+        "Derrien T",
+        "Aubry M",
+        "Gilot D",
+        "Pedeux R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France. antti.matvere@gmail.com.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+        "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+        "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France.",
+        "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France.",
+        "Biotrial Pharmacology, Unite de Pharmacologie Preclinique, Rennes, France.",
+        "Nantes Universite, CHU Nantes, Inserm CNRS, SFR Sante, Inserm UMS 016, Nantes, France.",
+        "CRISPR'it, Platform for Genetic Screens, Institut Curie, PSL Research University, CNRS UMR3215, INSERM U934Cedex 05, Paris, F-75248, France.",
+        "Biotrial Pharmacology, Unite de Pharmacologie Preclinique, Rennes, France.",
+        "Univ Rennes, CNRS, IGDR UMR 6290, IGDRion, University of Rennes, Rennes, France.",
+        "Univ Rennes, CNRS, IGDR UMR 6290, IGDRion, University of Rennes, Rennes, France.",
+        "Univ Rennes, CNRS, IGDR UMR 6290, IGDRion, University of Rennes, Rennes, France.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+        "Assays, Profiling & Cell Sciences, Discovery Sciences, R&D, AstraZeneca, Gothenburg, Sweden.",
+        "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France. remy.pedeux@univ-rennes.fr.",
+        "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France. remy.pedeux@univ-rennes.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Matvere, Antti",
+        "short_name": "Matvere A",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France. antti.matvere@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Menchon, Gregory",
+        "short_name": "Menchon G",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Martinetti, Laetitia",
+        "short_name": "Martinetti L",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Menant, Amelie",
+        "short_name": "Menant A",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+          "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France."
+        ]
+      },
+      {
+        "full_name": "Callac, Loan",
+        "short_name": "Callac L",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Ferrari, Hugo",
+        "short_name": "Ferrari H",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+          "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France."
+        ]
+      },
+      {
+        "full_name": "Jarry, Ulrich",
+        "short_name": "Jarry U",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France.",
+          "Biotrial Pharmacology, Unité de Pharmacologie Préclinique, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Gourdel, Mathilde",
+        "short_name": "Gourdel M",
+        "identifiers": [],
+        "affiliations": [
+          "Nantes Université, CHU Nantes, Inserm CNRS, SFR Santé, Inserm UMS 016, Nantes, France."
+        ]
+      },
+      {
+        "full_name": "Bore, Aurelien",
+        "short_name": "Bore A",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR'it, Platform for Genetic Screens, Institut Curie, PSL Research University, CNRS UMR3215, INSERM U934Cedex 05, Paris, F-75248, France."
+        ]
+      },
+      {
+        "full_name": "Chassignolle, Morgane",
+        "short_name": "Chassignolle M",
+        "identifiers": [],
+        "affiliations": [
+          "Biotrial Pharmacology, Unité de Pharmacologie Préclinique, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Le Bars, Victor",
+        "short_name": "Le Bars V",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, CNRS, IGDR UMR 6290, IGDRion, University of Rennes, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Cadieu, Edouard",
+        "short_name": "Cadieu E",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, CNRS, IGDR UMR 6290, IGDRion, University of Rennes, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Derrien, Thomas",
+        "short_name": "Derrien T",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, CNRS, IGDR UMR 6290, IGDRion, University of Rennes, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Aubry, Marc",
+        "short_name": "Aubry M",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France."
+        ]
+      },
+      {
+        "full_name": "Gilot, David",
+        "short_name": "Gilot D",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France.",
+          "Assays, Profiling & Cell Sciences, Discovery Sciences, R&D, AstraZeneca, Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Pedeux, Remy",
+        "short_name": "Pedeux R",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Rennes, INSERM, OSS (Oncogenesis Stress Signaling), CLCC Eugene Marquis, UMR_S 1242, Rennes, France. remy.pedeux@univ-rennes.fr.",
+          "Univ Rennes, CNRS, INSERM, BIOSIT UAR 3480, US_S 018, Rennes, Oncotrial, 35000, France. remy.pedeux@univ-rennes.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cancer"
+    ],
+    "journal_abbrev": [
+      "Mol Cancer"
+    ],
+    "pub_date": "2026 Aug 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 10:52",
+    "fetched_at": "2026-11-09 19:56:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42983524"
+    ],
+    "review": [
+      "42983524"
+    ],
+    "pmc": [
+      "13732929"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-026-02757-9",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42983524/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BRAF-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1550",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "identity": {
+    "pmid": "42999104",
+    "doi": "10.64898/2026.10.10.758174",
+    "title": "The Multi-scale Copula Index (MCI) : a new information-theoretic measure of association and its applications in functional cancer genomics."
+  },
+  "content": {
+    "abstract": "Cancer genomic analyses increasingly involve large, complex datasets representing diverse 'omics' variables, such as gene expression, mutations, copy number alterations, genetic perturbations (e.g. CRISPR or iRNA), drug sensitivity, and clinical phenotypes, making it crucial to accurately measure associations among these variables. Traditional correlation-based methods, like the Pearson correlation coefficient, often assume linearity, Gaussian distributions, and independence among variables, leading to oversimplified assumptions, less sensitive readouts and less accurate significance estimation. Information-theoretic measures overcome these limitations by being one step removed from the data and assessing dependencies at the level of probability distributions, thus providing a more data-agnostic, robust measure for identifying associations in common analysis tasks such as feature selection, pattern recognition, and predictive modeling. Building on these foundations, we introduce the Multi-scale Copula Index ( MCI ), a novel information-theoretic measure of association. The MCI offers significant advantages over existing methods by eliminating the need for density estimation and parameter tuning, thereby ensuring consistent estimation with reduced computational complexity. Furthermore, it enhances statistical power at lower sample sizes, exhibits strong robustness to outliers, and successfully captures both directionality and important symmetries under input-data transformations, such as reflection or complementation. Due to these strengths, the MCI is particularly useful for functional cancer genomic applications involving, e.g., transcriptional and perturbational data, with different statistical properties across a wide range of dataset sizes and complexity. Contextual associations often arise in functional genomics datasets: two genomic variables show little or no correlation in most samples, yet display a strong linkage within the subset that reflects the \"active\" biological context. These situations are ideal for quantifying associations with the MCI . We illustrate the performance of the MCI in a variety of benchmarks and cancer genomic examples and applications. We also introduce the Cumulative Entropy Diagram (CED), a graphical display that allows the visualization of the MCI between a reference vector, such as a phenotype, pathway activation or drug response, and a complete set of genomic features.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pham, Timothy",
+        "Meneses-Cime, Karina",
+        "Ma, Jiayan Yoshii",
+        "Tam, Bartholomew",
+        "Gupta, Amey",
+        "Reich, Michael",
+        "Wenzel, Alex",
+        "Eby, David",
+        "Tabor, Thorin",
+        "Thorvaldsdottir, Helga",
+        "Castanza, Antony",
+        "Mesirov, Jill P",
+        "Kim, William",
+        "Tamayo, Pablo"
+      ],
+      "short_names": [
+        "Pham T",
+        "Meneses-Cime K",
+        "Ma JY",
+        "Tam B",
+        "Gupta A",
+        "Reich M",
+        "Wenzel A",
+        "Eby D",
+        "Tabor T",
+        "Thorvaldsdottir H",
+        "Castanza A",
+        "Mesirov JP",
+        "Kim W",
+        "Tamayo P"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Pham, Timothy",
+        "short_name": "Pham T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Meneses-Cime, Karina",
+        "short_name": "Meneses-Cime K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ma, Jiayan Yoshii",
+        "short_name": "Ma JY",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tam, Bartholomew",
+        "short_name": "Tam B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gupta, Amey",
+        "short_name": "Gupta A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reich, Michael",
+        "short_name": "Reich M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wenzel, Alex",
+        "short_name": "Wenzel A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Eby, David",
+        "short_name": "Eby D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tabor, Thorin",
+        "short_name": "Tabor T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Thorvaldsdóttir, Helga",
+        "short_name": "Thorvaldsdóttir H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Castanza, Antony",
+        "short_name": "Castanza A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mesirov, Jill P",
+        "short_name": "Mesirov JP",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kim, William",
+        "short_name": "Kim W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tamayo, Pablo",
+        "short_name": "Tamayo P",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999104"
+    ],
+    "review": [
+      "42999104"
+    ],
+    "pmc": [
+      "13742438"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.10.10.758174",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

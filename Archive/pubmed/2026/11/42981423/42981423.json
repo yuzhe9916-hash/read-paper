@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42981423",
+    "doi": "10.1126/sciadv.aeg4687",
+    "title": "Genetic dissection of cell type-specific congenital heart disease variants reveals ETS1 control of vascular smooth muscle cell fate."
+  },
+  "content": {
+    "abstract": "Numerous congenital heart disease (CHD) risk variants lie in cis-regulatory elements, yet the impact of variants in repressed and bivalent chromatin on cell type-specific heart development is unclear. Here, we generated a single-cell multiomic atlas of human cardiac differentiation by jointly profiling H3K27ac, H3K27me3, H3K4me3, and transcriptomes in individual cells, classifying cis-regulatory elements into six chromatin states, enabling prioritization of 610 CHD-associated noncoding variants enriched in lineage- and state-specific regulatory elements, including repressive and bivalent regions. CRISPR knockin of selected variants perturbed nearby gene expression and impaired cardiac differentiation. Dissection of a Polycomb-marked variant near ETS1 (ETS proto-oncogene 1) revealed local H3K27me3 loss, H3K27ac gain, and ETS1 up-regulation, which redirects differentiation toward second-heart-field progenitors with epithelial characteristics at early stages and, ultimately, highly migratory ETS1(+) vascular smooth muscle cells. Together, our work establishes a single-cell chromatin-state framework for interpreting noncoding CHD risk variants and uncovers an ETS1-driven program linking Polycomb-deregulated noncoding variation to aberrant vascular smooth muscle fate commitment during human cardiogenesis.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Proto-Oncogene Protein c-ets-1/genetics/metabolism",
+      "Humans",
+      "*Heart Defects, Congenital/genetics/metabolism/pathology",
+      "Cell Differentiation/genetics",
+      "*Muscle, Smooth, Vascular/metabolism/cytology/pathology",
+      "Proto-Oncogene Mas",
+      "Chromatin/metabolism/genetics",
+      "*Myocytes, Smooth Muscle/metabolism",
+      "Cell Lineage/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Xin",
+        "Fu, Mingzhu",
+        "Jia, Shengtao",
+        "Wu, Zhenwei",
+        "Pang, Long",
+        "Xiong, Ke",
+        "Wang, Yujun",
+        "Li, Wen",
+        "He, Aibin",
+        "Ai, Shanshan"
+      ],
+      "short_names": [
+        "Li X",
+        "Fu M",
+        "Jia S",
+        "Wu Z",
+        "Pang L",
+        "Xiong K",
+        "Wang Y",
+        "Li W",
+        "He A",
+        "Ai S"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-2887-2163",
+        "ORCID: 0009-0004-1329-9272",
+        "ORCID: 0009-0009-4989-0562",
+        "ORCID: 0000-0002-6873-0283",
+        "ORCID: 0000-0002-3489-2305",
+        "ORCID: 0000-0002-3999-3017"
+      ],
+      "affiliations": [
+        "Department of Cardiology, Heart Center, Zhujiang Hospital, Southern Medical University, 253 Industrial Avenue, Guangzhou 510280, China.",
+        "Affiliated Hospital, Guangdong Medical University, Renmin Road South, Xiashan District, Zhanjiang 524001, Guangdong, China.",
+        "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "Department of Cardiology, Heart Center, First People's Hospital of Shunde, Southern Medical University, Shunde District, Foshan 528300, China.",
+        "Department of Cardiology, Heart Center, Zhujiang Hospital, Southern Medical University, 253 Industrial Avenue, Guangzhou 510280, China.",
+        "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou 510515, China.",
+        "Institute of Molecular Medicine, Peking-Tsinghua Center for Life Sciences, Peking University, Beijing 10087, China.",
+        "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+        "Department of Cardiology, Heart Center, First People's Hospital of Shunde, Southern Medical University, Shunde District, Foshan 528300, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Xin",
+        "short_name": "Li X",
+        "identifiers": [
+          "0009-0005-2887-2163"
+        ],
+        "affiliations": [
+          "Department of Cardiology, Heart Center, Zhujiang Hospital, Southern Medical University, 253 Industrial Avenue, Guangzhou 510280, China.",
+          "Affiliated Hospital, Guangdong Medical University, Renmin Road South, Xiashan District, Zhanjiang 524001, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Mingzhu",
+        "short_name": "Fu M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+          "Department of Cardiology, Heart Center, First People's Hospital of Shunde, Southern Medical University, Shunde District, Foshan 528300, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Shengtao",
+        "short_name": "Jia S",
+        "identifiers": [
+          "0009-0004-1329-9272"
+        ],
+        "affiliations": [
+          "Department of Cardiology, Heart Center, Zhujiang Hospital, Southern Medical University, 253 Industrial Avenue, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhenwei",
+        "short_name": "Wu Z",
+        "identifiers": [
+          "0009-0009-4989-0562"
+        ],
+        "affiliations": [
+          "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Pang, Long",
+        "short_name": "Pang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Ke",
+        "short_name": "Xiong K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yujun",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wen",
+        "short_name": "Li W",
+        "identifiers": [
+          "0000-0002-6873-0283"
+        ],
+        "affiliations": [
+          "School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "He, Aibin",
+        "short_name": "He A",
+        "identifiers": [
+          "0000-0002-3489-2305"
+        ],
+        "affiliations": [
+          "Institute of Molecular Medicine, Peking-Tsinghua Center for Life Sciences, Peking University, Beijing 10087, China."
+        ]
+      },
+      {
+        "full_name": "Ai, Shanshan",
+        "short_name": "Ai S",
+        "identifiers": [
+          "0000-0002-3999-3017"
+        ],
+        "affiliations": [
+          "Department of Physiology, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, China.",
+          "Department of Cardiology, Heart Center, First People's Hospital of Shunde, Southern Medical University, Shunde District, Foshan 528300, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Nov 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 17:30",
+    "fetched_at": "2026-11-09 19:56:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42981423"
+    ],
+    "review": [
+      "42981423"
+    ],
+    "pmc": [
+      "13733902"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeg4687?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/congenitalheartdefects.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Congenital Heart Defects"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42981423/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1206",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

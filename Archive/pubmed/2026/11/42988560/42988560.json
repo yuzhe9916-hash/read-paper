@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42988560",
+    "doi": "10.26508/lsa.202603911",
+    "title": "A modular lentiviral system for multiplexed gene perturbation and functional analysis suggests interdependence of hormone receptors in breast cancer growth in vivo."
+  },
+  "content": {
+    "abstract": "Precise and flexible control of gene expression is essential for dissecting gene function in complex biological systems. Although recent developments in genetic engineering and CRISPR/Cas9 technology have expanded tools for gene activation, suppression, and editing, their application in physiologically relevant models remains challenging, time-consuming, and expensive. Here, we present a modular, doxycycline-inducible vector system that integrates gene overexpression, shRNA-mediated knockdown, and CRISPR/Cas9-mediated regulation within a single, lentivirus-compatible system. The modular design allows rapid exchange of selection markers, epitope tags, and reporters via Gateway cloning, providing broad adaptability across experimental settings. In addition to standard fluorescent and luminescent reporters, the system includes advanced sensors, such as Fucci cell cycle reporters, to enable monitoring of cellular processes. By combining fluorescence barcoding with combinatorial genetic perturbations, the platform supports multiplexed analysis of gene function and genetic interactions through phenotypic characterization by fluorescence imaging or flow cytometry. We demonstrate its utility in vivo with breast cancer intraductal xenografts, which suggest that ER+ breast cancer cells (MCF7) rely on androgen, estrogen, and progesterone receptors for in vivo growth. This versatile gene perturbation system provides tight temporal control, streamlined implementation, and high-content phenotyping capacity facilitating efficient in vitro and in vivo studies while reducing the use of animals in in vivo validation experiments. It thus expands the experimental repertoire for dynamic, multigene interrogation in complex systems.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*Lentivirus/genetics",
+      "*Breast Neoplasms/genetics/metabolism/pathology",
+      "Animals",
+      "CRISPR-Cas Systems/genetics",
+      "Receptors, Estrogen/metabolism/genetics",
+      "Mice",
+      "Genetic Vectors/genetics",
+      "MCF-7 Cells",
+      "Receptors, Progesterone/metabolism/genetics",
+      "Gene Expression Regulation, Neoplastic",
+      "Cell Line, Tumor",
+      "Receptors, Androgen/metabolism/genetics",
+      "Cell Proliferation/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alam, Seher",
+        "Matvienko, Daria",
+        "Bostrom, Johan",
+        "Pires, Maria J",
+        "Papadimitropoulou, Aikaterini",
+        "Eshtad, Saeed",
+        "Sanjiv, Kumar",
+        "Qian, Hong",
+        "Valerie, Nicholas Ck",
+        "Brisken, Cathrin",
+        "Altun, Mikael"
+      ],
+      "short_names": [
+        "Alam S",
+        "Matvienko D",
+        "Bostrom J",
+        "Pires MJ",
+        "Papadimitropoulou A",
+        "Eshtad S",
+        "Sanjiv K",
+        "Qian H",
+        "Valerie NC",
+        "Brisken C",
+        "Altun M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8494-832X",
+        "ORCID: 0009-0007-0384-091X",
+        "ORCID: 0000-0002-9423-964X",
+        "ORCID: 0000-0002-6857-3230",
+        "ORCID: 0000-0002-6937-6124"
+      ],
+      "affiliations": [
+        "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden. ROR: https://ror.org/056d84691",
+        "Swiss Institute for Experimental Cancer Research, School of Life Sciences, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland. ROR: https://ror.org/02s376052",
+        "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden. ROR: https://ror.org/056d84691",
+        "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden. ROR: https://ror.org/056d84691",
+        "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden. ROR: https://ror.org/056d84691",
+        "Science for Life Laboratory, Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden. ROR: https://ror.org/056d84691",
+        "Science for Life Laboratory, Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden. ROR: https://ror.org/056d84691",
+        "Department of Medicine Huddinge, Center for Hematology and Regenerative Medicine (HERM), Karolinska Institutet, Stockholm, Sweden. ROR: https://ror.org/056d84691",
+        "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden. ROR: https://ror.org/056d84691",
+        "Science for Life Laboratory, Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden. ROR: https://ror.org/056d84691",
+        "Swiss Institute for Experimental Cancer Research, School of Life Sciences, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland cathrin.brisken@epfl.ch. ROR: https://ror.org/02s376052",
+        "The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London, UK.",
+        "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden mikael.altun@ki.se. ROR: https://ror.org/056d84691",
+        "Science for Life Laboratory, Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden. ROR: https://ror.org/056d84691"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Alam, Seher",
+        "short_name": "Alam S",
+        "identifiers": [
+          "0000-0002-8494-832X"
+        ],
+        "affiliations": [
+          "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden."
+        ]
+      },
+      {
+        "full_name": "Matvienko, Daria",
+        "short_name": "Matvienko D",
+        "identifiers": [],
+        "affiliations": [
+          "Swiss Institute for Experimental Cancer Research, School of Life Sciences, Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Boström, Johan",
+        "short_name": "Boström J",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden."
+        ]
+      },
+      {
+        "full_name": "Pires, Maria J",
+        "short_name": "Pires MJ",
+        "identifiers": [
+          "0009-0007-0384-091X"
+        ],
+        "affiliations": [
+          "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden."
+        ]
+      },
+      {
+        "full_name": "Papadimitropoulou, Aikaterini",
+        "short_name": "Papadimitropoulou A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden."
+        ]
+      },
+      {
+        "full_name": "Eshtad, Saeed",
+        "short_name": "Eshtad S",
+        "identifiers": [],
+        "affiliations": [
+          "Science for Life Laboratory, Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Sanjiv, Kumar",
+        "short_name": "Sanjiv K",
+        "identifiers": [],
+        "affiliations": [
+          "Science for Life Laboratory, Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Qian, Hong",
+        "short_name": "Qian H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine Huddinge, Center for Hematology and Regenerative Medicine (HERM), Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Valerie, Nicholas Ck",
+        "short_name": "Valerie NC",
+        "identifiers": [
+          "0000-0002-9423-964X"
+        ],
+        "affiliations": [
+          "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden.",
+          "Science for Life Laboratory, Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Brisken, Cathrin",
+        "short_name": "Brisken C",
+        "identifiers": [
+          "0000-0002-6857-3230"
+        ],
+        "affiliations": [
+          "Swiss Institute for Experimental Cancer Research, School of Life Sciences, Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland cathrin.brisken@epfl.ch.",
+          "The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London, UK."
+        ]
+      },
+      {
+        "full_name": "Altun, Mikael",
+        "short_name": "Altun M",
+        "identifiers": [
+          "0000-0002-6937-6124"
+        ],
+        "affiliations": [
+          "Division of Clinical Physiology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Sweden mikael.altun@ki.se.",
+          "Science for Life Laboratory, Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Life science alliance"
+    ],
+    "journal_abbrev": [
+      "Life Sci Alliance"
+    ],
+    "pub_date": "2027 Jan",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 23:28",
+    "fetched_at": "2026-11-09 19:55:45"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42988560"
+    ],
+    "review": [
+      "42988560"
+    ],
+    "pmc": [
+      "13740142"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.26508/lsa.202603911",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42988560/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

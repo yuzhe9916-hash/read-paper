@@ -1,0 +1,145 @@
+{
+  "identity": {
+    "pmid": "42999334",
+    "doi": "10.64898/2026.10.13.758818",
+    "title": "A Multi-Kinase Inhibitor Screen Identifies mTOR Signaling as a Vulnerability in Advanced Prostate Cancer."
+  },
+  "content": {
+    "abstract": "The receptor tyrosine kinase AXL has context-dependent roles in prostate cancer (PCa). Although AXL signaling has been implicated in PCa progression, it can also promote disseminated tumor cell dormancy. Paradoxically, AXL expression has been reported to be lost in metastatic PCa. This raises two critical questions: Is AXL loss associated with aggressive disease, and does it create therapeutically exploitable vulnerabilities? In this study, we comprehensively analyzed AXL expression across pan-cancer and PCa cohorts and found that AXL downregulation was significantly associated with treatment resistance, aggressive PCa phenotypes, and shorter overall survival. To investigate the functional consequences of AXL loss, we used CRISPR-Cas9 based gene editing to generate isogenic AXL (KO) cells and characterized their proliferative and migratory properties. To identify therapeutically exploitable vulnerabilities associated with AXL loss, we screened these cells against a library of 1,814 kinase inhibitors using the isogenic cell lines. We identified Torin-2 as a candidate therapeutic agent and validated its activity using dose-response assays, which demonstrated an  approximately  18-fold lower IC (50) in AXL (KO) cells than in AXL (WT) cells. In parallel, PRISM/DepMap analysis provided orthogonal evidence of drug dependencies associated with low AXL expression and revealed a selective vulnerability of AXL (KO) cells to PI3K/AKT/mTOR pathway inhibition. Collectively, our findings link AXL downregulation to aggressive PCa phenotypes and identify mTOR inhibition as a potential therapeutic strategy for AXL-deficient PCa. SIGNIFICANCE: AXL downregulation is associated with aggressive PCa, treatment resistance, and shorter overall survival, highlighting its potential clinical significance. By identifying a selective vulnerability of AXL-deficient cells to mTOR inhibition, this study reveals a potential therapeutic strategy for AXL-low PCa.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sridhar, Sriya",
+        "Mohan, Kabhilan",
+        "Kizhake, Smitha",
+        "Natarajan, Amarnath",
+        "Kelly, David L",
+        "Mathew, Grinu"
+      ],
+      "short_names": [
+        "Sridhar S",
+        "Mohan K",
+        "Kizhake S",
+        "Natarajan A",
+        "Kelly DL",
+        "Mathew G"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-2281-8809",
+        "ORCID: 0000-0002-4906-5409",
+        "ORCID: 0000-0001-5067-0203",
+        "ORCID: 0000-0001-6115-6373"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Sridhar, Sriya",
+        "short_name": "Sridhar S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mohan, Kabhilan",
+        "short_name": "Mohan K",
+        "identifiers": [
+          "0009-0006-2281-8809"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kizhake, Smitha",
+        "short_name": "Kizhake S",
+        "identifiers": [
+          "0000-0002-4906-5409"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Natarajan, Amarnath",
+        "short_name": "Natarajan A",
+        "identifiers": [
+          "0000-0001-5067-0203"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kelly, David L",
+        "short_name": "Kelly DL",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mathew, Grinu",
+        "short_name": "Mathew G",
+        "identifiers": [
+          "0000-0001-6115-6373"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999334"
+    ],
+    "review": [
+      "42999334"
+    ],
+    "pmc": [
+      "13742649"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-AXL-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1766",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.13.758818",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

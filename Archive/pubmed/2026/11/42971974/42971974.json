@@ -1,0 +1,272 @@
+{
+  "identity": {
+    "pmid": "42971974",
+    "doi": "10.1038/s41467-026-77744-1",
+    "title": "Reframing decentralized diagnostics with a programmable multi-dimensional microfluidic system."
+  },
+  "content": {
+    "abstract": "Decentralized diagnostics are vital for infectious disease control, yet current point-of-care tools remain largely one-dimensional, failing to capture the multidimensional profiles required for precision management. Here, we show SID-WAVES (Smartphone-Integrated Diagnostics with Wax-encoded Amplified and Versatile Evaluation System), an intelligent, multimodal microfluidic platform. Integrating low-melting-point phase-change and dual-siphon valves with RPA-CRISPR/Cas12a nucleic acid detection and protein immunoassays, the platform enables automated, one-step, sample-to-answer operation via an AI-assisted smartphone readout that reduces operator-dependent variability. Spatial-temporal-signal encoding supports multiplexed, multi-sample, and multimodal analysis, achieving attomolar-level sensitivity (10(-18) M) and >95% diagnostic accuracy across 225 clinical and self-collected molecular assays, demonstrating robust usability. For proteins, a triple-amplification strategy and hierarchical capture enhance sensitivity 125-fold, improving accuracy from 87.6% to 100% in 54 simulated samples. Functioning as a reconfigurable analytical framework where panels are changed by swapping targets and probes, this work helps mitigate the Sensitivity-Multiplexing-Accessibility trade-off, reframing decentralized diagnostics from single-target screening to multi-dimensional health profiling.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Smartphone",
+      "Rapid Diagnostic Tests",
+      "Point-of-Care Systems",
+      "*Microfluidic Analytical Techniques/methods/instrumentation",
+      "Immunoassay/methods/instrumentation",
+      "*Microfluidics/methods/instrumentation",
+      "CRISPR-Cas Systems",
+      "Sensitivity and Specificity",
+      "Nucleic Acid Amplification Techniques/methods/instrumentation",
+      "*Lab-On-A-Chip Devices"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Tao",
+        "Zhang, Ying",
+        "Tang, Xin",
+        "Wei, Hongguo",
+        "Kang, Lingyan",
+        "Zhou, Qize",
+        "Li, Shunji",
+        "Zhao, Xudong",
+        "Li, Jiashuo",
+        "Zhang, Zimeng",
+        "Wan, Chao",
+        "Zhang, Yufei",
+        "Chen, Dongjuan",
+        "Tian, Ye",
+        "Liu, Bi-Feng",
+        "Chen, Peng"
+      ],
+      "short_names": [
+        "Xu T",
+        "Zhang Y",
+        "Tang X",
+        "Wei H",
+        "Kang L",
+        "Zhou Q",
+        "Li S",
+        "Zhao X",
+        "Li J",
+        "Zhang Z",
+        "Wan C",
+        "Zhang Y",
+        "Chen D",
+        "Tian Y",
+        "Liu BF",
+        "Chen P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2135-0873"
+      ],
+      "affiliations": [
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China.",
+        "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "Guangdong Provincial Key Laboratory of Medical Immunology and Molecular Diagnostics, School of Medical Technology, Guangdong Medical University, Dongguan, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Laboratory Medicine, Maternal and Child Health Hospital of Hubei Province, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China. tianye@bmie.neu.edu.cn.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China. bfliu@mail.hust.edu.cn.",
+        "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China. gwchenpeng@mail.hust.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Tao",
+        "short_name": "Xu T",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China.",
+          "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ying",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Xin",
+        "short_name": "Tang X",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Hongguo",
+        "short_name": "Wei H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China."
+        ]
+      },
+      {
+        "full_name": "Kang, Lingyan",
+        "short_name": "Kang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Qize",
+        "short_name": "Zhou Q",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shunji",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Medical Immunology and Molecular Diagnostics, School of Medical Technology, Guangdong Medical University, Dongguan, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xudong",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiashuo",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zimeng",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Chao",
+        "short_name": "Wan C",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yufei",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Dongjuan",
+        "short_name": "Chen D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Maternal and Child Health Hospital of Hubei Province, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Ye",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China. tianye@bmie.neu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Bi-Feng",
+        "short_name": "Liu BF",
+        "identifiers": [
+          "0000-0002-2135-0873"
+        ],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China. bfliu@mail.hust.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Peng",
+        "short_name": "Chen P",
+        "identifiers": [],
+        "affiliations": [
+          "The Key Laboratory for Biomedical Photonics of MOE at Wuhan National Laboratory for Optoelectronics-Hubei Bioinformatics & Molecular Imaging Key Laboratory, Systems Biology Theme, Department of Biomedical Engineering, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, China. gwchenpeng@mail.hust.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 05:30",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42971974"
+    ],
+    "review": [
+      "42971974"
+    ],
+    "pmc": [
+      "13728218"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77744-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42971974/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

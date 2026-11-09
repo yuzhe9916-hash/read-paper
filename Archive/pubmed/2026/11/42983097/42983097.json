@@ -1,0 +1,438 @@
+{
+  "identity": {
+    "pmid": "42983097",
+    "doi": "10.1038/s41586-026-10956-z",
+    "title": "In vivo CAR-T double knockout screen maps synergistic antitumour gene pairs."
+  },
+  "content": {
+    "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has transformed the treatment of haematological malignancies, but its efficacy remains limited by multiple negative regulatory mechanisms intrinsic to T cells(1-4). Here we perform a high-throughput in vivo CAR-T double-knockout (DKO) CRISPR screen, and identify multiple DKO gene pairs that are both effective and synergistic. The top pair, NR4A1-SOCS3 DKO, has multiple favourable immunological features. Whole-transcriptome profiling and in vivo single-cell RNA sequencing reveal that NR4A1-SOCS3 DKO specifically upregulates metabolic pathways in CAR-T cells, which show significantly higher metabolic fitness and mitochondrial activity. NR4A1-SOCS3 DKO CAR-T cells and T cells exhibit exceptionally potent antitumour efficacy and long-term tumour control across different tumour models without compromising safety features. NR4A1-SOCS3 DKO outperforms several benchmark single-gene and dual-gene modifications in T cells and CAR-T cells(5-9). These data demonstrate high-throughput in vivo CAR-T DKO screening for rapid discovery of combination targets, and establish NR4A1-SOCS3 as a promising pair of intracellular checkpoints to engineer high-performance CAR-T therapies against cancer.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Liqun",
+        "Renauer, Paul A",
+        "Tang, Kaiyuan",
+        "Li, Shanshan",
+        "Luo, Zhicheng",
+        "Feng, Yanzhi",
+        "Lin, Shawn H",
+        "Zhang, Feifei",
+        "Park, Daniel",
+        "Fang, Shao-Yu",
+        "Vest, Grace",
+        "Zhao, Zhihan",
+        "Dorst, William",
+        "Yang, Luojia",
+        "Dong, Chuanpeng",
+        "Pan, Xingxin",
+        "Klemm, Lars",
+        "Yi, S Stephen",
+        "Sahni, Nidhi",
+        "Peng, Lei",
+        "Muschen, Markus",
+        "Zhou, Xiaoyu",
+        "Chen, Sidi"
+      ],
+      "short_names": [
+        "Zhou L",
+        "Renauer PA",
+        "Tang K",
+        "Li S",
+        "Luo Z",
+        "Feng Y",
+        "Lin SH",
+        "Zhang F",
+        "Park D",
+        "Fang SY",
+        "Vest G",
+        "Zhao Z",
+        "Dorst W",
+        "Yang L",
+        "Dong C",
+        "Pan X",
+        "Klemm L",
+        "Yi SS",
+        "Sahni N",
+        "Peng L",
+        "Muschen M",
+        "Zhou X",
+        "Chen S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3561-7495",
+        "ORCID: 0009-0006-4538-6519",
+        "ORCID: 0009-0005-5212-3242",
+        "ORCID: 0000-0002-6909-467X",
+        "ORCID: 0009-0002-6862-6635",
+        "ORCID: 0009-0001-5474-0798",
+        "ORCID: 0000-0002-9155-5882",
+        "ORCID: 0000-0001-7159-5441",
+        "ORCID: 0000-0002-6064-8613",
+        "ORCID: 0000-0002-2304-4191",
+        "ORCID: 0000-0002-3819-5005"
+      ],
+      "affiliations": [
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+        "Immunobiology Program, Yale University, New Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Molecular Cell Biology, Genetics, and Development Program, Yale University, New Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+        "Immunobiology Program, Yale University, New Haven, CT, USA.",
+        "Center of Molecular and Cellular Oncology, Yale University, New Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+        "Immunobiology Program, Yale University, New Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+        "Immunobiology Program, Yale University, New Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Molecular Cell Biology, Genetics, and Development Program, Yale University, New Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Neurosurgery, Baylor College of Medicine, Temple, TX, USA.",
+        "Center of Molecular and Cellular Oncology, Yale University, New Haven, CT, USA.",
+        "Department of Neurosurgery, Baylor College of Medicine, Temple, TX, USA.",
+        "Dan L Duncan Comprehensive Cancer Center, and Dan L Duncan Institute for Clinical and Translational Research, Baylor College of Medicine, Houston, TX, USA.",
+        "Department of Neurosurgery, Baylor College of Medicine, Temple, TX, USA.",
+        "Quantitative and Computational Biosciences Program, Baylor College of Medicine, Houston, TX, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+        "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+        "Immunobiology Program, Yale University, New Haven, CT, USA.",
+        "Center of Molecular and Cellular Oncology, Yale University, New Haven, CT, USA.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA. xazhou@wistar.org.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA. xazhou@wistar.org.",
+        "Vaccine and Immunotherapy Center, The Wistar Institute, Philadelphia, PA, USA. xazhou@wistar.org.",
+        "Ellen and Ronald Caplan Cancer Center, The Wistar Institute, Philadelphia, PA, USA. xazhou@wistar.org.",
+        "Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA, USA. xazhou@wistar.org.",
+        "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+        "Systems Biology Institute, Yale University, West Haven, CT, USA. chensidi@gmail.com.",
+        "Immunobiology Program, Yale University, New Haven, CT, USA. chensidi@gmail.com.",
+        "Molecular Cell Biology, Genetics, and Development Program, Yale University, New Haven, CT, USA. chensidi@gmail.com.",
+        "Yale Comprehensive Cancer Center, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+        "Yale Stem Cell Center, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+        "Department of Biomedical Informatics and Data Science, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+        "Department of Neurosurgery, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Liqun",
+        "short_name": "Zhou L",
+        "identifiers": [
+          "0000-0002-3561-7495"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+          "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+          "Immunobiology Program, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Renauer, Paul A",
+        "short_name": "Renauer PA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Tang, Kaiyuan",
+        "short_name": "Tang K",
+        "identifiers": [
+          "0009-0006-4538-6519"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+          "Molecular Cell Biology, Genetics, and Development Program, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Shanshan",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Luo, Zhicheng",
+        "short_name": "Luo Z",
+        "identifiers": [
+          "0009-0005-5212-3242"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Feng, Yanzhi",
+        "short_name": "Feng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+          "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+          "Immunobiology Program, Yale University, New Haven, CT, USA.",
+          "Center of Molecular and Cellular Oncology, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Lin, Shawn H",
+        "short_name": "Lin SH",
+        "identifiers": [
+          "0000-0002-6909-467X"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+          "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+          "Immunobiology Program, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Feifei",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Park, Daniel",
+        "short_name": "Park D",
+        "identifiers": [
+          "0009-0002-6862-6635"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Fang, Shao-Yu",
+        "short_name": "Fang SY",
+        "identifiers": [
+          "0009-0001-5474-0798"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Vest, Grace",
+        "short_name": "Vest G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhihan",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+          "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+          "Immunobiology Program, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Dorst, William",
+        "short_name": "Dorst W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Luojia",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA.",
+          "Molecular Cell Biology, Genetics, and Development Program, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Dong, Chuanpeng",
+        "short_name": "Dong C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Pan, Xingxin",
+        "short_name": "Pan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Baylor College of Medicine, Temple, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Klemm, Lars",
+        "short_name": "Klemm L",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Molecular and Cellular Oncology, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Yi, S Stephen",
+        "short_name": "Yi SS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Baylor College of Medicine, Temple, TX, USA.",
+          "Dan L Duncan Comprehensive Cancer Center, and Dan L Duncan Institute for Clinical and Translational Research, Baylor College of Medicine, Houston, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Sahni, Nidhi",
+        "short_name": "Sahni N",
+        "identifiers": [
+          "0000-0002-9155-5882"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, Baylor College of Medicine, Temple, TX, USA.",
+          "Quantitative and Computational Biosciences Program, Baylor College of Medicine, Houston, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Peng, Lei",
+        "short_name": "Peng L",
+        "identifiers": [
+          "0000-0001-7159-5441"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Müschen, Markus",
+        "short_name": "Müschen M",
+        "identifiers": [
+          "0000-0002-6064-8613"
+        ],
+        "affiliations": [
+          "Department of Immunobiology, Yale University, New Haven, CT, USA.",
+          "Immunobiology Program, Yale University, New Haven, CT, USA.",
+          "Center of Molecular and Cellular Oncology, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaoyu",
+        "short_name": "Zhou X",
+        "identifiers": [
+          "0000-0002-2304-4191"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA. xazhou@wistar.org.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA. xazhou@wistar.org.",
+          "Vaccine and Immunotherapy Center, The Wistar Institute, Philadelphia, PA, USA. xazhou@wistar.org.",
+          "Ellen and Ronald Caplan Cancer Center, The Wistar Institute, Philadelphia, PA, USA. xazhou@wistar.org.",
+          "Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA, USA. xazhou@wistar.org."
+        ]
+      },
+      {
+        "full_name": "Chen, Sidi",
+        "short_name": "Chen S",
+        "identifiers": [
+          "0000-0002-3819-5005"
+        ],
+        "affiliations": [
+          "Department of Genetics, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+          "Systems Biology Institute, Yale University, West Haven, CT, USA. chensidi@gmail.com.",
+          "Immunobiology Program, Yale University, New Haven, CT, USA. chensidi@gmail.com.",
+          "Molecular Cell Biology, Genetics, and Development Program, Yale University, New Haven, CT, USA. chensidi@gmail.com.",
+          "Yale Comprehensive Cancer Center, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+          "Yale Stem Cell Center, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+          "Department of Biomedical Informatics and Data Science, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com.",
+          "Department of Neurosurgery, Yale University School of Medicine, New Haven, CT, USA. chensidi@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 10:52",
+    "fetched_at": "2026-11-09 19:56:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42983097"
+    ],
+    "review": [
+      "42983097"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-10956-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

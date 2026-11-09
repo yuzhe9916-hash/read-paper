@@ -1,0 +1,113 @@
+{
+  "identity": {
+    "pmid": "42999296",
+    "doi": "10.64898/2026.10.11.758343",
+    "title": "Autonomous Dampening of Wnt Signaling Selects Zebrafish Spinal Cord Progenitors for an Oligodendrocyte Fate."
+  },
+  "content": {
+    "abstract": "Nervous system development relies on coordinated formation of neurons and glia from neural progenitor cells (NPCs). During spinal cord development, NPCs in the pMN domain of the ventral spinal cord produce motor neurons followed by oligodendrocyte precursor cells (OPCs), a subset of which differentiate as oligodendrocytes, the myelinating cell of the vertebrate central nervous system. Whereas prior research has outlined an extensive gene regulatory network driving oligodendrocyte lineage cell differentiation, less is known about the mechanisms that specify NPCs for oligodendrocyte fate. To elucidate these mechanisms, our lab recently generated a single-cell RNA sequencing and single-cell ATAC sequencing multi-omics dataset from the zebrafish spinal cord. The dataset identified a molecularly distinct subset of NPCs that appear fated to the oligodendrocyte lineage, which we refer to as pre-OPCs. Our data revealed that pre-OPCs are enriched for RNAs encoding factors that antagonize Wnt signaling, such as barhl2 and cachd1 . The chromatin regions associated with these genes are highly accessible in pre-OPCs, suggesting that their expression is developmentally regulated. Using confocal light microscopy to visualize expression of a Wnt-responsive transgenic reporter, we found that Wnt signaling is downregulated in the spinal cord immediately prior to OPC specification. To explore how modulation of Wnt signaling influences OPC specification, we pharmacologically inhibited or activated Wnt signaling immediately prior to OPC specification. These experiments revealed that embryos treated with a Wnt inhibitor produced excess OPCs whereas those treated with a Wnt agonist had a deficit of OPCs. Additionally, CRISPR/Cas9 targeted mutations of barhl2 and cachd1 impaired OPC production. Finally, we identified wnt4b as a ventral source of Wnt and determined that loss of wnt4b enhances OPC specification. Together, our studies reveal pre-OPC modulation of ventral Wnt signaling as a mechanism of OPC specification in the spinal cord.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Arena, Kimberly A",
+        "Franco, Santos J",
+        "Sagerstrom, Charles G",
+        "Appel, Bruce H"
+      ],
+      "short_names": [
+        "Arena KA",
+        "Franco SJ",
+        "Sagerstrom CG",
+        "Appel BH"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4500-0672"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Arena, Kimberly A",
+        "short_name": "Arena KA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Franco, Santos J",
+        "short_name": "Franco SJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sagerström, Charles G",
+        "short_name": "Sagerström CG",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Appel, Bruce H",
+        "short_name": "Appel BH",
+        "identifiers": [
+          "0000-0003-4500-0672"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999296"
+    ],
+    "review": [
+      "42999296"
+    ],
+    "pmc": [
+      "13742619"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.11.758343",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "identity": {
+    "pmid": "42993843",
+    "doi": "10.1126/sciadv.aej2662",
+    "title": "MYC primes a paralog synthetic lethality involving the mitochondrial translocase subunits TIMM17A and TIMM17B and N-Acetylaspartate."
+  },
+  "content": {
+    "abstract": "To identify the genes and pathways required for the survival of MYC-amplified cancers, we engineered an isogenic cell system in which transformation is driven by oncogenic MYC. Using a genome-scale CRISPR-Cas9 library, we identified the mitochondrial membrane translocase TIMM17A as uniquely essential for the survival of MYC-transformed cells. This dependency arises from MYC-driven suppression of TIMM17B, the paralog of TIMM17A. TIMM17A/B is an essential component of the TIM23 mitochondrial protein import complex, and the MYC-induced suppression of TIMM17B creates a strong dependency on TIMM17A. N-acetylaspartate supplementation rescued TIMM17A dependency in MYC-amplified cell lines, highlighting the unique and crucial role of this metabolite in the cell fitness of MYC-amplified cancers. These observations identify a paralog dependency required for the survival of a subset of MYC-driven cancers.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Aspartic Acid/analogs & derivatives/metabolism",
+      "Humans",
+      "*Proto-Oncogene Proteins c-myc/metabolism/genetics",
+      "*Synthetic Lethal Mutations",
+      "*Mitochondrial Membrane Transport Proteins/metabolism/genetics",
+      "Mitochondrial Precursor Protein Import Complex Proteins",
+      "Mitochondria/metabolism/genetics",
+      "CRISPR-Cas Systems",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Moyer, Sydney M",
+        "Ilic, Nina",
+        "Gang, Sydney",
+        "Dailey, Lucas",
+        "Oh, Sehyun",
+        "Stavridi, Jasmine",
+        "Taig, Gaia",
+        "Rodarte, Kathia E",
+        "DeAngelo, Joseph D",
+        "Jiang, Andrea",
+        "Shim, Brian H",
+        "Rennhack, Jonathan P",
+        "Jacob, John R",
+        "Akinci, Melis A",
+        "So, Jonathan",
+        "Wang, Helen",
+        "Piccioni, Federica",
+        "Talamas, Jessica A",
+        "Widlund, Hans R",
+        "Root, David E",
+        "Clish, Clary B",
+        "Danial, Nika N",
+        "Hahn, William C"
+      ],
+      "short_names": [
+        "Moyer SM",
+        "Ilic N",
+        "Gang S",
+        "Dailey L",
+        "Oh S",
+        "Stavridi J",
+        "Taig G",
+        "Rodarte KE",
+        "DeAngelo JD",
+        "Jiang A",
+        "Shim BH",
+        "Rennhack JP",
+        "Jacob JR",
+        "Akinci MA",
+        "So J",
+        "Wang H",
+        "Piccioni F",
+        "Talamas JA",
+        "Widlund HR",
+        "Root DE",
+        "Clish CB",
+        "Danial NN",
+        "Hahn WC"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2911-4058",
+        "ORCID: 0009-0001-3749-4601",
+        "ORCID: 0000-0003-3204-9565",
+        "ORCID: 0009-0003-0366-2413",
+        "ORCID: 0009-0003-5269-8551",
+        "ORCID: 0000-0001-7608-7585",
+        "ORCID: 0000-0001-5008-0414",
+        "ORCID: 0009-0003-0772-7093",
+        "ORCID: 0000-0001-6306-195X",
+        "ORCID: 0000-0003-4447-6660",
+        "ORCID: 0000-0003-0104-9095",
+        "ORCID: 0000-0001-9919-2476",
+        "ORCID: 0000-0003-1210-3210",
+        "ORCID: 0000-0002-7887-6294",
+        "ORCID: 0000-0002-7506-2447",
+        "ORCID: 0000-0001-5122-861X",
+        "ORCID: 0000-0001-8259-9245",
+        "ORCID: 0000-0003-4842-1827",
+        "ORCID: 0000-0003-2840-9791"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Cancer Biology, Dana-Farber Cancer Institute, 450 Brookline Ave., Boston, MA 02115, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Dermatology, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Department of Cancer Biology, Dana-Farber Cancer Institute, 450 Brookline Ave., Boston, MA 02115, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Moyer, Sydney M",
+        "short_name": "Moyer SM",
+        "identifiers": [
+          "0000-0002-2911-4058"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Ilic, Nina",
+        "short_name": "Ilic N",
+        "identifiers": [
+          "0009-0001-3749-4601"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Gang, Sydney",
+        "short_name": "Gang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Dailey, Lucas",
+        "short_name": "Dailey L",
+        "identifiers": [
+          "0000-0003-3204-9565"
+        ],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Oh, Sehyun",
+        "short_name": "Oh S",
+        "identifiers": [
+          "0009-0003-0366-2413"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Department of Cancer Biology, Dana-Farber Cancer Institute, 450 Brookline Ave., Boston, MA 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Stavridi, Jasmine",
+        "short_name": "Stavridi J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Taig, Gaia",
+        "short_name": "Taig G",
+        "identifiers": [
+          "0009-0003-5269-8551"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Rodarte, Kathia E",
+        "short_name": "Rodarte KE",
+        "identifiers": [
+          "0000-0001-7608-7585"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "DeAngelo, Joseph D",
+        "short_name": "DeAngelo JD",
+        "identifiers": [
+          "0000-0001-5008-0414"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Jiang, Andrea",
+        "short_name": "Jiang A",
+        "identifiers": [
+          "0009-0003-0772-7093"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Shim, Brian H",
+        "short_name": "Shim BH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Rennhack, Jonathan P",
+        "short_name": "Rennhack JP",
+        "identifiers": [
+          "0000-0001-6306-195X"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Jacob, John R",
+        "short_name": "Jacob JR",
+        "identifiers": [
+          "0000-0003-4447-6660"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Akinci, Melis A",
+        "short_name": "Akinci MA",
+        "identifiers": [
+          "0000-0003-0104-9095"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "So, Jonathan",
+        "short_name": "So J",
+        "identifiers": [
+          "0000-0001-9919-2476"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Helen",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Piccioni, Federica",
+        "short_name": "Piccioni F",
+        "identifiers": [
+          "0000-0003-1210-3210"
+        ],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Talamas, Jessica A",
+        "short_name": "Talamas JA",
+        "identifiers": [
+          "0000-0002-7887-6294"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Widlund, Hans R",
+        "short_name": "Widlund HR",
+        "identifiers": [
+          "0000-0002-7506-2447"
+        ],
+        "affiliations": [
+          "Department of Dermatology, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Root, David E",
+        "short_name": "Root DE",
+        "identifiers": [
+          "0000-0001-5122-861X"
+        ],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Clish, Clary B",
+        "short_name": "Clish CB",
+        "identifiers": [
+          "0000-0001-8259-9245"
+        ],
+        "affiliations": [
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      },
+      {
+        "full_name": "Danial, Nika N",
+        "short_name": "Danial NN",
+        "identifiers": [
+          "0000-0003-4842-1827"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Department of Cancer Biology, Dana-Farber Cancer Institute, 450 Brookline Ave., Boston, MA 02115, USA."
+        ]
+      },
+      {
+        "full_name": "Hahn, William C",
+        "short_name": "Hahn WC",
+        "identifiers": [
+          "0000-0003-2840-9791"
+        ],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts 02215, USA.",
+          "Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Nov 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 18:37",
+    "fetched_at": "2026-11-09 19:55:45"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42993843"
+    ],
+    "review": [
+      "42993843"
+    ],
+    "pmc": [
+      "13742171"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aej2662?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42993843/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

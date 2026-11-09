@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "pmid": "42980350",
+    "doi": "10.1093/ismejo/wrag276",
+    "title": "Scaffold-level validation is needed for phage-host inference from metagenome-assembled genomes."
+  },
+  "content": {
+    "abstract": "Accurate phage-host prediction underpins ecological interpretation and experimental validation of uncultivated phages, yet most current approaches rely heavily on metagenome-assembled genomes (MAGs). This reliance implicitly assumes that MAG-level quality metrics, such as completeness and contamination, ensure scaffold-level correctness. Here, we demonstrate that this assumption can be violated under particular challenging conditions. Tetranucleotide frequency (TNF) analyses reveal that CRISPR-associated regions often diverge compositionally from their host genomes, increasing the risk of misbinning, while experimentally validated phage-host genome pairs show consistent TNF separation between phages and their hosts, challenging compositional binning assumptions. Through controlled simulations, we further show that the incorporation of substantial amounts of TNF-matched, non-host phage sequences into high-quality MAGs does not substantially alter standard completeness and contamination estimates, rendering such errors largely undetectable. Together, these results expose a systematic and underappreciated source of bias in MAG-based phage-host inference and highlight the need for explicit scaffold-level validation beyond conventional genome-quality metrics. We further propose a practical scaffold-level validation framework that integrates structural linkage and taxonomic consistency to improve the reliability of phage-host inference from MAGs.",
+    "keywords": [
+      "genome binning",
+      "metagenome-assembled genomes",
+      "phage-host relationship",
+      "phages",
+      "viruses"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yuan, Ling",
+        "Anantharaman, Karthik",
+        "Ma, Bin",
+        "Camargo, Antonio Pedro",
+        "Chen, LinXing"
+      ],
+      "short_names": [
+        "Yuan L",
+        "Anantharaman K",
+        "Ma B",
+        "Camargo AP",
+        "Chen L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9584-2491",
+        "ORCID: 0000-0002-0188-1319",
+        "ORCID: 0000-0003-2774-1952"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, Anhui, 230026, China.",
+        "Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, United States.",
+        "State Key Laboratory of Soil Pollution Control and Safety, Zhejiang University, Hangzhou, Zhejiang 310058, China.",
+        "Zhejiang Provincial Key Laboratory of Agricultural, Resources and Environment, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou, Zhejiang 310058, China.",
+        "Department of Biochemistry, Institute of Chemistry, University of Sao Paulo, Sao Paulo, SP 05508-060, Brazil.",
+        "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, Anhui, 230026, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yuan, Ling",
+        "short_name": "Yuan L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, Anhui, 230026, China."
+        ]
+      },
+      {
+        "full_name": "Anantharaman, Karthik",
+        "short_name": "Anantharaman K",
+        "identifiers": [
+          "0000-0002-9584-2491"
+        ],
+        "affiliations": [
+          "Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, United States."
+        ]
+      },
+      {
+        "full_name": "Ma, Bin",
+        "short_name": "Ma B",
+        "identifiers": [
+          "0000-0002-0188-1319"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Soil Pollution Control and Safety, Zhejiang University, Hangzhou, Zhejiang 310058, China.",
+          "Zhejiang Provincial Key Laboratory of Agricultural, Resources and Environment, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou, Zhejiang 310058, China."
+        ]
+      },
+      {
+        "full_name": "Camargo, Antonio Pedro",
+        "short_name": "Camargo AP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Institute of Chemistry, University of São Paulo, São Paulo, SP 05508-060, Brazil."
+        ]
+      },
+      {
+        "full_name": "Chen, LinXing",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0000-0003-2774-1952"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Advanced Environmental Technology, School of Environment, University of Science and Technology of China, Hefei, Anhui, 230026, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The ISME journal"
+    ],
+    "journal_abbrev": [
+      "ISME J"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 11:29",
+    "fetched_at": "2026-11-09 19:56:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42980350"
+    ],
+    "review": [
+      "42980350"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERCC2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/ismej/article-lookup/doi/10.1093/ismejo/wrag276",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

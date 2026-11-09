@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "42996482",
+    "doi": "10.3389/fbioe.2026.1940225",
+    "title": "Reprogramming secretion systems in Klebsiella quasipneumoniae: from pathogenic functions to candidate industrial secretion chassis."
+  },
+  "content": {
+    "abstract": "Efficient extracellular secretion remains a major bottleneck in microbial cell factories, motivating the search for chassis organisms with native high-throughput transport capacity. Klebsiella quasipneumoniae (Kqp), a recently delineated member of the Klebsiella pneumoniae species complex, encodes diverse secretion-related systems, including RND-type efflux pumps, type II and type VI secretion systems (T2SS/T6SS), outer membrane vesicle (OMV) pathways, and capsular polysaccharide (CPS) export machinery. In clinical settings, these systems contribute to opportunistic pathogenicity, antimicrobial resistance, and host adaptation; in biotechnology, they may provide transport modules that can be detoxified and redirected for extracellular production. This review examines the feasibility of reprogramming Kqp from a pathogen-related bacterium into a safe industrial secretion chassis. We summarize the molecular architecture, substrate-recognition logic, and regulatory networks of major secretion pathways, then discuss CRISPR-Cas-driven removal of virulence and resistance determinants, biocontainment, and synthetic-biology strategies for reallocating secretory capacity. We further survey potential applications in bulk chemicals, human milk oligosaccharides, recombinant proteins, and industrial enzymes. Finally, we identify key barriers to industrial translation, including growth-secretion energetic trade-offs, periplasmic protein misfolding, endotoxin-associated downstream processing, OMV heterogeneity, scale-up robustness, and quantitative safety validation. Establishing Kqp as an industrial chassis will require evidence-tiered strain selection, quantitative secretion-capacity measurement, regulatory decoupling of resistance-associated pumps, and One Health-aligned safety assessment. Direct evidence in K. quasipneumoniae remains limited; therefore, this review distinguishes direct Kqp observations from studies in other KpSC members or K. oxytoca, evidence from non-Klebsiella hosts, and forward-looking proposals. OMV yield is considered separately from lipid A/endotoxin-related properties.",
+    "keywords": [
+      "CRISPR genome editing",
+      "Klebsiella quasipneumoniae",
+      "biocontainment",
+      "cell factory",
+      "metabolic engineering",
+      "secretion systems",
+      "signal peptide engineering"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Yongli",
+        "Liu, Lixia",
+        "Zhang, Jian",
+        "Wei, Guoguang",
+        "Zhang, Long",
+        "Lu, Yuanjie",
+        "Qin, Peiyong",
+        "Liu, Zhanying"
+      ],
+      "short_names": [
+        "Li Y",
+        "Liu L",
+        "Zhang J",
+        "Wei G",
+        "Zhang L",
+        "Lu Y",
+        "Qin P",
+        "Liu Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "State Key Laboratory of Green Biomanufacturing, Beijing University of Chemical Technology, Beijing, China.",
+        "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+        "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Yongli",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+          "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Lixia",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+          "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jian",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+          "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Guoguang",
+        "short_name": "Wei G",
+        "identifiers": [],
+        "affiliations": [
+          "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+          "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Long",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+          "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Yuanjie",
+        "short_name": "Lu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Peiyong",
+        "short_name": "Qin P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Green Biomanufacturing, Beijing University of Chemical Technology, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhanying",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Inner Mongolia Key Laboratory of Synthetic Biology, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China.",
+          "College of Chemical Engineering, Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioengineering and biotechnology"
+    ],
+    "journal_abbrev": [
+      "Front Bioeng Biotechnol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42996482"
+    ],
+    "review": [
+      "42996482"
+    ],
+    "pmc": [
+      "13740259"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42996482/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fbioe.2026.1940225",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

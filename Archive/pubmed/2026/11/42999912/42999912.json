@@ -1,0 +1,127 @@
+{
+  "identity": {
+    "pmid": "42999912",
+    "doi": "10.1093/bioadv/vbag323",
+    "title": "PrEditR: a protein-centric platform for CRISPR-mediated base editor sgRNA design."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Post-translational modifications (PTMs) are critical to protein activity, yet the biological role of most known modification sites remains uncharacterized. CRISPR-mediated phenotypic screens using base editors offer a powerful approach to dissecting PTM function at scale. However, existing single-guide RNA (sgRNA) design tools for base editing applications are DNA-centric and lack the throughput required to integrate seamlessly with mass-spectrometry-based proteomics experimental outputs. RESULTS: We introduce protein editing in R, PrEditR, an open-source, protein-centric tool for high-throughput sgRNA design for custom base editor screens. PrEditR enables users to designate specific amino acid residues in proteins and design protospacer sequences that target the corresponding gene and annotate every resulting amino acid change (missense, nonsense, or silent), including bystander edits. AVAILABILITY AND IMPLEMENTATION: PrEditR is available on GitHub and Docker Hub.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vasquez-Castro, Felipe",
+        "Sanchez Solis, Leonardo D",
+        "Myers, Samuel A"
+      ],
+      "short_names": [
+        "Vasquez-Castro F",
+        "Sanchez Solis LD",
+        "Myers SA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2591-7117",
+        "ORCID: 0000-0003-4492-8305",
+        "ORCID: 0000-0001-7636-0887"
+      ],
+      "affiliations": [
+        "La Jolla Institute for Immunology, Laboratory for Immunochemical Circuits, La Jolla, CA 92037, United States.",
+        "Bioinformatics and Systems Biology Ph.D. Program, University of California San Diego, La Jolla, CA 92093, United States.",
+        "La Jolla Institute for Immunology, Laboratory for Immunochemical Circuits, La Jolla, CA 92037, United States.",
+        "La Jolla Institute for Immunology, Laboratory for Immunochemical Circuits, La Jolla, CA 92037, United States.",
+        "Center of Autoimmunity and Inflammation, La Jolla Institute for Immunology, La Jolla, CA 92037, United States.",
+        "Department of Pharmacology, University of California San Diego, La Jolla, CA 92037, United States.",
+        "Moores Cancer Center, UCSD Health, La Jolla, CA 92037, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vásquez-Castro, Felipe",
+        "short_name": "Vásquez-Castro F",
+        "identifiers": [
+          "0000-0003-2591-7117"
+        ],
+        "affiliations": [
+          "La Jolla Institute for Immunology, Laboratory for Immunochemical Circuits, La Jolla, CA 92037, United States.",
+          "Bioinformatics and Systems Biology Ph.D. Program, University of California San Diego, La Jolla, CA 92093, United States."
+        ]
+      },
+      {
+        "full_name": "Sanchez Solis, Leonardo D",
+        "short_name": "Sanchez Solis LD",
+        "identifiers": [
+          "0000-0003-4492-8305"
+        ],
+        "affiliations": [
+          "La Jolla Institute for Immunology, Laboratory for Immunochemical Circuits, La Jolla, CA 92037, United States."
+        ]
+      },
+      {
+        "full_name": "Myers, Samuel A",
+        "short_name": "Myers SA",
+        "identifiers": [
+          "0000-0001-7636-0887"
+        ],
+        "affiliations": [
+          "La Jolla Institute for Immunology, Laboratory for Immunochemical Circuits, La Jolla, CA 92037, United States.",
+          "Center of Autoimmunity and Inflammation, La Jolla Institute for Immunology, La Jolla, CA 92037, United States.",
+          "Department of Pharmacology, University of California San Diego, La Jolla, CA 92037, United States.",
+          "Moores Cancer Center, UCSD Health, La Jolla, CA 92037, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999912"
+    ],
+    "review": [
+      "42999912"
+    ],
+    "pmc": [
+      "13744405"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1532",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-lookup/doi/10.1093/bioadv/vbag323",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

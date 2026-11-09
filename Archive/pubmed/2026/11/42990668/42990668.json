@@ -1,0 +1,316 @@
+{
+  "identity": {
+    "pmid": "42990668",
+    "doi": "10.64898/2026.10.29.26366877",
+    "title": "Single-cell transcriptome-wide association analysis reveals epithelial cell-specific genetic susceptibility to colorectal cancer."
+  },
+  "content": {
+    "abstract": "Bulk-tissue transcriptome-wide association studies (TWAS) have identified colorectal cancer (CRC) susceptibility genes, but cell-type-specific regulatory mechanisms remain poorly understood. Here, we performed single-cell TWAS integrating matched germline genotypes and single-cell transcriptomes from normal colorectal mucosa (381 donors) and polyps (84 donors), cell-type-specific chromatin accessibility, and GWAS from 132,261 cases and 1,752,398 controls. We identified 546 gene-cell-type associations implicating 347 candidate susceptibility genes across seven normal and nine polyp epithelial populations, including 213 previously unreported genes, with 74% exhibiting cell-type-specific associations. Integrated co-expression and ChIP-seq analyses revealed distinct TF-risk gene networks, highlighting GATA6, MAX and RAD21 in normal mucosa, and TFAP4- and CEBPB-associated networks in premalignant polyp populations. Further multi-omics analyses supported dysregulation of 233 genes (67%), while drug-target analyses identified 63 potentially druggable genes. DepMap and CRISPR-Cas9 analyses implicated 35 genes in CRC cell viability. These findings reveal cell-type-specific susceptibility mechanisms and prioritize candidate therapeutic targets for CRC prevention.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Qing",
+        "Li, Chao",
+        "Lyu, Linshuoshuo",
+        "Wang, Jifeng",
+        "Yuan, Fangcheng",
+        "Jeong, Eugene",
+        "Song, Qingyuan",
+        "Yan, Chao",
+        "Chen, You",
+        "Choi, Jungyoon",
+        "Xu, Shuai",
+        "Wang, Yu",
+        "Sheng, Quanhu",
+        "Wen, Wanqing",
+        "Shrubsole, Martha J",
+        "Cai, Qiuyin",
+        "Shu, Xiao-Ou",
+        "Gao, Guimin",
+        "Singh, Bhuminder",
+        "Yin, Zhijun",
+        "Coburn, Lori A",
+        "Ciombor, Kristen K",
+        "Eng, Cathy",
+        "Bauer, Joshua A",
+        "Peters, Ulrike",
+        "Wilson, Keith T",
+        "Zheng, Wei",
+        "Lau, Ken S",
+        "Guo, Xingyi"
+      ],
+      "short_names": [
+        "Li Q",
+        "Li C",
+        "Lyu L",
+        "Wang J",
+        "Yuan F",
+        "Jeong E",
+        "Song Q",
+        "Yan C",
+        "Chen Y",
+        "Choi J",
+        "Xu S",
+        "Wang Y",
+        "Sheng Q",
+        "Wen W",
+        "Shrubsole MJ",
+        "Cai Q",
+        "Shu XO",
+        "Gao G",
+        "Singh B",
+        "Yin Z",
+        "Coburn LA",
+        "Ciombor KK",
+        "Eng C",
+        "Bauer JA",
+        "Peters U",
+        "Wilson KT",
+        "Zheng W",
+        "Lau KS",
+        "Guo X"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Li, Qing",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Chao",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lyu, Linshuoshuo",
+        "short_name": "Lyu L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Jifeng",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yuan, Fangcheng",
+        "short_name": "Yuan F",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jeong, Eugene",
+        "short_name": "Jeong E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Song, Qingyuan",
+        "short_name": "Song Q",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yan, Chao",
+        "short_name": "Yan C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, You",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Choi, Jungyoon",
+        "short_name": "Choi J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xu, Shuai",
+        "short_name": "Xu S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Yu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sheng, Quanhu",
+        "short_name": "Sheng Q",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wen, Wanqing",
+        "short_name": "Wen W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shrubsole, Martha J",
+        "short_name": "Shrubsole MJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cai, Qiuyin",
+        "short_name": "Cai Q",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shu, Xiao-Ou",
+        "short_name": "Shu XO",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gao, Guimin",
+        "short_name": "Gao G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Singh, Bhuminder",
+        "short_name": "Singh B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yin, Zhijun",
+        "short_name": "Yin Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Coburn, Lori A",
+        "short_name": "Coburn LA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ciombor, Kristen K",
+        "short_name": "Ciombor KK",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Eng, Cathy",
+        "short_name": "Eng C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bauer, Joshua A",
+        "short_name": "Bauer JA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Peters, Ulrike",
+        "short_name": "Peters U",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wilson, Keith T",
+        "short_name": "Wilson KT",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zheng, Wei",
+        "short_name": "Zheng W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lau, Ken S",
+        "short_name": "Lau KS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Guo, Xingyi",
+        "short_name": "Guo X",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "medRxiv : the preprint server for health sciences"
+    ],
+    "journal_abbrev": [
+      "medRxiv"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-09 19:55:45"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42990668"
+    ],
+    "review": [
+      "42990668"
+    ],
+    "pmc": [
+      "13734162"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42990668/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.29.26366877",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

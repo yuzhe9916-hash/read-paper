@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42998788",
+    "doi": "10.1016/j.jare.2026.10.060",
+    "title": "Chromatin and transcriptional dynamics associated with seasonal growth across a latitudinal Cline in birch."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Seasonal growth-dormancy cycles determine the survival and distribution of trees, yet the chromatin and transcriptional changes associated with contrasting seasonal growth patterns in forest trees remain incompletely understood. OBJECTIVES: In this study, we investigated chromatin regulation and transcriptional changes during seasonal growth in birch, focusing on changes that may link photoperiod responses to circadian regulation and bud-set. METHODS: We combined satellite-derived phenology from 96 Betula platyphylla (B. platyphylla) forest stands with a common-garden comparison of mid-latitude B. platyphylla and high-latitude B. pendula material established in 2008 and phenologically monitored from 2020. Seasonal buds were profiled across an annual cycle by RNA-seq and CUT&Tag for H3K4me3/H3K27me3. Diurnal RNA-seq across key months quantified circadian phase/amplitude changes. The contribution of BpREF6 to growth cessation and bud-set progression was investigated by assessing growth-cessation and bud-set progression under short-day conditions and profiling histone modifications in CRISPR/Cas9-edited B. platyphylla plants. RESULTS: Across natural stands, end-of-season timing and growing-season length were strongly associated with daylength, whereas temperature showed limited explanatory power for end of season (EOS). In the common garden, provenances shared similar bud break timing but differed markedly in bud set, consistent with photoperiod thresholds. Multi-omics analyses revealed extensive seasonal and between-provenance chromatin-state differences, with enriched REF6 motifs across chromatin states and pronounced divergence of BpREF6 expression during the transition to bud set. Network and diurnal analyses suggested that circadian- and photoperiod-related genes, including PRR5/PRR7, CCA1/LHY, TOC1, CO and FT, may participate in the BpREF6-associated regulatory network. bpref6 mutants showed accelerated bud-set progression and earlier observed growth cessation than control under short-day conditions, accompanied by an increased number of H3K27me3 peaks, lower H3K4me3 signals at the analyzed regions, and altered chromatin and transcriptional profiles at selected circadian-, photoperiod-, and growth cessation-related genes. Some transcriptional changes in bpref6 resembled those observed in high-latitude birch during bud-set. Because BpREF6 occupancy was not profiled by ChIP-seq, these chromatin and transcriptional changes cannot be assigned as direct BpREF6 effects or distinguished from indirect consequences of the mutation and altered developmental state. CONCLUSION: Our findings reveal associations between photoperiod and seasonal phenology and identify BpREF6 as a chromatin-associated contributor to short-day-induced bud-set progression. The accompanying changes in histone modifications and circadian- and photoperiod-related transcriptional programs provide a framework for further investigating how chromatin regulation contributes to seasonal growth and latitude-associated growth cessation variation in birch.",
+    "keywords": [
+      "Birch",
+      "Bud set",
+      "Chromatin dynamics",
+      "Photoperiod",
+      "REF6",
+      "Seasonal growth"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Zihui",
+        "Xie, Qingyi",
+        "Chen, Haowen",
+        "Guo, Yile",
+        "Lv, Bin",
+        "Cao, Lesheng",
+        "Zhang, Tianxu",
+        "Wang, Jiang",
+        "Modolo, Luzia Valentina",
+        "Liu, Guifeng",
+        "Xie, Linan",
+        "Zhang, Qingzhu"
+      ],
+      "short_names": [
+        "Zhang Z",
+        "Xie Q",
+        "Chen H",
+        "Guo Y",
+        "Lv B",
+        "Cao L",
+        "Zhang T",
+        "Wang J",
+        "Modolo LV",
+        "Liu G",
+        "Xie L",
+        "Zhang Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China.",
+        "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China.",
+        "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China.",
+        "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China.",
+        "College of Life Science, Northeast Forestry University, 150040 Harbin, China.",
+        "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China.",
+        "College of Life Science, Northeast Forestry University, 150040 Harbin, China.",
+        "Department of Botany, Institute of Biological Sciences, Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil; Department of Agricultural Biotechnology, Faculty of Agriculture, Ataturk University, Erzurum, Turkiye.",
+        "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China. Electronic address: liuguifeng@126.com.",
+        "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China. Electronic address: linanxie@nefu.edu.cn.",
+        "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China. Electronic address: qingzhu.zhang@nefu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Zihui",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Qingyi",
+        "short_name": "Xie Q",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Haowen",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Yile",
+        "short_name": "Guo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Bin",
+        "short_name": "Lv B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Lesheng",
+        "short_name": "Cao L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Tianxu",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China; College of Life Science, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiang",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science, Northeast Forestry University, 150040 Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Modolo, Luzia Valentina",
+        "short_name": "Modolo LV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Botany, Institute of Biological Sciences, Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil; Department of Agricultural Biotechnology, Faculty of Agriculture, Atatürk University, Erzurum, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Liu, Guifeng",
+        "short_name": "Liu G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China. Electronic address: liuguifeng@126.com."
+        ]
+      },
+      {
+        "full_name": "Xie, Linan",
+        "short_name": "Xie L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China. Electronic address: linanxie@nefu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qingzhu",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University, 150040 Harbin, China; State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, 150040 Harbin, China. Electronic address: qingzhu.zhang@nefu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of advanced research"
+    ],
+    "journal_abbrev": [
+      "J Adv Res"
+    ],
+    "pub_date": "2026 Nov 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 00:48",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42998788"
+    ],
+    "review": [
+      "42998788"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2090-1232(26)00851-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

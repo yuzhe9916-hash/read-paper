@@ -1,0 +1,155 @@
+{
+  "identity": {
+    "pmid": "42986062",
+    "doi": "10.1039/d6ay01274d",
+    "title": "PCR-amplified blaKPC-2-triggered Cas12a activation coupled with DNA cube-confined Fc reporter cleavage on a Ti(3)C(2)/CsPbBr(3)@PDA@Au/GCE dual-mode ECL/SERS interface."
+  },
+  "content": {
+    "abstract": "Rapid and reliable detection of antibiotic resistance genes is essential for guiding antimicrobial therapy and controlling the spread of carbapenem-resistant pathogens. Herein, we developed a PCR amplicon-activated CRISPR/Cas12a-regulated dual-mode electrochemiluminescence/surface-enhanced Raman scattering biosensor for sensitive detection of the blaKPC-2 resistance gene. A specific blaKPC-2 fragment containing the selected TTTG PAM region was amplified by PCR and used as a double-stranded DNA activator for the crRNA/Cas12a complex. After target recognition, activated Cas12a cleaved the Fc-labeled reporter segments integrated into a DNA cube scaffold assembled on the Ti(3)C(2)/CsPbBr(3)@PDA@Au nanocomposite interface. In the initial state, Fc was positioned close to the Ti(3)C(2)/CsPbBr(3)@PDA@Au-modified GCE surface, resulting in ECL quenching and strong SERS emission. Upon Cas12a-mediated cleavage of the exposed ssDNA reporter segments, Fc-containing fragments were released from the interface, leading to ECL recovery and SERS attenuation. Therefore, the target-induced process enabled an anti-correlated ECL-on/SERS-off signal conversion, and the ratiometric value R = I(ECL)/I(SERS) was used for quantitative analysis. The concentration-dependent response was empirically fitted over 10-10(7) copies per microL, whereas the 10(8) copies per microL group exhibited upper-range response compression. Boundary back-calculation indicated that further quantitative validation is required. Blank-response inverse prediction gave a model-dependent response-equivalent concentration of approximately 1.06 copies per microL; Poisson sampling gave a 95% molecular-sampling threshold of approximately 3.0 copies per microL for a 1.0 microL input. Neither descriptor is an experimentally determined detection or quantification limit. The platform also exhibited good selectivity against other resistance genes and non-target bacterial genomic DNA, together with satisfactory repeatability, reproducibility, stability, and acceptable spike-recovery performance in 10% diluted serum as a model biological matrix, providing preliminary evidence of matrix tolerance rather than clinical validation. This work provides a self-calibrated dual-mode strategy for antibiotic resistance gene detection, while further validation using bacterial lysates, extracted bacterial genomic DNA, and clinical bacterial isolates is required before diagnostic application. qPCR supported linear amplification over 10-10(7) copies per microL; endpoint responses remained observable through 10(8) copies per microL, where quantitative resolution was reduced.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Yijin",
+        "Huang, Jiangbin",
+        "Wen, Lusheng",
+        "Zhu, Qigan",
+        "Liu, Jinfa",
+        "Meng, Jiarong",
+        "Yu, Le"
+      ],
+      "short_names": [
+        "Chen Y",
+        "Huang J",
+        "Wen L",
+        "Zhu Q",
+        "Liu J",
+        "Meng J",
+        "Yu L"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-6720-3397"
+      ],
+      "affiliations": [
+        "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com.",
+        "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com.",
+        "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com.",
+        "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com.",
+        "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com.",
+        "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com.",
+        "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Yijin",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+        ]
+      },
+      {
+        "full_name": "Huang, Jiangbin",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+        ]
+      },
+      {
+        "full_name": "Wen, Lusheng",
+        "short_name": "Wen L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhu, Qigan",
+        "short_name": "Zhu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+        ]
+      },
+      {
+        "full_name": "Liu, Jinfa",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+        ]
+      },
+      {
+        "full_name": "Meng, Jiarong",
+        "short_name": "Meng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+        ]
+      },
+      {
+        "full_name": "Yu, Le",
+        "short_name": "Yu L",
+        "identifiers": [
+          "0009-0007-6720-3397"
+        ],
+        "affiliations": [
+          "Department of Pathology, The 909th Hospital, School of Medicine, Xiamen University, Zhangzhou, Fujian 363000, China. yule141216@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical methods : advancing methods and applications"
+    ],
+    "journal_abbrev": [
+      "Anal Methods"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 11:46",
+    "fetched_at": "2026-11-09 19:56:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42986062"
+    ],
+    "review": [
+      "42986062"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6ay01274d",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

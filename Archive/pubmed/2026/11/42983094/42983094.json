@@ -1,0 +1,369 @@
+{
+  "identity": {
+    "pmid": "42983094",
+    "doi": "10.1038/s41586-026-11212-0",
+    "title": "Comprehensive mapping of essential-gene interactions in M. tuberculosis."
+  },
+  "content": {
+    "abstract": "Mycobacterium tuberculosis, the causative agent of tuberculosis, remains the world's deadliest pathogen(1). Despite intensive study, many of its genes remain uncharacterized, which limits the insight that can be gained into tuberculosis biology and constrains drug development. Genetic interaction (GI) mapping is a powerful strategy to define functional relationships between genes by quantifying how the phenotypic effects of combined perturbations deviate from expectations based on single-gene perturbations(2,3). Here we develop a dual-sgRNA CRISPR-interference platform that enables high-throughput GI mapping in mycobacteria. We address key technical challenges in library construction and data interpretation by incorporating unique barcodes for each sgRNA pair and implementing a robust statistical pipeline for GI detection. Focusing on essential genes, we generate comprehensive GI maps in the model mycobacterium Mycobacterium smegmatis and the pathogen M. tuberculosis. These maps recapitulate known biology, uncover thousands of previously unrecognized interactions and identify functional connections between essential genes and drug targets. By generating AlphaFold3-based protein-protein interaction predictions(4) for all gene pairs in our GI maps, we show that a subset of GIs is likely to reflect underlying physical associations. Validation of selected GIs confirms both novel biological relationships and opportunities for synergistic targeting. Overall, this work establishes a generalizable framework for dual-gene perturbation and defines the architecture of essential-gene networks in mycobacteria, advancing both our understanding of tuberculosis biology and the rational design of combination therapies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kresse, Isaac J",
+        "Sayegh, Natalie Y",
+        "Munsamy-Govender, Vanisha",
+        "Na, Allen",
+        "Nitz, Samuel",
+        "Ozakman, Yaprak",
+        "Bosch, Barbara",
+        "Gonzalez Behn-Eschenburg, Sebastian",
+        "Poulton, Nicholas C",
+        "Reddy, Abhijna K",
+        "Wallach, Joshua",
+        "Aguilera Olvera, Rodrigo",
+        "Castro, Anthony",
+        "Kim, Heather",
+        "Wong, Andrew I",
+        "Tornow, S Nicolai",
+        "Bueler, Stephanie A",
+        "Law, Wayne W H",
+        "Glickman, Michael S",
+        "Rubinstein, John L",
+        "Schnappinger, Dirk",
+        "DeJesus, Michael A",
+        "Rock, Jeremy M"
+      ],
+      "short_names": [
+        "Kresse IJ",
+        "Sayegh NY",
+        "Munsamy-Govender V",
+        "Na A",
+        "Nitz S",
+        "Ozakman Y",
+        "Bosch B",
+        "Gonzalez Behn-Eschenburg S",
+        "Poulton NC",
+        "Reddy AK",
+        "Wallach J",
+        "Aguilera Olvera R",
+        "Castro A",
+        "Kim H",
+        "Wong AI",
+        "Tornow SN",
+        "Bueler SA",
+        "Law WWH",
+        "Glickman MS",
+        "Rubinstein JL",
+        "Schnappinger D",
+        "DeJesus MA",
+        "Rock JM"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2714-1842",
+        "ORCID: 0000-0003-4431-8312",
+        "ORCID: 0009-0007-0925-9632",
+        "ORCID: 0009-0007-7247-7712",
+        "ORCID: 0000-0001-7708-6461",
+        "ORCID: 0000-0003-4733-537X",
+        "ORCID: 0000-0003-3152-5785",
+        "ORCID: 0009-0001-9028-0434",
+        "ORCID: 0009-0004-0235-5013",
+        "ORCID: 0000-0001-7918-5164",
+        "ORCID: 0000-0003-0566-2209",
+        "ORCID: 0000-0002-4445-7219",
+        "ORCID: 0000-0003-3867-0299",
+        "ORCID: 0000-0002-9310-951X"
+      ],
+      "affiliations": [
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Immunology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+        "Tri-Institutional PhD Program in Chemical Biology, Weill Cornell Medicine, The Rockefeller University and Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Molecular Medicine Program, Hospital for Sick Children, Toronto, Ontario, Canada.",
+        "Molecular Medicine Program, Hospital for Sick Children, Toronto, Ontario, Canada.",
+        "Immunology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Molecular Medicine Program, Hospital for Sick Children, Toronto, Ontario, Canada.",
+        "Department of Medical Biophysics, University of Toronto, Toronto, Ontario, Canada.",
+        "Department of Biochemistry, University of Toronto, Toronto, Ontario, Canada.",
+        "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA. mdejesus@rockefeller.edu.",
+        "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA. rock@rockefeller.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kresse, Isaac J",
+        "short_name": "Kresse IJ",
+        "identifiers": [
+          "0000-0003-2714-1842"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Sayegh, Natalie Y",
+        "short_name": "Sayegh NY",
+        "identifiers": [
+          "0000-0003-4431-8312"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Munsamy-Govender, Vanisha",
+        "short_name": "Munsamy-Govender V",
+        "identifiers": [
+          "0009-0007-0925-9632"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Na, Allen",
+        "short_name": "Na A",
+        "identifiers": [
+          "0009-0007-7247-7712"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Nitz, Samuel",
+        "short_name": "Nitz S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Ozakman, Yaprak",
+        "short_name": "Ozakman Y",
+        "identifiers": [],
+        "affiliations": [
+          "Immunology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Bosch, Barbara",
+        "short_name": "Bosch B",
+        "identifiers": [
+          "0000-0001-7708-6461"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Gonzalez Behn-Eschenburg, Sebastian",
+        "short_name": "Gonzalez Behn-Eschenburg S",
+        "identifiers": [
+          "0000-0003-4733-537X"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Poulton, Nicholas C",
+        "short_name": "Poulton NC",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Reddy, Abhijna K",
+        "short_name": "Reddy AK",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Wallach, Joshua",
+        "short_name": "Wallach J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Aguilera Olvera, Rodrigo",
+        "short_name": "Aguilera Olvera R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Castro, Anthony",
+        "short_name": "Castro A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Kim, Heather",
+        "short_name": "Kim H",
+        "identifiers": [
+          "0000-0003-3152-5785"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Wong, Andrew I",
+        "short_name": "Wong AI",
+        "identifiers": [
+          "0009-0001-9028-0434"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Tornow, S Nicolai",
+        "short_name": "Tornow SN",
+        "identifiers": [
+          "0009-0004-0235-5013"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA.",
+          "Tri-Institutional PhD Program in Chemical Biology, Weill Cornell Medicine, The Rockefeller University and Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Bueler, Stephanie A",
+        "short_name": "Bueler SA",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Medicine Program, Hospital for Sick Children, Toronto, Ontario, Canada."
+        ]
+      },
+      {
+        "full_name": "Law, Wayne W H",
+        "short_name": "Law WWH",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Medicine Program, Hospital for Sick Children, Toronto, Ontario, Canada."
+        ]
+      },
+      {
+        "full_name": "Glickman, Michael S",
+        "short_name": "Glickman MS",
+        "identifiers": [
+          "0000-0001-7918-5164"
+        ],
+        "affiliations": [
+          "Immunology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Rubinstein, John L",
+        "short_name": "Rubinstein JL",
+        "identifiers": [
+          "0000-0003-0566-2209"
+        ],
+        "affiliations": [
+          "Molecular Medicine Program, Hospital for Sick Children, Toronto, Ontario, Canada.",
+          "Department of Medical Biophysics, University of Toronto, Toronto, Ontario, Canada.",
+          "Department of Biochemistry, University of Toronto, Toronto, Ontario, Canada."
+        ]
+      },
+      {
+        "full_name": "Schnappinger, Dirk",
+        "short_name": "Schnappinger D",
+        "identifiers": [
+          "0000-0002-4445-7219"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "DeJesus, Michael A",
+        "short_name": "DeJesus MA",
+        "identifiers": [
+          "0000-0003-3867-0299"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA. mdejesus@rockefeller.edu."
+        ]
+      },
+      {
+        "full_name": "Rock, Jeremy M",
+        "short_name": "Rock JM",
+        "identifiers": [
+          "0000-0002-9310-951X"
+        ],
+        "affiliations": [
+          "Laboratory of Host-Pathogen Biology, The Rockefeller University, New York, NY, USA. rock@rockefeller.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 10:52",
+    "fetched_at": "2026-11-09 19:56:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42983094"
+    ],
+    "review": [
+      "42983094"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11212-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

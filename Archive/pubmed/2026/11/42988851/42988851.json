@@ -1,0 +1,245 @@
+{
+  "identity": {
+    "pmid": "42988851",
+    "doi": "10.1038/s41556-026-02126-0",
+    "title": "Positional replication fork instability drives PARP inhibitor cytotoxicity."
+  },
+  "content": {
+    "abstract": "Although poly(ADP-ribose) polymerase inhibitors (PARPi) show promise for treating homologous recombination-deficient cancers, the observed PARPi hypersensitivity in additional genetic contexts expands their potential use in precision oncology. Yet, the DNA lesions driving PARPi-induced cytotoxicity remain poorly defined. Here we uncover distinct replication-fork lesions in specific genomic regions as key determinants of PARPi cytotoxicity. Using CRISPR screens, we identify that loss of replication-coupled cohesin acetyltransferase ESCO2 confers PARPi hypersensitivity independently of homologous recombination deficiency. Quantitative single-molecule imaging reveals that ESCO2 loss promotes accumulation of G-quadruplex (G4) DNA structures at a subset of replication-associated sites, associated with PARP1 activation and engagement of fork protection factor TIMELESS to mitigate G4-induced stress. Notably, these G4 lesions localize to fragile pericentromeric regions and engage the G4 helicase DDX11. PARP inhibition disrupts this protective G4-processing response by preventing PARP1-dependent engagement of TIMELESS and DDX11, leading to G4 accumulation, DNA damage and chromosomal instability. Together, our findings define the G4-PARP1-TIMELESS-DDX11 axis as a critical safeguard of replication fork stability at hard-to-replicate loci and reveal ESCO2 as a therapeutic target for promoting synthetic lethality in PARPi-treated cancers.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gupta, Dipika",
+        "Ding, Xia",
+        "Zhang, Lianglin",
+        "Coleman, Kate E",
+        "Tang, Grace",
+        "Lee, Wei Ting C",
+        "Oyer, Jon",
+        "Kang, Xiaolin",
+        "Ramms, Dana J",
+        "Yu, Ziqi",
+        "VanArsdale, Todd",
+        "Fenyo, David",
+        "Huang, Tony T",
+        "Rothenberg, Eli"
+      ],
+      "short_names": [
+        "Gupta D",
+        "Ding X",
+        "Zhang L",
+        "Coleman KE",
+        "Tang G",
+        "Lee WTC",
+        "Oyer J",
+        "Kang X",
+        "Ramms DJ",
+        "Yu Z",
+        "VanArsdale T",
+        "Fenyo D",
+        "Huang TT",
+        "Rothenberg E"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6512-5256",
+        "ORCID: 0000-0002-7700-1728",
+        "ORCID: 0000-0001-9291-5002",
+        "ORCID: 0000-0002-1382-1380"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA. Dipika.Gupta@nyulangone.org.",
+        "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+        "WuXi Biology, WuXi AppTec, San Diego, CA, USA.",
+        "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+        "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA.",
+        "Regeneron Pharmaceuticals, Tarrytown, NY, USA.",
+        "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+        "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+        "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+        "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+        "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+        "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA. Eli.Rothenberg@nyulangone.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gupta, Dipika",
+        "short_name": "Gupta D",
+        "identifiers": [
+          "0000-0002-6512-5256"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA. Dipika.Gupta@nyulangone.org."
+        ]
+      },
+      {
+        "full_name": "Ding, Xia",
+        "short_name": "Ding X",
+        "identifiers": [],
+        "affiliations": [
+          "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA.",
+          "WuXi Biology, WuXi AppTec, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lianglin",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Coleman, Kate E",
+        "short_name": "Coleman KE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Tang, Grace",
+        "short_name": "Tang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Wei Ting C",
+        "short_name": "Lee WTC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA.",
+          "Regeneron Pharmaceuticals, Tarrytown, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Oyer, Jon",
+        "short_name": "Oyer J",
+        "identifiers": [],
+        "affiliations": [
+          "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kang, Xiaolin",
+        "short_name": "Kang X",
+        "identifiers": [],
+        "affiliations": [
+          "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ramms, Dana J",
+        "short_name": "Ramms DJ",
+        "identifiers": [
+          "0000-0002-7700-1728"
+        ],
+        "affiliations": [
+          "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Ziqi",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "VanArsdale, Todd",
+        "short_name": "VanArsdale T",
+        "identifiers": [],
+        "affiliations": [
+          "Pfizer Inc., Oncology Research and Development, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Fenyo, David",
+        "short_name": "Fenyo D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Tony T",
+        "short_name": "Huang TT",
+        "identifiers": [
+          "0000-0001-9291-5002"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Rothenberg, Eli",
+        "short_name": "Rothenberg E",
+        "identifiers": [
+          "0000-0002-1382-1380"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Pharmacology, New York University Grossman School of Medicine, New York, NY, USA. Eli.Rothenberg@nyulangone.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature cell biology"
+    ],
+    "journal_abbrev": [
+      "Nat Cell Biol"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 07:12",
+    "fetched_at": "2026-11-09 19:55:45"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42988851"
+    ],
+    "review": [
+      "42988851"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41556-026-02126-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-556",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42990365",
+    "doi": "10.64898/2026.10.26.762060",
+    "title": "Systematic analysis of genetic vulnerabilities caused by chromosome loss events in cancer."
+  },
+  "content": {
+    "abstract": "Chromosome loss events are common across tumor types but rarely occur in normal tissue, raising the possibility that these alterations could be exploited as cancer-specific therapeutic vulnerabilities. Here, we integrate genome-scale CRISPR screening data with chromosome-level copy number profiles from 1,150 cancer cell lines and identify 389 dependencies that are selectively associated with individual chromosome loss events. The most significant vulnerabilities uncovered by our analysis are paralogous gene pairs, in which the loss of a paralog on an aneuploid chromosome establishes a unique dependency on its redundant paralog encoded elsewhere in the genome. We experimentally validate two paralog dependencies: loss of chromosome 8p, which encodes the phosphatase PPP2CB, creates a specific dependency on its paralog PPP2CA, while loss of the Y chromosome, which encodes the helicase DDX3Y, creates a specific dependency on its paralog DDX3X. Systematic benchmarking of CRISPR screening data indicates that the selective dependency on DDX3X in loss-of-Y cells exceeds other published aneuploidy-associated vulnerabilities and matches or exceeds most clinically-validated biomarker-target relationships. Furthermore, we found that the acute degradation of DDX3X was sufficient to trigger apoptosis in vitro and tumor regressions in mice. Collectively, these findings establish chromosome loss as a recurrent source of biomarker-defined therapeutic targets, identify paralog insufficiency as a general vulnerability in aneuploid cells, and provide in vivo proof-of-concept for targeting DDX3X in cancers with Y chromosome loss.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bei, Yi",
+        "Keane, Jessica",
+        "Lynch, Mason",
+        "Tamaru, Kurt M",
+        "Lee, Suyeon",
+        "Qiao, Lu",
+        "Kandikuppa, Pranav K",
+        "Gauthier-Coles, Gregory",
+        "Zhao, Wenqi",
+        "Schukken, Klaske M",
+        "Forrest, Ines",
+        "Thompson, Sarah L",
+        "Roessler, Stephanie",
+        "Taylor, Alison M",
+        "Sheltzer, Jason M"
+      ],
+      "short_names": [
+        "Bei Y",
+        "Keane J",
+        "Lynch M",
+        "Tamaru KM",
+        "Lee S",
+        "Qiao L",
+        "Kandikuppa PK",
+        "Gauthier-Coles G",
+        "Zhao W",
+        "Schukken KM",
+        "Forrest I",
+        "Thompson SL",
+        "Roessler S",
+        "Taylor AM",
+        "Sheltzer JM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Yale University School of Medicine, New Haven, Connecticut 06511, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Yale University School of Medicine, New Haven, Connecticut 06511, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA.",
+        "Heidelberg University, Medical Faculty, Institute of Pathology, University Hospital Heidelberg, 69120 Heidelberg, Germany.",
+        "Columbia University School of Medicine, New York, New York 10032, USA.",
+        "Stanford University School of Medicine, Stanford, California 94305, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bei, Yi",
+        "short_name": "Bei Y",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Keane, Jessica",
+        "short_name": "Keane J",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Lynch, Mason",
+        "short_name": "Lynch M",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Tamaru, Kurt M",
+        "short_name": "Tamaru KM",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Suyeon",
+        "short_name": "Lee S",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Qiao, Lu",
+        "short_name": "Qiao L",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Kandikuppa, Pranav K",
+        "short_name": "Kandikuppa PK",
+        "identifiers": [],
+        "affiliations": [
+          "Yale University School of Medicine, New Haven, Connecticut 06511, USA."
+        ]
+      },
+      {
+        "full_name": "Gauthier-Coles, Gregory",
+        "short_name": "Gauthier-Coles G",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Wenqi",
+        "short_name": "Zhao W",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Schukken, Klaske M",
+        "short_name": "Schukken KM",
+        "identifiers": [],
+        "affiliations": [
+          "Yale University School of Medicine, New Haven, Connecticut 06511, USA."
+        ]
+      },
+      {
+        "full_name": "Forrest, Ines",
+        "short_name": "Forrest I",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Thompson, Sarah L",
+        "short_name": "Thompson SL",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Roessler, Stephanie",
+        "short_name": "Roessler S",
+        "identifiers": [],
+        "affiliations": [
+          "Heidelberg University, Medical Faculty, Institute of Pathology, University Hospital Heidelberg, 69120 Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Taylor, Alison M",
+        "short_name": "Taylor AM",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia University School of Medicine, New York, New York 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Sheltzer, Jason M",
+        "short_name": "Sheltzer JM",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine, Stanford, California 94305, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-09 19:55:45"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42990365"
+    ],
+    "review": [
+      "42990365"
+    ],
+    "pmc": [
+      "13734024"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42990365/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.26.762060",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

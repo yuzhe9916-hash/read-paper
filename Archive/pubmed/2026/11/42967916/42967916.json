@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42967916",
+    "doi": "10.1038/s41467-026-77999-8",
+    "title": "Synthetic lethal screens reveal p300/CBP as a vulnerability for GNAQ-driven uveal melanomas."
+  },
+  "content": {
+    "abstract": "Uveal melanoma is the most common intraocular cancer in adults, driven by activating mutations in GNAQ or GNA11, which encode the G proteins Galphaq and Galpha11. Currently, therapeutic options for uveal melanoma, particularly metastatic uveal melanoma, remain limited. Through an isogenic CRISPR screening approach, we identify EP300, which encodes the protein lysine acetyltransferase p300, as a top synthetic lethal vulnerability in the context of GNAQ mutation. Notably, CREBBP, which encodes the closely related paralogue CBP, also emerges among the top-ranked candidates. Mechanistically, we find that p300 and CBP support YAP-dependent transcription downstream of oncogenic Galphaq in uveal melanoma through interactions with YAP at chromatin. These interactions enhance H3K27 acetylation at the promoters and putative enhancers of YAP target genes and promote the recruitment of RNA polymerase II and CDK9. Using multiple in vivo models representing clinically relevant stages of Galphaq-mutant uveal melanoma, we find that p300 inhibition, by both genetic and pharmacological approaches, profoundly impairs tumor growth and metastasis. Taken together, this study establishes p300 as a potential therapeutic target for Galphaq-driven uveal melanoma, which is dependent on unrestrained YAP signaling.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Uveal Neoplasms/genetics/pathology/metabolism",
+      "*GTP-Binding Protein alpha Subunits, Gq-G11/genetics/metabolism",
+      "Humans",
+      "*Melanoma/genetics/pathology/metabolism",
+      "Uveal Melanoma",
+      "*E1A-Associated p300 Protein/genetics/metabolism/antagonists & inhibitors",
+      "Animals",
+      "Cell Line, Tumor",
+      "*Synthetic Lethal Mutations",
+      "Transcription Factors/metabolism/genetics",
+      "YAP-Signaling Proteins",
+      "*CREB-Binding Protein/metabolism/genetics",
+      "Mice",
+      "Gene Expression Regulation, Neoplastic",
+      "Mutation",
+      "*p300-CBP Transcription Factors/metabolism/genetics",
+      "Phosphoproteins/metabolism",
+      "Histones/metabolism",
+      "Cell Cycle Proteins",
+      "GTP-Binding Protein alpha Subunits"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Gui-Ming",
+        "Yuan, Junling",
+        "Chen, Liang",
+        "Jin, Xuan-Yu",
+        "Ren, Zhong-Lu",
+        "Zhou, Yan-Ling",
+        "Zhou, Runhua",
+        "Xiao, Ya-Fei",
+        "Wang, Jing-Wei",
+        "Zhang, Xi-An",
+        "Bai, Chongzhi",
+        "Li, Zhijie",
+        "Li, Yi-Lei",
+        "Yu, Le"
+      ],
+      "short_names": [
+        "Zhang GM",
+        "Yuan J",
+        "Chen L",
+        "Jin XY",
+        "Ren ZL",
+        "Zhou YL",
+        "Zhou R",
+        "Xiao YF",
+        "Wang JW",
+        "Zhang XA",
+        "Bai C",
+        "Li Z",
+        "Li YL",
+        "Yu L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6293-6141",
+        "ORCID: 0000-0002-5445-7976",
+        "ORCID: 0000-0002-5554-4086",
+        "ORCID: 0000-0002-9773-1162"
+      ],
+      "affiliations": [
+        "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China.",
+        "Department of Neurosurgery, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, P.R. China.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China.",
+        "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China.",
+        "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China.",
+        "School of Medical Information and Engineering, Guangdong Pharmaceutical University, Guangzhou, P. R. China.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China.",
+        "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China.",
+        "Department of Neurosurgery, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, P.R. China.",
+        "Central Laboratory, Shanxi Province Hospital of Traditional Chinese Medicine, Taiyuan, P. R. China. baicz@im.ac.cn.",
+        "Guangdong Provincial Clinical Research Center for Geriatrics, Shenzhen People's Hospital (The First Affiliated Hospital, Southern University of Science and Technology; The Second Clinical Medical College, Jinan University), Shenzhen, P. R. China. li.zhijie@szhospital.com.",
+        "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China. lei@smu.edu.cn.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China. yulezy@smu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Gui-Ming",
+        "short_name": "Zhang GM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China.",
+          "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China.",
+          "Department of Neurosurgery, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Junling",
+        "short_name": "Yuan J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Liang",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Jin, Xuan-Yu",
+        "short_name": "Jin XY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Ren, Zhong-Lu",
+        "short_name": "Ren ZL",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Information and Engineering, Guangdong Pharmaceutical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yan-Ling",
+        "short_name": "Zhou YL",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Runhua",
+        "short_name": "Zhou R",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Ya-Fei",
+        "short_name": "Xiao YF",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing-Wei",
+        "short_name": "Wang JW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xi-An",
+        "short_name": "Zhang XA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Bai, Chongzhi",
+        "short_name": "Bai C",
+        "identifiers": [
+          "0000-0002-6293-6141"
+        ],
+        "affiliations": [
+          "Central Laboratory, Shanxi Province Hospital of Traditional Chinese Medicine, Taiyuan, P. R. China. baicz@im.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Zhijie",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0000-0002-5445-7976"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Clinical Research Center for Geriatrics, Shenzhen People's Hospital (The First Affiliated Hospital, Southern University of Science and Technology; The Second Clinical Medical College, Jinan University), Shenzhen, P. R. China. li.zhijie@szhospital.com."
+        ]
+      },
+      {
+        "full_name": "Li, Yi-Lei",
+        "short_name": "Li YL",
+        "identifiers": [
+          "0000-0002-5554-4086"
+        ],
+        "affiliations": [
+          "Department of Pharmacy and Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China. lei@smu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yu, Le",
+        "short_name": "Yu L",
+        "identifiers": [
+          "0000-0002-9773-1162"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, P. R. China. yulezy@smu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 05:29",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42967916"
+    ],
+    "review": [
+      "42967916"
+    ],
+    "pmc": [
+      "13724638"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/melanoma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Melanoma"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77999-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42967916/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1240",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

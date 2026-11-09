@@ -1,0 +1,322 @@
+{
+  "identity": {
+    "pmid": "42971347",
+    "doi": "10.1016/j.jgg.2026.10.015",
+    "title": "Activating death receptor 5 exposes a cancer cell vulnerability to natural killer and T cell attack."
+  },
+  "content": {
+    "abstract": "Immunotherapy has revolutionized cancer care, yet resistance frequently undermines its efficacy. Although tumor-intrinsic resistance pathways have been mapped, how immune pressure regulates death-receptor vulnerability and anti-apoptotic buffering remains less defined. Using genome-wide CRISPR-Cas9 screening in cancer cells co-cultured with natural killer (NK) cells, we identify CFLAR, encoding cFLIP, as a dominant suppressor of death-receptor signaling that impairs NK- and T-cell cytotoxicity. CFLAR depletion sensitizes cancer cells to NK- and T-cell attack in vitro and in vivo. Single-cell and spatial transcriptomic analyses link high CFLAR expression to reduced lymphocyte infiltration and poorer responses to immune checkpoint blockade. Mechanistically, immune effector cell-induced inflammation increases CFLAR and death receptor 5 (DR5) expression in association with p38-MAPK signaling, balancing survival and death under immune pressure. The DR5 agonist conatumumab enhances lymphocyte-mediated killing and improves responses to cellular therapies, checkpoint blockade, and chemo-immunotherapy. Combining DR5 agonism with NKG2A blockade co-activates NK- and T-cell responses and overcomes anti-PD-1 resistance in MHC-I-deficient tumors. These findings identify the DR5-cFLIP axis as an immune-pressure-associated, pharmacologically targetable vulnerability and support rational combinations of DR5 agonists with multiple immunotherapies for refractory cancers.",
+    "keywords": [
+      "Apoptosis",
+      "CFLAR",
+      "Combination therapy",
+      "DR5",
+      "Immunotherapy"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Zhen",
+        "Raffi, Gabriele Casagrande",
+        "Zhao, Ziji",
+        "Yang, Chaopin",
+        "Chen, Jian",
+        "Feng, Xuezhao",
+        "Chen, Yanxing",
+        "Steur, Marit",
+        "Morandi, Pietro",
+        "Lieftink, Cor",
+        "Lu, Siyi",
+        "Xie, Huamei",
+        "Zhong, Haoran",
+        "Wang, Jing",
+        "Willemsen, Lisa",
+        "Horlings, Hugo",
+        "Beijersbergen, Roderick",
+        "Dijkstra, Krijn K",
+        "Gao, Song",
+        "Xue, Ruidong",
+        "Bernards, Rene",
+        "Wang, Liqin"
+      ],
+      "short_names": [
+        "Chen Z",
+        "Raffi GC",
+        "Zhao Z",
+        "Yang C",
+        "Chen J",
+        "Feng X",
+        "Chen Y",
+        "Steur M",
+        "Morandi P",
+        "Lieftink C",
+        "Lu S",
+        "Xie H",
+        "Zhong H",
+        "Wang J",
+        "Willemsen L",
+        "Horlings H",
+        "Beijersbergen R",
+        "Dijkstra KK",
+        "Gao S",
+        "Xue R",
+        "Bernards R",
+        "Wang L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "Translational Cancer Research Center, Peking University First Hospital, Beijing 100034, China; Yunnan Baiyao International Medical Research Center, International Cancer Institute and State Key Laboratory of Molecular Oncology, MOE Frontiers Science Center for Cancer Integrative Omics, School of Basic Medical Sciences, Peking University, Beijing 100191, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China.",
+        "Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology, La Jolla, CA, USA.",
+        "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "Department of Molecular Oncology and Immunology, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China. Electronic address: gaosong@sysucc.org.cn.",
+        "Translational Cancer Research Center, Peking University First Hospital, Beijing 100034, China; Yunnan Baiyao International Medical Research Center, International Cancer Institute and State Key Laboratory of Molecular Oncology, MOE Frontiers Science Center for Cancer Integrative Omics, School of Basic Medical Sciences, Peking University, Beijing 100191, China. Electronic address: rxue@hsc.pku.edu.cn.",
+        "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands. Electronic address: r.bernards@nki.nl.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China. Electronic address: wanglq1@sysucc.org.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Zhen",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Raffi, Gabriele Casagrande",
+        "short_name": "Raffi GC",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Zhao, Ziji",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Cancer Research Center, Peking University First Hospital, Beijing 100034, China; Yunnan Baiyao International Medical Research Center, International Cancer Institute and State Key Laboratory of Molecular Oncology, MOE Frontiers Science Center for Cancer Integrative Omics, School of Basic Medical Sciences, Peking University, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Chaopin",
+        "short_name": "Yang C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jian",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Xuezhao",
+        "short_name": "Feng X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yanxing",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Steur, Marit",
+        "short_name": "Steur M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Morandi, Pietro",
+        "short_name": "Morandi P",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Lieftink, Cor",
+        "short_name": "Lieftink C",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Lu, Siyi",
+        "short_name": "Lu S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Huamei",
+        "short_name": "Xie H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Haoran",
+        "short_name": "Zhong H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China."
+        ]
+      },
+      {
+        "full_name": "Willemsen, Lisa",
+        "short_name": "Willemsen L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Horlings, Hugo",
+        "short_name": "Horlings H",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Beijersbergen, Roderick",
+        "short_name": "Beijersbergen R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Dijkstra, Krijn K",
+        "short_name": "Dijkstra KK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Oncology and Immunology, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Gao, Song",
+        "short_name": "Gao S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China. Electronic address: gaosong@sysucc.org.cn."
+        ]
+      },
+      {
+        "full_name": "Xue, Ruidong",
+        "short_name": "Xue R",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Cancer Research Center, Peking University First Hospital, Beijing 100034, China; Yunnan Baiyao International Medical Research Center, International Cancer Institute and State Key Laboratory of Molecular Oncology, MOE Frontiers Science Center for Cancer Integrative Omics, School of Basic Medical Sciences, Peking University, Beijing 100191, China. Electronic address: rxue@hsc.pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Bernards, Rene",
+        "short_name": "Bernards R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Molecular Carcinogenesis, Oncode Institute, Netherlands Cancer Institute, Amsterdam, The Netherlands. Electronic address: r.bernards@nki.nl."
+        ]
+      },
+      {
+        "full_name": "Wang, Liqin",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong 510060, China. Electronic address: wanglq1@sysucc.org.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of genetics and genomics = Yi chuan xue bao"
+    ],
+    "journal_abbrev": [
+      "J Genet Genomics"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 23:28",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42971347"
+    ],
+    "review": [
+      "42971347"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1673-8527(26)00337-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

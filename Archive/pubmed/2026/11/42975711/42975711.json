@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "42975711",
+    "doi": "10.1007/s10544-026-00853-7",
+    "title": "AI-enhanced biosensing for antimicrobial resistance: translating rapid diagnostics to global surveillance."
+  },
+  "content": {
+    "abstract": "Antimicrobial resistance (AMR) necessitates rapid and reliable diagnostic technologies to support timely antimicrobial selection and stewardship. Although conventional culture-based antimicrobial susceptibility testing (AST) remains clinically important, its extended turnaround time limits timely intervention, while molecular diagnostics can rapidly identify resistance determinants but may not accurately predict phenotypic resistance. This review critically examines the integration of artificial intelligence (AI) with biomedical microdevices and biosensors for rapid AMR detection, encompassing microfluidic and lab-on-chip platforms, electrochemical and optical biosensors, and CRISPR-based technologies. Emphasis is placed on the application of AI for signal processing, noise reduction, pattern recognition, multiplexed detection, and predictive interpretation of complex biosensor outputs. Key translational challenges, including biofouling, matrix interference, sample-preparation variability, bubble formation, evaporation, signal drift, invalid-test rates, device reproducibility, and inadequate standardisation of reporting and validation, are critically evaluated. The requirements for embedded AI, including memory, computational resources, latency, and energy efficiency, are also considered for portable point-of-care deployment. Analytical, clinical, and operational validation are distinguished, with emphasis on prospective multicentre evaluation using representative specimens and reference AST methods. Beyond clinical diagnosis, AI-enabled microdevices offer potential for decentralised AMR surveillance across wastewater, agricultural, veterinary, and environmental settings within a One Health framework. Translation will require standardised datasets, generalisable and explainable AI, scalable manufacturing, regulatory oversight, data governance, and equitable deployment. Overall, AI-integrated biomedical microdevices represent a promising approach to rapid, decentralised, and actionable AMR diagnostics and surveillance, contingent on robust real-world validation.",
+    "keywords": [
+      "Antimicrobial resistance",
+      "Artificial intelligence",
+      "Biosensors",
+      "Explainable AI",
+      "One health"
+    ],
+    "mesh_terms": [
+      "*Biosensing Techniques",
+      "*Artificial Intelligence",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Manisekaran, Nirmal Kumar",
+        "Tiwari, Pallavi",
+        "Rathinasabapathi, Pasupathi"
+      ],
+      "short_names": [
+        "Manisekaran NK",
+        "Tiwari P",
+        "Rathinasabapathi P"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-3871-2511",
+        "ORCID: 0009-0008-6380-2672",
+        "ORCID: 0000-0003-2485-3801"
+      ],
+      "affiliations": [
+        "Department of Genetic Engineering, School of Bioengineering, College of Engineering and Technology, SRM Institute of Science and Technology, Kattankulathur, Chengalpattu, Tamil Nadu, 603203, India.",
+        "Department of Genetic Engineering, School of Bioengineering, College of Engineering and Technology, SRM Institute of Science and Technology, Kattankulathur, Chengalpattu, Tamil Nadu, 603203, India.",
+        "Department of Genetic Engineering, School of Bioengineering, College of Engineering and Technology, SRM Institute of Science and Technology, Kattankulathur, Chengalpattu, Tamil Nadu, 603203, India. rathinap1@srmist.edu.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Manisekaran, Nirmal Kumar",
+        "short_name": "Manisekaran NK",
+        "identifiers": [
+          "0009-0000-3871-2511"
+        ],
+        "affiliations": [
+          "Department of Genetic Engineering, School of Bioengineering, College of Engineering and Technology, SRM Institute of Science and Technology, Kattankulathur, Chengalpattu, Tamil Nadu, 603203, India."
+        ]
+      },
+      {
+        "full_name": "Tiwari, Pallavi",
+        "short_name": "Tiwari P",
+        "identifiers": [
+          "0009-0008-6380-2672"
+        ],
+        "affiliations": [
+          "Department of Genetic Engineering, School of Bioengineering, College of Engineering and Technology, SRM Institute of Science and Technology, Kattankulathur, Chengalpattu, Tamil Nadu, 603203, India."
+        ]
+      },
+      {
+        "full_name": "Rathinasabapathi, Pasupathi",
+        "short_name": "Rathinasabapathi P",
+        "identifiers": [
+          "0000-0003-2485-3801"
+        ],
+        "affiliations": [
+          "Department of Genetic Engineering, School of Bioengineering, College of Engineering and Technology, SRM Institute of Science and Technology, Kattankulathur, Chengalpattu, Tamil Nadu, 603203, India. rathinap1@srmist.edu.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomedical microdevices"
+    ],
+    "journal_abbrev": [
+      "Biomed Microdevices"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 17:35",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42975711"
+    ],
+    "review": [
+      "42975711"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s10544-026-00853-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

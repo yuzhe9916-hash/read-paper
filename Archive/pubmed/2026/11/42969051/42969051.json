@@ -1,0 +1,194 @@
+{
+  "identity": {
+    "pmid": "42969051",
+    "doi": "10.1093/nar/gkag1089",
+    "title": "mV2G: a multiomic atlas for tissue-specific variant-to-gene prioritization."
+  },
+  "content": {
+    "abstract": "The multiomic Variant-to-Gene (mV2G; https://mv2g.hbliulab.org) is a comprehensive atlas that integrates diverse functional genomic evidence to prioritize tissue-specific variant-to-gene (V2G) associations. While genome-wide association studies (GWAS) have identified millions of associations between genetic variants and diseases, translating these findings into biological mechanisms remains challenging because >90% of variants reside in noncoding regions. Existing V2G resources provide complementary regulatory evidence but are fragmented and often lack tissue-specific interpretation. To address this challenge, we constructed the mV2G atlas by integrating 24 types of functional genomic evidence across 50 human tissues, including molecular quantitative trait loci, enhancer-gene predictions, 3D chromatin interactions, and experimental validation. The atlas contains 188 634 118 evidence-supported V2G pairs involving 13 618 039 variants and 69 521 genes. To prioritize high-confidence V2G pairs, we developed a CRISPR-informed, evidence-weighted model. Using this model, we prioritized 3 348 174 high-confidence V2G pairs, 88% of which were tissue-specific. The mV2G atlas provides searchable variant- and gene-centered interfaces, an interactive browser for visualizing variants, target genes, cis-regulatory elements, and chromatin states, as well as downloadable datasets. By integrating complementary regulatory evidence into a unified framework, mV2G provides an accessible resource for interpreting the functional and phenotypic impact of genomic variation in relevant tissues for human diseases.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Dean Y",
+        "Zhou, Hufeng",
+        "Sheth, Maya U",
+        "Gschwind, Andreas R",
+        "Engreitz, Jesse M",
+        "Lin, Xihong",
+        "Liu, Hongbo"
+      ],
+      "short_names": [
+        "Zhang DY",
+        "Zhou H",
+        "Sheth MU",
+        "Gschwind AR",
+        "Engreitz JM",
+        "Lin X",
+        "Liu H"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-1986-0632",
+        "ORCID: 0000-0001-9382-5674",
+        "ORCID: 0000-0003-1466-8899",
+        "ORCID: 0000-0002-0769-6907",
+        "ORCID: 0000-0002-5754-1719",
+        "ORCID: 0000-0001-7067-7752",
+        "ORCID: 0000-0002-0733-8616"
+      ],
+      "affiliations": [
+        "Medical Scientist Training Program (MSTP), University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, United States.",
+        "Department of Biomedical Genetics, University of Rochester Medical Center, Rochester, NY 14642, United States.",
+        "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, United States.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+        "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA 94304, United States.",
+        "Department of Bioengineering, Stanford University, Stanford, CA 94305, United States.",
+        "The Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+        "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA 94304, United States.",
+        "The Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States.",
+        "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+        "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA 94304, United States.",
+        "The Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States.",
+        "Stanford Cardiovascular Institute, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+        "Gene Regulation Observatory, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States.",
+        "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, United States.",
+        "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States.",
+        "Department of Statistics, Harvard University, Cambridge, MA 02138, United States.",
+        "Department of Biomedical Genetics, University of Rochester Medical Center, Rochester, NY 14642, United States.",
+        "University of Rochester Aging Institute, University of Rochester Medical Center, Rochester, NY 14642, United States.",
+        "Wilmot Cancer Institute, University of Rochester Medical Center, Rochester, NY 14642, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Dean Y",
+        "short_name": "Zhang DY",
+        "identifiers": [
+          "0009-0007-1986-0632"
+        ],
+        "affiliations": [
+          "Medical Scientist Training Program (MSTP), University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, United States.",
+          "Department of Biomedical Genetics, University of Rochester Medical Center, Rochester, NY 14642, United States."
+        ]
+      },
+      {
+        "full_name": "Zhou, Hufeng",
+        "short_name": "Zhou H",
+        "identifiers": [
+          "0000-0001-9382-5674"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, United States."
+        ]
+      },
+      {
+        "full_name": "Sheth, Maya U",
+        "short_name": "Sheth MU",
+        "identifiers": [
+          "0000-0003-1466-8899"
+        ],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+          "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA 94304, United States.",
+          "Department of Bioengineering, Stanford University, Stanford, CA 94305, United States.",
+          "The Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States."
+        ]
+      },
+      {
+        "full_name": "Gschwind, Andreas R",
+        "short_name": "Gschwind AR",
+        "identifiers": [
+          "0000-0002-0769-6907"
+        ],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+          "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA 94304, United States.",
+          "The Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States."
+        ]
+      },
+      {
+        "full_name": "Engreitz, Jesse M",
+        "short_name": "Engreitz JM",
+        "identifiers": [
+          "0000-0002-5754-1719"
+        ],
+        "affiliations": [
+          "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+          "Basic Sciences and Engineering Initiative, Betty Irene Moore Children's Heart Center, Lucile Packard Children's Hospital, Stanford, CA 94304, United States.",
+          "The Novo Nordisk Foundation Center for Genomic Mechanisms of Disease, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States.",
+          "Stanford Cardiovascular Institute, Stanford University School of Medicine, Stanford, CA 94305, United States.",
+          "Gene Regulation Observatory, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States."
+        ]
+      },
+      {
+        "full_name": "Lin, Xihong",
+        "short_name": "Lin X",
+        "identifiers": [
+          "0000-0001-7067-7752"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, United States.",
+          "Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States.",
+          "Department of Statistics, Harvard University, Cambridge, MA 02138, United States."
+        ]
+      },
+      {
+        "full_name": "Liu, Hongbo",
+        "short_name": "Liu H",
+        "identifiers": [
+          "0000-0002-0733-8616"
+        ],
+        "affiliations": [
+          "Department of Biomedical Genetics, University of Rochester Medical Center, Rochester, NY 14642, United States.",
+          "University of Rochester Aging Institute, University of Rochester Medical Center, Rochester, NY 14642, United States.",
+          "Wilmot Cancer Institute, University of Rochester Medical Center, Rochester, NY 14642, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 05:29",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42969051"
+    ],
+    "review": [
+      "42969051"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1089",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

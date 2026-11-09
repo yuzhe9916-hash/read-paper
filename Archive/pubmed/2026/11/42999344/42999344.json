@@ -1,0 +1,277 @@
+{
+  "identity": {
+    "pmid": "42999344",
+    "doi": "10.64898/2026.10.09.757677",
+    "title": "A Compact Regulatory Logic Governs Fibroblast Cell State Plasticity in Fibrosis."
+  },
+  "content": {
+    "abstract": "Fibroblast activation drives organ failure across human diseases, yet its regulatory basis remains largely undefined. Here, we repressed 280 conserved disease-activated enhancers using CRISPR droplet sequencing (CROP-seq) in  approximately 550,000 fibroblasts, constructing a regulome of 15 gene programs governing the profibrotic state. Systematic TF perturbation converged on MEOX1 as a central regulator, and fibroblast-specific Meox1 deletion in mice improved cardiac function, reduced fibrosis, and rewired profibrotic fibroblasts toward quiescence in heart failure. Effector gene perturbation in human cardiac fibroblasts revealed distinct regulators of contractility, migration, and inflammatory signaling, and these programs were conserved across profibrotic states in human lung, liver, and skin. Simultaneous repression of just six enhancers using a multiplexed dCas12a-KRAB system collapsed the profibrotic network, suppressed migration and contraction, and rewired fibroblast paracrine signaling to attenuate macrophage inflammation. These findings define the regulatory logic of fibroblast plasticity and establish a new framework for reprogramming profibrotic cell states in disease.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhu, Ada M",
+        "Li, Yeting",
+        "Zhang, Haiwei",
+        "Rathinasabapathi, Brindha",
+        "Cimarosti, Bastien",
+        "Nadadur, Rangarajan",
+        "Xu, Vee",
+        "Huang, Yu",
+        "An, Yuqian",
+        "Auclair, Kirsten",
+        "Mahr, Alicja",
+        "Sheth, Maya U",
+        "Lee, Clara Youngna",
+        "Wang, Chen",
+        "Yamawaki, Tracy",
+        "Pelonero, Angelo",
+        "Padmanabhan, Arun",
+        "Ranade, Sanjeev S",
+        "Engreitz, Jesse M",
+        "Ason, Brandon",
+        "Li, Chi-Ming",
+        "Jackson, Simon",
+        "Amrute, Junedh M",
+        "Przytycki, Pawel F",
+        "Alexanian, Michael"
+      ],
+      "short_names": [
+        "Zhu AM",
+        "Li Y",
+        "Zhang H",
+        "Rathinasabapathi B",
+        "Cimarosti B",
+        "Nadadur R",
+        "Xu V",
+        "Huang Y",
+        "An Y",
+        "Auclair K",
+        "Mahr A",
+        "Sheth MU",
+        "Lee CY",
+        "Wang C",
+        "Yamawaki T",
+        "Pelonero A",
+        "Padmanabhan A",
+        "Ranade SS",
+        "Engreitz JM",
+        "Ason B",
+        "Li CM",
+        "Jackson S",
+        "Amrute JM",
+        "Przytycki PF",
+        "Alexanian M"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Zhu, Ada M",
+        "short_name": "Zhu AM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Yeting",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Haiwei",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rathinasabapathi, Brindha",
+        "short_name": "Rathinasabapathi B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cimarosti, Bastien",
+        "short_name": "Cimarosti B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nadadur, Rangarajan",
+        "short_name": "Nadadur R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xu, Vee",
+        "short_name": "Xu V",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huang, Yu",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "An, Yuqian",
+        "short_name": "An Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Auclair, Kirsten",
+        "short_name": "Auclair K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mahr, Alicja",
+        "short_name": "Mahr A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sheth, Maya U",
+        "short_name": "Sheth MU",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lee, Clara Youngna",
+        "short_name": "Lee CY",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Chen",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yamawaki, Tracy",
+        "short_name": "Yamawaki T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pelonero, Angelo",
+        "short_name": "Pelonero A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Padmanabhan, Arun",
+        "short_name": "Padmanabhan A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ranade, Sanjeev S",
+        "short_name": "Ranade SS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Engreitz, Jesse M",
+        "short_name": "Engreitz JM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ason, Brandon",
+        "short_name": "Ason B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Chi-Ming",
+        "short_name": "Li CM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jackson, Simon",
+        "short_name": "Jackson S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Amrute, Junedh M",
+        "short_name": "Amrute JM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Przytycki, Pawel F",
+        "short_name": "Przytycki PF",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Alexanian, Michael",
+        "short_name": "Alexanian M",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999344"
+    ],
+    "review": [
+      "42999344"
+    ],
+    "pmc": [
+      "13742655"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.09.757677",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

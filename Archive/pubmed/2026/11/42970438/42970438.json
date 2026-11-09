@@ -1,0 +1,104 @@
+{
+  "identity": {
+    "pmid": "42970438",
+    "doi": "10.1016/j.xpro.2026.104932",
+    "title": "Protocol for comprehensive genotyping of nuclease, base, and prime editing outcomes using CleanFinder."
+  },
+  "content": {
+    "abstract": "Genome editing experiments often produce heterogeneous allele mixtures that require structured genotyping. Here, we present a protocol for analyzing amplicon sequencing data from nuclease, base, prime, and mitochondrial base editing experiments using CleanFinder. We describe steps for preparing reference sequences and FASTQ files and running browser-native or command-line analyses. We then detail interpretation of genotype distributions, repair signatures, editing efficiencies, and allelic dropout. For complete details on the use and execution of this protocol, please refer to Ramachandran et al.(1) and cleanfinder.org.",
+    "keywords": [
+      "Bioinformatics",
+      "CRISPR",
+      "Genomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dobner, Jochen",
+        "Ramachandran, Haribaskar",
+        "Rossi, Andrea"
+      ],
+      "short_names": [
+        "Dobner J",
+        "Ramachandran H",
+        "Rossi A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Environmental Adaptation and Cellular Resilience Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Dusseldorf, Germany. Electronic address: jochen.dobner@iuf-duesseldorf.de.",
+        "Genome Engineering and Model Development Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Dusseldorf, Germany.",
+        "Environmental Adaptation and Cellular Resilience Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Dusseldorf, Germany; Genome Engineering and Model Development Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Dusseldorf, Germany. Electronic address: andrea.rossi@iuf-duesseldorf.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dobner, Jochen",
+        "short_name": "Dobner J",
+        "identifiers": [],
+        "affiliations": [
+          "Environmental Adaptation and Cellular Resilience Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany. Electronic address: jochen.dobner@iuf-duesseldorf.de."
+        ]
+      },
+      {
+        "full_name": "Ramachandran, Haribaskar",
+        "short_name": "Ramachandran H",
+        "identifiers": [],
+        "affiliations": [
+          "Genome Engineering and Model Development Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany."
+        ]
+      },
+      {
+        "full_name": "Rossi, Andrea",
+        "short_name": "Rossi A",
+        "identifiers": [],
+        "affiliations": [
+          "Environmental Adaptation and Cellular Resilience Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany; Genome Engineering and Model Development Laboratory, IUF-Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany. Electronic address: andrea.rossi@iuf-duesseldorf.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/02 17:30",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42970438"
+    ],
+    "review": [
+      "42970438"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00585-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

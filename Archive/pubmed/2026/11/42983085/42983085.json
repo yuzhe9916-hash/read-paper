@@ -1,0 +1,382 @@
+{
+  "identity": {
+    "pmid": "42983085",
+    "doi": "10.1038/s41586-026-11248-2",
+    "title": "Nectin-4 mediates rubella virus entry in airway and placental cells."
+  },
+  "content": {
+    "abstract": "Rubella virus (RuV) causes rubella and, when acquired during pregnancy, congenital rubella syndrome(1). Despite its clinical significance, the cellular entry mechanism of RuV remains poorly characterized, owing to limited identification of host receptors(2), which hinders pathogenesis research and therapeutic development. Here, using proximity biotin labelling-based proteomics coupled with CRISPR-Cas9 validation, we identify nectin-4 as a functional RuV entry receptor. Ectopic expression of nectin-4 conferred susceptibility to RuV in non-permissive cells, whereas blocking or genetic ablation of nectin-4 reduced infection, results that demonstrate that nectin-4 is a major entry factor. Mechanistically, nectin-4 directly interacts with the RuV envelope glycoprotein heterodimer and facilitates receptor-mediated endocytosis following initial calcium-dependent viral attachment to cellular lipids. In polarized airway epithelial models, nectin-4 mediates basolateral entry of RuV and supports apical progeny release, a finding that provides a molecular mechanism for respiratory transmission. In placental models, nectin-4 is highly expressed on syncytiotrophoblasts and facilitates infection at the maternal-fetal interface, although additional nectin-4-independent pathways contribute to infection of other trophoblast populations. Together, these data establish nectin-4 as a key factor for respiratory transmission and early placental infection of RuV and highlight it as a promising therapeutic target for the prevention of rubella and related diseases.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mori, Yoshio",
+        "Sakata, Masafumi",
+        "Nakatsu, Yuichiro",
+        "Hori, Takeshi",
+        "Ino, Yoko",
+        "Suzuki, Satoshi",
+        "Nishi, Mayuko",
+        "Kawase, Miyuki",
+        "Kakizaki, Masatoshi",
+        "Nagai, Misato",
+        "Fukano, Kento",
+        "Aizaki, Hideki",
+        "Hayashi, Hironori",
+        "Murayama, Kazutaka",
+        "Kodama, Eiichi N",
+        "Taguwa, Shuhei",
+        "Okura, Takashi",
+        "Takahashi, Tatsuki",
+        "Kamitani, Wataru",
+        "Shirato, Kazuya",
+        "Isogawa, Masanori",
+        "Kimura, Yayoi",
+        "Kaji, Hirokazu",
+        "Matsuura, Yoshiharu",
+        "Ryo, Akihide"
+      ],
+      "short_names": [
+        "Mori Y",
+        "Sakata M",
+        "Nakatsu Y",
+        "Hori T",
+        "Ino Y",
+        "Suzuki S",
+        "Nishi M",
+        "Kawase M",
+        "Kakizaki M",
+        "Nagai M",
+        "Fukano K",
+        "Aizaki H",
+        "Hayashi H",
+        "Murayama K",
+        "Kodama EN",
+        "Taguwa S",
+        "Okura T",
+        "Takahashi T",
+        "Kamitani W",
+        "Shirato K",
+        "Isogawa M",
+        "Kimura Y",
+        "Kaji H",
+        "Matsuura Y",
+        "Ryo A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9441-9117",
+        "ORCID: 0000-0002-3865-3379",
+        "ORCID: 0000-0002-5122-0180",
+        "ORCID: 0000-0001-8730-4303",
+        "ORCID: 0000-0003-2566-4172",
+        "ORCID: 0000-0001-9091-8285",
+        "ORCID: 0000-0001-6028-8091"
+      ],
+      "affiliations": [
+        "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan. mori.yo@jihs.go.jp.",
+        "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Diagnostic and Therapeutic Systems Engineering, Laboratory for Biomaterials and Bioengineering (LBB), Institute of Integrated Research (IIR), Institute of Science Tokyo, Chiyoda, Japan.",
+        "Center for Biological Safety and Research (CBSR), National Institute of Health Sciences (NIHS), Kawasaki, Japan.",
+        "Advanced Medical Research Center, Yokohama City University, Yokohama, Japan.",
+        "Molecular Genetic Research, Department of Chemistry and Biological Science, College of Science and Engineering, Aoyama Gakuin University, Sagamihara, Japan.",
+        "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Academic-Industrial Partnerships Promotion, Center for Clinical Sciences, Japan Institute for Health Security, Shinjuku, Japan.",
+        "Department of Virology II, National Institute of Infectious Diseases, Japan Institute for Health Security, Shinjuku, Japan.",
+        "Department of Virology II, National Institute of Infectious Diseases, Japan Institute for Health Security, Shinjuku, Japan.",
+        "Division of Infectious Diseases, International Research Institute of Disaster Science, Tohoku University, Sendai, Japan.",
+        "Division of Biomedical Measurements and Diagnostics, Graduate School of Biomedical Engineering, Tohoku University, Sendai, Japan.",
+        "Division of Infectious Diseases, International Research Institute of Disaster Science, Tohoku University, Sendai, Japan.",
+        "Department of Infectious Diseases, Graduate School of Medicine and Tohoku Medical Megabank Organization, Tohoku University, Sendai, Japan.",
+        "Laboratory of Virus Control, Center for Infectious Disease Education and Research (CiDER), The University of Osaka, Suita, Japan.",
+        "Laboratory of Virus Control, Research Institute for Microbial Diseases (RIMD), The University of Osaka, Suita, Japan.",
+        "Center for Advanced Modalities and DDS (CAMaD), The University of Osaka, Suita, Japan.",
+        "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Infectious Diseases and Host Defense, Graduate School of Medicine, Gunma University, Maebashi, Japan.",
+        "Department of Infectious Diseases and Host Defense, Graduate School of Medicine, Gunma University, Maebashi, Japan.",
+        "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan.",
+        "Department of Virology II, National Institute of Infectious Diseases, Japan Institute for Health Security, Shinjuku, Japan.",
+        "Advanced Medical Research Center, Yokohama City University, Yokohama, Japan.",
+        "Department of Diagnostic and Therapeutic Systems Engineering, Laboratory for Biomaterials and Bioengineering (LBB), Institute of Integrated Research (IIR), Institute of Science Tokyo, Chiyoda, Japan.",
+        "Laboratory of Virus Control, Center for Infectious Disease Education and Research (CiDER), The University of Osaka, Suita, Japan.",
+        "Laboratory of Virus Control, Research Institute for Microbial Diseases (RIMD), The University of Osaka, Suita, Japan.",
+        "Center for Advanced Modalities and DDS (CAMaD), The University of Osaka, Suita, Japan.",
+        "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan. ryo.a@jihs.go.jp.",
+        "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan. ryo.a@jihs.go.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mori, Yoshio",
+        "short_name": "Mori Y",
+        "identifiers": [
+          "0000-0001-9441-9117"
+        ],
+        "affiliations": [
+          "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan. mori.yo@jihs.go.jp."
+        ]
+      },
+      {
+        "full_name": "Sakata, Masafumi",
+        "short_name": "Sakata M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Nakatsu, Yuichiro",
+        "short_name": "Nakatsu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Hori, Takeshi",
+        "short_name": "Hori T",
+        "identifiers": [
+          "0000-0002-3865-3379"
+        ],
+        "affiliations": [
+          "Department of Diagnostic and Therapeutic Systems Engineering, Laboratory for Biomaterials and Bioengineering (LBB), Institute of Integrated Research (IIR), Institute of Science Tokyo, Chiyoda, Japan.",
+          "Center for Biological Safety and Research (CBSR), National Institute of Health Sciences (NIHS), Kawasaki, Japan."
+        ]
+      },
+      {
+        "full_name": "Ino, Yoko",
+        "short_name": "Ino Y",
+        "identifiers": [],
+        "affiliations": [
+          "Advanced Medical Research Center, Yokohama City University, Yokohama, Japan.",
+          "Molecular Genetic Research, Department of Chemistry and Biological Science, College of Science and Engineering, Aoyama Gakuin University, Sagamihara, Japan."
+        ]
+      },
+      {
+        "full_name": "Suzuki, Satoshi",
+        "short_name": "Suzuki S",
+        "identifiers": [
+          "0000-0002-5122-0180"
+        ],
+        "affiliations": [
+          "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Nishi, Mayuko",
+        "short_name": "Nishi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Kawase, Miyuki",
+        "short_name": "Kawase M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Kakizaki, Masatoshi",
+        "short_name": "Kakizaki M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Nagai, Misato",
+        "short_name": "Nagai M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Fukano, Kento",
+        "short_name": "Fukano K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Academic-Industrial Partnerships Promotion, Center for Clinical Sciences, Japan Institute for Health Security, Shinjuku, Japan.",
+          "Department of Virology II, National Institute of Infectious Diseases, Japan Institute for Health Security, Shinjuku, Japan."
+        ]
+      },
+      {
+        "full_name": "Aizaki, Hideki",
+        "short_name": "Aizaki H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Virology II, National Institute of Infectious Diseases, Japan Institute for Health Security, Shinjuku, Japan."
+        ]
+      },
+      {
+        "full_name": "Hayashi, Hironori",
+        "short_name": "Hayashi H",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Infectious Diseases, International Research Institute of Disaster Science, Tohoku University, Sendai, Japan."
+        ]
+      },
+      {
+        "full_name": "Murayama, Kazutaka",
+        "short_name": "Murayama K",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biomedical Measurements and Diagnostics, Graduate School of Biomedical Engineering, Tohoku University, Sendai, Japan."
+        ]
+      },
+      {
+        "full_name": "Kodama, Eiichi N",
+        "short_name": "Kodama EN",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Infectious Diseases, International Research Institute of Disaster Science, Tohoku University, Sendai, Japan.",
+          "Department of Infectious Diseases, Graduate School of Medicine and Tohoku Medical Megabank Organization, Tohoku University, Sendai, Japan."
+        ]
+      },
+      {
+        "full_name": "Taguwa, Shuhei",
+        "short_name": "Taguwa S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Virus Control, Center for Infectious Disease Education and Research (CiDER), The University of Osaka, Suita, Japan.",
+          "Laboratory of Virus Control, Research Institute for Microbial Diseases (RIMD), The University of Osaka, Suita, Japan.",
+          "Center for Advanced Modalities and DDS (CAMaD), The University of Osaka, Suita, Japan."
+        ]
+      },
+      {
+        "full_name": "Okura, Takashi",
+        "short_name": "Okura T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Takahashi, Tatsuki",
+        "short_name": "Takahashi T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infectious Diseases and Host Defense, Graduate School of Medicine, Gunma University, Maebashi, Japan."
+        ]
+      },
+      {
+        "full_name": "Kamitani, Wataru",
+        "short_name": "Kamitani W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infectious Diseases and Host Defense, Graduate School of Medicine, Gunma University, Maebashi, Japan."
+        ]
+      },
+      {
+        "full_name": "Shirato, Kazuya",
+        "short_name": "Shirato K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Isogawa, Masanori",
+        "short_name": "Isogawa M",
+        "identifiers": [
+          "0000-0001-8730-4303"
+        ],
+        "affiliations": [
+          "Department of Virology II, National Institute of Infectious Diseases, Japan Institute for Health Security, Shinjuku, Japan."
+        ]
+      },
+      {
+        "full_name": "Kimura, Yayoi",
+        "short_name": "Kimura Y",
+        "identifiers": [],
+        "affiliations": [
+          "Advanced Medical Research Center, Yokohama City University, Yokohama, Japan."
+        ]
+      },
+      {
+        "full_name": "Kaji, Hirokazu",
+        "short_name": "Kaji H",
+        "identifiers": [
+          "0000-0003-2566-4172"
+        ],
+        "affiliations": [
+          "Department of Diagnostic and Therapeutic Systems Engineering, Laboratory for Biomaterials and Bioengineering (LBB), Institute of Integrated Research (IIR), Institute of Science Tokyo, Chiyoda, Japan."
+        ]
+      },
+      {
+        "full_name": "Matsuura, Yoshiharu",
+        "short_name": "Matsuura Y",
+        "identifiers": [
+          "0000-0001-9091-8285"
+        ],
+        "affiliations": [
+          "Laboratory of Virus Control, Center for Infectious Disease Education and Research (CiDER), The University of Osaka, Suita, Japan.",
+          "Laboratory of Virus Control, Research Institute for Microbial Diseases (RIMD), The University of Osaka, Suita, Japan.",
+          "Center for Advanced Modalities and DDS (CAMaD), The University of Osaka, Suita, Japan."
+        ]
+      },
+      {
+        "full_name": "Ryo, Akihide",
+        "short_name": "Ryo A",
+        "identifiers": [
+          "0000-0001-6028-8091"
+        ],
+        "affiliations": [
+          "Department of Bioinformatics and Integrative Omics, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan. ryo.a@jihs.go.jp.",
+          "Department of Respiratory Viruses, National Institute of Infectious Diseases, Japan Institute for Health Security, Musashimurayama, Japan. ryo.a@jihs.go.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 10:52",
+    "fetched_at": "2026-11-09 19:56:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42983085"
+    ],
+    "review": [
+      "42983085"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11248-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

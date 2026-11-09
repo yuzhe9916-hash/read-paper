@@ -1,0 +1,522 @@
+{
+  "identity": {
+    "pmid": "42994815",
+    "doi": "10.1038/s41586-026-11233-9",
+    "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering."
+  },
+  "content": {
+    "abstract": "Circulating concentrations of low-density lipoprotein cholesterol (LDL-C) and triglyceride-rich lipoproteins are leading risk factors for atherosclerotic cardiovascular disease(1). Despite several approved lipid-lowering medications, most patients fail to achieve target lipid levels under the chronic care treatment model(2,3). Here, we describe a potential single-course treatment in which an infusion of guide RNA and mRNA encoding a CRISPR adenine base editor-encapsulated within a GalNAc-lipid nanoparticle-leads to durable, liver-selective inactivation of angiopoietin-like 3 (ANGPTL3), a known driver of increased LDL-C and triglyceride concentrations. Analyses in human liver cells in vitro confirmed that the base editor introduces a DNA base-pair change at the target ANGPTL3 locus with no detectable off-target editing at any of approximately 3000 candidate sites or treatment-related structural variants. Targeted ANGPTL3 inactivation in nonhuman primates was well-tolerated and led to a > 90% mean reduction in circulating ANGPTL3 protein, with durability confirmed out to 3 years following a single dose. In mouse and nonhuman primate models of hyperlipidemia, gene inactivation was associated with reductions of approximately 40 to 50% in LDL-C and 50 to 70% in triglycerides. These results provided the scientific foundation for initiation of an ongoing first-in-human clinical trial in patients with refractory hyperlipidemia syndromes.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mizoguchi, Taiji",
+        "DeNizio, Jamie E",
+        "Chadwick, Alexandra C",
+        "Mazzola, Anne Marie",
+        "Brown, Maxwell P",
+        "Mishra, Shashank",
+        "Damle, Manashree",
+        "Matsumoto, Yuri",
+        "Neang, Victoria",
+        "Garrity, Ryan",
+        "Mantri, Manini",
+        "Olorife, Joy Oshoname",
+        "Hsu, Hui-Ting",
+        "Peshdary, Vian",
+        "Shabani, Estela",
+        "Ganey, John D",
+        "Santos, Ryan",
+        "Federico, Anthony",
+        "Garcia, Sara P",
+        "Hao, Pengying",
+        "Wu, Yue",
+        "Glass, Zachary",
+        "Kasiewicz, Lisa N",
+        "Summers, Caroline",
+        "Sanjeev, Athul",
+        "Wang, Kui",
+        "Briscoe, Steven D",
+        "Rosenson, Robert S",
+        "Cheng, Christopher J",
+        "Rohde, Ellen",
+        "Biedenkapp, Joseph",
+        "Farutin, Victor",
+        "Bellinger, Andrew M",
+        "Musunuru, Kiran",
+        "Kathiresan, Sekar",
+        "Lister, Troy",
+        "Rajeev, Kallanthottathil G",
+        "Lee, Richard G",
+        "Khera, Amit V"
+      ],
+      "short_names": [
+        "Mizoguchi T",
+        "DeNizio JE",
+        "Chadwick AC",
+        "Mazzola AM",
+        "Brown MP",
+        "Mishra S",
+        "Damle M",
+        "Matsumoto Y",
+        "Neang V",
+        "Garrity R",
+        "Mantri M",
+        "Olorife JO",
+        "Hsu HT",
+        "Peshdary V",
+        "Shabani E",
+        "Ganey JD",
+        "Santos R",
+        "Federico A",
+        "Garcia SP",
+        "Hao P",
+        "Wu Y",
+        "Glass Z",
+        "Kasiewicz LN",
+        "Summers C",
+        "Sanjeev A",
+        "Wang K",
+        "Briscoe SD",
+        "Rosenson RS",
+        "Cheng CJ",
+        "Rohde E",
+        "Biedenkapp J",
+        "Farutin V",
+        "Bellinger AM",
+        "Musunuru K",
+        "Kathiresan S",
+        "Lister T",
+        "Rajeev KG",
+        "Lee RG",
+        "Khera AV"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5599-0633",
+        "ORCID: 0009-0008-8092-5199",
+        "ORCID: 0000-0003-3298-0368",
+        "ORCID: 0000-0001-6535-5839"
+      ],
+      "affiliations": [
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Mount Sinai Fuster Heart Hospital, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "GV Management Company, LLC, Boston, MA, USA.",
+        "Cardiovascular Institute, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA.",
+        "Division of Cardiovascular Medicine, Department of Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Genetics, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+        "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA. akhera@lilly.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mizoguchi, Taiji",
+        "short_name": "Mizoguchi T",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "DeNizio, Jamie E",
+        "short_name": "DeNizio JE",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Chadwick, Alexandra C",
+        "short_name": "Chadwick AC",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Mazzola, Anne Marie",
+        "short_name": "Mazzola AM",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Brown, Maxwell P",
+        "short_name": "Brown MP",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Mishra, Shashank",
+        "short_name": "Mishra S",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Damle, Manashree",
+        "short_name": "Damle M",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Matsumoto, Yuri",
+        "short_name": "Matsumoto Y",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Neang, Victoria",
+        "short_name": "Neang V",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Garrity, Ryan",
+        "short_name": "Garrity R",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Mantri, Manini",
+        "short_name": "Mantri M",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Olorife, Joy Oshoname",
+        "short_name": "Olorife JO",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Hsu, Hui-Ting",
+        "short_name": "Hsu HT",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Peshdary, Vian",
+        "short_name": "Peshdary V",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Shabani, Estela",
+        "short_name": "Shabani E",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ganey, John D",
+        "short_name": "Ganey JD",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Santos, Ryan",
+        "short_name": "Santos R",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Federico, Anthony",
+        "short_name": "Federico A",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Garcia, Sara P",
+        "short_name": "Garcia SP",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Hao, Pengying",
+        "short_name": "Hao P",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Yue",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Glass, Zachary",
+        "short_name": "Glass Z",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Kasiewicz, Lisa N",
+        "short_name": "Kasiewicz LN",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Summers, Caroline",
+        "short_name": "Summers C",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Sanjeev, Athul",
+        "short_name": "Sanjeev A",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Kui",
+        "short_name": "Wang K",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Briscoe, Steven D",
+        "short_name": "Briscoe SD",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Rosenson, Robert S",
+        "short_name": "Rosenson RS",
+        "identifiers": [
+          "0000-0002-5599-0633"
+        ],
+        "affiliations": [
+          "Mount Sinai Fuster Heart Hospital, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Cheng, Christopher J",
+        "short_name": "Cheng CJ",
+        "identifiers": [
+          "0009-0008-8092-5199"
+        ],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Rohde, Ellen",
+        "short_name": "Rohde E",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Biedenkapp, Joseph",
+        "short_name": "Biedenkapp J",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Farutin, Victor",
+        "short_name": "Farutin V",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bellinger, Andrew M",
+        "short_name": "Bellinger AM",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA.",
+          "GV Management Company, LLC, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Musunuru, Kiran",
+        "short_name": "Musunuru K",
+        "identifiers": [
+          "0000-0003-3298-0368"
+        ],
+        "affiliations": [
+          "Cardiovascular Institute, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA.",
+          "Division of Cardiovascular Medicine, Department of Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA.",
+          "Department of Genetics, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Kathiresan, Sekar",
+        "short_name": "Kathiresan S",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Lister, Troy",
+        "short_name": "Lister T",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Rajeev, Kallanthottathil G",
+        "short_name": "Rajeev KG",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Richard G",
+        "short_name": "Lee RG",
+        "identifiers": [],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Khera, Amit V",
+        "short_name": "Khera AV",
+        "identifiers": [
+          "0000-0001-6535-5839"
+        ],
+        "affiliations": [
+          "Verve Therapeutics, Inc. (a wholly owned subsidiary of Eli Lilly and Company), Boston, MA, USA. akhera@lilly.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Nov 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 23:29",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42994815"
+    ],
+    "review": [
+      "42994815"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11233-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4016",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

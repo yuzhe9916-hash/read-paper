@@ -1,0 +1,98 @@
+{
+  "identity": {
+    "pmid": "42975636",
+    "doi": "10.1007/s00216-026-06891-7",
+    "title": "Engineering collateral cleavage kinetics: a three-state framework for programmable CRISPR-Cas12 molecular transduction."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas12 nucleic acid diagnostics have achieved very low limits of detection, particularly when coupled to pre-amplification, yet further gains in sensitivity now have limited clinical value compared with the persistent problems of poor reproducibility across samples, matrices, and operators. Existing reviews describe the collateral (trans) cleavage of Cas12 qualitatively (fast turnover, decoupled from target recognition) but offer no common language for comparing platforms or troubleshooting failures. This article proposes a three-state kinetic framework: a conceptual, semi-quantitative scheme that uses four rate constants to classify assay behaviour by regime. It is not a mathematical model for calculating reagent concentrations; the constants serve to identify which step limits performance and give indicative literature ranges for the parameters and their experimental proxies. Using the framework, we assigned the three most frequently reported failure modes (pre-activation leakage, activation delay, and quantitative collapse) to distinct rate-limiting steps and pair each with testable engineering interventions, distinguishing the matrix effects that must be removed by sample preparation from those that should be handled by kinetic design and translate the framework into a decision tree that links deployment setting, output requirement, and sample matrix to a target kinetic regime and transduction interface. A comparison with Cas9 recasts Cas12 from a sensitive nuclease into a kinetically programmable signal generator. Finally, we propose a minimal kinetic reporting set that developers can use to compare assay robustness across studies.",
+    "keywords": [
+      "Assay robustness",
+      "CRISPR-Cas12a",
+      "Collateral cleavage",
+      "Molecular diagnostics",
+      "Nucleic acid biosensing",
+      "Point-of-care testing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Verma, Vanshika",
+        "Deshmukh, Rehan"
+      ],
+      "short_names": [
+        "Verma V",
+        "Deshmukh R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biosciences and Technology, Faculty of Science and Environmental Studies, Dr. Vishwanath Karad MIT World Peace University, Pune, 411038, India.",
+        "Department of Biosciences and Technology, Faculty of Science and Environmental Studies, Dr. Vishwanath Karad MIT World Peace University, Pune, 411038, India. rrehandeshmukh@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Verma, Vanshika",
+        "short_name": "Verma V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Technology, Faculty of Science and Environmental Studies, Dr. Vishwanath Karad MIT World Peace University, Pune, 411038, India."
+        ]
+      },
+      {
+        "full_name": "Deshmukh, Rehan",
+        "short_name": "Deshmukh R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Technology, Faculty of Science and Environmental Studies, Dr. Vishwanath Karad MIT World Peace University, Pune, 411038, India. rrehandeshmukh@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical and bioanalytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Bioanal Chem"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 17:35",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42975636"
+    ],
+    "review": [
+      "42975636"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00216-026-06891-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

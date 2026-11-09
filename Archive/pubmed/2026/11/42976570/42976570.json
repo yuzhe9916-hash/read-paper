@@ -1,0 +1,114 @@
+{
+  "identity": {
+    "pmid": "42976570",
+    "doi": "10.1016/j.compbiolchem.2026.109533",
+    "title": "From internal discrimination to external transportability: A multi-layer evaluation of gestational maternal-blood transcriptomic signals associated with later neurodevelopment."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Maternal blood transcriptomic profiles during pregnancy may capture biological states associated with later neurodevelopment, but internally detectable signals may not transport across populations, tissues, molecular layers, or experimental systems. We evaluated the internal robustness and cross-context transportability of a pathway-level maternal gestational transcriptomic signal associated with later atypical neurodevelopment. METHODS: Maternal gestational blood transcriptomes from 214 MARBLES pregnancies were summarized using 619 prespecified pathway scores and modeled for atypical versus typical neurodevelopment using repeated nested cross-validation. Internal signal specificity was assessed by repeating the complete discovery procedure after 1000 outcome-label permutations. The resulting pathway findings were then evaluated across independent transcriptomic cohorts, orthogonal methylomic datasets, autism common-variant genetic data, developmental brain atlases, and CRISPR perturbation of neurodevelopmental-risk genes in human neural cells. RESULTS: The discovery procedure achieved an out-of-fold ROC-AUC of 0.693, PR-AUC of 0.677, and Brier score of 0.227, outperforming all 1000 phenotype-permuted runs of the same pipeline (empirical P = 0.001). Leave-one-batch-out performance was heterogeneous. Independent cord-blood transcriptomics provided limited directional support, whereas placental transcriptomics did not replicate the signal. Methylomic analyses showed limited support, common-variant genetics showed no detectable convergence, and neural CRISPR perturbations showed no functional convergence. Developmental atlas analysis demonstrated strong localization of the fetal inhibitory-interneuron pathway to inhibitory neurons. CONCLUSIONS: The maternal gestational blood signal was internally distinguishable from chance expectations but showed limited transportability across independent biological contexts. These findings distinguish within-cohort molecular predictiveness from broader biological generalizability and support multi-context stress testing before prenatal molecular signals are interpreted as portable biomarkers or mechanisms.",
+    "keywords": [
+      "Atypical neurodevelopment",
+      "Cross-omic integration",
+      "Maternal blood transcriptomics",
+      "Pathway-level analysis",
+      "Prenatal molecular signatures",
+      "Transportability"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Koc, Sumeyye",
+        "Kazanc, Emine",
+        "Yusufoglu, Busra"
+      ],
+      "short_names": [
+        "Koc S",
+        "Kazanc E",
+        "Yusufoglu B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Molecular Biology and Genetics, Faculty of Science, Bogazici University, Istanbul, Turkiye. Electronic address: sumeyye.koc@bogazici.edu.tr.",
+        "Department of Molecular Biology and Genetics, Faculty of Science, Bogazici University, Istanbul, Turkiye; The Institute of Cancer Research, London SW3 6JB, United Kingdom.",
+        "Department of Chemistry, Faculty of Science and Letters, Istanbul Technical University, Istanbul, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Koç, Sümeyye",
+        "short_name": "Koç S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Faculty of Science, Bogazici University, Istanbul, Türkiye. Electronic address: sumeyye.koc@bogazici.edu.tr."
+        ]
+      },
+      {
+        "full_name": "Kazanç, Emine",
+        "short_name": "Kazanç E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Faculty of Science, Bogazici University, Istanbul, Türkiye; The Institute of Cancer Research, London SW3 6JB, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Yusufoğlu, Büşra",
+        "short_name": "Yusufoğlu B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science and Letters, Istanbul Technical University, Istanbul, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 23:27",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42976570"
+    ],
+    "review": [
+      "42976570"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00660-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "identity": {
+    "pmid": "42977532",
+    "doi": "10.1002/advs.78608",
+    "title": "Combinatorial Tuning of Multigene Biosynthetic Pathways based on RNA Interference."
+  },
+  "content": {
+    "abstract": "Fine-tuning the expression level of multigene pathways remains a major challenge in engineering eukaryotic microbial cell factories. Modifications to individual pathway genes and CRISPR-based approaches often require repeated genome reconstruction, large regulatory components, or complex guide-array assembly. Here, we developed a lightweight, post-transcriptional RNAi-based strategy that enables fine-tuning gene expression without iterative genome editing. Size-selected small-RNA sequencing and functional testing were used to identify endogenous Pol III promoters spanning graded transcriptional strengths in Schizochytrium sp. Combining promoter strength with multiple short hairpin RNA (shRNA) target positions expanded the accessible repression range and enabled high-resolution gene-dosage tuning. The RNAi-based combined regulation strategy was applied to the three-gene carotenoid pathway of Schizochytrium sp. and the nine-gene docosahexaenoic acid (DHA) pathway of Yarrowia lipolytica, significantly enhancing the product production in both hosts. Integration of RNAi screening and dosage optimization further identified and tuned bypass pathways, increasing the ratio of DHA to docosapentaenoic acid (DPA) by 4.50-fold versus wild type. These gains were maintained during 5-L fermentation and serial passaging. This work establishes a compact and scalable regulatory framework for engineering complex biosynthetic pathways in eukaryotic microbial hosts.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Zixu",
+        "Xu, Yingshuang",
+        "Li, Zijia",
+        "Du, Fei",
+        "Ma, Wang",
+        "Yang, Guang",
+        "Sun, Xiaoman"
+      ],
+      "short_names": [
+        "Zhang Z",
+        "Xu Y",
+        "Li Z",
+        "Du F",
+        "Ma W",
+        "Yang G",
+        "Sun X"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-1057-3060",
+        "ORCID: 0009-0008-1006-1006",
+        "ORCID: 0000-0002-6143-238X",
+        "ORCID: 0000-0002-6268-4546"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Zixu",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0009-0008-1057-3060"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yingshuang",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Zijia",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Du, Fei",
+        "short_name": "Du F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ma, Wang",
+        "short_name": "Ma W",
+        "identifiers": [
+          "0009-0008-1006-1006"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yang, Guang",
+        "short_name": "Yang G",
+        "identifiers": [
+          "0000-0002-6143-238X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xiaoman",
+        "short_name": "Sun X",
+        "identifiers": [
+          "0000-0002-6268-4546"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Nanjing Normal University, Nanjing, People's Republic of China.",
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 23:27",
+    "fetched_at": "2026-11-09 19:56:53"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42977532"
+    ],
+    "review": [
+      "42977532"
+    ],
+    "pmc": [
+      "13731073"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42977532/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "identity": {
+    "pmid": "42999240",
+    "doi": "10.64898/2026.10.06.757143",
+    "title": "Deep-learning-driven tumor microenvironment profiling improves immunotherapy response prediction."
+  },
+  "content": {
+    "abstract": "Immunotherapy has transformed the management of many cancers, such as clear cell renal cell carcinoma (ccRCC), yet durable clinical benefit is achieved in only a subset of patients. Immunotherapy outcomes are governed by the multicellular tumor microenvironment (TME), through the structured and directional interplay of regulatory programs and ligand-receptor communications. Yet most existing methods for immunotherapy response prediction rely on independent signatures or cell types and fail to model the structured and directional signaling network within the TME. To address this gap, we introduce EcoNet, a computational framework that first models ecosystems consisting of co-occurring cell states, then constructs intercellular and intracellular signaling networks based on the ecosystems, and applies a graph attention network to derive embeddings from the signaling network for immunotherapy response prediction. Pretrained on 2,532 pan-cancer immunotherapy samples across multiple cohorts, EcoNet outperformed existing prediction methods by 7.5-19.9% and marker-based signatures by 4.4-21.2% in AUC, and its high-attention genes were enriched among those required for T-cell-mediated tumor killing in an independent CRISPR screen; applied to ccRCC with disease-specific fine-tuning, it stratified an independent ccRCC cohort by clinical outcome ( P =0.024). Biologically, high-attention genes capture an interferon-responsive program that enhances antigen presentation and immune infiltration. To validate these findings, we curated a ccRCC clinical cohort profiled with CosMx single-cell spatial transcriptomics (46 samples, ~450,000 cells) and found the response-associated TME configuration identified by EcoNet localized to immune-enriched niches, supporting the response stratification. These results establish EcoNet as a generalizable framework for TME-informed therapeutic response prediction, readily extensible to other cancer types and therapeutic contexts.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Ruo Han",
+        "Benard, Brooks A",
+        "Ilerten, Ilayda",
+        "Zdravkovic, Sabrina",
+        "Al-Humadi, Reem",
+        "Nasr, Sahar",
+        "Howitt, Brooke",
+        "Gentles, Andrew J"
+      ],
+      "short_names": [
+        "Wang RH",
+        "Benard BA",
+        "Ilerten I",
+        "Zdravkovic S",
+        "Al-Humadi R",
+        "Nasr S",
+        "Howitt B",
+        "Gentles AJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0941-9858"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Ruo Han",
+        "short_name": "Wang RH",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Benard, Brooks A",
+        "short_name": "Benard BA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ilerten, Ilayda",
+        "short_name": "Ilerten I",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zdravkovic, Sabrina",
+        "short_name": "Zdravkovic S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Al-Humadi, Reem",
+        "short_name": "Al-Humadi R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nasr, Sahar",
+        "short_name": "Nasr S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Howitt, Brooke",
+        "short_name": "Howitt B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gentles, Andrew J",
+        "short_name": "Gentles AJ",
+        "identifiers": [
+          "0000-0002-0941-9858"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-09 19:55:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999240"
+    ],
+    "review": [
+      "42999240"
+    ],
+    "pmc": [
+      "13742631"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.06.757143",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
