@@ -1,0 +1,148 @@
+{
+  "identity": {
+    "pmid": "43010502",
+    "doi": "10.1021/acs.analchem.6c05211",
+    "title": "Exploiting Asymmetric Mismatch Sensitivity of Cas13a for Interference-Tolerant Single-CpG Methylation Analysis."
+  },
+  "content": {
+    "abstract": "Accurate single-CpG methylation analysis in dense regions is critical for cancer diagnostics but challenged by adjacent CpG interference. Here, we developed EPICATCH, an interference-tolerant ratiometric Cas13a biosensor to overcome this limitation. Exploiting LbuCas13a's asymmetric mismatch sensitivity, we established a dual-zone recognition framework. Positioning the target CpG in the strictly sensitive 5'-zone guarantees single-base resolution, while placing adjacent CpGs in the tolerant 3'-zone masks epigenetic noise, achieving a 7-bp spatial resolution for the tested MYO1G construct. Integrated with recombinase polymerase amplification, ssDNA generation, and a dual-channel ratiometric readout, EPICATCH eliminates sample concentration biases, achieving a 100 aM limit of detection. Applying EPICATCH to quantify MYO1G methylation in clinical plasma cfDNA from colorectal cancer patients yielded a clinical sensitivity of 80.0% and specificity of 84.6%. This dual-zone recognition system provides a robust strategy for precise single-CpG analysis and cancer screening.",
+    "keywords": [
+      "CRISPR-Cas13a",
+      "DNA methylation",
+      "liquid biopsy",
+      "ratiometric quantification",
+      "single-CpG resolution"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*DNA Methylation",
+      "*CpG Islands/genetics",
+      "*Biosensing Techniques/methods",
+      "Colorectal Neoplasms/genetics/diagnosis/blood",
+      "*CRISPR-Associated Proteins/metabolism/genetics",
+      "*Base Pair Mismatch",
+      "Myosins/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhuang, Songkuan",
+        "Deng, Ganfeng",
+        "Xie, Zhenghua",
+        "Zhang, Li",
+        "Liu, Yizhen"
+      ],
+      "short_names": [
+        "Zhuang S",
+        "Deng G",
+        "Xie Z",
+        "Zhang L",
+        "Liu Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8334-6124"
+      ],
+      "affiliations": [
+        "Research Center for Nanosensor Molecular Diagnostic & Treatment Technology, Shenzhen Key Laboratory of Nano-Biosensing Technology, College of Chemistry and Environmental Engineering, Shenzhen University, Shenzhen, Guangdong518060, P. R. China.",
+        "Research Center for Nanosensor Molecular Diagnostic & Treatment Technology, Shenzhen Key Laboratory of Nano-Biosensing Technology, College of Chemistry and Environmental Engineering, Shenzhen University, Shenzhen, Guangdong518060, P. R. China.",
+        "National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital & Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Shenzhen, Guangdong518116, P. R. China.",
+        "National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital & Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Shenzhen, Guangdong518116, P. R. China.",
+        "Research Center for Nanosensor Molecular Diagnostic & Treatment Technology, Shenzhen Key Laboratory of Nano-Biosensing Technology, College of Chemistry and Environmental Engineering, Shenzhen University, Shenzhen, Guangdong518060, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhuang, Songkuan",
+        "short_name": "Zhuang S",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Nanosensor Molecular Diagnostic & Treatment Technology, Shenzhen Key Laboratory of Nano-Biosensing Technology, College of Chemistry and Environmental Engineering, Shenzhen University, Shenzhen, Guangdong518060, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Deng, Ganfeng",
+        "short_name": "Deng G",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Nanosensor Molecular Diagnostic & Treatment Technology, Shenzhen Key Laboratory of Nano-Biosensing Technology, College of Chemistry and Environmental Engineering, Shenzhen University, Shenzhen, Guangdong518060, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xie, Zhenghua",
+        "short_name": "Xie Z",
+        "identifiers": [],
+        "affiliations": [
+          "National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital & Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Shenzhen, Guangdong518116, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Li",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital & Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Shenzhen, Guangdong518116, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yizhen",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0002-8334-6124"
+        ],
+        "affiliations": [
+          "Research Center for Nanosensor Molecular Diagnostic & Treatment Technology, Shenzhen Key Laboratory of Nano-Biosensing Technology, College of Chemistry and Environmental Engineering, Shenzhen University, Shenzhen, Guangdong518060, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:33",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43010502"
+    ],
+    "review": [
+      "43010502"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1620",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c05211",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

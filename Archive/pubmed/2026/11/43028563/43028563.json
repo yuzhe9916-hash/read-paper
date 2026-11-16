@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "43028563",
+    "doi": "10.3390/diagnostics16213692",
+    "title": "A LAMP-CRISPR/Cas12a Assay for Specific Detection of Escherichia coli in Whole Blood: Analytical Performance and Clinical Evaluation in Suspected Bloodstream Infection."
+  },
+  "content": {
+    "abstract": "Background/Objectives: Blood culture is slow and real-time PCR (qPCR) needs a thermal cycler, while loop-mediated isothermal amplification (LAMP) is rapid but prone to non-specific amplification. We developed a LAMP assay with CRISPR/Cas12a read-out targeting the Escherichia coli dxs gene and compared it with qPCR and blood culture. Methods: Reaction conditions were optimised and specificity tested on 15 E. coli and 40 non-target isolates. The limit of detection (LOD) was determined in spiked whole blood (20 replicates per level, 1-10 CFU/mL) by hit rate and probit regression, with conversion to dxs copies by growth phase. Fifty-two patients with suspected bloodstream infection were tested by all three methods. Results: The assay detected all 15 Escherichia coli isolates tested (inclusivity 15/15; 95% CI 79.6-100) and none of 40 non-target isolates (exclusivity 40/40; 95% CI 91.2-100); the exclusivity panel did not include Shigella spp. or Escherichia fergusonii, which the in silico analysis predicts the assay would detect. The probit LOD(95) was 14.2 CFU/mL (95% fiducial limits 6.7-156;  approximately 43 dxs copies/mL for the mid-exponential spike culture used here) for LAMP-CRISPR/Cas12a and 5.8 CFU/mL (2.6-958) for qPCR; a positive was read within 5 min of starting the Cas12a detection step. LAMP-CRISPR/Cas12a was positive in 19/33 qPCR-positive and 0/19 qPCR-negative patients (positive and negative percent agreement 57.6% and 100%; kappa = 0.50); all 13 samples at or above the qPCR LOD(95) were detected. Conclusions: LAMP-CRISPR/Cas12a detects E. coli in whole blood specifically and rapidly, but its clinical sensitivity is limited by the very low bacterial loads of bacteraemia, so that it is suited to use as a rapid confirmatory test alongside blood culture rather than as a rule-out test.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "Escherichia coli",
+      "bloodstream infection",
+      "limit of detection",
+      "loop-mediated isothermal amplification",
+      "point-of-care testing",
+      "probit regression",
+      "sepsis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Quyen, Dao Thanh",
+        "Thau, Nguyen Sy",
+        "Trung, Pham Quang",
+        "Huy, Nguyen Quang",
+        "Huyen, Dao Thi",
+        "Hoan, Phan Quoc",
+        "Trang, Do Thu",
+        "Parkes, Le Mai",
+        "Song, Le Huu",
+        "Trung, Ngo Tat"
+      ],
+      "short_names": [
+        "Quyen DT",
+        "Thau NS",
+        "Trung PQ",
+        "Huy NQ",
+        "Huyen DT",
+        "Hoan PQ",
+        "Trang DT",
+        "Parkes LM",
+        "Song LH",
+        "Trung NT"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9335-6211",
+        "ORCID: 0009-0001-4391-6209",
+        "ORCID: 0009-0000-4049-9916"
+      ],
+      "affiliations": [
+        "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "University of Science and Technology of Hanoi (USTH), Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam.",
+        "Institute of Clinical Infectious Diseases, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "Department of Molecular Biology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "University of Science and Technology of Hanoi (USTH), Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam.",
+        "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "Department of Molecular Biology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "Department of Microbiology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "Division of Informatics, Imaging and Data Sciences, The University of Manchester, Manchester M13 9PL, UK.",
+        "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+        "Department of Molecular Biology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Quyen, Dao Thanh",
+        "short_name": "Quyen DT",
+        "identifiers": [],
+        "affiliations": [
+          "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+          "University of Science and Technology of Hanoi (USTH), Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Thau, Nguyen Sy",
+        "short_name": "Thau NS",
+        "identifiers": [
+          "0000-0002-9335-6211"
+        ],
+        "affiliations": [
+          "Institute of Clinical Infectious Diseases, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Trung, Pham Quang",
+        "short_name": "Trung PQ",
+        "identifiers": [
+          "0009-0001-4391-6209"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Huy, Nguyen Quang",
+        "short_name": "Huy NQ",
+        "identifiers": [],
+        "affiliations": [
+          "University of Science and Technology of Hanoi (USTH), Vietnam Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Huyen, Dao Thi",
+        "short_name": "Huyen DT",
+        "identifiers": [
+          "0009-0000-4049-9916"
+        ],
+        "affiliations": [
+          "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Hoan, Phan Quoc",
+        "short_name": "Hoan PQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Trang, Do Thu",
+        "short_name": "Trang DT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Parkes, Le Mai",
+        "short_name": "Parkes LM",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Informatics, Imaging and Data Sciences, The University of Manchester, Manchester M13 9PL, UK."
+        ]
+      },
+      {
+        "full_name": "Song, Le Huu",
+        "short_name": "Song LH",
+        "identifiers": [],
+        "affiliations": [
+          "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Trung, Ngo Tat",
+        "short_name": "Trung NT",
+        "identifiers": [],
+        "affiliations": [
+          "Vietnamese-German Center for Medical Research, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam.",
+          "Department of Molecular Biology, 108 Military Central Hospital, Tran Hung Dao Street N1, Hai Ba Trung, Hanoi 100000, Vietnam."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Diagnostics (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Diagnostics (Basel)"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-16 19:43:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43028563"
+    ],
+    "review": [
+      "43028563"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=diagnostics16213692",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43028563/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "identity": {
+    "pmid": "43003800",
+    "doi": "10.1038/s41467-026-78094-8",
+    "title": "ATRX deficiency drives aberrant type I interferon signalling through cGAS-dependent transcriptional dysregulation."
+  },
+  "content": {
+    "abstract": "The X-linked alpha-thalassaemia intellectual disability syndrome (ATRX) protein is a chromatin remodeller involved in transcriptional regulation and genome stability. While the importance of ATRX in development and malignancy is well recognised, its role in innate immunity is less well defined. Here we describe three unrelated patients with ATR-X syndrome carrying missense mutations in the ATPase domain of ATRX, each manifesting features of severe inflammation accompanied by persistent upregulation of interferon-stimulated gene expression in whole blood. Studies in patient-derived cells, CRISPR-engineered fibroblasts and neuronal models demonstrate that ATRX loss-of-function mutations drive enhanced type I interferon signalling through a cGAS-dependent mechanism uncoupled from the DNA sensing activity of cGAS. Mechanistically, ATRX deficiency disrupts the chromatin distribution of DAXX and H3.3, with cGAS essential for the changes in nucleosome composition and gene expression mediated by loss of ATRX. Thus, our study highlights a link between ATRX dysfunction and inflammation involving a non-canonical role of cGAS.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*X-linked Nuclear Protein/genetics/metabolism",
+      "Cyclic Guanosine Monophosphate-Adenosine Monophosphate Synthase",
+      "*Interferon Type I/metabolism",
+      "*Nucleotidyltransferases/metabolism/genetics",
+      "Signal Transduction",
+      "*X-Linked Intellectual Disability/genetics/metabolism",
+      "cGAS-STING Signaling Pathway",
+      "*alpha-Thalassemia/genetics/metabolism",
+      "Male",
+      "Transcription, Genetic",
+      "Mutation, Missense",
+      "Fibroblasts/metabolism",
+      "Gene Expression Regulation",
+      "Female",
+      "Immunity, Innate",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "El-Daher, Marie-Therese A",
+        "White, Eve L",
+        "Fellas, Andreas",
+        "Grimes, Graeme",
+        "Pelliciari, Simone",
+        "Zhu, Gaofeng",
+        "Tait, Tom A",
+        "Uggenti, Carolina",
+        "Blair, Natalie",
+        "Nita, Erisa",
+        "Gautier, Philippe",
+        "Dunn-Davies, Hywel",
+        "Glen, Sophie",
+        "Dhir, Somdutta",
+        "Rodero, Mathieu P",
+        "Rice, Gillian I",
+        "Seabra, Luis",
+        "Clark, Richard",
+        "Fawkes, Angie",
+        "Marsh, Joseph A",
+        "Huibers, Minke Hw",
+        "Koedijk, Joost B",
+        "Van Nieuwenhove, Erika",
+        "Livingston, John H",
+        "Wassmer, Evangeline",
+        "Naik, Swati",
+        "Vogt, Julie",
+        "Isidor, Bertrand",
+        "Deegan, Tom D",
+        "Lepelley, Alice",
+        "Tillotson, Rebekah",
+        "Revy, Patrick",
+        "Gibbons, Richard J",
+        "Crow, Yanick J"
+      ],
+      "short_names": [
+        "El-Daher MA",
+        "White EL",
+        "Fellas A",
+        "Grimes G",
+        "Pelliciari S",
+        "Zhu G",
+        "Tait TA",
+        "Uggenti C",
+        "Blair N",
+        "Nita E",
+        "Gautier P",
+        "Dunn-Davies H",
+        "Glen S",
+        "Dhir S",
+        "Rodero MP",
+        "Rice GI",
+        "Seabra L",
+        "Clark R",
+        "Fawkes A",
+        "Marsh JA",
+        "Huibers MH",
+        "Koedijk JB",
+        "Van Nieuwenhove E",
+        "Livingston JH",
+        "Wassmer E",
+        "Naik S",
+        "Vogt J",
+        "Isidor B",
+        "Deegan TD",
+        "Lepelley A",
+        "Tillotson R",
+        "Revy P",
+        "Gibbons RJ",
+        "Crow YJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7166-2763",
+        "ORCID: 0000-0003-3150-9136",
+        "ORCID: 0009-0008-3382-0204",
+        "ORCID: 0000-0003-3975-788X",
+        "ORCID: 0000-0002-4223-0571",
+        "ORCID: 0000-0002-4678-3026",
+        "ORCID: 0000-0002-0066-1541",
+        "ORCID: 0000-0003-4132-0628",
+        "ORCID: 0000-0002-2446-1106",
+        "ORCID: 0000-0001-8656-7291",
+        "ORCID: 0000-0003-2863-4569",
+        "ORCID: 0000-0003-0758-8022",
+        "ORCID: 0000-0001-7211-7564"
+      ],
+      "affiliations": [
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. marie-therese.el-daher@ed.ac.uk.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "Institute of Medical Biology, Polish Academy of Sciences, Lodz , Poland.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "Division of Psychiatry, Royal Edinburgh Hospital, University of Edinburgh, Edinburgh, UK.",
+        "Centre for Genomic and Experimental Medicine, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Universite Paris Cite, Paris, France.",
+        "Division of Evolution, Infection and Genomic Sciences, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK.",
+        "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Universite Paris Cite, Paris, France.",
+        "Edinburgh Clinical Research Facility, Western General Hospital, University of Edinburgh, Edinburgh, UK.",
+        "Edinburgh Clinical Research Facility, Western General Hospital, University of Edinburgh, Edinburgh, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "Prinses Maxima Centrum, Centrum for Pediatric Oncology, Utrecht, The Netherlands.",
+        "Department of Genetics, University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Department of Paediatric Immunology and Rheumatology, Wilhelmina Children's Hospital/University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Faculty of Medicine, Utrecht University, Utrecht, The Netherlands.",
+        "Department of Paediatric Neurology, Leeds Teaching Hospitals NHS Trust, Leeds, UK.",
+        "Department of Paediatric Neurology, Birmingham Children's Hospital, Birmingham Women's and Children's NHS Foundation Trust, Birmingham, UK.",
+        "Institute of Health and Neurodevelopment, Aston University, Birmingham, UK.",
+        "West Midlands Regional Genetics Service, Birmingham Women's and Children's NHS Foundation Trust, Birmingham, UK.",
+        "West Midlands Regional Genetics Service, Birmingham Women's and Children's NHS Foundation Trust, Birmingham, UK.",
+        "Service de Genetique Medicale, CHU Nantes, Nantes, France.",
+        "L'institut du Thorax, Universite de Nantes, CNRS, INSERM, Nantes, France.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Universite Paris Cite, Paris, France.",
+        "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+        "Laboratory of Genome Dynamics in Human Diseases, INSERM UMR 1163, Imagine Institute, Universite Paris Cite, Paris, France.",
+        "Laboratoire labellise Ligue 2023, Imagine Institute, Paris Cite University, Paris, France.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. yanickcrow@mac.com.",
+        "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Universite Paris Cite, Paris, France. yanickcrow@mac.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "El-Daher, Marie-Thérèse A",
+        "short_name": "El-Daher MA",
+        "identifiers": [
+          "0000-0001-7166-2763"
+        ],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. marie-therese.el-daher@ed.ac.uk."
+        ]
+      },
+      {
+        "full_name": "White, Eve L",
+        "short_name": "White EL",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Fellas, Andreas",
+        "short_name": "Fellas A",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Grimes, Graeme",
+        "short_name": "Grimes G",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Pelliciari, Simone",
+        "short_name": "Pelliciari S",
+        "identifiers": [
+          "0000-0003-3150-9136"
+        ],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.",
+          "Institute of Medical Biology, Polish Academy of Sciences, Łódz´, Poland."
+        ]
+      },
+      {
+        "full_name": "Zhu, Gaofeng",
+        "short_name": "Zhu G",
+        "identifiers": [
+          "0009-0008-3382-0204"
+        ],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Tait, Tom A",
+        "short_name": "Tait TA",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Uggenti, Carolina",
+        "short_name": "Uggenti C",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Blair, Natalie",
+        "short_name": "Blair N",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Nita, Erisa",
+        "short_name": "Nita E",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Gautier, Philippe",
+        "short_name": "Gautier P",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Dunn-Davies, Hywel",
+        "short_name": "Dunn-Davies H",
+        "identifiers": [
+          "0000-0003-3975-788X"
+        ],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Glen, Sophie",
+        "short_name": "Glen S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Psychiatry, Royal Edinburgh Hospital, University of Edinburgh, Edinburgh, UK.",
+          "Centre for Genomic and Experimental Medicine, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Dhir, Somdutta",
+        "short_name": "Dhir S",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Rodero, Mathieu P",
+        "short_name": "Rodero MP",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Université Paris Cité, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Rice, Gillian I",
+        "short_name": "Rice GI",
+        "identifiers": [
+          "0000-0002-4223-0571"
+        ],
+        "affiliations": [
+          "Division of Evolution, Infection and Genomic Sciences, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+        ]
+      },
+      {
+        "full_name": "Seabra, Luis",
+        "short_name": "Seabra L",
+        "identifiers": [
+          "0000-0002-4678-3026"
+        ],
+        "affiliations": [
+          "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Université Paris Cité, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Clark, Richard",
+        "short_name": "Clark R",
+        "identifiers": [
+          "0000-0002-0066-1541"
+        ],
+        "affiliations": [
+          "Edinburgh Clinical Research Facility, Western General Hospital, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Fawkes, Angie",
+        "short_name": "Fawkes A",
+        "identifiers": [],
+        "affiliations": [
+          "Edinburgh Clinical Research Facility, Western General Hospital, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Marsh, Joseph A",
+        "short_name": "Marsh JA",
+        "identifiers": [
+          "0000-0003-4132-0628"
+        ],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Huibers, Minke Hw",
+        "short_name": "Huibers MH",
+        "identifiers": [],
+        "affiliations": [
+          "Prinses Máxima Centrum, Centrum for Pediatric Oncology, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Koedijk, Joost B",
+        "short_name": "Koedijk JB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, University Medical Center Utrecht, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Van Nieuwenhove, Erika",
+        "short_name": "Van Nieuwenhove E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Paediatric Immunology and Rheumatology, Wilhelmina Children's Hospital/University Medical Center Utrecht, Utrecht, The Netherlands.",
+          "Faculty of Medicine, Utrecht University, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Livingston, John H",
+        "short_name": "Livingston JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Paediatric Neurology, Leeds Teaching Hospitals NHS Trust, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Wassmer, Evangeline",
+        "short_name": "Wassmer E",
+        "identifiers": [
+          "0000-0002-2446-1106"
+        ],
+        "affiliations": [
+          "Department of Paediatric Neurology, Birmingham Children's Hospital, Birmingham Women's and Children's NHS Foundation Trust, Birmingham, UK.",
+          "Institute of Health and Neurodevelopment, Aston University, Birmingham, UK."
+        ]
+      },
+      {
+        "full_name": "Naik, Swati",
+        "short_name": "Naik S",
+        "identifiers": [],
+        "affiliations": [
+          "West Midlands Regional Genetics Service, Birmingham Women's and Children's NHS Foundation Trust, Birmingham, UK."
+        ]
+      },
+      {
+        "full_name": "Vogt, Julie",
+        "short_name": "Vogt J",
+        "identifiers": [],
+        "affiliations": [
+          "West Midlands Regional Genetics Service, Birmingham Women's and Children's NHS Foundation Trust, Birmingham, UK."
+        ]
+      },
+      {
+        "full_name": "Isidor, Bertrand",
+        "short_name": "Isidor B",
+        "identifiers": [],
+        "affiliations": [
+          "Service de Génétique Médicale, CHU Nantes, Nantes, France.",
+          "L'institut du Thorax, Université de Nantes, CNRS, INSERM, Nantes, France."
+        ]
+      },
+      {
+        "full_name": "Deegan, Tom D",
+        "short_name": "Deegan TD",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Lepelley, Alice",
+        "short_name": "Lepelley A",
+        "identifiers": [
+          "0000-0001-8656-7291"
+        ],
+        "affiliations": [
+          "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Université Paris Cité, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Tillotson, Rebekah",
+        "short_name": "Tillotson R",
+        "identifiers": [
+          "0000-0003-2863-4569"
+        ],
+        "affiliations": [
+          "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+        ]
+      },
+      {
+        "full_name": "Revy, Patrick",
+        "short_name": "Revy P",
+        "identifiers": [
+          "0000-0003-0758-8022"
+        ],
+        "affiliations": [
+          "Laboratory of Genome Dynamics in Human Diseases, INSERM UMR 1163, Imagine Institute, Université Paris Cité, Paris, France.",
+          "Laboratoire labellisé Ligue 2023, Imagine Institute, Paris Cité University, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Gibbons, Richard J",
+        "short_name": "Gibbons RJ",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Crow, Yanick J",
+        "short_name": "Crow YJ",
+        "identifiers": [
+          "0000-0001-7211-7564"
+        ],
+        "affiliations": [
+          "MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. yanickcrow@mac.com.",
+          "Laboratory of Neurogenetics and Neuroinflammation, INSERM UMR 1163, Imagine Institute, Université Paris Cité, Paris, France. yanickcrow@mac.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 11:31",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43003800"
+    ],
+    "review": [
+      "43003800"
+    ],
+    "pmc": [
+      "7619637"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78094-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43003800/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-3214",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

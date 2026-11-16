@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "43008730",
+    "doi": "10.1016/j.crmeth.2026.101649",
+    "title": "Proteasomal control of anti-CRISPRs for the regulation of CRISPR-Cas9 activity using Cas9-ACROBAT."
+  },
+  "content": {
+    "abstract": "Precise regulation of CRISPR-Cas9 activity is critical to limit off-target effects and improve the safety of genome engineering. To achieve reversible and robust control of Cas9, we developed multiple small-molecule-responsive systems that modulate the stability of the anti-CRISPR protein AcrIIA4. By fusing AcrIIA4 to dTAG, SMASh, or ecDHFR degrons, we enabled ligand-dependent degradation or stabilization of the inhibitor, thereby tightly regulating CRISPR cutting, activation, and interference in human cells. To further eliminate background Cas9 activity, we engineered a theophylline-responsive riboswitch into the sgRNA scaffold to block Cas9-sgRNA assembly until ligand addition. Combining riboswitch sgRNAs with degron-controlled AcrIIA4 produced the Cas9-ACROBAT platform, which provided near-complete suppression of CRISPR leakiness, while maintaining potent induction of genome editing and transcriptional modulation, including regulation of endogenous targets such as PLK1, CDKN1A, and CCND1. Cas9-ACROBAT offers a versatile, modular strategy for precise, small-molecule control of CRISPR systems.",
+    "keywords": [
+      "AcrIIA4",
+      "CP: biotechnology",
+      "CRISPR",
+      "Cas9",
+      "PROTAC",
+      "SMASh tag",
+      "anti-CRISPR",
+      "dTAG",
+      "ecDHFR"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Martin, Timothy D",
+        "Wang, Yuhao",
+        "Watson, Emma V",
+        "Eades, Gabriel",
+        "Choudary, Krishna",
+        "Choi, Mei Yuk",
+        "Nabet, Behnam",
+        "Gray, Nathanael S",
+        "Xu, Qikai",
+        "McManus, Michael T",
+        "Elledge, Stephen J"
+      ],
+      "short_names": [
+        "Martin TD",
+        "Wang Y",
+        "Watson EV",
+        "Eades G",
+        "Choudary K",
+        "Choi MY",
+        "Nabet B",
+        "Gray NS",
+        "Xu Q",
+        "McManus MT",
+        "Elledge SJ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Human Biology Division, Fred Hutchinson Cancer Center, Seattle, WA, USA; Department of Pharmacology, University of Washington, Seattle, WA, USA.",
+        "Department of Chemical and Systems Biology, ChEM-H, Stanford School of Medicine, Stanford University, Stanford, CA, USA; Stanford Cancer Institute, Stanford School of Humanities and Sciences, Stanford University, Stanford, CA, USA.",
+        "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA.",
+        "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA; Program in Virology, Harvard University Medical School, Boston, MA, USA. Electronic address: selledge@genetics.med.harvard.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Martin, Timothy D",
+        "short_name": "Martin TD",
+        "identifiers": [],
+        "affiliations": [
+          "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuhao",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Watson, Emma V",
+        "short_name": "Watson EV",
+        "identifiers": [],
+        "affiliations": [
+          "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Eades, Gabriel",
+        "short_name": "Eades G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Choudary, Krishna",
+        "short_name": "Choudary K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Choi, Mei Yuk",
+        "short_name": "Choi MY",
+        "identifiers": [],
+        "affiliations": [
+          "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Nabet, Behnam",
+        "short_name": "Nabet B",
+        "identifiers": [],
+        "affiliations": [
+          "Human Biology Division, Fred Hutchinson Cancer Center, Seattle, WA, USA; Department of Pharmacology, University of Washington, Seattle, WA, USA."
+        ]
+      },
+      {
+        "full_name": "Gray, Nathanael S",
+        "short_name": "Gray NS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Systems Biology, ChEM-H, Stanford School of Medicine, Stanford University, Stanford, CA, USA; Stanford Cancer Institute, Stanford School of Humanities and Sciences, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Qikai",
+        "short_name": "Xu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "McManus, Michael T",
+        "short_name": "McManus MT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology & UCSF Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Elledge, Stephen J",
+        "short_name": "Elledge SJ",
+        "identifiers": [],
+        "affiliations": [
+          "Howard Hughes Medical Institute, Department of Genetics, Harvard University Medical School, Boston, MA, USA; Division of Genetics, Brigham and Women's Hospital, Boston, MA, USA; Program in Virology, Harvard University Medical School, Boston, MA, USA. Electronic address: selledge@genetics.med.harvard.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports methods"
+    ],
+    "journal_abbrev": [
+      "Cell Rep Methods"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 23:28",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43008730"
+    ],
+    "review": [
+      "43008730"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2667-2375(26)00350-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CCND1-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1264",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "43019314",
+    "doi": "10.1371/journal.pone.0360503",
+    "title": "TRIB2 supports a high glycolytic phenotype in melanoma cells."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Metabolic adaptation is a crucial driver of melanoma progression and therapy resistance. The pseudokinase Tribbles homolog 2 (TRIB2) is highly expressed in melanoma and is associated with poor outcomes and treatment resistance. However, its specific role in the metabolic profile of melanoma cells remained unexplored. This study aimed to investigate the impact of TRIB2 on cellular metabolism, and its role in metabolic adaptation in melanoma. MATERIALS AND METHODS: The study used UACC-62 human melanoma cells with high endogenous TRIB2 expression and isogenic TRIB2-knockout (KO) clones generated via CRISPR-Cas9. Cell proliferation was assessed using trypan blue exclusion assays under treatment with metabolic drugs including 2-deoxyglucose (2-DG), and dichloroacetate (DCA). Metabolic phenotypes were evaluated by measuring glucose consumption, lactate production, and real-time analysis of glycolytic flux (ECAR) and mitochondrial respiration (OCR) using a Seahorse bioanalyzer. Reactive oxygen species (ROS) levels were measured by dihydroethidium (DHE) fluorescence. Gene expression was analyzed by qPCR, and protein levels were determined by western blot. Citrate synthase activity was measured enzymatically. RESULTS: TRIB2-KO cells exhibited significantly reduced basal proliferation compared with wild-type (WT) cells. KO cells were also more sensitive to the glycolytic inhibitor 2-DG. Conversely, WT cells were more susceptible to DCA treatment. Metabolic analyses confirmed that TRIB2-KO cells had lower glucose consumption, lactate production, and glycolytic capacity than WT cells. Mitochondrial respiratory function and the protein levels of key respiratory complexes were unchanged. Despite the reduction in glycolytic activity, TRIB2 depletion did not increase mitochondrial respiratory capacity and was associated with elevated basal intracellular superoxide levels. Among the molecular alterations identified, PDK4 was consistently reduced at both the mRNA and protein levels, whereas citrate synthase activity was significantly decreased despite preserved protein abundance, indicating selective alterations in mitochondrial carbon metabolism. CONCLUSIONS: TRIB2 expression promotes a glycolytic phenotype and contributes to metabolic adaptation in melanoma. Loss of TRIB2 does not induce a metabolic shift towards oxidative phosphorylation but instead results in broader metabolic rewiring characterized by reduced glycolysis together with selective alterations in mitochondrial carbon metabolism. These findings identify the TRIB2-PDK4 axis as a previously unrecognized component of metabolic regulation in melanoma and provide a rationale for further investigating its therapeutic potential.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Glycolysis",
+      "*Melanoma/metabolism/pathology/genetics",
+      "Cell Line, Tumor",
+      "Reactive Oxygen Species/metabolism",
+      "Cell Proliferation/drug effects",
+      "Phenotype",
+      "*Calcium-Calmodulin-Dependent Protein Kinases/metabolism/genetics",
+      "Mitochondria/metabolism",
+      "*Intracellular Signaling Peptides and Proteins/metabolism/genetics",
+      "Deoxyglucose/pharmacology",
+      "Metabolic Reprogramming",
+      "Gene Expression Regulation, Neoplastic",
+      "Glucose/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mayoral-Varo, Victor",
+        "De Sousa-Coelho, Ana Luisa",
+        "Lopes, Carla",
+        "Martinez-Costa, Oscar H",
+        "Amenabar, Carlos",
+        "Oliveira, Paulo J",
+        "Aragon, Juan J",
+        "Ferreira, Bibiana I",
+        "Link, Wolfgang"
+      ],
+      "short_names": [
+        "Mayoral-Varo V",
+        "De Sousa-Coelho AL",
+        "Lopes C",
+        "Martinez-Costa OH",
+        "Amenabar C",
+        "Oliveira PJ",
+        "Aragon JJ",
+        "Ferreira BI",
+        "Link W"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2543-8821",
+        "ORCID: 0000-0003-2492-5051",
+        "ORCID: 0000-0002-3340-5165"
+      ],
+      "affiliations": [
+        "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autonoma de Madrid (UAM), Madrid, Spain.",
+        "University Center for Health Sciences - HM Hospitals (CUHMED), Camilo Jose Cela University, Madrid, Spain.",
+        "HM Hospitals Health Research Institute, Madrid, Spain.",
+        "Algarve Biomedical Center Research Institute (ABC-Ri), Campus de Gambelas, Faro, Portugal.",
+        "Escola Superior de Saude (ESS), Universidade do Algarve, Campus de Gambelas, Faro, Portugal.",
+        "Center for Neuroscience and Cell Biology (CNC), Centre for Innovative Biomedicine and Biotechnology (CIBB), University of Coimbra, Coimbra, Portugal.",
+        "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autonoma de Madrid (UAM), Madrid, Spain.",
+        "Department of Biochemistry, Faculty of Medicine, Universidad Autonoma de Madrid (UAM), Madrid, Spain.",
+        "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autonoma de Madrid (UAM), Madrid, Spain.",
+        "Center for Neuroscience and Cell Biology (CNC), Centre for Innovative Biomedicine and Biotechnology (CIBB), University of Coimbra, Coimbra, Portugal.",
+        "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autonoma de Madrid (UAM), Madrid, Spain.",
+        "Department of Biochemistry, Faculty of Medicine, Universidad Autonoma de Madrid (UAM), Madrid, Spain.",
+        "Algarve Biomedical Center Research Institute (ABC-Ri), Campus de Gambelas, Faro, Portugal.",
+        "Faculdade de Medicina e Ciencias Biomedicas (FMCB), Universidade do Algarve, Campus de Gambelas, Faro, Portugal.",
+        "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autonoma de Madrid (UAM), Madrid, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mayoral-Varo, Victor",
+        "short_name": "Mayoral-Varo V",
+        "identifiers": [],
+        "affiliations": [
+          "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autónoma de Madrid (UAM), Madrid, Spain.",
+          "University Center for Health Sciences - HM Hospitals (CUHMED), Camilo Jose Cela University, Madrid, Spain.",
+          "HM Hospitals Health Research Institute, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "De Sousa-Coelho, Ana Luísa",
+        "short_name": "De Sousa-Coelho AL",
+        "identifiers": [],
+        "affiliations": [
+          "Algarve Biomedical Center Research Institute (ABC-Ri), Campus de Gambelas, Faro, Portugal.",
+          "Escola Superior de Saúde (ESS), Universidade do Algarve, Campus de Gambelas, Faro, Portugal."
+        ]
+      },
+      {
+        "full_name": "Lopes, Carla",
+        "short_name": "Lopes C",
+        "identifiers": [
+          "0000-0002-2543-8821"
+        ],
+        "affiliations": [
+          "Center for Neuroscience and Cell Biology (CNC), Centre for Innovative Biomedicine and Biotechnology (CIBB), University of Coimbra, Coimbra, Portugal."
+        ]
+      },
+      {
+        "full_name": "Martínez-Costa, Óscar H",
+        "short_name": "Martínez-Costa ÓH",
+        "identifiers": [],
+        "affiliations": [
+          "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autónoma de Madrid (UAM), Madrid, Spain.",
+          "Department of Biochemistry, Faculty of Medicine, Universidad Autónoma de Madrid (UAM), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Amenabar, Carlos",
+        "short_name": "Amenabar C",
+        "identifiers": [
+          "0000-0003-2492-5051"
+        ],
+        "affiliations": [
+          "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autónoma de Madrid (UAM), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Oliveira, Paulo J",
+        "short_name": "Oliveira PJ",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Neuroscience and Cell Biology (CNC), Centre for Innovative Biomedicine and Biotechnology (CIBB), University of Coimbra, Coimbra, Portugal."
+        ]
+      },
+      {
+        "full_name": "Aragón, Juan J",
+        "short_name": "Aragón JJ",
+        "identifiers": [],
+        "affiliations": [
+          "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autónoma de Madrid (UAM), Madrid, Spain.",
+          "Department of Biochemistry, Faculty of Medicine, Universidad Autónoma de Madrid (UAM), Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Ferreira, Bibiana I",
+        "short_name": "Ferreira BI",
+        "identifiers": [],
+        "affiliations": [
+          "Algarve Biomedical Center Research Institute (ABC-Ri), Campus de Gambelas, Faro, Portugal.",
+          "Faculdade de Medicina e Ciências Biomédicas (FMCB), Universidade do Algarve, Campus de Gambelas, Faro, Portugal."
+        ]
+      },
+      {
+        "full_name": "Link, Wolfgang",
+        "short_name": "Link W",
+        "identifiers": [
+          "0000-0002-3340-5165"
+        ],
+        "affiliations": [
+          "Sols-Morreale Biomedical Research Institute (IIBM), Spanish National Research Council (CSIC), Universidad Autónoma de Madrid (UAM), Madrid, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 18:48",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43019314"
+    ],
+    "review": [
+      "43019314"
+    ],
+    "pmc": [
+      "13759053"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/melanoma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Melanoma"
+      },
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0360503",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43019314/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

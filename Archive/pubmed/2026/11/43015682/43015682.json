@@ -1,0 +1,265 @@
+{
+  "identity": {
+    "pmid": "43015682",
+    "doi": "10.1186/s12885-026-17205-6",
+    "title": "CRISPR screening-informed liver cancer stratification identifies ciclesonide as a novel adjuvant drug to alleviate sorafenib resistance."
+  },
+  "content": {
+    "abstract": "Sorafenib remains a standard therapy for hepatocellular carcinoma (HCC), but intratumor heterogeneity and drug resistance limit its efficacy. To identify resistance-associated genes, we performed a CRISPR activation screen and integrated results with TCGA and GTEx data. Using univariate Cox and LASSO regression, we constructed a five-gene (AKR1B15, BMF, GBA, GINS2, SMC2) sorafenib sensitivity-related prognostic signature. In the TCGA-LIHC training cohort (n = 371), patients with high-risk scores showed significantly worse overall survival and reduced sorafenib sensitivity, which was validated in the ICGC-US cohort. High risk scores also correlated with adverse clinicopathological features. Drug perturbation Gene Set Enrichment Analysis (dpGSEA) identified ciclesonide as a potential sensitizer to sorafenib. Cell viability assays and a subcutaneous xenograft model confirmed that ciclesonide enhanced the antitumor efficacy of sorafenib. RNA sequencing further suggested that this effect may be mediated through regulation of the cell cycle pathway. Collectively, the sorafenib DS-related prognostic signature may serve as an independent prognostic biomarker and predictor of sorafenib sensitivity in HCC, while the combination of sorafenib and ciclesonide represents a promising strategy to improve targeted therapy.",
+    "keywords": [
+      "CRISPR screen",
+      "Drug efficacy prediction model",
+      "Hepatocellular carcinoma",
+      "Prognosis risk model",
+      "Sorafenib resistance"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Sorafenib/pharmacology/therapeutic use",
+      "*Liver Neoplasms/drug therapy/genetics/pathology/mortality",
+      "*Drug Resistance, Neoplasm/genetics/drug effects",
+      "*Carcinoma, Hepatocellular/drug therapy/genetics/pathology/mortality",
+      "Animals",
+      "Female",
+      "Mice",
+      "Prognosis",
+      "Xenograft Model Antitumor Assays",
+      "Male",
+      "CRISPR-Cas Systems",
+      "Cell Line, Tumor",
+      "Biomarkers, Tumor/genetics",
+      "Gene Expression Regulation, Neoplastic/drug effects",
+      "Antineoplastic Agents/pharmacology",
+      "Middle Aged"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Tian",
+        "Liu, Kewei",
+        "Hou, Yongying",
+        "Chu, Zhaole",
+        "Li, Jinyang",
+        "Sun, Mengting",
+        "Wu, Linyu",
+        "Liu, Qin",
+        "Zhou, Zhili",
+        "Zhang, Qiaoqiao",
+        "Wang, Bin",
+        "Wen, Qinglian",
+        "Wang, Xingwei",
+        "Min, Jiang"
+      ],
+      "short_names": [
+        "Liu T",
+        "Liu K",
+        "Hou Y",
+        "Chu Z",
+        "Li J",
+        "Sun M",
+        "Wu L",
+        "Liu Q",
+        "Zhou Z",
+        "Zhang Q",
+        "Wang B",
+        "Wen Q",
+        "Wang X",
+        "Min J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Oncology, Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 610072, P. R. China.",
+        "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China.",
+        "Department of Pathology, Daping Hospital, Army Medical University, Chongqing, 400030, P. R. China.",
+        "Jinfeng Laboratory, Chongqing, 401329, P. R. China.",
+        "Jinfeng Laboratory, Chongqing, 401329, P. R. China.",
+        "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China.",
+        "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China.",
+        "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China.",
+        "Jinfeng Laboratory, Chongqing, 401329, P. R. China.",
+        "Jinfeng Laboratory, Chongqing, 401329, P. R. China.",
+        "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China.",
+        "Jinfeng Laboratory, Chongqing, 401329, P. R. China.",
+        "Institute of Pathology and Southwest Cancer Center, and Key Laboratory of Tumor Immunopathology of Ministry of Education of China, Southwest Hospital, Army Medical University, Chongqing, 400038, P. R. China.",
+        "Department of Radiation Oncology, Cancer Center, West China Hospital, Sichuan University, No.37, Guoxue Lane, Wuhou District, Chengdu, 610041, P. R. China. wql73115@wchscu.cn.",
+        "Department of Emergency Medicine, Medical Center of Trauma and War Injury, Daping Hospital, State Key Laboratory of Trauma and Chemical Poisoning, Army Medical University, Chongqing, 400042, P. R. China. daping2016@126.com.",
+        "Gastrointestinal Surgery Department, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, P. R. China. hustminjiang@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Tian",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 610072, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Kewei",
+        "short_name": "Liu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Hou, Yongying",
+        "short_name": "Hou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Daping Hospital, Army Medical University, Chongqing, 400030, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chu, Zhaole",
+        "short_name": "Chu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Jinfeng Laboratory, Chongqing, 401329, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Jinyang",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Jinfeng Laboratory, Chongqing, 401329, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Sun, Mengting",
+        "short_name": "Sun M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wu, Linyu",
+        "short_name": "Wu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qin",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zhili",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "Jinfeng Laboratory, Chongqing, 401329, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qiaoqiao",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Jinfeng Laboratory, Chongqing, 401329, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Bin",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University, Chongqing, 400042, P. R. China.",
+          "Jinfeng Laboratory, Chongqing, 401329, P. R. China.",
+          "Institute of Pathology and Southwest Cancer Center, and Key Laboratory of Tumor Immunopathology of Ministry of Education of China, Southwest Hospital, Army Medical University, Chongqing, 400038, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wen, Qinglian",
+        "short_name": "Wen Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Cancer Center, West China Hospital, Sichuan University, No.37, Guoxue Lane, Wuhou District, Chengdu, 610041, P. R. China. wql73115@wchscu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Xingwei",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Medicine, Medical Center of Trauma and War Injury, Daping Hospital, State Key Laboratory of Trauma and Chemical Poisoning, Army Medical University, Chongqing, 400042, P. R. China. daping2016@126.com."
+        ]
+      },
+      {
+        "full_name": "Min, Jiang",
+        "short_name": "Min J",
+        "identifiers": [],
+        "affiliations": [
+          "Gastrointestinal Surgery Department, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, P. R. China. hustminjiang@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC cancer"
+    ],
+    "journal_abbrev": [
+      "BMC Cancer"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 05:29",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43015682"
+    ],
+    "review": [
+      "43015682"
+    ],
+    "pmc": [
+      "13753384"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmccancer.biomedcentral.com/articles/10.1186/s12885-026-17205-6",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43015682/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

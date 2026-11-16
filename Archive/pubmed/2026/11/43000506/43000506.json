@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "43000506",
+    "doi": "10.1038/s41467-026-78244-y",
+    "title": "CROSS: A cross-species chromosome substitution platform for dissecting chromosome architecture and activity."
+  },
+  "content": {
+    "abstract": "The functional integrity of a mammalian chromosome depends on its long-term co-evolution with species-specific nuclear environment. How chromosomes co-adapt with their native environment to define 3D architecture and transcription remains unclear, largely due to a lack of experimental models that dissect this co-evolution. Here, we report cross-species chromosome substitution (CROSS), a method enabling stable, scarless replacement of host chromosomes with divergent orthologs. We integrate microcell-mediated chromosome transfer with CRISPR/Cas9 to import the intact 152-Mb rat X chromosome into male mouse embryonic stem cells, and subsequently replace the mouse X chromosome, maintaining its stability and integrity. Rat-specific LINE1 and RatSatRep2 repeats recruit mouse SETDB1 inefficiently, causing local H3K9me3 loss. This triggers 3D remodeling, characterized by de novo topologically associating domain (TAD) boundaries that aberrantly activate adjacent genes, including Rhox5, impairing differentiation. We provide a platform for dissecting sequence and epigenome cooperation in chromosome regulation, and evaluating fidelity of large-scale heterologous DNA.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*X Chromosome/genetics",
+      "Rats",
+      "Mice",
+      "CRISPR-Cas Systems",
+      "Male",
+      "Histone-Lysine N-Methyltransferase/metabolism/genetics",
+      "Mouse Embryonic Stem Cells/metabolism",
+      "Histones/metabolism",
+      "Long Interspersed Nucleotide Elements/genetics",
+      "Species Specificity"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mao, Yihuan",
+        "Yang, Ning",
+        "Zhao, Yulong",
+        "Wang, Libin",
+        "Xu, Kai",
+        "Chen, Yangcan",
+        "Ding, Yali",
+        "Zhong, Bei",
+        "Ma, Sinan",
+        "Liu, Jing",
+        "Zhang, Yu",
+        "Ni, Qingyang",
+        "Feng, Guihai",
+        "Zhou, Qi",
+        "Zhou, Qi",
+        "Li, Wei"
+      ],
+      "short_names": [
+        "Mao Y",
+        "Yang N",
+        "Zhao Y",
+        "Wang L",
+        "Xu K",
+        "Chen Y",
+        "Ding Y",
+        "Zhong B",
+        "Ma S",
+        "Liu J",
+        "Zhang Y",
+        "Ni Q",
+        "Feng G",
+        "Zhou Q",
+        "Zhou Q",
+        "Li W"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2474-2204",
+        "ORCID: 0009-0009-9091-8766",
+        "ORCID: 0000-0002-5648-605X",
+        "ORCID: 0000-0003-0420-1769",
+        "ORCID: 0000-0002-8726-1734",
+        "ORCID: 0000-0002-7419-2047",
+        "ORCID: 0000-0002-6549-9362",
+        "ORCID: 0000-0001-7864-404X"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+        "Division I of In Vitro Diagnostics for Infectious Diseases, Institute for In Vitro Diagnostics Control, State Key Laboratory of Drug Regulatory Science, National Institutes for Drug Control, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "Department of Research and Development, Beijing Arion Cancer Center, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "University of Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "School of Basic Medical Sciences, Peking University Stem Cell Research Center, Peking University Health Science Center, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+        "University of Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "University of Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "University of Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "College of Life Sciences, Northeast Agricultural University, Harbin, China.",
+        "Women' s Hospital, Evolutionary & Organismal Biology Research Center, School of Medicine, Zhejiang University, Hangzhou, China.",
+        "MOE Key Laboratory of Biosystems Homeostasis & Protection and Zhejiang Provincial Key Laboratory for Cancer Molecular Cell Biology, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+        "MOE Key Laboratory of Biosystems Homeostasis & Protection and Zhejiang Provincial Key Laboratory for Cancer Molecular Cell Biology, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+        "MOE Key Laboratory of Biosystems Homeostasis & Protection and Zhejiang Provincial Key Laboratory for Cancer Molecular Cell Biology, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+        "Center for Reproductive Medicine, The 2nd Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Center for Evolutionary & Organismal Biology, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China. zhouqi@ioz.ac.cn.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China. zhouqi@ioz.ac.cn.",
+        "University of Chinese Academy of Sciences, Beijing, China. zhouqi@ioz.ac.cn.",
+        "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China. liwei@ioz.ac.cn.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China. liwei@ioz.ac.cn.",
+        "University of Chinese Academy of Sciences, Beijing, China. liwei@ioz.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mao, Yihuan",
+        "short_name": "Mao Y",
+        "identifiers": [
+          "0000-0003-2474-2204"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+          "Division I of In Vitro Diagnostics for Infectious Diseases, Institute for In Vitro Diagnostics Control, State Key Laboratory of Drug Regulatory Science, National Institutes for Drug Control, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Ning",
+        "short_name": "Yang N",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Department of Research and Development, Beijing Arion Cancer Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yulong",
+        "short_name": "Zhao Y",
+        "identifiers": [
+          "0009-0009-9091-8766"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Libin",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "School of Basic Medical Sciences, Peking University Stem Cell Research Center, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Kai",
+        "short_name": "Xu K",
+        "identifiers": [
+          "0000-0002-5648-605X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yangcan",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yali",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Bei",
+        "short_name": "Zhong B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Sinan",
+        "short_name": "Ma S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "College of Life Sciences, Northeast Agricultural University, Harbin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jing",
+        "short_name": "Liu J",
+        "identifiers": [
+          "0000-0003-0420-1769"
+        ],
+        "affiliations": [
+          "Women' s Hospital, Evolutionary & Organismal Biology Research Center, School of Medicine, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yu",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Biosystems Homeostasis & Protection and Zhejiang Provincial Key Laboratory for Cancer Molecular Cell Biology, Life Sciences Institute, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ni, Qingyang",
+        "short_name": "Ni Q",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Biosystems Homeostasis & Protection and Zhejiang Provincial Key Laboratory for Cancer Molecular Cell Biology, Life Sciences Institute, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Guihai",
+        "short_name": "Feng G",
+        "identifiers": [
+          "0000-0002-8726-1734"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Qi",
+        "short_name": "Zhou Q",
+        "identifiers": [
+          "0000-0002-7419-2047"
+        ],
+        "affiliations": [
+          "MOE Key Laboratory of Biosystems Homeostasis & Protection and Zhejiang Provincial Key Laboratory for Cancer Molecular Cell Biology, Life Sciences Institute, Zhejiang University, Hangzhou, China.",
+          "Center for Reproductive Medicine, The 2nd Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+          "Center for Evolutionary & Organismal Biology, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Qi",
+        "short_name": "Zhou Q",
+        "identifiers": [
+          "0000-0002-6549-9362"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China. zhouqi@ioz.ac.cn.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China. zhouqi@ioz.ac.cn.",
+          "University of Chinese Academy of Sciences, Beijing, China. zhouqi@ioz.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [
+          "0000-0001-7864-404X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, China. liwei@ioz.ac.cn.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China. liwei@ioz.ac.cn.",
+          "University of Chinese Academy of Sciences, Beijing, China. liwei@ioz.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 11:03",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43000506"
+    ],
+    "review": [
+      "43000506"
+    ],
+    "pmc": [
+      "13745520"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78244-y",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43000506/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

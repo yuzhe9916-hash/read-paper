@@ -1,0 +1,224 @@
+{
+  "identity": {
+    "pmid": "43010433",
+    "doi": "10.1021/acs.analchem.6c04535",
+    "title": "Programming CRISPR Compartmentalization on DNA Origami for Multiplexed Biosensing."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas12a has emerged as a transformative tool for nucleic acid detection and molecular diagnostics. However, achieving one-pot, orthogonal, multiplexed sensing remains challenging due to the nonspecific trans-cleavage activity of Cas12a. Here, we present a modular DNA origami-based platform that spatially confines and independently controls Cas12a activity, enabling simultaneous detection of multiple DNA targets within a single reaction. This spatial programming approach enables orthogonal one-pot detection of three DNA targets (EGFR L858R/Del19 mutations and HPV16) with minimal cross-talk, demonstrating 60% cleavage efficiency within 120 min at 100 nM. Through integrated molecular dynamics simulations and experimental validation, we identify an optimal  approximately 6 nm spatial window that maximizes cleavage efficiency, while the platform maintains robust performance in complex biological environments with a 10 nM detection limit in 20% serum. This compartmentalization strategy establishes a framework for spatially programming multi-enzyme systems on DNA nanostructures for synthetic biological circuits.",
+    "keywords": [],
+    "mesh_terms": [
+      "*DNA Nanostructures/chemistry",
+      "*Biosensing Techniques/methods",
+      "*DNA/chemistry/genetics",
+      "Molecular Dynamics Simulation",
+      "*CRISPR-Cas Systems",
+      "CRISPR-Associated Proteins/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Capelli, Luca",
+        "Hao, Yaya",
+        "Shi, Qien",
+        "Li, Qian",
+        "Yan, Qinglong",
+        "Li, Jiang",
+        "Zhu, Ying",
+        "Fan, Chunhai",
+        "Bertucci, Alessandro",
+        "Ge, Zhilei"
+      ],
+      "short_names": [
+        "Capelli L",
+        "Hao Y",
+        "Shi Q",
+        "Li Q",
+        "Yan Q",
+        "Li J",
+        "Zhu Y",
+        "Fan C",
+        "Bertucci A",
+        "Ge Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-1741-8992",
+        "ORCID: 0009-0006-5133-3982",
+        "ORCID: 0000-0003-2372-6624",
+        "ORCID: 0000-0003-0418-919X",
+        "ORCID: 0000-0002-7171-7338",
+        "ORCID: 0000-0003-4842-9909",
+        "ORCID: 0000-0001-7184-7565"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "Department of Chemistry, Life Sciences and Environmental Sustainability, University of Parma, Parco Area Delle Scienze 17/A, Parma43124, Italy.",
+        "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "Key Laboratory of Biosemiconductors(A), Xiangfu Laboratory, Jiashan314102, Zhejiang, China.",
+        "Institute of Materiobiology, College of Sciences, Shanghai University, Shanghai200444, China.",
+        "Institute of Materiobiology, College of Sciences, Shanghai University, Shanghai200444, China.",
+        "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "Department of Chemistry, Life Sciences and Environmental Sustainability, University of Parma, Parco Area Delle Scienze 17/A, Parma43124, Italy.",
+        "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "National Center for Translational Medicine (Shanghai) Hefei Branch, Anhui University of Chinese Medicine, Hefei, Anhui230012, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Capelli, Luca",
+        "short_name": "Capelli L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+          "Department of Chemistry, Life Sciences and Environmental Sustainability, University of Parma, Parco Area Delle Scienze 17/A, Parma43124, Italy."
+        ]
+      },
+      {
+        "full_name": "Hao, Yaya",
+        "short_name": "Hao Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Qien",
+        "short_name": "Shi Q",
+        "identifiers": [
+          "0009-0009-1741-8992"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qian",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Qinglong",
+        "short_name": "Yan Q",
+        "identifiers": [
+          "0009-0006-5133-3982"
+        ],
+        "affiliations": [
+          "Key Laboratory of Biosemiconductors(A), Xiangfu Laboratory, Jiashan314102, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiang",
+        "short_name": "Li J",
+        "identifiers": [
+          "0000-0003-2372-6624"
+        ],
+        "affiliations": [
+          "Institute of Materiobiology, College of Sciences, Shanghai University, Shanghai200444, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Ying",
+        "short_name": "Zhu Y",
+        "identifiers": [
+          "0000-0003-0418-919X"
+        ],
+        "affiliations": [
+          "Institute of Materiobiology, College of Sciences, Shanghai University, Shanghai200444, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Chunhai",
+        "short_name": "Fan C",
+        "identifiers": [
+          "0000-0002-7171-7338"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Bertucci, Alessandro",
+        "short_name": "Bertucci A",
+        "identifiers": [
+          "0000-0003-4842-9909"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Life Sciences and Environmental Sustainability, University of Parma, Parco Area Delle Scienze 17/A, Parma43124, Italy."
+        ]
+      },
+      {
+        "full_name": "Ge, Zhilei",
+        "short_name": "Ge Z",
+        "identifiers": [
+          "0000-0001-7184-7565"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative Molecules and Zhang Jiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai200240, China.",
+          "National Center for Translational Medicine (Shanghai) Hefei Branch, Anhui University of Chinese Medicine, Hefei, Anhui230012, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:33",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43010433"
+    ],
+    "review": [
+      "43010433"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-12",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-802",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c04535",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

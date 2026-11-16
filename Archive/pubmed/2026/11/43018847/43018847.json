@@ -1,0 +1,199 @@
+{
+  "identity": {
+    "pmid": "43018847",
+    "doi": "10.1186/s12284-026-00944-2",
+    "title": "Machine Learning Guided Meta-transcriptomics Reveals OsRPM1 as a Key Regulator of Rice Blast Resistance."
+  },
+  "content": {
+    "abstract": "Rice blast, caused by Magnaporthe oryzae, is the most destructive fungal disease of rice, responsible for annual yield losses of 10-30% and posing a major threat to global food security. The rapid evolution of blast pathotypes and the polygenic nature of resistance complicate breeding efforts for durable resistance. In this study, we integrated multiple RNA-sequencing datasets, revealing a dynamic transcriptional landscape during infection. Compared with susceptible genotypes, resistant genotypes showed early downregulation of immune receptors (e.g., OsPtr, OsSAH2, OsWRKY64), followed by active upregulation of defense effectors (e.g., OsPR10b, chitinases, OsLsi6, OSMORF8a) during peak response stages. Key pathways, such as immune signaling, receptor kinases, and secondary metabolism, were enriched in resistance modules, whereas susceptibility was linked mainly to primary metabolism. Machine learning (ML) models, especially XGBoost (XGB), achieved high area under the curve (AUC) of up to 0.98 in predicting resistance, with SHapley Additive exPlanations (SHAP) analysis highlighting known and novel genes, including OsLP2, NB-ARC domain protein, OsRPM1, OsATG8d, and several uncharacterized proteins. Importantly, ML identified regulators that conventional methods missed, underscoring the value of integrated computational approaches. Functional validation of OsRPM1 using CRISPR/Cas9 knockout (KO) and overexpression (OX) lines confirmed its positive role in blast resistance, where KO mutants exhibited increased lesion length and higher pathogen accumulation. In contrast, OX lines showed enhanced resistance and improved photosynthetic performance and hydrogen peroxide (H(2)O(2)) accumulation. These findings provide a comprehensive resource of candidate genes and regulatory modules for functional validation and molecular breeding, offering a robust foundation for developing rice cultivars with broad-spectrum and durable blast resistance.",
+    "keywords": [
+      "Co-expression",
+      "Machine learning",
+      "Meta-transcriptomics",
+      "Resistance",
+      "Rice blast"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Usman, Babar",
+        "Munir, Adeela",
+        "Khan, Naveed",
+        "Ikram, Muhammad",
+        "Zhao, Neng",
+        "Wang, Yiming",
+        "Gupta, Ravi",
+        "Kim, Yu-Jin",
+        "Kwon, Soon Wook",
+        "Kim, Sun Tae"
+      ],
+      "short_names": [
+        "Usman B",
+        "Munir A",
+        "Khan N",
+        "Ikram M",
+        "Zhao N",
+        "Wang Y",
+        "Gupta R",
+        "Kim YJ",
+        "Kwon SW",
+        "Kim ST"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea.",
+        "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea.",
+        "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea.",
+        "Agricultural Research Station (ARS), Qatar University, PO Box 2713, Doha, Qatar.",
+        "Yazhouwan National Laboratory, Sanya, 572024, China.",
+        "Department of Plant Pathology, Key Laboratory of Integrated Management of Crop Disease and Pests, Ministry of Education, Nanjing Agricultural University, Nanjing, 210095, China.",
+        "Plant Stress Physiology and Proteomics Laboratory, College of General Education, Kookmin University, Seoul, 02707, Republic of Korea.",
+        "Department of Life Science and Environmental Biochemistry, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea.",
+        "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea.",
+        "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea. stkim71@pusan.ac.kr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Usman, Babar",
+        "short_name": "Usman B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Munir, Adeela",
+        "short_name": "Munir A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Khan, Naveed",
+        "short_name": "Khan N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Ikram, Muhammad",
+        "short_name": "Ikram M",
+        "identifiers": [],
+        "affiliations": [
+          "Agricultural Research Station (ARS), Qatar University, PO Box 2713, Doha, Qatar."
+        ]
+      },
+      {
+        "full_name": "Zhao, Neng",
+        "short_name": "Zhao N",
+        "identifiers": [],
+        "affiliations": [
+          "Yazhouwan National Laboratory, Sanya, 572024, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yiming",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Pathology, Key Laboratory of Integrated Management of Crop Disease and Pests, Ministry of Education, Nanjing Agricultural University, Nanjing, 210095, China."
+        ]
+      },
+      {
+        "full_name": "Gupta, Ravi",
+        "short_name": "Gupta R",
+        "identifiers": [],
+        "affiliations": [
+          "Plant Stress Physiology and Proteomics Laboratory, College of General Education, Kookmin University, Seoul, 02707, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Yu-Jin",
+        "short_name": "Kim YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science and Environmental Biochemistry, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kwon, Soon Wook",
+        "short_name": "Kwon SW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Sun Tae",
+        "short_name": "Kim ST",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Bioscience, Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea. stkim71@pusan.ac.kr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Rice (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Rice (N Y)"
+    ],
+    "pub_date": "2026 Aug 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 18:48",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43018847"
+    ],
+    "review": [
+      "43018847"
+    ],
+    "pmc": [
+      "13759934"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43018847/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1186/s12284-026-00944-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD48-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

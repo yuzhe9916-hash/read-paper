@@ -1,0 +1,111 @@
+{
+  "identity": {
+    "pmid": "43011532",
+    "doi": "10.1021/acsomega.6c09058",
+    "title": "Design and Evaluation of Fluorescent gRNAs for Visibility Improvement in dCas9-Mediated Live-Cell Imaging."
+  },
+  "content": {
+    "abstract": "Live-cell nuclear imaging continues to be limited by the number of fluorescent moieties that may be recruited to the DNA locus of interest. Major advances in dCas9-based live-cell imaging have been made using plasmid-based expression systems that integrate many protein fluorophores into the dCas9 fluorescent ribonucleoprotein (fRNP) complex to increase the visibility of the resulting DNA labels. The dependence on exogenous DNA plasmids, however, precludes these strategies from applications where precise control of fRNP presence is necessary or possible plasmid integration into the genome is unacceptable. In this study, we evaluated the capacity for fluorescent guide RNA (gRNA) to improve the visibility of cellular DNA labels during live-cell imaging, bypassing the need for complex fluorescent protein expression and foreign DNA plasmid delivery. Both CRISPR RNA (crRNA) and trans-activating crRNA (tracrRNA) components of the gRNA were modified with terminal cyanine 3 (Cy3) fluorophores before assembly into fRNP, and the impact on the brightness and signal-to-background (SNB) of the resulting DNA labels was evaluated at two different genomic loci: a repeat-rich Chr3 locus and chromosome telomeres. We further explored the visibility of DNA labeled with a \"split\" fRNP constructed from two individual tracrRNA fragments, rather than the complete 86 nt tracrRNA sequence, in order to reduce the costs and turnaround time of tracrRNA synthesis and to increase the terminal ends available for fluorophore modification. The 86 nt tracrRNA configuration bearing two terminal Cy3 modifications to both the crRNA and tracrRNA resulted in the greatest improvement to label visibility with a 190% increase in brightness and a 60% increase in SNB for both loci, on average, in comparison to the previously published fRNP containing only one Cy3 on the crRNA. The split tracrRNA fRNP was capable of labeling both genomic loci with varying success, imparting a maximum brightness improvement of 153% and an SNB improvement of 49% to Chr3 labeling, however, with no significant gains to brightness and 41% improved SNB for telomeres. For both the designs, label visibility improved consistently with additional fluorescence modification of the gRNA, indicating that the modifications were well tolerated, and further enhancement of gRNA fluorescence may continue to improve label visibility during live-cell imaging.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hawke, David Connor",
+        "Yu, Bo"
+      ],
+      "short_names": [
+        "Hawke DC",
+        "Yu B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6051-077X"
+      ],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, Stanford University School of Medicine, Stanford, California 94305, United States.",
+        "Department of Obstetrics and Gynecology, Stanford University School of Medicine, Stanford, California 94305, United States.",
+        "Stanford Maternal & Child Health Research Institute, Stanford University School of Medicine, Stanford, California 94305, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hawke, David Connor",
+        "short_name": "Hawke DC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Stanford University School of Medicine, Stanford, California 94305, United States."
+        ]
+      },
+      {
+        "full_name": "Yu, Bo",
+        "short_name": "Yu B",
+        "identifiers": [
+          "0000-0002-6051-077X"
+        ],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Stanford University School of Medicine, Stanford, California 94305, United States.",
+          "Stanford Maternal & Child Health Research Institute, Stanford University School of Medicine, Stanford, California 94305, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:37",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43011532"
+    ],
+    "review": [
+      "43011532"
+    ],
+    "pmc": [
+      "13750381"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43011532/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-NT5E-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/acsodf/article-lookup/doi/10.1021/acsomega.6c09058",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

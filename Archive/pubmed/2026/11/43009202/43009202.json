@@ -1,0 +1,133 @@
+{
+  "identity": {
+    "pmid": "43009202",
+    "doi": "10.1093/bioinformatics/btag818",
+    "title": "AutoFFinder: A reconfigurable hardware-accelerated platform for multi-guide CRISPR/Cas9 off-target search."
+  },
+  "content": {
+    "abstract": "SUMMARY: CRISPR/Cas9 technology has revolutionized genome editing, but ensuring its safety requires genome-wide identification of all potential off-target sites (OTSs), defined as sites similar to the on-target site up to an edit-distance threshold. Existing computational methods can scan large genomes up to a given edit-distance threshold, but they face severe computational bottlenecks, including low throughput, sub-optimal CPU utilization, and memory exhaustion, when scaling to multiple guide RNAs (gRNAs) or to high edit distances. Here, we present AutoFFinder, a runtime-reconfigurable, hardware-software co-designed platform for multi-gRNA CRISPR/Cas9 OTS search. AutoFFinder combines a high-throughput Levenshtein automata FPGA overlay (ReLev), which streams genomic data to evaluate up to 128 gRNAs concurrently, with a parallel CPU stage that reconstructs exact alignments under versatile mismatch and bulge constraints. Importantly, ReLev supports runtime updates to both the gRNA sequences and the edit-distance threshold, allowing end users to use the platform without FPGA toolchain expertise and overcoming the rigidity of previous FPGA implementations, which required full hardware recompilation to change patterns or thresholds. Benchmarking on the human reference genome (hg38) showed that, for 128 gRNAs at an edit-distance threshold of 6, AutoFFinder completed an end-to-end search in 68.43 seconds (1.14 minutes), compared with 190.62 seconds (3.18 minutes) by a GPU-based Myers' Bitparallel algorithm and 38.0-38.7 minutes by applicable state-of-the-art CPU-based methods. In addition, AutoFFinder is guaranteed to recover all potential OTSs as demonstrated in a separate completeness validation. In summary, AutoFFinder provides a highly scalable, FPGA-accelerated solution for rigorous CRISPR design workflows. AVAILABILITY AND IMPLEMENTATION: The source code for AutoFFinder is publicly available at https://github.com/OrensteinLab/AutoFFinder. SUPPLEMENTARY INFORMATION: is available on Bioinformatics online.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "FPGA acceleration",
+      "Levenshtein automata",
+      "approximate string matching",
+      "edit distance",
+      "off-target site"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yaish, Ofir",
+        "Tracy, Tommy 2nd",
+        "Skadron, Kevin",
+        "Orenstein, Yaron"
+      ],
+      "short_names": [
+        "Yaish O",
+        "Tracy T 2nd",
+        "Skadron K",
+        "Orenstein Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7113-0684",
+        "ORCID: 0000-0002-9872-0246",
+        "ORCID: 0000-0002-8091-9302",
+        "ORCID: 0000-0002-3583-3112"
+      ],
+      "affiliations": [
+        "School of Electrical and Computer Engineering, Ben-Gurion University of the Negev, Beer Sheva, 8410501, Israel.",
+        "Department of Computer Science, University of Virginia, Charlottesville, VA, 22903, USA.",
+        "Department of Computer Science, University of Virginia, Charlottesville, VA, 22903, USA.",
+        "Department of Computer Science and Artificial Intelligence, Bar-Ilan University, Ramat Gan, 5290002, Israel.",
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, 5290002, Israel."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yaish, Ofir",
+        "short_name": "Yaish O",
+        "identifiers": [
+          "0000-0002-7113-0684"
+        ],
+        "affiliations": [
+          "School of Electrical and Computer Engineering, Ben-Gurion University of the Negev, Beer Sheva, 8410501, Israel."
+        ]
+      },
+      {
+        "full_name": "Tracy, Tommy",
+        "short_name": "Tracy T",
+        "identifiers": [
+          "0000-0002-9872-0246"
+        ],
+        "affiliations": [
+          "Department of Computer Science, University of Virginia, Charlottesville, VA, 22903, USA."
+        ]
+      },
+      {
+        "full_name": "Skadron, Kevin",
+        "short_name": "Skadron K",
+        "identifiers": [
+          "0000-0002-8091-9302"
+        ],
+        "affiliations": [
+          "Department of Computer Science, University of Virginia, Charlottesville, VA, 22903, USA."
+        ]
+      },
+      {
+        "full_name": "Orenstein, Yaron",
+        "short_name": "Orenstein Y",
+        "identifiers": [
+          "0000-0002-3583-3112"
+        ],
+        "affiliations": [
+          "Department of Computer Science and Artificial Intelligence, Bar-Ilan University, Ramat Gan, 5290002, Israel.",
+          "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, 5290002, Israel."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 23:28",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43009202"
+    ],
+    "review": [
+      "43009202"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag818",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

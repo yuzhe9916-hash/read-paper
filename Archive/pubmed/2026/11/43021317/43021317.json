@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "43021317",
+    "doi": "10.1186/s12929-026-01297-0",
+    "title": "Repurposing of abemaciclib to overcome C797S-mediated osimertinib resistance in EGFR-mutant lung adenocarcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Acquired resistance to osimertinib mediated by the EGFR C797S mutation remains a major therapeutic challenge in EGFR-mutant non-small cell lung cancer (NSCLC), with limited effective treatment options. This study explored whether abemaciclib, an FDA-approved CDK4/6 inhibitor, can overcome C797S-mediated osimertinib resistance in EGFR-mutant NSCLC. METHODS: A high-throughput screen of approximately 125,000 compounds was performed using Ba/F3 cells expressing EGFR triple mutations (L858R/T790M/C797S and Del19/T790M/C797S). The impact of abemaciclib on EGFR kinase activity was evaluated via in vitro kinase and Western blot assays. Apoptosis induction was assessed using flow cytometry. The activity of abemaciclib was evaluated using biochemical assays, cellular thermal shift assays (CETSA), molecular docking analyses, CRISPR-engineered isogenic models, xenografts, and patient-derived xenograft (PDX) models. RESULTS: Abemaciclib was identified as a potent inhibitor of EGFR triple-mutant cell growth and exhibited preferential activity toward mutant EGFR-dependent models. IL-3 rescue assays demonstrated that its antiproliferative effects were dependent on suppression of oncogenic EGFR signaling. Abemaciclib inhibited mutant EGFR kinase activity, reduced EGFR phosphorylation, and induced apoptotic cell death in osimertinib-resistant models while exhibiting substantially weaker activity toward wild-type EGFR. CETSA and molecular docking analyses supported direct engagement of mutant EGFR by abemaciclib. Importantly, abemaciclib significantly suppressed tumor growth in CRISPR-engineered isogenic xenografts and PDX models harboring EGFR C797S-mediated osimertinib resistance. CONCLUSIONS: Abemaciclib selectively suppresses C797S-mutant EGFR signaling and demonstrates robust antitumor activity in preclinical models of osimertinib-resistant EGFR-mutant NSCLC. This breakthrough not only overcomes the existing therapeutic barrier but also demonstrates minimal interference with WT EGFR, offering a transformative and precise therapeutic strategy with significant translational and clinical potential. These findings support the therapeutic repurposing of abemaciclib as a potential treatment strategy for EGFR C797S-mediated resistance and provide a translational strategy for overcoming resistance-associated EGFR alterations using clinically available targeted agents.",
+    "keywords": [
+      "Abemaciclib",
+      "Drug repurposing",
+      "EGFR C797S mutation",
+      "Kinase inhibitor selectivity",
+      "Osimertinib resistance",
+      "PDX models"
+    ],
+    "mesh_terms": [
+      "*Aniline Compounds/pharmacology",
+      "Pyrimidines",
+      "Humans",
+      "*Acrylamides/pharmacology",
+      "*Benzimidazoles/pharmacology/therapeutic use",
+      "*Drug Resistance, Neoplasm/genetics/drug effects",
+      "Indoles",
+      "Animals",
+      "ErbB Receptors/genetics",
+      "*Lung Neoplasms/drug therapy/genetics",
+      "*Aminopyridines/pharmacology",
+      "Mice",
+      "*Adenocarcinoma of Lung/drug therapy/genetics",
+      "Mutation",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Hsin-Jung",
+        "Ho, Chao-Chi",
+        "Chen, Ci-Ling",
+        "Chen, Chi-Yuan",
+        "Cheng, Ting-Jen Rachel",
+        "Chang, Ya-Hsuan",
+        "Huang, Yu-Han",
+        "Lin, Ming-Shiu",
+        "Lin, Zi-Ling",
+        "Yang, Shuenn-Chen",
+        "Huang, Shih-Chien",
+        "Hung, Yu-Ya",
+        "Huang, Kuo-Yen",
+        "Yang, Pan-Chyr"
+      ],
+      "short_names": [
+        "Li HJ",
+        "Ho CC",
+        "Chen CL",
+        "Chen CY",
+        "Cheng TR",
+        "Chang YH",
+        "Huang YH",
+        "Lin MS",
+        "Lin ZL",
+        "Yang SC",
+        "Huang SC",
+        "Hung YY",
+        "Huang KY",
+        "Yang PC"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6330-6048"
+      ],
+      "affiliations": [
+        "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan.",
+        "Department of Internal Medicine, National Taiwan University Hospital, Taipei, 100, Taiwan.",
+        "Program for Precision Health and Intelligent Medicine, Graduate School of Advanced Technology, National Taiwan University, Taipei, 106, Taiwan.",
+        "Graduate Institute of Health Industry Technology and Research Center for Food and Cosmetic Safety, Chang Gung University of Science and Technology, Taoyuan, 613, Taiwan.",
+        "BioBank, Chang Gung Memorial Hospital, Taoyuan, Taiwan.",
+        "Genomics Research Center, Academia Sinica, Taipei, 115, Taiwan.",
+        "Institute of Molecular and Genomic Medicine, National Health Research Institutes, Zhunan, Miaoli, 350, Taiwan.",
+        "Institute of Molecular and Genomic Medicine, National Health Research Institutes, Zhunan, Miaoli, 350, Taiwan.",
+        "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan.",
+        "Department of Internal Medicine, National Taiwan University Hospital, Taipei, 100, Taiwan.",
+        "Program for Precision Health and Intelligent Medicine, Graduate School of Advanced Technology, National Taiwan University, Taipei, 106, Taiwan.",
+        "Institute of Biomedical Sciences, Academia Sinica, Taipei, 115, Taiwan.",
+        "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan.",
+        "Institute of Biomedical Sciences, Academia Sinica, Taipei, 115, Taiwan.",
+        "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan. kuoyenhuang@ntu.edu.tw.",
+        "Program for Precision Health and Intelligent Medicine, Graduate School of Advanced Technology, National Taiwan University, Taipei, 106, Taiwan. kuoyenhuang@ntu.edu.tw.",
+        "Department of Clinical Laboratory Sciences and Medical Biotechnology, College of Medicine, National Taiwan University, Taipei, 100, Taiwan. kuoyenhuang@ntu.edu.tw.",
+        "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan. pcyang@ntu.edu.tw.",
+        "Department of Internal Medicine, National Taiwan University Hospital, Taipei, 100, Taiwan. pcyang@ntu.edu.tw.",
+        "NTU Advanced Biomedical Research Center, National Taiwan University, Taipei, 106, Taiwan. pcyang@ntu.edu.tw."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Hsin-Jung",
+        "short_name": "Li HJ",
+        "identifiers": [],
+        "affiliations": [
+          "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Ho, Chao-Chi",
+        "short_name": "Ho CC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, National Taiwan University Hospital, Taipei, 100, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Ci-Ling",
+        "short_name": "Chen CL",
+        "identifiers": [],
+        "affiliations": [
+          "Program for Precision Health and Intelligent Medicine, Graduate School of Advanced Technology, National Taiwan University, Taipei, 106, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Chi-Yuan",
+        "short_name": "Chen CY",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Health Industry Technology and Research Center for Food and Cosmetic Safety, Chang Gung University of Science and Technology, Taoyuan, 613, Taiwan.",
+          "BioBank, Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Cheng, Ting-Jen Rachel",
+        "short_name": "Cheng TR",
+        "identifiers": [],
+        "affiliations": [
+          "Genomics Research Center, Academia Sinica, Taipei, 115, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chang, Ya-Hsuan",
+        "short_name": "Chang YH",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular and Genomic Medicine, National Health Research Institutes, Zhunan, Miaoli, 350, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Huang, Yu-Han",
+        "short_name": "Huang YH",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular and Genomic Medicine, National Health Research Institutes, Zhunan, Miaoli, 350, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lin, Ming-Shiu",
+        "short_name": "Lin MS",
+        "identifiers": [],
+        "affiliations": [
+          "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan.",
+          "Department of Internal Medicine, National Taiwan University Hospital, Taipei, 100, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lin, Zi-Ling",
+        "short_name": "Lin ZL",
+        "identifiers": [],
+        "affiliations": [
+          "Program for Precision Health and Intelligent Medicine, Graduate School of Advanced Technology, National Taiwan University, Taipei, 106, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Yang, Shuenn-Chen",
+        "short_name": "Yang SC",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biomedical Sciences, Academia Sinica, Taipei, 115, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Huang, Shih-Chien",
+        "short_name": "Huang SC",
+        "identifiers": [],
+        "affiliations": [
+          "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hung, Yu-Ya",
+        "short_name": "Hung YY",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biomedical Sciences, Academia Sinica, Taipei, 115, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Huang, Kuo-Yen",
+        "short_name": "Huang KY",
+        "identifiers": [],
+        "affiliations": [
+          "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan. kuoyenhuang@ntu.edu.tw.",
+          "Program for Precision Health and Intelligent Medicine, Graduate School of Advanced Technology, National Taiwan University, Taipei, 106, Taiwan. kuoyenhuang@ntu.edu.tw.",
+          "Department of Clinical Laboratory Sciences and Medical Biotechnology, College of Medicine, National Taiwan University, Taipei, 100, Taiwan. kuoyenhuang@ntu.edu.tw."
+        ]
+      },
+      {
+        "full_name": "Yang, Pan-Chyr",
+        "short_name": "Yang PC",
+        "identifiers": [
+          "0000-0001-6330-6048"
+        ],
+        "affiliations": [
+          "NTU YongLin Institute of Health, National Taiwan University, Taipei, 106, Taiwan. pcyang@ntu.edu.tw.",
+          "Department of Internal Medicine, National Taiwan University Hospital, Taipei, 100, Taiwan. pcyang@ntu.edu.tw.",
+          "NTU Advanced Biomedical Research Center, National Taiwan University, Taipei, 106, Taiwan. pcyang@ntu.edu.tw."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomedical science"
+    ],
+    "journal_abbrev": [
+      "J Biomed Sci"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 05:35",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43021317"
+    ],
+    "review": [
+      "43021317"
+    ],
+    "pmc": [
+      "13756994"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-026-01297-0",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43021317/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1186/s12929-026-01297-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-12",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1479",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

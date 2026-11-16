@@ -1,0 +1,233 @@
+{
+  "identity": {
+    "pmid": "43010510",
+    "doi": "10.1021/acs.analchem.6c04145",
+    "title": "A Two-Step Strategy Based on Fpg Recognition and RCA-CRISPR/Cas12a for Ultrasensitive Detection of Gene Mutation."
+  },
+  "content": {
+    "abstract": "Accurate detection of gene mutations is crucial for acute myeloid leukaemia (AML) diagnosis and treatment. Although CRISPR/Cas systems enable sensitive mutation detection, their adaptability is constrained by dependence on restriction endonucleases. Herein, we propose a two-step strategy, termed Fpg-RCA-CRISPR/Cas12a for ultrasensitive detection of the p53 R175H, which integrates formamidopyrimidine DNA glycosylase (Fpg)-mediated recognition with rolling circle amplification (RCA)-coupled CRISPR/Cas12a technology. Validation confirmed that Fpg exhibits minimal activity when adenine (A) is opposite the damaged site. Based on this finding, we designed a padlock probe with a site-specific 8-oxoguanine (8-oxoG) modification. This modification enables selective recognition of G > A mutations. For the target TP53 c.524G > A (p53 R175H), the G > A substitution opposite the 8-oxoG site blocks Fpg cleavage, facilitating probe circularization and subsequent RCA. The resulting RCA products then activate the trans-cleavage activity of Cas12a, enabling cascade signal amplification and generating a strong fluorescence output. For wild-type p53, Fpg-mediated cleavage prevents circularization and amplification, yielding weak fluorescence. Taking advantage of the high specificity of the Fpg enzyme and the cascade amplification effect of the RCA-CRISPR/Cas12a system, this method achieves a limit of detection (LOD) of 0.29 fM and covers a linear range from 0.8 fM to 800 pM, along with high reproducibility, excellent selectivity, and negligible background interference. Notably, the assay can detect mutation frequencies as low as 0.1% in excess wild-type p53. Crucially, its clinical feasibility was confirmed by analyzing human serum samples, yielding results consistent with standard assays and thus demonstrating its practical reliability and translational potential.",
+    "keywords": [
+      "8-oxoG",
+      "CRISPR/Cas12a",
+      "Fpg enzyme",
+      "RCA",
+      "p53 R175H"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "Humans",
+      "*Mutation",
+      "*Tumor Suppressor Protein p53/genetics",
+      "*DNA-Formamidopyrimidine Glycosylase/metabolism",
+      "*Nucleic Acid Amplification Techniques/methods",
+      "Limit of Detection",
+      "Bacterial Proteins",
+      "Endodeoxyribonucleases",
+      "CRISPR-Associated Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Shiying",
+        "Xiang, Tingting",
+        "Cha, Zengqin",
+        "Song, Jiayan",
+        "Xiang, Yuanfang",
+        "Li, Xiang",
+        "Huang, Chunlan",
+        "Mei, Qibing",
+        "Huang, Xinwu",
+        "Zhang, Chunxiang",
+        "Wu, Jianming"
+      ],
+      "short_names": [
+        "Zhou S",
+        "Xiang T",
+        "Cha Z",
+        "Song J",
+        "Xiang Y",
+        "Li X",
+        "Huang C",
+        "Mei Q",
+        "Huang X",
+        "Zhang C",
+        "Wu J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4843-863X"
+      ],
+      "affiliations": [
+        "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "Department of Chemistry, School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "Stem Cell Immunity and Regeneration Key Laboratory of LuZhou, Affiliated Hospital of Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "Key Laboratory of Medical Electrophysiology, Ministry of Education & Medical Electrophysiological Key Laboratory of Sichuan Province, (Collaborative Innovation Center for Prevention of Cardiovascular Diseases), Institute of Cardiovascular Research, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China.",
+        "Key Laboratory of Medical Electrophysiology, Ministry of Education & Medical Electrophysiological Key Laboratory of Sichuan Province, (Collaborative Innovation Center for Prevention of Cardiovascular Diseases), Institute of Cardiovascular Research, Southwest Medical University, Sichuan, Luzhou646000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Shiying",
+        "short_name": "Zhou S",
+        "identifiers": [
+          "0000-0002-4843-863X"
+        ],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+          "Department of Chemistry, School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Tingting",
+        "short_name": "Xiang T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Cha, Zengqin",
+        "short_name": "Cha Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Song, Jiayan",
+        "short_name": "Song J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Yuanfang",
+        "short_name": "Xiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiang",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Chunlan",
+        "short_name": "Huang C",
+        "identifiers": [],
+        "affiliations": [
+          "Stem Cell Immunity and Regeneration Key Laboratory of LuZhou, Affiliated Hospital of Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Mei, Qibing",
+        "short_name": "Mei Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xinwu",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chunxiang",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+          "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China.",
+          "Key Laboratory of Medical Electrophysiology, Ministry of Education & Medical Electrophysiological Key Laboratory of Sichuan Province, (Collaborative Innovation Center for Prevention of Cardiovascular Diseases), Institute of Cardiovascular Research, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jianming",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Southwest Medical University, Sichuan, Luzhou646000, China.",
+          "School of Pharmacy, Southwest Medical University, Sichuan, Luzhou646000, China.",
+          "Key Laboratory of Medical Electrophysiology, Ministry of Education & Medical Electrophysiological Key Laboratory of Sichuan Province, (Collaborative Innovation Center for Prevention of Cardiovascular Diseases), Institute of Cardiovascular Research, Southwest Medical University, Sichuan, Luzhou646000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:33",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43010510"
+    ],
+    "review": [
+      "43010510"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c04145",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

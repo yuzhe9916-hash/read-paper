@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "43015369",
+    "doi": "10.1038/s41375-026-03173-0",
+    "title": "Mediator kinase inhibition exposes a transcriptional vulnerability and synergizes with venetoclax in AML."
+  },
+  "content": {
+    "abstract": "Acute myeloid leukemia (AML) is a heterogeneous and aggressive hematologic malignancy associated with poor survival despite recent therapeutic advances. To identify novel anti-leukemic agents, we performed a high-throughput viability screen of 10,000 small molecules across 56 genetically diverse primary AML samples. Compounds with similar activity profiles were grouped into Compound Correlation Clusters (CCCs), leading to the identification of CCC163, which includes AML874, as a potent and selective hit. Integrated pharmacological and CRISPR-Cas9 approaches identified the Mediator complex as the molecular target of AML874. We demonstrated that AML874 acts as a selective CDK8/CDK19 inhibitor, disrupting Mediator-dependent transcription. FLT3-mutated AML showed increased sensitivity to AML874, suggesting a subtype-specific vulnerability. Notably, CDK8 inhibition synergized with venetoclax in AML cell lines and patient-derived xenograft models, resulting in enhanced anti-leukemic activity in vivo. Collectively, these findings establish CDK8/CDK19 inhibition as a therapeutically relevant strategy in AML.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aitchedji, Camille",
+        "Moison, Celine",
+        "Fortier, Simon",
+        "Mendoza-Sanchez, Rodrigo",
+        "Gracias, Deanne",
+        "Spinella, Jean-Francois",
+        "Thavonekham, Bounkham",
+        "MacRae, Tara",
+        "Mayotte, Nadine",
+        "Frechette, Melanie",
+        "Blouin-Chagnon, Valerie",
+        "Leveille, Koryne",
+        "Chagraoui, Jalila",
+        "Ruel, Rejean",
+        "Hebert, Josee",
+        "Marinier, Anne",
+        "Sauvageau, Guy"
+      ],
+      "short_names": [
+        "Aitchedji C",
+        "Moison C",
+        "Fortier S",
+        "Mendoza-Sanchez R",
+        "Gracias D",
+        "Spinella JF",
+        "Thavonekham B",
+        "MacRae T",
+        "Mayotte N",
+        "Frechette M",
+        "Blouin-Chagnon V",
+        "Leveille K",
+        "Chagraoui J",
+        "Ruel R",
+        "Hebert J",
+        "Marinier A",
+        "Sauvageau G"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-3169-8778",
+        "ORCID: 0000-0003-1739-3106",
+        "ORCID: 0000-0002-2267-1353",
+        "ORCID: 0000-0002-4333-7266"
+      ],
+      "affiliations": [
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Division d'Hematologie-Oncologie, Hopital Maisonneuve-Rosemont, Montreal, QC, Canada.",
+        "Banque de Cellules Leucemiques du Quebec, Hopital Maisonneuve-Rosemont, Montreal, QC, Canada.",
+        "Department of Medicine, Faculty of Medicine, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada.",
+        "Department of Chemistry, Universite de Montreal, Montreal, QC, Canada.",
+        "Institute for Research in Immunology and Cancer, Universite de Montreal, Montreal, QC, Canada. guy.sauvageau@umontreal.ca.",
+        "Division d'Hematologie-Oncologie, Hopital Maisonneuve-Rosemont, Montreal, QC, Canada. guy.sauvageau@umontreal.ca.",
+        "Department of Medicine, Faculty of Medicine, Universite de Montreal, Montreal, QC, Canada. guy.sauvageau@umontreal.ca."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aitchedji, Camille",
+        "short_name": "Aitchedji C",
+        "identifiers": [
+          "0009-0008-3169-8778"
+        ],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Moison, Céline",
+        "short_name": "Moison C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Fortier, Simon",
+        "short_name": "Fortier S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Mendoza-Sanchez, Rodrigo",
+        "short_name": "Mendoza-Sanchez R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Gracias, Deanne",
+        "short_name": "Gracias D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Spinella, Jean-François",
+        "short_name": "Spinella JF",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Thavonekham, Bounkham",
+        "short_name": "Thavonekham B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "MacRae, Tara",
+        "short_name": "MacRae T",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Mayotte, Nadine",
+        "short_name": "Mayotte N",
+        "identifiers": [
+          "0000-0003-1739-3106"
+        ],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Fréchette, Mélanie",
+        "short_name": "Fréchette M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Blouin-Chagnon, Valérie",
+        "short_name": "Blouin-Chagnon V",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Léveillé, Koryne",
+        "short_name": "Léveillé K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Chagraoui, Jalila",
+        "short_name": "Chagraoui J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Ruel, Réjean",
+        "short_name": "Ruel R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Hébert, Josée",
+        "short_name": "Hébert J",
+        "identifiers": [
+          "0000-0002-2267-1353"
+        ],
+        "affiliations": [
+          "Division d'Hématologie-Oncologie, Hôpital Maisonneuve-Rosemont, Montréal, QC, Canada.",
+          "Banque de Cellules Leucémiques du Québec, Hôpital Maisonneuve-Rosemont, Montréal, QC, Canada.",
+          "Department of Medicine, Faculty of Medicine, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Marinier, Anne",
+        "short_name": "Marinier A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada.",
+          "Department of Chemistry, Université de Montréal, Montréal, QC, Canada."
+        ]
+      },
+      {
+        "full_name": "Sauvageau, Guy",
+        "short_name": "Sauvageau G",
+        "identifiers": [
+          "0000-0002-4333-7266"
+        ],
+        "affiliations": [
+          "Institute for Research in Immunology and Cancer, Université de Montréal, Montréal, QC, Canada. guy.sauvageau@umontreal.ca.",
+          "Division d'Hématologie-Oncologie, Hôpital Maisonneuve-Rosemont, Montréal, QC, Canada. guy.sauvageau@umontreal.ca.",
+          "Department of Medicine, Faculty of Medicine, Université de Montréal, Montréal, QC, Canada. guy.sauvageau@umontreal.ca."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Leukemia"
+    ],
+    "journal_abbrev": [
+      "Leukemia"
+    ],
+    "pub_date": "2026 Nov 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 05:29",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43015369"
+    ],
+    "review": [
+      "43015369"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41375-026-03173-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-2792",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

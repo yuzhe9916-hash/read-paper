@@ -1,0 +1,154 @@
+{
+  "identity": {
+    "pmid": "43024743",
+    "doi": "10.1021/acssensors.6c03362",
+    "title": "Intelligent Modular Dual-Readout Architecture Driven by CRISPR/Cas13a-CHA Cascade and Machine Learning for Portable Multiplex MicroRNA Liquid Biopsy in Early Lung Cancer."
+  },
+  "content": {
+    "abstract": "Precise detection of trace miRNAs in liquid biopsies is critical for early lung cancer screening, yet current methods are frequently limited by complex reverse transcription procedures and potential enzymatic amplification biases. Herein, we developed a sequencing-free and highly portable dual-mode biosensing platform for decentralized clinical diagnostics by synergizing highly specific CRISPR/Cas13a recognition with exponential non-enzymatic catalytic hairpin assembly amplification (CHA). Trace target miRNAs activate Cas13a to trans-cleave the RNA trigger strand, while intact RNA triggers can precisely initiate downstream assembly networks. The Cas13a molecular lock completely eliminates spontaneous hairpin crosslinking interference. Based on this mechanism, we separately constructed a fluorescence and a multiplex surface-enhanced Raman scattering biosensing platform. The catalytic network drives reporter-embedded bimetallic nanoparticles to specifically bind plasmonic chips, forming sandwich resonance structures for absolute multiplex spectral quantification. The system synchronously processes and analyzes four lung cancer-associated miRNAs within 80 min, achieving an ultralow attomolar diagnostic limit and an exceptionally broad linear dynamic range spanning ten orders of magnitude. Clinical validation using 50 plasma samples demonstrated high quantitative agreement with standard qRT-PCR alongside exceptional anti-interference characteristics. Integrating a machine classification model to extract spectral features successfully clustered distinct pathological stages with the accuracy of 80.00 and 93.33%, respectively. The systematic framework, merging miniature programmable biochemical cascade pathways with multidimensional artificial intelligence predictions, provides a highly powerful novel diagnostic paradigm to overcome traditional barriers in complex liquid biopsy translational applications.",
+    "keywords": [
+      "CRISPR/Cas13a system",
+      "catalytic hairpin assembly amplification",
+      "lung cancer",
+      "machine learning algorithm",
+      "multiple detection of miRNAs"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fan, Min",
+        "Ji, Xiangrui",
+        "Chen, Jingbo",
+        "Ding, Yun",
+        "Feng, Shangyuan",
+        "Lin, Jinlan",
+        "Guo, Tianxing"
+      ],
+      "short_names": [
+        "Fan M",
+        "Ji X",
+        "Chen J",
+        "Ding Y",
+        "Feng S",
+        "Lin J",
+        "Guo T"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-6845-2325"
+      ],
+      "affiliations": [
+        "Fujian Provincial Key Laboratory for Advanced Micro-Nano Photonics Technology and Devices, Fujian Provincial Collaborative Innovation Center for Ultra-Precision Optical Engineering and Applications, Institute for Photonics Technology, Quanzhou Normal University, Quanzhou362000, China.",
+        "Fujian Provincial Key Laboratory for Advanced Micro-Nano Photonics Technology and Devices, Fujian Provincial Collaborative Innovation Center for Ultra-Precision Optical Engineering and Applications, Institute for Photonics Technology, Quanzhou Normal University, Quanzhou362000, China.",
+        "Department of Thoracic Oncology, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350013, China.",
+        "Department of Thoracic Surgery, Shengli Clinical Medical College, Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350001, China.",
+        "Fujian Provincial Key Laboratory for Advanced Micro-Nano Photonics Technology and Devices, Fujian Provincial Collaborative Innovation Center for Ultra-Precision Optical Engineering and Applications, Institute for Photonics Technology, Quanzhou Normal University, Quanzhou362000, China.",
+        "Department of Thoracic Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou350000, China.",
+        "Department of Thoracic Surgery, Shengli Clinical Medical College, Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350001, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fan, Min",
+        "short_name": "Fan M",
+        "identifiers": [
+          "0009-0008-6845-2325"
+        ],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory for Advanced Micro-Nano Photonics Technology and Devices, Fujian Provincial Collaborative Innovation Center for Ultra-Precision Optical Engineering and Applications, Institute for Photonics Technology, Quanzhou Normal University, Quanzhou362000, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Xiangrui",
+        "short_name": "Ji X",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory for Advanced Micro-Nano Photonics Technology and Devices, Fujian Provincial Collaborative Innovation Center for Ultra-Precision Optical Engineering and Applications, Institute for Photonics Technology, Quanzhou Normal University, Quanzhou362000, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jingbo",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Oncology, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350013, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yun",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shengli Clinical Medical College, Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350001, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Shangyuan",
+        "short_name": "Feng S",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory for Advanced Micro-Nano Photonics Technology and Devices, Fujian Provincial Collaborative Innovation Center for Ultra-Precision Optical Engineering and Applications, Institute for Photonics Technology, Quanzhou Normal University, Quanzhou362000, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Jinlan",
+        "short_name": "Lin J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou350000, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Tianxing",
+        "short_name": "Guo T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, Shengli Clinical Medical College, Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350001, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 17:33",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43024743"
+    ],
+    "review": [
+      "43024743"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c03362",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

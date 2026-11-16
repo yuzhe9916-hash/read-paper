@@ -1,0 +1,124 @@
+{
+  "identity": {
+    "pmid": "43018681",
+    "doi": "10.1007/s11248-026-00526-4",
+    "title": "Application of AI-designed OpenCRISPR-1 for highly efficient gene editing in soybean (Glycine max L.) and Nicotiana benthamiana."
+  },
+  "content": {
+    "abstract": "The widespread application of CRISPR/Cas genome editing for commercial crop improvement is currently hindered by a complex and restrictive intellectual property (IP) landscape. The recent development of OpenCRISPR-1, a fully AI-designed Cas9-like nuclease, provides a promising alternative with an accessible licensing framework; however, its efficacy in dicotyledonous plants remains largely uncharacterized. Here, we report the successful adaptation of the OpenCRISPR-1 system for targeted mutagenesis in soybean (Glycine max L.) and Nicotiana benthamiana. We constructed a plant-optimized binary vector (pBSE-OpenCRISPR-1) and validated its editing capability. In soybean (Glycine max), an Agrobacterium rhizogenes-mediated hairy root transformation assay targeting the GmFAD2-1B gene demonstrated that OpenCRISPR-1 actively induces site-specific mutations. In Nicotiana benthamiana, stable Agrobacterium-mediated transformation targeting the phytoene desaturase homologs (NbPDSa/b) achieved overall editing in 75% of T(0) transgenic lines (27/36). Analysis of individual homologs revealed editing rates of 66.7% (24/36) at both the NbPDSa and NbPDSb loci. Complete editing of the target locus occurred in 13.9% of events for NbPDSb and 2.8% for NbPDSa, including one event (2.8%) displaying simultaneous complete editing across all alleles resulting in a visible albino phenotype. Deep amplicon and Sanger sequencing revealed a characteristic mutation profile dominated by small insertions and deletions occurring two to three nucleotides upstream of the PAM. These results demonstrate that the AI-designed OpenCRISPR-1 system is a highly active and versatile nuclease for dicot genome engineering. By providing expanded freedom-to-operate, this tool broadens access to crop trait improvement worldwide.",
+    "keywords": [
+      "Glycine max",
+      "Nicotiana benthamiana",
+      "Generative AI",
+      "OpenCRISPR-1",
+      "Plant genome editing"
+    ],
+    "mesh_terms": [
+      "*Nicotiana/genetics/growth & development",
+      "*Glycine max/genetics/growth & development",
+      "*Gene Editing/methods",
+      "*Plants, Genetically Modified/genetics/growth & development",
+      "*CRISPR-Cas Systems/genetics",
+      "Agrobacterium/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nguyen, Cuong X",
+        "Do, Phat T",
+        "Tran, Thu Minh"
+      ],
+      "short_names": [
+        "Nguyen CX",
+        "Do PT",
+        "Tran TM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8580-5865"
+      ],
+      "affiliations": [
+        "Department of Plant Cell Biotechnology, Institute of Biology, Vietnam Academy of Science and Technology, Hanoi, Vietnam. cuongxnguyen2020@gmail.com.",
+        "Department of Plant Cell Biotechnology, Institute of Biology, Vietnam Academy of Science and Technology, Hanoi, Vietnam.",
+        "PlantgenSolutions, Hanoi, Ba Dinh, Vietnam."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nguyen, Cuong X",
+        "short_name": "Nguyen CX",
+        "identifiers": [
+          "0000-0002-8580-5865"
+        ],
+        "affiliations": [
+          "Department of Plant Cell Biotechnology, Institute of Biology, Vietnam Academy of Science and Technology, Hanoi, Vietnam. cuongxnguyen2020@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Do, Phat T",
+        "short_name": "Do PT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Cell Biotechnology, Institute of Biology, Vietnam Academy of Science and Technology, Hanoi, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Tran, Thu Minh",
+        "short_name": "Tran TM",
+        "identifiers": [],
+        "affiliations": [
+          "PlantgenSolutions, Hanoi, Ba Dinh, Vietnam."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Transgenic research"
+    ],
+    "journal_abbrev": [
+      "Transgenic Res"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 18:48",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43018681"
+    ],
+    "review": [
+      "43018681"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11248-026-00526-4",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

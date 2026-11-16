@@ -1,0 +1,159 @@
+{
+  "identity": {
+    "pmid": "43023035",
+    "doi": "10.21769/BioProtoc.5858",
+    "title": "Suspension-Based Intracellular Immunofluorescence Staining Coupled With Genome-Wide CRISPR-Cas9 Screening to Identify Regulators of O-GlcNAcylation."
+  },
+  "content": {
+    "abstract": "Protein O-GlcNAcylation is a dynamic and reversible post-translational modification that regulates diverse cellular processes, including transcription, signal transduction, metabolism, and cell fate determination. Systematic identification of genes that modulate global O-GlcNAc levels remains technically challenging at the genome scale. Here, we describe a pooled CRISPR-Cas9 screening protocol that combines the human genome-scale CRISPR knockout (GeCKO) v2 knockout library with intracellular immunofluorescence staining using the anti-O-GlcNAc antibody RL2 and fluorescence-activated cell sorting (FACS). In this workflow, HEK293T cells are transduced with the GeCKO v2 lentiviral library at a low multiplicity of infection to ensure predominantly single-sgRNA integration. Following puromycin selection, cells are fixed, permeabilized, and stained in suspension with RL2. The top 5% of cells with the highest intracellular RL2 fluorescence are collected as the RL2-high population, while a corresponding unsorted/input sample is retained as the reference for downstream sgRNA enrichment analysis. Genomic DNA is recovered from the RL2-high and unsorted/input samples, and integrated sgRNA cassettes are amplified through a two-step PCR and library-preparation workflow for Illumina sequencing. This protocol enables the identification of candidate genes whose knockout is associated with increased intracellular RL2 fluorescence. Key features * A genome-scale pooled CRISPR-Cas9 screening workflow using the human GeCKO v2 library in HEK293T cells. * A suspension-based intracellular RL2 immunofluorescence staining protocol optimized to minimize cell loss during fixation, permeabilization, and washing, thereby preserving sgRNA library representation for downstream sorting. * Isolation of the top 5% RL2-high population, with a corresponding unsorted/input sample retained as the reference for downstream sgRNA enrichment analysis. * -Fixed-cell genomic DNA recovery and sgRNA sequencing coupled with model-based analysis of genome-wide CRISPR/Cas9 knockout (MAGeCK) enable robust hit identification.",
+    "keywords": [
+      "Fluorescence-activated cell sorting (FACS)",
+      "GeCKO",
+      "Immunofluorescence",
+      "MAGeCK",
+      "Pooled CRISPR screen",
+      "Protein O-GlcNAcylation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Peiyu",
+        "Lei, Qin",
+        "Zhang, Na",
+        "Yu, Haibin",
+        "Chen, Fang",
+        "Yuan, Kai"
+      ],
+      "short_names": [
+        "Liu P",
+        "Lei Q",
+        "Zhang N",
+        "Yu H",
+        "Chen F",
+        "Yuan K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Cytology and Genetics, School of Basic Medical Sciences, Hengyang Medical School, University of South China, Hengyang, Hunan, China.",
+        "Center for Medical Genetics, School of Life Sciences, Central South University, Changsha, China.",
+        "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China.",
+        "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China.",
+        "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China.",
+        "Institute of Cytology and Genetics, School of Basic Medical Sciences, Hengyang Medical School, University of South China, Hengyang, Hunan, China.",
+        "Center for Medical Genetics, School of Life Sciences, Central South University, Changsha, China.",
+        "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China.",
+        "Furong Laboratory, Changsha, China.",
+        "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha, China.",
+        "The Biobank of Xiangya Hospital, Central South University, Changsha, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Peiyu",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Cytology and Genetics, School of Basic Medical Sciences, Hengyang Medical School, University of South China, Hengyang, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Lei, Qin",
+        "short_name": "Lei Q",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics, School of Life Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Na",
+        "short_name": "Zhang N",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Haibin",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Fang",
+        "short_name": "Chen F",
+        "identifiers": [],
+        "affiliations": [
+          "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Kai",
+        "short_name": "Yuan K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Cytology and Genetics, School of Basic Medical Sciences, Hengyang Medical School, University of South China, Hengyang, Hunan, China.",
+          "Center for Medical Genetics, School of Life Sciences, Central South University, Changsha, China.",
+          "Hunan Key Laboratory of Molecular Precision Medicine, Department of Oncology, Xiangya Hospital, Central South University, Changsha, China.",
+          "Furong Laboratory, Changsha, China.",
+          "National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha, China.",
+          "The Biobank of Xiangya Hospital, Central South University, Changsha, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bio-protocol"
+    ],
+    "journal_abbrev": [
+      "Bio Protoc"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 11:29",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43023035"
+    ],
+    "review": [
+      "43023035"
+    ],
+    "pmc": [
+      "13757136"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43023035/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://bio-protocol.org/e5858",
+        "provider": "Bio-Protocol, LLC",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

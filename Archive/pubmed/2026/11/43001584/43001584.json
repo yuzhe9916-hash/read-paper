@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "43001584",
+    "doi": "10.1172/jci.insight.203794",
+    "title": "Genomic, single-cell, and functional profiling of the CD48-CD244 axis and NK cell dysfunction in multiple myeloma."
+  },
+  "content": {
+    "abstract": "Multiple myeloma (MM) orchestrates immune evasion by subverting natural killer (NK) cell function. CD48, one of the most abundant NK ligands on MM cells, paradoxically enhances NK cell activation yet is associated with high-risk cytogenetics and poor patient survival. We integrated multiomics (bulk and single-cell RNA-seq, assay for transposase-accessible chromatin using sequencing [ATAC-seq], chromatin immunoprecipitation sequencing [ChIP-seq]), genome-wide CRISPR knockout/activation screens, and machine learning to dissect CD48 regulation and function. In human MM and Vkappa*MYC mouse scRNA-seq datasets, NK cells exhibit stepwise increases in inflammatory and exhaustion signatures and loss of cytotoxic potential as disease progresses. In vitro coculture assays show that CD48 overexpression on MM enhances NK cell cytokine secretion, whereas chronic exposure leads to ex vivo NK dysfunction. In vivo, CD48-overexpressing Vkappa*MYC tumors progress more slowly and extend host survival, while NK cell depletion accelerates disease. These findings support a context-dependent role for CD48, potentiating acute NK responses while coexisting with chronic NK exhaustion, and suggest strategies to modulate CD48 for therapeutic benefit.",
+    "keywords": [
+      "Cell biology",
+      "Hematology",
+      "Immunology",
+      "Machine learning",
+      "Molecular genetics",
+      "NK cells"
+    ],
+    "mesh_terms": [
+      "*Killer Cells, Natural/immunology/metabolism",
+      "*Multiple Myeloma/immunology/genetics/pathology",
+      "Animals",
+      "Humans",
+      "*Signaling Lymphocytic Activation Molecule Family/genetics/metabolism/immunology",
+      "Mice",
+      "*CD48 Antigen/genetics/metabolism/immunology",
+      "Lymphocyte Activation",
+      "Genomics",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Patino-Escobar, Bonell",
+        "Steinbrunn, Torsten",
+        "Perez-Lugo, Lucy",
+        "Rampersaud, Sham",
+        "Waller, Daniel D",
+        "Ordonez, Daniela",
+        "Geng, Huimin",
+        "Salangsang, Fernando",
+        "Phojanakong, Paul",
+        "Camara Serrano, Juan Antonio",
+        "Zeng, Yan",
+        "Steri, Veronica",
+        "Aguilar, Oscar A",
+        "Mitsiades, Constantine S",
+        "Wiita, Arun P"
+      ],
+      "short_names": [
+        "Patino-Escobar B",
+        "Steinbrunn T",
+        "Perez-Lugo L",
+        "Rampersaud S",
+        "Waller DD",
+        "Ordonez D",
+        "Geng H",
+        "Salangsang F",
+        "Phojanakong P",
+        "Camara Serrano JA",
+        "Zeng Y",
+        "Steri V",
+        "Aguilar OA",
+        "Mitsiades CS",
+        "Wiita AP"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+        "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA.",
+        "Department of Medicine II, University Hospital of Wurzburg, Wurzburg, Germany.",
+        "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA.",
+        "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+        "Department of Hematology-Oncology, Fundacion Valle de Lili, Cali, Colombia.",
+        "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+        "Pharmaceutical Sciences and Pharmacogenomics Graduate Program, UCSF, San Francisco, California, USA.",
+        "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+        "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+        "Biotechnology Program, Department of Engineering and Technology, City College of San Francisco, San Francisco, California, USA.",
+        "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+        "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center.",
+        "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center.",
+        "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center.",
+        "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center.",
+        "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center.",
+        "Department of Microbiology and Immunology, and.",
+        "Parker Institute for Cancer Immunotherapy, UCSF, San Francisco, California, USA.",
+        "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA.",
+        "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA.",
+        "Ludwig Center, Harvard Medical School, Boston, Massachusetts, USA.",
+        "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+        "Department of Bioengineering and Therapeutic Sciences and.",
+        "Helen Diller Family Comprehensive Cancer Center, UCSF, San Francisco, California, USA.",
+        "Chan Zuckerberg Biohub San Francisco, San Francisco, California, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Patiño-Escobar, Bonell",
+        "short_name": "Patiño-Escobar B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA."
+        ]
+      },
+      {
+        "full_name": "Steinbrunn, Torsten",
+        "short_name": "Steinbrunn T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA.",
+          "Department of Medicine II, University Hospital of Würzburg, Würzburg, Germany.",
+          "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts, USA.",
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Perez-Lugo, Lucy",
+        "short_name": "Perez-Lugo L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+          "Department of Hematology-Oncology, Fundación Valle de Lili, Cali, Colombia."
+        ]
+      },
+      {
+        "full_name": "Rampersaud, Sham",
+        "short_name": "Rampersaud S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+          "Pharmaceutical Sciences and Pharmacogenomics Graduate Program, UCSF, San Francisco, California, USA."
+        ]
+      },
+      {
+        "full_name": "Waller, Daniel D",
+        "short_name": "Waller DD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA."
+        ]
+      },
+      {
+        "full_name": "Ordoñez, Daniela",
+        "short_name": "Ordoñez D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+          "Biotechnology Program, Department of Engineering and Technology, City College of San Francisco, San Francisco, California, USA."
+        ]
+      },
+      {
+        "full_name": "Geng, Huimin",
+        "short_name": "Geng H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA."
+        ]
+      },
+      {
+        "full_name": "Salangsang, Fernando",
+        "short_name": "Salangsang F",
+        "identifiers": [],
+        "affiliations": [
+          "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center."
+        ]
+      },
+      {
+        "full_name": "Phojanakong, Paul",
+        "short_name": "Phojanakong P",
+        "identifiers": [],
+        "affiliations": [
+          "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center."
+        ]
+      },
+      {
+        "full_name": "Camara Serrano, Juan Antonio",
+        "short_name": "Camara Serrano JA",
+        "identifiers": [],
+        "affiliations": [
+          "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center."
+        ]
+      },
+      {
+        "full_name": "Zeng, Yan",
+        "short_name": "Zeng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center."
+        ]
+      },
+      {
+        "full_name": "Steri, Veronica",
+        "short_name": "Steri V",
+        "identifiers": [],
+        "affiliations": [
+          "Preclinical Therapeutics Core, Helen Diller Family Comprehensive Cancer Center."
+        ]
+      },
+      {
+        "full_name": "Aguilar, Oscar A",
+        "short_name": "Aguilar OA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, and.",
+          "Parker Institute for Cancer Immunotherapy, UCSF, San Francisco, California, USA."
+        ]
+      },
+      {
+        "full_name": "Mitsiades, Constantine S",
+        "short_name": "Mitsiades CS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA.",
+          "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, Massachusetts, USA.",
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts, USA.",
+          "Ludwig Center, Harvard Medical School, Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Wiita, Arun P",
+        "short_name": "Wiita AP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, University of California, San Francisco (UCSF), San Francisco, California, USA.",
+          "Department of Bioengineering and Therapeutic Sciences and.",
+          "Helen Diller Family Comprehensive Cancer Center, UCSF, San Francisco, California, USA.",
+          "Chan Zuckerberg Biohub San Francisco, San Francisco, California, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JCI insight"
+    ],
+    "journal_abbrev": [
+      "JCI Insight"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 11:43",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43001584"
+    ],
+    "review": [
+      "43001584"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1172/jci.insight.203794",
+        "provider": "American Society for Clinical Investigation",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/multiplemyeloma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Multiple Myeloma"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD48-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1199",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

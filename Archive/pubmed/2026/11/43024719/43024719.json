@@ -1,0 +1,364 @@
+{
+  "identity": {
+    "pmid": "43024719",
+    "doi": "10.1126/sciadv.aef2143",
+    "title": "Aneuploidy impairs B cell development but accelerates their MYC-driven transformation."
+  },
+  "content": {
+    "abstract": "Chromosomal instability (CIN) is an established driver of aneuploidy and cell death. Here, we investigate the role of apoptosis as a barrier against CIN-driven aneuploidy in B lymphocytes. We found that impairment of their spindle assembly checkpoint via deletion of Mitotic Arrest Deficient 2-Like 1 or mutation of Monopolar Spindle 1 kinase curtails B cell survival. A CRISPR screen identified intermediates of mitochondrial apoptosis as critical, which we confirmed in vivo by overexpression of a B cell-restricted BCL2 transgene, outperforming loss of P53. Notably, cell death inhibition by BCL2 was insufficient to cause aneuploidy-driven B cell transformation, while loss of P53 strongly synergized with tumors featuring stochastic aneuploidies. In contrast, high cell death rates rapidly select for specific karyotypes, facilitating aneuploid tumor cell survival in Emu-Myc transgenic mice. Hence, cell death inhibition fails to allow CIN-driven aneuploidies to prevail. In contrast, BCL2-regulated apoptosis selects viable aneuploid tumor karyotypes in the presence of oncogenic MYC, a notion with implications for the clinical use of BCL2-targeting therapies.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Aneuploidy",
+      "Animals",
+      "*Cell Transformation, Neoplastic/genetics/metabolism",
+      "*B-Lymphocytes/metabolism/pathology/cytology",
+      "Apoptosis/genetics",
+      "Mice",
+      "*Proto-Oncogene Proteins c-myc/genetics/metabolism",
+      "Proto-Oncogene Proteins c-bcl-2/genetics/metabolism",
+      "Tumor Suppressor Protein p53/genetics/metabolism",
+      "Mice, Transgenic",
+      "Chromosomal Instability"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Weiss, Johannes G",
+        "Petermann, Paul Y",
+        "Rigato, Irene",
+        "Lohmuller, Michael",
+        "Honold, Felix",
+        "Schapfl, Marina",
+        "Spock, Sarah",
+        "Kinz, Nadine",
+        "Tijhuis, Andrea E",
+        "Wardenaar, Rene",
+        "Losito, Marilu",
+        "Foijer, Floris",
+        "Rizotto, Dario",
+        "Schubert, Michael",
+        "Herzog, Sebastian",
+        "Riley, Joel S",
+        "Labi, Verena",
+        "Finotello, Francesca",
+        "Villunger, Andreas"
+      ],
+      "short_names": [
+        "Weiss JG",
+        "Petermann PY",
+        "Rigato I",
+        "Lohmuller M",
+        "Honold F",
+        "Schapfl M",
+        "Spock S",
+        "Kinz N",
+        "Tijhuis AE",
+        "Wardenaar R",
+        "Losito M",
+        "Foijer F",
+        "Rizotto D",
+        "Schubert M",
+        "Herzog S",
+        "Riley JS",
+        "Labi V",
+        "Finotello F",
+        "Villunger A"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-0718-8292",
+        "ORCID: 0009-0002-6942-9772",
+        "ORCID: 0009-0005-0754-8460",
+        "ORCID: 0000-0002-7712-3143",
+        "ORCID: 0009-0004-2682-4953",
+        "ORCID: 0000-0003-3764-9615",
+        "ORCID: 0009-0005-0956-0316",
+        "ORCID: 0009-0009-4500-2388",
+        "ORCID: 0000-0001-8150-3061",
+        "ORCID: 0000-0001-9891-1897",
+        "ORCID: 0000-0001-8097-5139",
+        "ORCID: 0000-0003-0989-3127",
+        "ORCID: 0000-0003-0106-7496",
+        "ORCID: 0000-0002-6862-5221",
+        "ORCID: 0000-0001-7167-3489",
+        "ORCID: 0000-0001-9170-5716",
+        "ORCID: 0000-0001-7538-1520",
+        "ORCID: 0000-0003-0712-4658",
+        "ORCID: 0000-0001-8259-4153"
+      ],
+      "affiliations": [
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Department of Paediatrics I, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Department of Molecular Biology, Digital Science Center (DiSC), University of Innsbruck, 6020 Innsbruck, Tyrol, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands.",
+        "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands.",
+        "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands.",
+        "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands.",
+        "CeMM Research Center for Molecular Medicine, Austrian Academy of Sciences, 1090 Vienna, Austria.",
+        "Institute for Bioinformatics, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "Department of Molecular Biology, Digital Science Center (DiSC), University of Innsbruck, 6020 Innsbruck, Tyrol, Austria.",
+        "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+        "CeMM Research Center for Molecular Medicine, Austrian Academy of Sciences, 1090 Vienna, Austria."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Weiss, Johannes G",
+        "short_name": "Weiss JG",
+        "identifiers": [
+          "0009-0008-0718-8292"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+          "Department of Paediatrics I, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Petermann, Paul Y",
+        "short_name": "Petermann PY",
+        "identifiers": [
+          "0009-0002-6942-9772"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Rigato, Irene",
+        "short_name": "Rigato I",
+        "identifiers": [
+          "0009-0005-0754-8460"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology, Digital Science Center (DiSC), University of Innsbruck, 6020 Innsbruck, Tyrol, Austria."
+        ]
+      },
+      {
+        "full_name": "Lohmüller, Michael",
+        "short_name": "Lohmüller M",
+        "identifiers": [
+          "0000-0002-7712-3143"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Honold, Felix",
+        "short_name": "Honold F",
+        "identifiers": [
+          "0009-0004-2682-4953"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Schapfl, Marina",
+        "short_name": "Schapfl M",
+        "identifiers": [
+          "0000-0003-3764-9615"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Spöck, Sarah",
+        "short_name": "Spöck S",
+        "identifiers": [
+          "0009-0005-0956-0316"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Kinz, Nadine",
+        "short_name": "Kinz N",
+        "identifiers": [
+          "0009-0009-4500-2388"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Tijhuis, Andréa E",
+        "short_name": "Tijhuis AE",
+        "identifiers": [
+          "0000-0001-8150-3061"
+        ],
+        "affiliations": [
+          "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Wardenaar, René",
+        "short_name": "Wardenaar R",
+        "identifiers": [
+          "0000-0001-9891-1897"
+        ],
+        "affiliations": [
+          "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Losito, Marilú",
+        "short_name": "Losito M",
+        "identifiers": [
+          "0000-0001-8097-5139"
+        ],
+        "affiliations": [
+          "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Foijer, Floris",
+        "short_name": "Foijer F",
+        "identifiers": [
+          "0000-0003-0989-3127"
+        ],
+        "affiliations": [
+          "European Research Institute for the Biology of Ageing, University of Groningen, University Medical Centre Groningen, A. Deusinglaan 1, Groningen 9713 AV, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Rizotto, Dario",
+        "short_name": "Rizotto D",
+        "identifiers": [
+          "0000-0003-0106-7496"
+        ],
+        "affiliations": [
+          "CeMM Research Center for Molecular Medicine, Austrian Academy of Sciences, 1090 Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Schubert, Michael",
+        "short_name": "Schubert M",
+        "identifiers": [
+          "0000-0002-6862-5221"
+        ],
+        "affiliations": [
+          "Institute for Bioinformatics, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Herzog, Sebastian",
+        "short_name": "Herzog S",
+        "identifiers": [
+          "0000-0001-7167-3489"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Riley, Joel S",
+        "short_name": "Riley JS",
+        "identifiers": [
+          "0000-0001-9170-5716"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Labi, Verena",
+        "short_name": "Labi V",
+        "identifiers": [
+          "0000-0001-7538-1520"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria."
+        ]
+      },
+      {
+        "full_name": "Finotello, Francesca",
+        "short_name": "Finotello F",
+        "identifiers": [
+          "0000-0003-0712-4658"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology, Digital Science Center (DiSC), University of Innsbruck, 6020 Innsbruck, Tyrol, Austria."
+        ]
+      },
+      {
+        "full_name": "Villunger, Andreas",
+        "short_name": "Villunger A",
+        "identifiers": [
+          "0000-0001-8259-4153"
+        ],
+        "affiliations": [
+          "Institute for Developmental Immunology, Biocenter, Medical University of Innsbruck, 6020 Innsbruck, Austria.",
+          "CeMM Research Center for Molecular Medicine, Austrian Academy of Sciences, 1090 Vienna, Austria."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 17:33",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43024719"
+    ],
+    "review": [
+      "43024719"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aef2143?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

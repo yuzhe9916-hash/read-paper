@@ -1,0 +1,160 @@
+{
+  "identity": {
+    "pmid": "43013401",
+    "doi": "10.1016/j.xpro.2026.104935",
+    "title": "CRISPR-based pipeline for generating and validating multi-kb deletions and indels in iPSCs."
+  },
+  "content": {
+    "abstract": "Here, we present a CRISPR-Cas9 protocol for generating both small indels and multi-kilobase deletions to enable genome editing in human induced pluripotent stem cells (iPSCs). We describe steps for a ribonucleoprotein (RNP)-based approach that integrates guide RNA selection, electroporation, and multi-tiered screening to accurately identify indels, deletions, inversions, and mixed genotypes. Human iPSCs provide a versatile genome editing platform due to their capacity for clonal expansion and differentiation. This protocol provides a scalable framework for genome editing and quality control. For complete details on the use and execution of this protocol, please refer to Hamerlinck et al.(1).",
+    "keywords": [
+      "CRISPR",
+      "Genetics",
+      "Sequencing",
+      "Stem Cells"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hamerlinck, Lisa",
+        "Perez Baca, Maria Del Rocio",
+        "Van Loon, Nore",
+        "Vantomme, Lies",
+        "Daal, Esperanza",
+        "Vaughan, Michael B",
+        "D'haene, Eva",
+        "Vergult, Sarah"
+      ],
+      "short_names": [
+        "Hamerlinck L",
+        "Perez Baca MDR",
+        "Van Loon N",
+        "Vantomme L",
+        "Daal E",
+        "Vaughan MB",
+        "D'haene E",
+        "Vergult S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium. Electronic address: lisa.hamerlinck@ugent.be.",
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium.",
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium; Department of Human Structure and Repair, Ghent University, 9000 Ghent, Belgium.",
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium.",
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium.",
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium.",
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium.",
+        "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium. Electronic address: sarah.vergult@ugent.be."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hamerlinck, Lisa",
+        "short_name": "Hamerlinck L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium. Electronic address: lisa.hamerlinck@ugent.be."
+        ]
+      },
+      {
+        "full_name": "Pérez Baca, María Del Rocío",
+        "short_name": "Pérez Baca MDR",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Van Loon, Nore",
+        "short_name": "Van Loon N",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium; Department of Human Structure and Repair, Ghent University, 9000 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Vantomme, Lies",
+        "short_name": "Vantomme L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Daal, Esperanza",
+        "short_name": "Daal E",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Vaughan, Michael B",
+        "short_name": "Vaughan MB",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "D'haene, Eva",
+        "short_name": "D'haene E",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Vergult, Sarah",
+        "short_name": "Vergult S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Medical Genetics Ghent, Ghent University Hospital, 9000 Ghent, Belgium; Department of Biomolecular Medicine, Ghent University, 9000 Ghent, Belgium. Electronic address: sarah.vergult@ugent.be."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 17:31",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43013401"
+    ],
+    "review": [
+      "43013401"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00588-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

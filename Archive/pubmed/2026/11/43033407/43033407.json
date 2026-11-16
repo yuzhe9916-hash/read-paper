@@ -1,0 +1,211 @@
+{
+  "identity": {
+    "pmid": "43033407",
+    "doi": "10.1002/dneu.70072",
+    "title": "Integrative Genomic and Stem Cell Frameworks for Variant-to-Function Discovery in Autism Spectrum Disorder: A Narrative Review."
+  },
+  "content": {
+    "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition shaped by de novo protein-truncating variants, inherited missense substitutions, recurrent copy number variations (CNVs), and distributed polygenic risk. These alterations converge on a limited set of neurobiological processes, including synaptic refinement, excitation-to-inhibition balance, chromatin state regulation, and glial-mediated neuroimmune signaling. Experimental paradigms now exist for systematic variant-to-function interrogation through CRISPR-engineered isogenic human pluripotent stem-cell libraries incorporating Cas9 nucleases, programmable transcriptional modulators (dCas9-KRAB and dCas9-VP64), base editors, and prime editing systems. Coupled with single-cell multi-omic platforms such as Perturb-seq, scATAC-seq, and CITE-seq, and with circuit-level phenotyping through multielectrode arrays, calcium imaging, and quantitative morphometry, these systems resolve ASD-relevant cellular states at single-cell and cell-type-specific resolution. In this narrative review, we distinguish deliberately between what these platforms have already established and what remains proposed. To date, a small number of studies constitute the demonstrated evidence base: in vivo Perturb-seq of 35 ASD/neurodevelopmental risk genes in mouse cortex, mosaic knockout of ASD genes in human cortical organoids, the CHOOSE organoid screen of 36 risk genes, assembloid CRISPR screening of 425 neurodevelopmental-disorder risk genes, a 63-line mouse embryonic stem-cell CNV resource, and a CRISPRi screen of 102 ASD risk genes in human induced pluripotent stem-cell (iPSC)-derived microglia implicating ADNP in synaptic pruning. We summarized these in a dedicated comparison table. Against this, integration of polygenic and noncoding architecture, causal-inference frameworks, such as Mendelian randomization and do-calculus, and cross-laboratory reproducibility, remain aspirational rather than realized. We therefore frame the field's principal near-term requirement not as further gene discovery but as harmonized protocols, shared reference lines, arrayed validation capacity, and interpretable statistical frameworks capable of converting perturbation atlases into causal mechanism.",
+    "keywords": [
+      "cross-laboratory reproducibility",
+      "isogenic allelic series",
+      "neural lineage specification",
+      "pooled perturbation screening",
+      "regulatory variant prioritization"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Autism Spectrum Disorder/genetics",
+      "Animals",
+      "*Genomics/methods",
+      "*Pluripotent Stem Cells"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Uddin, Jalal",
+        "Singh, Randhir",
+        "Nair, Chandralekha",
+        "Rahamathulla, Mohamed",
+        "Ahmed, Mohammed Muqtader",
+        "Nafiz, Iqbal Hossain",
+        "Merghani, Tarig Hakim",
+        "Alawad, Azza Osman",
+        "Dwivedi, Dyumn",
+        "Das, Uddalak"
+      ],
+      "short_names": [
+        "Uddin J",
+        "Singh R",
+        "Nair C",
+        "Rahamathulla M",
+        "Ahmed MM",
+        "Nafiz IH",
+        "Merghani TH",
+        "Alawad AO",
+        "Dwivedi D",
+        "Das U"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmaceutical Chemistry, College of Pharmacy, King Khalid University, Abha, Asir, Saudi Arabia.",
+        "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, India.",
+        "Centre for Multidisciplinary Research in Health Science (MACH), Universita degli Studi di Milano Statale, Milano, Italy.",
+        "Department of Pharmaceutics, College of Pharmacy, King Khalid University, Abha, Saudi Arabia.",
+        "Department of Pharmaceutics, College of Pharmacy, Prince Sattam Bin Abdulaziz University, Al-Kharj, Saudi Arabia.",
+        "Department of Chemical Engineering, Bangladesh University of Engineering & Technology, Dhaka, Bangladesh.",
+        "Department of Physiology, RAK Medical and Health Sciences University, Ras Al-Khaimah, UAE.",
+        "Department of Physiology, Faculty of Medicine, Al Neelain University, Khartoum, Sudan.",
+        "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, India.",
+        "Max Institute of Medical Excellence (MAX-MIME), Max Healthcare Institute Limited, New Delhi, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+        "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, India.",
+        "Developmental Biology and Genetics (DBG), Division of Biological Sciences, Indian Institute of Science (IISc), Bengaluru, Karnataka, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Uddin, Jalal",
+        "short_name": "Uddin J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, College of Pharmacy, King Khalid University, Abha, Asir, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Singh, Randhir",
+        "short_name": "Singh R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Nair, Chandralekha",
+        "short_name": "Nair C",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Multidisciplinary Research in Health Science (MACH), Università degli Studi di Milano Statale, Milano, Italy."
+        ]
+      },
+      {
+        "full_name": "Rahamathulla, Mohamed",
+        "short_name": "Rahamathulla M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutics, College of Pharmacy, King Khalid University, Abha, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Mohammed Muqtader",
+        "short_name": "Ahmed MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutics, College of Pharmacy, Prince Sattam Bin Abdulaziz University, Al-Kharj, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Nafiz, Iqbal Hossain",
+        "short_name": "Nafiz IH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, Bangladesh University of Engineering & Technology, Dhaka, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Merghani, Tarig Hakim",
+        "short_name": "Merghani TH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, RAK Medical and Health Sciences University, Ras Al-Khaimah, UAE."
+        ]
+      },
+      {
+        "full_name": "Alawad, Azza Osman",
+        "short_name": "Alawad AO",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Faculty of Medicine, Al Neelain University, Khartoum, Sudan."
+        ]
+      },
+      {
+        "full_name": "Dwivedi, Dyumn",
+        "short_name": "Dwivedi D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, India.",
+          "Max Institute of Medical Excellence (MAX-MIME), Max Healthcare Institute Limited, New Delhi, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India."
+        ]
+      },
+      {
+        "full_name": "Das, Uddalak",
+        "short_name": "Das U",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology (SBT), Jawaharlal Nehru University (JNU), New Delhi, India.",
+          "Developmental Biology and Genetics (DBG), Division of Biological Sciences, Indian Institute of Science (IISc), Bengaluru, Karnataka, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Developmental neurobiology"
+    ],
+    "journal_abbrev": [
+      "Dev Neurobiol"
+    ],
+    "pub_date": "2027 Jan",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/15 00:57",
+    "fetched_at": "2026-11-16 19:43:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43033407"
+    ],
+    "review": [
+      "43033407"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/autismspectrumdisorder.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Autism Spectrum Disorder"
+      },
+      {
+        "url": "https://doi.org/10.1002/dneu.70072",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/autismspectrumdisorder.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Autism Spectrum Disorder"
+      }
+    ],
+    "text_mined": []
+  }
+}

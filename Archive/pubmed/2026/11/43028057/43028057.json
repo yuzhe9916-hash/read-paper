@@ -1,0 +1,108 @@
+{
+  "identity": {
+    "pmid": "43028057",
+    "doi": "10.3390/ijms27219810",
+    "title": "Metadata-Driven Project-Level Analysis and Noise Modeling for Amplicon Sequencing Data Using CRISPResso2."
+  },
+  "content": {
+    "abstract": "Here we present a lightweight workflow designed to improve the robustness and scalability of high-throughput amplicon sequencing analysis while leveraging CRISPResso2. To handle large batch processing without sensitive runtime interruptions, our pipeline processes samples sequentially, allowing the analysis to resume from the last successfully completed sample if an error occurs. The workflow implements a fallback mechanism for failed runs, automated extraction and separate processing of control samples, and a background noise model derived from control libraries within defined editing windows. Validation using spike-in datasets across Cas9, base editing, and prime editing demonstrated that our noise-adjusted estimates deviated from the ground truth by only 0.1-0.6%, whereas native CRISPResso2 caused a 1.5-3.7% overestimation. Unlike existing tools such as CRISPECTOR, which focus primarily on CRISPR-Cas9, our approach supports multiple editing modalities and enables project-level organization of large datasets. Input complexity is reduced through configurable flags and modular metadata tables, minimizing manual parameter entry. Together, these features provide a flexible, fault-tolerant, and highly accurate framework for analyzing large genome editing datasets.",
+    "keywords": [
+      "CRISPResso2",
+      "deep targeted sequencing",
+      "gene editing",
+      "prime editing"
+    ],
+    "mesh_terms": [
+      "*High-Throughput Nucleotide Sequencing/methods",
+      "*CRISPR-Cas Systems",
+      "*Metadata",
+      "*Software",
+      "*Gene Editing/methods",
+      "Workflow"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Volodina, Olga",
+        "Smirnikhina, Svetlana"
+      ],
+      "short_names": [
+        "Volodina O",
+        "Smirnikhina S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Research Centre for Medical Genetics, Moscow 115522, Russia.",
+        "Research Centre for Medical Genetics, Moscow 115522, Russia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Volodina, Olga",
+        "short_name": "Volodina O",
+        "identifiers": [],
+        "affiliations": [
+          "Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      },
+      {
+        "full_name": "Smirnikhina, Svetlana",
+        "short_name": "Smirnikhina S",
+        "identifiers": [],
+        "affiliations": [
+          "Research Centre for Medical Genetics, Moscow 115522, Russia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-16 19:43:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43028057"
+    ],
+    "review": [
+      "43028057"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27219810",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43028057/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "identity": {
+    "pmid": "43032635",
+    "doi": "10.1016/j.isci.2026.118170",
+    "title": "Integrative analysis of pooled CRISPR screens provide functional insights into AD GWAS risk genes."
+  },
+  "content": {
+    "abstract": "Microglia pathways such as lipid transport and metabolism, phagocytosis, and lysosomal function are implicated Alzheimer's disease (AD) pathology, but the mechanisms underlying these pathways remain poorly understood. To map these pathways, custom CRISPR activation and interference (CRISPRa/i) libraries were constructed targeting 203 microglial and genome-wide association study (GWAS)-associated risk genes. Pooled CRISPRa/i screens in THP-1 cells identified core functional regulators of lipid metabolism and lysosomal function, a subset of which were validated in primary macrophages. We also captured transcriptomic changes caused by these genes by performing Perturb-seq in primary macrophages. Through non-negative matrix factorization, we identified five gene programs altered by our perturbation library. We then used an integrative analysis of functional screen data with Perturb-seq data that enabled us to uncover novel functions and genetic relationships between perturbations. This multidimensional resource links genetic perturbations to phenotypes and transcriptional programs, establishing a scalable framework for systematic gene discovery in neurodegeneration and beyond.",
+    "keywords": [
+      "Alzheimer's disease",
+      "CRISPR",
+      "CRISPR screen",
+      "CRISPRa",
+      "CRISPRi",
+      "functional genomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Rebecca Y",
+        "Wozniak, Glenn",
+        "Wang, Xiaoting",
+        "Mustafa, Meer",
+        "El-Khatib, Malak",
+        "Kahn, Elias",
+        "Heutink, Peter",
+        "Long, Hua",
+        "Kenkare-Mitra, Sara",
+        "Rosenthal, Arnon",
+        "Khan, Zia",
+        "Kuhn, Julia A",
+        "Gulbranson, Daniel R"
+      ],
+      "short_names": [
+        "Wang RY",
+        "Wozniak G",
+        "Wang X",
+        "Mustafa M",
+        "El-Khatib M",
+        "Kahn E",
+        "Heutink P",
+        "Long H",
+        "Kenkare-Mitra S",
+        "Rosenthal A",
+        "Khan Z",
+        "Kuhn JA",
+        "Gulbranson DR"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Amgen, Inc., 750 Gateway Blvd Ste 100, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alzheimer's Disease and Other Cognitive Disorders Research Group, FRCB-IDIBAPS, Centre Esther Koplowitz, Carrer del Rossello 149-153, 08036 Barcelona, Spain.",
+        "Faculty of Medicine and Health Sciences, University of Barcelona, Carrer de Casanova 143, 08036 Barcelona, Spain.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Institute of Neurogenetics, University of Lubeck, Ratzeburger Allee 160, 23562 Lubeck, Germany.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Stealth Startup Co, South San Francisco, CA, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+        "Xaira Therapeutics, Inc., 700 Gateway Blvd, South San Francisco, CA 94080, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Rebecca Y",
+        "short_name": "Wang RY",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Wozniak, Glenn",
+        "short_name": "Wozniak G",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaoting",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+          "Amgen, Inc., 750 Gateway Blvd Ste 100, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Mustafa, Meer",
+        "short_name": "Mustafa M",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "El-Khatib, Malak",
+        "short_name": "El-Khatib M",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Kahn, Elias",
+        "short_name": "Kahn E",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+          "Alzheimer's Disease and Other Cognitive Disorders Research Group, FRCB-IDIBAPS, Centre Esther Koplowitz, Carrer del Rosselló 149-153, 08036 Barcelona, Spain.",
+          "Faculty of Medicine and Health Sciences, University of Barcelona, Carrer de Casanova 143, 08036 Barcelona, Spain."
+        ]
+      },
+      {
+        "full_name": "Heutink, Peter",
+        "short_name": "Heutink P",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+          "Institute of Neurogenetics, University of Lübeck, Ratzeburger Allee 160, 23562 Lübeck, Germany."
+        ]
+      },
+      {
+        "full_name": "Long, Hua",
+        "short_name": "Long H",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Kenkare-Mitra, Sara",
+        "short_name": "Kenkare-Mitra S",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+          "Stealth Startup Co, South San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Rosenthal, Arnon",
+        "short_name": "Rosenthal A",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Khan, Zia",
+        "short_name": "Khan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Kuhn, Julia A",
+        "short_name": "Kuhn JA",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA."
+        ]
+      },
+      {
+        "full_name": "Gulbranson, Daniel R",
+        "short_name": "Gulbranson DR",
+        "identifiers": [],
+        "affiliations": [
+          "Alector, Inc., 131 Oyster Point Blvd, South San Francisco, CA 94080, USA.",
+          "Xaira Therapeutics, Inc., 700 Gateway Blvd, South San Francisco, CA 94080, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "iScience"
+    ],
+    "journal_abbrev": [
+      "iScience"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/15 00:57",
+    "fetched_at": "2026-11-16 19:43:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43032635"
+    ],
+    "review": [
+      "43032635"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(26)03553-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

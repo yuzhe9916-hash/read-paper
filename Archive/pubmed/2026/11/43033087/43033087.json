@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "43033087",
+    "doi": "10.1021/acssensors.6c03688",
+    "title": "CRISPR-AsCas12a with crRNA-Free Collateral Cleavage Activity for Electrochemical Diagnosis of HER2-Positive Breast Cancer."
+  },
+  "content": {
+    "abstract": "The CRISPR-Cas12a system has revolutionized molecular diagnostics; however, the strict requirement of crRNAs and target DNA for collateral cleavage activation restricts its flexibility in non-nucleic acid diagnostics. Herein, we demonstrate that AsCas12a exhibits an RNA-free collateral cleavage activity with the presence of manganese ions (Mn2+), which preferentially cleaves single-stranded DNA efficiently. Mechanistically, kinetic analyses reveal that AsCas12a exhibits a significantly higher binding affinity for Mn2+ than for magnesium ion (Mg2+), while molecular dynamics simulations suggest that Mn2+ coordination induces conformational changes to expose the RuvC endonuclease domain. Harnessing this unique property, an enzymatic cascade-amplified electrochemical biosensor integrating manganese nanoflowers is reported for the diagnosis of human epidermal growth factor receptor 2 (HER2)-positive breast cancer. By equipping screen-printed gold electrodes with DNA reporters, this diagnostic tool enables high-precision HER2 quantification and successfully distinguishes various HER2-related cell lines. Furthermore, the biosensor has been extended to analyze HER2-positive exosomes, facilitating the dynamic tracking of serum exosome levels in tumor-bearing nude mice to evaluate therapeutic efficacy and accurately distinguish HER2-positive breast cancer patients in clinical samples. This RNA-free Cas12a system may provide new insights into CRISPR-based non-nucleic acid detection, emerging as a powerful tool for dynamic tumor monitoring and precision oncology.",
+    "keywords": [
+      "CRISPR-AsCas12a",
+      "breast cancer diagnostics",
+      "collateral cleavage Activity",
+      "electrochemical biosensor",
+      "non-nucleic acid detection"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Shuai",
+        "Xu, Jialin",
+        "Sun, Yanting",
+        "Zeng, Tianyu",
+        "Li, Zeying",
+        "Zhou, Tianci",
+        "Deng, Ying",
+        "Ye, Chang",
+        "Li, Genxi",
+        "Yin, Yongmei"
+      ],
+      "short_names": [
+        "Wu S",
+        "Xu J",
+        "Sun Y",
+        "Zeng T",
+        "Li Z",
+        "Zhou T",
+        "Deng Y",
+        "Ye C",
+        "Li G",
+        "Yin Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6422-1599",
+        "ORCID: 0000-0001-9663-9914",
+        "ORCID: 0000-0003-3335-369X"
+      ],
+      "affiliations": [
+        "Clinical Medicine Research Institute, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China.",
+        "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China.",
+        "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China.",
+        "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China.",
+        "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China.",
+        "State Key Laboratory of Analytical Chemistry for Life Science, School of Life Sciences, Nanjing University, Nanjing210023, P. R. China.",
+        "State Key Laboratory of Analytical Chemistry for Life Science, School of Life Sciences, Nanjing University, Nanjing210023, P. R. China.",
+        "Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing210008, China.",
+        "State Key Laboratory of Analytical Chemistry for Life Science, School of Life Sciences, Nanjing University, Nanjing210023, P. R. China.",
+        "Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, Shanghai200444, P. R. China.",
+        "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Shuai",
+        "short_name": "Wu S",
+        "identifiers": [
+          "0000-0001-6422-1599"
+        ],
+        "affiliations": [
+          "Clinical Medicine Research Institute, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jialin",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yanting",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Tianyu",
+        "short_name": "Zeng T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Zeying",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Tianci",
+        "short_name": "Zhou T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Analytical Chemistry for Life Science, School of Life Sciences, Nanjing University, Nanjing210023, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Deng, Ying",
+        "short_name": "Deng Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Analytical Chemistry for Life Science, School of Life Sciences, Nanjing University, Nanjing210023, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Ye, Chang",
+        "short_name": "Ye C",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing210008, China."
+        ]
+      },
+      {
+        "full_name": "Li, Genxi",
+        "short_name": "Li G",
+        "identifiers": [
+          "0000-0001-9663-9914"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Analytical Chemistry for Life Science, School of Life Sciences, Nanjing University, Nanjing210023, P. R. China.",
+          "Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, Shanghai200444, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yin, Yongmei",
+        "short_name": "Yin Y",
+        "identifiers": [
+          "0000-0003-3335-369X"
+        ],
+        "affiliations": [
+          "Department of Oncology, The First Affiliated Hospital with Nanjing Medical University, Nanjing210029, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Nov 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/15 00:57",
+    "fetched_at": "2026-11-16 19:43:08"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43033087"
+    ],
+    "review": [
+      "43033087"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-12",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-192",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c03688",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

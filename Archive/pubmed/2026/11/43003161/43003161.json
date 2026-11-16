@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "43003161",
+    "doi": "10.1016/j.phrs.2026.109750",
+    "title": "Title: Topoisomerase I Inhibition Serves as a Tumor Vaccine by Inducing the ERVs-dsRNA-Interferon Pathway."
+  },
+  "content": {
+    "abstract": "Double-stranded RNA (dsRNA) can activate potent anti-tumor immunity, but its clinical translation remains challenging. We sought to identify clinically applicable strategies to induce endogenous dsRNA and enhance anti-tumor immune responses. Here, we integrated genome-wide CRISPR-Cas9 screening data with the Therapeutic Target Database (TTD) and identified Topoisomerase I (TOP1) as a potential inducer of dsRNA. Mechanistically, we found that TOP1 was associated with suppression of endogenous retroviruses (ERVs) in an enzyme activity-dependent manner, and this was accompanied by \"viral mimicry\" through the induction of dsRNA. Pharmacological inhibition of TOP1 using Irinotecan (CPT-11) triggered dsRNA accumulation across cancer models, including patient-derived organoids (PDOs), activating the RIG-I/MDA5-MAVS pathway and antiviral interferon responses (Type I/III IFNs, ISGs). scRNA-seq revealed that CPT-11 remodeled the tumor microenvironment, promoting infiltration of dendritic cells (DCs), macrophages, and T cells. Combining CPT-11 with PD-1 blockade in \"cold\" tumors dramatically improved survival. CPT-11 also generated a potent in situ vaccine effect, establishing immunological memory that prevented tumor rechallenge. Moreover, tumor cells pretreated with CPT-11 in vitro were also able to exert a vaccine-like effect, inhibiting the growth of subsequently inoculated tumors. Collectively, our findings support the repurposing of TOP1 inhibitors such as CPT-11 to harness dsRNA-mediated immune activation for more effective cancer therapy.",
+    "keywords": [
+      "CRISPR-Cas9 screen",
+      "ERVs-dsRNA-IFN pathway",
+      "Irinotecan",
+      "TOP1",
+      "Tumor in situ vaccine"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Yanting",
+        "Ren, Yiming",
+        "Jing, Dongquan",
+        "Gao, Rui",
+        "Tian, Siyu",
+        "Liu, Yingming",
+        "Jiang, Xingyu",
+        "Zhao, Qixiang",
+        "Gao, Zhenhua",
+        "Zhu, Yu",
+        "Cai, Jian",
+        "Xiao, Pingting",
+        "Yang, Yong",
+        "Cao, Qiuhua",
+        "Gao, Xinghua"
+      ],
+      "short_names": [
+        "Lin Y",
+        "Ren Y",
+        "Jing D",
+        "Gao R",
+        "Tian S",
+        "Liu Y",
+        "Jiang X",
+        "Zhao Q",
+        "Gao Z",
+        "Zhu Y",
+        "Cai J",
+        "Xiao P",
+        "Yang Y",
+        "Cao Q",
+        "Gao X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "Shandong University.",
+        "Accurate International Biotechnology Limited Company Author Institution is Unverified.",
+        "Shandong University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "China Pharmaceutical University.",
+        "Nanjing, CHINA. Electronic address: gaoxinghua@cpu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Yanting",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Ren, Yiming",
+        "short_name": "Ren Y",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Jing, Dongquan",
+        "short_name": "Jing D",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Gao, Rui",
+        "short_name": "Gao R",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Tian, Siyu",
+        "short_name": "Tian S",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Liu, Yingming",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xingyu",
+        "short_name": "Jiang X",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Zhao, Qixiang",
+        "short_name": "Zhao Q",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Gao, Zhenhua",
+        "short_name": "Gao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong University."
+        ]
+      },
+      {
+        "full_name": "Zhu, Yu",
+        "short_name": "Zhu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Accurate International Biotechnology Limited Company Author Institution is Unverified."
+        ]
+      },
+      {
+        "full_name": "Cai, Jian",
+        "short_name": "Cai J",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong University."
+        ]
+      },
+      {
+        "full_name": "Xiao, Pingting",
+        "short_name": "Xiao P",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Yang, Yong",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Cao, Qiuhua",
+        "short_name": "Cao Q",
+        "identifiers": [],
+        "affiliations": [
+          "China Pharmaceutical University."
+        ]
+      },
+      {
+        "full_name": "Gao, Xinghua",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing, CHINA. Electronic address: gaoxinghua@cpu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmacological research"
+    ],
+    "journal_abbrev": [
+      "Pharmacol Res"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 23:27",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43003161"
+    ],
+    "review": [
+      "43003161"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1043-6618(26)01665-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERCC2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-977",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

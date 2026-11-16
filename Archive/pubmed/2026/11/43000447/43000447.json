@@ -1,0 +1,205 @@
+{
+  "identity": {
+    "pmid": "43000447",
+    "doi": "10.1186/s13059-026-04241-5",
+    "title": "Reconstruction of PAM-interacting domains to broad PAM compatibility."
+  },
+  "content": {
+    "abstract": "The protospacer adjacent motif (PAM) requirement limits CRISPR-Cas9 targetability. Here, we develop REPAM, an ancestral sequence reconstruction-based strategy that re-engineers PAM-interacting domains to expand PAM recognition. REPAM broadens the PAM specificities of Nme1Cas9 and Nme2Cas9 from N4GATT/N4CC to N4CNH, while additional mutations further extend Nme2Cas9 recognition to N4VHH. Applied to SpaCas9, REPAM expands PAM compatibility from NNGYRA to NNHH, increasing theoretical target coverage by approximately 36-fold. The engineered SpaCas9 achieves up to 76.6% editing efficiency in HEK293T cells, outperforming SpRY. Corresponding base editors efficiently generate protective variants and precise splice-site mutations, highlighting REPAM as a versatile platform for CRISPR engineering.",
+    "keywords": [
+      "Ancestral sequence reconstruction",
+      "CRISPR-Cas9",
+      "Genome editing",
+      "PAM specificity"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*CRISPR-Cas Systems",
+      "HEK293 Cells",
+      "*Gene Editing/methods",
+      "Mutation",
+      "*Nucleotide Motifs"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Niu, Wenchao",
+        "Qian, Yuqiang",
+        "Wang, Di",
+        "Hao, Yang",
+        "Yu, Hongliang",
+        "Gao, Xun",
+        "Zheng, Wei",
+        "He, Guobin",
+        "Lai, Liangxue",
+        "Li, Zhanjun"
+      ],
+      "short_names": [
+        "Niu W",
+        "Qian Y",
+        "Wang D",
+        "Hao Y",
+        "Yu H",
+        "Gao X",
+        "Zheng W",
+        "He G",
+        "Lai L",
+        "Li Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China. lai_liangxue@gibh.ac.cn.",
+        "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China. lizj_1998@jlu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Niu, Wenchao",
+        "short_name": "Niu W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Yuqiang",
+        "short_name": "Qian Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Di",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Yang",
+        "short_name": "Hao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Hongliang",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xun",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Wei",
+        "short_name": "Zheng W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "He, Guobin",
+        "short_name": "He G",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China."
+        ]
+      },
+      {
+        "full_name": "Lai, Liangxue",
+        "short_name": "Lai L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China. lai_liangxue@gibh.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Zhanjun",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering, College of Animal Science, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, The First Hospital of Jilin University, Changchun, 130062, China. lizj_1998@jlu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome biology"
+    ],
+    "journal_abbrev": [
+      "Genome Biol"
+    ],
+    "pub_date": "2026 Aug 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 11:02",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43000447"
+    ],
+    "review": [
+      "43000447"
+    ],
+    "pmc": [
+      "13746480"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-026-04241-5",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43000447/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

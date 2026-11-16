@@ -1,0 +1,142 @@
+{
+  "identity": {
+    "pmid": "43010907",
+    "doi": "10.3389/fbioe.2026.1986098",
+    "title": "CRISPR-enabled biosensing of cancer-associated DNA methylation in cell-free DNA: molecular architectures, molecular sampling constraints, and translational biosensor engineering."
+  },
+  "content": {
+    "abstract": "DNA methylation in circulating cell-free DNA (cfDNA) provides cancer-associated and tissue-of-origin information complementary to mutation-based liquid biopsy. Clustered regularly interspaced short palindromic repeats (CRISPR)-based sensing is challenging because 5-methylcytosine (5 mC) generally preserves Watson-Crick base pairing and is not inherently resolved by sequence-programmed CRISPR-associated (Cas) proteins. This targeted narrative review examines how methylated and unmethylated molecules are distinguished and converted into Cas-readable outputs under fragmented, low-input cfDNA conditions. We organize the literature into four discrimination routes comprising sequence conversion, enzymatic gating, affinity-assisted recognition, and native-state Cas modulation. Engineered molecular transduction is considered separately as a downstream enabling layer. We compare readouts in terms of quantitative fidelity and integration requirements. Sequence-conversion and enzymatic-gating systems have the broadest analytical evidence among the identified studies, largely from in vitro experiments. Direct affinity-assisted 5 mC-to-Cas sensing remains sparsely studied, and evidence for native-state sensing in patient-derived cfDNA is limited to exploratory observational comparisons. No native-state Cas methylation assay identified in this review has established clinically usable diagnostic performance. Reported analytical limits of detection and methylation-fraction discrimination cannot be extrapolated to clinical sensitivity without accounting for input, recovery, fragmentation, background, and decision thresholds. Translation requires validated biomarkers, fragment-matched calibration, orthogonal reference testing, reproducible device integration, and independent evaluation of locked assays in intended-use populations.",
+    "keywords": [
+      "CRISPR biosensors",
+      "DNA methylation",
+      "bioelectronics",
+      "cancer diagnostics",
+      "cell-free DNA",
+      "liquid biopsy",
+      "molecular residual disease",
+      "point-of-care diagnostics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Luo, Hongzhi",
+        "Huang, Xiaoxue",
+        "Yu, Qiujie",
+        "Li, Qianyi",
+        "Zha, He"
+      ],
+      "short_names": [
+        "Luo H",
+        "Huang X",
+        "Yu Q",
+        "Li Q",
+        "Zha H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "West China Hospital Sichuan University Jintang Hospital, Jintang First People's Hospital, Chengdu, China.",
+        "Department of Laboratory Medicine, The Third Affiliated Hospital of Zunyi Medical University (The First People's Hospital of Zunyi), Zunyi, Guizhou, China.",
+        "The Second Affiliated Hospital of Guizhou, University of Traditional Chinese Medicine, Guiyang, China.",
+        "Public Health Clinical Center of Chengdu, Chengdu, China.",
+        "Department of Laboratory Medicine, The Third Affiliated Hospital of Zunyi Medical University (The First People's Hospital of Zunyi), Zunyi, Guizhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Luo, Hongzhi",
+        "short_name": "Luo H",
+        "identifiers": [],
+        "affiliations": [
+          "West China Hospital Sichuan University Jintang Hospital, Jintang First People's Hospital, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiaoxue",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The Third Affiliated Hospital of Zunyi Medical University (The First People's Hospital of Zunyi), Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qiujie",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "The Second Affiliated Hospital of Guizhou, University of Traditional Chinese Medicine, Guiyang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qianyi",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Public Health Clinical Center of Chengdu, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Zha, He",
+        "short_name": "Zha H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, The Third Affiliated Hospital of Zunyi Medical University (The First People's Hospital of Zunyi), Zunyi, Guizhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioengineering and biotechnology"
+    ],
+    "journal_abbrev": [
+      "Front Bioeng Biotechnol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:37",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43010907"
+    ],
+    "review": [
+      "43010907"
+    ],
+    "pmc": [
+      "13747777"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43010907/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fbioe.2026.1986098",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

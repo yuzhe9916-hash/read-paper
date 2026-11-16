@@ -1,0 +1,211 @@
+{
+  "identity": {
+    "pmid": "43013067",
+    "doi": "10.1021/jacs.6c14840",
+    "title": "Tumor-Specific Gene Editing Enhances Cancer Immunogenicity through Succinate Metabolism-Mediated MHC-I Reprogramming."
+  },
+  "content": {
+    "abstract": "Impaired expression of major histocompatibility complex class I (MHC-I) greatly compromises cytotoxic T-cell-mediated anticancer immunotherapy. Existing MHC-I activation strategies are greatly challenged by poor tumor specificity and off-target toxicity. Herein, we report a dual tumor-specific CRISPR/Cas9 gene editing system that can precisely knock out succinate dehydrogenase subunit C (Sdhc) to activate the MHC-I pathway via epigenetic and transcriptional regulation. A tumor-specific gene editor is first engineered via reversible shielding of sgRNA using an apurinic/apyrimidinic endonuclease 1 (APE1)-responsive, complementary ssDNA, yielding AP-sgRNA with blocked editing activity in normal cells yet completely restored activity in APE1-overexpressing tumor cells. Subsequently, tumor-targeted delivery of AP-sgRNA and Cas9 mRNA (mCas9) is achieved using dibenzocyclooctyne-decorated lipid nanoparticle (DLNP), which upon bioorthogonal click reaction can anchor cancer cells that are prelabeled with azido groups using the unnatural sugar DCL-AAM. Thus, AP-sgSdhc/mCas9@DLNP enables efficient and selective Sdhc editing in tumor cells, leading to epigenetic and transcriptional activation of MHC-antigen processing and presentation genes and thereby provoking robust antitumor efficacy in the B16-OVA melanoma model through enhanced, T cell-mediated immune responses. Moreover, it completely suppressed pulmonary metastasis after combination with aPD-L1 in the 4T1 lung metastasis model. This study provides an enlightened paradigm for precision gene editing and renders a promising mechanism for potentiating cancer immunotherapy.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Mice",
+      "Humans",
+      "*Gene Editing",
+      "*Succinic Acid/metabolism",
+      "CRISPR-Cas Systems",
+      "*Histocompatibility Antigens Class I/immunology/genetics/metabolism",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, He",
+        "Zhang, Haoyu",
+        "Zhao, Ziyin",
+        "Ren, Yuxuan",
+        "Xu, Yanhan",
+        "Cai, Kaimin",
+        "Cheng, Jianjun",
+        "Liu, Xun",
+        "Chen, Yongbing",
+        "Yin, Lichen"
+      ],
+      "short_names": [
+        "Yang H",
+        "Zhang H",
+        "Zhao Z",
+        "Ren Y",
+        "Xu Y",
+        "Cai K",
+        "Cheng J",
+        "Liu X",
+        "Chen Y",
+        "Yin L"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2561-9291",
+        "ORCID: 0000-0002-4573-0555"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China.",
+        "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China.",
+        "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China.",
+        "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China.",
+        "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China.",
+        "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China.",
+        "Surio Therapeutics Co., LTD., Hangzhou310024, China.",
+        "Surio Therapeutics Co., LTD., Hangzhou310024, China.",
+        "School of Engineering, Westlake University, Hangzhou310024, China.",
+        "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China.",
+        "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China.",
+        "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, He",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China.",
+          "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Haoyu",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Ziyin",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Yuxuan",
+        "short_name": "Ren Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yanhan",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Kaimin",
+        "short_name": "Cai K",
+        "identifiers": [],
+        "affiliations": [
+          "Surio Therapeutics Co., LTD., Hangzhou310024, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Jianjun",
+        "short_name": "Cheng J",
+        "identifiers": [
+          "0000-0003-2561-9291"
+        ],
+        "affiliations": [
+          "Surio Therapeutics Co., LTD., Hangzhou310024, China.",
+          "School of Engineering, Westlake University, Hangzhou310024, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xun",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yongbing",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou215004, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Lichen",
+        "short_name": "Yin L",
+        "identifiers": [
+          "0000-0002-4573-0555"
+        ],
+        "affiliations": [
+          "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory of Advanced Healthcare Materials and Devices, Soochow University, Suzhou215123, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Nov 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 17:31",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43013067"
+    ],
+    "review": [
+      "43013067"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-APEX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-23",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jacsat/article-lookup/doi/10.1021/jacs.6c14840",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

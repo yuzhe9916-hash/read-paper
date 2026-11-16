@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "43020790",
+    "doi": "10.1038/s41467-026-78817-x",
+    "title": "Structural basis for loop-dependent inhibition by AcrIIC1 anti-CRISPR proteins."
+  },
+  "content": {
+    "abstract": "Most characterized anti-CRISPR proteins act via well-defined core inhibitory mechanisms, yet how auxiliary structural elements modulate and potentiate these canonical processes remains poorly understood. Here, we show that AcrIIC1(Boe) represses Nme1Cas9 activity through an integrated, loop-coupled regulatory mode. Based on canonical occlusion of the HNH catalytic site, the extended loop of AcrIIC1(Boe) provides an additional coupled regulatory layer to remodel sgRNA spacer arrangement and R-loop progression, thereby enhancing Cas9 inhibition. Loop deletion largely abrogates robust inhibition, indicating that this loop module is indispensable for full AcrIIC1 inhibitory potency. Consistently, transplantation of this functional loop into the weakly active AcrIIC1(Nme1) efficiently elevates its inhibitory performance. Our findings identify a loop-mediated regulatory strategy that potentiates the canonical HNH occlusion mechanism, clarify the structural basis for functional divergence across AcrIIC1 homologs, and offer a modular engineering principle for the rational design and optimization of anti-CRISPR proteins with enhanced potency.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems",
+      "RNA, Guide, CRISPR-Cas Systems/genetics/metabolism",
+      "*CRISPR-Associated Protein 9/metabolism/genetics/chemistry",
+      "Humans",
+      "Catalytic Domain",
+      "*Bacterial Proteins/metabolism/genetics/chemistry",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Shen",
+        "Zhang, Zhiyu",
+        "Luan, Chenyu",
+        "Zhu, Cheng",
+        "Liu, Chang",
+        "Li, Wenling",
+        "Wang, Qianfan",
+        "Liu, Xiaoqian",
+        "Yang, Haitao",
+        "Xiao, Yunjie",
+        "Wang, Zefang"
+      ],
+      "short_names": [
+        "Wang S",
+        "Zhang Z",
+        "Luan C",
+        "Zhu C",
+        "Liu C",
+        "Li W",
+        "Wang Q",
+        "Liu X",
+        "Yang H",
+        "Xiao Y",
+        "Wang Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5113-9067",
+        "ORCID: 0000-0003-0260-6287",
+        "ORCID: 0000-0002-1875-3268",
+        "ORCID: 0000-0002-0852-6483"
+      ],
+      "affiliations": [
+        "School of Life Sciences, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China.",
+        "School of Life Sciences, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China.",
+        "School of Pharmaceutical Science and Technology, Tianjin University, Tianjin, China.",
+        "School of Life Sciences, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China.",
+        "School of Life Sciences, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China.",
+        "School of Life Sciences, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China.",
+        "School of Life Sciences, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China.",
+        "School of Life Sciences, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China.",
+        "School of Life Sciences, Tianjin University, Tianjin, China. yanght@shanghaitech.edu.cn.",
+        "Shanghai Institute for Advanced Immunochemical Studies and School of Life Science and Technology, Shanghai Tech University, Shanghai, China. yanght@shanghaitech.edu.cn.",
+        "Guangzhou National Laboratory, Guangzhou, China. yanght@shanghaitech.edu.cn.",
+        "School of Life Sciences, Tianjin University, Tianjin, China. yunjiexiao2016@tju.edu.cn.",
+        "School of Life Sciences, Tianjin University, Tianjin, China. zefangwang@tju.edu.cn.",
+        "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China. zefangwang@tju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Shen",
+        "short_name": "Wang S",
+        "identifiers": [
+          "0000-0002-5113-9067"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhiyu",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Luan, Chenyu",
+        "short_name": "Luan C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmaceutical Science and Technology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Cheng",
+        "short_name": "Zhu C",
+        "identifiers": [
+          "0000-0003-0260-6287"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chang",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wenling",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qianfan",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaoqian",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Haitao",
+        "short_name": "Yang H",
+        "identifiers": [
+          "0000-0002-1875-3268"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China. yanght@shanghaitech.edu.cn.",
+          "Shanghai Institute for Advanced Immunochemical Studies and School of Life Science and Technology, Shanghai Tech University, Shanghai, China. yanght@shanghaitech.edu.cn.",
+          "Guangzhou National Laboratory, Guangzhou, China. yanght@shanghaitech.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xiao, Yunjie",
+        "short_name": "Xiao Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China. yunjiexiao2016@tju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Zefang",
+        "short_name": "Wang Z",
+        "identifiers": [
+          "0000-0002-0852-6483"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Tianjin University, Tianjin, China. zefangwang@tju.edu.cn.",
+          "State Key Laboratory of Synthetic Biology, Tianjin University, Tianjin, China. zefangwang@tju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 05:35",
+    "fetched_at": "2026-11-16 19:44:33"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43020790"
+    ],
+    "review": [
+      "43020790"
+    ],
+    "pmc": [
+      "13759514"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78817-x",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43020790/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-NME1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

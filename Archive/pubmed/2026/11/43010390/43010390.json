@@ -1,0 +1,181 @@
+{
+  "identity": {
+    "pmid": "43010390",
+    "doi": "10.1021/acs.analchem.6c03699",
+    "title": "PAM-Free Programmable Enzymatic Cascade Design Enabling Highly Sensitive CRISPR/Cas12a Lateral Flow Assay for Foodborne Pathogen Detection."
+  },
+  "content": {
+    "abstract": "CRISPR/Cas12a-assisted nucleic acid assays have shown great potential for rapid pathogen detection. However, their implementation in lateral flow assays remains constrained by strict protospacer adjacent motif (PAM) requirements and low-contrast, signal-off readouts. To effectively address these limitations, we present a new PAM-free programmable enzymatic cascade-enabled CRISPR/Cas12a lateral flow assay (PAEC-LFA) for highly sensitive foodborne pathogen detection. In this strategy, target amplification products are enzymatically digested to generate programmable single-stranded DNA activators, enabling PAM-independent Cas12a activation and flexible target recognition. Upon activation, Cas12a exhibits efficient trans-cleavage activity, which subsequently triggers terminal deoxynucleotidyl transferase (TdT)-mediated extension, forming an enzymatic cascade that amplifies signal output and generates a high-contrast signal-on readout on lateral flow assays. Integrating RPA and enzymatic digestion with PAM-free Cas12a-TdT signal amplification into two sequential one-pot modules simplifies the workflow, minimizes contamination risk, and maintains effective amplification performance. Under optimized conditions, PAEC-LFA achieved detection limits of 1.05 CFU/mL for Salmonella and Staphylococcus aureus, and 3.13 CFU/mL for Pseudomonas aeruginosa. Visual detection limits in spiked food samples reached 10 CFU/mL for all three pathogens. This work establishes a generalizable PAM-free enzymatic cascade framework for highly sensitive CRISPR/Cas12a lateral flow assays, advancing practical pathogen detection in food safety applications.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "PAM-free",
+      "enzymatic cascade",
+      "lateral flow assay",
+      "pathogen"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "*Food Microbiology",
+      "*CRISPR-Associated Proteins/metabolism",
+      "*Bacterial Proteins/metabolism",
+      "Rapid Diagnostic Tests",
+      "*Endodeoxyribonucleases/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Qi",
+        "Chen, Zhaoran",
+        "Peng, Yubo",
+        "Wang, Hang",
+        "Xu, Haoyang",
+        "Yao, Bangben",
+        "Fatima, Noor",
+        "Chen, Wei"
+      ],
+      "short_names": [
+        "Chen Q",
+        "Chen Z",
+        "Peng Y",
+        "Wang H",
+        "Xu H",
+        "Yao B",
+        "Fatima N",
+        "Chen W"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3763-1183"
+      ],
+      "affiliations": [
+        "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China.",
+        "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China.",
+        "Anhui Province Institute of Product Quality Supervision & Inspection, Hefei230051, P. R. China.",
+        "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China.",
+        "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China.",
+        "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China.",
+        "Anhui Province Institute of Product Quality Supervision & Inspection, Hefei230051, P. R. China.",
+        "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China.",
+        "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Qi",
+        "short_name": "Chen Q",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhaoran",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China.",
+          "Anhui Province Institute of Product Quality Supervision & Inspection, Hefei230051, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Peng, Yubo",
+        "short_name": "Peng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Hang",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Haoyang",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yao, Bangben",
+        "short_name": "Yao B",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Province Institute of Product Quality Supervision & Inspection, Hefei230051, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Fatima, Noor",
+        "short_name": "Fatima N",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Wei",
+        "short_name": "Chen W",
+        "identifiers": [
+          "0000-0003-3763-1183"
+        ],
+        "affiliations": [
+          "Anhui Provincial Key Laboratory for Agricultural Products Modern Processing, Engineering Research Center of Bio-process, MOE, School of Food and Biological Engineering, Intelligent Manufacturing Institute, Hefei University of Technology, Hefei230009, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:33",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43010390"
+    ],
+    "review": [
+      "43010390"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c03699",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

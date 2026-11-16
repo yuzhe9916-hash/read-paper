@@ -1,0 +1,163 @@
+{
+  "identity": {
+    "pmid": "43003239",
+    "doi": "10.1016/j.biotechadv.2026.109097",
+    "title": "Engineered CRISPR for nucleic acid imaging at the single-molecule level."
+  },
+  "content": {
+    "abstract": "Accurate and dynamic visualization of nucleic acids at the single-molecule level is essential for elucidating cellular processes, defining disease-associated molecular mechanisms, and advancing molecular diagnostics. Conventional imaging methods often lack the sensitivity, specificity, or spatiotemporal resolution required in complex biological systems. Engineered clustered regularly interspaced short palindromic repeats (CRISPR) technologies, leveraging the high programmability of Cas proteins and guide RNAs, have expanded nucleic acid imaging from repetitive and non-repetitive genomic loci to sequence-variant discrimination and individual RNA imaging. This review summarizes major engineering strategies, including Cas protein labeling, guide RNA scaffold modification, and nanomaterial- or protein-assisted signal amplification platforms. We further discuss biomedical applications in live-cell tracking, spatial nucleic acid analysis, and real-time monitoring of cellular dynamics. By examining the biochemical and engineering principles underlying these platforms, we provide a framework for the rational design of CRISPR-based nucleic acid imaging strategies and identify key considerations for overcoming persistent limitations in complex biological environments. Collectively, these advances position engineered CRISPR imaging as a programmable platform for spatially resolved nucleic acid analysis; however, broader application to clinically relevant specimens will require rigorous validation of quantitative robustness and specimen compatibility, together with standardized imaging workflows.",
+    "keywords": [
+      "Engineered CRISPR",
+      "Live-cell tracking",
+      "Molecular diagnostics",
+      "Nucleic acid imaging",
+      "Single-molecule"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Jiaying",
+        "Yang, Hao",
+        "Ma, Yuxi",
+        "Xiang, Zhenting",
+        "Shi, Bingying",
+        "Wang, Siyuan",
+        "Liang, Kunneng",
+        "Deng, Yi"
+      ],
+      "short_names": [
+        "Xu J",
+        "Yang H",
+        "Ma Y",
+        "Xiang Z",
+        "Shi B",
+        "Wang S",
+        "Liang K",
+        "Deng Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China.",
+        "School of Chemical Engineering, Sichuan University, Chengdu 610065, Sichuan, China.",
+        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China.",
+        "Laboratory for Oral Health Translational Research, Department of Oral Health Sciences, Maurice H. Kornberg School of Dentistry, Temple University, Philadelphia, PA, USA.",
+        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China.",
+        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China.",
+        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China. Electronic address: kunnengliang@scu.edu.cn.",
+        "School of Chemical Engineering, Sichuan University, Chengdu 610065, Sichuan, China. Electronic address: dengyibandeng@scu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Jiaying",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Hao",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemical Engineering, Sichuan University, Chengdu 610065, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Yuxi",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Zhenting",
+        "short_name": "Xiang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Oral Health Translational Research, Department of Oral Health Sciences, Maurice H. Kornberg School of Dentistry, Temple University, Philadelphia, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Shi, Bingying",
+        "short_name": "Shi B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Siyuan",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Kunneng",
+        "short_name": "Liang K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China. Electronic address: kunnengliang@scu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Deng, Yi",
+        "short_name": "Deng Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemical Engineering, Sichuan University, Chengdu 610065, Sichuan, China. Electronic address: dengyibandeng@scu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biotechnology advances"
+    ],
+    "journal_abbrev": [
+      "Biotechnol Adv"
+    ],
+    "pub_date": "2026 Nov 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 23:27",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43003239"
+    ],
+    "review": [
+      "43003239"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0734-9750(26)00303-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

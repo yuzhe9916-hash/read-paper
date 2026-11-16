@@ -1,0 +1,229 @@
+{
+  "identity": {
+    "pmid": "43003575",
+    "doi": "10.1016/j.aca.2026.346423",
+    "title": "RPA-assisted three-channel Cas13a-Cas13b-Cas12a fluorescence architecture for three-channel viral nucleic acid detection."
+  },
+  "content": {
+    "abstract": "Multiplex nucleic-acid analysis requires orthogonal signal channels capable of resolving multiple targets without substantial cross-interference. Here, an RPA-assisted three-channel CRISPR fluorescence readout was developed by coupling the distinct collateral-cleavage activities of LwaCas13a, PsmCas13b, and LbaCas12a to FAM-, ROX-, and HEX-based reporters, respectively, for detection of Venezuelan equine encephalitis virus (VEEV), tick-borne encephalitis virus (TBEV), and an eastern/western equine encephalitis virus (EEEV/WEEV) group target. The corresponding singleplex assays showed no detectable cross-reactivity with the tested non-target viral templates and achieved operational analytical detection limits of 10 copies/muL for VEEV and TBEV and 100 copies/muL for the EEEV/WEEV group assay. Integration of the three Cas-crRNA-reporter modules into one downstream reaction enabled discrimination of single-, dual-, and three-target combinations, with an analytical detection limit of 100 copies/muL for each target in the equal-concentration three-target mixture. Reporter optimization provided balanced channel responses, while inter-day repeatability and interlaboratory reproducibility yielded coefficients of variation below 10%. In a preliminary matrix evaluation using contrived equine nasal-swab samples, plasmid-spiked samples and unspiked negative controls showed concordant classification between the CRISPR readout and RT-qPCR, indicating compatibility of the assay workflow with the tested sample matrix. The method provides a three-channel analytical architecture that consolidates three downstream CRISPR readouts into one reaction while retaining target-assigned fluorescence interpretation.",
+    "keywords": [
+      "CRISPR diagnostics",
+      "Cas12a",
+      "Cas13",
+      "Multiplex fluorescence",
+      "Nucleic acid detection",
+      "Recombinase polymerase amplification"
+    ],
+    "mesh_terms": [
+      "Fluorescence",
+      "*CRISPR-Associated Proteins/genetics/chemistry/metabolism",
+      "*Encephalitis Viruses, Tick-Borne/genetics/isolation & purification",
+      "*Encephalitis Virus, Venezuelan Equine/genetics/isolation & purification",
+      "*RNA, Viral/analysis/genetics",
+      "CRISPR-Cas Systems",
+      "Limit of Detection",
+      "Animals",
+      "*Bacterial Proteins/genetics/chemistry",
+      "*Nucleic Acid Amplification Techniques/methods",
+      "Endodeoxyribonucleases"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Keyu",
+        "Gao, Tiantian",
+        "Yu, Lei",
+        "Zhang, Qiang",
+        "Lin, Yingzheng",
+        "Wang, Yiting",
+        "Xiong, Wei",
+        "Wang, Yan",
+        "Li, Jian",
+        "Sun, Xiaodong",
+        "Xue, Junxin",
+        "Chen, Qin",
+        "Niu, Bing"
+      ],
+      "short_names": [
+        "Chen K",
+        "Gao T",
+        "Yu L",
+        "Zhang Q",
+        "Lin Y",
+        "Wang Y",
+        "Xiong W",
+        "Wang Y",
+        "Li J",
+        "Sun X",
+        "Xue J",
+        "Chen Q",
+        "Niu B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Sciences, Shanghai University, Shanghai, 200444, China.",
+        "School of Life Sciences, Shanghai University, Shanghai, 200444, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China.",
+        "Shanghai Engineering Research Center of Organ Repair, Joint International Research Laboratory of Biomaterials and Biotechnology in Organ Repair (Ministry of Education), School of Medicine, Shanghai University, Shanghai, 200444, China.",
+        "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China. Electronic address: xuejunxin@126.com.",
+        "School of Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: chenqincc@shu.edu.cn.",
+        "School of Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: bingniu@shu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Keyu",
+        "short_name": "Chen K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Shanghai University, Shanghai, 200444, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Tiantian",
+        "short_name": "Gao T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Shanghai University, Shanghai, 200444, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Lei",
+        "short_name": "Yu L",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qiang",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yingzheng",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yiting",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China."
+        ]
+      },
+      {
+        "full_name": "Xiong, Wei",
+        "short_name": "Xiong W",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jian",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xiaodong",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Engineering Research Center of Organ Repair, Joint International Research Laboratory of Biomaterials and Biotechnology in Organ Repair (Ministry of Education), School of Medicine, Shanghai University, Shanghai, 200444, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Junxin",
+        "short_name": "Xue J",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center for Animal Plant and Food Inspection and Quarantine, Shanghai Customs, Shanghai, 200135, China. Electronic address: xuejunxin@126.com."
+        ]
+      },
+      {
+        "full_name": "Chen, Qin",
+        "short_name": "Chen Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: chenqincc@shu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Niu, Bing",
+        "short_name": "Niu B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Shanghai University, Shanghai, 200444, China. Electronic address: bingniu@shu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytica chimica acta"
+    ],
+    "journal_abbrev": [
+      "Anal Chim Acta"
+    ],
+    "pub_date": "2026 Dec 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/09 23:27",
+    "fetched_at": "2026-11-16 19:45:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43003575"
+    ],
+    "review": [
+      "43003575"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-2670(26)01373-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

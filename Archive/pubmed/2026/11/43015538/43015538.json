@@ -1,0 +1,181 @@
+{
+  "identity": {
+    "pmid": "43015538",
+    "doi": "10.1007/978-1-0716-5667-9_2",
+    "title": "pegRNA Online Tool Design and Experimental Assembly: Exploring the Practical Use of PE-Designer for Prime Editing."
+  },
+  "content": {
+    "abstract": "Prime editing (PE) is an innovative genome-editing technology that enables precise genetic modifications with greater efficiency compared to traditional CRISPR/Cas9-based systems. The successful application of this method heavily depends on the design of prime editing guide RNAs (pegRNAs). Efficient design of pegRNAs is facilitated by online tools like PE-Designer ( www.rgenome.net/pe-designer/) , which offers a user-friendly interface for designing pegRNA and nicking single-guide RNA (sgRNA) sequences. Notable features of PE-Designer include its flexibility in adjusting the prime binding site (PBS) and reverse transcription template (RTT) lengths of pegRNAs, as well as its ability to assess potential off-target effects across various genomes. This chapter focuses on using PE-Designer for pegRNA design, providing a step-by-step guide to the tool while addressing frequent challenges. Furthermore, using the SnapGene software, we explore the assembly of both the pegRNA and sgRNA construct maps. Finally, the chapter presents the experimental protocol for constructing both the pegRNA and sgRNA vectors, with a detailed explanation of the Golden Gate assembly technique.",
+    "keywords": [
+      "CRISPR/Cas9 technology",
+      "Eyes shut homolog (EYS)",
+      "Gene editing",
+      "PE-Designer",
+      "Prime editing",
+      "Prime editing guide RNA (pegRNA)",
+      "Retinitis pigmentosa"
+    ],
+    "mesh_terms": [
+      "*Gene Editing/methods",
+      "*RNA, Guide, CRISPR-Cas Systems/genetics",
+      "*Software",
+      "CRISPR-Cas Systems",
+      "Internet"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Santos Sousa, Ines",
+        "Patricio, Daniela",
+        "Torres, Mara",
+        "Marques, Joao Pedro",
+        "Ambrosio, Antonio Francisco",
+        "Alves, C Henrique"
+      ],
+      "short_names": [
+        "Santos Sousa I",
+        "Patricio D",
+        "Torres M",
+        "Marques JP",
+        "Ambrosio AF",
+        "Alves CH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+        "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+        "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal.",
+        "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+        "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+        "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal.",
+        "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+        "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+        "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal.",
+        "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+        "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+        "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal.",
+        "Ophthalmology Unit, Unidade Local de Saude de Coimbra (ULSC), Coimbra, Portugal.",
+        "Univ Coimbra, University Clinic of Ophthalmology, Faculty of Medicine, Coimbra, Portugal.",
+        "Association for Innovation and Biomedical Research on Light and Image (AIBILI), Coimbra, Portugal.",
+        "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+        "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+        "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal.",
+        "Association for Innovation and Biomedical Research on Light and Image (AIBILI), Coimbra, Portugal.",
+        "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal. chalves@fmed.uc.pt.",
+        "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal. chalves@fmed.uc.pt.",
+        "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal. chalves@fmed.uc.pt.",
+        "Association for Innovation and Biomedical Research on Light and Image (AIBILI), Coimbra, Portugal. chalves@fmed.uc.pt."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Santos Sousa, Inês",
+        "short_name": "Santos Sousa I",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+          "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+          "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal."
+        ]
+      },
+      {
+        "full_name": "Patrício, Daniela",
+        "short_name": "Patrício D",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+          "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+          "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal."
+        ]
+      },
+      {
+        "full_name": "Torres, Mara",
+        "short_name": "Torres M",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+          "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+          "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal."
+        ]
+      },
+      {
+        "full_name": "Marques, João Pedro",
+        "short_name": "Marques JP",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+          "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+          "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal.",
+          "Ophthalmology Unit, Unidade Local de Saúde de Coimbra (ULSC), Coimbra, Portugal.",
+          "Univ Coimbra, University Clinic of Ophthalmology, Faculty of Medicine, Coimbra, Portugal.",
+          "Association for Innovation and Biomedical Research on Light and Image (AIBILI), Coimbra, Portugal."
+        ]
+      },
+      {
+        "full_name": "Ambrósio, António Francisco",
+        "short_name": "Ambrósio AF",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal.",
+          "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal.",
+          "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal.",
+          "Association for Innovation and Biomedical Research on Light and Image (AIBILI), Coimbra, Portugal."
+        ]
+      },
+      {
+        "full_name": "Alves, C Henrique",
+        "short_name": "Alves CH",
+        "identifiers": [],
+        "affiliations": [
+          "Univ Coimbra, Coimbra Institute for Clinical and Biomedical Research (iCBR), Faculty of Medicine, Coimbra, Portugal. chalves@fmed.uc.pt.",
+          "Univ Coimbra, Center for Innovative Biomedicine and Biotechnology (CIBB), Coimbra, Portugal. chalves@fmed.uc.pt.",
+          "Clinical Academic Center of Coimbra (CACC), Coimbra, Portugal. chalves@fmed.uc.pt.",
+          "Association for Innovation and Biomedical Research on Light and Image (AIBILI), Coimbra, Portugal. chalves@fmed.uc.pt."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 05:29",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43015538"
+    ],
+    "review": [
+      "43015538"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5667-9_2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

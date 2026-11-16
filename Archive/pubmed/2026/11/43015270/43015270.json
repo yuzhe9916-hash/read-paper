@@ -1,0 +1,422 @@
+{
+  "identity": {
+    "pmid": "43015270",
+    "doi": "10.1038/s41467-026-78232-2",
+    "title": "A single-nucleus multiome map of the human cerebellum with Alzheimer's disease and related dementias."
+  },
+  "content": {
+    "abstract": "Although cerebellum is neuropathologically affected in Alzheimer's disease (AD) and AD-related dementia (ADRD), the cell type-specific genomic and epigenomic changes remain poorly understood. Here, we present single-nucleus multiome (RNA-seq and ATAC-seq) analysis of 103,861 nuclei isolated from both the cerebellum and frontal cortex of diseased individuals and cognitively healthy controls. We identify 431,834 significant peak-to-gene linkages across cell subtypes, revealing cis-regulatory elements linked to cell type-specific and disease-associated transcriptomic and regulatory network changes. Differential trajectory analysis pinpoints disease-associated genes in cerebellar granule cells, such as STMN1 and CLU. Integrating epigenomic, genetic, and three-dimensional genome data, we pinpoint two likely causal variants linked to SEZ6L2 in Purkinje cells and KANSL1 in granule cells. Through CRISPR interference in patient-derived cerebellar organoids, we show that silencing the variant-containing regulatory elements suppresses SEZ6L2 and KANSL1 expression, which perturbs neurodegeneration-associated gene programs. This cell type-specific regulatory landscape provides genomic and epigenomic insights into the pathological role of the cerebellum in AD/ADRD.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Alzheimer Disease/genetics/metabolism/pathology",
+      "*Cerebellum/metabolism/pathology",
+      "Female",
+      "*Cell Nucleus/metabolism/genetics",
+      "Male",
+      "Purkinje Cells/metabolism",
+      "*Dementia/genetics/metabolism/pathology",
+      "Transcriptome",
+      "Multiomics",
+      "Aged",
+      "Frontal Lobe/metabolism/pathology",
+      "Gene Regulatory Networks"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Feng, Yayan",
+        "Chen, Xin",
+        "Song, Wenqiang",
+        "Yang, Xiaoyu",
+        "Dou, Lijun",
+        "Bonakdarpour, Borna",
+        "Jamshidi, Pouya",
+        "Castellani, Rudolph J",
+        "Mao, Qinwen",
+        "Chu, Xiaona",
+        "Gao, Hongyu",
+        "Liu, Yunlong",
+        "Xu, Jielin",
+        "Hou, Yuan",
+        "Martin, William",
+        "Nelson, Peter T",
+        "Leverenz, James B",
+        "Hu, Ming",
+        "Li, Yang E",
+        "Pieper, Andrew A",
+        "Cummings, Jeffrey",
+        "Flanagan, Margaret E",
+        "Cheng, Feixiong"
+      ],
+      "short_names": [
+        "Feng Y",
+        "Chen X",
+        "Song W",
+        "Yang X",
+        "Dou L",
+        "Bonakdarpour B",
+        "Jamshidi P",
+        "Castellani RJ",
+        "Mao Q",
+        "Chu X",
+        "Gao H",
+        "Liu Y",
+        "Xu J",
+        "Hou Y",
+        "Martin W",
+        "Nelson PT",
+        "Leverenz JB",
+        "Hu M",
+        "Li YE",
+        "Pieper AA",
+        "Cummings J",
+        "Flanagan ME",
+        "Cheng F"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-1740-3086",
+        "ORCID: 0000-0002-2699-626X",
+        "ORCID: 0000-0003-0616-0462",
+        "ORCID: 0000-0003-0987-2916",
+        "ORCID: 0000-0001-6997-6018",
+        "ORCID: 0000-0001-8944-4158",
+        "ORCID: 0000-0002-1736-2847"
+      ],
+      "affiliations": [
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Mesulam Center for Cognitive Neurology and Alzheimer's Disease, Ken and Ruth Davee Department of Neurology, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.",
+        "Department of Pathology and Northwestern Alzheimer Disease Center, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.",
+        "Department of Pathology and Northwestern Alzheimer Disease Center, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.",
+        "Department of Pathology, University of Utah, Salt Lake City, UT, USA.",
+        "Department of Medical and Molecular Genetics, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN, USA.",
+        "Department of Medical and Molecular Genetics, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN, USA.",
+        "Department of Medical and Molecular Genetics, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Pathology and Laboratory Medicine, University of Kentucky, Lexington, KN, USA.",
+        "Department of Sanders-Brown Center on Aging, University of Kentucky, Lexington, KN, USA.",
+        "Geriatric Research, Education and Clinical Center (GRECC) and Parkinson's Disease Research, Education and Clinical Center (PADRECC), VA Puget Sound Health Care System, Seattle, WA, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Neurosurgery and Genetics, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Psychiatry, Case Western Reserve University, Cleveland, OH, USA.",
+        "Brain Health Medicines Center, Harrington Discovery Institute, University Hospitals Cleveland Medical Center, Cleveland, OH, USA.",
+        "Geriatric Psychiatry, GRECC, Louis Stokes Cleveland VA Medical Center, Cleveland, OH, USA.",
+        "Institute for Transformative Molecular Medicine, School of Medicine, Case Western Reserve University, Cleveland, OH, USA.",
+        "Department of Pathology, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",
+        "Department of Neurosciences, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",
+        "Chambers-Grundy Center for Transformative Neuroscience, Department of Brain Health, Kirk Kerkorian School of Medicine, University of Nevada, Las Vegas, Las Vegas, NV, USA.",
+        "Department of Pathology and Laboratory Medicine, University of Arizona College of Medicine, Tucson, AZ, USA.",
+        "Department of Pathology, University of Texas Health Science Center San Antonio, San Antonio, TX, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA. chengf@ccf.org.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA. chengf@ccf.org.",
+        "Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, OH, USA. chengf@ccf.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Feng, Yayan",
+        "short_name": "Feng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Xin",
+        "short_name": "Chen X",
+        "identifiers": [
+          "0009-0006-1740-3086"
+        ],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Song, Wenqiang",
+        "short_name": "Song W",
+        "identifiers": [],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiaoyu",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Dou, Lijun",
+        "short_name": "Dou L",
+        "identifiers": [],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Bonakdarpour, Borna",
+        "short_name": "Bonakdarpour B",
+        "identifiers": [],
+        "affiliations": [
+          "Mesulam Center for Cognitive Neurology and Alzheimer's Disease, Ken and Ruth Davee Department of Neurology, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Jamshidi, Pouya",
+        "short_name": "Jamshidi P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Northwestern Alzheimer Disease Center, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Castellani, Rudolph J",
+        "short_name": "Castellani RJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Northwestern Alzheimer Disease Center, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Mao, Qinwen",
+        "short_name": "Mao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, University of Utah, Salt Lake City, UT, USA."
+        ]
+      },
+      {
+        "full_name": "Chu, Xiaona",
+        "short_name": "Chu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical and Molecular Genetics, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Hongyu",
+        "short_name": "Gao H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical and Molecular Genetics, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Yunlong",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0002-2699-626X"
+        ],
+        "affiliations": [
+          "Department of Medical and Molecular Genetics, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Jielin",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Hou, Yuan",
+        "short_name": "Hou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Martin, William",
+        "short_name": "Martin W",
+        "identifiers": [
+          "0000-0003-0616-0462"
+        ],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Nelson, Peter T",
+        "short_name": "Nelson PT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of Kentucky, Lexington, KN, USA.",
+          "Department of Sanders-Brown Center on Aging, University of Kentucky, Lexington, KN, USA."
+        ]
+      },
+      {
+        "full_name": "Leverenz, James B",
+        "short_name": "Leverenz JB",
+        "identifiers": [],
+        "affiliations": [
+          "Geriatric Research, Education and Clinical Center (GRECC) and Parkinson's Disease Research, Education and Clinical Center (PADRECC), VA Puget Sound Health Care System, Seattle, WA, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Ming",
+        "short_name": "Hu M",
+        "identifiers": [
+          "0000-0003-0987-2916"
+        ],
+        "affiliations": [
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Yang E",
+        "short_name": "Li YE",
+        "identifiers": [
+          "0000-0001-6997-6018"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery and Genetics, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Pieper, Andrew A",
+        "short_name": "Pieper AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychiatry, Case Western Reserve University, Cleveland, OH, USA.",
+          "Brain Health Medicines Center, Harrington Discovery Institute, University Hospitals Cleveland Medical Center, Cleveland, OH, USA.",
+          "Geriatric Psychiatry, GRECC, Louis Stokes Cleveland VA Medical Center, Cleveland, OH, USA.",
+          "Institute for Transformative Molecular Medicine, School of Medicine, Case Western Reserve University, Cleveland, OH, USA.",
+          "Department of Pathology, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",
+          "Department of Neurosciences, Case Western Reserve University School of Medicine, Cleveland, OH, USA."
+        ]
+      },
+      {
+        "full_name": "Cummings, Jeffrey",
+        "short_name": "Cummings J",
+        "identifiers": [
+          "0000-0001-8944-4158"
+        ],
+        "affiliations": [
+          "Chambers-Grundy Center for Transformative Neuroscience, Department of Brain Health, Kirk Kerkorian School of Medicine, University of Nevada, Las Vegas, Las Vegas, NV, USA."
+        ]
+      },
+      {
+        "full_name": "Flanagan, Margaret E",
+        "short_name": "Flanagan ME",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of Arizona College of Medicine, Tucson, AZ, USA.",
+          "Department of Pathology, University of Texas Health Science Center San Antonio, San Antonio, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Cheng, Feixiong",
+        "short_name": "Cheng F",
+        "identifiers": [
+          "0000-0002-1736-2847"
+        ],
+        "affiliations": [
+          "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA. chengf@ccf.org.",
+          "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA. chengf@ccf.org.",
+          "Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, OH, USA. chengf@ccf.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 05:29",
+    "fetched_at": "2026-11-16 19:45:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43015270"
+    ],
+    "review": [
+      "43015270"
+    ],
+    "pmc": [
+      "13755439"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/dementia.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Dementia"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78232-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43015270/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CLU-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-478",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
