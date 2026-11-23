@@ -1,0 +1,245 @@
+{
+  "identity": {
+    "pmid": "43061283",
+    "doi": "10.1016/j.isci.2026.118207",
+    "title": "Cellular morphology emerges from polygenic, distributed transcriptional variation."
+  },
+  "content": {
+    "abstract": "Height and disease risk are canonical polygenic traits, but whether an analogous architecture governs cellular phenotypes remains unclear. Here, we show that cellular morphology behaves as a polygenic systems phenotype by integrating cross-modal modeling, perturbation profiling, and human genetic variation. An adversarially aligned autoencoder trained on four perturbation datasets predicted morphology from gene expression and generalized without retraining to matched RNA sequencing (RNA-seq) and cell painting profiles from 100 genetically diverse induced pluripotent stem cell (iPSC) donors. Seventeen morphological features were strongly predicted, particularly those capturing organelle distribution and cytoskeletal architecture. Predictive signal was broadly distributed across genes, with weak individual gene-morphology correlations. Independent CRISPR perturbations supported model-prioritized genes including TIAM1, RAB31, and ABCC5, while genetic analyses identified variant-gene-morphology associations involving PDHX, SLC11A2, and MAPKAPK5. These findings extend polygenic models of complex traits to cellular architecture and provide a framework for interpreting cross-modal prediction in functional genomics.",
+    "keywords": [
+      "cell painting",
+      "cellular morphology",
+      "cross-modal prediction",
+      "gene expression",
+      "multimodal autoencoder",
+      "polygenic architecture"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Paylakhi, Seyedehzahra",
+        "Geurgas, Rafael",
+        "Yasko, Antionette",
+        "Wedow, Robbee",
+        "Tegtmeyer, Matthew"
+      ],
+      "short_names": [
+        "Paylakhi S",
+        "Geurgas R",
+        "Yasko A",
+        "Wedow R",
+        "Tegtmeyer M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Sociology, Purdue University, West Lafayette, IN, USA.",
+        "Department of Biological Sciences, Purdue University, West Lafayette, IN, USA.",
+        "Department of Sociology, Purdue University, West Lafayette, IN, USA.",
+        "Department of Biological Sciences, Purdue University, West Lafayette, IN, USA.",
+        "Department of Sociology, Purdue University, West Lafayette, IN, USA.",
+        "Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN, USA.",
+        "Department of Biological Sciences, Purdue University, West Lafayette, IN, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Paylakhi, Seyedehzahra",
+        "short_name": "Paylakhi S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Sociology, Purdue University, West Lafayette, IN, USA.",
+          "Department of Biological Sciences, Purdue University, West Lafayette, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Geurgas, Rafael",
+        "short_name": "Geurgas R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Sociology, Purdue University, West Lafayette, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Yasko, Antionette",
+        "short_name": "Yasko A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Purdue University, West Lafayette, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Wedow, Robbee",
+        "short_name": "Wedow R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Sociology, Purdue University, West Lafayette, IN, USA.",
+          "Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Tegtmeyer, Matthew",
+        "short_name": "Tegtmeyer M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Purdue University, West Lafayette, IN, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "iScience"
+    ],
+    "journal_abbrev": [
+      "iScience"
+    ],
+    "pub_date": "2026 Dec 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43061283",
+      "42475469",
+      "35633379",
+      "43059734",
+      "42596011",
+      "41324988",
+      "39354337",
+      "42747551",
+      "38639992",
+      "42523538",
+      "42411605",
+      "43033407",
+      "42298576",
+      "42271432",
+      "35142607",
+      "36993466",
+      "42508236",
+      "42751619",
+      "37904203",
+      "42553536",
+      "42296264",
+      "42167225",
+      "42925051",
+      "42330953",
+      "42826898",
+      "33673841",
+      "42031785",
+      "41330380",
+      "39677694",
+      "41445618",
+      "36736439",
+      "42482180",
+      "40826382",
+      "41993391",
+      "41452988",
+      "42793173",
+      "42033077",
+      "42516377",
+      "41889931",
+      "41726570",
+      "31893020",
+      "42931953",
+      "43060671",
+      "42050525",
+      "42809409",
+      "42652060",
+      "34780721",
+      "32620158",
+      "36947171",
+      "43060182",
+      "41257571",
+      "29914921",
+      "41131481",
+      "40660409",
+      "42094362",
+      "35459617",
+      "38590520",
+      "42852499",
+      "42087207",
+      "41716413",
+      "41902754",
+      "42653451",
+      "41570977",
+      "42999447",
+      "40783786",
+      "40504147",
+      "34010951",
+      "42577751",
+      "36050550",
+      "42361404",
+      "37667186",
+      "39901616",
+      "42635210",
+      "42675179",
+      "43032712",
+      "42758802",
+      "30096133",
+      "41993521",
+      "35263625",
+      "38184653",
+      "42420840",
+      "41000745",
+      "21270389",
+      "42044679",
+      "42673963",
+      "42510880",
+      "33793772",
+      "39495786",
+      "42775259",
+      "38272457",
+      "35164939",
+      "41033661",
+      "42635222",
+      "42167220",
+      "40081369",
+      "42461723",
+      "36395727",
+      "42734752",
+      "28878256",
+      "29121402"
+    ],
+    "review": [
+      "43061283",
+      "42747551",
+      "43033407",
+      "42751619",
+      "41726570"
+    ],
+    "pmc": [
+      "13782607"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(26)03590-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43061283/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

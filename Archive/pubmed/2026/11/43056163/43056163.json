@@ -1,0 +1,495 @@
+{
+  "identity": {
+    "pmid": "43056163",
+    "doi": "10.1172/JCI206802",
+    "title": "OSTM1 restrains B-cell lymphomagenesis by promoting PDE3B degradation and activating cAMP/PKA/CREB signaling."
+  },
+  "content": {
+    "abstract": "Through a genome-wide forward CRISPR/Cas9 screen in interleukin-3 (IL3)-dependent Ba/F3 cells, we identified osteoclastogenesis-associated transmembrane protein 1 (OSTM1) as a previously unrecognized tumor suppressor. Analysis of patient datasets revealed that OSTM1 is frequently deleted or downregulated in human B-cell malignancies (BCM). In mice, Cd19-Cre-driven B cell-specific monoallelic or biallelic deletion of Ostm1 cooperated with Cdkn2a loss to drive lymphomagenesis with near-complete penetrance. Mechanistically, OSTM1 directly interacts with phosphodiesterase 3B (PDE3B) and promotes its proteasomal degradation. Because PDE3B hydrolyzes cyclic AMP (cAMP), loss of OSTM1 stabilizes PDE3B, leading to suppression of tumor-suppressive cAMP-dependent PKA/CREB signaling and promotion of oncogenic transformation. Consistent with this mechanism, PDE3B is frequently amplified or upregulated in BCM, and expression of CREB/CREBBP transcriptional targets correlates positively with OSTM1 expression but inversely with PDE3B across BCM cohorts. Importantly, silencing Pde3b reverses oncogenic transformation driven by Ostm1 loss. Together, these findings establish OSTM1 as a tumor suppressor and uncover an OSTM1/PDE3B/cAMP signaling axis that restrains B-cell lymphomagenesis and may represent a therapeutically actionable vulnerability.",
+    "keywords": [
+      "B cells",
+      "Cell biology",
+      "Lymphomas",
+      "Oncology",
+      "Tumor suppressors"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tariq, Muhammad Usama",
+        "Sheshadri, Namratha",
+        "Shen, Jianliang",
+        "Jung, Jaeyong",
+        "Li, Rongrong",
+        "Sajjad, Hassan",
+        "Koch, Mark C",
+        "Lu, Kevin",
+        "Yan, Junrong",
+        "Rosati, Barbara",
+        "Caso, Giuseppe",
+        "Vallat, Brinda",
+        "Burley, Stephen K",
+        "Wang, Jun",
+        "Glytsou, Christina",
+        "Sun, Yi",
+        "Liu, Tong",
+        "Li, Hong",
+        "Chen, Suzie",
+        "Yang, Jiekun",
+        "Shen, Zhiyuan",
+        "Lin, Richard Z",
+        "Hinrichs, Christian S",
+        "Bertoni, Francesco",
+        "Wang, Y Lynn",
+        "Vacher, Jean",
+        "Xie, Ping",
+        "Zong, Wei-Xing"
+      ],
+      "short_names": [
+        "Tariq MU",
+        "Sheshadri N",
+        "Shen J",
+        "Jung J",
+        "Li R",
+        "Sajjad H",
+        "Koch MC",
+        "Lu K",
+        "Yan J",
+        "Rosati B",
+        "Caso G",
+        "Vallat B",
+        "Burley SK",
+        "Wang J",
+        "Glytsou C",
+        "Sun Y",
+        "Liu T",
+        "Li H",
+        "Chen S",
+        "Yang J",
+        "Shen Z",
+        "Lin RZ",
+        "Hinrichs CS",
+        "Bertoni F",
+        "Wang YL",
+        "Vacher J",
+        "Xie P",
+        "Zong WX"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Cell Biology and Neuroscience, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America.",
+        "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America.",
+        "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Institute for Quantitative Biomedicine, Rutgers University, Piscataway, United States of America.",
+        "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Institute for Quantitative Biomedicine, Rutgers University, Piscataway, United States of America.",
+        "Department of Medicinal Chemistry, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Pathology and Laboratory Medicine, Robert Wood Johnson Medical School, Rutgers University, Piscataway, United States of America.",
+        "Department of Microbiology, Biochemistry and Molecular Genetics, Robert Wood Johnson Medical School, Rutgers University, Piscataway, United States of America.",
+        "Department of Microbiology, Biochemistry and Molecular Genetics, Robert Wood Johnson Medical School, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America.",
+        "Department of Genetics and Human Genetics Institute of New Jersey, Rutgers University, Piscataway, United States of America.",
+        "Rutgers Cancer Institute, New Brunswick, United States of America.",
+        "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America.",
+        "Rutgers Cancer Institute, New Brunswick, United States of America.",
+        "Institute of Oncology Research, Faculty of Biomedical Sciences, USI, Bellinzona, Switzerland.",
+        "Cancer Signaling and Microenvironment Program, Fox Chase Cancer Center, Philadelphia, United States of America.",
+        "Clinical Research Institute of Montreal, Montreal, Canada.",
+        "Department of Cell Biology and Neuroscience, Rutgers University, Piscataway, United States of America.",
+        "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tariq, Muhammad Usama",
+        "short_name": "Tariq MU",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sheshadri, Namratha",
+        "short_name": "Sheshadri N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Shen, Jianliang",
+        "short_name": "Shen J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Jung, Jaeyong",
+        "short_name": "Jung J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology and Neuroscience, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Li, Rongrong",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sajjad, Hassan",
+        "short_name": "Sajjad H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Koch, Mark C",
+        "short_name": "Koch MC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America."
+        ]
+      },
+      {
+        "full_name": "Lu, Kevin",
+        "short_name": "Lu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Yan, Junrong",
+        "short_name": "Yan J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Rosati, Barbara",
+        "short_name": "Rosati B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America."
+        ]
+      },
+      {
+        "full_name": "Caso, Giuseppe",
+        "short_name": "Caso G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America."
+        ]
+      },
+      {
+        "full_name": "Vallat, Brinda",
+        "short_name": "Vallat B",
+        "identifiers": [],
+        "affiliations": [
+          "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Institute for Quantitative Biomedicine, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Burley, Stephen K",
+        "short_name": "Burley SK",
+        "identifiers": [],
+        "affiliations": [
+          "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Institute for Quantitative Biomedicine, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Wang, Jun",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Glytsou, Christina",
+        "short_name": "Glytsou C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sun, Yi",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, Robert Wood Johnson Medical School, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Liu, Tong",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Biochemistry and Molecular Genetics, Robert Wood Johnson Medical School, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Li, Hong",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Biochemistry and Molecular Genetics, Robert Wood Johnson Medical School, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Chen, Suzie",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Yang, Jiekun",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Human Genetics Institute of New Jersey, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Shen, Zhiyuan",
+        "short_name": "Shen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Rutgers Cancer Institute, New Brunswick, United States of America."
+        ]
+      },
+      {
+        "full_name": "Lin, Richard Z",
+        "short_name": "Lin RZ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Biophysics, Stony Brook University, Stony Brook and Northport VA Medical Center, Northport, United States of America."
+        ]
+      },
+      {
+        "full_name": "Hinrichs, Christian S",
+        "short_name": "Hinrichs CS",
+        "identifiers": [],
+        "affiliations": [
+          "Rutgers Cancer Institute, New Brunswick, United States of America."
+        ]
+      },
+      {
+        "full_name": "Bertoni, Francesco",
+        "short_name": "Bertoni F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Oncology Research, Faculty of Biomedical Sciences, USI, Bellinzona, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Wang, Y Lynn",
+        "short_name": "Wang YL",
+        "identifiers": [],
+        "affiliations": [
+          "Cancer Signaling and Microenvironment Program, Fox Chase Cancer Center, Philadelphia, United States of America."
+        ]
+      },
+      {
+        "full_name": "Vacher, Jean",
+        "short_name": "Vacher J",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Research Institute of Montreal, Montreal, Canada."
+        ]
+      },
+      {
+        "full_name": "Xie, Ping",
+        "short_name": "Xie P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology and Neuroscience, Rutgers University, Piscataway, United States of America."
+        ]
+      },
+      {
+        "full_name": "Zong, Wei-Xing",
+        "short_name": "Zong WX",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Biology, Ernest Mario School of Pharmacy, Rutgers University, Piscataway, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of clinical investigation"
+    ],
+    "journal_abbrev": [
+      "J Clin Invest"
+    ],
+    "pub_date": "2026 Nov 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 17:33",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43056163",
+      "41659680",
+      "31176020",
+      "16702214",
+      "17884339",
+      "20573814",
+      "39478577",
+      "10677351",
+      "21393242",
+      "25877153",
+      "21632535",
+      "42392719",
+      "42184490",
+      "8999953",
+      "10779773",
+      "28831000",
+      "40312502",
+      "15299023",
+      "19167487",
+      "27956228",
+      "42010695",
+      "23471014",
+      "42692814",
+      "8620554",
+      "9492053",
+      "33242564",
+      "42380416",
+      "42557944",
+      "28959341",
+      "14654784",
+      "9500857",
+      "42675175",
+      "26807478",
+      "20015475",
+      "42957878",
+      "39747324",
+      "12210727",
+      "41240538",
+      "41882103",
+      "36394315",
+      "32188736",
+      "25702569",
+      "26254161",
+      "30134011",
+      "42177550",
+      "42045322",
+      "25359771",
+      "39852172",
+      "19380787",
+      "26038580",
+      "12351429",
+      "11988318",
+      "27733359",
+      "27255754",
+      "35805104",
+      "23462962",
+      "36613764",
+      "10454575",
+      "42144204",
+      "10679065",
+      "42805466",
+      "42335669",
+      "38774028",
+      "11416141",
+      "20178980",
+      "39283715",
+      "28084425",
+      "11406182",
+      "10908291",
+      "27986643",
+      "19747167",
+      "30067871",
+      "25951193",
+      "7836756",
+      "35946509",
+      "42370439",
+      "8648100",
+      "25816736",
+      "41114286",
+      "22185778",
+      "41052344",
+      "41618295",
+      "17324123",
+      "41082906",
+      "42296148",
+      "15170357",
+      "11457657",
+      "22173835",
+      "22689861",
+      "11139395",
+      "25720403",
+      "19922425",
+      "22820505",
+      "35030973",
+      "39787692",
+      "22113869",
+      "1655749",
+      "18086876",
+      "25713071",
+      "17482796"
+    ],
+    "review": [
+      "43056163",
+      "11988318"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1172/JCI206802",
+        "provider": "American Society for Clinical Investigation",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TNFRSF17-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-333",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

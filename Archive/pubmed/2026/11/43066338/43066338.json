@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "43066338",
+    "doi": "10.3389/fpls.2026.1985976",
+    "title": "Postharvest senescence of broccoli in the multi-omics era: molecular mechanisms, regulatory networks, and prospects for germplasm innovation."
+  },
+  "content": {
+    "abstract": "Broccoli (Brassica oleracea var. italica) heads are harvested as immature inflorescences whose metabolism remains vigorous after detachment, making postharvest senescence and floret yellowing the leading cause of quality loss and economic devaluation. Over the past decade, the molecular dissection of broccoli senescence has progressed from single-gene expression studies to integrated multi-omics atlases spanning transcriptomes, small RNA and degradome libraries, quantitative proteomes, and metabolomes. This review synthesizes the recent literature along three axes. First, we revisit the chlorophyll degradation pathway as it operates in harvested broccoli florets (from chlorophyll b reductase (BoNYC1) and pheophytinase (BoPPH) to pheophorbide a oxygenase (BoPaO), RCC reductase (BoRCCR), and the STAY-GREEN (BoSGR) master switch) and we highlight how the visible yellow phenotype additionally requires carotenoid retention and biosynthesis. Second, we organize the regulatory architecture now emerging from omics studies. Its hormonal tier is an ethylene-auxin-jasmonate-abscisic acid axis that promotes senescence and is antagonized by cytokinins, brassinosteroids, melatonin, hydrogen sulfide, and the peptide signal CLE14. Its transcriptional tier is dominated by NAC, WRKY, MYB, bHLH, ERF, and TCP factors, exemplified by the BoNAC52-BoRBOHF module that couples hormone signals to reactive oxygen species (ROS) homeostasis. A third tier is post-transcriptional: miRNAs modulate transcript abundance to fine-tune peroxidase activity, chlorophyll biosynthesis, and ROS balance. Third, we connect mechanism to application. We map how preservation technologies (1-MCP, controlled atmospheres, UV and LED irradiation, melatonin, and CLE14) converge on defined molecular nodes. We then ask how the new genomic resources of B. oleracea - the chromosome-scale broccoli reference genome and the 27-genome pan-genome - and CRISPR/Cas9 editing, now demonstrated in broccoli, provide a realistic route toward stay-green, slow-senescing cultivars. We close by identifying six priority frontiers: cell-type-resolved atlases, epigenomic time courses, standardized multi-omics protocols, GWAS for shelf life, rationally designed editing targets, and network-level validation. Broccoli thus illustrates a general arc of postharvest biology, moving from physiology to networks and from networks to designed genotypes.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "broccoli",
+      "chlorophyll degradation",
+      "multi-omics",
+      "postharvest senescence",
+      "shelf life",
+      "stay-green",
+      "yellowing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Han-Min",
+        "Liu, Li-Li",
+        "Wen, Zheng-Hua",
+        "Niu, Guo-Bao",
+        "Zhang, Xiao-Li",
+        "Yao, Xing-Wei",
+        "Shan, Xiao-Zheng",
+        "Sun, De-Ling"
+      ],
+      "short_names": [
+        "Jiang HM",
+        "Liu LL",
+        "Wen ZH",
+        "Niu GB",
+        "Zhang XL",
+        "Yao XW",
+        "Shan XZ",
+        "Sun DL"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China.",
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China.",
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China.",
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China.",
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China.",
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China.",
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China.",
+        "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Han-Min",
+        "short_name": "Jiang HM",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Li-Li",
+        "short_name": "Liu LL",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Zheng-Hua",
+        "short_name": "Wen ZH",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Niu, Guo-Bao",
+        "short_name": "Niu GB",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiao-Li",
+        "short_name": "Zhang XL",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Xing-Wei",
+        "short_name": "Yao XW",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Shan, Xiao-Zheng",
+        "short_name": "Shan XZ",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Sun, De-Ling",
+        "short_name": "Sun DL",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Vegetable Biobreeding, Tianjin Academy of Agricultural Sciences, Tianjin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/22 01:18",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43066338",
+      "41185338",
+      "41087911",
+      "41901389",
+      "42324857",
+      "42195892",
+      "33869261",
+      "21732385",
+      "42366798",
+      "35383976",
+      "40265788",
+      "36458179",
+      "11161029",
+      "21763540",
+      "35684286",
+      "42692682",
+      "42450370",
+      "25038670",
+      "24422501",
+      "23265525",
+      "32893880",
+      "30722863",
+      "16399004",
+      "36525725",
+      "42880011",
+      "40897012",
+      "41775283",
+      "34265646",
+      "31231532",
+      "20727617",
+      "41956348",
+      "15331096",
+      "36669347",
+      "23707232",
+      "24146962",
+      "42928967",
+      "14512388",
+      "40580791",
+      "32916399",
+      "36230201",
+      "15988561",
+      "37406731",
+      "32172047",
+      "32689185",
+      "35034357",
+      "33467698",
+      "34938304",
+      "37043993",
+      "7610162",
+      "38396927",
+      "30142272",
+      "30807237",
+      "38927604",
+      "31780227",
+      "17502152",
+      "42533527",
+      "42193177",
+      "12598574",
+      "41901388",
+      "42252419",
+      "25749272",
+      "32339788",
+      "37372629",
+      "42426538",
+      "42475469",
+      "25442611",
+      "42632685",
+      "32370182",
+      "40077465",
+      "25620234",
+      "33831827",
+      "25516602",
+      "42778074",
+      "30048089",
+      "15520028",
+      "30897243",
+      "39175179",
+      "37254395",
+      "39494529",
+      "38455170",
+      "42572231",
+      "20960461",
+      "42514610",
+      "36077446",
+      "34112391",
+      "24586398",
+      "32846593",
+      "34545770",
+      "35974315",
+      "40231988",
+      "26625945",
+      "28764062",
+      "35956477",
+      "41203678",
+      "39506990",
+      "33288176",
+      "26261268",
+      "43040096",
+      "36015405",
+      "28877584"
+    ],
+    "review": [
+      "43066338",
+      "42324857",
+      "41956348",
+      "42928967",
+      "34938304",
+      "38927604",
+      "42533527",
+      "41901388",
+      "42426538",
+      "42778074",
+      "42514610",
+      "36077446"
+    ],
+    "pmc": [
+      "13787113"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-68",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1985976",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "43042765",
+    "doi": "10.1242/dev.206168",
+    "title": "Maternal Foxh1 loss reduces locus-specific H3K27me3 and disrupts lineage segregation."
+  },
+  "content": {
+    "abstract": "Polycomb Repressive Complex 2 (PRC2) establishes H3K27me3 marks to shape spatiotemporal gene expression during embryogenesis. How PRC2 is recruited to specific genomic loci remains debated, with a prevailing model favoring intrinsic chromatin affinity over recruitment by sequence-specific transcription factors. Here, we show that the maternally deposited pioneer transcription factor Foxh1 promotes PRC2 occupancy at specific genomic loci during zygotic genome activation in Xenopus. Foxh1 is a crucial mediator of Nodal signaling that pre-binds mesendodermal enhancers before signaling activation, facilitating enhanceosome assembly and coordinated mesendodermal gene expression in cooperation with other maternal transcription factors. Using maternal Foxh1-null embryos, we demonstrate that Foxh1 is also required for efficient Ezh2/PRC2 occupancy at a subset of Foxh1-bound loci. Loss of Foxh1 selectively reduces Ezh2 occupancy and associated H3K27me3 at these regions without substantially altering total Ezh2 levels. These findings support a dual-function model in which Foxh1 activates endodermal gene expression in endoderm, while promoting PRC2-associated repression of the same regulatory program in ectoderm. Thus, Foxh1 contributes to establishing spatially distinct epigenetic states that coordinate germ layer specification and lineage segregation during early embryogenesis.",
+    "keywords": [
+      "Xenopus tropicalis",
+      "CRISPR/Cas9",
+      "Epigenetics",
+      "Germ layer",
+      "Maternal transcription factors",
+      "Repressive histone mark"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Forkhead Transcription Factors/metabolism/genetics",
+      "*Xenopus Proteins/metabolism/genetics",
+      "Gene Expression Regulation, Developmental",
+      "*Histones/metabolism",
+      "Polycomb Repressive Complex 2/metabolism",
+      "*Cell Lineage/genetics",
+      "Endoderm/metabolism",
+      "Female",
+      "Xenopus laevis/embryology/genetics",
+      "Enhancer of Zeste Homolog 2 Protein/metabolism",
+      "Xenopus"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cho, Jin S",
+        "Hendrickson, Clark L",
+        "Mar, Nathan",
+        "Blitz, Ira L",
+        "Fish, Margaret",
+        "Wang, Wenqi",
+        "Cho, Ken W Y"
+      ],
+      "short_names": [
+        "Cho JS",
+        "Hendrickson CL",
+        "Mar N",
+        "Blitz IL",
+        "Fish M",
+        "Wang W",
+        "Cho KWY"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-8510-4588",
+        "ORCID: 0009-0001-5393-5913",
+        "ORCID: 0000-0002-0173-3287",
+        "ORCID: 0000-0002-0995-7226",
+        "ORCID: 0000-0003-4053-5088",
+        "ORCID: 0000-0001-7282-1770"
+      ],
+      "affiliations": [
+        "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+        "Center for Complex Biological Systems, University of California, Irvine, CA 92697, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cho, Jin S",
+        "short_name": "Cho JS",
+        "identifiers": [
+          "0009-0003-8510-4588"
+        ],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Hendrickson, Clark L",
+        "short_name": "Hendrickson CL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Mar, Nathan",
+        "short_name": "Mar N",
+        "identifiers": [
+          "0009-0001-5393-5913"
+        ],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Blitz, Ira L",
+        "short_name": "Blitz IL",
+        "identifiers": [
+          "0000-0002-0173-3287"
+        ],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Fish, Margaret",
+        "short_name": "Fish M",
+        "identifiers": [
+          "0000-0002-0995-7226"
+        ],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Wenqi",
+        "short_name": "Wang W",
+        "identifiers": [
+          "0000-0003-4053-5088"
+        ],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Cho, Ken W Y",
+        "short_name": "Cho KWY",
+        "identifiers": [
+          "0000-0001-7282-1770"
+        ],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA.",
+          "Center for Complex Biological Systems, University of California, Irvine, CA 92697, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Development (Cambridge, England)"
+    ],
+    "journal_abbrev": [
+      "Development"
+    ],
+    "pub_date": "2026 Nov 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 12:41",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43042765",
+      "41040321",
+      "28325473",
+      "35848281",
+      "31167141",
+      "39550025",
+      "41173005",
+      "27085753",
+      "25359723",
+      "30891497",
+      "23739135",
+      "25617436",
+      "32450966",
+      "42267784",
+      "38113005",
+      "26679111",
+      "30510991",
+      "41187170",
+      "21741376",
+      "36995935",
+      "19877271",
+      "22396593",
+      "41720768",
+      "21637786",
+      "23932971",
+      "40612682",
+      "28607149",
+      "28706074",
+      "37306391",
+      "39883738",
+      "35617427",
+      "18931660",
+      "40516528",
+      "24123378",
+      "22158708",
+      "25107471",
+      "21828274",
+      "23852375",
+      "33800594",
+      "25880792",
+      "40048009",
+      "15459100",
+      "17525233",
+      "21278485",
+      "28215965",
+      "26800240",
+      "30522506",
+      "29896299",
+      "28939884",
+      "41663271",
+      "31996376",
+      "28228601",
+      "21215263",
+      "29891558",
+      "30305391",
+      "30689973",
+      "40287708",
+      "28254491",
+      "29606589",
+      "26038315",
+      "31488576",
+      "23671187",
+      "42432166",
+      "29033324",
+      "24213577",
+      "39303719",
+      "26283540",
+      "28283910",
+      "30122154",
+      "17568773",
+      "42443217",
+      "36222718",
+      "24336765",
+      "25511461",
+      "29321178",
+      "32937136",
+      "36476271",
+      "27535791",
+      "41253814",
+      "30282636",
+      "19462008",
+      "27068104",
+      "23468641",
+      "36858198",
+      "30517868",
+      "26700681",
+      "22215809",
+      "24352422",
+      "15520282",
+      "31936461",
+      "31481081",
+      "34685528",
+      "27783950",
+      "31914400",
+      "40795221",
+      "29576612",
+      "29681498",
+      "19334278",
+      "41413688",
+      "42685388"
+    ],
+    "review": [
+      "43042765",
+      "32450966",
+      "40048009"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.biologists.com/dev/article-lookup/doi/10.1242/dev.206168",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

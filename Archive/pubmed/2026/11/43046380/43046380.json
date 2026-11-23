@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "43046380",
+    "doi": "10.1021/acs.analchem.6c06144",
+    "title": "SPRINT-Cas12a: A Single Leading-Hairpin Probe-Enabled Dual-Pathway Activation Strategy for Sensitive miRNA Detection."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas12a possesses robust trans-cleavage activity and has emerged as a powerful tool for nucleic acid detection. However, the efficient integration of Cas12a trans-cleavage with direct miRNA recognition and signal amplification remains challenging, particularly because conventional assay designs often rely on multiple probes or a single activation pathway. Here, we developed SPRINT-Cas12a, a single-probe RNA-triggered integrated trans-cleavage platform for sensitive miRNA detection. In this design, a leading hairpin probe (L-HP) specifically recognizes the target miRNA and initiates polymerase-mediated cascade isothermal amplification, synchronously generating two structurally distinct Cas12a-activating products: an RNA-DNA complex and a long-chain micro-hairpin probe (L-MHP). These products provide complementary activation pathways for Cas12a, thereby promoting reporter cleavage and fluorescence signal generation. The single-probe architecture simplifies probe design while enabling synergistic signal amplification through dual-pathway Cas12a activation. The platform was successfully adapted for the detection of miR-21 and miR-122, two miRNAs with distinct sequences, demonstrating its modularity and sequence versatility. Using miR-192 as a hepatocellular carcinoma-associated target, the method achieved sensitive detection in serum samples and distinguished patients with hepatocellular carcinoma from healthy controls, with results consistent with stem-loop quantitative reverse-transcription PCR. In addition, the platform was coupled with a lateral flow assay to provide an instrument-free visual readout. Depending on the amplification and readout format, the assay could be completed within 90 min to 120 min using simple laboratory equipment. Overall, SPRINT-Cas12a provides a single-probe, dual-pathway strategy for Cas12a-mediated miRNA detection and shows promise for portable molecular diagnostics and point-of-care testing.",
+    "keywords": [],
+    "mesh_terms": [
+      "*MicroRNAs/analysis/genetics/blood",
+      "Humans",
+      "Nucleic Acid Amplification Techniques/methods",
+      "CRISPR-Cas Systems",
+      "*CRISPR-Associated Proteins/metabolism/genetics/chemistry",
+      "Limit of Detection",
+      "*Bacterial Proteins/metabolism/genetics",
+      "Endodeoxyribonucleases"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Qian",
+        "Liu, Junda",
+        "Xue, Mo",
+        "Wang, Jiahao",
+        "Zhang, Youfei",
+        "Huai, Luzhen",
+        "Zhu, Xingzhou",
+        "Liu, Xiaoyan",
+        "Wang, Jie"
+      ],
+      "short_names": [
+        "Li Q",
+        "Liu J",
+        "Xue M",
+        "Wang J",
+        "Zhang Y",
+        "Huai L",
+        "Zhu X",
+        "Liu X",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9954-4750"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China.",
+        "Department of Anesthesiology, The First Affiliated Hospital of Anhui Medical University, Anhui Medical University, Hefei230022, Anhui, China.",
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China.",
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China.",
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China.",
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China.",
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China.",
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China.",
+        "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Qian",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Junda",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, The First Affiliated Hospital of Anhui Medical University, Anhui Medical University, Hefei230022, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Mo",
+        "short_name": "Xue M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiahao",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Youfei",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Huai, Luzhen",
+        "short_name": "Huai L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Xingzhou",
+        "short_name": "Zhu X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaoyan",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jie",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0000-0001-9954-4750"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Macromolecular Drugs and Large-scale Preparation, Hefei Center, School of Pharmacy, Anhui Medical University, Hefei230032, Anhui, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 05:33",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43046380",
+      "42659818",
+      "42753299",
+      "42600477",
+      "34011151",
+      "41552883",
+      "40745870",
+      "43009987",
+      "42669262",
+      "39982896",
+      "41039127",
+      "42543449",
+      "42263201",
+      "42068913",
+      "39831800",
+      "42399613",
+      "42503780",
+      "39740588",
+      "38871161",
+      "42391661",
+      "40179681",
+      "40517335",
+      "39718242",
+      "42441514",
+      "40157150",
+      "40254669",
+      "40610153",
+      "40187291",
+      "41747377",
+      "40354126",
+      "41661055",
+      "40441113",
+      "40160100",
+      "40331901",
+      "40749504",
+      "41073014",
+      "40930528",
+      "41831412",
+      "43010390",
+      "40889206",
+      "42217942",
+      "32809800",
+      "39516870",
+      "40924991",
+      "42068385",
+      "42715083",
+      "38852348",
+      "42915694",
+      "40277382",
+      "40877023",
+      "42734821",
+      "42424186",
+      "41834690",
+      "42330669",
+      "40878190",
+      "41614690",
+      "37722405",
+      "41800529",
+      "40803011",
+      "42610192",
+      "42648078",
+      "39724854",
+      "40607956",
+      "40199100",
+      "42417866",
+      "41330674",
+      "41072237",
+      "41261109",
+      "42838679",
+      "42858625",
+      "38896292",
+      "42913300",
+      "42571623",
+      "42790075",
+      "38994004",
+      "38849560",
+      "41217936",
+      "42474386",
+      "41834687",
+      "38772660",
+      "33570401",
+      "41222482",
+      "43010510",
+      "38969407",
+      "39023769",
+      "42296867",
+      "40360969",
+      "40593618",
+      "36558152",
+      "39720925",
+      "41628563",
+      "42707723",
+      "41719905",
+      "41261856",
+      "40277547",
+      "41555514",
+      "41990423",
+      "41892062",
+      "43003575",
+      "40862592"
+    ],
+    "review": [
+      "43046380",
+      "41834690"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-DLC1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-671",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c06144",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

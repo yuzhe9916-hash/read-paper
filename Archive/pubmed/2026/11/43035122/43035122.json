@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "43035122",
+    "doi": "10.1016/j.lfs.2026.124785",
+    "title": "Beyond off-target editing: the emerging landscape of Cas9 cytotoxicity and immunogenicity across biological systems."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 has transformed agricultural biotechnology, microbial engineering, and human therapeutics within a decade, yet biosafety assessment remains focused on editing accuracy and off-target cleavage. A second, neglected question is what the high-molecular-weight Cas9 effector protein does to expressing systems. This review integrates evidence from eukaryotic cell lines, microbial hosts, transgenic mammals, and dietary exposure models. In isolated cells Cas9 injures the host by three routes, only one requiring DNA cleavage: TP53-dependent genotoxic stress at susceptible loci, modified by cell sex and p53 status; guide-independent binding to ribosomal proteins that activates the PI3K-mTORC2 axis; and promiscuous association with host transcripts inducing a p53-linked stress programme. In GC-rich bacteria, PAM density and limited double-strand break repair make basal expression lethal. Intact mammals tolerate tissue-restricted Cas9 expression, although nervous system and germline compartments are exceptions, and dietary exposure carries no measurable toxicological or allergenic risk. Pre-existing anti-Cas9 immunity is the dominant translational barrier. Proteasomal, SUMO-regulated and autophagic pathways together set Cas9 half-life. Transient ribonucleoprotein delivery, anti-CRISPR, degron-based control, and lower-toxicity orthogonal nucleases each narrow this exposure window. We conclude that Cas9 toxicity is not intrinsic but contingent on expression kinetics, delivery format, host repair, proteostatic capacity, and immunological history. Biosafety is therefore a tunable design parameter, and this review provides a mechanism-based framework for matching nuclease, delivery route and temporal control to the intended application.",
+    "keywords": [
+      "Biosafety",
+      "CRISPR-Cas9",
+      "Dietary safety",
+      "Immunogenicity",
+      "Orthogonal nucleases",
+      "p53 stress response"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Awais, Muhammad",
+        "Sadaqat, Sahar",
+        "Iftikhar, Noreen",
+        "Arslan, Muhammad",
+        "Fatemi, Ehsan",
+        "Yasmeen, Aneela",
+        "Shahid, Naila",
+        "Wang, Zhi",
+        "Rao, Abdul Qayyum"
+      ],
+      "short_names": [
+        "Awais M",
+        "Sadaqat S",
+        "Iftikhar N",
+        "Arslan M",
+        "Fatemi E",
+        "Yasmeen A",
+        "Shahid N",
+        "Wang Z",
+        "Rao AQ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: awaisgee75@gmail.com.",
+        "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: sahar.sadaqat19@gmail.com.",
+        "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: noreeniftikhar0505@gmail.com.",
+        "Plant Breeding Institute, Christian Albrechts University of Kiel, Kiel, Germany. Electronic address: m.arslan@plantbreeding.uni-kiel.de.",
+        "Plant Breeding Institute, Christian Albrechts University of Kiel, Kiel, Germany. Electronic address: ehsan.fatemi@fh-erfurt.de.",
+        "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: anila.malik5@gmail.com.",
+        "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: naila.cemb1@gmail.com.",
+        "Zhengzhou Research Base, State Key Laboratory of Cotton Bio-breeding and Integrated Utilization, Zhengzhou University, Zhengzhou, Henan, 450001, China; National Nanfan Research Institute (Sanya), Chinese Academy of Agricultural Sciences, Sanya, Hainan, 572019, China. Electronic address: wangzhi01@caas.cn.",
+        "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: qayyum.cemb@pu.edu.pk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Awais, Muhammad",
+        "short_name": "Awais M",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: awaisgee75@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Sadaqat, Sahar",
+        "short_name": "Sadaqat S",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: sahar.sadaqat19@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Iftikhar, Noreen",
+        "short_name": "Iftikhar N",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: noreeniftikhar0505@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Arslan, Muhammad",
+        "short_name": "Arslan M",
+        "identifiers": [],
+        "affiliations": [
+          "Plant Breeding Institute, Christian Albrechts University of Kiel, Kiel, Germany. Electronic address: m.arslan@plantbreeding.uni-kiel.de."
+        ]
+      },
+      {
+        "full_name": "Fatemi, Ehsan",
+        "short_name": "Fatemi E",
+        "identifiers": [],
+        "affiliations": [
+          "Plant Breeding Institute, Christian Albrechts University of Kiel, Kiel, Germany. Electronic address: ehsan.fatemi@fh-erfurt.de."
+        ]
+      },
+      {
+        "full_name": "Yasmeen, Aneela",
+        "short_name": "Yasmeen A",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: anila.malik5@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Shahid, Naila",
+        "short_name": "Shahid N",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: naila.cemb1@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhi",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Zhengzhou Research Base, State Key Laboratory of Cotton Bio-breeding and Integrated Utilization, Zhengzhou University, Zhengzhou, Henan, 450001, China; National Nanfan Research Institute (Sanya), Chinese Academy of Agricultural Sciences, Sanya, Hainan, 572019, China. Electronic address: wangzhi01@caas.cn."
+        ]
+      },
+      {
+        "full_name": "Rao, Abdul Qayyum",
+        "short_name": "Rao AQ",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Excellence in Molecular Biology, University of the Punjab, Lahore, Pakistan. Electronic address: qayyum.cemb@pu.edu.pk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Life sciences"
+    ],
+    "journal_abbrev": [
+      "Life Sci"
+    ],
+    "pub_date": "2026 Nov 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 00:34",
+    "fetched_at": "2026-11-23 21:35:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43035122",
+      "42475469",
+      "29019352",
+      "39150724",
+      "30728669",
+      "42766154",
+      "35700449",
+      "40324075",
+      "42303162",
+      "37000655",
+      "32441252",
+      "30894153",
+      "41585947",
+      "41329461",
+      "42798792",
+      "30511631",
+      "42758354",
+      "42787623",
+      "31728703",
+      "42173386",
+      "33509781",
+      "43044679",
+      "26506267",
+      "35915475",
+      "31589876",
+      "32643177",
+      "36687047",
+      "42187710",
+      "34757726",
+      "32687165",
+      "31295471",
+      "36928106",
+      "31821359",
+      "42470562",
+      "40898426",
+      "33718515",
+      "30850590",
+      "35766512",
+      "34576035",
+      "33233344",
+      "34694606",
+      "32749657",
+      "33339441",
+      "28119062",
+      "38859956",
+      "33448189",
+      "39276086",
+      "34745851",
+      "38325664",
+      "32642978",
+      "39777970",
+      "32926384",
+      "41288355",
+      "34080099",
+      "35975201",
+      "34050017",
+      "26524520",
+      "25378133",
+      "39012601",
+      "42886223",
+      "34006094",
+      "31253785",
+      "28351759",
+      "31691023",
+      "42653378",
+      "38255897",
+      "28706995",
+      "26209264",
+      "31099553",
+      "31601489",
+      "42046128",
+      "41678668",
+      "29361752",
+      "33609360",
+      "24838573",
+      "42983612",
+      "42192532",
+      "36162766",
+      "29333255",
+      "28527117",
+      "35681543",
+      "39604381",
+      "33074412",
+      "41987615",
+      "35688932",
+      "31071448",
+      "27832534",
+      "31267870",
+      "36927663",
+      "28851809",
+      "42090053",
+      "39647515",
+      "28815851",
+      "40799508",
+      "31726388",
+      "34478654",
+      "39461690",
+      "31230441",
+      "41454745",
+      "39937081"
+    ],
+    "review": [
+      "43035122",
+      "39150724",
+      "30728669",
+      "42766154",
+      "42303162",
+      "41585947",
+      "41329461",
+      "30511631",
+      "42758354",
+      "42787623",
+      "42173386",
+      "33509781",
+      "43044679",
+      "26506267",
+      "36687047",
+      "42187710",
+      "31295471",
+      "40898426",
+      "34576035",
+      "33233344",
+      "32749657",
+      "33339441",
+      "38859956",
+      "33448189",
+      "39276086",
+      "34745851",
+      "32642978",
+      "34080099",
+      "35975201",
+      "31691023",
+      "38255897",
+      "26209264",
+      "42046128",
+      "29361752",
+      "29333255",
+      "28527117",
+      "41987615",
+      "31071448",
+      "31267870",
+      "42090053",
+      "28815851",
+      "41454745"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0024-3205(26)00594-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

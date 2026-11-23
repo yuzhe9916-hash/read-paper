@@ -1,0 +1,306 @@
+{
+  "identity": {
+    "pmid": "43061970",
+    "doi": "10.1021/acssynbio.6c00361",
+    "title": "Engineering GFPuv Reporters for Visual Screening across Filamentous Fungi to Enable CRISPR Genome Editing in Aspergillus pseudoterreus."
+  },
+  "content": {
+    "abstract": "GFPuv is a UV-excitable fluorescent reporter that enables rapid monitoring of gene expression, particularly in microbial systems. However, its application in filamentous fungi remains limited. Here, we evaluated GFPuv variants and identified one that performs robustly across Aspergillus species and the yeast Yarrowia lipolytica. Under UV illumination, transformed green fluorescent colonies can be visualized without colony dissection or microscopy, significantly simplifying screening. CRISPR-based genome editing has not been previously established in Aspergillus pseudoterreus. By integrating the optimized GFPuv reporter into a transformation and selection system, we established, to our knowledge, the first CRISPR knockout platform in this species. Targeted disruption of the genes pyrG, CAD, and PrID505606 validated the platform. PCR and Sanger sequencing confirmed that GFPuv-positive colonies were true mutants, while loss-of-function phenotypes of pyrG and CAD further supported platform reliability. This work establishes GFPuv as a rapid, microscopy-independent screening tool in select fungi and provides a foundational CRISPR framework for engineering A. pseudoterreus.",
+    "keywords": [
+      "Aspergillus",
+      "CRISPR",
+      "GFPuv",
+      "UV light",
+      "fluorescence",
+      "transformation"
+    ],
+    "mesh_terms": [
+      "*Aspergillus/genetics",
+      "*Green Fluorescent Proteins/genetics/metabolism",
+      "*Gene Editing/methods",
+      "*CRISPR-Cas Systems/genetics",
+      "Genes, Reporter/genetics",
+      "Clustered Regularly Interspaced Short Palindromic Repeats/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yuan, Guoliang",
+        "Deng, Shuang",
+        "Lemmon, Sarah L",
+        "Dai, Ziyu",
+        "Hofstad, Beth A",
+        "Pomraning, Kyle R"
+      ],
+      "short_names": [
+        "Yuan G",
+        "Deng S",
+        "Lemmon SL",
+        "Dai Z",
+        "Hofstad BA",
+        "Pomraning KR"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6562-8769",
+        "ORCID: 0000-0001-7557-586X",
+        "ORCID: 0000-0003-2324-2881"
+      ],
+      "affiliations": [
+        "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+        "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States.",
+        "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+        "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States.",
+        "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+        "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+        "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States.",
+        "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+        "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States.",
+        "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+        "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yuan, Guoliang",
+        "short_name": "Yuan G",
+        "identifiers": [
+          "0000-0002-6562-8769"
+        ],
+        "affiliations": [
+          "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+          "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States."
+        ]
+      },
+      {
+        "full_name": "Deng, Shuang",
+        "short_name": "Deng S",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+          "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States."
+        ]
+      },
+      {
+        "full_name": "Lemmon, Sarah L",
+        "short_name": "Lemmon SL",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States."
+        ]
+      },
+      {
+        "full_name": "Dai, Ziyu",
+        "short_name": "Dai Z",
+        "identifiers": [
+          "0000-0001-7557-586X"
+        ],
+        "affiliations": [
+          "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+          "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States."
+        ]
+      },
+      {
+        "full_name": "Hofstad, Beth A",
+        "short_name": "Hofstad BA",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+          "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States."
+        ]
+      },
+      {
+        "full_name": "Pomraning, Kyle R",
+        "short_name": "Pomraning KR",
+        "identifiers": [
+          "0000-0003-2324-2881"
+        ],
+        "affiliations": [
+          "Chemical and Biological Processes Development Group, Pacific Northwest National Laboratory, Richland, Washington99352, United States.",
+          "U.S. Department of Energy Agile BioFoundry, Emeryville, California94608, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43061970",
+      "33573639",
+      "33612423",
+      "30478227",
+      "41387770",
+      "43012712",
+      "40086675",
+      "29754237",
+      "33783162",
+      "27709567",
+      "30871076",
+      "33751237",
+      "34480847",
+      "41420495",
+      "27725766",
+      "41928679",
+      "31010727",
+      "29687998",
+      "40810600",
+      "30610625",
+      "29326075",
+      "35788357",
+      "30610626",
+      "40591237",
+      "32887261",
+      "32843348",
+      "29754231",
+      "40774862",
+      "32470504",
+      "38909984",
+      "35101371",
+      "31129735",
+      "30652290",
+      "37131068",
+      "26755436",
+      "33842017",
+      "30548045",
+      "28487268",
+      "29473500",
+      "29659822",
+      "42405245",
+      "41202983",
+      "28214366",
+      "32526136",
+      "38410866",
+      "33827404",
+      "32657224",
+      "40675807",
+      "28279800",
+      "33397707",
+      "36460630",
+      "39804663",
+      "41674084",
+      "26850641",
+      "37490214",
+      "28584995",
+      "33606203",
+      "27236514",
+      "31332488",
+      "29754234",
+      "28288698",
+      "37642716",
+      "29358495",
+      "33443212",
+      "28522326",
+      "42771304",
+      "41173724",
+      "33650757",
+      "29332168",
+      "33597771",
+      "30894433",
+      "29690746",
+      "28851809",
+      "34963339",
+      "29862665",
+      "28254804",
+      "29812974",
+      "32194155",
+      "35779647",
+      "35628723",
+      "32500600",
+      "31446470",
+      "42915614",
+      "31853989",
+      "30078067",
+      "31791730",
+      "25690852",
+      "31769791",
+      "35091037",
+      "31685795",
+      "30926729",
+      "27709565",
+      "30224156",
+      "30951374",
+      "31862124",
+      "28763160",
+      "29899105",
+      "28140746",
+      "29082719",
+      "28790199"
+    ],
+    "review": [
+      "43061970",
+      "43012712",
+      "40086675",
+      "33783162",
+      "33751237",
+      "29326075",
+      "40591237",
+      "32470504",
+      "38909984",
+      "33842017",
+      "30548045",
+      "28487268",
+      "29473500",
+      "29659822",
+      "42405245",
+      "33827404",
+      "40675807",
+      "31332488",
+      "28288698",
+      "29358495",
+      "42771304",
+      "29690746",
+      "34963339",
+      "29862665",
+      "28254804",
+      "35628723",
+      "42915614",
+      "30078067",
+      "31791730",
+      "35091037",
+      "31685795",
+      "31862124",
+      "28140746",
+      "29082719"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-466",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/asbcd6/article-lookup/doi/10.1021/acssynbio.6c00361",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "identity": {
+    "pmid": "43043674",
+    "doi": "10.1172/jci.insight.201920",
+    "title": "A universal platform for TCRalpha/beta removal enables safer and more potent TCR therapies and autoimmune modeling."
+  },
+  "content": {
+    "abstract": "Adoptive T-cell therapies using tumour-specific T-cell receptors (TCRs) are limited by competition with endogenous receptors, impairing efficacy and posing risks of off-target autoreactivity. Here we present a CRISPR-based platform that selectively eliminates both endogenous TCR-alpha and -beta chains without affecting transgenic TCRs, irrespective of codon optimization. This approach achieves >90% deletion efficiency in Jurkat and primary human T cells, enhancing expression and functional potency of transgenic receptors. Using an HLA-A*02:01-restricted DMF5 TCR, we show that dual TCR ablation boosts antigen-specific activation and cytotoxicity in vitro and enhances tumor clearance in vivo in human immune system (HIS) mice and prevents graft-versus-host disease (GVHD). Targeted locus amplification showed that CRISPR-induced double-strand breaks did not alter lentiviral integration profiles, supporting genomic safety. Extending this approach to four insulin-reactive TCRs demonstrated that endogenous receptor removal increased transduction efficiency and functional activity, with one (1E6) showing selective activation and infiltration of islet grafts (SC-islets) in vivo. This study establishes a universal, safe, and scalable genome-editing platform for generating functionally precise human T cells. By integrating cancer immunotherapy and autoimmune disease modelling within a single framework, it provides a preclinical rationale for dual endogenous TCR removal to improve specificity, safety, and therapeutic efficacy in TCR-based cell therapies.",
+    "keywords": [
+      "Autoimmune diseases",
+      "Autoimmunity",
+      "Immunology",
+      "Immunotherapy",
+      "T cell receptor"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zanetti, Giorgia",
+        "Nikhat, Sameena",
+        "Legut, Mateusz",
+        "Chen, Austin",
+        "Fathi, Farshid",
+        "Suek, Nathan",
+        "Teteloshvili, Nato",
+        "Li, Hao Wei",
+        "Ding, Xiaolan",
+        "Traum, Daniel",
+        "Kaestner, Klaus H",
+        "Hoang, Ryan E",
+        "Sewell, Andrew K",
+        "Parent, Audrey V",
+        "Creusot, Remi J",
+        "Sykes, Megan",
+        "Khosravi-Maharlooei, Mohsen"
+      ],
+      "short_names": [
+        "Zanetti G",
+        "Nikhat S",
+        "Legut M",
+        "Chen A",
+        "Fathi F",
+        "Suek N",
+        "Teteloshvili N",
+        "Li HW",
+        "Ding X",
+        "Traum D",
+        "Kaestner KH",
+        "Hoang RE",
+        "Sewell AK",
+        "Parent AV",
+        "Creusot RJ",
+        "Sykes M",
+        "Khosravi-Maharlooei M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Department of Immunology, Mayo Clinic, Phoenix, United States of America.",
+        "OverT Bio, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Institute for Diabetes, Obesity, and Metabolism, University of Pennsylvania, Perelman School of Medicine, Philadelphia, United States of America.",
+        "Institute for Diabetes, Obesity, and Metabolism, University of Pennsylvania, Perelman School of Medicine, Philadelphia, United States of America.",
+        "Diabetes Center, UCSF, San Francisco, United States of America.",
+        "Division of Infection and Immunity, Cardiff University School of Medicine, Cardiff, United Kingdom.",
+        "Diabetes Center, UCSF, San Francisco, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America.",
+        "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zanetti, Giorgia",
+        "short_name": "Zanetti G",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Nikhat, Sameena",
+        "short_name": "Nikhat S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology, Mayo Clinic, Phoenix, United States of America."
+        ]
+      },
+      {
+        "full_name": "Legut, Mateusz",
+        "short_name": "Legut M",
+        "identifiers": [],
+        "affiliations": [
+          "OverT Bio, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Chen, Austin",
+        "short_name": "Chen A",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Fathi, Farshid",
+        "short_name": "Fathi F",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Suek, Nathan",
+        "short_name": "Suek N",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Teteloshvili, Nato",
+        "short_name": "Teteloshvili N",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Li, Hao Wei",
+        "short_name": "Li HW",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Ding, Xiaolan",
+        "short_name": "Ding X",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Traum, Daniel",
+        "short_name": "Traum D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Diabetes, Obesity, and Metabolism, University of Pennsylvania, Perelman School of Medicine, Philadelphia, United States of America."
+        ]
+      },
+      {
+        "full_name": "Kaestner, Klaus H",
+        "short_name": "Kaestner KH",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Diabetes, Obesity, and Metabolism, University of Pennsylvania, Perelman School of Medicine, Philadelphia, United States of America."
+        ]
+      },
+      {
+        "full_name": "Hoang, Ryan E",
+        "short_name": "Hoang RE",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, UCSF, San Francisco, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sewell, Andrew K",
+        "short_name": "Sewell AK",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Infection and Immunity, Cardiff University School of Medicine, Cardiff, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Parent, Audrey V",
+        "short_name": "Parent AV",
+        "identifiers": [],
+        "affiliations": [
+          "Diabetes Center, UCSF, San Francisco, United States of America."
+        ]
+      },
+      {
+        "full_name": "Creusot, Remi J",
+        "short_name": "Creusot RJ",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sykes, Megan",
+        "short_name": "Sykes M",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      },
+      {
+        "full_name": "Khosravi-Maharlooei, Mohsen",
+        "short_name": "Khosravi-Maharlooei M",
+        "identifiers": [],
+        "affiliations": [
+          "Columbia Center for Translational Immunology, Department of Medicine, Columbia University Medical Center, Columbia University, New York, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JCI insight"
+    ],
+    "journal_abbrev": [
+      "JCI Insight"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 17:30",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43043674",
+      "41756994",
+      "27028870",
+      "41653624",
+      "35853277",
+      "40744664",
+      "34616392",
+      "37325626",
+      "39776913",
+      "25302633",
+      "27823582",
+      "31690351",
+      "24670996",
+      "33262761",
+      "41608579",
+      "37675556",
+      "28637663",
+      "30464762",
+      "38345397",
+      "31054264",
+      "40681176",
+      "39794936",
+      "42137600",
+      "31636040",
+      "41376627",
+      "39929683",
+      "29122757",
+      "34088742",
+      "31552033",
+      "31719055",
+      "25943533",
+      "37747811",
+      "30865026",
+      "41088891",
+      "33771892",
+      "16968899",
+      "41376778",
+      "30528087",
+      "39601444",
+      "35288464",
+      "40205806",
+      "21673345",
+      "36822673",
+      "12507815",
+      "35711141",
+      "36793716",
+      "35138911",
+      "20208133",
+      "41500040",
+      "23251685",
+      "40983341",
+      "42926041",
+      "39856752",
+      "25015825",
+      "38580329",
+      "31316521",
+      "36809225",
+      "29556312",
+      "36939853",
+      "41726869",
+      "25245536",
+      "42864652",
+      "28117148",
+      "30626427",
+      "38493479",
+      "41007874",
+      "42362103",
+      "28573185",
+      "41566777",
+      "37047500",
+      "30344927",
+      "20668510",
+      "42973514",
+      "41709576",
+      "39572159",
+      "34058386",
+      "40762498",
+      "42258750",
+      "19996290",
+      "24681846",
+      "40220754",
+      "27281613",
+      "30168881",
+      "37822720",
+      "23428899",
+      "26693713",
+      "32425926",
+      "41655433",
+      "38666334",
+      "38873603",
+      "39819441",
+      "36808076",
+      "32570906",
+      "39146830",
+      "22466705",
+      "38690288",
+      "30530988",
+      "30877233",
+      "41058174",
+      "41313840"
+    ],
+    "review": [
+      "43043674",
+      "33262761",
+      "12507815",
+      "41007874",
+      "41566777",
+      "32570906",
+      "39146830"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1172/jci.insight.201920",
+        "provider": "American Society for Clinical Investigation",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

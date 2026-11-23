@@ -1,0 +1,218 @@
+{
+  "identity": {
+    "pmid": "43038756",
+    "doi": "10.1016/j.compbiolchem.2026.109577",
+    "title": "PIK-75 suppresses SREBP-dependent sterol-synthesis genes in PIK3CA-altered small-cell lung cancer cells, but attribution to p110alpha remains unresolved."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Class IA PI3K isoforms are candidate therapeutic targets in small-cell lung cancer (SCLC). The transcriptional consequences of isoform-directed inhibitors in SCLC cells have not been compared genome-wide. METHODS: We re-analysed GEO series GSE40564, in which PIK3CA-altered NCI-H69 cells were treated for 24 h with vehicle, PIK-75 (p110alpha-directed) or TGX-221 (p110beta-directed), with three arrays per group. Differential expression used limma, with re-processing from raw files and spike-in-anchored normalisation as sensitivity analyses. Gene sets were tested with correlation-adjusted competitive tests (camera), including a direct comparison of the two compounds. The main finding was checked against LINCS L1000 signatures of selective PI3K inhibitors and an independent alpelisib RNA-seq dataset. Isoform dependency was examined in DepMap CRISPR screens, and a PIK-75 response score was tested in 81 primary SCLCs against matched random-signature nulls. RESULTS: PIK-75 changed 11,645 of 17,458 genes at FDR < 0.05; 316 decreased and 20 increased significantly beyond two-fold. Its clearest pathway-level effect was lower expression of SREBP-controlled sterol- and lipid-synthesis genes (SQLE, HMGCS1, HMGCR, LDLR, SCD; log2 fold-change -1.1 to -1.6). Cholesterol homeostasis was the only gene set that stayed significant after correlation adjustment (camera FDR = 0.02) and that differed significantly between PIK-75 and TGX-221 (FDR = 0.02). TGX-221 changed 358 genes, none two-fold, and its response depended on two of three replicates. In LINCS, the down-regulated genes of alpelisib and taselisib were enriched for SREBP targets (p  approximately  5 x 10(-)(6)), whereas those of TGX-221 were not, and alpelisib reduced several of the same genes in an independent dataset. PIK-75 also inhibits CDK9 and DNA-PK, and canonical FOXO targets were not induced, so the response cannot be attributed to p110alpha alone. SCLC lines depended more on PIK3CA than on PIK3CB in DepMap (median Chronos -0.38 vs -0.15), as did other lineages. In patients, the response score was not associated with survival beyond matched random signatures (empirical p = 0.12-0.14). CONCLUSION: To our knowledge, this is the first genome-wide comparison of isoform-directed PI3K inhibitors in SCLC cells. PIK-75, but not TGX-221, suppresses an SREBP-dependent sterol programme in NCI-H69 cells, and public data from selective p110alpha inhibitors point to PI3K signalling as its most plausible source. Because PIK-75 is not selective and TGX-221 exposure was not measured, the attribution to p110alpha and the apparent dispensability of p110beta remain preliminary.",
+    "keywords": [
+      "DepMap",
+      "PI3K isoforms",
+      "PIK-75",
+      "SREBP",
+      "Small-cell lung cancer",
+      "TGX-221",
+      "Transcriptome re-analysis",
+      "mTORC1"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Movaqar, Aref",
+        "Yaghoubi, Atieh",
+        "Rezaee, Seyed Abdolrahim"
+      ],
+      "short_names": [
+        "Movaqar A",
+        "Yaghoubi A",
+        "Rezaee SA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Antimicrobial Resistance Research Center, Mashhad University of Medical Sciences, Mashhad, Iran; Department of Microbiology and Virology, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.",
+        "Antimicrobial Resistance Research Center, Mashhad University of Medical Sciences, Mashhad, Iran; Department of Microbiology and Virology, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.",
+        "Inflammation & Inflammatory Diseases Research Center, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran. Electronic address: RezaeeR@mums.ac.ir."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Movaqar, Aref",
+        "short_name": "Movaqar A",
+        "identifiers": [],
+        "affiliations": [
+          "Antimicrobial Resistance Research Center, Mashhad University of Medical Sciences, Mashhad, Iran; Department of Microbiology and Virology, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+        ]
+      },
+      {
+        "full_name": "Yaghoubi, Atieh",
+        "short_name": "Yaghoubi A",
+        "identifiers": [],
+        "affiliations": [
+          "Antimicrobial Resistance Research Center, Mashhad University of Medical Sciences, Mashhad, Iran; Department of Microbiology and Virology, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+        ]
+      },
+      {
+        "full_name": "Rezaee, Seyed Abdolrahim",
+        "short_name": "Rezaee SA",
+        "identifiers": [],
+        "affiliations": [
+          "Inflammation & Inflammatory Diseases Research Center, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran. Electronic address: RezaeeR@mums.ac.ir."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 23:29",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43038756",
+      "35331184",
+      "25908763",
+      "17362206",
+      "42814674",
+      "37469415",
+      "36321557",
+      "29016844",
+      "22556157",
+      "24361696",
+      "26176612",
+      "29887953",
+      "30228821",
+      "18755892",
+      "27903677",
+      "43023514",
+      "20236230",
+      "21668414",
+      "42196155",
+      "25311989",
+      "36585695",
+      "42827142",
+      "20534549",
+      "20103642",
+      "23674493",
+      "18980969",
+      "37101291",
+      "28549032",
+      "35918763",
+      "30499025",
+      "24240111",
+      "31952518",
+      "28662101",
+      "27167447",
+      "25276052",
+      "30544563",
+      "42465359",
+      "28002804",
+      "42565562",
+      "24362439",
+      "42153148",
+      "24991009",
+      "24915189",
+      "22150431",
+      "23775716",
+      "20089935",
+      "31938253",
+      "23371322",
+      "39872525",
+      "24124465",
+      "38791602",
+      "23341541",
+      "24737887",
+      "31522336",
+      "37131395",
+      "12446768",
+      "24718026",
+      "25890698",
+      "23459844",
+      "43041606",
+      "24766330",
+      "39688216",
+      "43001178",
+      "24418330",
+      "15026365",
+      "21778304",
+      "36905114",
+      "19033389",
+      "42446738",
+      "25982275",
+      "38309959",
+      "33707948",
+      "34395507",
+      "23172887",
+      "19260826",
+      "16339315",
+      "39669201",
+      "27176481",
+      "33549048",
+      "34884613",
+      "39219229",
+      "24249715",
+      "35085395",
+      "42964907",
+      "38583771",
+      "33526718",
+      "36998707",
+      "23633485",
+      "22502592",
+      "41916029",
+      "28342963",
+      "24782652",
+      "19366795",
+      "34190319",
+      "36913051",
+      "23275335",
+      "20058239",
+      "32563265",
+      "42993221",
+      "23568272"
+    ],
+    "review": [
+      "43038756",
+      "36321557",
+      "30544563",
+      "33707948"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00704-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1602",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

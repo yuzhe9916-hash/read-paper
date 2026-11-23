@@ -1,0 +1,272 @@
+{
+  "identity": {
+    "pmid": "43042969",
+    "doi": "10.1128/jvi.01243-26",
+    "title": "A chicken interferon-stimulated gene screen reveals limited genes restricting influenza virus replication."
+  },
+  "content": {
+    "abstract": "Avian influenza A virus (IAV) is a major global health threat. Not only does it cause significant economic losses to the agricultural industry, but it also presents a risk of spillover into the human population. However, several obstacles must be overcome for a successful cross-species transmission event to occur. One of these obstacles is the innate immunity of the host. While the innate immune response to IAV in humans has been well-studied, the innate immune response to IAV in birds is not as well understood. Here, we explore the interferon-induced immune response by identifying interferon-stimulated genes (ISGs) in chicken, quail, and duck cells, and find that they are largely species-specific. Using this data, we performed a CRISPR knockout ISG screen against two strains of IAV, the mouse-adapted PR8, and the low pathogenicity avian IAV isolate WF10. We find that for PR8, IFITM3 is the dominant restrictor of viral replication with several additional hits with modest effects, consistent with previous work in mammals. For avian WF10, IFITM3 was also a hit; however, there were two additional hits absent for PR8, the HSP70 co-chaperone protein BAG5 and the deubiquitinase OTUD4. Overall, these findings confirm the divergence of interferon-mediated immunity between species and establish a screening system that can be used to identify ISGs important for viral restriction in avian species.IMPORTANCEWild birds, especially waterfowl and shorebirds, are the primary natural reservoir for influenza A viruses. These birds can transmit IAV to domestic poultry, where the spillover risk to humans increases. Chickens are the most common species of domestic poultry worldwide and frequently infected with avian influenza viruses. Despite this, relatively little is known about how their immune system responds to influenza infection. This lack of knowledge creates a barrier to finding ways of preventing or mitigating IAV infection in chicken flocks. In this study, we characterized the interferon-induced immune response to IAV in chickens and found that only a small subset of ISGs were responsible for restricting IAV in chicken cells.",
+    "keywords": [
+      "CRISPR screen",
+      "avian influenza",
+      "host-pathogen interactions",
+      "influenza A virus"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Barkhymer, Alison J",
+        "Becker, Jordan T",
+        "Shepherd, Frances K",
+        "Mickelson, Clayton K",
+        "Pross, Lauren M",
+        "Salnikov, Mark",
+        "Langlois, Ryan A"
+      ],
+      "short_names": [
+        "Barkhymer AJ",
+        "Becker JT",
+        "Shepherd FK",
+        "Mickelson CK",
+        "Pross LM",
+        "Salnikov M",
+        "Langlois RA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0239-5443",
+        "ORCID: 0000-0002-0515-571X"
+      ],
+      "affiliations": [
+        "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13",
+        "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA. RINGGOLD: 5635. ROR: https://ror.org/017zqws13"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Barkhymer, Alison J",
+        "short_name": "Barkhymer AJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA.",
+          "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA."
+        ]
+      },
+      {
+        "full_name": "Becker, Jordan T",
+        "short_name": "Becker JT",
+        "identifiers": [
+          "0000-0002-0239-5443"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA.",
+          "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA."
+        ]
+      },
+      {
+        "full_name": "Shepherd, Frances K",
+        "short_name": "Shepherd FK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA.",
+          "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA."
+        ]
+      },
+      {
+        "full_name": "Mickelson, Clayton K",
+        "short_name": "Mickelson CK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA.",
+          "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA."
+        ]
+      },
+      {
+        "full_name": "Pross, Lauren M",
+        "short_name": "Pross LM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA.",
+          "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA."
+        ]
+      },
+      {
+        "full_name": "Salnikov, Mark",
+        "short_name": "Salnikov M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA.",
+          "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA."
+        ]
+      },
+      {
+        "full_name": "Langlois, Ryan A",
+        "short_name": "Langlois RA",
+        "identifiers": [
+          "0000-0002-0515-571X"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA.",
+          "University of Minnesota Institute on Infectious Diseases, University of Minnesota-Twin Cities, Minneapolis, Minnesota, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of virology"
+    ],
+    "journal_abbrev": [
+      "J Virol"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 12:41",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43042969",
+      "42539000",
+      "31597767",
+      "26468537",
+      "37358408",
+      "21939525",
+      "24829357",
+      "25903337",
+      "42867245",
+      "29563290",
+      "40559543",
+      "26666183",
+      "31375585",
+      "40497724",
+      "33853954",
+      "25540384",
+      "33361418",
+      "34311580",
+      "25631083",
+      "33361428",
+      "35056582",
+      "29237841",
+      "42126233",
+      "28356532",
+      "27489273",
+      "24105764",
+      "40823861",
+      "36069546",
+      "41805654",
+      "30463970",
+      "26238195",
+      "25589657",
+      "40434105",
+      "30593354",
+      "40043674",
+      "35248104",
+      "27596739",
+      "26104333",
+      "30822217",
+      "27121613",
+      "41175624",
+      "31776276",
+      "38470143",
+      "31915279",
+      "32878895",
+      "31045320",
+      "25520513",
+      "31572308",
+      "26676772",
+      "28637750",
+      "34678620",
+      "42496117",
+      "31462573",
+      "35916513",
+      "23521892",
+      "36115379",
+      "27707929",
+      "41061927",
+      "41036852",
+      "39247193",
+      "42949294",
+      "35811034",
+      "41175493",
+      "25505067",
+      "30355693",
+      "35293768",
+      "24574395",
+      "38294251",
+      "25210184",
+      "32509599",
+      "32075938",
+      "41763505",
+      "33028715",
+      "34319159",
+      "32481674",
+      "28905526",
+      "39887213",
+      "30790688",
+      "32321802",
+      "38142890",
+      "32596986",
+      "34578340",
+      "30545063",
+      "40165394",
+      "41294327",
+      "34319155",
+      "29623073",
+      "26912629",
+      "41849692",
+      "26828018",
+      "29343571",
+      "41135473",
+      "30355662",
+      "37357919",
+      "42797873",
+      "32238588",
+      "28794040",
+      "37190061",
+      "40919898",
+      "28272907"
+    ],
+    "review": [
+      "43042969",
+      "41175493",
+      "30545063",
+      "37357919"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/jvi.01243-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

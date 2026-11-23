@@ -1,0 +1,537 @@
+{
+  "identity": {
+    "pmid": "43045751",
+    "doi": "10.1038/s41590-026-02709-x",
+    "title": "Fever-induced OR560 promotes antibacterial immunity through macrophage pseudopod formation and phagocytosis."
+  },
+  "content": {
+    "abstract": "Fever is a conserved physiological response to pathogen infection. However, how fever promotes host defense remains poorly understood. Here we find that fever empowers antibacterial immunity by inducing olfactory receptor 560 (OR560) to promote macrophage phagocytosis. Through a genome-wide CRISPR screen, we discovered that OR560 is indispensable for macrophage phagocytosis. Febrile temperature drives the serum response factor-dependent OR560 induction in macrophages to boost phagocytosis. OR560 responds to bacteria-derived peptides and plays an essential role in mediating pseudopod formation-a key step required for target uptake. Modulation of body temperature in mice showed that the immune-amplifying effect of fever depends predominantly on OR560. We further demonstrated that the genetic ablation of either Olfr560 or serum response factor (Srf) in mice not only abolished fever-potentiated macrophage phagocytosis but also led to catastrophic defects in bacterial clearance and increased mortality upon infections. Thus, our work reveals that OR560 is a pivotal regulator of fever-enhanced antibacterial phagocytosis and integrates both pathogen-derived and febrile signals to ensure a robust response to infection.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cai, Hong",
+        "Yi, Jun-Xi",
+        "Sun, Jing-Yi",
+        "Li, Jin",
+        "Feng, Min-Yi",
+        "Liu, Zhe-Han",
+        "Jiang, Shuai",
+        "Sun, Li-Ming",
+        "Zhang, Xin-Ran",
+        "Pan, Jie",
+        "Wang, Tong",
+        "Xing, Jia-Qing",
+        "Yi, Ya-Song",
+        "Qin, Ling-Mei",
+        "Zhou, Xue-Qing",
+        "Yue, Hui-Zi",
+        "Wang, Xue-Han",
+        "Yu, Liu-Bing",
+        "Liu, Chen-Xin",
+        "Chen, Ling",
+        "Han, Qiu-Ying",
+        "Zhao, Ming",
+        "Xia, Tian",
+        "Yu, Yu",
+        "Zhou, Tao",
+        "Zhang, Xue-Min",
+        "Li, Ai-Ling",
+        "Xue, Wen",
+        "Li, Tao"
+      ],
+      "short_names": [
+        "Cai H",
+        "Yi JX",
+        "Sun JY",
+        "Li J",
+        "Feng MY",
+        "Liu ZH",
+        "Jiang S",
+        "Sun LM",
+        "Zhang XR",
+        "Pan J",
+        "Wang T",
+        "Xing JQ",
+        "Yi YS",
+        "Qin LM",
+        "Zhou XQ",
+        "Yue HZ",
+        "Wang XH",
+        "Yu LB",
+        "Liu CX",
+        "Chen L",
+        "Han QY",
+        "Zhao M",
+        "Xia T",
+        "Yu Y",
+        "Zhou T",
+        "Zhang XM",
+        "Li AL",
+        "Xue W",
+        "Li T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6180-4924",
+        "ORCID: 0009-0009-6776-2281",
+        "ORCID: 0000-0002-7401-9332",
+        "ORCID: 0000-0003-3708-508X",
+        "ORCID: 0000-0001-6222-2053",
+        "ORCID: 0000-0003-0207-4532",
+        "ORCID: 0009-0008-7853-5917",
+        "ORCID: 0009-0008-7048-0712",
+        "ORCID: 0000-0002-0746-8322"
+      ],
+      "affiliations": [
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "School of Basic Medical Sciences, Fudan University, Shanghai, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Institute of Translational Medicine, Zhejiang University, Hangzhou, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Department of Basic Medical Sciences, School of Medicine, Tsinghua University, Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China. alli@ncba.ac.cn.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China. wxue@xmail.ncba.ac.cn.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China. tli@ncba.ac.cn.",
+        "School of Basic Medical Sciences, Fudan University, Shanghai, China. tli@ncba.ac.cn.",
+        "Institute of Translational Medicine, Zhejiang University, Hangzhou, China. tli@ncba.ac.cn.",
+        "Department of Basic Medical Sciences, School of Medicine, Tsinghua University, Beijing, China. tli@ncba.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cai, Hong",
+        "short_name": "Cai H",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yi, Jun-Xi",
+        "short_name": "Yi JX",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Jing-Yi",
+        "short_name": "Sun JY",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jin",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Min-Yi",
+        "short_name": "Feng MY",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhe-Han",
+        "short_name": "Liu ZH",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shuai",
+        "short_name": "Jiang S",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Li-Ming",
+        "short_name": "Sun LM",
+        "identifiers": [
+          "0000-0001-6180-4924"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xin-Ran",
+        "short_name": "Zhang XR",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Jie",
+        "short_name": "Pan J",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Tong",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Xing, Jia-Qing",
+        "short_name": "Xing JQ",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yi, Ya-Song",
+        "short_name": "Yi YS",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Ling-Mei",
+        "short_name": "Qin LM",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xue-Qing",
+        "short_name": "Zhou XQ",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yue, Hui-Zi",
+        "short_name": "Yue HZ",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xue-Han",
+        "short_name": "Wang XH",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Liu-Bing",
+        "short_name": "Yu LB",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+          "School of Basic Medical Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chen-Xin",
+        "short_name": "Liu CX",
+        "identifiers": [
+          "0009-0009-6776-2281"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+          "Institute of Translational Medicine, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Ling",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China.",
+          "Department of Basic Medical Sciences, School of Medicine, Tsinghua University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Han, Qiu-Ying",
+        "short_name": "Han QY",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Ming",
+        "short_name": "Zhao M",
+        "identifiers": [
+          "0000-0002-7401-9332"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Tian",
+        "short_name": "Xia T",
+        "identifiers": [],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yu",
+        "short_name": "Yu Y",
+        "identifiers": [
+          "0000-0003-3708-508X"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Tao",
+        "short_name": "Zhou T",
+        "identifiers": [
+          "0000-0001-6222-2053"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xue-Min",
+        "short_name": "Zhang XM",
+        "identifiers": [
+          "0000-0003-0207-4532"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ai-Ling",
+        "short_name": "Li AL",
+        "identifiers": [
+          "0009-0008-7853-5917"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China. alli@ncba.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Xue, Wen",
+        "short_name": "Xue W",
+        "identifiers": [
+          "0009-0008-7048-0712"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China. wxue@xmail.ncba.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Tao",
+        "short_name": "Li T",
+        "identifiers": [
+          "0000-0002-0746-8322"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA), Beijing, China. tli@ncba.ac.cn.",
+          "School of Basic Medical Sciences, Fudan University, Shanghai, China. tli@ncba.ac.cn.",
+          "Institute of Translational Medicine, Zhejiang University, Hangzhou, China. tli@ncba.ac.cn.",
+          "Department of Basic Medical Sciences, School of Medicine, Tsinghua University, Beijing, China. tli@ncba.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature immunology"
+    ],
+    "journal_abbrev": [
+      "Nat Immunol"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 05:33",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43045751",
+      "40503879",
+      "37216395",
+      "36794958",
+      "30131363",
+      "26200183",
+      "42466839",
+      "30053493",
+      "30676840",
+      "40366893",
+      "10620613",
+      "38771052",
+      "25295542",
+      "40172223",
+      "26307164",
+      "40280188",
+      "36286551",
+      "38980024",
+      "32369020",
+      "35924849",
+      "38773982",
+      "40631898",
+      "20808846",
+      "38739341",
+      "22685316",
+      "32172666",
+      "28947541",
+      "42876627",
+      "42148772",
+      "42953121",
+      "34425695",
+      "21413293",
+      "41167405",
+      "27476088",
+      "42457472",
+      "37423488",
+      "18456799",
+      "32153580",
+      "30018109",
+      "24973210",
+      "28111134",
+      "42813837",
+      "33613105",
+      "41190069",
+      "22817986",
+      "42357659",
+      "40205554",
+      "41761269",
+      "40122410",
+      "42155394",
+      "38602352",
+      "34903044",
+      "42009756",
+      "27671111",
+      "39243388",
+      "29268030",
+      "31658116",
+      "35435271",
+      "42890606",
+      "25293758",
+      "34112781",
+      "42385797",
+      "34350128",
+      "34374500",
+      "8126878",
+      "38920274",
+      "40987772",
+      "42550039",
+      "17560196",
+      "40879376",
+      "11937559",
+      "24692136",
+      "34225486",
+      "34319170",
+      "31092129",
+      "24696301",
+      "33376222",
+      "27270212",
+      "34399626",
+      "2195117",
+      "25108023",
+      "32117248",
+      "21525381",
+      "39489940",
+      "38992659",
+      "42385859",
+      "34253061",
+      "14672050",
+      "37724373",
+      "33947757",
+      "25261473",
+      "30065091",
+      "29686674",
+      "39950598",
+      "37580395",
+      "27200303",
+      "37446240",
+      "32765504",
+      "34591792",
+      "24550523"
+    ],
+    "review": [
+      "43045751",
+      "42953121",
+      "21413293",
+      "34374500",
+      "8126878",
+      "24692136"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41590-026-02709-x",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1727",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

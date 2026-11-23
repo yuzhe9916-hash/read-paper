@@ -1,0 +1,543 @@
+{
+  "identity": {
+    "pmid": "43050504",
+    "doi": "10.1126/scitranslmed.aed2106",
+    "title": "Targeting cancer immune evasion with anti-FOLR1 antibody-drug conjugate potentiates anti-PD-1 efficacy in colorectal cancer."
+  },
+  "content": {
+    "abstract": "Loss of major histocompatibility complex class I (MHC-I) antigen presentation in tumor cells drives immune evasion and resistance to immune checkpoint blockade (ICB) in colorectal cancer (CRC). To identify therapeutic targets reversing this, we conducted fluorescence-activated cell sorting-based CRISPR activation screens using a druggable genome library and identified folate receptor alpha (FOLR1) as a top negative regulator. FOLR1 was heterogeneously expressed in CRC tumors but undetectable in adjacent normal tissues. High expression of FOLR1 predicted a poor ICB response, enhanced cancer stemness, and unfavorable patient outcomes. Functional assays showed that FOLR1 promoted CRC stemness-associated properties and fostered an immunosuppressive tumor microenvironment (TME) with impaired CD8(+) T cell infiltration and cytotoxicity, thereby driving tumor progression. Proteomic analyses revealed that FOLR1 stabilized the lactyltransferase AARS1 (alanyl-tRNA synthetase 1), which lactylated signal transducer and activator of transcription 1 (STAT1) at lysine-193 (K193), facilitating its interaction with TCPTP (T cell protein-tyrosine phosphatase) and inducing STAT1 dephosphorylation at tyrosine-701. Consequently, impaired STAT1 signaling down-regulated MHC-I and up-regulated MYC proto-oncogene protein (c-MYC), facilitating evasion of T cell surveillance and enhancing cancer stemness. The anti-FOLR1 antibody-drug conjugate (ADC) mirvetuximab soravtansine (IMGN853) exhibited potent activity against FOLR1-positive CRC cells, reprogramming the TME to an immune-active status. Combining IMGN853 with anti-PD-1 (programmed cell death protein-1) therapy boosted antitumor immunity, sensitized tumors to immunotherapy, and induced robust tumor regression in vivo. Our findings support anti-FOLR1 ADC as a clinically actionable approach to overcome immune evasion and unlock immunotherapy efficacy in CRC.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Colorectal Neoplasms/immunology/drug therapy/pathology",
+      "Animals",
+      "*Folate Receptor 1/metabolism/immunology/antagonists & inhibitors",
+      "Proto-Oncogene Mas",
+      "Cell Line, Tumor",
+      "*Immunoconjugates/therapeutic use/pharmacology",
+      "*Programmed Cell Death 1 Receptor/antagonists & inhibitors/metabolism",
+      "Tumor Microenvironment/drug effects",
+      "STAT1 Transcription Factor/metabolism",
+      "Mice",
+      "Neoplastic Stem Cells/drug effects/pathology/metabolism",
+      "Female",
+      "*Tumor Escape/drug effects"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Siqi",
+        "Liu, Qishan",
+        "Ye, Shubiao",
+        "Yu, Jing",
+        "Xie, Yongxin",
+        "Yuan, Yuhai",
+        "Song, Jianning",
+        "Du, Yaqing",
+        "Li, Min",
+        "Zhang, Xueli",
+        "Ma, Yanping",
+        "Lin, Zhensen",
+        "Zhang, Yu",
+        "Guan, Xin-Yuan",
+        "He, Guiwei",
+        "Jiang, Chen",
+        "Fang, Xiaona",
+        "He, Xiaosheng",
+        "Li, Lei",
+        "Lan, Ping",
+        "Yan, Qian"
+      ],
+      "short_names": [
+        "Chen S",
+        "Liu Q",
+        "Ye S",
+        "Yu J",
+        "Xie Y",
+        "Yuan Y",
+        "Song J",
+        "Du Y",
+        "Li M",
+        "Zhang X",
+        "Ma Y",
+        "Lin Z",
+        "Zhang Y",
+        "Guan XY",
+        "He G",
+        "Jiang C",
+        "Fang X",
+        "He X",
+        "Li L",
+        "Lan P",
+        "Yan Q"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-4939-756X",
+        "ORCID: 0009-0007-5920-3696",
+        "ORCID: 0000-0002-4203-4546",
+        "ORCID: 0009-0005-8220-0931",
+        "ORCID: 0009-0005-5321-1826",
+        "ORCID: 0009-0007-3909-6176",
+        "ORCID: 0009-0003-9757-6822",
+        "ORCID: 0000-0001-5963-9261",
+        "ORCID: 0000-0002-4485-6017",
+        "ORCID: 0000-0001-5325-4686",
+        "ORCID: 0000-0002-8346-4972",
+        "ORCID: 0000-0001-9910-5600",
+        "ORCID: 0000-0002-8901-8498",
+        "ORCID: 0000-0001-6549-8135"
+      ],
+      "affiliations": [
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen 518132, China.",
+        "Shenzhen Medical Academy of Research and Translation, Shenzhen 518107, China.",
+        "School of Life Sciences, Westlake University, Hangzhou 310030, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Department of General Surgery, First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang 330006, Jiangxi, China.",
+        "Gastrointestinal Surgical Institute, Nanchang University, Nanchang 330006, Jiangxi, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Institute of Scientific Instrumentation, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China.",
+        "Institute of Scientific Instrumentation, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China.",
+        "Guangdong Provincial Key Laboratory of Artificial Intelligence in Medical Image Analysis and Application, Guangzhou 510080, China.",
+        "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen 518132, China.",
+        "Shenzhen Medical Academy of Research and Translation, Shenzhen 518107, China.",
+        "School of Life Sciences, Westlake University, Hangzhou 310030, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
+        "MOE Key Laboratory of Tumor Molecular Biology, Jinan University, Guangzhou 510632, China.",
+        "Department of Clinical Oncology, University of Hong Kong, Hong Kong, China.",
+        "State Key Laboratory for Liver Research, University of Hong Kong, Hong Kong, China.",
+        "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen 518132, China.",
+        "Shenzhen Medical Academy of Research and Translation, Shenzhen 518107, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
+        "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Medical Research Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+        "State Key Laboratory of Oncology in South China, Guangzhou 510060, China.",
+        "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+        "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Siqi",
+        "short_name": "Chen S",
+        "identifiers": [
+          "0009-0008-4939-756X"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+          "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen 518132, China.",
+          "Shenzhen Medical Academy of Research and Translation, Shenzhen 518107, China.",
+          "School of Life Sciences, Westlake University, Hangzhou 310030, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qishan",
+        "short_name": "Liu Q",
+        "identifiers": [
+          "0009-0007-5920-3696"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Shubiao",
+        "short_name": "Ye S",
+        "identifiers": [
+          "0000-0002-4203-4546"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jing",
+        "short_name": "Yu J",
+        "identifiers": [
+          "0009-0005-8220-0931"
+        ],
+        "affiliations": [
+          "Department of General Surgery, First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang 330006, Jiangxi, China.",
+          "Gastrointestinal Surgical Institute, Nanchang University, Nanchang 330006, Jiangxi, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Yongxin",
+        "short_name": "Xie Y",
+        "identifiers": [
+          "0009-0005-5321-1826"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Yuhai",
+        "short_name": "Yuan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Song, Jianning",
+        "short_name": "Song J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Du, Yaqing",
+        "short_name": "Du Y",
+        "identifiers": [
+          "0009-0007-3909-6176"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Li, Min",
+        "short_name": "Li M",
+        "identifiers": [
+          "0009-0003-9757-6822"
+        ],
+        "affiliations": [
+          "Institute of Scientific Instrumentation, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xueli",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0000-0001-5963-9261"
+        ],
+        "affiliations": [
+          "Institute of Scientific Instrumentation, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China.",
+          "Guangdong Provincial Key Laboratory of Artificial Intelligence in Medical Image Analysis and Application, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Yanping",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen 518132, China.",
+          "Shenzhen Medical Academy of Research and Translation, Shenzhen 518107, China.",
+          "School of Life Sciences, Westlake University, Hangzhou 310030, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Zhensen",
+        "short_name": "Lin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yu",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Xin-Yuan",
+        "short_name": "Guan XY",
+        "identifiers": [
+          "0000-0002-4485-6017"
+        ],
+        "affiliations": [
+          "MOE Key Laboratory of Tumor Molecular Biology, Jinan University, Guangzhou 510632, China.",
+          "Department of Clinical Oncology, University of Hong Kong, Hong Kong, China.",
+          "State Key Laboratory for Liver Research, University of Hong Kong, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "He, Guiwei",
+        "short_name": "He G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Infectious Diseases, Shenzhen Bay Laboratory, Shenzhen 518132, China.",
+          "Shenzhen Medical Academy of Research and Translation, Shenzhen 518107, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Chen",
+        "short_name": "Jiang C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Xiaona",
+        "short_name": "Fang X",
+        "identifiers": [
+          "0000-0001-5325-4686"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiaosheng",
+        "short_name": "He X",
+        "identifiers": [
+          "0000-0002-8346-4972"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      },
+      {
+        "full_name": "Li, Lei",
+        "short_name": "Li L",
+        "identifiers": [
+          "0000-0001-9910-5600"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Medical Research Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China."
+        ]
+      },
+      {
+        "full_name": "Lan, Ping",
+        "short_name": "Lan P",
+        "identifiers": [
+          "0000-0002-8901-8498"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China.",
+          "State Key Laboratory of Oncology in South China, Guangzhou 510060, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Qian",
+        "short_name": "Yan Q",
+        "identifiers": [
+          "0000-0001-6549-8135"
+        ],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Guangdong Institute of Gastroenterology, Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Department of General Surgery (Colorectal Surgery), Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou 510655, China.",
+          "Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou 510280, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science translational medicine"
+    ],
+    "journal_abbrev": [
+      "Sci Transl Med"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 17:32",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43050504",
+      "41918749",
+      "39488102",
+      "40029935",
+      "41075009",
+      "42028950",
+      "40475762",
+      "41199296",
+      "40665874",
+      "40812610",
+      "42247058",
+      "40876126",
+      "41486293",
+      "39368338",
+      "39461881",
+      "40353308",
+      "40010765",
+      "39494327",
+      "40208940",
+      "41785601",
+      "42139752",
+      "42050706",
+      "42624032",
+      "40668890",
+      "41808828",
+      "41406067",
+      "40664443",
+      "35764364",
+      "42345610",
+      "40931050",
+      "40116486",
+      "39800382",
+      "42082463",
+      "39725712",
+      "39503247",
+      "33584714",
+      "41526167",
+      "35392977",
+      "42208981",
+      "40095110",
+      "42143164",
+      "39996761",
+      "39642461",
+      "40972397",
+      "25904506",
+      "42731874",
+      "33782107",
+      "42503264",
+      "42032729",
+      "36442821",
+      "40706744",
+      "41436831",
+      "41038145",
+      "42823087",
+      "27889646",
+      "41403876",
+      "42061086",
+      "41827010",
+      "42216546",
+      "40356247",
+      "33462141",
+      "39751692",
+      "41246306",
+      "32122466",
+      "36096533",
+      "35131862",
+      "38908854",
+      "31205619",
+      "42350046",
+      "33754054",
+      "41790063",
+      "42870843",
+      "40020887",
+      "39004699",
+      "41411700",
+      "39285586",
+      "40394677",
+      "39353381",
+      "42091690",
+      "42707650",
+      "42947477",
+      "40656610",
+      "32483441",
+      "42686373",
+      "42206267",
+      "40010770",
+      "41488675",
+      "24502656",
+      "39119332",
+      "39420583",
+      "30736857",
+      "38876047",
+      "40729594",
+      "32964498",
+      "42032133",
+      "39223929",
+      "41875719",
+      "35383115",
+      "33456560",
+      "42328167"
+    ],
+    "review": [
+      "43050504",
+      "31205619"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/scitranslmed.aed2106?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/colorectalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Colorectal Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1272",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

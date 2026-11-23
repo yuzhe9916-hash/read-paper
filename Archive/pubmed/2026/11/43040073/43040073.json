@@ -1,0 +1,363 @@
+{
+  "identity": {
+    "pmid": "43040073",
+    "doi": "10.1007/s10142-026-02116-3",
+    "title": "Computational and experimental strategies for functional validation of non-coding variants in pancreatic cancer."
+  },
+  "content": {
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy characterised by extensive genomic heterogeneity and limited therapeutic options. Although recurrent coding mutations in key driver genes have been well researched, large-scale sequencing studies have identified a broad array of non-coding variants which may contribute to tumorigenesis by interfering with gene regulatory mechanisms. However, understanding the functional significance of these variants remains a major challenge due to their abundance and the complexity of non-coding regulatory structures. This review outlines current computational and experimental techniques to identify, prioritise, and functionally validate non-coding variants in PDAC. We discuss in silico methods including genome-wide association study (GWAS) fine-mapping, colocalisation, machine learning-driven functional annotation, and the use of established computational tools, in addition to epigenomic profiling technologies including, ATAC-seq, ChIP-seq, and CUT&RUN which define regulatory landscapes. We also emphasise new AI-based methods involving radiogenomics, AI imaging analysis and data integration, which provides novel potential to link genomic variation with phenotypic and imaging characteristics. Additionally, we highlight experimental validation techniques including reporter assays, electrophoretic mobility shift assays (EMSA), chromatin conformation capture methods, and CRISPR-based perturbation systems used to study variant functionality. Together, these complementary approaches establish a framework for correlating non-coding variation to regulatory mechanisms in PDAC.",
+    "keywords": [
+      "Functional annotation",
+      "GWAS",
+      "Non-coding variants",
+      "Pancreatic ductal adenocarcinoma (PDAC)",
+      "Preclinical models",
+      "Variant prioritisation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Pancreatic Neoplasms/genetics/pathology",
+      "*Carcinoma, Pancreatic Ductal/genetics/pathology",
+      "Genome-Wide Association Study"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jenkac, Karla",
+        "Herlihy, Jane",
+        "Farinella, Riccardo",
+        "Guler, Murat",
+        "Unal, Pelin",
+        "Sever, Elif Arik",
+        "Giovannoni, Roberto",
+        "Campa, Daniele",
+        "Eustace, Alex J",
+        "Walsh, Naomi"
+      ],
+      "short_names": [
+        "Jenkac K",
+        "Herlihy J",
+        "Farinella R",
+        "Guler M",
+        "Unal P",
+        "Sever EA",
+        "Giovannoni R",
+        "Campa D",
+        "Eustace AJ",
+        "Walsh N"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-9314-4849",
+        "ORCID: 0009-0008-5827-4924",
+        "ORCID: 0000-0002-4272-1696",
+        "ORCID: 0000-0003-4700-3842",
+        "ORCID: 0000-0002-5714-7578",
+        "ORCID: 0000-0003-4964-7561",
+        "ORCID: 0000-0002-7706-0672",
+        "ORCID: 0000-0003-3220-9944",
+        "ORCID: 0000-0002-4092-1360",
+        "ORCID: 0000-0002-2178-3564"
+      ],
+      "affiliations": [
+        "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland. karla.jenkac2@mail.dcu.ie.",
+        "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland.",
+        "Department of Biology, University of Pisa, Pisa, Italy.",
+        "Genomic Epidemiology Group, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Medical Faculty, Heidelberg University, Heidelberg, Germany.",
+        "Department of Biosystems Engineering, Rafet Kayis Faculty of Engineering, Alanya Alaaddin Keykubat University, Alanya, Antalya, Turkiye.",
+        "Department of Biostatistics and Medical Informatics, School of Medicine, Bahcesehir University, Istanbul, Turkiye.",
+        "Department of Biology, University of Pisa, Pisa, Italy.",
+        "Department of Biology, University of Pisa, Pisa, Italy.",
+        "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland.",
+        "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jenkac, Karla",
+        "short_name": "Jenkac K",
+        "identifiers": [
+          "0009-0002-9314-4849"
+        ],
+        "affiliations": [
+          "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland. karla.jenkac2@mail.dcu.ie."
+        ]
+      },
+      {
+        "full_name": "Herlihy, Jane",
+        "short_name": "Herlihy J",
+        "identifiers": [
+          "0009-0008-5827-4924"
+        ],
+        "affiliations": [
+          "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland."
+        ]
+      },
+      {
+        "full_name": "Farinella, Riccardo",
+        "short_name": "Farinella R",
+        "identifiers": [
+          "0000-0002-4272-1696"
+        ],
+        "affiliations": [
+          "Department of Biology, University of Pisa, Pisa, Italy."
+        ]
+      },
+      {
+        "full_name": "Güler, Murat",
+        "short_name": "Güler M",
+        "identifiers": [
+          "0000-0003-4700-3842"
+        ],
+        "affiliations": [
+          "Genomic Epidemiology Group, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+          "Medical Faculty, Heidelberg University, Heidelberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Ünal, Pelin",
+        "short_name": "Ünal P",
+        "identifiers": [
+          "0000-0002-5714-7578"
+        ],
+        "affiliations": [
+          "Department of Biosystems Engineering, Rafet Kayış Faculty of Engineering, Alanya Alaaddin Keykubat University, Alanya, Antalya, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Sever, Elif Arik",
+        "short_name": "Sever EA",
+        "identifiers": [
+          "0000-0003-4964-7561"
+        ],
+        "affiliations": [
+          "Department of Biostatistics and Medical Informatics, School of Medicine, Bahcesehir University, Istanbul, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Giovannoni, Roberto",
+        "short_name": "Giovannoni R",
+        "identifiers": [
+          "0000-0002-7706-0672"
+        ],
+        "affiliations": [
+          "Department of Biology, University of Pisa, Pisa, Italy."
+        ]
+      },
+      {
+        "full_name": "Campa, Daniele",
+        "short_name": "Campa D",
+        "identifiers": [
+          "0000-0003-3220-9944"
+        ],
+        "affiliations": [
+          "Department of Biology, University of Pisa, Pisa, Italy."
+        ]
+      },
+      {
+        "full_name": "Eustace, Alex J",
+        "short_name": "Eustace AJ",
+        "identifiers": [
+          "0000-0002-4092-1360"
+        ],
+        "affiliations": [
+          "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland."
+        ]
+      },
+      {
+        "full_name": "Walsh, Naomi",
+        "short_name": "Walsh N",
+        "identifiers": [
+          "0000-0002-2178-3564"
+        ],
+        "affiliations": [
+          "Life Sciences Institute, School of Biotechnology, Dublin City University, Dublin, Ireland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Functional & integrative genomics"
+    ],
+    "journal_abbrev": [
+      "Funct Integr Genomics"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 05:32",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43040073",
+      "41716413",
+      "32241274",
+      "29440233",
+      "41966742",
+      "42737511",
+      "27487139",
+      "41415264",
+      "36148233",
+      "41121153",
+      "30942874",
+      "40711603",
+      "42997265",
+      "41062181",
+      "42948742",
+      "41676477",
+      "42475469",
+      "33975060",
+      "38986720",
+      "36768794",
+      "41350704",
+      "42675914",
+      "32928922",
+      "34049503",
+      "36647796",
+      "40065368",
+      "36116415",
+      "27240826",
+      "33049362",
+      "41398222",
+      "37850323",
+      "38308339",
+      "40098614",
+      "22078386",
+      "32641412",
+      "34216462",
+      "28867247",
+      "28581336",
+      "27628540",
+      "30629588",
+      "42420840",
+      "39375436",
+      "34552866",
+      "35363263",
+      "42304476",
+      "43035764",
+      "39110005",
+      "34659337",
+      "41692706",
+      "37339141",
+      "33882988",
+      "41937118",
+      "32871244",
+      "26800306",
+      "41780688",
+      "39863139",
+      "40147701",
+      "31991068",
+      "42131318",
+      "38608280",
+      "39893577",
+      "26053098",
+      "42041735",
+      "42547009",
+      "28205147",
+      "28984028",
+      "38817665",
+      "40666516",
+      "40741875",
+      "33724601",
+      "31046123",
+      "32024063",
+      "40065365",
+      "29773832",
+      "42262932",
+      "33547202",
+      "30541042",
+      "37380804",
+      "24311363",
+      "35365203",
+      "41208840",
+      "42652104",
+      "27041411",
+      "28886528",
+      "32272875",
+      "40910795",
+      "26676757",
+      "27137215",
+      "35821188",
+      "37670727",
+      "35943817",
+      "22797009",
+      "39107801",
+      "41394830",
+      "29843660",
+      "41601623",
+      "39884837",
+      "41183744",
+      "41545197",
+      "38395755"
+    ],
+    "review": [
+      "43040073",
+      "38986720",
+      "36647796",
+      "33049362",
+      "40098614",
+      "43035764",
+      "34659337",
+      "41692706",
+      "37339141",
+      "33882988",
+      "32871244",
+      "41780688",
+      "39863139",
+      "40147701",
+      "42131318",
+      "39893577",
+      "42262932",
+      "30541042",
+      "35365203",
+      "42652104",
+      "27041411",
+      "32272875",
+      "35821188",
+      "35943817",
+      "29843660"
+    ],
+    "pmc": [
+      "13774323"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/pancreaticcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Pancreatic Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43040073/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s10142-026-02116-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

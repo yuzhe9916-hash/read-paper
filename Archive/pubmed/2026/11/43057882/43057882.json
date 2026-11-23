@@ -1,0 +1,324 @@
+{
+  "identity": {
+    "pmid": "43057882",
+    "doi": "10.26508/lsa.202603914",
+    "title": "MR1-dependent MAIT cell activation is regulated by autophagy-associated proteins."
+  },
+  "content": {
+    "abstract": "The antigen-presenting molecule, MR1, presents microbial metabolites to MAIT cells, a population of innate-like, antimicrobial T cells. It also presents an unidentified ligand to MR1-restricted T cells in the setting of cancer. The cellular cofactors that regulate MR1 antigen presentation have yet to be fully defined. We performed a mass spectrometry-based proteomics screen to identify MR1-interacting proteins and discovered the selective autophagy receptor SQSTM1/p62. CRISPR-Cas9-mediated knockout of SQSTM1/p62 increased MAIT cell activation in the presence of Escherichia coli but not the synthetic ligand 5-OP-RU, whereas depletion of Atg5 and Atg7, key autophagy proteins, increased MAIT activation irrespective of the ligand used. This regulation appears to occur at an early step in the MR1 trafficking pathway. These data implicate distinct roles for autophagy-associated proteins in the regulation of MR1 activity and highlight the contribution of the autophagy pathway to regulation of cellular antigen presentation.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Autophagy/immunology",
+      "*Minor Histocompatibility Antigens/metabolism/genetics/immunology",
+      "*Mucosal-Associated Invariant T Cells/immunology/metabolism",
+      "*Lymphocyte Activation/immunology",
+      "Humans",
+      "Autophagy-Related Protein 5/metabolism/genetics",
+      "Sequestosome-1 Protein/metabolism/genetics",
+      "*Histocompatibility Antigens Class I/metabolism/immunology/genetics",
+      "Antigen Presentation/immunology",
+      "Autophagy-Related Protein 7/metabolism/genetics",
+      "Animals",
+      "Proteomics/methods",
+      "Escherichia coli",
+      "Mice",
+      "*Autophagy-Related Proteins/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Phalora, Prabhjeet",
+        "Ussher, James",
+        "Hester, Svenja",
+        "Hackstein, Carl-Philipp",
+        "Marchi, Emanuele",
+        "Mak, Jeffrey Yw",
+        "Fairlie, David P",
+        "Klenerman, Paul"
+      ],
+      "short_names": [
+        "Phalora P",
+        "Ussher J",
+        "Hester S",
+        "Hackstein CP",
+        "Marchi E",
+        "Mak JY",
+        "Fairlie DP",
+        "Klenerman P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9222-7680",
+        "ORCID: 0000-0002-0821-5204",
+        "ORCID: 0000-0002-7856-8566",
+        "ORCID: 0000-0003-4307-9161"
+      ],
+      "affiliations": [
+        "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK. ROR: https://ror.org/052gg0110",
+        "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK. ROR: https://ror.org/052gg0110",
+        "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand. ROR: https://ror.org/01jmxt844",
+        "Advanced Proteomics Facility, Department of Biochemistry, University of Oxford, Oxford, UK. ROR: https://ror.org/052gg0110",
+        "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK. ROR: https://ror.org/052gg0110",
+        "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK. ROR: https://ror.org/052gg0110",
+        "Institute for Molecular Bioscience, The University of Queensland, Brisbane, Australia. ROR: https://ror.org/00rqy9422",
+        "Institute for Molecular Bioscience, The University of Queensland, Brisbane, Australia. ROR: https://ror.org/00rqy9422",
+        "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK paul.klenerman@medawar.ox.ac.uk. ROR: https://ror.org/052gg0110"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Phalora, Prabhjeet",
+        "short_name": "Phalora P",
+        "identifiers": [],
+        "affiliations": [
+          "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Ussher, James",
+        "short_name": "Ussher J",
+        "identifiers": [
+          "0000-0001-9222-7680"
+        ],
+        "affiliations": [
+          "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK.",
+          "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Hester, Svenja",
+        "short_name": "Hester S",
+        "identifiers": [],
+        "affiliations": [
+          "Advanced Proteomics Facility, Department of Biochemistry, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Hackstein, Carl-Philipp",
+        "short_name": "Hackstein CP",
+        "identifiers": [
+          "0000-0002-0821-5204"
+        ],
+        "affiliations": [
+          "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Marchi, Emanuele",
+        "short_name": "Marchi E",
+        "identifiers": [],
+        "affiliations": [
+          "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Mak, Jeffrey Yw",
+        "short_name": "Mak JY",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Molecular Bioscience, The University of Queensland, Brisbane, Australia."
+        ]
+      },
+      {
+        "full_name": "Fairlie, David P",
+        "short_name": "Fairlie DP",
+        "identifiers": [
+          "0000-0002-7856-8566"
+        ],
+        "affiliations": [
+          "Institute for Molecular Bioscience, The University of Queensland, Brisbane, Australia."
+        ]
+      },
+      {
+        "full_name": "Klenerman, Paul",
+        "short_name": "Klenerman P",
+        "identifiers": [
+          "0000-0003-4307-9161"
+        ],
+        "affiliations": [
+          "Peter Medawar Building for Pathogen Research, University of Oxford, Oxford, UK paul.klenerman@medawar.ox.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Life science alliance"
+    ],
+    "journal_abbrev": [
+      "Life Sci Alliance"
+    ],
+    "pub_date": "2027 Feb",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 23:29",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43057882",
+      "27105778",
+      "41759736",
+      "28494326",
+      "41080531",
+      "38537698",
+      "42611994",
+      "41606790",
+      "29393543",
+      "38979423",
+      "32958637",
+      "42091580",
+      "38705391",
+      "40338831",
+      "40746558",
+      "32341160",
+      "29754112",
+      "34193462",
+      "32973800",
+      "33034934",
+      "27031111",
+      "42667739",
+      "30208917",
+      "31792824",
+      "42215548",
+      "31792812",
+      "40570962",
+      "41343603",
+      "40651431",
+      "32963314",
+      "27527800",
+      "32130899",
+      "31826876",
+      "31497838",
+      "32434941",
+      "28688841",
+      "24695216",
+      "36129434",
+      "42061643",
+      "36875139",
+      "33360378",
+      "31113973",
+      "41681071",
+      "27319347",
+      "39589872",
+      "27307560",
+      "19416870",
+      "27393664",
+      "27034405",
+      "28518215",
+      "41758608",
+      "33247182",
+      "33013835",
+      "35381139",
+      "32604057",
+      "23613577",
+      "33096293",
+      "34968463",
+      "39744940",
+      "33777010",
+      "23051753",
+      "24108697",
+      "28166217",
+      "31406380",
+      "42001947",
+      "32983150",
+      "30115998",
+      "41309963",
+      "35246495",
+      "40696831",
+      "33293099",
+      "25049336",
+      "32817339",
+      "36845106",
+      "33358568",
+      "28419492",
+      "31792817",
+      "39820322",
+      "39903121",
+      "37773272",
+      "18443227",
+      "33185693",
+      "41295949",
+      "41979188",
+      "32411144",
+      "39446132",
+      "32247824",
+      "41804231",
+      "38520075",
+      "27480412",
+      "26063000",
+      "39701104",
+      "30353260",
+      "42585835",
+      "31933215",
+      "30006464",
+      "34940995",
+      "40591719",
+      "42789664",
+      "15802267"
+    ],
+    "review": [
+      "43057882",
+      "28494326",
+      "29393543",
+      "38979423",
+      "40338831",
+      "40746558",
+      "29754112",
+      "32973800",
+      "31792812",
+      "40651431",
+      "28688841",
+      "27319347",
+      "27393664",
+      "33013835",
+      "35381139",
+      "32604057",
+      "31406380",
+      "32983150",
+      "33293099",
+      "28419492",
+      "37773272",
+      "33185693",
+      "32411144",
+      "39446132"
+    ],
+    "pmc": [
+      "13785708"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.26508/lsa.202603914",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43057882/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3592",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

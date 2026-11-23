@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "43064760",
+    "doi": "10.1038/s41467-026-79105-4",
+    "title": "Cholesterol dysregulation contributes to hematopoietic failure in parn-mutant zebrafish with implications for dyskeratosis congenita."
+  },
+  "content": {
+    "abstract": "Germline mutations in PARN cause dyskeratosis congenita (DC), an inherited bone marrow failure syndrome characterized by multilineage cytopenia and progression to myeloid disease. The mechanisms underlying this malignant transformation have not been fully elucidated. Here we show, using a loss-of-function CRISPR-Cas9 zebrafish parn mutant, hematopoietic stem and progenitor (HSPC) expansion and reduced mature hematopoietic cells across various lineages. Cholesterol biosynthesis was transcriptionally activated; a finding recapitulated in patient-derived iPSCs with PARN mutations. Inhibiting cholesterol biosynthesis rescued HSPC expansion and anemia in parn mutants. Concurrent myeloid differentiation therapy or Wnt inhibition reduced HSPCs to varying degrees. We further demonstrate a role for activated Erk signaling in impairing erythrocyte differentiation and show robust rescue with trametinib treatment. Overall, our findings uncover unrecognized roles for Parn in regulating cholesterol metabolism and Erk signaling and provide preclinical evidence for targeting these pathways to restore hematopoiesis in DC.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "Zebrafish/genetics/metabolism",
+      "*Cholesterol/metabolism",
+      "Hematopoietic Stem Cells/metabolism",
+      "*Hematopoiesis/genetics",
+      "*Dyskeratosis Congenita/genetics/metabolism",
+      "*Zebrafish Proteins/genetics/metabolism",
+      "Mutation",
+      "Humans",
+      "CRISPR-Cas Systems",
+      "Cell Differentiation",
+      "MAP Kinase Signaling System"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ketharnathan, Sarada",
+        "Dogan, Serkan",
+        "Pokharel, Sujata",
+        "Ban, Kevin",
+        "Prykhozhij, Sergey V",
+        "Cordeiro, Anna",
+        "Leung, Elaine W",
+        "Dror, Yigal",
+        "Berman, Jason N"
+      ],
+      "short_names": [
+        "Ketharnathan S",
+        "Dogan S",
+        "Pokharel S",
+        "Ban K",
+        "Prykhozhij SV",
+        "Cordeiro A",
+        "Leung EW",
+        "Dror Y",
+        "Berman JN"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8950-7195",
+        "ORCID: 0000-0002-2801-6122",
+        "ORCID: 0000-0001-6012-1259",
+        "ORCID: 0000-0003-3953-1477",
+        "ORCID: 0000-0002-4053-6067"
+      ],
+      "affiliations": [
+        "CHEO Research Institute, Ottawa, ON, Canada.",
+        "CHEO Research Institute, Ottawa, ON, Canada.",
+        "CHEO Research Institute, Ottawa, ON, Canada.",
+        "CHEO Research Institute, Ottawa, ON, Canada.",
+        "CHEO Research Institute, Ottawa, ON, Canada.",
+        "AGADA Biosciences Inc., Halifax, NS, Canada.",
+        "Department of Pathology and Laboratory Medicine, University of Ottawa, Ottawa, ON, Canada.",
+        "Institute of Medical Science, University of Toronto, Toronto, ON, Canada.",
+        "Marrow Failure and Myelodysplasia Program, Division of Hematology/Oncology, Department of Pediatrics, Hospital for Sick Children, Toronto, ON, Canada.",
+        "CHEO Research Institute, Ottawa, ON, Canada. JBerman@cheo.on.ca.",
+        "Department of Pediatrics, University of Ottawa, Ottawa, ON, Canada. JBerman@cheo.on.ca.",
+        "Department of Cellular and Molecular Medicine, University of Ottawa, Ottawa, ON, Canada. JBerman@cheo.on.ca.",
+        "Ottawa Institute of Systems Biology, University of Ottawa, Ottawa, ON, Canada. JBerman@cheo.on.ca."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ketharnathan, Sarada",
+        "short_name": "Ketharnathan S",
+        "identifiers": [
+          "0000-0002-8950-7195"
+        ],
+        "affiliations": [
+          "CHEO Research Institute, Ottawa, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Dogan, Serkan",
+        "short_name": "Dogan S",
+        "identifiers": [],
+        "affiliations": [
+          "CHEO Research Institute, Ottawa, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Pokharel, Sujata",
+        "short_name": "Pokharel S",
+        "identifiers": [],
+        "affiliations": [
+          "CHEO Research Institute, Ottawa, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Ban, Kevin",
+        "short_name": "Ban K",
+        "identifiers": [],
+        "affiliations": [
+          "CHEO Research Institute, Ottawa, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Prykhozhij, Sergey V",
+        "short_name": "Prykhozhij SV",
+        "identifiers": [
+          "0000-0002-2801-6122"
+        ],
+        "affiliations": [
+          "CHEO Research Institute, Ottawa, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Cordeiro, Anna",
+        "short_name": "Cordeiro A",
+        "identifiers": [
+          "0000-0001-6012-1259"
+        ],
+        "affiliations": [
+          "AGADA Biosciences Inc., Halifax, NS, Canada."
+        ]
+      },
+      {
+        "full_name": "Leung, Elaine W",
+        "short_name": "Leung EW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of Ottawa, Ottawa, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Dror, Yigal",
+        "short_name": "Dror Y",
+        "identifiers": [
+          "0000-0003-3953-1477"
+        ],
+        "affiliations": [
+          "Institute of Medical Science, University of Toronto, Toronto, ON, Canada.",
+          "Marrow Failure and Myelodysplasia Program, Division of Hematology/Oncology, Department of Pediatrics, Hospital for Sick Children, Toronto, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Berman, Jason N",
+        "short_name": "Berman JN",
+        "identifiers": [
+          "0000-0002-4053-6067"
+        ],
+        "affiliations": [
+          "CHEO Research Institute, Ottawa, ON, Canada. JBerman@cheo.on.ca.",
+          "Department of Pediatrics, University of Ottawa, Ottawa, ON, Canada. JBerman@cheo.on.ca.",
+          "Department of Cellular and Molecular Medicine, University of Ottawa, Ottawa, ON, Canada. JBerman@cheo.on.ca.",
+          "Ottawa Institute of Systems Biology, University of Ottawa, Ottawa, ON, Canada. JBerman@cheo.on.ca."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/21 05:43",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43064760",
+      "37921505",
+      "27260753",
+      "28757166",
+      "21921046",
+      "39500381",
+      "41016526",
+      "40134128",
+      "40404079",
+      "39120151",
+      "35876681",
+      "26138676",
+      "41430328",
+      "39178846",
+      "23132242",
+      "22299032",
+      "21856868",
+      "26131719",
+      "39363867",
+      "32559291",
+      "31479877",
+      "21228005",
+      "42092188",
+      "30728146",
+      "29470984",
+      "34645668",
+      "41226840",
+      "40079219",
+      "25499762",
+      "25886310",
+      "39138265",
+      "33514435",
+      "24124088",
+      "30664660",
+      "21653321",
+      "42481508",
+      "29758043",
+      "29286381",
+      "36255705",
+      "33751369",
+      "34919128",
+      "25992652",
+      "26391449",
+      "30573510",
+      "25893599",
+      "29449653",
+      "34077586",
+      "34611130",
+      "33159854",
+      "37122014",
+      "23635340",
+      "35535491",
+      "27151951",
+      "34143974",
+      "18973974",
+      "26342108",
+      "18310499",
+      "38643762",
+      "27402973",
+      "22960038",
+      "38382674",
+      "30047419",
+      "42248341",
+      "30082823",
+      "20301779",
+      "34353901",
+      "26482878",
+      "27705794",
+      "35421215",
+      "30705153",
+      "30482793",
+      "32452087",
+      "16914492",
+      "26546739",
+      "26777855",
+      "16166372",
+      "33197123",
+      "27464809",
+      "21602826",
+      "35805096",
+      "32738093",
+      "32641982",
+      "36516770",
+      "37460694",
+      "35502759",
+      "25714926",
+      "39548947",
+      "21784840",
+      "33193358",
+      "40896794",
+      "39954256",
+      "33244623",
+      "14758110",
+      "34588613",
+      "39620979",
+      "32822592",
+      "10388004",
+      "32736377",
+      "40298185",
+      "34735227"
+    ],
+    "review": [
+      "43064760",
+      "30573510",
+      "30047419",
+      "20301779",
+      "14758110"
+    ],
+    "pmc": [
+      "13788180"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cholesterol.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cholesterol"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-79105-4",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43064760/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-2786",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

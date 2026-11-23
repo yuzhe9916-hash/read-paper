@@ -1,0 +1,500 @@
+{
+  "identity": {
+    "pmid": "43052008",
+    "doi": "10.1002/advs.78665",
+    "title": "Chromatin Remodeling of RasGRP3 Underlies Temozolomide Sensitivity in Glioblastoma Organoids."
+  },
+  "content": {
+    "abstract": "Acquired resistance to temozolomide (TMZ) constitutes a formidable clinical barrier in the management of glioblastoma (GBM). GBM organoid models (GBO) that faithfully mirror the parental tumor phenotype serve as powerful research instruments to overcome the limitations in this field. We established GBOs derived from primary glioma patients and their TMZ low-sensitivity counterparts. To unravel the intricate molecular underpinnings of this process, we performed an unbiased, integrated multi-omics analysis encompassing epigenomic, 3D genomic, and transcriptomic profiling, coupled with dual CRISPR interference (CRISPRi) screening of TMZ-induced enhancers (TiEns) and their cognate target genes. Our findings demonstrate that enhancer-mediated 3D chromatin remodeling drives chemosensitivity predominantly by transcriptionally activating drug-sensitivity-associated genes, such as RasGRP3, VEGFA, BTN3A2, etc. Knockdown or knockout of these genes and enhancers renders glioma cells more sensitive to TMZ, especially RasGRP3. Our work unveils a druggable \"enhancer-chromatin-target\" signaling axis and proposes a novel combinatorial therapeutic strategy to surmount TMZ low sensitivity in GBM.",
+    "keywords": [
+      "RasGRP3",
+      "drug sensitivity",
+      "enhancers",
+      "multi-omics integration",
+      "temozolomide"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Bohan",
+        "Su, Guangsong",
+        "Huang, Yiting",
+        "Liu, Rong",
+        "Song, Yingjie",
+        "Xiao, Qian",
+        "Lian, Jie",
+        "Zhang, Chen",
+        "Qiu, Yuhan",
+        "Zhao, Qianlan",
+        "Gu, Jiayu",
+        "Zhong, Jian",
+        "Gao, Yixin",
+        "Wu, Xujia",
+        "Ma, Yiping",
+        "Zheng, Yaoqiang",
+        "Zhang, Meng",
+        "He, Anshun",
+        "Bi, Jinfang",
+        "Li, Peng",
+        "Zhao, Zhongfang",
+        "Shi, Jiandang",
+        "Zhang, Lei",
+        "Huang, Bin",
+        "Lu, Wange",
+        "Zhang, Nu"
+      ],
+      "short_names": [
+        "Chen B",
+        "Su G",
+        "Huang Y",
+        "Liu R",
+        "Song Y",
+        "Xiao Q",
+        "Lian J",
+        "Zhang C",
+        "Qiu Y",
+        "Zhao Q",
+        "Gu J",
+        "Zhong J",
+        "Gao Y",
+        "Wu X",
+        "Ma Y",
+        "Zheng Y",
+        "Zhang M",
+        "He A",
+        "Bi J",
+        "Li P",
+        "Zhao Z",
+        "Shi J",
+        "Zhang L",
+        "Huang B",
+        "Lu W",
+        "Zhang N"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8187-3898",
+        "ORCID: 0009-0007-9819-3099",
+        "ORCID: 0009-0006-7879-3743",
+        "ORCID: 0009-0000-3086-0421",
+        "ORCID: 0000-0002-6904-0778",
+        "ORCID: 0000-0003-0133-6879",
+        "ORCID: 0000-0001-5848-3189",
+        "ORCID: 0000-0002-6783-3811"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China.",
+        "Medical Research Institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China.",
+        "Institute for Frontier Interdisciplinary Research in Health Sciences and Technology, Sun Yat-sen University, Guangzhou, Guangdong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Bohan",
+        "short_name": "Chen B",
+        "identifiers": [
+          "0000-0001-8187-3898"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Su, Guangsong",
+        "short_name": "Su G",
+        "identifiers": [
+          "0009-0007-9819-3099"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yiting",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Rong",
+        "short_name": "Liu R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Song, Yingjie",
+        "short_name": "Song Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Qian",
+        "short_name": "Xiao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Lian, Jie",
+        "short_name": "Lian J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chen",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Yuhan",
+        "short_name": "Qiu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Qianlan",
+        "short_name": "Zhao Q",
+        "identifiers": [
+          "0009-0006-7879-3743"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Jiayu",
+        "short_name": "Gu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Jian",
+        "short_name": "Zhong J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+          "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yixin",
+        "short_name": "Gao Y",
+        "identifiers": [
+          "0009-0000-3086-0421"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+          "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China.",
+          "Medical Research Institute, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xujia",
+        "short_name": "Wu X",
+        "identifiers": [
+          "0000-0002-6904-0778"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+          "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Yiping",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Yaoqiang",
+        "short_name": "Zheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Meng",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "He, Anshun",
+        "short_name": "He A",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Bi, Jinfang",
+        "short_name": "Bi J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Peng",
+        "short_name": "Li P",
+        "identifiers": [
+          "0000-0003-0133-6879"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhongfang",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Jiandang",
+        "short_name": "Shi J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lei",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Bin",
+        "short_name": "Huang B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Wange",
+        "short_name": "Lu W",
+        "identifiers": [
+          "0000-0001-5848-3189"
+        ],
+        "affiliations": [
+          "Department of Laboratory Medicine and Institute of Precise Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Nu",
+        "short_name": "Zhang N",
+        "identifiers": [
+          "0000-0002-6783-3811"
+        ],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
+          "Department of Neurosurgery, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong, China.",
+          "Institute for Frontier Interdisciplinary Research in Health Sciences and Technology, Sun Yat-sen University, Guangzhou, Guangdong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 23:29",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052008",
+      "41297453",
+      "38773970",
+      "41929516",
+      "40971821",
+      "40639044",
+      "32039732",
+      "42486263",
+      "40023134",
+      "40373963",
+      "42167397",
+      "41791532",
+      "30336060",
+      "42603632",
+      "30980849",
+      "34328678",
+      "40772310",
+      "35836243",
+      "42918484",
+      "36915208",
+      "38723526",
+      "29843746",
+      "42630718",
+      "40846147",
+      "29897522",
+      "26566863",
+      "39673809",
+      "31614149",
+      "41553494",
+      "41969610",
+      "37891669",
+      "40088740",
+      "41580503",
+      "40383349",
+      "37279651",
+      "40500345",
+      "29479863",
+      "40297808",
+      "31900275",
+      "40050992",
+      "42738889",
+      "30431207",
+      "42785594",
+      "32528036",
+      "34454479",
+      "25991372",
+      "32943609",
+      "30917935",
+      "31462285",
+      "42276053",
+      "30992025",
+      "42852958",
+      "40972861",
+      "32926734",
+      "42740476",
+      "31398406",
+      "42551615",
+      "34752969",
+      "42295990",
+      "34278448",
+      "38522316",
+      "34895074",
+      "38477507",
+      "41817895",
+      "40692150",
+      "40705827",
+      "41084153",
+      "39658092",
+      "35380741",
+      "29876787",
+      "40484999",
+      "41298608",
+      "33417456",
+      "36202175",
+      "39998382",
+      "37175412",
+      "41217736",
+      "31370819",
+      "29991446",
+      "40057744",
+      "38368287",
+      "36932402",
+      "22564186",
+      "36479381",
+      "41114868",
+      "42705500",
+      "32409605",
+      "32422304",
+      "30102952",
+      "38992489",
+      "31508283",
+      "28714520",
+      "36652263",
+      "30081068",
+      "34586728",
+      "39443331",
+      "25960225",
+      "41003719",
+      "34017393",
+      "39919036"
+    ],
+    "review": [
+      "43052008",
+      "42705500"
+    ],
+    "pmc": [
+      "13781634"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43052008/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

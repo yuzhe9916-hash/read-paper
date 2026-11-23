@@ -1,0 +1,406 @@
+{
+  "identity": {
+    "pmid": "43065199",
+    "doi": "10.1016/j.ymthe.2026.11.030",
+    "title": "SOLO-CD47: an all-in-one AAV strategy for localized CRISPR-Cas12f-mediated CD47 editing in cancer immunotherapy."
+  },
+  "content": {
+    "abstract": "Localized CRISPR-mediated CD47 ablation represents a potential alternative to systemic antibody-based therapy, with the possibility of reducing systemic toxicity associated with CD47 targeting. However, clinical translation is constrained by the limited cargo capacity of AAV vectors, which precludes packaging conventional Cas9/Cas12a systems into a single AAV vector. Here, we evaluated and optimized existing hypercompact CRISPR-Cas12f systems for efficient CD47 disruption and localized single-AAV delivery. Through systematic benchmarking, we identified AsCas12f-HKRA as a suitable editor for mouse Cd47 editing, achieving >60% editing efficiency comparable to enAsCas12a-HF while maintaining a favorable specificity profile. CD47 ablation enhanced macrophage phagocytosis in vitro and suppressed tumor growth in vivo. We then developed SOLO-CD47 (Single-AAV Optimized for Localized On-target-editing of CD47), an all-in-one AAV strategy incorporating a tandem dual-sgRNA expression cassette to overcome limited sgRNA expression from a single cassette. Intratumoral delivery of SOLO-CD47 suppressed tumor growth without detectable short-term hematologic abnormalities, and immune profiling revealed increased frequencies of F4/80(+) CD86(+) macrophage-associated cells and CD8(+) T cells in SOLO-mCD47-treated tumors. The human-targeting strategy of SOLO-CD47 also achieved >60% CD47 editing across multiple human cancer cell lines. Collectively, these findings provide proof-of-concept for localized CRISPR-Cas12f-mediated CD47 editing using a single-AAV strategy in cancer immunotherapy.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Cuihua",
+        "Liu, Junnan",
+        "Li, Jinhe",
+        "Zhou, Junfeng",
+        "Huang, Zijie",
+        "Shi, Tianji",
+        "Zheng, Sihuan",
+        "Zhang, Yinzhou",
+        "Zhou, Yingying",
+        "Liang, Qiong",
+        "Yang, Jinxian",
+        "Wang, Yalin",
+        "Guo, Jinxin",
+        "Qiu, Li",
+        "Zhou, Le",
+        "Zhou, HuaPing",
+        "Wang, Feixiang",
+        "Zhou, Ming",
+        "Leng, Qibin",
+        "Huang, Hongxin"
+      ],
+      "short_names": [
+        "Wu C",
+        "Liu J",
+        "Li J",
+        "Zhou J",
+        "Huang Z",
+        "Shi T",
+        "Zheng S",
+        "Zhang Y",
+        "Zhou Y",
+        "Liang Q",
+        "Yang J",
+        "Wang Y",
+        "Guo J",
+        "Qiu L",
+        "Zhou L",
+        "Zhou H",
+        "Wang F",
+        "Zhou M",
+        "Leng Q",
+        "Huang H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "The Third Affiliated Hospital, Southern Medical University, Guangzhou 510630, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Nanchang Medical College, Nanchang 330052, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "The First Affiliated Hospital, Guangzhou Medical University, Guangzhou 510120, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, 511436, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China. Electronic address: zhouming@gzhmu.edu.cn.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China. Electronic address: qbleng@sibs.ac.cn.",
+        "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China. Electronic address: huanghx08@gzhmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Cuihua",
+        "short_name": "Wu C",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Junnan",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jinhe",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "The Third Affiliated Hospital, Southern Medical University, Guangzhou 510630, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Junfeng",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Zijie",
+        "short_name": "Huang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Tianji",
+        "short_name": "Shi T",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Sihuan",
+        "short_name": "Zheng S",
+        "identifiers": [],
+        "affiliations": [
+          "Nanchang Medical College, Nanchang 330052, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yinzhou",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yingying",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Qiong",
+        "short_name": "Liang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jinxian",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yalin",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jinxin",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Li",
+        "short_name": "Qiu L",
+        "identifiers": [],
+        "affiliations": [
+          "The First Affiliated Hospital, Guangzhou Medical University, Guangzhou 510120, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Le",
+        "short_name": "Zhou L",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, 511436, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, HuaPing",
+        "short_name": "Zhou H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Feixiang",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Ming",
+        "short_name": "Zhou M",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China. Electronic address: zhouming@gzhmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Leng, Qibin",
+        "short_name": "Leng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China. Electronic address: qbleng@sibs.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Huang, Hongxin",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou Medical University, Guangzhou 510095, China. Electronic address: huanghx08@gzhmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy : the journal of the American Society of Gene Therapy"
+    ],
+    "journal_abbrev": [
+      "Mol Ther"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/21 05:43",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43065199",
+      "41319963",
+      "42219400",
+      "30675284",
+      "38695159",
+      "42196146",
+      "29333255",
+      "29221488",
+      "42264060",
+      "42214710",
+      "33718515",
+      "42381707",
+      "42214263",
+      "38408137",
+      "30619914",
+      "32348718",
+      "36153319",
+      "30978509",
+      "38974870",
+      "41229123",
+      "32039406",
+      "34620062",
+      "41506374",
+      "38992659",
+      "39012601",
+      "42805175",
+      "40147800",
+      "34485599",
+      "35165339",
+      "34664552",
+      "31771616",
+      "33654839",
+      "41381218",
+      "40660085",
+      "42849672",
+      "33132845",
+      "40972450",
+      "36162766",
+      "30483052",
+      "35256517",
+      "42675860",
+      "40186294",
+      "37795042",
+      "30582653",
+      "33256806",
+      "40113021",
+      "32128412",
+      "41678668",
+      "30938231",
+      "28723575",
+      "37400536",
+      "40264105",
+      "29331077",
+      "32682455",
+      "39870938",
+      "32128346",
+      "40248483",
+      "30190322",
+      "36401042",
+      "39979966",
+      "39461690",
+      "27367513",
+      "40834922",
+      "36209487",
+      "38718473",
+      "40596971",
+      "39888280",
+      "40207734",
+      "41659408",
+      "38945310",
+      "39647515",
+      "35196879",
+      "38462636",
+      "42164995",
+      "35350865",
+      "29019352",
+      "41486850",
+      "42242864",
+      "34485293",
+      "33020240",
+      "41975095",
+      "42539480",
+      "42955435",
+      "32697075",
+      "38871457",
+      "36450383",
+      "32345627",
+      "37068796",
+      "30838171",
+      "31548728",
+      "25837251",
+      "37776859",
+      "42015511",
+      "32426802",
+      "32833533",
+      "27956228",
+      "34858730",
+      "36399647",
+      "30355031",
+      "35767601"
+    ],
+    "review": [
+      "43065199",
+      "29333255",
+      "42264060",
+      "34620062",
+      "37795042",
+      "36209487",
+      "38945310"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1525-0016(26)00970-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-2658",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "43050061",
+    "doi": "10.1186/s12284-026-00948-y",
+    "title": "A Structurally Dynamic Chromosome 11 Locus from Oryza rufipogon Confers Recessive Resistance to Bacterial Blight in Rice."
+  },
+  "content": {
+    "abstract": "Bacterial blight (BB), caused by Xanthomonas oryzae pv. oryzae (Xoo), poses a major threat to global rice production as rapidly evolving pathogen populations overcome existing resistance genes. In this study, we characterized genetic resistance in the Oryza rufipogon accession Wild-173 (UP36), which exhibited broad resistance to diverse Xoo strains, whereas the susceptible cultivar Longjing-31 (LG31) displayed severe disease symptoms. Genetic analysis of an F(2) population derived from UP36(male symbol)xLG31(female symbol) indicated that BB resistance is controlled by a recessive locus, consistent with a 1:3 (R: S) segregation ratio (chi(2) test, P > 0.05). Bulked segregant analysis coupled with whole-genome resequencing (BSA-seq) identified a significant G' peak on chromosome 11. Fine mapping using InDel markers delimited the locus to an approximately 34 kb interval flanked by markers bb94 and bb26 on the long arm of chromosome 11. Within this interval, nine candidate genes were predicted. Two genes encoding a calmodulin-binding protein and an EAP30/Vps36 domain-containing protein showed sequence variation between UP36 and LG31 and were designated xa53-1(t) and xa53-2(t), while the remaining candidates were primarily retrotransposon-related. CRISPR/Cas9-mediated knockout of both candidate genes in a susceptible cultivar resulted in reduced lesion lengths, providing functional evidence for their roles in BB resistance. A high-quality PacBio HiFi assembly of UP36 revealed substantial structural variation and sequence divergence, including presence/absence polymorphisms and disrupted collinearity, indicating that this locus is distinct from previously cloned Xa genes. RNA-seq analysis of UP36 and LG31 following Xoo inoculation prioritized candidate genes and revealed transcriptional reprogramming associated with defense signaling, stress responses, and hormone-mediated immunity. Consistently, qPCR analysis showed stronger induction of defense-related marker genes (PR1a, PR1b, PR5, and PBZ1) in UP36 compared with LG31 after Xoo inoculation. Together, these findings demonstrate that UP36 harbors a novel recessive resistance locus on chromosome 11 conferring broad-spectrum BB resistance and provide valuable genomic resources for gene cloning and resistance breeding.",
+    "keywords": [
+      "Oryza rufipogon",
+      "xa53(t)",
+      "Calmodulin-binding protein",
+      "Recessive resistance",
+      "Structural variation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Beibei",
+        "Shafique, Muhammad Sohaib",
+        "Huang, Weiqing",
+        "Wang, Chunlian",
+        "Liu, Yapei",
+        "Khan, Muhammad Faizan Anwar",
+        "Qiu, Xianjin",
+        "Ji, Zhiyuan"
+      ],
+      "short_names": [
+        "Li B",
+        "Shafique MS",
+        "Huang W",
+        "Wang C",
+        "Liu Y",
+        "Khan MFA",
+        "Qiu X",
+        "Ji Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5267-3336"
+      ],
+      "affiliations": [
+        "College of Agriculture, Yangtze University, Jingzhou, 434025, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.",
+        "College of Agriculture, Yangtze University, Jingzhou, 434025, China. xjqiu216@yangtzeu.edu.cn.",
+        "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China. jizhiyuan@caas.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Beibei",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture, Yangtze University, Jingzhou, 434025, China.",
+          "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Shafique, Muhammad Sohaib",
+        "short_name": "Shafique MS",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Weiqing",
+        "short_name": "Huang W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chunlian",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yapei",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Khan, Muhammad Faizan Anwar",
+        "short_name": "Khan MFA",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Xianjin",
+        "short_name": "Qiu X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture, Yangtze University, Jingzhou, 434025, China. xjqiu216@yangtzeu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Ji, Zhiyuan",
+        "short_name": "Ji Z",
+        "identifiers": [
+          "0000-0001-5267-3336"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Crop Gene Resources and Breeding / National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100081, China. jizhiyuan@caas.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Rice (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Rice (N Y)"
+    ],
+    "pub_date": "2026 Aug 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 17:32",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43050061",
+      "41300773",
+      "37692438",
+      "40949567",
+      "31811315",
+      "39571096",
+      "26081948",
+      "37851522",
+      "32084193",
+      "30225642",
+      "34261357",
+      "38717621",
+      "24715026",
+      "19061530",
+      "16151856",
+      "36689326",
+      "34027390",
+      "32849710",
+      "22189605",
+      "30753229",
+      "27323767",
+      "17576597",
+      "41804045",
+      "34185169",
+      "42968827",
+      "24286630",
+      "18795250",
+      "34913505",
+      "25765449",
+      "31165331",
+      "41437324",
+      "42197625",
+      "17924090",
+      "21970567",
+      "28355306",
+      "16328230",
+      "33830376",
+      "29864161",
+      "34082694",
+      "15118822",
+      "28321828",
+      "32724216",
+      "40149393",
+      "22415685",
+      "31493565",
+      "35562952",
+      "24280417",
+      "39599338",
+      "21274511",
+      "34377062",
+      "36507384",
+      "30842619",
+      "35406847",
+      "27795689",
+      "32620100",
+      "33638765",
+      "24145853",
+      "32117387",
+      "27289079",
+      "21726237",
+      "37240156",
+      "40523103",
+      "27234247",
+      "27165035",
+      "28304228",
+      "40733348",
+      "35743858",
+      "29566243",
+      "35871691",
+      "27905546",
+      "19161350",
+      "32849738",
+      "24162200",
+      "41351701",
+      "28982185",
+      "35764746",
+      "36771686",
+      "42587388",
+      "42895198",
+      "38633460",
+      "29476225",
+      "15473911",
+      "16395578",
+      "37337668",
+      "41039244",
+      "33567155",
+      "39062698",
+      "26883042",
+      "36616174",
+      "33802191",
+      "15473325",
+      "32966899",
+      "42993366",
+      "41420948",
+      "38381127",
+      "34685858",
+      "38178576",
+      "16189658",
+      "36567764",
+      "33367250"
+    ],
+    "review": [
+      "43050061",
+      "32849710"
+    ],
+    "pmc": [
+      "13782313"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43050061/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1186/s12284-026-00948-y",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3432",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

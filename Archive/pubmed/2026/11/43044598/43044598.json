@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "43044598",
+    "doi": "10.1016/j.molcel.2026.10.036",
+    "title": "Oncogenic histone hyperacetylation drives acute myeloid leukemia through enforced transcription initiation of leukemogenic genes."
+  },
+  "content": {
+    "abstract": "Histone acetylation is tightly correlated with active transcription, yet its causal roles and downstream mechanisms remain incompletely defined. Chromosomal translocations generating fusion proteins involving histone acetyltransferases (HATs) represent a powerful but underexplored system to dissect how dysregulated acetylation rewires transcriptional control. Here, we establish an endogenous mouse model of acute myeloid leukemia (AML) driven by a fusion between two HATs, KAT6A and p300, generated through CRISPR-mediated chromosomal rearrangement. KAT6A-p300 induces aggressive, transplantable AML and confers oncogene addiction. Mechanistically, the fusion establishes broad promoter-associated hyperacetylated domains. This hyperacetylation promotes recruitment and remodeling by the canonical BAF complex, increasing promoter accessibility and stimulating RNA polymerase II recruitment and transcription initiation. Fusion formation also redistributes wild-type p300, broadens its chromatin occupancy, and stabilizes its association with fusion-bound loci. Together, our findings establish histone hyperacetylation as a driver of transcription and reveal a direct mechanistic link between aberrant acetylation, chromatin remodeling, and leukemogenesis.",
+    "keywords": [
+      "KAT6A-p300",
+      "RNA polymerase II",
+      "acute myeloid leukemia",
+      "canonical BAF",
+      "chromatin remodeling",
+      "histone acetylation",
+      "transcription initiation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cooper, Alexandra J",
+        "Zemlyanskiy, Grigory",
+        "Trakarnphornsombat, Watanya",
+        "Pena-Romer, Isabel",
+        "Sun, Lu",
+        "Willis, Hannah E",
+        "Burg, Jonathan M",
+        "Fan, Zheng",
+        "Valka, Valentina",
+        "Tajuddin, Rumaysa",
+        "Helin, Kristian",
+        "Keogh, Michael-Christopher",
+        "Radzisheuskaya, Aliaksandra"
+      ],
+      "short_names": [
+        "Cooper AJ",
+        "Zemlyanskiy G",
+        "Trakarnphornsombat W",
+        "Pena-Romer I",
+        "Sun L",
+        "Willis HE",
+        "Burg JM",
+        "Fan Z",
+        "Valka V",
+        "Tajuddin R",
+        "Helin K",
+        "Keogh MC",
+        "Radzisheuskaya A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "EpiCypher Inc., Durham, NC 27709, USA.",
+        "EpiCypher Inc., Durham, NC 27709, USA.",
+        "EpiCypher Inc., Durham, NC 27709, USA.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK.",
+        "EpiCypher Inc., Durham, NC 27709, USA.",
+        "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK. Electronic address: alex.radzisheuskaya@icr.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cooper, Alexandra J",
+        "short_name": "Cooper AJ",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Zemlyanskiy, Grigory",
+        "short_name": "Zemlyanskiy G",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Trakarnphornsombat, Watanya",
+        "short_name": "Trakarnphornsombat W",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Peña-Rømer, Isabel",
+        "short_name": "Peña-Rømer I",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Sun, Lu",
+        "short_name": "Sun L",
+        "identifiers": [],
+        "affiliations": [
+          "EpiCypher Inc., Durham, NC 27709, USA."
+        ]
+      },
+      {
+        "full_name": "Willis, Hannah E",
+        "short_name": "Willis HE",
+        "identifiers": [],
+        "affiliations": [
+          "EpiCypher Inc., Durham, NC 27709, USA."
+        ]
+      },
+      {
+        "full_name": "Burg, Jonathan M",
+        "short_name": "Burg JM",
+        "identifiers": [],
+        "affiliations": [
+          "EpiCypher Inc., Durham, NC 27709, USA."
+        ]
+      },
+      {
+        "full_name": "Fan, Zheng",
+        "short_name": "Fan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Valka, Valentina",
+        "short_name": "Valka V",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Tajuddin, Rumaysa",
+        "short_name": "Tajuddin R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Helin, Kristian",
+        "short_name": "Helin K",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK."
+        ]
+      },
+      {
+        "full_name": "Keogh, Michael-Christopher",
+        "short_name": "Keogh MC",
+        "identifiers": [],
+        "affiliations": [
+          "EpiCypher Inc., Durham, NC 27709, USA."
+        ]
+      },
+      {
+        "full_name": "Radzisheuskaya, Aliaksandra",
+        "short_name": "Radzisheuskaya A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Cell and Molecular Biology, The Institute of Cancer Research, London SW3 6JB, UK. Electronic address: alex.radzisheuskaya@icr.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 23:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43044598",
+      "40830799",
+      "17389244",
+      "12586842",
+      "22923494",
+      "14597626",
+      "42362805",
+      "23667505",
+      "36690674",
+      "34853079",
+      "11243405",
+      "21141731",
+      "41849237",
+      "33594072",
+      "17484131",
+      "40536430",
+      "23390536",
+      "16696975",
+      "28717009",
+      "27647933",
+      "30461303",
+      "17658552",
+      "17055528",
+      "16876108",
+      "40844877",
+      "14976218",
+      "35705031",
+      "32434928",
+      "24727477",
+      "21774670",
+      "41175189",
+      "14763160",
+      "34019788",
+      "15299018",
+      "19272450",
+      "28241141",
+      "42704008",
+      "34251718",
+      "20974913",
+      "35502657",
+      "17227884",
+      "11055583",
+      "42378254",
+      "34540702",
+      "15121871",
+      "14560024",
+      "32453730",
+      "35565363",
+      "9285713",
+      "24446090",
+      "33431884",
+      "17656371",
+      "12711597",
+      "39002676",
+      "42297809",
+      "33933457",
+      "32179749",
+      "12461747",
+      "15647825",
+      "11988486",
+      "16357144",
+      "28871137",
+      "32764680",
+      "20160126",
+      "11923478",
+      "12140315",
+      "38655899",
+      "15964811",
+      "30080437",
+      "22544934",
+      "11174118",
+      "34819351",
+      "18523016",
+      "33782403",
+      "19535349",
+      "42469847",
+      "28187447",
+      "15647279",
+      "10921904",
+      "9582280",
+      "22289984",
+      "21131905",
+      "28241139",
+      "36537216",
+      "42081590",
+      "19423655",
+      "11909941",
+      "39794553",
+      "23785470",
+      "15987677",
+      "11689448",
+      "33130515",
+      "36711459",
+      "42748909",
+      "42763295",
+      "12917345",
+      "19835597",
+      "11755210",
+      "18644873",
+      "21764752"
+    ],
+    "review": [
+      "43044598",
+      "21141731",
+      "17484131",
+      "14763160",
+      "34251718",
+      "11055583",
+      "34540702",
+      "35565363",
+      "9285713",
+      "11174118",
+      "19535349"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(26)00756-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1240",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

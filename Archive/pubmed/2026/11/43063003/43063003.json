@@ -1,0 +1,210 @@
+{
+  "identity": {
+    "pmid": "43063003",
+    "doi": "10.1016/j.xpro.2026.104975",
+    "title": "Protocol for cell-type-specific manipulation of histone acetylation in developing mouse cortex using CRISPR-based epigenome editing."
+  },
+  "content": {
+    "abstract": "Epigenetic regulation controls transcriptional programs that govern cortical neurogenesis. Here, we present a protocol for locus-specific manipulation of histone acetylation using a CRISPR-dCas9-Kat2a epigenome-editing system. As an example, we describe the design and validation of single-guide RNAs (sgRNAs), assembly of a Cre-dependent all-in-one CRISPR activation (CRISPRa) vector, validation of promoter-specific H3K9 acetylation in Neuro2A cells, and targeted delivery of epigenome-editing constructs into the embryonic mouse cortex by in utero electroporation (IUE). For complete details on the use and execution of this protocol, please refer to Sokpor et al.(1) and Kerimoglu et al.(2).",
+    "keywords": [
+      "CRISPR",
+      "Genetics",
+      "Model Organisms",
+      "Molecular Biology",
+      "Neuroscience"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kakani, Princy",
+        "Nguyen, Huu Phuc",
+        "Tuoc, Tran"
+      ],
+      "short_names": [
+        "Kakani P",
+        "Nguyen HP",
+        "Tuoc T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Human Genetics, Ruhr University of Bochum, 44791 Bochum, Germany. Electronic address: princy.kakani@ruhr-uni-bochum.de.",
+        "Department of Human Genetics, Ruhr University of Bochum, 44791 Bochum, Germany.",
+        "Department of Human Genetics, Ruhr University of Bochum, 44791 Bochum, Germany. Electronic address: tran.tuoc@ruhr-uni-bochum.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kakani, Princy",
+        "short_name": "Kakani P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, Ruhr University of Bochum, 44791 Bochum, Germany. Electronic address: princy.kakani@ruhr-uni-bochum.de."
+        ]
+      },
+      {
+        "full_name": "Nguyen, Huu Phuc",
+        "short_name": "Nguyen HP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, Ruhr University of Bochum, 44791 Bochum, Germany."
+        ]
+      },
+      {
+        "full_name": "Tuoc, Tran",
+        "short_name": "Tuoc T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, Ruhr University of Bochum, 44791 Bochum, Germany. Electronic address: tran.tuoc@ruhr-uni-bochum.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 17:32",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43063003",
+      "42479489",
+      "42510658",
+      "30871638",
+      "28503202",
+      "42297231",
+      "40700012",
+      "40121086",
+      "40707359",
+      "34354157",
+      "42879020",
+      "30284145",
+      "33554142",
+      "39012597",
+      "42012982",
+      "34321217",
+      "38157295",
+      "38460133",
+      "39012596",
+      "38691460",
+      "33948565",
+      "42809437",
+      "39661507",
+      "34189476",
+      "40653285",
+      "43056001",
+      "33482403",
+      "25849900",
+      "40198219",
+      "34049825",
+      "36595926",
+      "41649928",
+      "40768339",
+      "39058589",
+      "37119143",
+      "34341582",
+      "37729058",
+      "31053162",
+      "34771597",
+      "37738119",
+      "36231007",
+      "39756031",
+      "33315895",
+      "40944915",
+      "40120111",
+      "37922314",
+      "35719723",
+      "38972040",
+      "42970436",
+      "34382018",
+      "35005644",
+      "36178790",
+      "36914062",
+      "35496795",
+      "39437453",
+      "34746867",
+      "31071448",
+      "35712010",
+      "38427231",
+      "36853698",
+      "39894446",
+      "42105238",
+      "41433155",
+      "39345554",
+      "39012601",
+      "42541720",
+      "34825222",
+      "36853660",
+      "34095868",
+      "40522884",
+      "39666461",
+      "40850232",
+      "39003744",
+      "40073018",
+      "39471176",
+      "39122070",
+      "35783678",
+      "39937081",
+      "35620074",
+      "35496794",
+      "43013401",
+      "39012600",
+      "36595935",
+      "41620608",
+      "35118433",
+      "36849419",
+      "39342621",
+      "38640065",
+      "33377102",
+      "29924937",
+      "39530233",
+      "39427309",
+      "28985525",
+      "41051673",
+      "42475469",
+      "41884948",
+      "37948185",
+      "37967017",
+      "34013211",
+      "31392820"
+    ],
+    "review": [
+      "43063003",
+      "42297231",
+      "30284145",
+      "36231007",
+      "31071448",
+      "28985525"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00628-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

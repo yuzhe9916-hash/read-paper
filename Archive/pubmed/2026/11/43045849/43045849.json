@@ -1,0 +1,404 @@
+{
+  "identity": {
+    "pmid": "43045849",
+    "doi": "10.1038/s41588-026-02843-0",
+    "title": "Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk."
+  },
+  "content": {
+    "abstract": "Mounting evidence implicates microglia in neurodegeneration, but linking disease-associated genetic variants to target genes and cellular phenotypes is hindered by the inaccessibility of these cells. We differentiated 261 human induced pluripotent stem cell lines into microglia-like (iMGL) cells in pools with phenotypic (differentiation, phagocytosis and migration) and single-cell transcriptomic readouts. Burden analysis of deleterious variants detected 36 genes influencing microglial phenotypes. Expression quantitative trait locus (eQTL) analysis identified 7,121 eQTL-associated genes and 79 colocalizations across four neurodegenerative disease genome-wide association studies, half of which had limited prior evidence of causality. Integration of eQTL and phenotypic associations highlighted the role of disease-relevant variants, including LRRK2 and TREM2 acting through microglial phagocytosis. A coupled CRISPR screen identified a role for TREM2 in phagocytosis and highlighted the importance of cell type in the directionality of phenotypic effects. By contextualizing variant effects within iMGLs in different inflammatory states, we provide a comprehensive framework for interpreting the function of risk loci in neurodegenerative disorders.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Perez-Alcantara, Marta",
+        "Washer, Sam J",
+        "Chen, Yixi",
+        "Steer, Juliette",
+        "Gonzalez-Padilla, Daianna",
+        "McWilliam, Joe",
+        "Wille, David",
+        "Panousis, Nikolaos",
+        "Kolberg, Peep",
+        "Navarro-Guerrero, Elena",
+        "Alasoo, Kaur",
+        "Hall-Roberts, Hazel",
+        "Williams, Julie",
+        "Cowley, Sally A",
+        "Trynka, Gosia",
+        "Bassett, Andrew R"
+      ],
+      "short_names": [
+        "Perez-Alcantara M",
+        "Washer SJ",
+        "Chen Y",
+        "Steer J",
+        "Gonzalez-Padilla D",
+        "McWilliam J",
+        "Wille D",
+        "Panousis N",
+        "Kolberg P",
+        "Navarro-Guerrero E",
+        "Alasoo K",
+        "Hall-Roberts H",
+        "Williams J",
+        "Cowley SA",
+        "Trynka G",
+        "Bassett AR"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4004-8984",
+        "ORCID: 0000-0001-8086-7955",
+        "ORCID: 0000-0003-0850-2665",
+        "ORCID: 0000-0001-8898-8153",
+        "ORCID: 0000-0001-8076-1480",
+        "ORCID: 0000-0002-1761-8881",
+        "ORCID: 0000-0002-4069-0259",
+        "ORCID: 0000-0003-0297-6675",
+        "ORCID: 0000-0002-6955-9529",
+        "ORCID: 0000-0003-1632-9137"
+      ],
+      "affiliations": [
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "James and Lillian Martin Centre for Stem Cell Research, Sir William Dunn School of Pathology, University of Oxford, Oxford, UK.",
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "GSK, Stevenage, UK.",
+        "GSK, Stevenage, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "Institute of Computer Science, University of Tartu, Tartu, Estonia.",
+        "Centre for Medicines Discovery, Target Discovery Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+        "Institute of Computer Science, University of Tartu, Tartu, Estonia.",
+        "UK Dementia Research Institute, Cardiff University, Cardiff, UK.",
+        "UK Dementia Research Institute, Cardiff University, Cardiff, UK.",
+        "James and Lillian Martin Centre for Stem Cell Research, Sir William Dunn School of Pathology, University of Oxford, Oxford, UK.",
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK. gosia@sanger.ac.uk.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK. gosia@sanger.ac.uk.",
+        "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK. ab42@sanger.ac.uk.",
+        "Open Targets, Wellcome Genome Campus, Hinxton, UK. ab42@sanger.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Perez-Alcantara, Marta",
+        "short_name": "Perez-Alcantara M",
+        "identifiers": [],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK."
+        ]
+      },
+      {
+        "full_name": "Washer, Sam J",
+        "short_name": "Washer SJ",
+        "identifiers": [
+          "0000-0003-4004-8984"
+        ],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+          "James and Lillian Martin Centre for Stem Cell Research, Sir William Dunn School of Pathology, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Chen, Yixi",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK."
+        ]
+      },
+      {
+        "full_name": "Steer, Juliette",
+        "short_name": "Steer J",
+        "identifiers": [
+          "0000-0001-8086-7955"
+        ],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK."
+        ]
+      },
+      {
+        "full_name": "Gonzalez-Padilla, Daianna",
+        "short_name": "Gonzalez-Padilla D",
+        "identifiers": [],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK."
+        ]
+      },
+      {
+        "full_name": "McWilliam, Joe",
+        "short_name": "McWilliam J",
+        "identifiers": [],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK."
+        ]
+      },
+      {
+        "full_name": "Willé, David",
+        "short_name": "Willé D",
+        "identifiers": [
+          "0000-0003-0850-2665"
+        ],
+        "affiliations": [
+          "GSK, Stevenage, UK."
+        ]
+      },
+      {
+        "full_name": "Panousis, Nikolaos",
+        "short_name": "Panousis N",
+        "identifiers": [],
+        "affiliations": [
+          "GSK, Stevenage, UK."
+        ]
+      },
+      {
+        "full_name": "Kolberg, Peep",
+        "short_name": "Kolberg P",
+        "identifiers": [
+          "0000-0001-8898-8153"
+        ],
+        "affiliations": [
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+          "Institute of Computer Science, University of Tartu, Tartu, Estonia."
+        ]
+      },
+      {
+        "full_name": "Navarro-Guerrero, Elena",
+        "short_name": "Navarro-Guerrero E",
+        "identifiers": [
+          "0000-0001-8076-1480"
+        ],
+        "affiliations": [
+          "Centre for Medicines Discovery, Target Discovery Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Alasoo, Kaur",
+        "short_name": "Alasoo K",
+        "identifiers": [
+          "0000-0002-1761-8881"
+        ],
+        "affiliations": [
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK.",
+          "Institute of Computer Science, University of Tartu, Tartu, Estonia."
+        ]
+      },
+      {
+        "full_name": "Hall-Roberts, Hazel",
+        "short_name": "Hall-Roberts H",
+        "identifiers": [],
+        "affiliations": [
+          "UK Dementia Research Institute, Cardiff University, Cardiff, UK."
+        ]
+      },
+      {
+        "full_name": "Williams, Julie",
+        "short_name": "Williams J",
+        "identifiers": [
+          "0000-0002-4069-0259"
+        ],
+        "affiliations": [
+          "UK Dementia Research Institute, Cardiff University, Cardiff, UK."
+        ]
+      },
+      {
+        "full_name": "Cowley, Sally A",
+        "short_name": "Cowley SA",
+        "identifiers": [
+          "0000-0003-0297-6675"
+        ],
+        "affiliations": [
+          "James and Lillian Martin Centre for Stem Cell Research, Sir William Dunn School of Pathology, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Trynka, Gosia",
+        "short_name": "Trynka G",
+        "identifiers": [
+          "0000-0002-6955-9529"
+        ],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK. gosia@sanger.ac.uk.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK. gosia@sanger.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Bassett, Andrew R",
+        "short_name": "Bassett AR",
+        "identifiers": [
+          "0000-0003-1632-9137"
+        ],
+        "affiliations": [
+          "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK. ab42@sanger.ac.uk.",
+          "Open Targets, Wellcome Genome Campus, Hinxton, UK. ab42@sanger.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature genetics"
+    ],
+    "journal_abbrev": [
+      "Nat Genet"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 05:33",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43045849",
+      "33198789",
+      "42780032",
+      "33613545",
+      "41066163",
+      "29263232",
+      "30157425",
+      "38576039",
+      "36517655",
+      "30577865",
+      "41322409",
+      "42475469",
+      "38092815",
+      "37626736",
+      "31907987",
+      "38824563",
+      "42003665",
+      "39606421",
+      "37115208",
+      "36108770",
+      "35953545",
+      "35459617",
+      "23474282",
+      "38600587",
+      "41611629",
+      "28388432",
+      "30562902",
+      "42190655",
+      "30619483",
+      "41432310",
+      "41174786",
+      "40631275",
+      "39229212",
+      "38272949",
+      "40950136",
+      "42106519",
+      "40903578",
+      "34563398",
+      "31522977",
+      "41699549",
+      "37969043",
+      "35895835",
+      "37573007",
+      "41875896",
+      "27005890",
+      "40975871",
+      "42780159",
+      "42743802",
+      "36423637",
+      "41279077",
+      "41820324",
+      "40898610",
+      "39563277",
+      "40653482",
+      "33097708",
+      "38991381",
+      "41688845",
+      "41111148",
+      "25766683",
+      "28683563",
+      "32579729",
+      "35706029",
+      "25230953",
+      "33988505",
+      "39655660",
+      "35526014",
+      "25315895",
+      "39891235",
+      "26423934",
+      "41895273",
+      "29056226",
+      "42471654",
+      "37873223",
+      "36480007",
+      "38821351",
+      "37851522",
+      "32941599",
+      "35191835",
+      "32103259",
+      "40737431",
+      "30100503",
+      "38654375",
+      "42694478",
+      "42734746",
+      "37577582",
+      "39514271",
+      "39896448",
+      "29473973",
+      "37503151",
+      "36658083",
+      "42827902",
+      "35735005",
+      "42602355",
+      "39468794",
+      "42214129",
+      "29675560",
+      "38798451",
+      "29335020",
+      "33127097",
+      "28426964"
+    ],
+    "review": [
+      "43045849",
+      "37626736",
+      "35459617",
+      "42106519",
+      "26423934",
+      "41895273",
+      "38821351",
+      "42694478",
+      "36658083",
+      "42602355"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41588-026-02843-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "identity": {
+    "pmid": "43048946",
+    "doi": "10.1177/10430342261477949",
+    "title": "Killers by Design: How Innovative Gene-Engineering Fine-Tunes NK Cells as Next Generation Immunotherapies."
+  },
+  "content": {
+    "abstract": "Natural killer (NK) cells have emerged as promising candidates for adoptive immunotherapies. Their natural cytotoxic capabilities and low incidence of side-effects such as cytokine release syndrome and immune effector cell-associated neurotoxicity, render NK cells a favorable alternative to T cells. Incorporation of a chimeric antigen receptor (CAR) has been shown to greatly enhance NK cell's antitumor capacity. Nevertheless, CAR-NK cell therapies still face several challenges, such as low in vivo persistence, low tumor homing of the transfused cells and the effects of the immunosuppressive tumor microenvironment (TME). Genetic modifications of key cellular mediators show great potential to overcome these hurdles. While well-established viral engineering strategies are currently the most commonly used techniques, biosafety concerns, high costs, and labour-intensive protocols have encouraged innovation toward nonviral strategies. In this review, we describe recently established viral and nonviral technologies used for NK cell engineering, focusing on their respective advantages and disadvantages. In addition, we highlight the most important functional refinements and mechanistic characterizations of NK cells and genetically optimized NK cells in the context of the TME and how these advances can be progressed toward therapeutic translation.",
+    "keywords": [
+      "CAR-NK cells",
+      "CRISPR/Cas9",
+      "NK cells",
+      "electroporation",
+      "gene editing",
+      "immunotherapy",
+      "lentiviral vectors",
+      "nanoparticles",
+      "sleeping beauty",
+      "transposon"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kluge, Pia",
+        "Knapp, Lea Rebecca",
+        "Lai, Kuan-Yu",
+        "Sapre, Avani",
+        "Rasko, Tamas",
+        "Bexte, Tobias",
+        "Ullrich, Evelyn"
+      ],
+      "short_names": [
+        "Kluge P",
+        "Knapp LR",
+        "Lai KY",
+        "Sapre A",
+        "Rasko T",
+        "Bexte T",
+        "Ullrich E"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-7734-7559",
+        "ORCID: 0009-0009-2392-6416",
+        "ORCID: 0000-0001-8530-1192"
+      ],
+      "affiliations": [
+        "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+        "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+        "German Cancer Consortium (DKTK), Heidelberg-partner site Freiburg, Germany.",
+        "German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Institute of Molecular Medicine, Albert Ludwigs University, Freiburg, Germany.",
+        "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+        "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+        "LABMaiTE GmbH, Freiburg, Germany.",
+        "Medical Department II and Chair for Cellular Immunotherapy, University Hospital Wurzburg, Wurzburg, Germany.",
+        "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+        "Institute for Transfusion Medicine and Immunohematology, German Red Cross Hesse, Frankfurt, Germany.",
+        "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+        "German Cancer Consortium (DKTK), Heidelberg-partner site Freiburg, Germany.",
+        "German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "German Cancer Consortium (DKTK), Heidelberg-partner site Frankfurt/Mainz, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kluge, Pia",
+        "short_name": "Kluge P",
+        "identifiers": [],
+        "affiliations": [
+          "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany."
+        ]
+      },
+      {
+        "full_name": "Knapp, Lea Rebecca",
+        "short_name": "Knapp LR",
+        "identifiers": [
+          "0009-0009-7734-7559"
+        ],
+        "affiliations": [
+          "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+          "German Cancer Consortium (DKTK), Heidelberg-partner site Freiburg, Germany.",
+          "German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+          "Institute of Molecular Medicine, Albert Ludwigs University, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Lai, Kuan-Yu",
+        "short_name": "Lai KY",
+        "identifiers": [],
+        "affiliations": [
+          "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany."
+        ]
+      },
+      {
+        "full_name": "Sapre, Avani",
+        "short_name": "Sapre A",
+        "identifiers": [],
+        "affiliations": [
+          "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+          "LABMaiTE GmbH, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Rasko, Tamas",
+        "short_name": "Rasko T",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Department II and Chair for Cellular Immunotherapy, University Hospital Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Bexte, Tobias",
+        "short_name": "Bexte T",
+        "identifiers": [
+          "0009-0009-2392-6416"
+        ],
+        "affiliations": [
+          "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+          "Institute for Transfusion Medicine and Immunohematology, German Red Cross Hesse, Frankfurt, Germany."
+        ]
+      },
+      {
+        "full_name": "Ullrich, Evelyn",
+        "short_name": "Ullrich E",
+        "identifiers": [
+          "0000-0001-8530-1192"
+        ],
+        "affiliations": [
+          "Experimental Immunology and Cell Therapy, Goethe University, Frankfurt am Main, Germany.",
+          "German Cancer Consortium (DKTK), Heidelberg-partner site Freiburg, Germany.",
+          "German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+          "German Cancer Consortium (DKTK), Heidelberg-partner site Frankfurt/Mainz, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Human gene therapy"
+    ],
+    "journal_abbrev": [
+      "Hum Gene Ther"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 11:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43048946",
+      "30306093",
+      "41405764",
+      "33933160",
+      "42947991",
+      "42926223",
+      "42925903",
+      "40771804",
+      "41511303",
+      "41882710",
+      "40996824",
+      "34453686",
+      "42189068",
+      "34134774",
+      "39731215",
+      "35720306",
+      "41488873",
+      "37403203",
+      "42316255",
+      "39256765",
+      "42136666",
+      "41969284",
+      "41950641",
+      "39763064",
+      "41635402",
+      "41181137",
+      "38142460",
+      "42317132",
+      "35464442",
+      "40299429",
+      "40848820",
+      "43013134",
+      "42992557",
+      "41487532",
+      "42011876",
+      "41645252",
+      "34970253",
+      "38751112",
+      "32117200",
+      "35371071",
+      "38045827",
+      "42240912",
+      "40707132",
+      "42823085",
+      "42183670",
+      "36050244",
+      "41758307",
+      "30514403",
+      "41692037",
+      "40698082",
+      "41537165",
+      "43011314",
+      "41459521",
+      "33925968",
+      "35361234",
+      "40723278",
+      "34178661",
+      "41762674",
+      "32903482",
+      "41135520",
+      "40723807",
+      "40692031",
+      "41329315",
+      "40852706",
+      "39475383",
+      "40845844",
+      "41303706",
+      "33216984",
+      "34500148",
+      "42919351",
+      "40149002",
+      "38022679",
+      "42711726",
+      "40402461",
+      "36434591",
+      "41233896",
+      "36483551",
+      "38443448",
+      "42082268",
+      "42220535",
+      "36717905",
+      "38273655",
+      "41770372",
+      "39774132",
+      "38726000",
+      "34267335",
+      "42992139",
+      "41627624",
+      "41033594",
+      "40726987",
+      "33371456",
+      "33488617",
+      "36428748",
+      "30734584",
+      "42994743",
+      "42577382",
+      "34215336",
+      "30860598",
+      "42669499",
+      "40007761"
+    ],
+    "review": [
+      "43048946",
+      "30306093",
+      "41405764",
+      "33933160",
+      "42947991",
+      "42926223",
+      "42925903",
+      "40771804",
+      "41511303",
+      "41882710",
+      "40996824",
+      "34453686",
+      "42189068",
+      "34134774",
+      "39731215",
+      "35720306",
+      "41488873",
+      "37403203",
+      "42316255",
+      "39256765",
+      "42136666",
+      "41969284",
+      "41950641",
+      "41635402",
+      "41181137",
+      "38142460",
+      "42317132",
+      "40299429",
+      "40848820",
+      "43013134",
+      "42992557",
+      "41487532",
+      "42011876",
+      "41645252",
+      "34970253",
+      "35371071",
+      "38045827",
+      "42240912",
+      "42183670",
+      "41758307",
+      "41692037",
+      "40698082",
+      "43011314",
+      "35361234",
+      "40723278",
+      "34178661",
+      "41762674",
+      "32903482",
+      "41135520",
+      "40723807",
+      "40692031",
+      "41329315",
+      "40852706",
+      "41303706",
+      "33216984",
+      "34500148",
+      "42919351",
+      "40149002",
+      "38022679",
+      "42711726",
+      "36483551",
+      "38443448",
+      "42082268",
+      "42220535",
+      "36717905",
+      "38273655",
+      "41770372",
+      "39774132",
+      "38726000",
+      "34267335",
+      "42992139",
+      "41033594",
+      "40726987",
+      "33371456",
+      "33488617",
+      "36428748",
+      "42994743",
+      "34215336",
+      "42669499",
+      "40007761"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.sagepub.com/doi/10.1177/10430342261477949?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

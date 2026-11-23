@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "43035436",
+    "doi": "10.1186/s12866-026-05549-9",
+    "title": "Construction of an all-in-one doxycycline-inducible Cre/loxP marker recycling system in Aspergillus species."
+  },
+  "content": {
+    "abstract": "Aspergillus features numerous species with diverse characteristics, and efforts to identify the genes responsible for these traits are ongoing worldwide. Advanced multi-gene knockout technologies are required to analyze the functions of these genes. Although CRISPR/Cas9-based gene disruption methods have become widely used in many organisms, conventional homologous recombination remains the most reliable method for multiple-gene disruption in Aspergillus species. Here, we report the development of a novel marker recycling cassette for Aspergillus spp. This system enables highly efficient gene disruption and marker recycling by combining a doxycycline-inducible Cre/loxP system with a uracil biosynthesis pathway and counterselection using uracil analogs. Using the model filamentous fungi Aspergillus nidulans and the human pathogen Aspergillus fumigatus, we disrupted genes involved in conidial pigment biosynthesis and amino acid and vitamin biosynthesis. This system is expected to facilitate and accelerate functional genomic analyses in Aspergillus spp.",
+    "keywords": [
+      "Aspergillus fumigatus",
+      "Aspergillus nidulans",
+      "Counter-selectable marker",
+      "Cre/loxP",
+      "Marker recycling",
+      "Tet-On promoter"
+    ],
+    "mesh_terms": [
+      "*Integrases/genetics",
+      "Aspergillus nidulans/genetics",
+      "*Doxycycline/pharmacology",
+      "*Aspergillus/genetics",
+      "Aspergillus fumigatus/genetics",
+      "*Gene Knockout Techniques/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yakabe, Shun",
+        "Hamaguchi, Ayuki",
+        "Noguchi, Masayuki",
+        "Kakihara, Kosuke",
+        "Sasano, Yu",
+        "Futagami, Taiki",
+        "Oka, Takuji",
+        "Kadooka, Chihiro"
+      ],
+      "short_names": [
+        "Yakabe S",
+        "Hamaguchi A",
+        "Noguchi M",
+        "Kakihara K",
+        "Sasano Y",
+        "Futagami T",
+        "Oka T",
+        "Kadooka C"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5721-0445"
+      ],
+      "affiliations": [
+        "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan.",
+        "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan.",
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan.",
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan.",
+        "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan.",
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan.",
+        "Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University, Kagoshima, 890-0065, Japan.",
+        "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. oka@bio.sojo-u.ac.jp.",
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. oka@bio.sojo-u.ac.jp.",
+        "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. kadooka@bio.sojo-u.ac.jp.",
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. kadooka@bio.sojo-u.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yakabe, Shun",
+        "short_name": "Yakabe S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan."
+        ]
+      },
+      {
+        "full_name": "Hamaguchi, Ayuki",
+        "short_name": "Hamaguchi A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan."
+        ]
+      },
+      {
+        "full_name": "Noguchi, Masayuki",
+        "short_name": "Noguchi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan."
+        ]
+      },
+      {
+        "full_name": "Kakihara, Kosuke",
+        "short_name": "Kakihara K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan."
+        ]
+      },
+      {
+        "full_name": "Sasano, Yu",
+        "short_name": "Sasano Y",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan.",
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan."
+        ]
+      },
+      {
+        "full_name": "Futagami, Taiki",
+        "short_name": "Futagami T",
+        "identifiers": [],
+        "affiliations": [
+          "Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University, Kagoshima, 890-0065, Japan."
+        ]
+      },
+      {
+        "full_name": "Oka, Takuji",
+        "short_name": "Oka T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. oka@bio.sojo-u.ac.jp.",
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. oka@bio.sojo-u.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Kadooka, Chihiro",
+        "short_name": "Kadooka C",
+        "identifiers": [
+          "0000-0001-5721-0445"
+        ],
+        "affiliations": [
+          "Division of Applied Microbial Technology, Sojo University Graduate School of Engineering, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. kadooka@bio.sojo-u.ac.jp.",
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Nishi-ku, Kumamoto, 860-0082, Japan. kadooka@bio.sojo-u.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC microbiology"
+    ],
+    "journal_abbrev": [
+      "BMC Microbiol"
+    ],
+    "pub_date": "2026 Aug 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 05:32",
+    "fetched_at": "2026-11-23 21:35:50"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43035436",
+      "28011085",
+      "36651760",
+      "16783565",
+      "36669556",
+      "10515939",
+      "30258410",
+      "15649330",
+      "22504800",
+      "18560466",
+      "35041649",
+      "35595930",
+      "14516763",
+      "7988865",
+      "26851300",
+      "24007936",
+      "17703973",
+      "30478227",
+      "30515548",
+      "23494311",
+      "35168324",
+      "31227866",
+      "41580141",
+      "31392377",
+      "28840320",
+      "7927700",
+      "37504708",
+      "16387870",
+      "30641126",
+      "28840657",
+      "39640368",
+      "11591226",
+      "41387164",
+      "11479709",
+      "26555930",
+      "41968243",
+      "8953267",
+      "32019801",
+      "24792968",
+      "34964942",
+      "35189159",
+      "18245277",
+      "19765620",
+      "37805953",
+      "20149101",
+      "16372000",
+      "11427550",
+      "10102364",
+      "24940603",
+      "24118544",
+      "7565588",
+      "18757566",
+      "15056885",
+      "19576996",
+      "27564988",
+      "33563821",
+      "11418514",
+      "37522511",
+      "16002655",
+      "31254343",
+      "14998529",
+      "20713166",
+      "23936193",
+      "26318395",
+      "23771575",
+      "23435153",
+      "15071756",
+      "24462858",
+      "31909863",
+      "37943062",
+      "20817115",
+      "24161898",
+      "16289954",
+      "12172968",
+      "29971476",
+      "27803184",
+      "28364122",
+      "9832321",
+      "28159628",
+      "39083114",
+      "29309843",
+      "38653596",
+      "38416308",
+      "33612423",
+      "27148179",
+      "27262296",
+      "30131357",
+      "18725939",
+      "26701308",
+      "28584995",
+      "18240565",
+      "11035928",
+      "7847892",
+      "31945142",
+      "31217305",
+      "22328370",
+      "32269156",
+      "20495807",
+      "3897247",
+      "27611015"
+    ],
+    "review": [
+      "43035436",
+      "31227866",
+      "7847892"
+    ],
+    "pmc": [
+      "13772331"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-026-05549-9",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43035436/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

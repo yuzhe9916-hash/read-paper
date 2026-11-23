@@ -1,0 +1,295 @@
+{
+  "identity": {
+    "pmid": "43049416",
+    "doi": "10.1021/acs.jafc.6c10471",
+    "title": "CRISPR-Mediated PABPC1 Upregulation via ELF5 Binding Disruption Enhances Milk Protein and Lipid Biosynthesis in Goat Mammary Epithelial Cells."
+  },
+  "content": {
+    "abstract": "Post-transcriptional control of milk protein and lipid production in goats remains poorly understood. Here we combined ONT full-length transcriptome sequencing with RNA pull-down coupled to LC-MS/MS to identify RNA-binding proteins associated with milk protein mRNAs, and uncovered poly(A)-binding protein cytoplasmic 1 (PABPC1) as a central regulator. PABPC1 bound the 3'UTRs of casein and lipid-related transcripts such as CSN2, CSN3, LALBA, and FASN, stabilizing these mRNAs and promoting their translation, while dose-dependently modulating alternative polyadenylation (APA) site selection to reshape 3'UTR isoform usage. ELF5 directly bound the PABPC1 promoter, repressing its transcription. CRISPR/Cas9 editing of this binding motif relieved this repression, elevating PABPC1 levels and increasing casein accumulation and triglyceride synthesis in goat mammary epithelial cells. Our findings define an ELF5-PABPC1-APA regulatory module and nominate a tractable target for molecular breeding to enhance goat milk protein and lipid content.",
+    "keywords": [
+      "ELF5",
+      "PABPC1",
+      "GMECs",
+      "alternative polyadenylation",
+      "gene editing",
+      "milk lipid synthesis",
+      "milk protein synthesis"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Female",
+      "*Goats/genetics/metabolism",
+      "*Mammary Glands, Animal/metabolism/cytology",
+      "*Epithelial Cells/metabolism",
+      "*Lipids/biosynthesis",
+      "*Milk Proteins/biosynthesis/genetics/metabolism",
+      "Up-Regulation",
+      "CRISPR-Cas Systems",
+      "*Proto-Oncogene Proteins c-ets/metabolism/genetics",
+      "*Transcription Factors/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhu, Zhenliang",
+        "Wang, Haoxin",
+        "Liu, Yayi",
+        "Jian, Yangyi",
+        "Zhang, Yong",
+        "Feng, Rui",
+        "Liu, Jun",
+        "Gao, Yuanpeng"
+      ],
+      "short_names": [
+        "Zhu Z",
+        "Wang H",
+        "Liu Y",
+        "Jian Y",
+        "Zhang Y",
+        "Feng R",
+        "Liu J",
+        "Gao Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6360-5985"
+      ],
+      "affiliations": [
+        "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China.",
+        "College of Animal Science and Technology, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China.",
+        "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China.",
+        "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China.",
+        "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+        "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhu, Zhenliang",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+          "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Haoxin",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Animal Science and Technology, Northwest A&F University, Yangling, Shaanxi712100, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yayi",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+          "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China."
+        ]
+      },
+      {
+        "full_name": "Jian, Yangyi",
+        "short_name": "Jian Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yong",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Rui",
+        "short_name": "Feng R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+          "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jun",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+          "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yuanpeng",
+        "short_name": "Gao Y",
+        "identifiers": [
+          "0000-0002-6360-5985"
+        ],
+        "affiliations": [
+          "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi712100, China.",
+          "Key Laboratory of Animal Biotechnology, Ministry of Agriculture, Yangling, Shaanxi712100, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 11:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43049416",
+      "40015575",
+      "37638641",
+      "36547378",
+      "36694375",
+      "29762986",
+      "42384185",
+      "32605180",
+      "38583827",
+      "26601584",
+      "38518943",
+      "39337411",
+      "27448180",
+      "38807030",
+      "39098489",
+      "26613803",
+      "30180552",
+      "25433708",
+      "41132060",
+      "35409000",
+      "39457100",
+      "29114968",
+      "30594361",
+      "25250914",
+      "42916029",
+      "25737136",
+      "36964762",
+      "38623994",
+      "29846631",
+      "33333715",
+      "39856554",
+      "30482199",
+      "33054209",
+      "34415905",
+      "27865496",
+      "39657106",
+      "28527797",
+      "26298750",
+      "32828499",
+      "41547451",
+      "39684845",
+      "29248227",
+      "34183132",
+      "30639019",
+      "40348225",
+      "32167419",
+      "23537996",
+      "19107532",
+      "21467304",
+      "26709176",
+      "38393495",
+      "26579707",
+      "39273030",
+      "30221364",
+      "23086238",
+      "29278767",
+      "27341271",
+      "31475823",
+      "42508477",
+      "25688876",
+      "40825952",
+      "26738740",
+      "25726120",
+      "22634102",
+      "23402545",
+      "24474444",
+      "28835435",
+      "31663119",
+      "30644742",
+      "35343224",
+      "28095188",
+      "36175242",
+      "39134870",
+      "33913197",
+      "35618221",
+      "27539583",
+      "37956771",
+      "41423653",
+      "21823211",
+      "24831832",
+      "33582214",
+      "15071091",
+      "38996051",
+      "42196231",
+      "8592517",
+      "34020334",
+      "15519040",
+      "25841968",
+      "8055977",
+      "20831799",
+      "25194899",
+      "23031579",
+      "43053175",
+      "3800930",
+      "38100153",
+      "33189285",
+      "26851858",
+      "33685712",
+      "41834125",
+      "36500977"
+    ],
+    "review": [
+      "43049416"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3317",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c10471",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

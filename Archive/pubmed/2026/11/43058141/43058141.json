@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "43058141",
+    "doi": "10.1038/s41467-026-78917-8",
+    "title": "DNA CODEC: compressed obfuscated DNA encoding in cells for secure in vivo data storage."
+  },
+  "content": {
+    "abstract": "DNA represents a compelling medium for data storage due to its density, durability, and compatibility with biological systems. Current in vivo DNA data storage strategies are largely restricted to single-population systems, limiting scalability and access control. Here, we present DNA CODEC, a multi-population in vivo DNA data storage platform that combines high-density encoding with molecular obfuscation across engineered human cell populations. CODEC uses 10-ary Huffman coding with degenerate bases to optimize compressibility while maintaining decoding accuracy despite biological and technical noise. Data payloads are stably integrated into the human genome using CRISPR-based targeted insertion. Obfuscation is introduced through heterogeneous populations containing decoy clones with structurally similar, non-informative masking sequences to conceal the true payload. CODEC stably maintains genomic payloads across extended cell culture, demonstrating robustness to replication errors and population drift. Together, these features establish a scalable framework for high-fidelity and secure DNA data storage in biological systems.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*DNA/genetics",
+      "*Information Storage and Retrieval/methods",
+      "Genome, Human",
+      "*Data Compression/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kang, Taek",
+        "Zhou, Zikun",
+        "Mohammed, Shayan",
+        "Makris, Yiorgos",
+        "Bleris, Leonidas"
+      ],
+      "short_names": [
+        "Kang T",
+        "Zhou Z",
+        "Mohammed S",
+        "Makris Y",
+        "Bleris L"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-2545-3238",
+        "ORCID: 0000-0002-6610-9020"
+      ],
+      "affiliations": [
+        "Bioengineering Department, The University of Texas at Dallas, Richardson, TX, USA.",
+        "Center for Systems Biology, The University of Texas at Dallas, Richardson, TX, USA.",
+        "Bioengineering Department, The University of Texas at Dallas, Richardson, TX, USA.",
+        "Center for Systems Biology, The University of Texas at Dallas, Richardson, TX, USA.",
+        "Department of Electrical and Computer Engineering, University of Texas at Dallas, Richardson, TX, USA.",
+        "Department of Electrical and Computer Engineering, University of California, San Diego, CA, USA.",
+        "Bioengineering Department, The University of Texas at Dallas, Richardson, TX, USA. bleris@utdallas.edu.",
+        "Center for Systems Biology, The University of Texas at Dallas, Richardson, TX, USA. bleris@utdallas.edu.",
+        "Department of Biological Sciences, The University of Texas at Dallas, Richardson, TX, USA. bleris@utdallas.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kang, Taek",
+        "short_name": "Kang T",
+        "identifiers": [],
+        "affiliations": [
+          "Bioengineering Department, The University of Texas at Dallas, Richardson, TX, USA.",
+          "Center for Systems Biology, The University of Texas at Dallas, Richardson, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zikun",
+        "short_name": "Zhou Z",
+        "identifiers": [
+          "0009-0005-2545-3238"
+        ],
+        "affiliations": [
+          "Bioengineering Department, The University of Texas at Dallas, Richardson, TX, USA.",
+          "Center for Systems Biology, The University of Texas at Dallas, Richardson, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Mohammed, Shayan",
+        "short_name": "Mohammed S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Electrical and Computer Engineering, University of Texas at Dallas, Richardson, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Makris, Yiorgos",
+        "short_name": "Makris Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Electrical and Computer Engineering, University of California, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Bleris, Leonidas",
+        "short_name": "Bleris L",
+        "identifiers": [
+          "0000-0002-6610-9020"
+        ],
+        "affiliations": [
+          "Bioengineering Department, The University of Texas at Dallas, Richardson, TX, USA. bleris@utdallas.edu.",
+          "Center for Systems Biology, The University of Texas at Dallas, Richardson, TX, USA. bleris@utdallas.edu.",
+          "Department of Biological Sciences, The University of Texas at Dallas, Richardson, TX, USA. bleris@utdallas.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 05:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43058141",
+      "38332565",
+      "43045702",
+      "41932957",
+      "41794290",
+      "27789525",
+      "41588883",
+      "40772531",
+      "41562500",
+      "41147120",
+      "41365900",
+      "42359515",
+      "30333005",
+      "42802272",
+      "41667543",
+      "37015121",
+      "42098145",
+      "33432236",
+      "40360759",
+      "41643789",
+      "39544175",
+      "40760650",
+      "42475469",
+      "38419588",
+      "40640156",
+      "41270221",
+      "40665906",
+      "37120614",
+      "35146964",
+      "38882485",
+      "42160258",
+      "39288232",
+      "36150134",
+      "27131376",
+      "31117362",
+      "40317885",
+      "41832139",
+      "38177542",
+      "42517819",
+      "41914655",
+      "37289182",
+      "39981833",
+      "32453750",
+      "42335403",
+      "38779945",
+      "39361454",
+      "40663039",
+      "34343096",
+      "31036920",
+      "26424856",
+      "37142708",
+      "40198284",
+      "38555478",
+      "28977499",
+      "29596744",
+      "42247499",
+      "36410731",
+      "35788589",
+      "43011157",
+      "39443776",
+      "40531989",
+      "38461245",
+      "39155324",
+      "38565928",
+      "31068682",
+      "41562940",
+      "42659797",
+      "28694453",
+      "31270330",
+      "39254000",
+      "35581548",
+      "31497460",
+      "34324571",
+      "37800877",
+      "41213983",
+      "29470175",
+      "40744493",
+      "33093494",
+      "34508146",
+      "33534710",
+      "27960065",
+      "35212544",
+      "29429333",
+      "40929263",
+      "31273225",
+      "40811361",
+      "39578306",
+      "40498745",
+      "38928155",
+      "32223267",
+      "31220251",
+      "29321500",
+      "42942846",
+      "41040959",
+      "41452683",
+      "28057687",
+      "40422026",
+      "41276564",
+      "39606901",
+      "34343181"
+    ],
+    "review": [
+      "43058141",
+      "41794290",
+      "42359515",
+      "41643789",
+      "32453750",
+      "40663039",
+      "43011157",
+      "31068682",
+      "39254000",
+      "37800877",
+      "31220251"
+    ],
+    "pmc": [
+      "13785636"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78917-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43058141/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

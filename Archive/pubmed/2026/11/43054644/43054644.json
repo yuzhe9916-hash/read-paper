@@ -1,0 +1,356 @@
+{
+  "identity": {
+    "pmid": "43054644",
+    "doi": "10.1093/narcan/zcag032",
+    "title": "Marker-based CRISPR screens identify POU2F1 as a regulator of DLL3 and neuroendocrine identity in small cell lung cancer."
+  },
+  "content": {
+    "abstract": "Small cell lung cancers (SCLCs) often exhibit a neuroendocrine lineage identity marked by high expression of Delta-like ligand 3 (DLL3). Because DLL3 shows minimal expression in normal adult tissues, it serves as an SCLC-selective tumor antigen and is the basis for clinically efficacious targeted therapies. Understanding the mechanisms that regulate DLL3 expression is therefore critical for advancing therapeutic strategies in this disease. Here, we performed transcription factor-focused and genome-wide CRISPR screens to identify regulators of DLL3 expression in SCLC. Both approaches converged on POU2F1 as a top activator of DLL3 in this tumor context. Despite its ubiquitous expression, we identify an SCLC-specific role for POU2F1 in activating DLL3 and a broader set of neuroendocrine lineage genes. Epigenomic analyses reveal tandem POU2F1-ASCL1 motifs within the DLL3 promoter that underlie the functional cooperativity between POU2F1 and the neuroendocrine master regulator ASCL1 for high-level DLL3 expression in SCLC. We provide evidence that tandem POU2F1-ASCL1 elements are part of a cis-regulatory code for the lung neuroendocrine cell fate. Together, these findings define a previously unrecognized transcriptional logic controlling DLL3 expression and establish POU2F1 as a context-specific regulator of neuroendocrine lineage in SCLC.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Small Cell Lung Carcinoma/genetics/pathology/metabolism",
+      "*Lung Neoplasms/genetics/pathology/metabolism",
+      "*Membrane Proteins/genetics/metabolism",
+      "Basic Helix-Loop-Helix Proteins/genetics/metabolism",
+      "*Intracellular Signaling Peptides and Proteins/genetics/metabolism",
+      "Gene Expression Regulation, Neoplastic",
+      "Promoter Regions, Genetic",
+      "Cell Line, Tumor",
+      "Animals",
+      "Clustered Regularly Interspaced Short Palindromic Repeats",
+      "CRISPR-Cas Systems",
+      "Biomarkers, Tumor/genetics",
+      "POU Domain Factors"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cunniff, Patrick J",
+        "Fitzpatrick, Connor",
+        "Bauer, Jack",
+        "Skopelitis, Damianos",
+        "Pal, Sujay",
+        "Shanley, Liam",
+        "Taneja, Kamil",
+        "Klingbeil, Olaf",
+        "Yoshimoto, Toyoki",
+        "Joshua-Tor, Leemor",
+        "Vakoc, Christopher R"
+      ],
+      "short_names": [
+        "Cunniff PJ",
+        "Fitzpatrick C",
+        "Bauer J",
+        "Skopelitis D",
+        "Pal S",
+        "Shanley L",
+        "Taneja K",
+        "Klingbeil O",
+        "Yoshimoto T",
+        "Joshua-Tor L",
+        "Vakoc CR"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7761-6810",
+        "ORCID: 0000-0001-8185-8049",
+        "ORCID: 0000-0002-1158-7180"
+      ],
+      "affiliations": [
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory School of Biological Sciences, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory School of Biological Sciences, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "W. M. Keck Structural Biology Laboratory, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Graduate Program in Molecular and Cellular Pharmacology, Stony Brook University, Stony Brook, NY 11794, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "W. M. Keck Structural Biology Laboratory, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+        "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cunniff, Patrick J",
+        "short_name": "Cunniff PJ",
+        "identifiers": [
+          "0000-0002-7761-6810"
+        ],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Cold Spring Harbor Laboratory School of Biological Sciences, Cold Spring Harbor, NY 11724, United States."
+        ]
+      },
+      {
+        "full_name": "Fitzpatrick, Connor",
+        "short_name": "Fitzpatrick C",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Cold Spring Harbor Laboratory School of Biological Sciences, Cold Spring Harbor, NY 11724, United States."
+        ]
+      },
+      {
+        "full_name": "Bauer, Jack",
+        "short_name": "Bauer J",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "W. M. Keck Structural Biology Laboratory, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Graduate Program in Molecular and Cellular Pharmacology, Stony Brook University, Stony Brook, NY 11794, United States."
+        ]
+      },
+      {
+        "full_name": "Skopelitis, Damianos",
+        "short_name": "Skopelitis D",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States."
+        ]
+      },
+      {
+        "full_name": "Pal, Sujay",
+        "short_name": "Pal S",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States."
+        ]
+      },
+      {
+        "full_name": "Shanley, Liam",
+        "short_name": "Shanley L",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States."
+        ]
+      },
+      {
+        "full_name": "Taneja, Kamil",
+        "short_name": "Taneja K",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States."
+        ]
+      },
+      {
+        "full_name": "Klingbeil, Olaf",
+        "short_name": "Klingbeil O",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States."
+        ]
+      },
+      {
+        "full_name": "Yoshimoto, Toyoki",
+        "short_name": "Yoshimoto T",
+        "identifiers": [],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States."
+        ]
+      },
+      {
+        "full_name": "Joshua-Tor, Leemor",
+        "short_name": "Joshua-Tor L",
+        "identifiers": [
+          "0000-0001-8185-8049"
+        ],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "W. M. Keck Structural Biology Laboratory, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States."
+        ]
+      },
+      {
+        "full_name": "Vakoc, Christopher R",
+        "short_name": "Vakoc CR",
+        "identifiers": [
+          "0000-0002-1158-7180"
+        ],
+        "affiliations": [
+          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, United States.",
+          "Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "NAR cancer"
+    ],
+    "journal_abbrev": [
+      "NAR Cancer"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 18:02",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43054644",
+      "31068386",
+      "31231131",
+      "30874360",
+      "41489019",
+      "34931456",
+      "39392394",
+      "23530560",
+      "40902984",
+      "31079917",
+      "42314925",
+      "29945888",
+      "31447005",
+      "42582332",
+      "39727172",
+      "37775262",
+      "32170367",
+      "30968324",
+      "31109352",
+      "39283755",
+      "31678831",
+      "38126617",
+      "28487384",
+      "37716517",
+      "41845530",
+      "42722432",
+      "32801334",
+      "40500731",
+      "25267614",
+      "40865373",
+      "41761743",
+      "32669118",
+      "40857617",
+      "42013561",
+      "26482608",
+      "38847733",
+      "31981983",
+      "32554516",
+      "31447000",
+      "23358112",
+      "35259480",
+      "33104707",
+      "27452466",
+      "41331586",
+      "40595415",
+      "41534317",
+      "38469682",
+      "31782890",
+      "40496850",
+      "42160949",
+      "39080761",
+      "27785690",
+      "29290251",
+      "33203642",
+      "40285610",
+      "27627196",
+      "39301750",
+      "28742165",
+      "33031101",
+      "38964503",
+      "29876935",
+      "35489038",
+      "33011388",
+      "33191657",
+      "37355629",
+      "40419484",
+      "40963028",
+      "20124469",
+      "30894499",
+      "35381444",
+      "37981832",
+      "41532856",
+      "39941061",
+      "42611544",
+      "32554616",
+      "31215500",
+      "34493659",
+      "35748745",
+      "39029464",
+      "31369178",
+      "39874041",
+      "26311731",
+      "31324758",
+      "35983951",
+      "43012886",
+      "42955966",
+      "39581377",
+      "25243889",
+      "41964031",
+      "19176379",
+      "19679880",
+      "40305287",
+      "39786663",
+      "26253517",
+      "41881985",
+      "40830141",
+      "29501727",
+      "40455231",
+      "40250444",
+      "32499571"
+    ],
+    "review": [
+      "43054644",
+      "42582332",
+      "30968324",
+      "37716517",
+      "40496850",
+      "27785690",
+      "37355629",
+      "31215500",
+      "35983951"
+    ],
+    "pmc": [
+      "13778627"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43054644/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/narcancer/article-lookup/doi/10.1093/narcan/zcag032",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

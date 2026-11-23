@@ -1,0 +1,406 @@
+{
+  "identity": {
+    "pmid": "43058944",
+    "doi": "10.1186/s41065-026-00725-3",
+    "title": "Clinical validation of KIF11 overexpression in colorectal cancer and its potential association with the antitumor effects of nitidine chloride."
+  },
+  "content": {
+    "abstract": "Colorectal cancer (CRC) remains a leading cause of cancer mortality with few effective targeted therapies. Kinesin family member 11 (KIF11), a motor protein essential for mitotic spindle assembly, is frequently overexpressed in multiple cancers. We hypothesized that nitidine chloride (NC), a natural benzophenanthridine alkaloid with documented anti-tumor activity, might suppress CRC by targeting KIF11.Molecular docking predicted a strong interaction between NC and KIF11 (- 9.0 kcal/mol). RNA sequencing, quantitative RT-PCR, and immunohistochemistry confirmed that NC treatment markedly downregulated KIF11 expression. Meta-analysis across public datasets showed consistent KIF11 mRNA overexpression in CRC (standardized mean difference [SMD] = 1.33; AUC = 0.87), while in-house immunohistochemistry on 416 clinical specimens demonstrated even stronger protein-level elevation (AUC = 0.99) that correlated with larger tumor size and deeper invasion. Single-cell RNA sequencing and spatial transcriptomics further revealed that KIF11 is preferentially expressed in proliferative malignant epithelial cells. Through CRISPR-based knockout screening and lentiviral silencing, KIF11 depletion impaired the growth or viability of the examined CRC cell models. Public ChIP-seq data suggested RAD21 occupancy near the KIF11 regulatory region, whereas reciprocal co-immunoprecipitation supported an association between the RAD21 and KIF11 proteins. Among genes co-expressed with KIF11,a pronounced enrichment was observed in pathways governing cell-cycle progression. Following KIF11 knockdown, transcriptomic profiling showed reduced expression across cell-cycle, DNA-replication, and chromatin-cohesion programs, alongside a reciprocal increase in amino-acid metabolism and stress-response genes. At the functional level, KIF11 depletion suppressed cell proliferation and induced G2/M-phase arrest. Taken together, these in vitro and limited xenograft data indicate that NC restrains CRC growth chiefly through the RAD21-KIF11 axis; KIF11 represents a promising preclinical target, though comprehensive systematic in vivo pharmacodynamic and translational animal validation remains absent in the current study and requires further independent investigation.",
+    "keywords": [
+      "CRISPR",
+      "Nitidine chloride",
+      "RAD21-KIF11",
+      "Single-cell RNA sequencing",
+      "Spatial transcriptomics"
+    ],
+    "mesh_terms": [
+      "*Kinesins/genetics/metabolism/chemistry",
+      "Humans",
+      "*Colorectal Neoplasms/genetics/drug therapy/metabolism",
+      "*Benzophenanthridines/pharmacology",
+      "*Antineoplastic Agents/pharmacology",
+      "Gene Expression Regulation, Neoplastic/drug effects",
+      "Cell Line, Tumor",
+      "Molecular Docking Simulation",
+      "Cell Proliferation/drug effects",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Hui",
+        "Lin, Rui",
+        "Wu, Ke-Jun",
+        "Li, Jin-Cheng",
+        "Wei, Long",
+        "Qin, Kai",
+        "Liu, Li-Min",
+        "Huang, Xiao-Jue",
+        "Mo, Liu-Hui",
+        "Li, Bin",
+        "Li, Dong-Ming",
+        "Li, Zong-Yu",
+        "Zeng, Da-Tong",
+        "Zhang, Wei",
+        "Gan, Lang-Ning",
+        "He, Rong-Quan",
+        "Chen, Gang",
+        "Zhang, Sen"
+      ],
+      "short_names": [
+        "Li H",
+        "Lin R",
+        "Wu KJ",
+        "Li JC",
+        "Wei L",
+        "Qin K",
+        "Liu LM",
+        "Huang XJ",
+        "Mo LH",
+        "Li B",
+        "Li DM",
+        "Li ZY",
+        "Zeng DT",
+        "Zhang W",
+        "Gan LN",
+        "He RQ",
+        "Chen G",
+        "Zhang S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Colorectal and Anal Surgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Guangxi Key Laboratory of Enhanced Recovery After Surgery for Gastrointestinal Cancer, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Guangxi Medical University, 6 Shuang yong RD, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Toxicology, College of Pharmacy, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Toxicology, College of Pharmacy, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pharmacy, The People's Hospital of Guangxi Zhuang Autonomous Region & Guangxi Academy of Medical Sciences, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Toxicology, College of Pharmacy, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pharmacy, Rui Kang Hospital, Guangxi University of Chinese Medicine, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, Redcross Hospital of Yulin City, Yulin, Guangxi Zhuang Autonomous Region, 537000, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Medical Oncology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China. chengang@gxmu.edu.cn.",
+        "Department of Colorectal and Anal Surgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China. zs0771@126.com.",
+        "Guangxi Key Laboratory of Enhanced Recovery After Surgery for Gastrointestinal Cancer, Nanning, Guangxi Zhuang Autonomous Region, 530021, China. zs0771@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Hui",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+          "Guangxi Key Laboratory of Enhanced Recovery After Surgery for Gastrointestinal Cancer, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Rui",
+        "short_name": "Lin R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Ke-Jun",
+        "short_name": "Wu KJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jin-Cheng",
+        "short_name": "Li JC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The First Affiliated Hospital of Guangxi Medical University, 6 Shuang yong RD, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Long",
+        "short_name": "Wei L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Kai",
+        "short_name": "Qin K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Li-Min",
+        "short_name": "Liu LM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, College of Pharmacy, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiao-Jue",
+        "short_name": "Huang XJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, College of Pharmacy, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+          "Department of Pharmacy, The People's Hospital of Guangxi Zhuang Autonomous Region & Guangxi Academy of Medical Sciences, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Mo, Liu-Hui",
+        "short_name": "Mo LH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, College of Pharmacy, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China.",
+          "Department of Pharmacy, Rui Kang Hospital, Guangxi University of Chinese Medicine, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Li, Bin",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Li, Dong-Ming",
+        "short_name": "Li DM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zong-Yu",
+        "short_name": "Li ZY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Da-Tong",
+        "short_name": "Zeng DT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Redcross Hospital of Yulin City, Yulin, Guangxi Zhuang Autonomous Region, 537000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wei",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Gan, Lang-Ning",
+        "short_name": "Gan LN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "He, Rong-Quan",
+        "short_name": "He RQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Gang",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China. chengang@gxmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Sen",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, China. zs0771@126.com.",
+          "Guangxi Key Laboratory of Enhanced Recovery After Surgery for Gastrointestinal Cancer, Nanning, Guangxi Zhuang Autonomous Region, 530021, China. zs0771@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Hereditas"
+    ],
+    "journal_abbrev": [
+      "Hereditas"
+    ],
+    "pub_date": "2026 Aug 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 05:31",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43058944",
+      "41257608",
+      "41607031",
+      "42205755",
+      "40741189",
+      "41266758",
+      "39910429",
+      "39806429",
+      "42947477",
+      "42035373",
+      "42966514",
+      "43010743",
+      "40656610",
+      "34575892",
+      "41716413",
+      "41436831",
+      "42263603",
+      "42727714",
+      "42580240",
+      "40023971",
+      "42975703",
+      "41831177",
+      "39958559",
+      "41814682",
+      "32901343",
+      "40092935",
+      "41125417",
+      "42537468",
+      "42032729",
+      "23613111",
+      "31888761",
+      "42886280",
+      "42486346",
+      "41484776",
+      "40779443",
+      "42501233",
+      "38703552",
+      "42769851",
+      "38494600",
+      "42226292",
+      "41680402",
+      "42689981",
+      "41191606",
+      "41508245",
+      "41356798",
+      "30365932",
+      "41743703",
+      "41646966",
+      "41880009",
+      "42773727",
+      "40229946",
+      "42443942",
+      "39450547",
+      "33831429",
+      "39851228",
+      "29600769",
+      "42989393",
+      "42415117",
+      "28594256",
+      "41819723",
+      "42618857",
+      "39227564",
+      "42169639",
+      "42069097",
+      "41388436",
+      "42611083",
+      "42470494",
+      "29734178",
+      "31230592",
+      "42008161",
+      "41687471",
+      "42319491",
+      "38478260",
+      "41351424",
+      "41425720",
+      "39810156",
+      "40659169",
+      "41823551",
+      "40931756",
+      "42321850",
+      "30081850",
+      "42401341",
+      "39614437",
+      "38243936",
+      "33664859",
+      "42837794",
+      "40876907",
+      "41207103",
+      "41572068",
+      "41656914",
+      "39000337",
+      "40503414",
+      "39536859",
+      "40435908",
+      "42387192",
+      "41293954",
+      "42880178",
+      "41621465",
+      "41635856",
+      "40075273"
+    ],
+    "review": [
+      "43058944",
+      "41219406"
+    ],
+    "pmc": [
+      "13787028"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://hereditasjournal.biomedcentral.com/articles/10.1186/s41065-026-00725-3",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/colorectalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Colorectal Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43058944/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

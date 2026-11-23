@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "43061984",
+    "doi": "10.1021/acssynbio.6c00476",
+    "title": "Discovery and Characterization of a Highly Active CbCas12a Nuclease and Its Application in Rapid Visual Detection of Porcine Epidemic Diarrhea Virus."
+  },
+  "content": {
+    "abstract": "Discovering novel Cas12a homologs with higher activity, relaxed PAM requirements, or broad temperature adaptability is essential for improving CRISPR/Cas12 rapid detection systems, particularly for portable and field-deployable applications. In this study, we conducted bioinformatic mining of metagenomic databases based on the characteristic sequence features of CRISPR arrays to identify Cas12a homologs. Two novel Cas12a homologs, GbCas12a and CbCas12a, were identified. Among them, CbCas12a exhibited pronounced trans-cleavage activity and a broad operational temperature range, making it well-suited for rapid nucleic acid detection. By integrating CbCas12a with reverse transcription recombinase polymerase amplification, we established a CRISPR/CbCas12a-based detection platform and successfully applied it to the visual detection of Porcine epidemic diarrhea virus. This system demonstrated high sensitivity and specificity, underscoring its potential for diverse rapid diagnostic applications in medicine, agriculture, and other fields.",
+    "keywords": [
+      "Cas12a orthologs",
+      "CbCas12a",
+      "PEDV",
+      "RT-RPA",
+      "molecular diagnostics",
+      "trans-cleavage"
+    ],
+    "mesh_terms": [
+      "*Porcine epidemic diarrhea virus/isolation & purification/genetics",
+      "Animals",
+      "CRISPR-Cas Systems/genetics",
+      "Swine",
+      "*CRISPR-Associated Proteins/genetics/metabolism",
+      "*Bacterial Proteins/genetics/metabolism",
+      "*Endodeoxyribonucleases/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gu, Hao",
+        "Chen, Fan",
+        "Wu, Tong",
+        "Zhou, Changfan",
+        "Zeng, Wei",
+        "Liu, Song",
+        "Ren, Hongyan",
+        "Bi, Yanzhen"
+      ],
+      "short_names": [
+        "Gu H",
+        "Chen F",
+        "Wu T",
+        "Zhou C",
+        "Zeng W",
+        "Liu S",
+        "Ren H",
+        "Bi Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4141-8759"
+      ],
+      "affiliations": [
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+        "Hubei Hongshan Laboratory, Wuhan430070, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gu, Hao",
+        "short_name": "Gu H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Fan",
+        "short_name": "Chen F",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Tong",
+        "short_name": "Wu T",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Changfan",
+        "short_name": "Zhou C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Wei",
+        "short_name": "Zeng W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Song",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Hongyan",
+        "short_name": "Ren H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Bi, Yanzhen",
+        "short_name": "Bi Y",
+        "identifiers": [
+          "0000-0002-4141-8759"
+        ],
+        "affiliations": [
+          "Key Laboratory of Animal Embryo Engineering and Molecular Breeding of Hubei Province, Institute of Animal Sciences and Veterinary Medicine, Hubei Academy of Agricultural Sciences, Wuhan430070, China.",
+          "Hubei Hongshan Laboratory, Wuhan430070, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43061984",
+      "34686895",
+      "38655256",
+      "40277382",
+      "41054568",
+      "42001168",
+      "39560197",
+      "41955813",
+      "41260396",
+      "41217936",
+      "40599263",
+      "40733490",
+      "39303955",
+      "41600812",
+      "41885207",
+      "36214815",
+      "42715083",
+      "40499384",
+      "39254031",
+      "42648813",
+      "42474386",
+      "40716775",
+      "41545355",
+      "32928112",
+      "31460749",
+      "40593618",
+      "41814651",
+      "42045650",
+      "42390428",
+      "34601182",
+      "40222509",
+      "40263707",
+      "41582136",
+      "39698318",
+      "42148800",
+      "42571623",
+      "42065492",
+      "40179699",
+      "40784261",
+      "36400115",
+      "42818682",
+      "40157150",
+      "42328982",
+      "39890862",
+      "43010390",
+      "40354233",
+      "39912765",
+      "35458562",
+      "40170086",
+      "40128655",
+      "42858626",
+      "39670632",
+      "42549572",
+      "32470556",
+      "38866727",
+      "40704803",
+      "40447601",
+      "41072237",
+      "40286970",
+      "41023727",
+      "39182857",
+      "42720869",
+      "34830457",
+      "41104129",
+      "42763168",
+      "39358950",
+      "40809520",
+      "40862592",
+      "39394452",
+      "42399104",
+      "42464218",
+      "32711280",
+      "34011151",
+      "40763823",
+      "42068385",
+      "38772660",
+      "41361988",
+      "41528700",
+      "38689239",
+      "40373980",
+      "42138212",
+      "40179681",
+      "38994004",
+      "39666765",
+      "40619644",
+      "42152766",
+      "42107336",
+      "40344384",
+      "42263201",
+      "40849498",
+      "40347696",
+      "35336998",
+      "41454508",
+      "42749264",
+      "33600848",
+      "40711424",
+      "41012691",
+      "40842431",
+      "34280234",
+      "41135356"
+    ],
+    "review": [
+      "43061984",
+      "42045650",
+      "40809520"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/asbcd6/article-lookup/doi/10.1021/acssynbio.6c00476",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

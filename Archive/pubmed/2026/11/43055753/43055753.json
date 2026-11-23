@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "43055753",
+    "doi": "10.7554/eLife.108797",
+    "title": "Explainable machine learning-assisted exploration of chromatin dynamics reveals chromosome-specific response to serum starvation."
+  },
+  "content": {
+    "abstract": "Chromatin is dynamic at all length scales, influencing chromatin-based processes, such as gene expression. Even large-scale reorganization of whole chromosome territories has been reported upon specific signals, but the lack of suitable methods has prevented analysis of the underlying dynamic processes. Here, we have used CRISPR-Sirius for time-lapse imaging of chromatin loci dynamics during serum starvation. We show that chromosome 1 loci move toward the nuclear envelope during the first hour of serum starvation in a chromosome-specific manner. Machine learning-assisted exploration of acquired multiparametric data combined with the Shapley values-based explanation approach allowed us to uncover the critical features that characterize chromatin dynamics during serum starvation. This analysis reveals that although serum starvation affects overall nuclear morphology and chromatin dynamics, chromosome 1 loci display a specific response that is characterized by maintenance of dynamics in a constrained environment, and long 'jumps' at the nuclear periphery. Interestingly, the two homologous chromosomes display differential behaviors, with the more peripheral homolog being more responsive to the signal than the internal one. Overall, the presented machine learning-assisted dataset exploration helps us navigate the multidimensional data to understand the underlying dynamic processes and can be applied to a wide variety of research questions in imaging and cell biology in general.",
+    "keywords": [
+      "cell biology",
+      "chromatin",
+      "chromosomes",
+      "gene expression",
+      "human",
+      "machine learning",
+      "nuclear organization"
+    ],
+    "mesh_terms": [
+      "*Machine Learning",
+      "*Chromatin/metabolism",
+      "Humans",
+      "Time-Lapse Imaging"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Redchuk, Taras",
+        "Pennanen, Antti P",
+        "Jaalinoja, Harri",
+        "Natri, Olli",
+        "Paavolainen, Lassi",
+        "Vartiainen, Maria K"
+      ],
+      "short_names": [
+        "Redchuk T",
+        "Pennanen AP",
+        "Jaalinoja H",
+        "Natri O",
+        "Paavolainen L",
+        "Vartiainen MK"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6724-9025",
+        "ORCID: 0000-0003-1508-2718",
+        "ORCID: 0000-0002-2017-0475"
+      ],
+      "affiliations": [
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Institute of Molecular Medicine Finland, HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Redchuk, Taras",
+        "short_name": "Redchuk T",
+        "identifiers": [
+          "0000-0002-6724-9025"
+        ],
+        "affiliations": [
+          "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Pennanen, Antti P",
+        "short_name": "Pennanen AP",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Jaalinoja, Harri",
+        "short_name": "Jaalinoja H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Natri, Olli",
+        "short_name": "Natri O",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Paavolainen, Lassi",
+        "short_name": "Paavolainen L",
+        "identifiers": [
+          "0000-0003-1508-2718"
+        ],
+        "affiliations": [
+          "Institute of Molecular Medicine Finland, HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Vartiainen, Maria K",
+        "short_name": "Vartiainen MK",
+        "identifiers": [
+          "0000-0002-2017-0475"
+        ],
+        "affiliations": [
+          "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Nov 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 17:33",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43055753",
+      "42475469",
+      "23912807",
+      "36718642",
+      "20826608",
+      "30507936",
+      "31479623",
+      "28161540",
+      "16635267",
+      "30537111",
+      "37294468",
+      "33155082",
+      "15731005",
+      "38530350",
+      "22275876",
+      "36348120",
+      "34518339",
+      "29262162",
+      "30125668",
+      "41507775",
+      "26013771",
+      "31117946",
+      "26854963",
+      "32847102",
+      "34588320",
+      "21471403",
+      "27557696",
+      "35804296",
+      "40937858",
+      "30044963",
+      "40791469",
+      "36871158",
+      "41105015",
+      "38519987",
+      "42779938",
+      "25482057",
+      "11525737",
+      "32822575",
+      "39962352",
+      "11721953",
+      "32243828",
+      "23878273",
+      "26763908",
+      "18936951",
+      "35659533",
+      "34575948",
+      "26370411",
+      "32768408",
+      "37065447",
+      "41576073",
+      "24067610",
+      "21450447",
+      "16819432",
+      "32250245",
+      "19926853",
+      "32812412",
+      "26223676",
+      "34437813",
+      "38654598",
+      "33036834",
+      "42961898",
+      "32944910",
+      "30318144",
+      "31818465",
+      "21569291",
+      "21264350",
+      "32830859",
+      "40751912",
+      "33454752",
+      "38908026",
+      "27568589",
+      "26811423",
+      "24019504",
+      "26818008",
+      "11186332",
+      "40185948",
+      "34113611",
+      "28573677",
+      "15560848",
+      "21046224",
+      "24696474",
+      "26068134",
+      "40570739",
+      "17333233",
+      "40388005",
+      "10657050",
+      "38048895",
+      "10491386",
+      "33047670",
+      "41225146",
+      "24141950",
+      "24330859",
+      "16931915",
+      "41875746",
+      "26778570",
+      "39273012",
+      "31828312",
+      "40362575",
+      "26188544",
+      "35456046"
+    ],
+    "review": [
+      "43055753",
+      "28161540",
+      "37294468",
+      "34518339",
+      "30125668",
+      "30044963",
+      "35659533",
+      "26370411",
+      "32768408",
+      "37065447",
+      "21450447",
+      "16819432",
+      "34437813",
+      "11186332",
+      "28573677",
+      "40388005",
+      "26188544"
+    ],
+    "pmc": [
+      "13784771"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43055753/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7554/eLife.108797",
+        "provider": "eLife Sciences Publications, Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

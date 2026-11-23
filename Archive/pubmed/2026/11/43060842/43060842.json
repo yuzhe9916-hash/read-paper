@@ -1,0 +1,208 @@
+{
+  "identity": {
+    "pmid": "43060842",
+    "doi": "",
+    "title": "Synchronized Optimal Transport Reconstructs Coupled Transcriptomic and Chromatin Dynamics."
+  },
+  "content": {
+    "abstract": "Single-cell RNA and ATAC data collected across developmental stages provide time-course snapshots of transcriptional and regulatory states. Since sequencing is destructive, trajectories between these snapshots must be inferred from independently sampled cell populations. Existing approaches typically infer continuous dynamics in a single modality or integrate RNA and ATAC in a shared representation. Here we present Cross-Omics Aligned Trajectory Inference (COATI), which extends unbalanced synchronized dynamical optimal transport to time-dependent cross-modal maps for reconstructing coupled trajectories in distinct RNA and ATAC state spaces. We evaluated COATI on synthetic benchmarks and four developmental datasets using held-out-stage reconstruction and lineage analyses. COATI improved reconstruction of cell populations at held-out stages, including recovery of chromatin-state heterogeneity within cell types, and better preserved developmental lineage relationships. The unbalanced formulation allows the inference of population mass changes, which were shown to associate with DNA-replication programs at early stages and lineage-maturation programs later in development. The coupled trajectories enabled analysis of lineage-specific transcriptional and chromatin changes and their temporal relationships during development. Lineage responses inferred by COATI agreed with independent CRISPR perturbation results, and the inferred regulatory patterns were consistent with independent epigenetic data.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Jingfeng",
+        "Zhao, Yanxiang",
+        "Nie, Qing",
+        "Cang, Zixuan"
+      ],
+      "short_names": [
+        "Wang J",
+        "Zhao Y",
+        "Nie Q",
+        "Cang Z"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Jingfeng",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhao, Yanxiang",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nie, Qing",
+        "short_name": "Nie Q",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cang, Zixuan",
+        "short_name": "Cang Z",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ArXiv"
+    ],
+    "journal_abbrev": [
+      "ArXiv"
+    ],
+    "pub_date": "2026 Nov 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060842",
+      "42475469",
+      "43060285",
+      "38274364",
+      "34400634",
+      "42758136",
+      "40887856",
+      "42700375",
+      "42074532",
+      "42818210",
+      "41998716",
+      "42210302",
+      "42872475",
+      "29539636",
+      "29807547",
+      "41972591",
+      "42664975",
+      "40577680",
+      "42715336",
+      "42974393",
+      "35412632",
+      "42950993",
+      "41721429",
+      "29706549",
+      "42587306",
+      "42688241",
+      "32029221",
+      "30451828",
+      "42837408",
+      "41808446",
+      "31597106",
+      "41809054",
+      "28733351",
+      "42124734",
+      "42767804",
+      "40662824",
+      "26740066",
+      "35976093",
+      "42891116",
+      "42990240",
+      "29944188",
+      "42539237",
+      "38580861",
+      "42635227",
+      "42187752",
+      "39896674",
+      "36873935",
+      "42158555",
+      "42661799",
+      "41126838",
+      "41310253",
+      "41104806",
+      "33081343",
+      "42074294",
+      "39226366",
+      "28424352",
+      "40154730",
+      "42428023",
+      "42565228",
+      "42258486",
+      "40475498",
+      "43060182",
+      "37178817",
+      "33352111",
+      "36456571",
+      "42680482",
+      "40663269",
+      "41993521",
+      "39211123",
+      "30547796",
+      "40631077",
+      "41993378",
+      "42901895",
+      "42749396",
+      "41379995",
+      "39554007",
+      "33242395",
+      "35700449",
+      "42876554",
+      "42696754",
+      "41611959",
+      "35705328",
+      "40856525",
+      "38741085",
+      "36855961",
+      "42443228",
+      "33191916",
+      "42505000",
+      "34390642",
+      "31136738",
+      "39877092",
+      "29107741",
+      "42665446",
+      "33637727",
+      "41455555",
+      "42589098",
+      "36321557",
+      "41332705",
+      "42932844",
+      "41279170"
+    ],
+    "review": [
+      "43060842",
+      "42074532",
+      "42974393",
+      "42950993",
+      "29944188",
+      "41611959",
+      "29107741",
+      "41455555"
+    ],
+    "pmc": [
+      "13781169"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060842/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

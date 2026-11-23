@@ -1,0 +1,330 @@
+{
+  "identity": {
+    "pmid": "43065054",
+    "doi": "10.1186/s13059-026-04249-x",
+    "title": "flexiAsCas12a and other Cas12a variants enhance the applicability of Cas12a nucleases in prime editing."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Amongst the genome manipulation tools based on the versatile CRISPR-Cas system, prime editing is the most prominent one as a method that enables precise insertions, deletions, and substitutions without inducing double-strand breaks. Cas12a nucleases are widely used for genome editing and nucleic acid detection, owing to their unique properties; however, their relatively long PAM requirements limit their applicability. RESULTS: We develop PAM-flexible Cas12a variants capable of functioning effectively within mammalian cells, thereby enabling the cleavage of targets previously inaccessible to Cas12a nucleases. Amongst the Lb-, As-, Mb-, and FnCas12a variants we develop, flexiAsCas12a (AsCas12a with flexible PAM recognition) is the most effective, expanding the range of recognized PAM sequences by Cas12a variants to include NATN, NCCN and GTCN sequences. Using the currently available Cas12a variants with relaxed PAM recognition (impLbCas12a, flexiAsCas12a, and enAsCas12a), we develop circular RNA-guided split prime editors and validate their functionality on non-canonical PAM sequences. CONCLUSIONS: flexiAsCas12a joins the repertoire of Cas12a PAM variants, enabling access to an increasing number of target sequences by Cas12a nucleases.",
+    "keywords": [
+      "AsCas12a",
+      "CRISPR-Cas",
+      "Cas12a",
+      "EnAsCas12a",
+      "FlexiAsCas12a",
+      "Genome editing",
+      "ImpLbCas12a",
+      "PAM",
+      "Prime editing"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems",
+      "*CRISPR-Associated Proteins/genetics/metabolism",
+      "*Endodeoxyribonucleases/genetics/metabolism",
+      "*Bacterial Proteins/genetics/metabolism",
+      "Humans",
+      "Animals",
+      "*Gene Editing",
+      "Base Sequence"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Varga, Eva",
+        "Gal, Luca",
+        "Huszar, Krisztina",
+        "Csoma, Balazs",
+        "Simon, Dorottya A",
+        "Biczok, Zsuzsanna",
+        "Karl, Vivien R",
+        "Krausz, Sarah L",
+        "Toth, Eszter"
+      ],
+      "short_names": [
+        "Varga E",
+        "Gal L",
+        "Huszar K",
+        "Csoma B",
+        "Simon DA",
+        "Biczok Z",
+        "Karl VR",
+        "Krausz SL",
+        "Toth E"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-6796-5204"
+      ],
+      "affiliations": [
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary. varga.eva@ttk.hu.",
+        "School of Multidisciplinary Medical Science, University of Szeged, Szeged, H-6726, Hungary. varga.eva@ttk.hu.",
+        "Institute of Biochemistry, Biological Research Centre, Hungarian Research Network, Szeged, H-6276, Hungary. varga.eva@ttk.hu.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+        "Gene Design Kutato Fejleszto Kft., Budapest, H-6724, Hungary.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+        "Eotvos Lorand University, Budapest, H-1117, Hungary.",
+        "Gene Design Kutato Fejleszto Kft., Budapest, H-6724, Hungary.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+        "Eotvos Lorand University, Budapest, H-1117, Hungary.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+        "School of Ph.D. Studies, Semmelweis University, Budapest, H-1085, Hungary.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+        "School of Ph.D. Studies, Semmelweis University, Budapest, H-1085, Hungary.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+        "School of Ph.D. Studies, Semmelweis University, Budapest, H-1085, Hungary.",
+        "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary. toth.eszter.enzim@ttk.hu.",
+        "Pannon Plazmid Kft., Budapest, H-1114, Hungary. toth.eszter.enzim@ttk.hu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Varga, Éva",
+        "short_name": "Varga É",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary. varga.eva@ttk.hu.",
+          "School of Multidisciplinary Medical Science, University of Szeged, Szeged, H-6726, Hungary. varga.eva@ttk.hu.",
+          "Institute of Biochemistry, Biological Research Centre, Hungarian Research Network, Szeged, H-6276, Hungary. varga.eva@ttk.hu."
+        ]
+      },
+      {
+        "full_name": "Gál, Luca",
+        "short_name": "Gál L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+          "Gene Design Kutató Fejlesztő Kft., Budapest, H-6724, Hungary."
+        ]
+      },
+      {
+        "full_name": "Huszár, Krisztina",
+        "short_name": "Huszár K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+          "Eötvös Loránd University, Budapest, H-1117, Hungary.",
+          "Gene Design Kutató Fejlesztő Kft., Budapest, H-6724, Hungary."
+        ]
+      },
+      {
+        "full_name": "Csoma, Balázs",
+        "short_name": "Csoma B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+          "Eötvös Loránd University, Budapest, H-1117, Hungary."
+        ]
+      },
+      {
+        "full_name": "Simon, Dorottya A",
+        "short_name": "Simon DA",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+          "School of Ph.D. Studies, Semmelweis University, Budapest, H-1085, Hungary."
+        ]
+      },
+      {
+        "full_name": "Biczók, Zsuzsanna",
+        "short_name": "Biczók Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+          "School of Ph.D. Studies, Semmelweis University, Budapest, H-1085, Hungary."
+        ]
+      },
+      {
+        "full_name": "Karl, Vivien R",
+        "short_name": "Karl VR",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary."
+        ]
+      },
+      {
+        "full_name": "Krausz, Sarah L",
+        "short_name": "Krausz SL",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary.",
+          "School of Ph.D. Studies, Semmelweis University, Budapest, H-1085, Hungary."
+        ]
+      },
+      {
+        "full_name": "Tóth, Eszter",
+        "short_name": "Tóth E",
+        "identifiers": [
+          "0009-0006-6796-5204"
+        ],
+        "affiliations": [
+          "Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary. toth.eszter.enzim@ttk.hu.",
+          "Pannon Plazmid Kft., Budapest, H-1114, Hungary. toth.eszter.enzim@ttk.hu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome biology"
+    ],
+    "journal_abbrev": [
+      "Genome Biol"
+    ],
+    "pub_date": "2026 Aug 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/21 05:43",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43065054",
+      "41288355",
+      "39482449",
+      "40671523",
+      "40966510",
+      "32107556",
+      "32161115",
+      "38819403",
+      "39929897",
+      "32213191",
+      "33782402",
+      "30742127",
+      "38200119",
+      "31004485",
+      "32329776",
+      "31723075",
+      "32687187",
+      "30730047",
+      "38647045",
+      "34120856",
+      "39052360",
+      "38865309",
+      "41545355",
+      "33538626",
+      "32843348",
+      "30639240",
+      "40155371",
+      "33715215",
+      "43015543",
+      "31583448",
+      "34908140",
+      "31872209",
+      "28781234",
+      "41814651",
+      "41062469",
+      "42045650",
+      "33346706",
+      "40222509",
+      "34687846",
+      "39387219",
+      "32382982",
+      "34853172",
+      "39258555",
+      "35468792",
+      "39020310",
+      "33636398",
+      "40298457",
+      "41063348",
+      "39019776",
+      "33847985",
+      "38516796",
+      "40558035",
+      "28595896",
+      "42143446",
+      "39210187",
+      "42549572",
+      "40449999",
+      "34951459",
+      "34648747",
+      "36305010",
+      "38814985",
+      "38922054",
+      "40849498",
+      "34948095",
+      "41521661",
+      "39009379",
+      "39971060",
+      "36537251",
+      "41807709",
+      "34782635",
+      "40541695",
+      "38714643",
+      "42831426",
+      "41217936",
+      "41759295",
+      "39880137",
+      "40391806",
+      "39158766",
+      "32661438",
+      "40897312",
+      "31989168",
+      "42144912",
+      "34951457",
+      "40557869",
+      "40944362",
+      "40958477",
+      "31381206",
+      "43010390",
+      "33567342",
+      "42916138",
+      "39454945",
+      "42549575",
+      "40397663",
+      "30998096",
+      "39003282",
+      "40498068",
+      "32712922",
+      "32519675",
+      "34011151",
+      "39885149"
+    ],
+    "review": [
+      "43065054",
+      "31872209",
+      "42045650",
+      "36305010",
+      "40541695",
+      "41759295",
+      "39880137"
+    ],
+    "pmc": [
+      "13786991"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-026-04249-x",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43065054/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

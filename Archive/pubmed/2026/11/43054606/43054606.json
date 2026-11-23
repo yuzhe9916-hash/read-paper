@@ -1,0 +1,229 @@
+{
+  "identity": {
+    "pmid": "43054606",
+    "doi": "10.48130/epi-0026-0007",
+    "title": "Obesity-associated DNMT downregulation is linked to DNA hypomethylation of oncogenic pathways in endometrioid endometrial cancer."
+  },
+  "content": {
+    "abstract": "Obesity plays a crucial role in the development and prognosis of endometrial cancer (EC), yet the molecular mechanisms underlying this association remain incompletely understood. In this retrospective comparative study, we investigated obesity-associated DNA methylation alterations in endometrioid EC using data from 229 patients in The Cancer Genome Atlas (TCGA). Patients were stratified by body mass index (BMI) (lean < 25; obese >/= 30). Differential methylation analysis using the limma framework (FDR-adjusted p < 0.05, |logFC| > 1) identified 311 differentially methylated CpG sites (DMCs), 71% of which were hypomethylated in tumors from obese patients. This hypomethylated profile was accompanied by significant downregulation of DNA methyltransferases DNMT1, DNMT3A, and DNMT3B. Stratification by DNMT expression revealed that DNMT3A- and DNMT3B-low tumors displayed the most extensive methylation changes. CRISPR/Cas9 mediated DNMT3A knockout (KO) in HEC1B generated 2,000 DMCs, including 37 shared with obesity associated alterations. Pathway enrichment demonstrated convergence on estrogen response, PI3K/AKT/mTOR, TGF-beta signaling, and IL-2/STAT5 signaling. INPP5F, a negative regulator of PI3K/AKT signaling implicated in insulin sensitivity, was hypomethylated at the gene body CpG shared between obese tumors and DNMT3A KO cells, showed reduced expression in tumors from obese patients, and was associated with decreased overall survival. These findings suggest that DNMT downregulation may contribute to obesity-associated epigenetic remodeling in EC and could identify candidate methylation-associated genes linking metabolic dysfunction to disease progression.",
+    "keywords": [
+      "DNMT",
+      "Endometrial cancer",
+      "Methylation",
+      "Obesity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cingoz, Harun",
+        "Asif, Huma",
+        "Kim, J Julie"
+      ],
+      "short_names": [
+        "Cingoz H",
+        "Asif H",
+        "Kim JJ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, Northwestern University, Feinberg School of Medicine, 303 E. Superior Street, 4-117 Chicago, IL 60611, USA.",
+        "Department of Obstetrics and Gynecology, Northwestern University, Feinberg School of Medicine, 303 E. Superior Street, 4-117 Chicago, IL 60611, USA.",
+        "Department of Obstetrics and Gynecology, Northwestern University, Feinberg School of Medicine, 303 E. Superior Street, 4-117 Chicago, IL 60611, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cingoz, Harun",
+        "short_name": "Cingoz H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Northwestern University, Feinberg School of Medicine, 303 E. Superior Street, 4-117 Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Asif, Huma",
+        "short_name": "Asif H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Northwestern University, Feinberg School of Medicine, 303 E. Superior Street, 4-117 Chicago, IL 60611, USA."
+        ]
+      },
+      {
+        "full_name": "Kim, J Julie",
+        "short_name": "Kim JJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics and Gynecology, Northwestern University, Feinberg School of Medicine, 303 E. Superior Street, 4-117 Chicago, IL 60611, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Epigenetics insights"
+    ],
+    "journal_abbrev": [
+      "Epigenet Insights"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 18:02",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43054606",
+      "15721400",
+      "41897280",
+      "30614867",
+      "36580834",
+      "31015518",
+      "26045339",
+      "25783037",
+      "39873457",
+      "42523546",
+      "27288544",
+      "26351548",
+      "29027401",
+      "25583948",
+      "41450820",
+      "16735507",
+      "40208514",
+      "41926459",
+      "11531283",
+      "41125735",
+      "31954096",
+      "29291005",
+      "41228349",
+      "35718462",
+      "40898098",
+      "34616614",
+      "41606524",
+      "29955086",
+      "21347319",
+      "28222718",
+      "21229291",
+      "18221536",
+      "40034691",
+      "42765145",
+      "28106509",
+      "17178860",
+      "38850446",
+      "41892289",
+      "39819598",
+      "35386944",
+      "40507774",
+      "30026852",
+      "40730259",
+      "26032981",
+      "26499446",
+      "27437034",
+      "23028963",
+      "41463187",
+      "25470663",
+      "32159363",
+      "31105426",
+      "18667590",
+      "36528638",
+      "37805766",
+      "20372798",
+      "28423671",
+      "24077349",
+      "42727849",
+      "15310660",
+      "30850842",
+      "37020053",
+      "40806327",
+      "25961636",
+      "30866861",
+      "42343321",
+      "36474183",
+      "42996317",
+      "28174608",
+      "26966018",
+      "37762215",
+      "20071334",
+      "31802101",
+      "32958812",
+      "21887466",
+      "26980478",
+      "37894317",
+      "43044975",
+      "31060424",
+      "42402417",
+      "29381923",
+      "29635374",
+      "41893347",
+      "42432101",
+      "33028190",
+      "41818416",
+      "30221710",
+      "27773939",
+      "14555514",
+      "29566670",
+      "30917865",
+      "39052109",
+      "17548962",
+      "42942018",
+      "23277489",
+      "40342557",
+      "35328422",
+      "23880059",
+      "29574992",
+      "25133096",
+      "25033457"
+    ],
+    "review": [
+      "43054606",
+      "39819598",
+      "31105426"
+    ],
+    "pmc": [
+      "13780259"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.sagepub.com/doi/10.48130/epi-0026-0007?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43054606/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

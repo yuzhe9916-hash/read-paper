@@ -1,0 +1,344 @@
+{
+  "identity": {
+    "pmid": "43044420",
+    "doi": "10.1016/j.plaphy.2026.111820",
+    "title": "AI-enabled phenomics of combined abiotic stress: Linking field signatures to plant multi-omics."
+  },
+  "content": {
+    "abstract": "Climate change is driving a rise in the frequency of simultaneous abiotic stresses in cropping systems, yet combined stresses elicit physiological and molecular responses that cannot be reliably inferred from single-stress studies. AI-enabled high-throughput phenomics offers a scalable means of detecting these responses in the field, but the biological meaning of AI-derived phenomic signatures and their relationship to underlying molecular processes remain insufficiently resolved. This review asks how phenomic signatures detected by AI/ML can be interpreted as physiologically meaningful readouts of combined abiotic stress and validated against molecular omics evidence. We synthesize evidence from 200 peer-reviewed studies selected through a structured literature search spanning 2010-2026, drawing on findings from high-throughput sensing, plant stress physiology, AI/ML-based phenotyping, and molecular omics. The evidence indicates that combined stresses generate context-dependent molecular and physiological responses that can produce overlapping as well as stress-combination-specific spectral, thermal, and structural phenotypes. AI/ML can help resolve these complex patterns and enable early, field-scale stress characterization; high predictive performance alone, however, does not establish biological or mechanistic validity. The principal bottleneck is the persistent disconnect between molecular omics generated predominantly under controlled conditions and phenomic measurements collected under heterogeneous field environments, compounded by limited combined-stress datasets, weak cross-environment generalization, and a lack of standardized phenomics-omics validation frameworks. Closing this gap is essential for moving AI-driven phenomics from accurate stress prediction toward biologically interpretable panomics and reliable selection of stress-resilient crops.",
+    "keywords": [
+      "CRISPR/Cas",
+      "Climate-smart agriculture",
+      "Combined abiotic stress",
+      "Genotype-phenotype prediction",
+      "High-throughput phenotyping",
+      "Multi-omics integration",
+      "Multispectral LiDAR"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Haq, Syed Ijaz Ul",
+        "Khan, Shahid Nawaz",
+        "Ibrahim, Muhammad",
+        "Wang, Guobin",
+        "Song, Cancan",
+        "Tahir, Muhammad Naveed",
+        "Lan, Yubin"
+      ],
+      "short_names": [
+        "Haq SIU",
+        "Khan SN",
+        "Ibrahim M",
+        "Wang G",
+        "Song C",
+        "Tahir MN",
+        "Lan Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China.",
+        "Institute of Geographical Information Systems, National University of Sciences and Technology (NUST), Islamabad, Pakistan.",
+        "Department of Computer Science and Software Engineering, University of Western Australia, Australia.",
+        "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China.",
+        "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China. Electronic address: songcc@sdut.edu.cn.",
+        "Department of Agronomy, PMAS-Arid Agriculture University Rawalpindi, 46000 Rawalpindi, Pakistan.",
+        "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China. Electronic address: ylan@sdut.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Haq, Syed Ijaz Ul",
+        "short_name": "Haq SIU",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China."
+        ]
+      },
+      {
+        "full_name": "Khan, Shahid Nawaz",
+        "short_name": "Khan SN",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Geographical Information Systems, National University of Sciences and Technology (NUST), Islamabad, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Ibrahim, Muhammad",
+        "short_name": "Ibrahim M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Software Engineering, University of Western Australia, Australia."
+        ]
+      },
+      {
+        "full_name": "Wang, Guobin",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China."
+        ]
+      },
+      {
+        "full_name": "Song, Cancan",
+        "short_name": "Song C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China. Electronic address: songcc@sdut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Tahir, Muhammad Naveed",
+        "short_name": "Tahir MN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agronomy, PMAS-Arid Agriculture University Rawalpindi, 46000 Rawalpindi, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Lan, Yubin",
+        "short_name": "Lan Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo 255049, China; Shandong University of Technology Sub-Center of National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Zibo 255049, China. Electronic address: ylan@sdut.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant physiology and biochemistry : PPB"
+    ],
+    "journal_abbrev": [
+      "Plant Physiol Biochem"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 23:30",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43044420",
+      "42475469",
+      "42278532",
+      "42889350",
+      "42600524",
+      "37279568",
+      "41589633",
+      "42811180",
+      "41011981",
+      "37372461",
+      "42178486",
+      "41125905",
+      "42035969",
+      "42536708",
+      "35675172",
+      "42943125",
+      "42179484",
+      "41376168",
+      "26269925",
+      "34539683",
+      "40148151",
+      "42197671",
+      "34076731",
+      "42702811",
+      "28232845",
+      "41779634",
+      "41751160",
+      "42709227",
+      "40725465",
+      "42435607",
+      "41219913",
+      "35656008",
+      "42211476",
+      "42893623",
+      "40941864",
+      "29444308",
+      "42690503",
+      "27499678",
+      "39265616",
+      "40173380",
+      "41073589",
+      "43035178",
+      "36232455",
+      "41467558",
+      "42285930",
+      "41922965",
+      "42525284",
+      "42788015",
+      "40512264",
+      "30110906",
+      "41594895",
+      "42046410",
+      "42369806",
+      "40612601",
+      "40265800",
+      "42658544",
+      "42589116",
+      "42603438",
+      "42245104",
+      "42123484",
+      "36212378",
+      "31981735",
+      "42275228",
+      "42602771",
+      "40439305",
+      "42075403",
+      "42469498",
+      "42970151",
+      "42178738",
+      "42653123",
+      "34925418",
+      "42219749",
+      "34297757",
+      "37294468",
+      "41546796",
+      "42348079",
+      "42245112",
+      "42853479",
+      "42469324",
+      "42231884",
+      "42068017",
+      "40904125",
+      "40559408",
+      "38158512",
+      "42122827",
+      "42689139",
+      "35845642",
+      "41755064",
+      "41099996",
+      "35958216",
+      "41898837",
+      "42650093",
+      "42501304",
+      "41186250",
+      "42192906",
+      "31427454",
+      "35192700",
+      "38622376",
+      "32302943",
+      "42702754"
+    ],
+    "review": [
+      "43044420",
+      "42278532",
+      "42889350",
+      "42600524",
+      "41589633",
+      "42811180",
+      "41011981",
+      "37372461",
+      "42178486",
+      "41125905",
+      "42035969",
+      "35675172",
+      "42943125",
+      "42179484",
+      "41376168",
+      "26269925",
+      "34539683",
+      "40148151",
+      "42197671",
+      "34076731",
+      "28232845",
+      "41779634",
+      "41751160",
+      "42709227",
+      "40725465",
+      "42435607",
+      "41219913",
+      "35656008",
+      "42211476",
+      "42893623",
+      "40941864",
+      "29444308",
+      "42690503",
+      "41073589",
+      "43035178",
+      "36232455",
+      "41467558",
+      "42285930",
+      "41922965",
+      "42525284",
+      "42788015",
+      "40512264",
+      "30110906",
+      "41594895",
+      "42046410",
+      "40612601",
+      "40265800",
+      "42658544",
+      "42589116",
+      "42603438",
+      "42245104",
+      "42123484",
+      "36212378",
+      "31981735",
+      "42275228",
+      "42602771",
+      "40439305",
+      "42075403",
+      "42469498",
+      "42970151",
+      "42178738",
+      "42653123",
+      "34925418",
+      "37294468",
+      "41546796",
+      "42348079",
+      "42245112",
+      "42853479",
+      "42231884",
+      "42068017",
+      "40559408",
+      "38158512",
+      "42122827",
+      "42689139",
+      "35845642",
+      "41755064",
+      "41099996",
+      "35958216",
+      "41898837",
+      "42650093",
+      "41186250",
+      "42192906",
+      "35192700",
+      "38622376",
+      "42702754"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0981-9428(26)00806-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

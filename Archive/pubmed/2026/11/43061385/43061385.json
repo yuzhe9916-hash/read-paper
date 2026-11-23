@@ -1,0 +1,350 @@
+{
+  "identity": {
+    "pmid": "43061385",
+    "doi": "10.1016/j.isci.2026.118180",
+    "title": "Systematic CRISPR screens decode regulators of primary human pathogenic Th17 cell differentiation and activation."
+  },
+  "content": {
+    "abstract": "T-helper 17 (Th17) cells mediate host defense against bacterial and fungal pathogens at mucosal and skin interfaces. However, they are also involved in the pathogenesis of diverse autoimmune and inflammatory diseases. To accelerate candidate discovery in the pathogenic Th17 pathway, we have customized druggable CRISPR activation (CRISPRa) and interference (CRISPRi) sgRNA libraries. With an optimized Th17 differentiation protocol, we performed customized CRISPRa and CRISPRi screens in human peripheral blood mononuclear cells (PBMCs) to identify potential regulators controlling the function of pathogenic Th17 cells. Coupled with next-generation sequencing, our screens identified previously reported and undiscovered genes involved in pathogenic Th17 cell differentiation and activation. Among them, the regulatory roles of heme oxygenase 1 and CD28 were verified by sgRNA-based and small-molecule inhibitor-based functional experiments in vitro. Our study provided a useful resource for mapping key genes of pathogenic Th17 cell function and potential immunotherapy targets for treating Th17-related immune disorders.",
+    "keywords": [
+      "CD28",
+      "CRISPRa",
+      "CRISPRi",
+      "HMOX1",
+      "pathogenic Th17 cell"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yuan",
+        "Yu, Zekun",
+        "Wang, Lixin",
+        "Zhang, Junshi",
+        "Wang, Wanting",
+        "Luo, Ban",
+        "Huang, Bochen",
+        "Zhang, Fanmeng",
+        "Zhang, Lu",
+        "Shen, Chenchen",
+        "Zhou, Biao",
+        "Li, Kecheng",
+        "Yang, Xuanming"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Yu Z",
+        "Wang L",
+        "Zhang J",
+        "Wang W",
+        "Luo B",
+        "Huang B",
+        "Zhang F",
+        "Zhang L",
+        "Shen C",
+        "Zhou B",
+        "Li K",
+        "Yang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Angel Pharmaceuticals Co., Ltd., Jiaxing 314000, China.",
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, China.",
+        "Department of Mathematics and Statistics, Northeastern University at Qinhuangdao, Qinhuangdao 066004, China.",
+        "Angel Pharmaceuticals Co., Ltd., Jiaxing 314000, China.",
+        "Angel Pharmaceuticals Co., Ltd., Jiaxing 314000, China.",
+        "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Department of Gynaecology and Obstetrics, Shanghai Pudong New Area People's Hospital, Shanghai 201299, China.",
+        "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic & Developmental Sciences, Shanghai Jiao Tong University, Shanghai 200240, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yuan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Zekun",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lixin",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Angel Pharmaceuticals Co., Ltd., Jiaxing 314000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Junshi",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wanting",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Ban",
+        "short_name": "Luo B",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Bochen",
+        "short_name": "Huang B",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fanmeng",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lu",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Chenchen",
+        "short_name": "Shen C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics and Statistics, Northeastern University at Qinhuangdao, Qinhuangdao 066004, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Biao",
+        "short_name": "Zhou B",
+        "identifiers": [],
+        "affiliations": [
+          "Angel Pharmaceuticals Co., Ltd., Jiaxing 314000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Kecheng",
+        "short_name": "Li K",
+        "identifiers": [],
+        "affiliations": [
+          "Angel Pharmaceuticals Co., Ltd., Jiaxing 314000, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xuanming",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Sheng Yushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "Department of Gynaecology and Obstetrics, Shanghai Pudong New Area People's Hospital, Shanghai 201299, China.",
+          "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic & Developmental Sciences, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "iScience"
+    ],
+    "journal_abbrev": [
+      "iScience"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43061385",
+      "24434314",
+      "35113687",
+      "29275836",
+      "30449619",
+      "19933767",
+      "40530518",
+      "33128433",
+      "39107200",
+      "32884248",
+      "38061117",
+      "42320709",
+      "29035510",
+      "33968012",
+      "36326754",
+      "35750104",
+      "38414294",
+      "28468969",
+      "27514756",
+      "29254845",
+      "26819253",
+      "41826830",
+      "38522752",
+      "35537347",
+      "28617945",
+      "28580587",
+      "26615094",
+      "39526629",
+      "22675324",
+      "21191064",
+      "30575746",
+      "31742738",
+      "36591260",
+      "30972071",
+      "33756352",
+      "39620587",
+      "25112868",
+      "33541200",
+      "34407984",
+      "35108421",
+      "27006754",
+      "36166586",
+      "41074026",
+      "43032635",
+      "40032499",
+      "28710773",
+      "26520124",
+      "42845579",
+      "28377767",
+      "34920145",
+      "23778031",
+      "26770017",
+      "34745114",
+      "29467767",
+      "40680607",
+      "37743424",
+      "29935220",
+      "28515278",
+      "19022809",
+      "40747421",
+      "39235498",
+      "38811842",
+      "25976230",
+      "35514960",
+      "41152886",
+      "39283337",
+      "37369312",
+      "26307197",
+      "31931372",
+      "28672038",
+      "34335622",
+      "31102153",
+      "40960283",
+      "28684304",
+      "21048387",
+      "29663372",
+      "37815340",
+      "28448060",
+      "37498431",
+      "32204685",
+      "33064842",
+      "41059283",
+      "41799642",
+      "35437237",
+      "41797515",
+      "37062251",
+      "23564624",
+      "34086186",
+      "38308274",
+      "37335900",
+      "40777267",
+      "23734780",
+      "29330324",
+      "40887501",
+      "42454709",
+      "42664972",
+      "36576240",
+      "19302244",
+      "42927201",
+      "39888372"
+    ],
+    "review": [
+      "43061385",
+      "24434314",
+      "29275836",
+      "29035510",
+      "33968012",
+      "36326754",
+      "29254845",
+      "26615094",
+      "33756352",
+      "33541200",
+      "27006754",
+      "36166586",
+      "28377767",
+      "26770017",
+      "37743424",
+      "19022809",
+      "26307197",
+      "31931372",
+      "21048387",
+      "29663372",
+      "33064842",
+      "35437237",
+      "37062251"
+    ],
+    "pmc": [
+      "13782945"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(26)03563-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43061385/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

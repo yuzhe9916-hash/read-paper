@@ -1,0 +1,340 @@
+{
+  "identity": {
+    "pmid": "43043754",
+    "doi": "10.1016/j.celrep.2026.118314",
+    "title": "An engineered probiotic with integrated biocomputation and multi-molecular recording for precision theranostics of colitis."
+  },
+  "content": {
+    "abstract": "Engineered therapeutic microbes capable of sensing and responding to diseases offer transformative potential for precision medicine. However, their capacity to intelligently process the complex and dynamic biomarkers of multifaceted diseases such as inflammatory bowel disease (IBD) remains limited. Here, we design a probiotic system that executes logic computations through four stage-specific inflammatory biomarkers, enabling precise diagnosis and closed-loop treatment of colitis in mice. Integration with a CRISPR-based molecular recorder allows dynamic tracking of biomarker levels and converts inflammatory signals into quantifiable, site-specific base-editing events, thereby achieving precise diagnosis and analysis of disease progression within a living mammalian gut. We additionally develop a multimodal machine-learning classifier that utilizes both bioluminescent reporter signals and sequencing data to accurately stage intestinal inflammation with an accuracy of 0.83 +/- 0.05. Together, this work provides a robust platform for in situ biocomputation and marks a significant advance toward intelligent, precision theranostics for gastrointestinal disorders.",
+    "keywords": [
+      "CP: microbiology",
+      "Inflammatory bowel disease",
+      "closed-loop therapy",
+      "computational gene circuits",
+      "engineered probiotics",
+      "machine-learning classifier",
+      "molecular recording",
+      "synthetic biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zou, Zhen-Ping",
+        "Mi, Jing",
+        "Zhou, Shu-Qin",
+        "Mao, Ruichao",
+        "Shi, Xuan-Ren",
+        "Du, Wei",
+        "Zhang, Jingyu",
+        "Wang, Baojun",
+        "Zhang, Lixin",
+        "Ye, Bang-Ce",
+        "Zhou, Ying"
+      ],
+      "short_names": [
+        "Zou ZP",
+        "Mi J",
+        "Zhou SQ",
+        "Mao R",
+        "Shi XR",
+        "Du W",
+        "Zhang J",
+        "Wang B",
+        "Zhang L",
+        "Ye BC",
+        "Zhou Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China.",
+        "College of Chemical and Biological Engineering and ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China.",
+        "College of Chemical and Biological Engineering and ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou, China. Electronic address: baojun.wang@zju.edu.cn.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China. Electronic address: lxzhang@ecust.edu.cn.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China. Electronic address: bcye@ecust.edu.cn.",
+        "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China. Electronic address: zhouying@ecust.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zou, Zhen-Ping",
+        "short_name": "Zou ZP",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Mi, Jing",
+        "short_name": "Mi J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Shu-Qin",
+        "short_name": "Zhou SQ",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Ruichao",
+        "short_name": "Mao R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical and Biological Engineering and ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Xuan-Ren",
+        "short_name": "Shi XR",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Du, Wei",
+        "short_name": "Du W",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jingyu",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Baojun",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemical and Biological Engineering and ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou, China. Electronic address: baojun.wang@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lixin",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China. Electronic address: lxzhang@ecust.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Ye, Bang-Ce",
+        "short_name": "Ye BC",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China. Electronic address: bcye@ecust.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Ying",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, China. Electronic address: zhouying@ecust.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 17:30",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43043754",
+      "42475469",
+      "36758520",
+      "41074150",
+      "37523538",
+      "41083038",
+      "42905517",
+      "41640410",
+      "42916596",
+      "41013967",
+      "31186335",
+      "41271235",
+      "40821793",
+      "42599838",
+      "41522435",
+      "36094344",
+      "39457040",
+      "42256221",
+      "39937081",
+      "35730951",
+      "39609102",
+      "42941862",
+      "41641521",
+      "42636890",
+      "35782138",
+      "41957107",
+      "40716471",
+      "40386420",
+      "41430556",
+      "40291692",
+      "40098604",
+      "39756419",
+      "41188868",
+      "42929953",
+      "42274393",
+      "40855083",
+      "41617014",
+      "42465743",
+      "35497193",
+      "41859463",
+      "41133513",
+      "39115381",
+      "42652141",
+      "32296696",
+      "39607341",
+      "42450092",
+      "40808866",
+      "41080582",
+      "38739270",
+      "39641224",
+      "39201260",
+      "42360135",
+      "39887239",
+      "36118573",
+      "42698445",
+      "39840995",
+      "42725754",
+      "42656833",
+      "42576137",
+      "38787330",
+      "41822494",
+      "42851468",
+      "42014845",
+      "38851294",
+      "41314754",
+      "34183837",
+      "37482802",
+      "26670383",
+      "41644858",
+      "42179772",
+      "42230544",
+      "40093907",
+      "40999885",
+      "37581922",
+      "38918805",
+      "40305594",
+      "42437750",
+      "39629555",
+      "36037444",
+      "42029907",
+      "41899876",
+      "40055678",
+      "41611149",
+      "38163336",
+      "35082553",
+      "40269480",
+      "42605017",
+      "42036310",
+      "42358961",
+      "40428318",
+      "42259238",
+      "40593990",
+      "42123319",
+      "38492339",
+      "39089254",
+      "41010056",
+      "42293685",
+      "42269946",
+      "42497864",
+      "41892599"
+    ],
+    "review": [
+      "43043754",
+      "41083038",
+      "41640410",
+      "41271235",
+      "41522435",
+      "36094344",
+      "39457040",
+      "42256221",
+      "41641521",
+      "42636890",
+      "40716471",
+      "40098604",
+      "41188868",
+      "42929953",
+      "41859463",
+      "41133513",
+      "42652141",
+      "32296696",
+      "42450092",
+      "41080582",
+      "36118573",
+      "42576137",
+      "41822494",
+      "42851468",
+      "38851294",
+      "41314754",
+      "41644858",
+      "42179772",
+      "40093907",
+      "42029907",
+      "41899876",
+      "41611149",
+      "38163336",
+      "35082553",
+      "40269480",
+      "42605017",
+      "42036310",
+      "42259238"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01393-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

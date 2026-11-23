@@ -1,0 +1,394 @@
+{
+  "identity": {
+    "pmid": "43060471",
+    "doi": "10.64898/2026.11.04.763740",
+    "title": "Mapping the regulatory wiring of endothelial cell differentiation reveals a critical role for Hippo mechanosignaling."
+  },
+  "content": {
+    "abstract": "At each step of development, stem cells encounter a branching decision to differentiate into one type of cell or another. This decision is executed through the action of competing gene programs that specify different cellular identities. Consequently, creating a comprehensive map of the gene programs that drive each branching step of human cell differentiation remains a long-sought goal of developmental and stem cell biology. Here, we introduce a framework combining genome-wide CRISPR screens, single-cell readouts, and gene program inference to systematically discover and characterize regulators of cell differentiation. This framework includes a method for CRISPR perturbations paired with single-cell RNA-seq called circular capture Perturb-seq (CC-Perturb-seq), which improves gRNA detection from split-pool combinatorial indexing protocols and enables perturbing many candidate regulators to map their effects on gene programs. We applied this framework to map how human pluripotent stem cells differentiate into arterial endothelial cells (ECs), and identified 174 regulators that promote or inhibit EC differentiation. By tracking gene programs across three stages of differentiation, we resolved when and how regulators divert cells toward alternative fates. This map revealed an unexpected requirement for the Hippo mechanosignaling pathway in EC specification. During lateral mesoderm differentiation, Hippo mechanosignaling was required to activate ETV2 , the master transcriptional regulator of endothelial identity. Inhibiting Hippo blocked ETV2 even in the presence of VEGF and diverted progenitors to a mesenchymal fate in vitro . Likewise, Hippo signaling was required for maximal etv2 expression in developing zebrafish embryos. Conversely, pharmacologically activating the Hippo pathway increased the purity of both arterial and venous EC differentiation in vitro . Our framework thus identifies novel regulators of endothelial cell differentiation, improves stem-cell differentiation protocols via manipulation of mechanosignaling, and provides a generalizable platform for mapping the regulatory wiring of human development.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nguyen, Tri C",
+        "King, Hunter D",
+        "Amgalan, Dulguun",
+        "Pushkarev, Olga",
+        "Mo, Yanyan Alexandra",
+        "Munger, Chad J",
+        "McCreery, Chloe",
+        "Gupta, Revant",
+        "Zeng, Tony",
+        "Zhou, Ronghao",
+        "Conley, Stephanie D",
+        "Batta, Surya Prakash Rao",
+        "Sheth, Maya U",
+        "Mattei, Eugenio",
+        "Masaltseva, Anastasiia",
+        "Kang, Helen Y",
+        "Ma, X Rosa",
+        "Tran, Ngoc",
+        "Gaskell, Liz",
+        "Shoresh, Noam",
+        "Orlova, Valeria",
+        "Kundaje, Anshul",
+        "Sumanas, Saulius",
+        "Ang, Lay Teng",
+        "Loh, Kyle M",
+        "Engreitz, Jesse M"
+      ],
+      "short_names": [
+        "Nguyen TC",
+        "King HD",
+        "Amgalan D",
+        "Pushkarev O",
+        "Mo YA",
+        "Munger CJ",
+        "McCreery C",
+        "Gupta R",
+        "Zeng T",
+        "Zhou R",
+        "Conley SD",
+        "Batta SPR",
+        "Sheth MU",
+        "Mattei E",
+        "Masaltseva A",
+        "Kang HY",
+        "Ma XR",
+        "Tran N",
+        "Gaskell L",
+        "Shoresh N",
+        "Orlova V",
+        "Kundaje A",
+        "Sumanas S",
+        "Ang LT",
+        "Loh KM",
+        "Engreitz JM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5754-1719"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Nguyen, Tri C",
+        "short_name": "Nguyen TC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "King, Hunter D",
+        "short_name": "King HD",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Amgalan, Dulguun",
+        "short_name": "Amgalan D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pushkarev, Olga",
+        "short_name": "Pushkarev O",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mo, Yanyan Alexandra",
+        "short_name": "Mo YA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Munger, Chad J",
+        "short_name": "Munger CJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "McCreery, Chloe",
+        "short_name": "McCreery C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gupta, Revant",
+        "short_name": "Gupta R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zeng, Tony",
+        "short_name": "Zeng T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhou, Ronghao",
+        "short_name": "Zhou R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Conley, Stephanie D",
+        "short_name": "Conley SD",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Batta, Surya Prakash Rao",
+        "short_name": "Batta SPR",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sheth, Maya U",
+        "short_name": "Sheth MU",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mattei, Eugenio",
+        "short_name": "Mattei E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Masaltseva, Anastasiia",
+        "short_name": "Masaltseva A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kang, Helen Y",
+        "short_name": "Kang HY",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ma, X Rosa",
+        "short_name": "Ma XR",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tran, Ngoc",
+        "short_name": "Tran N",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gaskell, Liz",
+        "short_name": "Gaskell L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shoresh, Noam",
+        "short_name": "Shoresh N",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Orlova, Valeria",
+        "short_name": "Orlova V",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kundaje, Anshul",
+        "short_name": "Kundaje A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sumanas, Saulius",
+        "short_name": "Sumanas S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ang, Lay Teng",
+        "short_name": "Ang LT",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Loh, Kyle M",
+        "short_name": "Loh KM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Engreitz, Jesse M",
+        "short_name": "Engreitz JM",
+        "identifiers": [
+          "0000-0002-5754-1719"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060471",
+      "28279709",
+      "40495012",
+      "38853821",
+      "38348657",
+      "40832854",
+      "42475469",
+      "38752370",
+      "42287924",
+      "27534536",
+      "34666000",
+      "39075623",
+      "37662218",
+      "25802403",
+      "37884859",
+      "29986945",
+      "22267325",
+      "42411605",
+      "35212715",
+      "41272813",
+      "28912455",
+      "32493965",
+      "31242503",
+      "36512477",
+      "32129551",
+      "30216805",
+      "28114972",
+      "32967716",
+      "41064856",
+      "32459995",
+      "28248004",
+      "41279810",
+      "42290237",
+      "35976093",
+      "37468661",
+      "37537495",
+      "28499402",
+      "31746148",
+      "42585327",
+      "21178292",
+      "32515350",
+      "26718617",
+      "24018375",
+      "42094425",
+      "41390669",
+      "34755601",
+      "36629404",
+      "35688146",
+      "40134129",
+      "41808446",
+      "41711027",
+      "39714446",
+      "41630008",
+      "37393122",
+      "39051998",
+      "28803914",
+      "29415620",
+      "43060182",
+      "42734752",
+      "39471724",
+      "40263183",
+      "24828882",
+      "27906170",
+      "29809141",
+      "37330911",
+      "38916487",
+      "16809546",
+      "23079999",
+      "42927775",
+      "29396371",
+      "42664972",
+      "36777038",
+      "38969874",
+      "35700449",
+      "25780560",
+      "25535084",
+      "41446158",
+      "41509490",
+      "36583388",
+      "42119563",
+      "31951024",
+      "42586169",
+      "35142607",
+      "23438573",
+      "31278282",
+      "41779826",
+      "42546633",
+      "34595600",
+      "23924634",
+      "25739401",
+      "18266967",
+      "25997157",
+      "31259171",
+      "31148202",
+      "43025678",
+      "41052706",
+      "35394424",
+      "21911838",
+      "30239706",
+      "33445654"
+    ],
+    "review": [
+      "43060471",
+      "42287924",
+      "31746148",
+      "21178292",
+      "37393122",
+      "31951024",
+      "34595600"
+    ],
+    "pmc": [
+      "13780699"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060471/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.04.763740",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

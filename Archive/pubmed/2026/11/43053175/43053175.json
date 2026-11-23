@@ -1,0 +1,370 @@
+{
+  "identity": {
+    "pmid": "43053175",
+    "doi": "10.1186/s13046-026-03807-2",
+    "title": "Mapping the NFYA 3'UTR landscape identifies alternative polyadenylation as a targetable vulnerability in prostate cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Alternative polyadenylation (APA) is increasingly recognized as a pervasive oncogenic mechanism that reshapes post-transcriptional gene regulation and promotes tumor aggressiveness. Whether APA contributes to the dysregulation of NFYA-encoding the regulatory subunit of the oncogenic transcription factor NF-Y-in prostate cancer (PCa) remains largely uncharacterized. METHODS: We interrogated bulk, single cell and 3'-end RNA-sequencing data from PCa cell lines and patient samples to re-annotate and quantify the usage of NFYA 3'UTRs. The functional consequences of APA were assessed using reporter assays. NFYA APA was experimentally reprogrammed using CRISPR/Cas9-mediated deletion and antisense oligonucleotide (ASO)-based masking of polyadenylation signals, followed by in vitro and in vivo phenotypic analyses. RESULTS: Four functional NFYA 3'UTR isoforms were identified, with one predominantly used across cell lines and tissues. PCa displayed pervasive NFYA 3'UTR shortening, which correlated with tumor grade and metastatic disease, increased NF-YA protein abundance, and enhanced proliferation. 3'UTR lengthening was instead observed upon induction of cellular quiescence or after Enzalutamide treatment. Mechanistically, 3'UTR lengthening reduced NF-YA protein expression through decreased mRNA stability, impaired translation, and enhanced nuclear retention, rather than increased miRNA-mediated repression. Enforced NFYA 3'UTR lengthening in PCa cells via CRISPR/Cas9 or ASOs diminished NF-YA protein levels and suppressed aggressive tumor traits both in vitro and in vivo. CONCLUSIONS: These findings establish NFYA APA as a critical determinant of NF-YA oncogenic output and downstream tumor-promoting programs, and as a previously unrecognized driver of PCa progression. Importantly, they provide proof-of-concept for gene-specific, APA-directed therapeutic strategies. ASO-mediated modulation of polyadenylation indeed emerges as a clinically translatable approach to fine-tune oncogene expression, thus opening new avenues for RNA-based precision interventions in aggressive PCa.",
+    "keywords": [
+      "3'UTR",
+      "Alternative polyadenylation (APA)",
+      "Antisense oligonucleotides (ASO)",
+      "Post-transcriptional regulation",
+      "Prostate cancer"
+    ],
+    "mesh_terms": [
+      "Male",
+      "Humans",
+      "*Prostatic Neoplasms/genetics/pathology/metabolism",
+      "*Polyadenylation",
+      "*3' Untranslated Regions",
+      "Animals",
+      "Mice",
+      "Cell Line, Tumor",
+      "Gene Expression Regulation, Neoplastic",
+      "*CCAAT-Binding Factor/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pagani, Giulia",
+        "Casirati, Chiara",
+        "Pandini, Cecilia",
+        "Fornezza, Stefania",
+        "Priami, Chiara",
+        "Fois, Giulia",
+        "Bisi, Sara",
+        "Mironov, Aleksei",
+        "Cacioppo, Roberta",
+        "Manfrini, Nicola",
+        "Zavolan, Mihaela",
+        "Nicassio, Francesco",
+        "Migliaccio, Enrica",
+        "Gandellini, Paolo"
+      ],
+      "short_names": [
+        "Pagani G",
+        "Casirati C",
+        "Pandini C",
+        "Fornezza S",
+        "Priami C",
+        "Fois G",
+        "Bisi S",
+        "Mironov A",
+        "Cacioppo R",
+        "Manfrini N",
+        "Zavolan M",
+        "Nicassio F",
+        "Migliaccio E",
+        "Gandellini P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7811-3377"
+      ],
+      "affiliations": [
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "European Institute of Oncology, Milan, Italy.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Italian Institute of Technology, Milan, Italy.",
+        "Computational and Systems Biology, Biozentrum University of Basel, Basel, Switzerland.",
+        "Swiss Institute of Bioinformatics, Basel, Switzerland.",
+        "MRC Laboratory of Molecular Biology, Cambridge, UK.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "INGM, Istituto Nazionale Genetica Molecolare Romeo ed Enrica Invernizzi, Milan, Italy.",
+        "Computational and Systems Biology, Biozentrum University of Basel, Basel, Switzerland.",
+        "Swiss Institute of Bioinformatics, Basel, Switzerland.",
+        "Italian Institute of Technology, Milan, Italy.",
+        "European Institute of Oncology, Milan, Italy.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy. paolo.gandellini@unimi.it."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pagani, Giulia",
+        "short_name": "Pagani G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Casirati, Chiara",
+        "short_name": "Casirati C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Pandini, Cecilia",
+        "short_name": "Pandini C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Fornezza, Stefania",
+        "short_name": "Fornezza S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Priami, Chiara",
+        "short_name": "Priami C",
+        "identifiers": [],
+        "affiliations": [
+          "European Institute of Oncology, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Fois, Giulia",
+        "short_name": "Fois G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Bisi, Sara",
+        "short_name": "Bisi S",
+        "identifiers": [],
+        "affiliations": [
+          "Italian Institute of Technology, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Mironov, Aleksei",
+        "short_name": "Mironov A",
+        "identifiers": [],
+        "affiliations": [
+          "Computational and Systems Biology, Biozentrum University of Basel, Basel, Switzerland.",
+          "Swiss Institute of Bioinformatics, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Cacioppo, Roberta",
+        "short_name": "Cacioppo R",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Laboratory of Molecular Biology, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Manfrini, Nicola",
+        "short_name": "Manfrini N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+          "INGM, Istituto Nazionale Genetica Molecolare Romeo ed Enrica Invernizzi, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Zavolan, Mihaela",
+        "short_name": "Zavolan M",
+        "identifiers": [],
+        "affiliations": [
+          "Computational and Systems Biology, Biozentrum University of Basel, Basel, Switzerland.",
+          "Swiss Institute of Bioinformatics, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Nicassio, Francesco",
+        "short_name": "Nicassio F",
+        "identifiers": [],
+        "affiliations": [
+          "Italian Institute of Technology, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Migliaccio, Enrica",
+        "short_name": "Migliaccio E",
+        "identifiers": [],
+        "affiliations": [
+          "European Institute of Oncology, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Gandellini, Paolo",
+        "short_name": "Gandellini P",
+        "identifiers": [
+          "0000-0002-7811-3377"
+        ],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy. paolo.gandellini@unimi.it."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of experimental & clinical cancer research : CR"
+    ],
+    "journal_abbrev": [
+      "J Exp Clin Cancer Res"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43053175",
+      "40643802",
+      "34607841",
+      "42575980",
+      "42620604",
+      "39565284",
+      "42958242",
+      "26801249",
+      "42163102",
+      "20037631",
+      "41429958",
+      "26395459",
+      "29891946",
+      "34782004",
+      "38718887",
+      "36747266",
+      "41225606",
+      "32804959",
+      "31391087",
+      "34183132",
+      "36889542",
+      "41255211",
+      "31100099",
+      "35011638",
+      "37359548",
+      "42129632",
+      "42892352",
+      "37171086",
+      "25701119",
+      "40629911",
+      "30143523",
+      "38745101",
+      "28408318",
+      "36247240",
+      "31253147",
+      "35581194",
+      "33706811",
+      "33648552",
+      "37737260",
+      "37838788",
+      "31299892",
+      "28186968",
+      "41058879",
+      "19703394",
+      "39812508",
+      "26671978",
+      "36697237",
+      "39662264",
+      "41846976",
+      "40450413",
+      "40381037",
+      "26908102",
+      "42294590",
+      "42478124",
+      "38112323",
+      "29055006",
+      "40696497",
+      "29106591",
+      "42770711",
+      "42564021",
+      "34829789",
+      "42194962",
+      "33690159",
+      "41787560",
+      "26713853",
+      "28348061",
+      "42335938",
+      "41387380",
+      "22874640",
+      "21998658",
+      "25727182",
+      "29234016",
+      "29511610",
+      "19222700",
+      "32542372",
+      "36800428",
+      "37906624",
+      "34183133",
+      "34236846",
+      "40654921",
+      "38982223",
+      "26597575",
+      "24728858",
+      "27609814",
+      "34482400",
+      "37293985",
+      "40205015",
+      "36755113",
+      "27133296",
+      "33955355",
+      "25908445",
+      "42507894",
+      "41659404",
+      "33526057",
+      "30365147",
+      "21436120",
+      "31064846",
+      "30068375",
+      "39208673",
+      "42945840"
+    ],
+    "review": [
+      "43053175",
+      "42958242",
+      "37171086",
+      "36697237",
+      "40696497",
+      "34829789",
+      "37906624",
+      "26597575"
+    ],
+    "pmc": [
+      "13783556"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://jeccr.biomedcentral.com/articles/10.1186/s13046-026-03807-2",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/prostatecancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Prostate Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43053175/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

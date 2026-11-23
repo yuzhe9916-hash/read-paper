@@ -1,0 +1,377 @@
+{
+  "identity": {
+    "pmid": "43053558",
+    "doi": "10.1111/pce.71063",
+    "title": "Navigating the Drought Tolerance-Yield Trade-Off in Triticeae Cereals: From Molecular Networks to Climate-Resilient Breeding."
+  },
+  "content": {
+    "abstract": "Drought driven by climate change severely threatens food security, particularly for wheat and barley grown in water-limited regions. A major breeding challenge is the trade-off between drought tolerance and yield. This review synthesises current knowledge of drought adaptation mechanisms in Triticeae crops, focusing on the transcriptional cascades, ABA-centric hormonal signalling and posttranslational modifications (kinases, phosphatases and ubiquitination) that confer resilience while often constraining carbon allocation to developing grains. Recent genomic advances, including genome-wide association study (GWAS), multi-omics integration and single-cell RNA-transcriptomics, have uncovered a wealth of drought-associated loci, although their translational potential is limited by data heterogeneity, environmental dependency and a persistent gap between laboratory validation and field performance. Emerging breeding approaches, such as speed breeding, wild-allele introgression, multiplex CRISPR/Cas9 and artificial intelligence (AI)-driven phenotyping are accelerating the development of climate-smart cultivars. Tissue-specific and inducible expression systems show early promise in uncoupling stress protection from growth penalties. Looking ahead, we propose that overcoming the yield-tolerance trade-off will require integrating synthetic biology, explainable AI, systematic exploration of novel variation and field phenomics coupled with digital twin modelling. Collectively, this review provides a strategic framework for engineering next-generation, climate-smart Triticeae cereals capable of maintaining productivity under intensifying drought conditions.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "Triticeae",
+      "drought tolerance",
+      "hormonal crosstalk",
+      "multi-omics",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiong, Jiangyan",
+        "Meng, Rong",
+        "Xu, Yunfeng",
+        "Peng, Yue",
+        "Shen, Qiufang",
+        "Zhang, Xiaoqin",
+        "Xue, Dawei",
+        "Zhang, Guoping"
+      ],
+      "short_names": [
+        "Xiong J",
+        "Meng R",
+        "Xu Y",
+        "Peng Y",
+        "Shen Q",
+        "Zhang X",
+        "Xue D",
+        "Zhang G"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2122-6784",
+        "ORCID: 0000-0002-6438-9786",
+        "ORCID: 0009-0000-8743-2081",
+        "ORCID: 0000-0002-6589-7379",
+        "ORCID: 0000-0001-9904-7615",
+        "ORCID: 0000-0002-9042-2607"
+      ],
+      "affiliations": [
+        "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China.",
+        "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China.",
+        "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China.",
+        "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China.",
+        "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China.",
+        "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China.",
+        "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China.",
+        "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China.",
+        "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiong, Jiangyan",
+        "short_name": "Xiong J",
+        "identifiers": [
+          "0000-0002-2122-6784"
+        ],
+        "affiliations": [
+          "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China.",
+          "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Rong",
+        "short_name": "Meng R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yunfeng",
+        "short_name": "Xu Y",
+        "identifiers": [
+          "0000-0002-6438-9786"
+        ],
+        "affiliations": [
+          "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Yue",
+        "short_name": "Peng Y",
+        "identifiers": [
+          "0009-0000-8743-2081"
+        ],
+        "affiliations": [
+          "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Qiufang",
+        "short_name": "Shen Q",
+        "identifiers": [
+          "0000-0002-6589-7379"
+        ],
+        "affiliations": [
+          "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiaoqin",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Dawei",
+        "short_name": "Xue D",
+        "identifiers": [
+          "0000-0001-9904-7615"
+        ],
+        "affiliations": [
+          "College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Guoping",
+        "short_name": "Zhang G",
+        "identifiers": [
+          "0000-0002-9042-2607"
+        ],
+        "affiliations": [
+          "Department of Agronomy, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Zhejiang University, Hangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant, cell & environment"
+    ],
+    "journal_abbrev": [
+      "Plant Cell Environ"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43053558",
+      "42278532",
+      "42603438",
+      "41470599",
+      "42245112",
+      "42405245",
+      "42440004",
+      "37294468",
+      "42211476",
+      "41011981",
+      "41594895",
+      "41857245",
+      "41220776",
+      "42475469",
+      "42589116",
+      "42689139",
+      "41546796",
+      "42889746",
+      "40612601",
+      "42793303",
+      "42464962",
+      "27499678",
+      "42720682",
+      "40553877",
+      "41073589",
+      "39196449",
+      "43050865",
+      "42152181",
+      "42343960",
+      "42822140",
+      "42730786",
+      "42643124",
+      "42035969",
+      "42690503",
+      "41662977",
+      "40622492",
+      "41009726",
+      "42943125",
+      "41125905",
+      "38622376",
+      "40872081",
+      "40599019",
+      "41376168",
+      "41634205",
+      "43035178",
+      "40979128",
+      "28900432",
+      "35927945",
+      "32987964",
+      "40526281",
+      "41784822",
+      "37810398",
+      "41251810",
+      "42516594",
+      "42609926",
+      "42967025",
+      "40278890",
+      "41459451",
+      "42892737",
+      "41665762",
+      "42469498",
+      "42343958",
+      "42889350",
+      "42898840",
+      "35707615",
+      "41941855",
+      "41219913",
+      "42267128",
+      "42494486",
+      "40062368",
+      "31093800",
+      "41877970",
+      "36968584",
+      "41772117",
+      "41947461",
+      "42075403",
+      "42714646",
+      "42197671",
+      "42572093",
+      "42647201",
+      "42357205",
+      "31235329",
+      "42893623",
+      "42970105",
+      "40941948",
+      "22696006",
+      "41756647",
+      "36170948",
+      "42943184",
+      "42490853",
+      "42371108",
+      "42803406",
+      "41079324",
+      "31665761",
+      "42452230",
+      "42778074",
+      "42074142",
+      "42470247",
+      "35463391",
+      "40325615"
+    ],
+    "review": [
+      "43053558",
+      "42278532",
+      "42603438",
+      "41470599",
+      "42245112",
+      "42405245",
+      "42440004",
+      "37294468",
+      "42211476",
+      "41011981",
+      "41594895",
+      "41857245",
+      "42589116",
+      "42689139",
+      "41546796",
+      "42889746",
+      "40612601",
+      "42793303",
+      "42464962",
+      "42720682",
+      "40553877",
+      "41073589",
+      "39196449",
+      "42152181",
+      "42343960",
+      "42822140",
+      "42730786",
+      "42643124",
+      "42035969",
+      "42690503",
+      "41662977",
+      "40622492",
+      "41009726",
+      "42943125",
+      "41125905",
+      "38622376",
+      "40872081",
+      "40599019",
+      "41376168",
+      "41634205",
+      "43035178",
+      "40979128",
+      "28900432",
+      "35927945",
+      "32987964",
+      "40526281",
+      "37810398",
+      "41251810",
+      "42516594",
+      "42609926",
+      "42967025",
+      "40278890",
+      "41459451",
+      "41665762",
+      "42469498",
+      "42343958",
+      "42889350",
+      "42898840",
+      "35707615",
+      "41219913",
+      "42267128",
+      "40062368",
+      "31093800",
+      "41877970",
+      "36968584",
+      "41947461",
+      "42075403",
+      "42714646",
+      "42197671",
+      "42572093",
+      "42647201",
+      "31235329",
+      "42893623",
+      "40941948",
+      "22696006",
+      "41756647",
+      "42943184",
+      "42490853",
+      "42371108",
+      "42803406",
+      "41079324",
+      "42452230",
+      "42778074",
+      "42074142",
+      "42470247",
+      "35463391",
+      "40325615"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/pce.71063",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

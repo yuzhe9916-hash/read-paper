@@ -1,0 +1,392 @@
+{
+  "identity": {
+    "pmid": "43038995",
+    "doi": "10.1016/j.molcel.2026.10.033",
+    "title": "The NADHX epimerase NAXE governs PARP1-DNA retention to maintain poly(ADP-ribosyl)ation homeostasis."
+  },
+  "content": {
+    "abstract": "PARP1 is a crucial enzyme involved in DNA-damage repair and other biological processes through poly(ADP-ribose) modification (PARylation), but persistent activation can trigger parthanatos. Despite extensive research, the precise mechanisms governing PARP1 activity remain elusive. Here, through multiple CRISPR-Cas9 screens, we identified NAXE, an NADH hydrate (NADHX) epimerase, as a key regulator of PARP1 activity homeostasis. We show that NADHX inhibits PARP1-DNA binding, while NAXE lowers NADHX levels to promote PARP1 recruitment and DNA repair. PARP1 activation, in turn, induces PARylation that binds and inhibits NAXE, forming a negative feedback loop that restrains PARP1 aberrant activation. Notably, knockout of NAXE in mice and C. elegans disrupts PARylation homeostasis, leading to sustained DNA damage and PARP1 activation, ultimately resulting in parthanatos-driven catastrophic neural injury. These findings uncover a metabolite-mediated feedback mechanism that preserves PARylation homeostasis and highlight NAXE as a potential therapeutic target in PARP1-related neurological disorders.",
+    "keywords": [
+      "DNA repair",
+      "NADHX",
+      "NAXE",
+      "PARP inhibitors",
+      "PARP1",
+      "neurodegeneration",
+      "parthanatos",
+      "poly(ADP-ribosyl)ation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xiong, Yundong",
+        "Mao, Zuchao",
+        "Li, Xiaoman",
+        "Ruan, Xiaoyu",
+        "Chen, Kaiyu",
+        "Cui, Yilin",
+        "Li, Shiwei",
+        "Shen, Weiguo",
+        "Nie, Chen",
+        "Wang, Jian",
+        "Zhong, Lijun",
+        "Liang, Ling",
+        "Wang, Jing",
+        "Xu, Xingzhi",
+        "Wang, Weibin",
+        "Zhou, Xiao Albert",
+        "Wang, Jiadong"
+      ],
+      "short_names": [
+        "Xiong Y",
+        "Mao Z",
+        "Li X",
+        "Ruan X",
+        "Chen K",
+        "Cui Y",
+        "Li S",
+        "Shen W",
+        "Nie C",
+        "Wang J",
+        "Zhong L",
+        "Liang L",
+        "Wang J",
+        "Xu X",
+        "Wang W",
+        "Zhou XA",
+        "Wang J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Radiation Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "State Key Laboratory of Natural and Biomimetic Drugs, Department of Chemical Biology, School of Pharmaceutical Sciences, Peking University, Beijing 100191, China.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China.",
+        "Center of Medical and Health Analysis, Peking University Health Science Center, Beijing 100191, China.",
+        "Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing 100191, China.",
+        "State Key Laboratory of Natural and Biomimetic Drugs, Department of Chemical Biology, School of Pharmaceutical Sciences, Peking University, Beijing 100191, China.",
+        "Guangdong Key Laboratory for Genome Stability & Disease Prevention and Carson International Cancer Center, Marshall Laboratory of Biomedical Engineering, Shenzhen University Medical School, Shenzhen 518060, China.",
+        "Department of Radiation Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China. Electronic address: weibinwang@bjmu.edu.cn.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China. Electronic address: xiaozhou@pku.edu.cn.",
+        "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China; Department of Urology, Peking University First Hospital, Beijing 100034, China. Electronic address: wangjd@bjmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xiong, Yundong",
+        "short_name": "Xiong Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Zuchao",
+        "short_name": "Mao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaoman",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Ruan, Xiaoyu",
+        "short_name": "Ruan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Kaiyu",
+        "short_name": "Chen K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Yilin",
+        "short_name": "Cui Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shiwei",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Weiguo",
+        "short_name": "Shen W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural and Biomimetic Drugs, Department of Chemical Biology, School of Pharmaceutical Sciences, Peking University, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Nie, Chen",
+        "short_name": "Nie C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jian",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Zhong, Lijun",
+        "short_name": "Zhong L",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Medical and Health Analysis, Peking University Health Science Center, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Ling",
+        "short_name": "Liang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural and Biomimetic Drugs, Department of Chemical Biology, School of Pharmaceutical Sciences, Peking University, Beijing 100191, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xingzhi",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Key Laboratory for Genome Stability & Disease Prevention and Carson International Cancer Center, Marshall Laboratory of Biomedical Engineering, Shenzhen University Medical School, Shenzhen 518060, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Weibin",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Medicine, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China. Electronic address: weibinwang@bjmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiao Albert",
+        "short_name": "Zhou XA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China. Electronic address: xiaozhou@pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiadong",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Translational Research, Peking University Cancer Hospital, Department of Radiation Medicine, School of Basic Medical Sciences, Peking University International Cancer Institute, Beijing Advanced Center of Cellular Homeostasis and Aging-Related Diseases, Institute of Advanced Clinical Medicine, State Key Laboratory of Molecular Oncology, Peking University Health Science Center, Beijing 100191, China; Department of Urology, Peking University First Hospital, Beijing 100034, China. Electronic address: wangjd@bjmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 23:29",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43038995",
+      "35986334",
+      "30799503",
+      "29968072",
+      "42442281",
+      "37000654",
+      "26170451",
+      "27979751",
+      "33168626",
+      "34094834",
+      "36077699",
+      "28977496",
+      "38393943",
+      "26391948",
+      "27668604",
+      "30733193",
+      "35501985",
+      "31426748",
+      "25950582",
+      "40316740",
+      "39496836",
+      "32111879",
+      "27664469",
+      "40401372",
+      "19703477",
+      "23290998",
+      "35124853",
+      "11385634",
+      "32947956",
+      "32046300",
+      "42830108",
+      "30050067",
+      "31842403",
+      "31782485",
+      "29326071",
+      "30830864",
+      "33649352",
+      "42090288",
+      "33657415",
+      "39684238",
+      "40856521",
+      "37000656",
+      "38328070",
+      "25257171",
+      "30291044",
+      "36243940",
+      "25049175",
+      "36286483",
+      "40744995",
+      "41820988",
+      "22736760",
+      "25460733",
+      "42362853",
+      "36473936",
+      "42883743",
+      "32890402",
+      "27373144",
+      "41385329",
+      "24953096",
+      "27686254",
+      "42413719",
+      "38735540",
+      "41335120",
+      "32789690",
+      "35862693",
+      "33408245",
+      "25017100",
+      "17214964",
+      "38391916",
+      "32383115",
+      "40940725",
+      "41922367",
+      "25940138",
+      "30097858",
+      "37758006",
+      "30684797",
+      "30104678",
+      "38029688",
+      "31616951",
+      "10455009",
+      "30254210",
+      "21985173",
+      "42466612",
+      "31248990",
+      "34066057",
+      "23277454",
+      "17982172",
+      "30940648",
+      "43017785",
+      "33945829",
+      "33061802",
+      "11593040",
+      "31500199",
+      "23045548",
+      "30110632",
+      "41049746",
+      "34095104",
+      "20219917",
+      "38865276",
+      "31395352"
+    ],
+    "review": [
+      "43038995",
+      "30799503",
+      "29968072",
+      "36077699",
+      "35501985",
+      "27664469",
+      "23290998",
+      "11385634",
+      "32046300",
+      "31842403",
+      "31782485",
+      "33657415",
+      "25049175",
+      "25460733",
+      "42883743",
+      "42413719",
+      "25017100",
+      "32383115",
+      "37758006",
+      "30684797",
+      "10455009",
+      "34066057",
+      "43017785",
+      "31500199"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(26)00753-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-556",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

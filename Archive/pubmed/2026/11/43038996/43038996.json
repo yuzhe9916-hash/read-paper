@@ -1,0 +1,389 @@
+{
+  "identity": {
+    "pmid": "43038996",
+    "doi": "10.1016/j.molcel.2026.10.027",
+    "title": "An image-based CRISPR screen reveals RNA processing control of HP1alpha condensates."
+  },
+  "content": {
+    "abstract": "Heterochromatin protein 1alpha (HP1alpha) is a core component of heterochromatin, forming subnuclear condensates whose regulation and function remain poorly understood. Although RNA has been implicated in heterochromatin organization, how RNA influences HP1alpha localization remains unclear. Here, we develop an image-based CRISPR screening platform to systematically identify regulators of HP1alpha condensates and identify RNA processing as a central pathway. Perturbations that disrupt RNA processing increase HP1alpha-RNA interactions and reduce its association with chromatin, leading to loss of silencing. These findings establish RNA processing as a post-transcriptional mechanism that regulates HP1alpha localization and heterochromatin by altering the composition and nuclear distribution of HP1alpha-associated RNAs. More broadly, our work reveals functional crosstalk between RNA processing and chromatin organization, providing a framework for how RNA metabolism can influence nuclear architecture and gene regulation.",
+    "keywords": [
+      "HP1alpha",
+      "RNA",
+      "RNA processing",
+      "biomolecular condensates",
+      "chromatin",
+      "heterochromatin",
+      "intron retention"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wong, Matthew Man-Kin",
+        "Zhou, Shaopu",
+        "Rubio, Linda S",
+        "Priyadarshini, Monika",
+        "Carpenter, Christopher",
+        "Arya, Aishwarya",
+        "Rizvi, Aoon",
+        "Valbuena, Raeline",
+        "Carswell-Crumpton, Catherine",
+        "Wileveau, Amelie",
+        "Lopez, Gabriel L",
+        "Liu, Isabelle",
+        "Tycko, Josh",
+        "Yao, David",
+        "Spees, Kaitlyn",
+        "Maynard, Jason C",
+        "Bassik, Michael C",
+        "Goodarzi, Hani",
+        "Sanulli, Serena"
+      ],
+      "short_names": [
+        "Wong MM",
+        "Zhou S",
+        "Rubio LS",
+        "Priyadarshini M",
+        "Carpenter C",
+        "Arya A",
+        "Rizvi A",
+        "Valbuena R",
+        "Carswell-Crumpton C",
+        "Wileveau A",
+        "Lopez GL",
+        "Liu I",
+        "Tycko J",
+        "Yao D",
+        "Spees K",
+        "Maynard JC",
+        "Bassik MC",
+        "Goodarzi H",
+        "Sanulli S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA; Arc Institute, Palo Alto, CA 94304, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA; Arc Institute, Palo Alto, CA 94304, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA.",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA; Arc Institute, Palo Alto, CA 94304, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA 94305, USA. Electronic address: ssanulli@stanford.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wong, Matthew Man-Kin",
+        "short_name": "Wong MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Shaopu",
+        "short_name": "Zhou S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA; Arc Institute, Palo Alto, CA 94304, USA."
+        ]
+      },
+      {
+        "full_name": "Rubio, Linda S",
+        "short_name": "Rubio LS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Priyadarshini, Monika",
+        "short_name": "Priyadarshini M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Carpenter, Christopher",
+        "short_name": "Carpenter C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA; Arc Institute, Palo Alto, CA 94304, USA."
+        ]
+      },
+      {
+        "full_name": "Arya, Aishwarya",
+        "short_name": "Arya A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Rizvi, Aoon",
+        "short_name": "Rizvi A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Valbuena, Raeline",
+        "short_name": "Valbuena R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Carswell-Crumpton, Catherine",
+        "short_name": "Carswell-Crumpton C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Wileveau, Amélie",
+        "short_name": "Wileveau A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Lopez, Gabriel L",
+        "short_name": "Lopez GL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Isabelle",
+        "short_name": "Liu I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA."
+        ]
+      },
+      {
+        "full_name": "Tycko, Josh",
+        "short_name": "Tycko J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Yao, David",
+        "short_name": "Yao D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Spees, Kaitlyn",
+        "short_name": "Spees K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Maynard, Jason C",
+        "short_name": "Maynard JC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA 94158, USA."
+        ]
+      },
+      {
+        "full_name": "Bassik, Michael C",
+        "short_name": "Bassik MC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Goodarzi, Hani",
+        "short_name": "Goodarzi H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA; Arc Institute, Palo Alto, CA 94304, USA."
+        ]
+      },
+      {
+        "full_name": "Sanulli, Serena",
+        "short_name": "Sanulli S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Stanford University, Stanford, CA 94305, USA. Electronic address: ssanulli@stanford.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 23:29",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43038996",
+      "42232503",
+      "41272271",
+      "38370661",
+      "38664966",
+      "37116579",
+      "19617346",
+      "42808041",
+      "38048471",
+      "26791953",
+      "36537242",
+      "20689044",
+      "40766493",
+      "23645696",
+      "21122806",
+      "40661408",
+      "25047840",
+      "34271007",
+      "30845353",
+      "34087208",
+      "42465301",
+      "39192031",
+      "38900638",
+      "34428454",
+      "24584199",
+      "42926494",
+      "42475469",
+      "39193905",
+      "38812060",
+      "25104354",
+      "25588111",
+      "28636604",
+      "42605572",
+      "17245754",
+      "38076844",
+      "41797541",
+      "40527409",
+      "38973000",
+      "26084584",
+      "42686850",
+      "42039570",
+      "20049717",
+      "12411497",
+      "42850233",
+      "16687578",
+      "21266480",
+      "17891782",
+      "24210919",
+      "25934638",
+      "34106828",
+      "30007360",
+      "36672260",
+      "28404620",
+      "19566924",
+      "20498703",
+      "31799602",
+      "26157143",
+      "42425084",
+      "39383876",
+      "28059589",
+      "42710497",
+      "22763435",
+      "22684280",
+      "22622086",
+      "31152607",
+      "18676401",
+      "34465622",
+      "42252934",
+      "34380923",
+      "24619172",
+      "40000755",
+      "16950245",
+      "41091213",
+      "40163528",
+      "23505487",
+      "26744419",
+      "12414990",
+      "36550219",
+      "25588582",
+      "27514026",
+      "38592759",
+      "21317888",
+      "43027961",
+      "21267468",
+      "20962594",
+      "42871948",
+      "30514760",
+      "27107417",
+      "17654502",
+      "28759035",
+      "35236760",
+      "29467217",
+      "38895997",
+      "34525372",
+      "22388734",
+      "37870432",
+      "42094484",
+      "29166597",
+      "29339721",
+      "30016453"
+    ],
+    "review": [
+      "43038996",
+      "34271007",
+      "25588111",
+      "40527409",
+      "38973000",
+      "41091213",
+      "43027961"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(26)00747-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

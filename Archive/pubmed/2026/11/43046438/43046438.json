@@ -1,0 +1,291 @@
+{
+  "identity": {
+    "pmid": "43046438",
+    "doi": "10.1021/acs.analchem.6c05407",
+    "title": "GLOW-CRISPR: A G-Quadruplex Loop-Engineered Optical Workflow Combined with CRISPR-Cas12a System for SARS-CoV-2 Detection."
+  },
+  "content": {
+    "abstract": "SARS-CoV-2 remains a serious public health threat, highlighting the need for rapid and accessible nucleic-acid diagnostics for decentralized testing. CRISPR-Cas systems are promising platforms for viral diagnostics because of their high specificity and compatibility with isothermal workflows. However, many CRISPR-based assays still rely on labelled reporters, dedicated fluorescence instrumentation, or single-mode outputs that increase cost and limit field deployment. Herein, we developed a label-free GLOW-CRISPR assay (a G-quadruplex loop-engineered optical workflow combined with the CRISPR-Cas12a system) to detect SARS-CoV-2. The assay provides fluorescence and colorimetric readouts in separate endpoint workflows through loop-engineered G4 reporters. Upon recognition of the SARS-CoV-2 target, activated Cas12a cleaves the loop-engineered G4 reporters, thereby suppressing both fluorescence and colorimetric signals. Using optimized conditions, the GLOW-CRISPR assay achieved limits of detection of 7.7 nM and 2.9 nM for fluorescence and colorimetric readouts, respectively. It also showed no detectable cross-reactivity with non-target respiratory viruses and correctly classified patient-derived nasopharyngeal samples in concordance with RT-qPCR results. Collectively, these results establish G4 loop engineering as a general strategy for label-free CRISPR-Cas12a signal transduction without probe labelling or specialized instrumentation. By expanding optical readout flexibility while reducing assay cost and complexity, the GLOW-CRISPR assay provides a practical framework for decentralized molecular diagnostics in resource-limited settings.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "G-quadruplex",
+      "SARS-CoV-2",
+      "loop engineering",
+      "optical biosensor"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "*SARS-CoV-2/isolation & purification/genetics",
+      "*G-Quadruplexes",
+      "Humans",
+      "Colorimetry/methods",
+      "*COVID-19/diagnosis/virology",
+      "CRISPR-Associated Proteins/metabolism",
+      "Rapid Diagnostic Tests",
+      "Endodeoxyribonucleases/metabolism/genetics",
+      "Biosensing Techniques/methods",
+      "Bacterial Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Wenyang",
+        "Lin, Xiaodong",
+        "Li, Xiang",
+        "Pal, Tathagata",
+        "Liu, Benjamin M",
+        "Chen, Juhong"
+      ],
+      "short_names": [
+        "Shi W",
+        "Lin X",
+        "Li X",
+        "Pal T",
+        "Liu BM",
+        "Chen J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0639-0017",
+        "ORCID: 0009-0006-1023-4291",
+        "ORCID: 0000-0002-2473-6974",
+        "ORCID: 0000-0002-6484-2739"
+      ],
+      "affiliations": [
+        "Department of Bioengineering, University of California, Riverside92521, California, United States.",
+        "Department of Bioengineering, University of California, Riverside92521, California, United States.",
+        "Department of Bioengineering, University of California, Riverside92521, California, United States.",
+        "Department of Bioengineering, University of California, Riverside92521, California, United States.",
+        "Department of Microbiology, Immunology & Tropical Medicine, School of Medicine and Health Sciences, George Washington University, Washington20037, District of Columbia, United States.",
+        "The District of Columbia Center for AIDS Research, Washington20052, District of Columbia, United States.",
+        "Department of Bioengineering, University of California, Riverside92521, California, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Wenyang",
+        "short_name": "Shi W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, University of California, Riverside92521, California, United States."
+        ]
+      },
+      {
+        "full_name": "Lin, Xiaodong",
+        "short_name": "Lin X",
+        "identifiers": [
+          "0000-0002-0639-0017"
+        ],
+        "affiliations": [
+          "Department of Bioengineering, University of California, Riverside92521, California, United States."
+        ]
+      },
+      {
+        "full_name": "Li, Xiang",
+        "short_name": "Li X",
+        "identifiers": [
+          "0009-0006-1023-4291"
+        ],
+        "affiliations": [
+          "Department of Bioengineering, University of California, Riverside92521, California, United States."
+        ]
+      },
+      {
+        "full_name": "Pal, Tathagata",
+        "short_name": "Pal T",
+        "identifiers": [
+          "0000-0002-2473-6974"
+        ],
+        "affiliations": [
+          "Department of Bioengineering, University of California, Riverside92521, California, United States."
+        ]
+      },
+      {
+        "full_name": "Liu, Benjamin M",
+        "short_name": "Liu BM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Immunology & Tropical Medicine, School of Medicine and Health Sciences, George Washington University, Washington20037, District of Columbia, United States.",
+          "The District of Columbia Center for AIDS Research, Washington20052, District of Columbia, United States."
+        ]
+      },
+      {
+        "full_name": "Chen, Juhong",
+        "short_name": "Chen J",
+        "identifiers": [
+          "0000-0002-6484-2739"
+        ],
+        "affiliations": [
+          "Department of Bioengineering, University of California, Riverside92521, California, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 05:33",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43046438",
+      "42399104",
+      "38772660",
+      "40499384",
+      "38852348",
+      "40076433",
+      "40122420",
+      "42330669",
+      "40195165",
+      "39158842",
+      "40974621",
+      "41161233",
+      "42677878",
+      "38653014",
+      "40151930",
+      "33570401",
+      "42543449",
+      "41275813",
+      "42229658",
+      "42715083",
+      "38740457",
+      "42772154",
+      "39283984",
+      "39951690",
+      "41202787",
+      "39724854",
+      "37148798",
+      "41207276",
+      "42263201",
+      "38860917",
+      "41292075",
+      "40704803",
+      "35049639",
+      "33645226",
+      "39746849",
+      "42474386",
+      "40179699",
+      "33539846",
+      "39770154",
+      "33586431",
+      "37722405",
+      "34787487",
+      "38319081",
+      "42161120",
+      "38350240",
+      "41885207",
+      "39361061",
+      "42485003",
+      "42571623",
+      "42184674",
+      "38838573",
+      "33683104",
+      "40277382",
+      "38924982",
+      "42328982",
+      "42628890",
+      "34562891",
+      "41451985",
+      "41242144",
+      "33098427",
+      "33497879",
+      "40277544",
+      "41039127",
+      "34937346",
+      "41271253",
+      "38717230",
+      "41383046",
+      "39011640",
+      "32999292",
+      "37159023",
+      "32979593",
+      "40318489",
+      "40599263",
+      "40525624",
+      "43003575",
+      "42720869",
+      "42296510",
+      "33238709",
+      "40580991",
+      "43010390",
+      "40829362",
+      "40402429",
+      "38783743",
+      "36088673",
+      "39832863",
+      "42247945",
+      "34075364",
+      "40763823",
+      "39721016",
+      "35396760",
+      "38866727",
+      "41661055",
+      "33540323",
+      "40157150",
+      "41054568",
+      "35367933",
+      "38758706",
+      "35481381",
+      "35127671",
+      "32822689"
+    ],
+    "review": [
+      "43046438",
+      "42772154",
+      "33497879",
+      "40829362"
+    ],
+    "pmc": [
+      "13782756"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COVID-19 (Coronavirus Disease 2019)"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43046438/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c05407",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

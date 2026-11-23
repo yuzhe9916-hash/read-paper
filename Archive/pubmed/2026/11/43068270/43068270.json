@@ -1,0 +1,360 @@
+{
+  "identity": {
+    "pmid": "43068270",
+    "doi": "10.1016/j.engmic.2026.100309",
+    "title": "CRISPR-Cas gene regulation in mycobacteria: From single-gene targeting to dynamic network rewiring."
+  },
+  "content": {
+    "abstract": "Mycobacteria represent both clinically important pathogens and valuable microbial chassis, creating a demand for precise and scalable gene-regulatory technologies. However, conventional genetic approaches suffer from inefficient recombination, lengthy strain construction, and restricted capacity for multiplex manipulation. The application of diverse CRISPR-Cas systems in mycobacterial genetics has substantially expanded the genetic toolbox available for these organisms, enabling programmable genome editing and transcriptional regulation. Among these platforms, Cas9-based systems have facilitated essential-gene interrogation and resistance-associated genetic screens; however, their broader application is constrained by protospacer adjacent motif (PAM) dependence, DNA-break-associated toxicity, and limited multiplex capability. Cas12-family effectors, characterized by their distinct PAM preferences, compact architectures, and intrinsic CRISPR RNA (crRNA) processing capacity, provide alternative strategies for expanding target accessibility and regulatory scalability. Here, we critically review the development of CRISPR-based regulatory platforms in mycobacteria, focusing on the transition from the Cas9-centered single-gene manipulation toward the Cas12-enabled multiplex and network-level regulation. We discuss emerging miniature effectors and dynamic regulatory modules that may overcome current limitations in target coverage, temporal control, and host compatibility. Finally, we highlight key engineering challenges and future directions toward programmable regulatory systems integrating protein engineering, synthetic biology, and spatiotemporal control, with potential applications in tuberculosis research and mycobacterial metabolic engineering.",
+    "keywords": [
+      "CRISPR-Cas systems",
+      "CRISPRa/CRISPRi",
+      "Drug targets",
+      "Metabolic engineering",
+      "Multiplexed genome perturbation",
+      "Mycobacteria",
+      "Transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wei, Wenping",
+        "Wei, Hongbo",
+        "He, Mingxia",
+        "Liu, Liping",
+        "Xu, Li",
+        "Xie, Xiaoman",
+        "Yan, Jinyong",
+        "Yan, Yunjun",
+        "Gao, Chun-Hui",
+        "Yang, Min"
+      ],
+      "short_names": [
+        "Wei W",
+        "Wei H",
+        "He M",
+        "Liu L",
+        "Xu L",
+        "Xie X",
+        "Yan J",
+        "Yan Y",
+        "Gao CH",
+        "Yang M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China.",
+        "National Laboratory of Agricultural Microbiology, and College of Resources and Environment, Huazhong Agricultural University, Wuhan 430070, China.",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wei, Wenping",
+        "short_name": "Wei W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Hongbo",
+        "short_name": "Wei H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "He, Mingxia",
+        "short_name": "He M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Liping",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Li",
+        "short_name": "Xu L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Xiaoman",
+        "short_name": "Xie X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Jinyong",
+        "short_name": "Yan J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Yunjun",
+        "short_name": "Yan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Chun-Hui",
+        "short_name": "Gao CH",
+        "identifiers": [],
+        "affiliations": [
+          "National Laboratory of Agricultural Microbiology, and College of Resources and Environment, Huazhong Agricultural University, Wuhan 430070, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Min",
+        "short_name": "Yang M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Molecular Biophysics of the Ministry of Education, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan 430074, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Engineering microbiology"
+    ],
+    "journal_abbrev": [
+      "Eng Microbiol"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/22 05:49",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43068270",
+      "42187710",
+      "40869944",
+      "42475469",
+      "41288355",
+      "42915614",
+      "43055974",
+      "42263803",
+      "42272755",
+      "37192099",
+      "42766154",
+      "42849814",
+      "31341082",
+      "41271362",
+      "42075136",
+      "42096148",
+      "32051236",
+      "27371605",
+      "29958882",
+      "35099553",
+      "42545751",
+      "42551559",
+      "42416743",
+      "27371591",
+      "37500408",
+      "35543560",
+      "36964659",
+      "41329461",
+      "32973356",
+      "42465601",
+      "42466324",
+      "40763823",
+      "42423795",
+      "43044679",
+      "41952451",
+      "42879020",
+      "29530750",
+      "29917318",
+      "42173386",
+      "39684395",
+      "26670017",
+      "39227830",
+      "42000334",
+      "36017348",
+      "33285226",
+      "42136289",
+      "31665284",
+      "42567105",
+      "42888353",
+      "41488985",
+      "40806599",
+      "42771304",
+      "32843348",
+      "30155473",
+      "35561628",
+      "41840308",
+      "33685602",
+      "29862665",
+      "33397707",
+      "32284320",
+      "40401794",
+      "41783155",
+      "42853350",
+      "32883277",
+      "37797813",
+      "32152313",
+      "29019352",
+      "28985502",
+      "42586245",
+      "42176206",
+      "29197619",
+      "42792750",
+      "43003971",
+      "39119666",
+      "34261850",
+      "33585286",
+      "42439519",
+      "29980561",
+      "41585947",
+      "41510162",
+      "27566508",
+      "37097160",
+      "24480743",
+      "37267210",
+      "42559426",
+      "32913902",
+      "24389925",
+      "38859956",
+      "33185860",
+      "25122746",
+      "31243081",
+      "40794863",
+      "40121075",
+      "38441767",
+      "37722240",
+      "43045378",
+      "29145843",
+      "34773154",
+      "32695770",
+      "37282821"
+    ],
+    "review": [
+      "43068270",
+      "42187710",
+      "40869944",
+      "42915614",
+      "42263803",
+      "42272755",
+      "37192099",
+      "42766154",
+      "42849814",
+      "41271362",
+      "42075136",
+      "29958882",
+      "35099553",
+      "42545751",
+      "42551559",
+      "42416743",
+      "37500408",
+      "36964659",
+      "41329461",
+      "32973356",
+      "42465601",
+      "40763823",
+      "42423795",
+      "43044679",
+      "41952451",
+      "29917318",
+      "42173386",
+      "39684395",
+      "26670017",
+      "42000334",
+      "33285226",
+      "31665284",
+      "42567105",
+      "42888353",
+      "41488985",
+      "40806599",
+      "42771304",
+      "30155473",
+      "35561628",
+      "41840308",
+      "29862665",
+      "40401794",
+      "41783155",
+      "42853350",
+      "32883277",
+      "37797813",
+      "32152313",
+      "28985502",
+      "42586245",
+      "42176206",
+      "29197619",
+      "42792750",
+      "39119666",
+      "34261850",
+      "33585286",
+      "41585947",
+      "41510162",
+      "27566508",
+      "24480743",
+      "24389925",
+      "38859956",
+      "33185860",
+      "38441767",
+      "37722240",
+      "43045378",
+      "32695770"
+    ],
+    "pmc": [
+      "13788774"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2667-3703(26)00049-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

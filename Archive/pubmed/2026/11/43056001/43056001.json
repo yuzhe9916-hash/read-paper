@@ -1,0 +1,253 @@
+{
+  "identity": {
+    "pmid": "43056001",
+    "doi": "10.1007/s11248-026-00525-5",
+    "title": "CRISPR/Cas9-based Targeting of MicroRNA and Protein-Coding Homologs (MIR160, MIR167, and CAMTA3) from B. juncea: Targetability assessment of sgRNAs and MIR160 functional studies in heterologous system of A. thaliana."
+  },
+  "content": {
+    "abstract": "CRISPR/Cas9-based genome editing is a powerful tool for functional genomics in crops. However, targeting specific gene locus is challenging in polyploid B. juncea harbouring multiple gene homologs. Design of sgRNAs necessitates careful consideration for achieving target specificity while reducing off-targets. Herein, we present a systematic workflow that combines in-silico sgRNA prediction with in-vitro cleavage assays to pre-screen guide RNAs specific to B. juncea homologs. The guides targeting conserved regions of MIR160 were functionally validated in heterologous system of A. thaliana. Computationally predicted sgRNAs were in-vitro tested in non-coding MIR160 (14 copies), MIR167 (15 copies), and protein coding genes viz. CAMTA3 to demonstrate applicability in CRISPR/Cas9-based editing and transcriptional regulation experiments. Analysis of cleavage assays confirmed that both number and positional distribution of mismatches in the PAM proximal seed region affect Cas9 activity. In MIR160 and MIR167, several sgRNAs showed in-vitro cleavage activity across multiple homologs, suggesting suitability for multiplexed editing of homologous genes. Although, deactivated Cas9 is employed in CRISPR activation/ interference experiments, targetability of sgRNAs specific to CAMTA3 could be validated via in-vitro targetability assays containing active Cas9 instead of dCas9. Based on cleavage assays, polycistronic assembly of a minimum of 8, and, 5 sgRNAs is recommended for editing of 14 and 15 homologs of MIR160 and MIR167, respectively, in B. juncea. Varying the order of multiplexed sgRNAs is proposed as a strategy to achieve selective or redundant editing. Combinations of guides are proposed for achieving in-vivo excision of ~58 nt fragment from MIR160 precursor sequences. Targetability of 3 guides has been validated for both editing and transcriptional regulation of CAMTA3. In-vivo validation of sg160_1, designed to simultaneously target 13 MIR160 homologs in B. juncea, was confirmed by mutation spectrum analysis of CRISPR-edited A. thaliana. The Ath-MIR160b locus showed editing (T1 and T2 generations) corresponding to moderate to severe developmental defects. To conclude, we propose an integrated CRISPR/Cas9-based work-flow for selective as well as redundant editing of homologous gene copies in polyploid B. juncea, thereby facilitating deployment of CRISPR/Cas9 strategies for Brassica crop improvement.",
+    "keywords": [
+      "B. juncea",
+      "CAMTA3",
+      "MIR160",
+      "MIR167",
+      "CRISPR/Cas9",
+      "CRISPRa. CRISPRi"
+    ],
+    "mesh_terms": [
+      "*MicroRNAs/genetics",
+      "*CRISPR-Cas Systems/genetics",
+      "Base Sequence",
+      "RNA, Guide, CRISPR-Cas Systems/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chattopadhyay, Swetannita",
+        "Yadav, Shobha",
+        "Singh, Swati",
+        "Singh, Anandita"
+      ],
+      "short_names": [
+        "Chattopadhyay S",
+        "Yadav S",
+        "Singh S",
+        "Singh A"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-6514-5787",
+        "ORCID: 0009-0003-9784-5244",
+        "ORCID: 0000-0002-5316-360X",
+        "ORCID: 0000-0002-4568-7331"
+      ],
+      "affiliations": [
+        "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India.",
+        "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India.",
+        "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India.",
+        "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India. asingh@terisas.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chattopadhyay, Swetannita",
+        "short_name": "Chattopadhyay S",
+        "identifiers": [
+          "0009-0007-6514-5787"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India."
+        ]
+      },
+      {
+        "full_name": "Yadav, Shobha",
+        "short_name": "Yadav S",
+        "identifiers": [
+          "0009-0003-9784-5244"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Swati",
+        "short_name": "Singh S",
+        "identifiers": [
+          "0000-0002-5316-360X"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Anandita",
+        "short_name": "Singh A",
+        "identifiers": [
+          "0000-0002-4568-7331"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, TERI School of Advanced Studies, 10 Institutional Area, Vasant Kunj, New Delhi, 110070, India. asingh@terisas.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Transgenic research"
+    ],
+    "journal_abbrev": [
+      "Transgenic Res"
+    ],
+    "pub_date": "2026 Nov 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 17:33",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43056001",
+      "41051673",
+      "37874448",
+      "31494246",
+      "26891616",
+      "34055482",
+      "39816115",
+      "30485088",
+      "34208669",
+      "26813419",
+      "38864609",
+      "32327447",
+      "38886809",
+      "41361700",
+      "27210042",
+      "35524183",
+      "29450416",
+      "39510079",
+      "33759354",
+      "29331077",
+      "30699341",
+      "33231685",
+      "29219081",
+      "28341547",
+      "32051236",
+      "29476306",
+      "39626969",
+      "33484202",
+      "35700449",
+      "31821359",
+      "28724960",
+      "31971562",
+      "31480315",
+      "40676395",
+      "35157300",
+      "29019352",
+      "31060546",
+      "30894153",
+      "35950852",
+      "33960379",
+      "42800597",
+      "35236300",
+      "26924382",
+      "38426328",
+      "39579214",
+      "29625203",
+      "35168613",
+      "32926385",
+      "40840103",
+      "28049122",
+      "30021719",
+      "28851809",
+      "33797713",
+      "35436106",
+      "29267886",
+      "26322839",
+      "40019805",
+      "28790350",
+      "30043367",
+      "28918562",
+      "30610629",
+      "38974867",
+      "30871076",
+      "25917172",
+      "32527526",
+      "42310064",
+      "27098585",
+      "33175375",
+      "35543560",
+      "33428725",
+      "29973285",
+      "28663331",
+      "29226588",
+      "30610637",
+      "25733849",
+      "41508607",
+      "31373227",
+      "42010707",
+      "27371591",
+      "41877594",
+      "41013219",
+      "34544395",
+      "26747759",
+      "31073154",
+      "33482173",
+      "42391025",
+      "27698246",
+      "31754336",
+      "35165339",
+      "39380278",
+      "24838573",
+      "33180293",
+      "31492858",
+      "40551141",
+      "30912044",
+      "42758354",
+      "32053108",
+      "23956122",
+      "32426802",
+      "35217295"
+    ],
+    "review": [
+      "43056001",
+      "27210042",
+      "33428725",
+      "27698246",
+      "42758354"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11248-026-00525-5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-NT5E-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

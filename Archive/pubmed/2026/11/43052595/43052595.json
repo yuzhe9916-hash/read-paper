@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "43052595",
+    "doi": "10.1007/s11274-026-05403-0",
+    "title": "Genomic characterization of Pediococcus acidilactici AB01 isolated from Algerian Targui camel milk: insights into safety, probiotic-associated traits, and functional potential."
+  },
+  "content": {
+    "abstract": "Pediococcus acidilactici displays substantial strain-level variation, requiring genome-resolved evaluation of new food-associated isolates. This study characterized P. acidilactici AB01, isolated from raw milk of Algerian Targui camels, and used previously generated in vitro observations only to contextualize genomic predictions. Illumina sequencing yielded a 2,117,438-bp draft genome with 42.0% GC content, 36 contigs, and an N50 of 389,234 bp. BUSCO recovered 99.2% complete markers, whereas CheckM estimated 98.23% completeness and 2.43% contamination. ANIb values calculated with IPGA were 99.01% and 98.71% relative to the P. acidilactici type-strain deposits DSM 20,284(T) and JCM 8797(T), respectively; dDDH values of 91.2% supported species assignment. ResFinder detected no known acquired antimicrobial-resistance genes, and no virulence-factor match satisfied the predefined identity and reference-coverage criteria. CARD-RGI additionally identified three distant Strict homolog matches (sdrM-like, qacG-like, and alr/vanT-like), which were examined according to their sequence characteristics and genomic contexts. Functional annotation identified candidate genetic determinants potentially associated with stress responses, carbohydrate metabolism, and cell-surface interactions, together with a predicted Type II-A CRISPR-Cas locus containing 29 spacers with putative viral matches. Comparative analysis of 85 P. acidilactici genomes identified an open pan-genome comprising 5,485 clusters (Heaps-law gamma = 0.266). Seventy-seven candidate clusters occurred only in AB01 within this dataset, of which 67 remained after excluding clusters containing partial coding-sequence annotations. Overall, these findings highlight the genomic diversity of P. acidilactici and identify AB01 as a promising candidate requiring further in-depth experimental evaluation before its safety and probiotic, biopreservative, or functional potential can be established.",
+    "keywords": [
+      "Pediococcus acidilactici",
+      "Camel milk",
+      "Genomic safety",
+      "Pan-genome analysis",
+      "Probiotic-associated traits",
+      "Whole-genome sequencing"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Camelus/microbiology",
+      "*Pediococcus acidilactici/genetics/isolation & purification/classification",
+      "*Milk/microbiology",
+      "*Probiotics",
+      "*Genome, Bacterial/genetics",
+      "Algeria",
+      "Phylogeny",
+      "Base Composition",
+      "Genomics",
+      "Sequence Analysis, DNA"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Belbeldi, Abdessalem",
+        "Belaouni, Hadj Ahmed",
+        "Amokrane, Serine",
+        "Mahrouk, Abdelkader",
+        "Amorim-Neto, Dionisio Pedro",
+        "Sant'Ana, Anderson S",
+        "Boughellout, Halima"
+      ],
+      "short_names": [
+        "Belbeldi A",
+        "Belaouni HA",
+        "Amokrane S",
+        "Mahrouk A",
+        "Amorim-Neto DP",
+        "Sant'Ana AS",
+        "Boughellout H"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5334-8826",
+        "ORCID: 0000-0002-5907-2047",
+        "ORCID: 0000-0003-3325-7390",
+        "ORCID: 0000-0003-1368-7932",
+        "ORCID: 0000-0001-6763-273X",
+        "ORCID: 0000-0001-5052-2315",
+        "ORCID: 0000-0002-1240-2133"
+      ],
+      "affiliations": [
+        "Biotechnology Research Center (C.R.Bt), Ali Mendjli Nouvelle Ville UV 03, BP E73, Constantine, 25000, Algeria. a.belbeldi@crbt.dz.",
+        "Laboratory of Agro-Food Engineering (GENI.A.A.L), Institute of Nutrition, Food and Agro- Food Technologies (INATAA), University of Constantine, 1 Freres Mentouri (UC1FM), 7th kilometre, Setif Road, Constantine, 25000, Algeria. a.belbeldi@crbt.dz.",
+        "Agri-Food and Biosciences Institute, Belfast, Northern Ireland, United Kingdom.",
+        "Biotechnology Research Center (C.R.Bt), Ali Mendjli Nouvelle Ville UV 03, BP E73, Constantine, 25000, Algeria.",
+        "Biotechnology Research Center (C.R.Bt), Ali Mendjli Nouvelle Ville UV 03, BP E73, Constantine, 25000, Algeria.",
+        "Department of Food Science and Nutrition, Faculty of Food Engineering, University of Campinas, Sao Paulo, Brazil.",
+        "Department of Food Science and Nutrition, Faculty of Food Engineering, University of Campinas, Sao Paulo, Brazil.",
+        "Laboratory of Agro-Food Engineering (GENI.A.A.L), Institute of Nutrition, Food and Agro- Food Technologies (INATAA), University of Constantine, 1 Freres Mentouri (UC1FM), 7th kilometre, Setif Road, Constantine, 25000, Algeria."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Belbeldi, Abdessalem",
+        "short_name": "Belbeldi A",
+        "identifiers": [
+          "0000-0001-5334-8826"
+        ],
+        "affiliations": [
+          "Biotechnology Research Center (C.R.Bt), Ali Mendjli Nouvelle Ville UV 03, BP E73, Constantine, 25000, Algeria. a.belbeldi@crbt.dz.",
+          "Laboratory of Agro-Food Engineering (GENI.A.A.L), Institute of Nutrition, Food and Agro- Food Technologies (INATAA), University of Constantine, 1 Frères Mentouri (UC1FM), 7th kilometre, Setif Road, Constantine, 25000, Algeria. a.belbeldi@crbt.dz."
+        ]
+      },
+      {
+        "full_name": "Belaouni, Hadj Ahmed",
+        "short_name": "Belaouni HA",
+        "identifiers": [
+          "0000-0002-5907-2047"
+        ],
+        "affiliations": [
+          "Agri-Food and Biosciences Institute, Belfast, Northern Ireland, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Amokrane, Serine",
+        "short_name": "Amokrane S",
+        "identifiers": [
+          "0000-0003-3325-7390"
+        ],
+        "affiliations": [
+          "Biotechnology Research Center (C.R.Bt), Ali Mendjli Nouvelle Ville UV 03, BP E73, Constantine, 25000, Algeria."
+        ]
+      },
+      {
+        "full_name": "Mahrouk, Abdelkader",
+        "short_name": "Mahrouk A",
+        "identifiers": [
+          "0000-0003-1368-7932"
+        ],
+        "affiliations": [
+          "Biotechnology Research Center (C.R.Bt), Ali Mendjli Nouvelle Ville UV 03, BP E73, Constantine, 25000, Algeria."
+        ]
+      },
+      {
+        "full_name": "Amorim-Neto, Dionísio Pedro",
+        "short_name": "Amorim-Neto DP",
+        "identifiers": [
+          "0000-0001-6763-273X"
+        ],
+        "affiliations": [
+          "Department of Food Science and Nutrition, Faculty of Food Engineering, University of Campinas, São Paulo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Sant'Ana, Anderson S",
+        "short_name": "Sant'Ana AS",
+        "identifiers": [
+          "0000-0001-5052-2315"
+        ],
+        "affiliations": [
+          "Department of Food Science and Nutrition, Faculty of Food Engineering, University of Campinas, São Paulo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Boughellout, Halima",
+        "short_name": "Boughellout H",
+        "identifiers": [
+          "0000-0002-1240-2133"
+        ],
+        "affiliations": [
+          "Laboratory of Agro-Food Engineering (GENI.A.A.L), Institute of Nutrition, Food and Agro- Food Technologies (INATAA), University of Constantine, 1 Frères Mentouri (UC1FM), 7th kilometre, Setif Road, Constantine, 25000, Algeria."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "World journal of microbiology & biotechnology"
+    ],
+    "journal_abbrev": [
+      "World J Microbiol Biotechnol"
+    ],
+    "pub_date": "2026 Nov 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052595",
+      "40774991",
+      "42366830",
+      "42439591",
+      "42893213",
+      "42153625",
+      "39971970",
+      "42897378",
+      "33990913",
+      "40715750",
+      "41245895",
+      "42450263",
+      "42459333",
+      "33375492",
+      "39976902",
+      "31392538",
+      "42730959",
+      "37953343",
+      "38682181",
+      "39724288",
+      "42621859",
+      "42326405",
+      "38748306",
+      "42850803",
+      "36430971",
+      "42527688",
+      "39915700",
+      "34984631",
+      "41026744",
+      "39026396",
+      "38664612",
+      "37256049",
+      "41777544",
+      "40743876",
+      "42389180",
+      "42664623",
+      "28043774",
+      "41735829",
+      "38733462",
+      "41957702",
+      "39023249",
+      "28256390",
+      "40923755",
+      "41787300",
+      "42680925",
+      "42486829",
+      "40024538",
+      "38750775",
+      "42426607",
+      "34668141",
+      "42941958",
+      "39596588",
+      "42801401",
+      "42662169",
+      "39494274",
+      "36443433",
+      "39967154",
+      "42826648",
+      "42475469",
+      "42068436",
+      "42495130",
+      "34175337",
+      "43015619",
+      "41254537",
+      "36704546",
+      "42920424",
+      "38139398",
+      "42385274",
+      "41291419",
+      "42154040",
+      "38638895",
+      "41935154",
+      "42776301",
+      "38526097",
+      "39812647",
+      "42792903",
+      "37969339",
+      "38494884",
+      "43040481",
+      "42720873",
+      "42291328",
+      "42861019",
+      "32886694",
+      "40918487",
+      "41120829",
+      "41191059",
+      "42353668",
+      "42975587",
+      "39391606",
+      "39633035",
+      "42309578",
+      "37171680",
+      "34347520",
+      "34310635",
+      "41647479",
+      "42990637",
+      "41116595",
+      "36967406",
+      "42449221",
+      "35819693"
+    ],
+    "review": [
+      "43052595"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s11274-026-05403-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-978",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

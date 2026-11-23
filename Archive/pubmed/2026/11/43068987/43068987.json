@@ -1,0 +1,333 @@
+{
+  "identity": {
+    "pmid": "43068987",
+    "doi": "10.1002/advs.78888",
+    "title": "A High-Efficiency In Vivo Continuous Evolution Platform for Antiviral Peptides Engineering."
+  },
+  "content": {
+    "abstract": "Saccharomyces cerevisiae is an ideal host for protein evolution, but the low efficiency of CRISPR-guided EvolvR systems has limited targeted continuous mutagenesis in yeast. Here, we developed an enhanced yeast EvolvR platform, eyEvolvR, by combining local recruitment of an error-prone DNA polymerase, suppression of mismatch repair, and multiplex sgRNA co-targeting. These synergistic optimizations increased the on-target mutation rate by up to  approximately 500-fold relative to the original yeast EvolvR system. To demonstrate its utility, we applied eyEvolvR to the continuous evolution of the antiviral peptide LCB1 against the SARS-CoV-2 Omicron EG.5 variant. Iterative rounds of mutagenesis and selection generated LCB1 variants with substantially improved binding to the EG.5 receptor-binding domain. A multivalent construct based on the top evolved variant potently neutralized both EG.5 and JN.1 pseudoviruses. These results establish eyEvolvR as an efficient platform for continuous in vivo protein evolution in yeast.",
+    "keywords": [
+      "CRISPR-directed evolution",
+      "in vivo continuous evolution",
+      "protein engineering",
+      "synthetic biology",
+      "yeast"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hou, Yu",
+        "Deng, Liangying",
+        "Deng, Jianliang",
+        "Zhang, Youcheng",
+        "Gao, Huacong",
+        "Zheng, Tianyao",
+        "He, Yujie",
+        "Gong, Rui",
+        "Wang, Dianbing",
+        "Lan, Jinggang",
+        "Chen, Minghai",
+        "Zhang, Xian-En"
+      ],
+      "short_names": [
+        "Hou Y",
+        "Deng L",
+        "Deng J",
+        "Zhang Y",
+        "Gao H",
+        "Zheng T",
+        "He Y",
+        "Gong R",
+        "Wang D",
+        "Lan J",
+        "Chen M",
+        "Zhang XE"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-7491-8622",
+        "ORCID: 0009-0000-3863-8550",
+        "ORCID: 0000-0001-6353-2539",
+        "ORCID: 0000-0003-1784-3832",
+        "ORCID: 0000-0003-1347-3168"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "School of Life Sciences, Hubei University, Wuhan, China.",
+        "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China.",
+        "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China.",
+        "Institute of Synthetic Biomedicine and Advanced Therapeutics, Shenzhen University of Advanced Technology, Shenzhen, China.",
+        "National Laboratory of Biomacromolecules, Key Laboratory of Biomacromolecules (CAS), Institute of Biophysics, Chinese Academy of Sciences, Beijing, China.",
+        "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China.",
+        "National Laboratory of Biomacromolecules, Key Laboratory of Biomacromolecules (CAS), Institute of Biophysics, Chinese Academy of Sciences, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hou, Yu",
+        "short_name": "Hou Y",
+        "identifiers": [
+          "0009-0007-7491-8622"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Liangying",
+        "short_name": "Deng L",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Jianliang",
+        "short_name": "Deng J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Youcheng",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Huacong",
+        "short_name": "Gao H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Hubei University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Tianyao",
+        "short_name": "Zheng T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "He, Yujie",
+        "short_name": "He Y",
+        "identifiers": [
+          "0009-0000-3863-8550"
+        ],
+        "affiliations": [
+          "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Rui",
+        "short_name": "Gong R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Synthetic Biomedicine and Advanced Therapeutics, Shenzhen University of Advanced Technology, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dianbing",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "National Laboratory of Biomacromolecules, Key Laboratory of Biomacromolecules (CAS), Institute of Biophysics, Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Lan, Jinggang",
+        "short_name": "Lan J",
+        "identifiers": [
+          "0000-0001-6353-2539"
+        ],
+        "affiliations": [
+          "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Minghai",
+        "short_name": "Chen M",
+        "identifiers": [
+          "0000-0003-1784-3832"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+          "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xian-En",
+        "short_name": "Zhang XE",
+        "identifiers": [
+          "0000-0003-1347-3168"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+          "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen, China.",
+          "National Laboratory of Biomacromolecules, Key Laboratory of Biomacromolecules (CAS), Institute of Biophysics, Chinese Academy of Sciences, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Nov 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/22 23:30",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43068987",
+      "32485105",
+      "40145755",
+      "37486342",
+      "32899502",
+      "40253348",
+      "38257736",
+      "34033342",
+      "42112831",
+      "42888422",
+      "29062964",
+      "40985613",
+      "32006629",
+      "38254175",
+      "34107026",
+      "37486333",
+      "34040114",
+      "42843617",
+      "40643983",
+      "33093202",
+      "40901470",
+      "36304946",
+      "35352941",
+      "41288355",
+      "37873982",
+      "39012160",
+      "24487693",
+      "32551581",
+      "37471041",
+      "25139909",
+      "42621778",
+      "33707425",
+      "30069054",
+      "29969238",
+      "36575525",
+      "39700484",
+      "42856124",
+      "34713215",
+      "37443393",
+      "40345898",
+      "27748457",
+      "42475469",
+      "39122620",
+      "35781198",
+      "36366559",
+      "42612041",
+      "43061973",
+      "42189993",
+      "40895570",
+      "35682988",
+      "38556082",
+      "42929732",
+      "39339934",
+      "33549837",
+      "42914790",
+      "35592598",
+      "41518958",
+      "33467049",
+      "35972290",
+      "42142336",
+      "30076552",
+      "37869628",
+      "42273291",
+      "26757179",
+      "41345880",
+      "40599320",
+      "40773556",
+      "15159406",
+      "42915614",
+      "34522785",
+      "38746414",
+      "30075075",
+      "40967184",
+      "41962641",
+      "41757133",
+      "30427676",
+      "25398354",
+      "39988790",
+      "22210206",
+      "36761163",
+      "24758359",
+      "40817788",
+      "27185399",
+      "37343929",
+      "27997117",
+      "30254120",
+      "40301887",
+      "42942086",
+      "35489692",
+      "38340726",
+      "23470991",
+      "33645919",
+      "39745216",
+      "42153634",
+      "39520579",
+      "40386441",
+      "25759096",
+      "42589407",
+      "38933534",
+      "30415839"
+    ],
+    "review": [
+      "43068987",
+      "29062964",
+      "36575525",
+      "33467049",
+      "42915614",
+      "34522785",
+      "41962641",
+      "42153634"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

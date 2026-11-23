@@ -1,0 +1,350 @@
+{
+  "identity": {
+    "pmid": "43052700",
+    "doi": "10.1111/tpj.71198",
+    "title": "Optimized methodology for CRISPR-Cas9-mediated gene knockout in tetraploid potato: targeting StBEL5 as a case study."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 has emerged as a powerful tool for targeted genome editing in plants; however, its application in cultivated potato Solanum tuberosum ssp. tuberosum remains challenging due to its vegetative propagation and complex highly heterozygous tetraploid genome. Availability of whole-genome sequence data for the specific genotype is crucial to ensure complete knockout of all alleles of target genes while minimizing off-target mutations. In this study, using Agrobacterium-mediated transformation of cultivar Desiree, we established a methodology to achieve complete CRISPR-Cas9-mediated gene knockout. We show that repeated de novo regeneration could improve editing efficiency by promoting emergence of new mutations. We also present effective strategies for detecting mutations in target genes that may lack clear phenotypic manifestations, applicable to polyploid and potentially mosaic material, and possibly transferable to other crops. Demonstrated through our case study on StBEL5 gene, we propose an optimized, step-by-step methodological guide covering the entire workflow. In addition, we provide a basic phenotypic characterization of S. tuberosum ssp. tuberosum cv. Desiree plants with complete knockout of the StBEL5 gene. StBEL5 is a transcription factor known as one of the key regulators driving tuber formation in S. tuberosum ssp. andigena. Under tested conditions, our mutants unexpectedly showed only slightly delayed onset of tuberization, but their overall tuber yields were comparable to those of wild-type plants. This indicates that in ssp. tuberosum (cv. Desiree), the StBEL5 role in regulating tuber development is less significant than in ssp. andigena.",
+    "keywords": [
+      "Agrobacterium transformation",
+      "BEL1-like",
+      "CAPS analysis",
+      "Sanger and Nanopore sequencing",
+      "Solanum tuberosum ssp. tuberosum",
+      "cultivated potato",
+      "gene editing efficiency",
+      "mosaicism",
+      "step-by-step protocol",
+      "tuber formation timing"
+    ],
+    "mesh_terms": [
+      "*Solanum tuberosum/genetics",
+      "*Gene Knockout Techniques/methods",
+      "*CRISPR-Cas Systems/genetics",
+      "Tetraploidy",
+      "*Plant Proteins/genetics/metabolism",
+      "Gene Editing/methods",
+      "Plants, Genetically Modified",
+      "Phenotype",
+      "Genome, Plant/genetics",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zounkova, Andrea",
+        "Chirivi, Daniele",
+        "Pribylova, Adela",
+        "Martignago, Damiano",
+        "Myslivcova, Jitka",
+        "Masek, Tomas",
+        "Fischer, Lukas",
+        "Betti, Camilla",
+        "Fornara, Fabio",
+        "Maskova, Petra"
+      ],
+      "short_names": [
+        "Zounkova A",
+        "Chirivi D",
+        "Pribylova A",
+        "Martignago D",
+        "Myslivcova J",
+        "Masek T",
+        "Fischer L",
+        "Betti C",
+        "Fornara F",
+        "Maskova P"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-4475-0880",
+        "ORCID: 0000-0002-6559-7851",
+        "ORCID: 0000-0001-8675-5065",
+        "ORCID: 0000-0002-6207-0974",
+        "ORCID: 0000-0001-8732-0565",
+        "ORCID: 0000-0003-1852-0461",
+        "ORCID: 0000-0003-3522-6440",
+        "ORCID: 0000-0002-1050-0477",
+        "ORCID: 0000-0001-8072-0718"
+      ],
+      "affiliations": [
+        "Department of Experimental Plant Biology, Faculty of Science, Charles University, Vinicna 5, Prague 2, 128 00, Czech Republic.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Department of Experimental Plant Biology, Faculty of Science, Charles University, Vinicna 5, Prague 2, 128 00, Czech Republic.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Department of Experimental Plant Biology, Faculty of Science, Charles University, Vinicna 5, Prague 2, 128 00, Czech Republic.",
+        "Department of Genetics and Microbiology, Faculty of Science, Charles University, Vinicna 5, Prague 2, 128 00, Czech Republic.",
+        "Department of Experimental Plant Biology, Faculty of Science, Charles University, Vinicna 5, Prague 2, 128 00, Czech Republic.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy.",
+        "Department of Experimental Plant Biology, Faculty of Science, Charles University, Vinicna 5, Prague 2, 128 00, Czech Republic."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zounková, Andrea",
+        "short_name": "Zounková A",
+        "identifiers": [
+          "0009-0000-4475-0880"
+        ],
+        "affiliations": [
+          "Department of Experimental Plant Biology, Faculty of Science, Charles University, Viničná 5, Prague 2, 128 00, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Chirivì, Daniele",
+        "short_name": "Chirivì D",
+        "identifiers": [
+          "0000-0002-6559-7851"
+        ],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Přibylová, Adéla",
+        "short_name": "Přibylová A",
+        "identifiers": [
+          "0000-0001-8675-5065"
+        ],
+        "affiliations": [
+          "Department of Experimental Plant Biology, Faculty of Science, Charles University, Viničná 5, Prague 2, 128 00, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Martignago, Damiano",
+        "short_name": "Martignago D",
+        "identifiers": [
+          "0000-0002-6207-0974"
+        ],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Myslivcová, Jitka",
+        "short_name": "Myslivcová J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Experimental Plant Biology, Faculty of Science, Charles University, Viničná 5, Prague 2, 128 00, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Mašek, Tomáš",
+        "short_name": "Mašek T",
+        "identifiers": [
+          "0000-0001-8732-0565"
+        ],
+        "affiliations": [
+          "Department of Genetics and Microbiology, Faculty of Science, Charles University, Viničná 5, Prague 2, 128 00, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Fischer, Lukáš",
+        "short_name": "Fischer L",
+        "identifiers": [
+          "0000-0003-1852-0461"
+        ],
+        "affiliations": [
+          "Department of Experimental Plant Biology, Faculty of Science, Charles University, Viničná 5, Prague 2, 128 00, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Betti, Camilla",
+        "short_name": "Betti C",
+        "identifiers": [
+          "0000-0003-3522-6440"
+        ],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Fornara, Fabio",
+        "short_name": "Fornara F",
+        "identifiers": [
+          "0000-0002-1050-0477"
+        ],
+        "affiliations": [
+          "Department of Biosciences, University of Milan, Via Celoria 26, Milan, 20133, Italy."
+        ]
+      },
+      {
+        "full_name": "Mašková, Petra",
+        "short_name": "Mašková P",
+        "identifiers": [
+          "0000-0001-8072-0718"
+        ],
+        "affiliations": [
+          "Department of Experimental Plant Biology, Faculty of Science, Charles University, Viničná 5, Prague 2, 128 00, Czech Republic."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Plant journal : for cell and molecular biology"
+    ],
+    "journal_abbrev": [
+      "Plant J"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052700",
+      "32029861",
+      "31101972",
+      "30610637",
+      "27699473",
+      "41437775",
+      "32398038",
+      "26657719",
+      "37851522",
+      "36995636",
+      "31228114",
+      "41062879",
+      "35151447",
+      "29735370",
+      "36562862",
+      "31487619",
+      "33263910",
+      "28084609",
+      "40995763",
+      "37547711",
+      "37330986",
+      "35168613",
+      "33842017",
+      "26553650",
+      "23221774",
+      "34681568",
+      "31776399",
+      "34448168",
+      "29523384",
+      "30669298",
+      "29332168",
+      "38977575",
+      "31129735",
+      "39628447",
+      "27995308",
+      "35088855",
+      "32786122",
+      "30214055",
+      "35764748",
+      "36812799",
+      "28905515",
+      "36755392",
+      "29511025",
+      "33627728",
+      "42786150",
+      "35713718",
+      "40139718",
+      "42571853",
+      "31745156",
+      "19783647",
+      "28499063",
+      "30706614",
+      "30961525",
+      "40806631",
+      "29779105",
+      "42635641",
+      "27510362",
+      "29087343",
+      "37326044",
+      "30043367",
+      "28289885",
+      "30645710",
+      "30483283",
+      "24854982",
+      "28349304",
+      "42470562",
+      "32033083",
+      "36374358",
+      "36174801",
+      "28640964",
+      "41108596",
+      "25917172",
+      "41205224",
+      "42521823",
+      "42941770",
+      "41642528",
+      "42627520",
+      "36178561",
+      "37131068",
+      "28349358",
+      "31033104",
+      "29972722",
+      "39762363",
+      "34259977",
+      "31768118",
+      "32804931",
+      "39513889",
+      "28287154",
+      "28430356",
+      "30610636",
+      "30684023",
+      "34837279",
+      "29572864",
+      "36740587",
+      "33141312",
+      "28790350",
+      "40298100",
+      "38420566",
+      "33401455",
+      "37064007"
+    ],
+    "review": [
+      "43052700",
+      "36562862",
+      "33842017",
+      "29523384",
+      "35764748",
+      "40806631",
+      "37326044",
+      "36174801",
+      "28430356"
+    ],
+    "pmc": [
+      "13782243"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43052700/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1111/tpj.71198",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-179",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

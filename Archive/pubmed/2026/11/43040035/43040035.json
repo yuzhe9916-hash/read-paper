@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "43040035",
+    "doi": "10.1038/s41592-026-03319-z",
+    "title": "Joint single-cell capture of Cas9 edits and transcriptomes reveals on- and off-target effects on gene expression."
+  },
+  "content": {
+    "abstract": "A longstanding barrier in genome engineering with CRISPR-Cas9 has been the inability to measure editing outcomes and their functional effects at single-cell resolution. Here we present Superb-seq, which captures single-cell edits and transcriptome effects by integrating Cas9 editing, T7 in situ transcription and single-cell RNA sequencing. We performed Superb-seq on 35,000 cells from three cell lines. Using seven guide RNAs to target four chromatin remodeler genes in 10,000 K562 cells, Superb-seq detected 5,761 edited cells, all on-target sites and 36 off-target sites. Superb-seq improved estimation of downstream perturbation effects on gene expression compared to Perturb-seq. We compared Superb-seq to 4 bulk off-target detection methods and identified between 6 and 210 edit sites across 3 benchmarking guides. Nineteen off-target edits were associated with differential gene expression, nine of which were cell type-specific. In summary, Superb-seq illuminates the consequences of Cas9 genome editing by connecting single-cell edits with changes in gene expression.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lorenzini, Michael H",
+        "Balderson, Brad",
+        "Lavalle, Shanna N",
+        "Sajeev, Karthyayani",
+        "Ho, Aaron J",
+        "Light, Madelyn",
+        "Usman, Olalekan H",
+        "Kurgan, Gavin",
+        "McVicker, Graham"
+      ],
+      "short_names": [
+        "Lorenzini MH",
+        "Balderson B",
+        "Lavalle SN",
+        "Sajeev K",
+        "Ho AJ",
+        "Light M",
+        "Usman OH",
+        "Kurgan G",
+        "McVicker G"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4047-1427",
+        "ORCID: 0000-0003-0991-0951"
+      ],
+      "affiliations": [
+        "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA.",
+        "Biomedical Sciences Graduate Program, University of California San Diego, La Jolla, CA, USA.",
+        "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA.",
+        "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA.",
+        "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA.",
+        "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrated DNA Technologies, Coralville, IA, USA.",
+        "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA. gmcvicker@salk.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lorenzini, Michael H",
+        "short_name": "Lorenzini MH",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA.",
+          "Biomedical Sciences Graduate Program, University of California San Diego, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Balderson, Brad",
+        "short_name": "Balderson B",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Lavalle, Shanna N",
+        "short_name": "Lavalle SN",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sajeev, Karthyayani",
+        "short_name": "Sajeev K",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ho, Aaron J",
+        "short_name": "Ho AJ",
+        "identifiers": [],
+        "affiliations": [
+          "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Light, Madelyn",
+        "short_name": "Light M",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Usman, Olalekan H",
+        "short_name": "Usman OH",
+        "identifiers": [],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Kurgan, Gavin",
+        "short_name": "Kurgan G",
+        "identifiers": [
+          "0000-0002-4047-1427"
+        ],
+        "affiliations": [
+          "Integrated DNA Technologies, Coralville, IA, USA."
+        ]
+      },
+      {
+        "full_name": "McVicker, Graham",
+        "short_name": "McVicker G",
+        "identifiers": [
+          "0000-0003-0991-0951"
+        ],
+        "affiliations": [
+          "Integrative Biology Laboratory, Salk Institute for Biological Studies, La Jolla, CA, USA. gmcvicker@salk.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature methods"
+    ],
+    "journal_abbrev": [
+      "Nat Methods"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 05:32",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43040035",
+      "40909645",
+      "34850137",
+      "39990392",
+      "40207628",
+      "25664545",
+      "34174439",
+      "33261648",
+      "34099937",
+      "36714391",
+      "35700449",
+      "42170219",
+      "32643177",
+      "29973285",
+      "42754893",
+      "30291759",
+      "37315207",
+      "38956324",
+      "27866656",
+      "32541958",
+      "31494246",
+      "39157758",
+      "37889758",
+      "32926384",
+      "39659410",
+      "36880749",
+      "40175512",
+      "33931634",
+      "39937081",
+      "41678668",
+      "31672284",
+      "36627653",
+      "34713260",
+      "24837660",
+      "31040331",
+      "36481904",
+      "33346710",
+      "36793210",
+      "34139989",
+      "37802026",
+      "40483517",
+      "37301944",
+      "35507169",
+      "25712100",
+      "37661945",
+      "42191976",
+      "41524770",
+      "30484125",
+      "24253446",
+      "39803441",
+      "30353175",
+      "31601489",
+      "31570596",
+      "32903440",
+      "33147453",
+      "40909481",
+      "25513782",
+      "41826830",
+      "34535545",
+      "37626063",
+      "32231336",
+      "34549979",
+      "38886809",
+      "30200981",
+      "42488191",
+      "32006416",
+      "36581624",
+      "31450868",
+      "31000663",
+      "29972722",
+      "39332185",
+      "24827782",
+      "42192532",
+      "41508607",
+      "31821359",
+      "42503868",
+      "42046128",
+      "42935243",
+      "26747759",
+      "30043367",
+      "41681611",
+      "34215255",
+      "39529170",
+      "40799508",
+      "25502645",
+      "40516718",
+      "30413470",
+      "40004545",
+      "27185399",
+      "41051673",
+      "30912046",
+      "30291498",
+      "33609360",
+      "30231914",
+      "32117329",
+      "38545983",
+      "40688512",
+      "42649204",
+      "35614998",
+      "38260716"
+    ],
+    "review": [
+      "43040035",
+      "34713260",
+      "42191976",
+      "41524770",
+      "32903440",
+      "39332185",
+      "42046128",
+      "30291498",
+      "40688512"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41592-026-03319-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

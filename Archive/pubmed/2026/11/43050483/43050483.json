@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "43050483",
+    "doi": "10.1371/journal.pntd.0014883",
+    "title": "Mechanistic insights into benzoxaborole activity against Cryptosporidium parvum: CPSF3 targeting genetically validated for AN3661, with implications for resistance."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Cryptosporidiosis is a major enteric disease affecting humans and animals worldwide, with severe consequences in young children and neonatal livestock, yet treatment options remain extremely limited. Benzoxaboroles have emerged as promising broad-spectrum antiparasitic compounds, but their mechanisms of action, molecular targets, and resistance pathways in Cryptosporidium spp. remain incompletely understood, limiting their optimal therapeutic deployment. We previously showed that the benzoxaborole AN3661 inhibits the endonuclease Cleavage and Polyadenylation Specificity Factor 3 (CPSF3) in Cryptosporidium hominis, likely by disrupting pre-mRNA processing and restricting parasite growth. Here, we further investigated the mode of action of AN3661 and compared it with two additional benzoxaboroles, AN13762 and AN7973. METHODOLOGY: Cell culture assays combined with imaging-based quantification were used to assess drug activity and determine the impact of treatment on parasite growth and development. CRISPR-Cas9 genome editing was used to introduce a point mutation into Cryptosporidium parvum CPSF3 and evaluate resistance to benzoxaboroles in vitro and in vivo. Nanopore sequencing was performed to examine the effects of drug exposure on parasite mRNA processing. PRINCIPAL FINDINGS: We identified a single mutation in C. parvum CPSF3 (Y385N) that conferred strong resistance to AN3661. In contrast, this mutation did not reduce sensitivity to AN13762 or AN7973, which are also suspected to target CPSF3. All three benzoxaboroles impaired mRNA processing, a process mediated by the CPSF machinery, and exhibited parasiticidal activity, with pronounced effects during late-stage maturation of first-generation meronts, including inhibition of parasite egress; two compounds also affected gametogenesis. Notably, AN7973 controlled severe infection in susceptible mice challenged with the AN3661-resistant C. parvum CPSF3 Y385N mutant. In Toxoplasma gondii, AN7973 remained active against strains resistant to AN3661 and AN13762, supporting a distinct mechanism of action. Finally, AN3661 and AN7973 were active against Eimeria tenella, and AN3661 against Giardia duodenalis. CONCLUSIONS/SIGNIFICANCE: Together, these results identify a resistance mechanism affecting AN3661 in Cryptosporidium, and highlight AN7973 as a promising alternative compound with broad antiparasitic activity and efficacy against AN3661-resistant parasites.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wenker, Janine",
+        "Braun, Laurence",
+        "Swale, Christopher",
+        "Gouin, Axel",
+        "Pichon, Julien",
+        "Mariot, Julie",
+        "Lombard, Laura",
+        "Baty, Thomas",
+        "Dobrescu, Irina",
+        "Lalle, Marco",
+        "Hakimi, Mohamed-Ali",
+        "Bougdour, Alexandre",
+        "Laurent, Fabrice"
+      ],
+      "short_names": [
+        "Wenker J",
+        "Braun L",
+        "Swale C",
+        "Gouin A",
+        "Pichon J",
+        "Mariot J",
+        "Lombard L",
+        "Baty T",
+        "Dobrescu I",
+        "Lalle M",
+        "Hakimi MA",
+        "Bougdour A",
+        "Laurent F"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9687-7952"
+      ],
+      "affiliations": [
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France.",
+        "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France.",
+        "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France.",
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France.",
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Imaging and Infectiology Platform, Nouzilly, France.",
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Imaging and Infectiology Platform, Nouzilly, France.",
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France.",
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France.",
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France.",
+        "Department of Infectious Diseases, European Union Reference Laboratory for Parasites, Istituto Superiore di Sanita, Rome, Italy.",
+        "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France.",
+        "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France.",
+        "INRAE, Universite Francois Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wenker, Janine",
+        "short_name": "Wenker J",
+        "identifiers": [],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France."
+        ]
+      },
+      {
+        "full_name": "Braun, Laurence",
+        "short_name": "Braun L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France."
+        ]
+      },
+      {
+        "full_name": "Swale, Christopher",
+        "short_name": "Swale C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France."
+        ]
+      },
+      {
+        "full_name": "Gouin, Axel",
+        "short_name": "Gouin A",
+        "identifiers": [],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France."
+        ]
+      },
+      {
+        "full_name": "Pichon, Julien",
+        "short_name": "Pichon J",
+        "identifiers": [],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Imaging and Infectiology Platform, Nouzilly, France."
+        ]
+      },
+      {
+        "full_name": "Mariot, Julie",
+        "short_name": "Mariot J",
+        "identifiers": [],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Imaging and Infectiology Platform, Nouzilly, France."
+        ]
+      },
+      {
+        "full_name": "Lombard, Laura",
+        "short_name": "Lombard L",
+        "identifiers": [],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France."
+        ]
+      },
+      {
+        "full_name": "Baty, Thomas",
+        "short_name": "Baty T",
+        "identifiers": [],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France."
+        ]
+      },
+      {
+        "full_name": "Dobrescu, Irina",
+        "short_name": "Dobrescu I",
+        "identifiers": [],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France."
+        ]
+      },
+      {
+        "full_name": "Lalle, Marco",
+        "short_name": "Lalle M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infectious Diseases, European Union Reference Laboratory for Parasites, Istituto Superiore di Sanità, Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Hakimi, Mohamed-Ali",
+        "short_name": "Hakimi MA",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France."
+        ]
+      },
+      {
+        "full_name": "Bougdour, Alexandre",
+        "short_name": "Bougdour A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Advanced Biosciences (IAB), Team Host-Pathogen Interactions and Immunity to Infection, INSERM U1209, CNRS UMR5309, University Grenoble Alpes, La Tronche, France."
+        ]
+      },
+      {
+        "full_name": "Laurent, Fabrice",
+        "short_name": "Laurent F",
+        "identifiers": [
+          "0000-0002-9687-7952"
+        ],
+        "affiliations": [
+          "INRAE, Université François Rabelais de Tours, Centre Val de Loire, UMR1282 ISP, Biology of Apicomplexa and Immunology Laboratory, Nouzilly, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS neglected tropical diseases"
+    ],
+    "journal_abbrev": [
+      "PLoS Negl Trop Dis"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 17:32",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43050483",
+      "33336164",
+      "30252911",
+      "28148555",
+      "28262680",
+      "31694928",
+      "30185555",
+      "31992618",
+      "37967558",
+      "31249291",
+      "34710156",
+      "42440248",
+      "41774758",
+      "42754890",
+      "32127445",
+      "36972284",
+      "32998973",
+      "37655889",
+      "32843543",
+      "33011650",
+      "30237052",
+      "27431220",
+      "33085409",
+      "20706578",
+      "35462232",
+      "42395772",
+      "42475469",
+      "28617836",
+      "28215875",
+      "36321557",
+      "36533912",
+      "35046922",
+      "32738587",
+      "41060041",
+      "37851522",
+      "29359192",
+      "30958837",
+      "41414827",
+      "41531948",
+      "35065302",
+      "29357304",
+      "38698452",
+      "29378626",
+      "33468470",
+      "24566188",
+      "40652254",
+      "27387755",
+      "40967104",
+      "31356619",
+      "37776335",
+      "39462401",
+      "39333545",
+      "37627264",
+      "28792380",
+      "24273180",
+      "16252476",
+      "32812530",
+      "41369256",
+      "39975618",
+      "33120250",
+      "33753338",
+      "36400306",
+      "33323514",
+      "28158186",
+      "14769405",
+      "30197010",
+      "33647675",
+      "23380723",
+      "31624910",
+      "42075832",
+      "37992178",
+      "36441814",
+      "36422330",
+      "34648615",
+      "42059791",
+      "40393343",
+      "27535690",
+      "42464509",
+      "42284454",
+      "20209102",
+      "40938948",
+      "39802877",
+      "41891669",
+      "33520737",
+      "24060869",
+      "35700449",
+      "38191171",
+      "26552986",
+      "25838265",
+      "29596411",
+      "39361715",
+      "26095244",
+      "36722968",
+      "42455508",
+      "30849550",
+      "31775877",
+      "37284498",
+      "15267107",
+      "36786597",
+      "17043102"
+    ],
+    "review": [
+      "43050483",
+      "36321557",
+      "35065302",
+      "36400306"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pntd.0014883",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

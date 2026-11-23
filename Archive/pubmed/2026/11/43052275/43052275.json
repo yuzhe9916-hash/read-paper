@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "43052275",
+    "doi": "10.1038/s41467-026-78665-9",
+    "title": "PARG inhibition elicits cytotoxicity by sequestering XRCC1 and other PAR-binding proteins into PAR-dependent nuclear condensates."
+  },
+  "content": {
+    "abstract": "DNA breaks activate PARP1/2 to synthesize poly(ADP-ribose) (PAR), which relax chromatin and recruit DNA repair factors. PAR is normally short-lived and rapidly degraded by poly(ADP-ribose) glycohydrolase (PARG). While PARP1/2 inhibitors target homologous recombination (HR)-deficient cancers, predictive biomarkers for PARG inhibition (PARGi) remain undefined. Using genome-wide CRISPR screens, we find that PARGi is synthetically lethal with loss of multiple PAR-binding factors (XRCC1-LIG3/POLB, ALC1/CHD1L, ARH3, PARG itself) but not HR-deficiency. Conversely, loss of PARP1, NMNAT1 (nuclear NAD(+) synthesis), or UNG confers resistance. Mechanistically, PARGi induces reversible PARP1- and PAR-dependent nuclear condensates in undamaged cells. While lacking detectable DNA breaks, these condensates sequester various PAR-binding proteins (e.g. XRCC1, ALC1, FUS), reducing their nuclear availability and impairing recruitment to bona fide DNA lesions. These findings identify PAR-binding protein sequestration as the mechanism underlying PARGi cytotoxicity, explain the paradoxical essentiality of PARG but not PARP1, and establish PAR-binding factor deficiency as a biomarker for PARGi.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*X-ray Repair Cross Complementing Protein 1/metabolism/genetics",
+      "*Poly Adenosine Diphosphate Ribose/metabolism",
+      "Poly (ADP-Ribose) Polymerase-1/metabolism/genetics",
+      "*Cell Nucleus/metabolism",
+      "*Glycoside Hydrolases/metabolism/genetics/antagonists & inhibitors",
+      "DNA-Binding Proteins/metabolism/genetics",
+      "Animals",
+      "DNA Repair"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dumoulin, Isaac",
+        "Lee, Brian J",
+        "Zhang, Chuhan",
+        "Lin, Xiaohui",
+        "Wang, Yunyue",
+        "Han, Richard P",
+        "Verma, Priyanka",
+        "Zha, Shan"
+      ],
+      "short_names": [
+        "Dumoulin I",
+        "Lee BJ",
+        "Zhang C",
+        "Lin X",
+        "Wang Y",
+        "Han RP",
+        "Verma P",
+        "Zha S"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5550-1468",
+        "ORCID: 0000-0002-8265-0474",
+        "ORCID: 0009-0003-5829-5059",
+        "ORCID: 0000-0002-2852-0767",
+        "ORCID: 0000-0002-6568-1818"
+      ],
+      "affiliations": [
+        "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA.",
+        "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA.",
+        "Barnard College, New York City, NY, USA.",
+        "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA.",
+        "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA.",
+        "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA.",
+        "Graduate Program for Genetics and Development, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA.",
+        "Division of Oncology, Department of Medicine, Siteman Cancer Center, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+        "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+        "Department of Immunology and Microbiology, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+        "Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+        "Division of Pediatric Oncology, Hematology and Stem Cell Transplantation, Department of Pediatrics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dumoulin, Isaac",
+        "short_name": "Dumoulin I",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Brian J",
+        "short_name": "Lee BJ",
+        "identifiers": [
+          "0000-0001-5550-1468"
+        ],
+        "affiliations": [
+          "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chuhan",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Barnard College, New York City, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Lin, Xiaohui",
+        "short_name": "Lin X",
+        "identifiers": [
+          "0000-0002-8265-0474"
+        ],
+        "affiliations": [
+          "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Yunyue",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Han, Richard P",
+        "short_name": "Han RP",
+        "identifiers": [
+          "0009-0003-5829-5059"
+        ],
+        "affiliations": [
+          "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA.",
+          "Graduate Program for Genetics and Development, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Verma, Priyanka",
+        "short_name": "Verma P",
+        "identifiers": [
+          "0000-0002-2852-0767"
+        ],
+        "affiliations": [
+          "Division of Oncology, Department of Medicine, Siteman Cancer Center, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Zha, Shan",
+        "short_name": "Zha S",
+        "identifiers": [
+          "0000-0002-6568-1818"
+        ],
+        "affiliations": [
+          "Institute for Cancer Genetics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+          "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+          "Department of Immunology and Microbiology, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+          "Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu.",
+          "Division of Pediatric Oncology, Hematology and Stem Cell Transplantation, Department of Pediatrics, Vagelos College of Physicians and Surgeons, Columbia University, New York City, NY, USA. sz2296@cumc.columbia.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052275",
+      "41890038",
+      "25477519",
+      "39970298",
+      "39406247",
+      "27090906",
+      "17276427",
+      "30830864",
+      "22433848",
+      "16963444",
+      "39496836",
+      "32890402",
+      "39536748",
+      "21892188",
+      "23254695",
+      "34731617",
+      "38987289",
+      "23871146",
+      "39546575",
+      "28254358",
+      "29220653",
+      "41480640",
+      "32439163",
+      "41651132",
+      "11593040",
+      "37000656",
+      "23132853",
+      "27262441",
+      "39278937",
+      "41745836",
+      "39162207",
+      "23116180",
+      "42883743",
+      "31176615",
+      "21366272",
+      "40827866",
+      "33168626",
+      "37028218",
+      "22333589",
+      "21228215",
+      "16177811",
+      "26130715",
+      "27007296",
+      "39863586",
+      "34465625",
+      "29894693",
+      "35778544",
+      "21398629",
+      "34102106",
+      "22266578",
+      "38048727",
+      "23290998",
+      "37462479",
+      "43017785",
+      "20926829",
+      "32947956",
+      "40472742",
+      "34806016",
+      "17991898",
+      "32978394",
+      "22964577",
+      "31616951",
+      "28740101",
+      "33462394",
+      "20411356",
+      "24906880",
+      "21343889",
+      "31668992",
+      "27817743",
+      "42328796",
+      "17548475",
+      "25336152",
+      "15229295",
+      "39596510",
+      "24191052",
+      "23809438",
+      "29668892",
+      "30650352",
+      "41347713",
+      "28002403",
+      "16460818",
+      "19661379",
+      "29983321",
+      "34486521",
+      "24211580",
+      "30205747",
+      "16026317",
+      "41922367",
+      "26170451",
+      "25541391",
+      "33925170",
+      "26516022",
+      "36253381",
+      "34019811",
+      "12628300",
+      "30722038",
+      "17640816",
+      "23868975",
+      "26391948",
+      "27817742"
+    ],
+    "review": [
+      "43052275",
+      "27090906",
+      "41651132",
+      "42883743",
+      "31176615",
+      "23290998",
+      "43017785",
+      "20411356",
+      "21343889",
+      "27817743",
+      "23809438"
+    ],
+    "pmc": [
+      "13782593"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78665-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43052275/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LIG3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-556",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

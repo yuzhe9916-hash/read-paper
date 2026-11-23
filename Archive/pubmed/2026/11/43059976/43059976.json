@@ -1,0 +1,768 @@
+{
+  "identity": {
+    "pmid": "43059976",
+    "doi": "10.21203/rs.3.rs-11483188/v1",
+    "title": "Phenotype-genotype spectrum in CTNND2-related neurodevelopmental disease."
+  },
+  "content": {
+    "abstract": "Background Heterozygous variants in CTNND2 , encoding the brain-specific protein delta-catenin, are associated with a broad spectrum of neurodevelopmental disorders, including dyslexia, attention deficit hyperactivity disorder, intellectual disability, and autism. Despite its clinical significance, the full phenotypic spectrum of CTNND2 -associated disorders and the neurodevelopmental role of delta-catenin, a key component of the cadherin-catenin cell adhesion complex, remain poorly defined. Methods Through international collaboration, we assembled the phenotypic and molecular information for 57 individuals, 42 previously unpublished, carrying heterozygous CTNND2 variants. All individuals were evaluated by local clinicians, and the variants were identified through exome or genome sequencing, clinical microarray, or karyotyping. To investigate the effects of delta-catenin loss on early neurogenesis, we performed neural induction and transcriptomic profiling in three patient-derived neuroepithelial stem cell (NESC) lines and three isogenic CRISPR-Cas9-edited CTNND2 knockout lines. Transcriptomic changes were assessed across the patient-derived and CRISPR-edited models to identify shared and distinct transcriptional alterations, with particular focus on genes within the CTNND2 interactome and WNT- and cadherin-associated networks. Results We identified 41 distinct CTNND2 variants, including 28 novel variants comprising 18 predicted loss-of-function and 10 protein-altering variants. Among cases with parental testing, eight variants occurred de novo and 12 were inherited from an affected parent. The most common clinical features were developmental delay (90%), intellectual disability (74%), and behavioral abnormalities (79%). Neural induction revealed delayed neural rosette formation in one of the three patient-derived lines, whereas the remaining patient-derived and knockout lines showed apparently normal neural induction. Transcriptomic profiling revealed variable but partly convergent alterations across the patient-derived and knockout models, involving the CTNND2 interactome and WNT and cadherin signaling networks at both developmental time points. Conclusions This study defines CTNND2 -related neurodevelopmental disorders as a clinically recognizable but highly variable phenotype overlapping with other intellectual disability and autism spectrum disorders. Across cellular models, transcriptomic analysis identified variable and partly convergent changes involving interconnected networks associated with CTNND2, WNT, and cadherin signaling. The variability observed across both individuals and cellular models further highlights the influence of genetic background and other modifying factors on the consequences of CTNND2 disruption. These findings expand the clinical and molecular spectrum of CTNND2 -associated disorders and provide a framework for further investigation of the molecular consequences of CTNND2 disruption during early human neural development.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shahsavani, Mansoureh",
+        "Wincent, Josephine",
+        "Reiter, Ricarda",
+        "Soltysova, Andrea",
+        "Schuy, Jakob",
+        "Helgadottir, Hafdis T",
+        "Eisfeldt, Jesper",
+        "Ek, Marlene",
+        "Ficek, Andrej",
+        "Druschke, Lotta",
+        "Kusikova, Katarina",
+        "Hsieh, Tzung-Chien",
+        "Kirchhoff, Aron",
+        "Krawitz, Peter",
+        "Li, Jing-Mei",
+        "Webersinke, Gerald",
+        "Gorokhova, Svetlana",
+        "Missirian, Chantal",
+        "Riccardi, Florence",
+        "Pavinato, Lisa",
+        "Brusco, Alfredo",
+        "Mandrile, Giorgia",
+        "Trajkova, Slavica",
+        "Pintus, Francesco",
+        "Gagachovska, Biljana",
+        "Waisfisz, Quinten",
+        "van Hagen, Johanna M",
+        "Bedoukian, Emma",
+        "Izumi, Kosuke",
+        "Granger, Leslie",
+        "Petersen, Andrea",
+        "Oegema, Renske",
+        "Huibers, Manon",
+        "Demurger, Florence",
+        "Brischoux-Boucher, Elise",
+        "Julia, Sophie",
+        "Banneau, Guillaume",
+        "Zavala, M Jesus",
+        "Lagos, Catalina",
+        "Repetto, Gabriela M",
+        "Jouret, Guillaume",
+        "Kentros, Catherine",
+        "Ganapathi, Mythily",
+        "Chung, Wendy K",
+        "May, Halie",
+        "Hiatt, Susan M",
+        "Kelley, Whitley V",
+        "Forster, Alisa",
+        "Olfe, Lisa",
+        "Shillington, Amelle",
+        "Dauriat, Benjamin",
+        "Mercier, Sandra",
+        "Cogne, Benjamin",
+        "Engel, Camille",
+        "Dahlen, Eric",
+        "Rosenberger, Georg",
+        "Sauvigny, Thomas",
+        "Abdallah, Hamza Hadj",
+        "Courtin, Thomas",
+        "Stray-Pedersen, Asbjorg",
+        "Bernat, John A",
+        "Paolillo, Vitoria K",
+        "Viso, Florencia Del",
+        "Alaimo, Joseph T",
+        "Thiffault, Isabelle",
+        "Farrow, Emily G",
+        "Cohen, Ana S A",
+        "Weis, Serge",
+        "Duba, Hans-Christoph",
+        "Nordgren, Ann",
+        "Falk, Anna",
+        "Weis, Denisa",
+        "Lindstrand, Anna"
+      ],
+      "short_names": [
+        "Shahsavani M",
+        "Wincent J",
+        "Reiter R",
+        "Soltysova A",
+        "Schuy J",
+        "Helgadottir HT",
+        "Eisfeldt J",
+        "Ek M",
+        "Ficek A",
+        "Druschke L",
+        "Kusikova K",
+        "Hsieh TC",
+        "Kirchhoff A",
+        "Krawitz P",
+        "Li JM",
+        "Webersinke G",
+        "Gorokhova S",
+        "Missirian C",
+        "Riccardi F",
+        "Pavinato L",
+        "Brusco A",
+        "Mandrile G",
+        "Trajkova S",
+        "Pintus F",
+        "Gagachovska B",
+        "Waisfisz Q",
+        "van Hagen JM",
+        "Bedoukian E",
+        "Izumi K",
+        "Granger L",
+        "Petersen A",
+        "Oegema R",
+        "Huibers M",
+        "Demurger F",
+        "Brischoux-Boucher E",
+        "Julia S",
+        "Banneau G",
+        "Zavala MJ",
+        "Lagos C",
+        "Repetto GM",
+        "Jouret G",
+        "Kentros C",
+        "Ganapathi M",
+        "Chung WK",
+        "May H",
+        "Hiatt SM",
+        "Kelley WV",
+        "Forster A",
+        "Olfe L",
+        "Shillington A",
+        "Dauriat B",
+        "Mercier S",
+        "Cogne B",
+        "Engel C",
+        "Dahlen E",
+        "Rosenberger G",
+        "Sauvigny T",
+        "Abdallah HH",
+        "Courtin T",
+        "Stray-Pedersen A",
+        "Bernat JA",
+        "Paolillo VK",
+        "Viso FD",
+        "Alaimo JT",
+        "Thiffault I",
+        "Farrow EG",
+        "Cohen ASA",
+        "Weis S",
+        "Duba HC",
+        "Nordgren A",
+        "Falk A",
+        "Weis D",
+        "Lindstrand A"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Shahsavani, Mansoureh",
+        "short_name": "Shahsavani M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wincent, Josephine",
+        "short_name": "Wincent J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reiter, Ricarda",
+        "short_name": "Reiter R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Soltysova, Andrea",
+        "short_name": "Soltysova A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schuy, Jakob",
+        "short_name": "Schuy J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Helgadottir, Hafdis T",
+        "short_name": "Helgadottir HT",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Eisfeldt, Jesper",
+        "short_name": "Eisfeldt J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ek, Marlene",
+        "short_name": "Ek M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ficek, Andrej",
+        "short_name": "Ficek A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Druschke, Lotta",
+        "short_name": "Druschke L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kusikova, Katarina",
+        "short_name": "Kusikova K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hsieh, Tzung-Chien",
+        "short_name": "Hsieh TC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kirchhoff, Aron",
+        "short_name": "Kirchhoff A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Krawitz, Peter",
+        "short_name": "Krawitz P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Jing-Mei",
+        "short_name": "Li JM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Webersinke, Gerald",
+        "short_name": "Webersinke G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gorokhova, Svetlana",
+        "short_name": "Gorokhova S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Missirian, Chantal",
+        "short_name": "Missirian C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Riccardi, Florence",
+        "short_name": "Riccardi F",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pavinato, Lisa",
+        "short_name": "Pavinato L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Brusco, Alfredo",
+        "short_name": "Brusco A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mandrile, Giorgia",
+        "short_name": "Mandrile G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Trajkova, Slavica",
+        "short_name": "Trajkova S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pintus, Francesco",
+        "short_name": "Pintus F",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gagachovska, Biljana",
+        "short_name": "Gagachovska B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Waisfisz, Quinten",
+        "short_name": "Waisfisz Q",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "van Hagen, Johanna M",
+        "short_name": "van Hagen JM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bedoukian, Emma",
+        "short_name": "Bedoukian E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Izumi, Kosuke",
+        "short_name": "Izumi K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Granger, Leslie",
+        "short_name": "Granger L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Petersen, Andrea",
+        "short_name": "Petersen A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Oegema, Renske",
+        "short_name": "Oegema R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huibers, Manon",
+        "short_name": "Huibers M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Demurger, Florence",
+        "short_name": "Demurger F",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Brischoux-Boucher, Elise",
+        "short_name": "Brischoux-Boucher E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Julia, Sophie",
+        "short_name": "Julia S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Banneau, Guillaume",
+        "short_name": "Banneau G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zavala, M Jesus",
+        "short_name": "Zavala MJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lagos, Catalina",
+        "short_name": "Lagos C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Repetto, Gabriela M",
+        "short_name": "Repetto GM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jouret, Guillaume",
+        "short_name": "Jouret G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kentros, Catherine",
+        "short_name": "Kentros C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ganapathi, Mythily",
+        "short_name": "Ganapathi M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chung, Wendy K",
+        "short_name": "Chung WK",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "May, Halie",
+        "short_name": "May H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hiatt, Susan M",
+        "short_name": "Hiatt SM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kelley, Whitley V",
+        "short_name": "Kelley WV",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Förster, Alisa",
+        "short_name": "Förster A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Olfe, Lisa",
+        "short_name": "Olfe L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shillington, Amelle",
+        "short_name": "Shillington A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dauriat, Benjamin",
+        "short_name": "Dauriat B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mercier, Sandra",
+        "short_name": "Mercier S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cogné, Benjamin",
+        "short_name": "Cogné B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Engel, Camille",
+        "short_name": "Engel C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dahlen, Eric",
+        "short_name": "Dahlen E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rosenberger, Georg",
+        "short_name": "Rosenberger G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sauvigny, Thomas",
+        "short_name": "Sauvigny T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Abdallah, Hamza Hadj",
+        "short_name": "Abdallah HH",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Courtin, Thomas",
+        "short_name": "Courtin T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Stray-Pedersen, Asbjørg",
+        "short_name": "Stray-Pedersen A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bernat, John A",
+        "short_name": "Bernat JA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Paolillo, Vitoria K",
+        "short_name": "Paolillo VK",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Viso, Florencia Del",
+        "short_name": "Viso FD",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Alaimo, Joseph T",
+        "short_name": "Alaimo JT",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Thiffault, Isabelle",
+        "short_name": "Thiffault I",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Farrow, Emily G",
+        "short_name": "Farrow EG",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cohen, Ana S A",
+        "short_name": "Cohen ASA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Weis, Serge",
+        "short_name": "Weis S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Duba, Hans-Christoph",
+        "short_name": "Duba HC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nordgren, Ann",
+        "short_name": "Nordgren A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Falk, Anna",
+        "short_name": "Falk A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Weis, Denisa",
+        "short_name": "Weis D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lindstrand, Anna",
+        "short_name": "Lindstrand A",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Research square"
+    ],
+    "journal_abbrev": [
+      "Res Sq"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43059976",
+      "41502569",
+      "42475469",
+      "42510805",
+      "40465813",
+      "36805818",
+      "42353817",
+      "26817790",
+      "28321286",
+      "42891736",
+      "42697193",
+      "41556401",
+      "34702355",
+      "30819258",
+      "41889174",
+      "41609011",
+      "31893020",
+      "34020708",
+      "30580808",
+      "41465181",
+      "26754451",
+      "41320952",
+      "42432493",
+      "39596625",
+      "32152250",
+      "41300846",
+      "42638108",
+      "41387281",
+      "42027429",
+      "38764027",
+      "42141719",
+      "33597769",
+      "42733558",
+      "33157009",
+      "31327001",
+      "39918382",
+      "42125344",
+      "42281968",
+      "41795723",
+      "42208149",
+      "40742416",
+      "40684264",
+      "38604781",
+      "37198333",
+      "36568968",
+      "41988794",
+      "41973310",
+      "29656860",
+      "33562221",
+      "42942128",
+      "32553196",
+      "36408368",
+      "34657631",
+      "36370261",
+      "37165752",
+      "39162370",
+      "24677774",
+      "38288683",
+      "41764152",
+      "31723249",
+      "31921404",
+      "37851522",
+      "36757831",
+      "43015773",
+      "38622540",
+      "32560742",
+      "40407699",
+      "32491480",
+      "15121991",
+      "33473207",
+      "43065681",
+      "37165955",
+      "32503625",
+      "39168120",
+      "42497432",
+      "39419027",
+      "34633442",
+      "40393460",
+      "31814264",
+      "43031693",
+      "42764254",
+      "36993726",
+      "33718894",
+      "42787795",
+      "32074998",
+      "41420488",
+      "42250153",
+      "40374357",
+      "42397682",
+      "41291913",
+      "42952713",
+      "42183944",
+      "41709284",
+      "39707601",
+      "41751631",
+      "39103847",
+      "38681799",
+      "33374967",
+      "41010026",
+      "41465129"
+    ],
+    "review": [
+      "43059976",
+      "42353817",
+      "41465181",
+      "39596625",
+      "41973310",
+      "36370261",
+      "15121991",
+      "32074998",
+      "38681799"
+    ],
+    "pmc": [
+      "13779000"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43059976/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-11483188/v1",
+        "provider": "Research Square",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

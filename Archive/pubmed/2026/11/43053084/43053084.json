@@ -1,0 +1,416 @@
+{
+  "identity": {
+    "pmid": "43053084",
+    "doi": "10.1186/s13046-026-03822-3",
+    "title": "N-acetyltransferase 10 promotes glioblastoma radioresistance by suppressing immunogenic ferroptosis through N(4)-acetylcytidine of SLC7A11 mRNA."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Radiotherapy is the standard treatment for glioblastoma (GBM), but its efficacy is severely compromised by radioresistance. While aberrant RNA modifications contribute to radioresistance, specific epitranscriptomic vulnerabilities remain underexplored. METHODS: We integrated quantitative proteomics, N(4)-acetylcytidine RNA immunoprecipitation sequencing (acRIP-seq), and CRISPR dependency screens to identify radioresistance drivers in GBM. Mechanisms were investigated through patient cohorts, the use of a catalytically inactive mutant (NAT10-G641E), RNA stability assays, and polysome profiling. Immunological and clinical translational effects were assessed via orthotopic mouse models and computational drug repurposing. RESULTS: We identified N-acetyltransferase 10 (NAT10), the RNA N(4)-acetylcytidine (ac4C) writer, as a core driver of GBM radioresistance and poor patient survival. Mechanistically, NAT10 deposits ac4C onto SLC7A11 mRNA, stabilizing its transcript and enhancing translational efficiency, thereby fortifying cellular antioxidant defenses and enabling GBM cells to evade radiation-induced ferroptosis. Furthermore, targeting NAT10 induced immunogenic cell death (ICD) and orchestrated a \"cold-to-hot\" tumor microenvironment transformation, characterized by robust CD8(+) T cell infiltration. To circumvent the toxicity of existing NAT10 inhibitors, we repurposed pemetrexed as a safe and effective alternative. Pemetrexed disrupted the NAT10/ac4C/SLC7A11 axis, yielding profound synergistic survival benefits when combined with radiotherapy. CONCLUSIONS: NAT10 promotes GBM radioresistance via ac4C-mediated stabilization of SLC7A11 and evasion of ferroptosis. Repurposing pemetrexed to inhibit NAT10 presents a promising strategy to sensitize refractory GBM to radiotherapy by simultaneously triggering ferroptosis and enhancing anti-tumor immunity.",
+    "keywords": [
+      "N 4-acetylcytidine",
+      "Glioblastoma",
+      "Immunogenic ferroptosis",
+      "NAT10",
+      "Radiation resistance"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Glioblastoma/genetics/radiotherapy/pathology/metabolism",
+      "Animals",
+      "Mice",
+      "*Radiation Tolerance",
+      "*Cytidine/analogs & derivatives/metabolism",
+      "*Ferroptosis",
+      "*Amino Acid Transport System y+/genetics/metabolism",
+      "*Acetyltransferases/metabolism/genetics",
+      "*Brain Neoplasms/genetics/pathology/radiotherapy",
+      "RNA, Messenger/genetics/metabolism",
+      "Cell Line, Tumor",
+      "Xenograft Model Antitumor Assays",
+      "Epitranscriptome",
+      "N-Terminal Acetyltransferases"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Shushu",
+        "Cheng, Jinmei",
+        "Liu, Yuan",
+        "Chen, Chen",
+        "Qiu, Rubin",
+        "Liu, Yantan",
+        "Zhang, Qinghua",
+        "Xie, Yuyin",
+        "Wan, Binlong",
+        "Tan, Peixin",
+        "Xie, Dehuan",
+        "Lei, Yuan",
+        "Luo, Haizhen",
+        "Feng, Wenqing",
+        "Deng, Yushi",
+        "Hua, Xin",
+        "Ren, Chen",
+        "Du, Shasha"
+      ],
+      "short_names": [
+        "Hu S",
+        "Cheng J",
+        "Liu Y",
+        "Chen C",
+        "Qiu R",
+        "Liu Y",
+        "Zhang Q",
+        "Xie Y",
+        "Wan B",
+        "Tan P",
+        "Xie D",
+        "Lei Y",
+        "Luo H",
+        "Feng W",
+        "Deng Y",
+        "Hua X",
+        "Ren C",
+        "Du S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, 510515, China.",
+        "Department of Andrology, The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, 518107, China.",
+        "Department of Radiation Oncology, Shenzhen Nanshan People's Hospital, Shenzhen, China.",
+        "Department of Neurosurgery, Guangdong Sanjiu Brain Hospital, Guangzhou, China.",
+        "Department of Gastrointestinal Oncology, The First People's Hospital of Foshan (Foshan Hospital Affiliated to Southern University of Science and Technology), School of Medicine, Southern University of Science and Technology, Foshan, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, 510515, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, 510515, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China. huaxin@gdph.org.cn.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China. renchen@smu.edu.cn.",
+        "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China. duss0202@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Shushu",
+        "short_name": "Hu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Jinmei",
+        "short_name": "Cheng J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, 510515, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yuan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Andrology, The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, 518107, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Chen",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Shenzhen Nanshan People's Hospital, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Rubin",
+        "short_name": "Qiu R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, Guangdong Sanjiu Brain Hospital, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yantan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Oncology, The First People's Hospital of Foshan (Foshan Hospital Affiliated to Southern University of Science and Technology), School of Medicine, Southern University of Science and Technology, Foshan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qinghua",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Yuyin",
+        "short_name": "Xie Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, 510515, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Binlong",
+        "short_name": "Wan B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Peixin",
+        "short_name": "Tan P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Dehuan",
+        "short_name": "Xie D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Lei, Yuan",
+        "short_name": "Lei Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Haizhen",
+        "short_name": "Luo H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, 510515, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Wenqing",
+        "short_name": "Feng W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Yushi",
+        "short_name": "Deng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China."
+        ]
+      },
+      {
+        "full_name": "Hua, Xin",
+        "short_name": "Hua X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China. huaxin@gdph.org.cn."
+        ]
+      },
+      {
+        "full_name": "Ren, Chen",
+        "short_name": "Ren C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China. renchen@smu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Du, Shasha",
+        "short_name": "Du S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 510080, China. duss0202@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of experimental & clinical cancer research : CR"
+    ],
+    "journal_abbrev": [
+      "J Exp Clin Cancer Res"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43053084",
+      "41507133",
+      "40936438",
+      "39030964",
+      "40288646",
+      "40119353",
+      "41699661",
+      "41408025",
+      "38961519",
+      "35522942",
+      "38169284",
+      "42454046",
+      "39038928",
+      "42811984",
+      "42315153",
+      "39529018",
+      "40132530",
+      "36209353",
+      "42140328",
+      "42805538",
+      "40000422",
+      "42431107",
+      "42431275",
+      "40123006",
+      "39923057",
+      "41787404",
+      "37955115",
+      "42413718",
+      "41198892",
+      "34488821",
+      "42228575",
+      "36898834",
+      "37914704",
+      "40676327",
+      "40794120",
+      "42121010",
+      "40102981",
+      "42242584",
+      "39089619",
+      "39453784",
+      "43045097",
+      "36609449",
+      "39251905",
+      "39075517",
+      "42445196",
+      "41203621",
+      "40261924",
+      "42826871",
+      "41324595",
+      "39390256",
+      "41281763",
+      "40729677",
+      "38409918",
+      "39293565",
+      "36522719",
+      "40018938",
+      "41254488",
+      "42133812",
+      "41540352",
+      "30449621",
+      "41381783",
+      "42218427",
+      "37948132",
+      "41467352",
+      "41784866",
+      "25277523",
+      "40983628",
+      "39905540",
+      "38810917",
+      "41501889",
+      "39990211",
+      "35978332",
+      "39392166",
+      "41087491",
+      "39633518",
+      "42573834",
+      "40169553",
+      "43027756",
+      "38839936",
+      "39814292",
+      "37484809",
+      "40100446",
+      "39890789",
+      "39939141",
+      "42090905",
+      "42303881",
+      "36939377",
+      "38583415",
+      "40079254",
+      "41542770",
+      "37237981",
+      "40308806",
+      "42277649",
+      "39506072",
+      "42965729",
+      "37705232",
+      "31900278",
+      "39501373",
+      "43015265",
+      "38820741"
+    ],
+    "review": [
+      "43053084",
+      "41699661",
+      "42454046",
+      "41787404",
+      "42413718",
+      "42445196",
+      "39633518",
+      "43027756"
+    ],
+    "pmc": [
+      "13783862"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://jeccr.biomedcentral.com/articles/10.1186/s13046-026-03822-3",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/braintumors.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Brain Tumors"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43053084/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

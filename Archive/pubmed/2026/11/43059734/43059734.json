@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "43059734",
+    "doi": "10.64898/2026.11.03.762080",
+    "title": "Perturbation-induced gene programs map the hidden regulatory architecture of complex diseases."
+  },
+  "content": {
+    "abstract": "Steady-state molecular profiles incompletely capture the regulatory programs through which genetic variation influences complex disease, particularly programs that emerge only when cells are perturbed. Here, we introduce Perturbscape, a computational framework that learns multiscale gene programs for individual perturbations in a CRISPR Perturb-seq screen using linear and nonlinear contrastive approaches alongside complementary program-learning methods, and integrates them with human genetics to prioritize disease-relevant genes, perturbations and downstream regulatory pathways. Across 15,859 perturbation-by-context profiles from 7 Perturb-seq systems and 53 complex diseases and traits (mean GWAS N=291K), perturbation-induced programs showed up to 4.3-fold higher heritability informativeness than analogous steady-state multi-tissue gene prioritization, and retained significant conditional heritability informativeness across all 34 matched cell system-trait comparisons after accounting for steady-state prioritization. Preserving perturbation-specific programs further yielded 2.5-5.3-fold higher trait relevance scores than programs derived from control cells, pooled perturbations or differential-expression summaries. In K562, Perturbscape-prioritized genes showed stronger enrichment for rare-variant burden genes than steady-state prioritization and were supported by orthogonal enhancer CRISPRi screens. In HepG2, LDL cholesterol-associated perturbation- induced programs specifically revealed statin-responsive pathways not significantly enriched by steady-state PoPS prioritization, supported by pharmacological transcriptional responses and population plasma proteomics. Perturbscape also recovered blood-related trait-conditioned trans-regulatory relationships that were specifically supported by population trans-eQTLs in IFN-gamma-stimulated monocytes (OR = 1.30, P=1.6e-05). Perturbscape further revealed developmental-stage-specific convergence between monogenic diabetes regulators and polygenic T2D risk during pancreatic islet differentiation, and neuronal-subclass-specific autism-associated regulatory programs in vivo . Together, these findings establish perturbation-induced gene programs as a complementary layer of disease-relevant regulatory information, revealing genetically informative pathways and context-specific regulatory relationships incompletely represented by steady-state molecular atlases.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Turhan, Berk",
+        "Lee, Hanbyul",
+        "Liu, Dingyu",
+        "Le, Ann",
+        "Ghosh, Arpan",
+        "Nandi, Dhruba",
+        "Mazumder, Rahul",
+        "Engreitz, Jesse M",
+        "Jin, Xin",
+        "Huangfu, Danwei",
+        "Dey, Kushal K"
+      ],
+      "short_names": [
+        "Turhan B",
+        "Lee H",
+        "Liu D",
+        "Le A",
+        "Ghosh A",
+        "Nandi D",
+        "Mazumder R",
+        "Engreitz JM",
+        "Jin X",
+        "Huangfu D",
+        "Dey KK"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6471-0357",
+        "ORCID: 0000-0002-5754-1719",
+        "ORCID: 0000-0003-2344-992X",
+        "ORCID: 0000-0002-1145-6199"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Turhan, Berk",
+        "short_name": "Turhan B",
+        "identifiers": [
+          "0000-0002-6471-0357"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lee, Hanbyul",
+        "short_name": "Lee H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Dingyu",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Le, Ann",
+        "short_name": "Le A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ghosh, Arpan",
+        "short_name": "Ghosh A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nandi, Dhruba",
+        "short_name": "Nandi D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mazumder, Rahul",
+        "short_name": "Mazumder R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Engreitz, Jesse M",
+        "short_name": "Engreitz JM",
+        "identifiers": [
+          "0000-0002-5754-1719"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jin, Xin",
+        "short_name": "Jin X",
+        "identifiers": [
+          "0000-0003-2344-992X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huangfu, Danwei",
+        "short_name": "Huangfu D",
+        "identifiers": [
+          "0000-0002-1145-6199"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dey, Kushal K",
+        "short_name": "Dey KK",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43059734",
+      "42475469",
+      "41040309",
+      "43060182",
+      "43060671",
+      "42664972",
+      "42523538",
+      "41826830",
+      "32029221",
+      "42482180",
+      "42051578",
+      "42367913",
+      "42234579",
+      "39091800",
+      "40826382",
+      "42411605",
+      "39677760",
+      "35292083",
+      "41986815",
+      "42814674",
+      "42835153",
+      "39689711",
+      "42827575",
+      "42192776",
+      "42775259",
+      "40654604",
+      "42146410",
+      "41810371",
+      "29396371",
+      "28193859",
+      "43061283",
+      "42405209",
+      "37745614",
+      "39495786",
+      "43032635",
+      "40882622",
+      "43033407",
+      "26404118",
+      "41452988",
+      "41330380",
+      "36629404",
+      "42515778",
+      "41710887",
+      "42653451",
+      "34314424",
+      "42519341",
+      "43060503",
+      "42649298",
+      "41889931",
+      "30864331",
+      "42999447",
+      "41000745",
+      "39896538",
+      "42883953",
+      "37961468",
+      "42596011",
+      "42793001",
+      "24586125",
+      "43059808",
+      "39605382",
+      "42821046",
+      "38308274",
+      "31985403",
+      "37131803",
+      "42650039",
+      "42920133",
+      "37577666",
+      "42734902",
+      "42305533",
+      "42968020",
+      "41570977",
+      "26019233",
+      "42577751",
+      "41726570",
+      "42127893",
+      "42680482",
+      "37522749",
+      "42821566",
+      "37443254",
+      "39395408",
+      "42995790",
+      "42699694",
+      "42754836",
+      "42182259",
+      "32103259",
+      "29237423",
+      "34699533",
+      "41171131",
+      "42296381",
+      "42033879",
+      "38049589",
+      "38430910",
+      "42472049",
+      "34582792",
+      "33795864",
+      "42094458",
+      "26111110",
+      "42810334",
+      "42281968",
+      "42798643"
+    ],
+    "review": [
+      "43059734",
+      "42405209",
+      "43033407",
+      "42305533"
+    ],
+    "pmc": [
+      "13778832"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43059734/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.03.762080",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

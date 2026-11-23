@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "43038128",
+    "doi": "10.1021/acssensors.6c04392",
+    "title": "Self-Supervised Denoising-Enhanced Dual-Site CRISPR Cascade Nanosphere Enables Amplification-Free Pathogen Detection."
+  },
+  "content": {
+    "abstract": "Foodborne pathogens pose a major threat to global public health, necessitating rapid, sensitive, and deployable detection methods. Despite their considerable promise, current CRISPR-based diagnostics remain constrained by mandatory preamplification steps and insufficient sensitivity, hindering point-of-care application. Here, we introduce a self-supervised denoising-enhanced dual-site CRISPR cascade nanosphere (SD-DCCN) biosensing platform for on-site detection. The SD-DCCN integrates a CRISPR cascade architecture that reactivates the dormant catalytic potential of Cas12a by employing a universal split crRNA motif with two full-length crRNAs to synergistically boost the trans-cleavage activity, coupled with a self-supervised denoising algorithm on a visualized nanosphere platform that converts the amplified signal into a high-contrast quantitative readout. Our strategy eliminates the need for preamplification and achieves detection of Salmonella Typhimurium with a limit of detection as low as 16 CFU/mL, representing a 62.5-fold improvement over conventional amplification-free CRISPR assays. In addition, by integrating smartphone-readable tube analysis with qPCR-comparable sensitivity, the portable SD-DCCN presents a practical approach for rapid and on-site food safety monitoring. Furthermore, we quantify viable bacteria in diverse real food samples and validate the detection results against qPCR benchmarks. This platform holds great promise for CRISPR diagnosis of foodborne diseases, especially in resource-limited settings.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Yang",
+        "Hu, Cong",
+        "Li, Kaitong",
+        "Lin, Hongbin",
+        "Chen, Rui",
+        "Hao, Xiaoqian",
+        "Wu, Long",
+        "Han, Sanyang"
+      ],
+      "short_names": [
+        "Zhou Y",
+        "Hu C",
+        "Li K",
+        "Lin H",
+        "Chen R",
+        "Hao X",
+        "Wu L",
+        "Han S"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-7895-7780",
+        "ORCID: 0000-0003-0212-6419",
+        "ORCID: 0000-0001-7414-7193"
+      ],
+      "affiliations": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China.",
+        "School of Food Science and Engineering, Key Laboratory of Tropical Fruits and Vegetables Quality and Safety, State Administration for Market Regulation, Hainan University, Haikou570228, China.",
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China.",
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China.",
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China.",
+        "Analysis and Test Center, Chinese Academy of Tropical Agricultural Sciences, Haikou570311, China.",
+        "Shenzhen Traditional Chinese Medicine Hospital , Shenzhen, Guangdong518033, China.",
+        "School of Food Science and Engineering, Key Laboratory of Tropical Fruits and Vegetables Quality and Safety, State Administration for Market Regulation, Hainan University, Haikou570228, China.",
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Yang",
+        "short_name": "Zhou Y",
+        "identifiers": [
+          "0009-0001-7895-7780"
+        ],
+        "affiliations": [
+          "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China.",
+          "School of Food Science and Engineering, Key Laboratory of Tropical Fruits and Vegetables Quality and Safety, State Administration for Market Regulation, Hainan University, Haikou570228, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Cong",
+        "short_name": "Hu C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China."
+        ]
+      },
+      {
+        "full_name": "Li, Kaitong",
+        "short_name": "Li K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Hongbin",
+        "short_name": "Lin H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Rui",
+        "short_name": "Chen R",
+        "identifiers": [],
+        "affiliations": [
+          "Analysis and Test Center, Chinese Academy of Tropical Agricultural Sciences, Haikou570311, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Xiaoqian",
+        "short_name": "Hao X",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Traditional Chinese Medicine Hospital , Shenzhen, Guangdong518033, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Long",
+        "short_name": "Wu L",
+        "identifiers": [
+          "0000-0003-0212-6419"
+        ],
+        "affiliations": [
+          "School of Food Science and Engineering, Key Laboratory of Tropical Fruits and Vegetables Quality and Safety, State Administration for Market Regulation, Hainan University, Haikou570228, China."
+        ]
+      },
+      {
+        "full_name": "Han, Sanyang",
+        "short_name": "Han S",
+        "identifiers": [
+          "0000-0001-7414-7193"
+        ],
+        "affiliations": [
+          "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen518055, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 17:33",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43038128",
+      "37996158",
+      "42913300",
+      "43010390",
+      "42269411",
+      "41167896",
+      "41806413",
+      "38472096",
+      "37162995",
+      "42967748",
+      "41397613",
+      "41663226",
+      "42424186",
+      "42379036",
+      "42710139",
+      "40157150",
+      "40865226",
+      "41167881",
+      "42543449",
+      "42753299",
+      "42474386",
+      "40063799",
+      "40938694",
+      "42412687",
+      "41191401",
+      "42858625",
+      "42018089",
+      "37980404",
+      "42243947",
+      "39489962",
+      "39987655",
+      "41129856",
+      "42715083",
+      "38783743",
+      "39880501",
+      "37494991",
+      "42628453",
+      "38128320",
+      "42087678",
+      "42205057",
+      "40871400",
+      "37947312",
+      "42817868",
+      "41773916",
+      "40151930",
+      "39508638",
+      "40914019",
+      "40509422",
+      "40277382",
+      "35986652",
+      "41435708",
+      "40441105",
+      "40413996",
+      "41506042",
+      "42838669",
+      "41962435",
+      "42508912",
+      "41686171",
+      "36943040",
+      "42184674",
+      "40947925",
+      "42871210",
+      "41591771",
+      "38640680",
+      "40890563",
+      "42951549",
+      "40945113",
+      "42916361",
+      "42632599",
+      "41590404",
+      "40851838",
+      "42126246",
+      "38134022",
+      "42266926",
+      "42607467",
+      "40589866",
+      "35857897",
+      "41252908",
+      "42925592",
+      "39067912",
+      "42148800",
+      "42641282",
+      "42808823",
+      "41416985",
+      "40099627",
+      "42788767",
+      "42068385",
+      "40411834",
+      "41352919",
+      "39307577",
+      "42090813",
+      "40128217",
+      "41955813",
+      "38228008",
+      "41626466",
+      "41222482",
+      "39647408",
+      "38689239",
+      "42077856",
+      "37722405"
+    ],
+    "review": [
+      "43038128",
+      "42632599"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c04392",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

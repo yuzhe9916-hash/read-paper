@@ -1,0 +1,310 @@
+{
+  "identity": {
+    "pmid": "43043216",
+    "doi": "10.1021/acsnano.6c12112",
+    "title": "Nanozyme-Catalyzed Lateral Flow Assay for the Simultaneous Detection of RNA and Protein Biomarkers."
+  },
+  "content": {
+    "abstract": "Molecular diagnostics have advanced rapidly over the past decade, driven by the demand for accessible and scalable testing solutions. However, current assays often focus on single biomolecule types, limiting their ability to capture the multifactorial nature of disease. Integrating distinct molecular readouts horizontal line such as transcriptomic and proteomic biomarkers horizontal line could provide richer diagnostic information and improve clinical decision-making. Here, we present MOSAIC (Multiplexed Orthogonal Sensing Assay Integrated with CRISPRZyme), a unified lateral flow assay that enables simultaneous detection of RNA and protein biomarkers using a shared nanozyme-catalyzed readout. The assay combines CRISPR/Cas13a-mediated RNA detection and antibody-based protein detection, with assay components optimized through antibody conjugation tuning, blocking agent optimization, and probe loading calibration to achieve balanced and cross-talk-free performance. Using cardiovascular disease as a model, the platform successfully detects NTproBNP and LIPCAR long noncoding RNA simultaneously from the same sample. The assay was further optimized for spiked human plasma, incorporating tailored pretreatment and recombinase polymerase amplification (RPA) to maintain RNA stability and performance in complex biofluids. Extending its versatility, the same assay design was adapted to detect SARS-CoV-2 biomarkers, the spike (S) protein and ORF1ab gene, in pooled human saliva. To enable standardized interpretation of multiplexed readouts, we additionally developed a machine-learning-assisted computational workflow that automates strip localization, signal extraction, and calibration curve construction. Together, these results demonstrate a modular, paper-based diagnostic platform that unites transcriptomic and proteomic analyses within one assay architecture, offering a practical step toward accessible and multiplexed molecular diagnostics across diverse disease contexts.",
+    "keywords": [
+      "CRISPR/Cas13a diagnostics",
+      "automated quantitative assay analysis",
+      "cardiovascular disease detection",
+      "lateral flow assay",
+      "multiplexed diagnostics",
+      "platinum nanozyme"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Biomarkers/analysis/blood",
+      "*RNA/analysis/blood",
+      "*Natriuretic Peptide, Brain/blood/analysis",
+      "CRISPR-Cas Systems",
+      "Rapid Diagnostic Tests",
+      "Catalysis",
+      "Peptide Fragments"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Park, Chaewon",
+        "Dissanayake-Perera, Schan",
+        "Ng, Ho-Cheung",
+        "Sadler, Christy J",
+        "Gallego Rubio, Cecilia",
+        "Nam, Keonwook",
+        "Prasad, Sanjay K",
+        "Stevens, Molly M"
+      ],
+      "short_names": [
+        "Park C",
+        "Dissanayake-Perera S",
+        "Ng HC",
+        "Sadler CJ",
+        "Gallego Rubio C",
+        "Nam K",
+        "Prasad SK",
+        "Stevens MM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5171-1318",
+        "ORCID: 0009-0006-2763-7097",
+        "ORCID: 0000-0002-7335-266X"
+      ],
+      "affiliations": [
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+        "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K.",
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+        "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K.",
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+        "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K.",
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+        "National Heart and Lung Institute, Imperial College London, LondonSW3 6LY, U.K.",
+        "Royal Brompton and Harefield Clinical Group, Guy's and St Thomas' NHS Foundation Trust, LondonSW3 6NP, U.K.",
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+        "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Park, Chaewon",
+        "short_name": "Park C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K."
+        ]
+      },
+      {
+        "full_name": "Dissanayake-Perera, Schan",
+        "short_name": "Dissanayake-Perera S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+          "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K."
+        ]
+      },
+      {
+        "full_name": "Ng, Ho-Cheung",
+        "short_name": "Ng HC",
+        "identifiers": [
+          "0000-0002-5171-1318"
+        ],
+        "affiliations": [
+          "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+          "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K."
+        ]
+      },
+      {
+        "full_name": "Sadler, Christy J",
+        "short_name": "Sadler CJ",
+        "identifiers": [
+          "0009-0006-2763-7097"
+        ],
+        "affiliations": [
+          "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+          "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K."
+        ]
+      },
+      {
+        "full_name": "Gallego Rubio, Cecilia",
+        "short_name": "Gallego Rubio C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K."
+        ]
+      },
+      {
+        "full_name": "Nam, Keonwook",
+        "short_name": "Nam K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K."
+        ]
+      },
+      {
+        "full_name": "Prasad, Sanjay K",
+        "short_name": "Prasad SK",
+        "identifiers": [],
+        "affiliations": [
+          "National Heart and Lung Institute, Imperial College London, LondonSW3 6LY, U.K.",
+          "Royal Brompton and Harefield Clinical Group, Guy's and St Thomas' NHS Foundation Trust, LondonSW3 6NP, U.K."
+        ]
+      },
+      {
+        "full_name": "Stevens, Molly M",
+        "short_name": "Stevens MM",
+        "identifiers": [
+          "0000-0002-7335-266X"
+        ],
+        "affiliations": [
+          "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, Kavli Institute for Nanoscience Discovery, University of Oxford, OxfordOX1 3QU, U.K.",
+          "Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, LondonSW7 2AZ, U.K."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS nano"
+    ],
+    "journal_abbrev": [
+      "ACS Nano"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 12:41",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43043216",
+      "42475469",
+      "33796478",
+      "42474386",
+      "34106048",
+      "41663226",
+      "42772154",
+      "42521788",
+      "37722405",
+      "36032355",
+      "43061952",
+      "41710969",
+      "40728278",
+      "42239534",
+      "38653014",
+      "42618126",
+      "40749819",
+      "38493286",
+      "35927321",
+      "42254504",
+      "42184674",
+      "41629044",
+      "42700775",
+      "41686849",
+      "34939798",
+      "40277382",
+      "38319081",
+      "41954204",
+      "39884612",
+      "35653961",
+      "35396760",
+      "42720869",
+      "38417100",
+      "39688405",
+      "42715083",
+      "42315622",
+      "36029033",
+      "41416796",
+      "40719649",
+      "41129856",
+      "34653714",
+      "41641524",
+      "40780174",
+      "42522597",
+      "40970715",
+      "42599083",
+      "33593370",
+      "41654255",
+      "35049639",
+      "34215080",
+      "33295064",
+      "41223903",
+      "38182338",
+      "41791397",
+      "42400707",
+      "39254031",
+      "43010390",
+      "41026506",
+      "41068553",
+      "40273314",
+      "34478255",
+      "40750193",
+      "41054568",
+      "42249743",
+      "39834214",
+      "42161120",
+      "42251880",
+      "42618089",
+      "39663809",
+      "42660094",
+      "42345496",
+      "40763823",
+      "35586918",
+      "42937587",
+      "41729380",
+      "42513036",
+      "33717855",
+      "42764010",
+      "42135078",
+      "42858744",
+      "42805520",
+      "40750194",
+      "41232934",
+      "40398759",
+      "40019770",
+      "41131881",
+      "36943040",
+      "27717152",
+      "42554489",
+      "39666765",
+      "37873363",
+      "40551276",
+      "38955083",
+      "38655256",
+      "36965355",
+      "41170426",
+      "43003575",
+      "40179699",
+      "41502163",
+      "40488470"
+    ],
+    "review": [
+      "43043216",
+      "42772154",
+      "41641524",
+      "40763823",
+      "42513036"
+    ],
+    "pmc": [
+      "13784137"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43043216/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-68",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancac3/article-lookup/doi/10.1021/acsnano.6c12112",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

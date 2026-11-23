@@ -1,0 +1,344 @@
+{
+  "identity": {
+    "pmid": "43041074",
+    "doi": "10.1111/pbi.70795",
+    "title": "Higher Frequency and Precision of Target Site Integration Using TAHITI."
+  },
+  "content": {
+    "abstract": "Efficient genomic target site integration, whereby the user selects the locus of transgene insertion, is a long-desired technology in plant biology. Sequence-based selection of the target site allows for the user to designate ideal genomic regions for transgene expression, durability, and downstream breeding, including the stacking of multiple traits. However, the efficiency of target site integration has traditionally been very low, requiring deep pipelines and screening. DNA transposable elements (TEs) naturally cut and paste themselves across genomes, and we previously coupled the activity of the rice TE mPing/Pong with CRISPR-Cas programmability and double-strand break formation, resulting in the targeted integration of the mPing TE and any associated internal cargo (traits). However, the natural activity of the TE generated a high rate of off-target mPing insertion. Here, we improve TE-mediated target site integration through engineering CRISPR-Cas to replace the role of the DNA cleavage activity of the Pong TE protein, providing improved on-target integration rates and reduced off-target rates. The combination of a deficient and immobilized TE system with CRISPR-Cas enables highly efficient DNA integration at a user-designated site, and we demonstrate higher accuracy and smaller junction scars compared to the previous version of the technology. We demonstrate additional methods to improve the rate of targeted integration, such as removing one of the two Pong proteins, intronizing coding regions, and heat-shocking plants. We demonstrate the next generation of TE-mediated target site integration, called Transposon-Assisted Homology-Independent Targeted Integration (TAHITI).",
+    "keywords": [
+      "CRISPR-Cas",
+      "TAHITI",
+      "intronizing",
+      "off-target rate",
+      "target site integration",
+      "transposable elements"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Swanson, Ryan",
+        "Liu, Peng",
+        "Ratnayake, Sandaruwan",
+        "Gandhivel, Vivek Hari-Sundar",
+        "Diehl, Brooke",
+        "Hung, Yu-Hung",
+        "Duncan, Courtney",
+        "Edwards, Seth A",
+        "Hancock, C Nathan",
+        "Slotkin, R Keith"
+      ],
+      "short_names": [
+        "Swanson R",
+        "Liu P",
+        "Ratnayake S",
+        "Gandhivel VH",
+        "Diehl B",
+        "Hung YH",
+        "Duncan C",
+        "Edwards SA",
+        "Hancock CN",
+        "Slotkin RK"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-6389-2215",
+        "ORCID: 0000-0003-2523-4498",
+        "ORCID: 0000-0002-4664-515X",
+        "ORCID: 0000-0002-7919-0550",
+        "ORCID: 0009-0008-9748-932X",
+        "ORCID: 0000-0002-6334-6848",
+        "ORCID: 0009-0007-1956-6572",
+        "ORCID: 0009-0001-6232-0806",
+        "ORCID: 0000-0002-0875-8495",
+        "ORCID: 0000-0001-9582-3533"
+      ],
+      "affiliations": [
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Division of Biological Sciences, University of Missouri, Columbia, Missouri, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Division of Biological Sciences, University of Missouri, Columbia, Missouri, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "University of South Carolina Aiken, Aiken, South Carolina, USA.",
+        "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+        "Division of Biological Sciences, University of Missouri, Columbia, Missouri, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Swanson, Ryan",
+        "short_name": "Swanson R",
+        "identifiers": [
+          "0009-0005-6389-2215"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+          "Division of Biological Sciences, University of Missouri, Columbia, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Peng",
+        "short_name": "Liu P",
+        "identifiers": [
+          "0000-0003-2523-4498"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Ratnayake, Sandaruwan",
+        "short_name": "Ratnayake S",
+        "identifiers": [
+          "0000-0002-4664-515X"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Gandhivel, Vivek Hari-Sundar",
+        "short_name": "Gandhivel VH",
+        "identifiers": [
+          "0000-0002-7919-0550"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Diehl, Brooke",
+        "short_name": "Diehl B",
+        "identifiers": [
+          "0009-0008-9748-932X"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+          "Division of Biological Sciences, University of Missouri, Columbia, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Hung, Yu-Hung",
+        "short_name": "Hung YH",
+        "identifiers": [
+          "0000-0002-6334-6848"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Duncan, Courtney",
+        "short_name": "Duncan C",
+        "identifiers": [
+          "0009-0007-1956-6572"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Edwards, Seth A",
+        "short_name": "Edwards SA",
+        "identifiers": [
+          "0009-0001-6232-0806"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA."
+        ]
+      },
+      {
+        "full_name": "Hancock, C Nathan",
+        "short_name": "Hancock CN",
+        "identifiers": [
+          "0000-0002-0875-8495"
+        ],
+        "affiliations": [
+          "University of South Carolina Aiken, Aiken, South Carolina, USA."
+        ]
+      },
+      {
+        "full_name": "Slotkin, R Keith",
+        "short_name": "Slotkin RK",
+        "identifiers": [
+          "0000-0001-9582-3533"
+        ],
+        "affiliations": [
+          "Donald Danforth Plant Science Center, St. Louis, Missouri, USA.",
+          "Division of Biological Sciences, University of Missouri, Columbia, Missouri, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant biotechnology journal"
+    ],
+    "journal_abbrev": [
+      "Plant Biotechnol J"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 05:32",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43041074",
+      "38926583",
+      "35700449",
+      "30645710",
+      "36418944",
+      "42475469",
+      "30340581",
+      "30465094",
+      "34395736",
+      "36424489",
+      "16818484",
+      "26930114",
+      "30507915",
+      "33020276",
+      "31189177",
+      "38224812",
+      "36593413",
+      "32412410",
+      "42212714",
+      "33596056",
+      "35232993",
+      "28228480",
+      "33616439",
+      "24078785",
+      "29789882",
+      "36774502",
+      "40905066",
+      "32442316",
+      "31721104",
+      "32760877",
+      "42328080",
+      "28550913",
+      "40050910",
+      "25462530",
+      "25943095",
+      "37039773",
+      "20226077",
+      "27025856",
+      "29019352",
+      "28643248",
+      "32086804",
+      "37216515",
+      "24112467",
+      "30003320",
+      "27464799",
+      "39981890",
+      "37365642",
+      "40558037",
+      "35536186",
+      "26452472",
+      "38303094",
+      "32887261",
+      "18093338",
+      "39789389",
+      "28439853",
+      "32093670",
+      "26347803",
+      "38532479",
+      "40626419",
+      "42716490",
+      "34983397",
+      "42915614",
+      "31360827",
+      "39579214",
+      "33690264",
+      "40205048",
+      "26709091",
+      "25269397",
+      "35997258",
+      "38434112",
+      "33309880",
+      "33230293",
+      "41359386",
+      "28106309",
+      "37095350",
+      "42026979",
+      "40121659",
+      "32574856",
+      "41424917",
+      "25053919",
+      "27146973",
+      "27655632",
+      "34524900",
+      "30911123",
+      "24478335",
+      "26527385",
+      "31821359",
+      "23576519",
+      "30733435",
+      "37078593",
+      "42876087",
+      "29082719",
+      "28149701",
+      "31742433",
+      "33894749",
+      "42761512",
+      "23028360",
+      "30502942",
+      "34911411",
+      "38346683"
+    ],
+    "review": [
+      "43041074",
+      "42212714",
+      "33596056",
+      "42328080",
+      "27025856",
+      "30003320",
+      "34983397",
+      "42915614",
+      "26709091",
+      "42026979",
+      "41424917",
+      "25053919",
+      "27146973",
+      "29082719",
+      "42761512",
+      "34911411"
+    ],
+    "pmc": [
+      "13774891"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43041074/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70795",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

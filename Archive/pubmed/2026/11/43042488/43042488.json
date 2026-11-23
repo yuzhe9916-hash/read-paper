@@ -1,0 +1,312 @@
+{
+  "identity": {
+    "pmid": "43042488",
+    "doi": "10.1039/d6ay02209j",
+    "title": "Programmable nucleases for nucleic acid detection: bridging the gap between analytical sensitivity and clinical adoption."
+  },
+  "content": {
+    "abstract": "Nucleic acid testing faces a persistent tension between analytical sensitivity and field deployability. Centralized qPCR relies on thermal cyclers and trained personnel, whereas isothermal amplification eliminates thermal cycling but often compromises sensitivity and stability. The COVID-19 pandemic intensified these constraints in primary care and point-of-care settings. Programmable nucleases offer a different detection logic: after guide-mediated target recognition, effector activity converts the recognition event into a detectable signal. Effector families such as CRISPR (clustered regularly interspaced short palindromic repeats), pAgo (prokaryotic Argonaute), and TnpB/Fanzor have yielded diverse assays, although TnpB has only recently been demonstrated, and Fanzor remains at the proof-of-principle stage. This review integrates effector mechanisms, engineering strategies, clinical evidence, and commercialization. It highlights three shifts: (i) an expanding effector toolbox with greater diversity in size, targeting requirements, and signal encoding; (ii) a transition from optimizing detection limits toward system-level capabilities, such as single-tube operation, multiplexing, absolute quantification, and robustness with unextracted or minimally processed samples; and (iii) a growing mismatch between analytical performance and regulatory maturity. Most CRISPR-based COVID-19 diagnostic products have been withdrawn, expired, or discontinued, likely reflecting commercial and regulatory factors rather than inherent technical limitations. In 2026, a CRISPR-based tuberculosis blood test received regulatory authorization in Colombia, extending the technology beyond respiratory virus detection. Bridging the laboratory-to-clinic gap now depends less on further sensitivity gains than on clear clinical indications, rigorous validation, and cost-controlled engineering. This review aims to guide assay selection and the development of next-generation diagnostics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ding, Ronghua",
+        "Gao, Hui",
+        "Li, Yuanye",
+        "Li, Zhongyan",
+        "Mao, Hanjing",
+        "Gao, Shuhong",
+        "Long, Jinzhao"
+      ],
+      "short_names": [
+        "Ding R",
+        "Gao H",
+        "Li Y",
+        "Li Z",
+        "Mao H",
+        "Gao S",
+        "Long J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5319-2120",
+        "ORCID: 0009-0004-0912-578X",
+        "ORCID: 0000-0002-0483-1122"
+      ],
+      "affiliations": [
+        "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com.",
+        "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com.",
+        "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com.",
+        "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com.",
+        "Department of Cardiology, Jining No.1 People's Hospital, Jining, 272000, Shandong, China.",
+        "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com.",
+        "College of Public Health, Zhengzhou University, Zhengzhou 450000, Henan, China. ljz069@zzu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ding, Ronghua",
+        "short_name": "Ding R",
+        "identifiers": [
+          "0000-0001-5319-2120"
+        ],
+        "affiliations": [
+          "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com."
+        ]
+      },
+      {
+        "full_name": "Gao, Hui",
+        "short_name": "Gao H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com."
+        ]
+      },
+      {
+        "full_name": "Li, Yuanye",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com."
+        ]
+      },
+      {
+        "full_name": "Li, Zhongyan",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com."
+        ]
+      },
+      {
+        "full_name": "Mao, Hanjing",
+        "short_name": "Mao H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Jining No.1 People's Hospital, Jining, 272000, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Shuhong",
+        "short_name": "Gao S",
+        "identifiers": [
+          "0009-0004-0912-578X"
+        ],
+        "affiliations": [
+          "Department of Infection Management, Jining No.1 People's Hospital, Jining, 272000, Shandong, China. oops7718@163.com."
+        ]
+      },
+      {
+        "full_name": "Long, Jinzhao",
+        "short_name": "Long J",
+        "identifiers": [
+          "0000-0002-0483-1122"
+        ],
+        "affiliations": [
+          "College of Public Health, Zhengzhou University, Zhengzhou 450000, Henan, China. ljz069@zzu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical methods : advancing methods and applications"
+    ],
+    "journal_abbrev": [
+      "Anal Methods"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 12:41",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43042488",
+      "42475469",
+      "40763823",
+      "42832371",
+      "40829362",
+      "42217635",
+      "38653014",
+      "42405767",
+      "35303554",
+      "41005481",
+      "42226661",
+      "42559496",
+      "39526595",
+      "42474386",
+      "42585941",
+      "40551276",
+      "40884263",
+      "42075335",
+      "34833086",
+      "36321557",
+      "42938263",
+      "38249803",
+      "35751329",
+      "42328982",
+      "40063799",
+      "42772154",
+      "36445095",
+      "39670656",
+      "42883761",
+      "33238709",
+      "39552996",
+      "40277382",
+      "34106048",
+      "33996635",
+      "32758911",
+      "42399104",
+      "42522597",
+      "34215080",
+      "36813257",
+      "39575850",
+      "34163728",
+      "32470556",
+      "34668736",
+      "41608958",
+      "37722405",
+      "40813265",
+      "41606937",
+      "40704803",
+      "41932456",
+      "40347696",
+      "42165978",
+      "42715733",
+      "39724853",
+      "41914596",
+      "36686235",
+      "40097290",
+      "34454111",
+      "42378111",
+      "40840128",
+      "30076867",
+      "36091579",
+      "42179772",
+      "39974464",
+      "41161575",
+      "36156623",
+      "35593869",
+      "35290826",
+      "41881766",
+      "41663226",
+      "39314939",
+      "36710268",
+      "41855972",
+      "41637804",
+      "42529880",
+      "41611404",
+      "35245867",
+      "39307577",
+      "42655688",
+      "33419461",
+      "39881979",
+      "38909984",
+      "41910136",
+      "42700480",
+      "40985812",
+      "34706599",
+      "42365130",
+      "38309959",
+      "36199433",
+      "39324194",
+      "42161120",
+      "33599292",
+      "41032977",
+      "33897053",
+      "41451985",
+      "42762644",
+      "42277912",
+      "40510793",
+      "40802893",
+      "40151930",
+      "38881611"
+    ],
+    "review": [
+      "43042488",
+      "40763823",
+      "42832371",
+      "40829362",
+      "42217635",
+      "42405767",
+      "35303554",
+      "42226661",
+      "39526595",
+      "42585941",
+      "40884263",
+      "42075335",
+      "34833086",
+      "36321557",
+      "42938263",
+      "38249803",
+      "35751329",
+      "42772154",
+      "42883761",
+      "39552996",
+      "33996635",
+      "32758911",
+      "36813257",
+      "34163728",
+      "41608958",
+      "40813265",
+      "41606937",
+      "41932456",
+      "42165978",
+      "42715733",
+      "39724853",
+      "41914596",
+      "34454111",
+      "42378111",
+      "30076867",
+      "42179772",
+      "39974464",
+      "41161575",
+      "36156623",
+      "36710268",
+      "41637804",
+      "42529880",
+      "35245867",
+      "39307577",
+      "42655688",
+      "38909984",
+      "42700480",
+      "34706599",
+      "36199433",
+      "39324194",
+      "33599292"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6ay02209j",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

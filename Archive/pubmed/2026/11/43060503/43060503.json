@@ -1,0 +1,200 @@
+{
+  "identity": {
+    "pmid": "43060503",
+    "doi": "10.64898/2026.11.02.763749",
+    "title": "Resolving how genetic perturbations act through gene regulatory paths."
+  },
+  "content": {
+    "abstract": "Perturb-seq measures transcriptional responses to thousands of genetic perturbations, but each gene's response mixes the contributions of many regulatory paths, so how a perturbation acts cannot be resolved from expression alone, however large the model. Here we present REGA-perturb, which supplies this missing information rather than adding model complexity: reference epigenomes define a scaffold of possible transcription factor (TF)-regulatory element-gene paths, and perturbation responses, pooled through shared latent programs, determine how each path is used, requiring only RNA measurements. Across three CRISPR interference screens totaling 2.4 million cells, REGA-perturb inferred TF-target relationships that agreed with ChIP-seq binding with a gain over random more than four times that of the best existing method, separated candidate direct from indirect targets, and predicted targets of TFs withheld from training. It also inferred perturbation-induced changes in TF activity not reflected in TF transcript levels, and resolved perturbation-specific regulatory rewiring in which opposing regulatory changes cancel at the expression level.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ren, Lixin",
+        "Duren, Zhana"
+      ],
+      "short_names": [
+        "Ren L",
+        "Duren Z"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Ren, Lixin",
+        "short_name": "Ren L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Duren, Zhana",
+        "short_name": "Duren Z",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060503",
+      "43060182",
+      "41826830",
+      "26679776",
+      "42523385",
+      "23758851",
+      "37682477",
+      "21172055",
+      "26635867",
+      "37717013",
+      "42475469",
+      "36749045",
+      "41314178",
+      "36747806",
+      "42741841",
+      "43059734",
+      "18586698",
+      "42146410",
+      "41278993",
+      "21586587",
+      "39705007",
+      "39091800",
+      "32060051",
+      "42398561",
+      "30445760",
+      "41000760",
+      "24565265",
+      "37872410",
+      "32858223",
+      "32615918",
+      "25533349",
+      "39689711",
+      "42411605",
+      "34394179",
+      "24039560",
+      "17971223",
+      "31881824",
+      "41452988",
+      "22849367",
+      "36114445",
+      "41446109",
+      "30395277",
+      "24603674",
+      "27780826",
+      "22106333",
+      "24228871",
+      "24608172",
+      "42752548",
+      "19956545",
+      "27723775",
+      "42710863",
+      "37805453",
+      "30739944",
+      "22084256",
+      "30598100",
+      "18426580",
+      "36321557",
+      "29273624",
+      "41288963",
+      "34292930",
+      "42524695",
+      "30952851",
+      "18769540",
+      "39005298",
+      "33631799",
+      "31340985",
+      "37719147",
+      "26857150",
+      "38707542",
+      "42998717",
+      "25887857",
+      "23636944",
+      "27984732",
+      "35666184",
+      "42482180",
+      "38559193",
+      "41031011",
+      "37745614",
+      "42779924",
+      "26056275",
+      "30709337",
+      "41171131",
+      "34088716",
+      "22898448",
+      "20158869",
+      "40011787",
+      "29363433",
+      "24564526",
+      "17559637",
+      "28068916",
+      "42239343",
+      "22647244",
+      "30578913",
+      "42079248",
+      "25023089",
+      "37961332",
+      "40607808",
+      "40654959",
+      "42282780",
+      "30948003"
+    ],
+    "review": [
+      "43060503",
+      "36321557"
+    ],
+    "pmc": [
+      "13780682"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060503/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.02.763749",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

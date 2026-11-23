@@ -1,0 +1,216 @@
+{
+  "identity": {
+    "pmid": "43060467",
+    "doi": "10.64898/2026.11.04.764188",
+    "title": "NanoPAMDA enables rapid PAM characterization of metagenome-derived Cas9 effectors."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 orthologs remain functionally underexplored despite the rapidly growing scale of publicly available metagenomic sequencing data. Here, we applied a multi-stage computational discovery pipeline to two independent sources of metagenomic sequence data, a multi-biome collection of 620,185 metagenome-assembled genomes spanning 17 public catalogs, and raw sequencing reads from human microbiome studies assembled de novo, to identify novel Cas9 orthologs. Candidates were filtered for guide RNA architectural plausibility, sequence novelty, conservation of catalytic residues, and structural integrity, yielding 14 candidates spanning both data sources for experimental characterization. To determine PAM preference at scale, we developed a cost-effective Nanopore long-read-based adaptation of the high-throughput PAM determination assay (NanoPAMDA), enabling rapid, time-resolved, kinetic PAM profiling across many candidates in parallel. One Cas9 effector, E10, showed PAM-specific activity in vitro and was catalytically active in E. coli . Together, these findings demonstrate a scalable, long-read sequencing-based framework for discovering and biochemically characterizing novel Cas9 orthologs from metagenomic data.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Genel, Ibrahim",
+        "Suren, Ceren",
+        "Kurt, Ibrahim C"
+      ],
+      "short_names": [
+        "Genel I",
+        "Suren C",
+        "Kurt IC"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3927-0991"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Genel, Ibrahim",
+        "short_name": "Genel I",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Suren, Ceren",
+        "short_name": "Suren C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kurt, Ibrahim C",
+        "short_name": "Kurt IC",
+        "identifiers": [
+          "0000-0003-3927-0991"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060467",
+      "41207298",
+      "42505127",
+      "31238873",
+      "38687063",
+      "30691644",
+      "40698936",
+      "41288390",
+      "39772804",
+      "36475839",
+      "41656299",
+      "32471482",
+      "42151282",
+      "29486239",
+      "33261648",
+      "28327976",
+      "34900140",
+      "29106455",
+      "36309502",
+      "35579554",
+      "35302439",
+      "40207938",
+      "33547443",
+      "42870579",
+      "41837716",
+      "38049144",
+      "37310219",
+      "31694525",
+      "33277629",
+      "42277027",
+      "42725772",
+      "33068114",
+      "33957869",
+      "36513983",
+      "36939007",
+      "41830759",
+      "34446072",
+      "36917471",
+      "38821971",
+      "37010293",
+      "37039637",
+      "40325409",
+      "41808208",
+      "40196035",
+      "36399059",
+      "35642524",
+      "36639368",
+      "40707831",
+      "36206017",
+      "40493087",
+      "35172890",
+      "23717627",
+      "35435454",
+      "42820688",
+      "27822530",
+      "34791313",
+      "40970702",
+      "28344037",
+      "38869148",
+      "36030243",
+      "40777850",
+      "42475469",
+      "36321557",
+      "42766345",
+      "35700449",
+      "30126445",
+      "28327957",
+      "41918857",
+      "34343181",
+      "35959889",
+      "41385323",
+      "42754893",
+      "30825371",
+      "31787070",
+      "38868213",
+      "37258866",
+      "41288355",
+      "34492339",
+      "33139742",
+      "43052478",
+      "41854267",
+      "37114640",
+      "38689099",
+      "36555493",
+      "36575570",
+      "41254256",
+      "42090299",
+      "36289209",
+      "33176883",
+      "42708583",
+      "37643152",
+      "27556636",
+      "36576131",
+      "39315152",
+      "35298370",
+      "41433308",
+      "28968737",
+      "26585795",
+      "36744896",
+      "39327484"
+    ],
+    "review": [
+      "43060467",
+      "34900140",
+      "40493087",
+      "28344037",
+      "36321557",
+      "43052478"
+    ],
+    "pmc": [
+      "13780707"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060467/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.04.764188",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "43060309",
+    "doi": "10.64898/2026.10.29.760154",
+    "title": "An Isogenic iPSC Model of LMNA p.R482W Recapitulates Adipocyte Dysfunction in Familial Partial Lipodystrophy Type 2."
+  },
+  "content": {
+    "abstract": "Familial partial lipodystrophy type 2 (FPLD2) is a rare autosomal dominant disorder caused by pathogenic variants in LMNA , most commonly p.R482W, and is characterized by selective loss of subcutaneous adipose tissue, severe insulin resistance, and dyslipidemia. The cellular mechanisms underlying adipocyte dysfunction in FPLD2 remain incompletely understood, in part because existing in vitro models rely on patient-derived, non-isogenic cell lines or require non-physiologic transgene overexpression to achieve adipogenic differentiation. Here, we describe a CRISPR/Cas9-edited isogenic iPSC model of FPLD2 in which the heterozygous LMNA c.1444C>T (p.R482W) variant was introduced into a healthy donor-derived iPSC line. Using a transgene-free mesenchymal progenitor differentiation protocol, we generated LMNA (p.R482W) and isogenic control adipocytes and characterized their transcriptomic and functional phenotypes. Bulk RNA-sequencing demonstrated strong concordance in adipogenesis gene expression between genotypes during differentiation (Pearson rho = 0.968), yet LMNA (p.R482W) adipocytes exhibited significant downregulation of key adipogenic, lipid-handling, and extracellular matrix genes compared to isogenic controls. Functionally, LMNA (p.R482W) adipocytes showed markedly impaired glucose uptake under both basal and insulin-stimulated conditions, consistent with severe insulin resistance. Seahorse extracellular flux analysis revealed a globally quiescent metabolic state with significantly reduced oxygen consumption rate (126.5 vs. 261.5 pmol/min, p < 0.0001) and extracellular acidification rate (27.6 vs. 46.7 mpH/min, p < 0.0001). To validate these findings in human tissue, gene set enrichment analysis results from the iPSC model were compared to single-nucleus RNA-sequencing data from subcutaneous white adipose tissue biopsies of individuals with FPLD2 carrying the LMNA p.R482W variant. Across 37 mutually significant pathways, 59.5% were concordant between the iPSC model and human adipose tissue, including the pathways most central to FPLD2 pathophysiology: adipogenesis, fatty acid metabolism, oxidative phosphorylation, and inflammatory response. These findings establish this isogenic iPSC system as a faithful cellular model of FPLD2 adipocyte biology and a platform for functional characterization of LMNA variants of uncertain significance.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Borrego Alvarez, Aluet",
+        "Wasielewski, Will O",
+        "Gobble, McKinlee R S",
+        "Grupe, Michael",
+        "Ali, Lina M",
+        "Buchser, William",
+        "Boggs-Bailey, Lauren",
+        "Baldridge, Dustin",
+        "Maung, Jessica N",
+        "Nishii, Akira",
+        "MacDougald, Ormond A",
+        "Oral, Elif A",
+        "Stone, Stephen I"
+      ],
+      "short_names": [
+        "Borrego Alvarez A",
+        "Wasielewski WO",
+        "Gobble MRS",
+        "Grupe M",
+        "Ali LM",
+        "Buchser W",
+        "Boggs-Bailey L",
+        "Baldridge D",
+        "Maung JN",
+        "Nishii A",
+        "MacDougald OA",
+        "Oral EA",
+        "Stone SI"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Borrego Alvarez, Aluet",
+        "short_name": "Borrego Alvarez A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wasielewski, Will O",
+        "short_name": "Wasielewski WO",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gobble, McKinlee R S",
+        "short_name": "Gobble MRS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Grupe, Michael",
+        "short_name": "Grupe M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ali, Lina M",
+        "short_name": "Ali LM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Buchser, William",
+        "short_name": "Buchser W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Boggs-Bailey, Lauren",
+        "short_name": "Boggs-Bailey L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Baldridge, Dustin",
+        "short_name": "Baldridge D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Maung, Jessica N",
+        "short_name": "Maung JN",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nishii, Akira",
+        "short_name": "Nishii A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "MacDougald, Ormond A",
+        "short_name": "MacDougald OA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Oral, Elif A",
+        "short_name": "Oral EA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Stone, Stephen I",
+        "short_name": "Stone SI",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060309",
+      "29108996",
+      "32213461",
+      "23846499",
+      "41710646",
+      "41217838",
+      "34088712",
+      "28872940",
+      "30954027",
+      "40367289",
+      "42039119",
+      "31794942",
+      "29438482",
+      "32685188",
+      "25524705",
+      "18805829",
+      "33916827",
+      "24108105",
+      "41993022",
+      "40619352",
+      "35822709",
+      "41291239",
+      "31375660",
+      "37998321",
+      "39273049",
+      "19201734",
+      "40671313",
+      "42555405",
+      "38915555",
+      "35955791",
+      "34292171",
+      "37851522",
+      "35920656",
+      "42538913",
+      "41851000",
+      "26976018",
+      "41751985",
+      "37231758",
+      "31293201",
+      "30177912",
+      "37721003",
+      "28641778",
+      "29914921",
+      "36899861",
+      "33803191",
+      "28751304",
+      "22700598",
+      "24002959",
+      "26027246",
+      "42128842",
+      "15531479",
+      "29067487",
+      "36400409",
+      "34014371",
+      "18364375",
+      "42648117",
+      "30418556",
+      "39669119",
+      "17524034",
+      "11344241",
+      "23197810",
+      "41858864",
+      "11243729",
+      "27845687",
+      "28663758",
+      "27504462",
+      "21883346",
+      "41973705",
+      "38497452",
+      "41751861",
+      "28620495",
+      "30131000",
+      "37843397",
+      "31221062",
+      "42326309",
+      "32193531",
+      "41896947",
+      "32727917",
+      "37081489",
+      "37171500",
+      "41849272",
+      "43034586",
+      "21945321",
+      "36397776",
+      "36293084",
+      "41623137",
+      "36007622",
+      "35054926",
+      "18031308",
+      "39948343",
+      "35652445",
+      "34896253",
+      "11342468",
+      "32842478",
+      "42478871",
+      "33188786",
+      "42814674",
+      "33285243",
+      "41615236",
+      "42475469"
+    ],
+    "review": [
+      "43060309",
+      "41851000",
+      "36899861",
+      "42128842",
+      "30131000",
+      "37843397",
+      "35054926"
+    ],
+    "pmc": [
+      "13780561"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060309/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-399",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.29.760154",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

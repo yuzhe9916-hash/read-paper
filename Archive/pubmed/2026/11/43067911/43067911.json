@@ -1,0 +1,338 @@
+{
+  "identity": {
+    "pmid": "43067911",
+    "doi": "10.1002/mco2.71160",
+    "title": "Application of Artificial Intelligence in Cancer: A Comprehensive Review From Basic Research to Clinical Practice."
+  },
+  "content": {
+    "abstract": "Artificial intelligence (AI) has emerged as a transformative force in oncology, fundamentally shifting cancer care from empirical paradigms to data-driven precision medicine. Modern oncology generates unprecedented volumes of high-dimensional data, including radiomics, digital pathology, and multiomics, which are increasingly harnessed by deep learning architectures like Vision Transformers and U-Nets to characterize tumor phenotypes and heterogeneity. However, despite these algorithmic breakthroughs, critical translational bottlenecks-such as \"black box\" opacity, cross-institutional batch effects, and the lack of integration into electronic health records-severely impede real-world clinical deployment. This structured narrative review synthesizes the application of multimodal AI frameworks across the entire oncological continuum, from CRISPR-based target discovery and morphological-genomic bridging to reinforcement learning-driven intelligent radiotherapy and clinical decision support systems. We further evaluate emerging paradigms, including federated learning, explainable AI, and patient digital twins, as emerging approaches to address key translational challenges. By bridging the gap between in silico discovery and prospective validation, this review provides a strategic roadmap for the integration of robust, mechanistically transparent AI frameworks. Ultimately, this synthesis underscores the potential for AI to deliver dynamic, life-cycle-managed care, supporting the future translation of patient-centered precision oncology into routine clinical practice.",
+    "keywords": [
+      "artificial intelligence",
+      "cancer",
+      "clinical application",
+      "deep learning",
+      "image segmentation",
+      "precision medicine",
+      "radiotherapy planning"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qi, Xiaorong",
+        "Shi, Zunlin",
+        "Li, Zhi",
+        "He, Lizhou",
+        "Yang, Fan"
+      ],
+      "short_names": [
+        "Qi X",
+        "Shi Z",
+        "Li Z",
+        "He L",
+        "Yang F"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8382-9433",
+        "ORCID: 0009-0003-0034-7434"
+      ],
+      "affiliations": [
+        "Department of Gynecology and Obstetrics West China Second Hospital University of Sichuan Chengdu Sichuan China.",
+        "Department of Gynecology and Obstetrics Development and Related Diseases of Women and Children Key Laboratory of Sichuan Province Key Laboratory of Birth Defects and Related Diseases of Women and Children Ministry of Education West China Second Hospital Sichuan University Chengdu Sichuan China.",
+        "College of Electronics and Information Engineering Sichuan University Chengdu China.",
+        "College of Electronics and Information Engineering Sichuan University Chengdu China.",
+        "Department of Gynecology and Obstetrics West China Second Hospital University of Sichuan Chengdu Sichuan China.",
+        "Department of Gynecology and Obstetrics Development and Related Diseases of Women and Children Key Laboratory of Sichuan Province Key Laboratory of Birth Defects and Related Diseases of Women and Children Ministry of Education West China Second Hospital Sichuan University Chengdu Sichuan China.",
+        "College of Electronics and Information Engineering Sichuan University Chengdu China.",
+        "Department of Information Management West China Second Hospital University of Sichuan Chengdu Sichuan China.",
+        "Department of Gynecology and Obstetrics West China Second Hospital University of Sichuan Chengdu Sichuan China.",
+        "Department of Gynecology and Obstetrics Development and Related Diseases of Women and Children Key Laboratory of Sichuan Province Key Laboratory of Birth Defects and Related Diseases of Women and Children Ministry of Education West China Second Hospital Sichuan University Chengdu Sichuan China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qi, Xiaorong",
+        "short_name": "Qi X",
+        "identifiers": [
+          "0000-0002-8382-9433"
+        ],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics West China Second Hospital University of Sichuan Chengdu Sichuan China.",
+          "Department of Gynecology and Obstetrics Development and Related Diseases of Women and Children Key Laboratory of Sichuan Province Key Laboratory of Birth Defects and Related Diseases of Women and Children Ministry of Education West China Second Hospital Sichuan University Chengdu Sichuan China."
+        ]
+      },
+      {
+        "full_name": "Shi, Zunlin",
+        "short_name": "Shi Z",
+        "identifiers": [
+          "0009-0003-0034-7434"
+        ],
+        "affiliations": [
+          "College of Electronics and Information Engineering Sichuan University Chengdu China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhi",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Electronics and Information Engineering Sichuan University Chengdu China."
+        ]
+      },
+      {
+        "full_name": "He, Lizhou",
+        "short_name": "He L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics West China Second Hospital University of Sichuan Chengdu Sichuan China.",
+          "Department of Gynecology and Obstetrics Development and Related Diseases of Women and Children Key Laboratory of Sichuan Province Key Laboratory of Birth Defects and Related Diseases of Women and Children Ministry of Education West China Second Hospital Sichuan University Chengdu Sichuan China.",
+          "College of Electronics and Information Engineering Sichuan University Chengdu China.",
+          "Department of Information Management West China Second Hospital University of Sichuan Chengdu Sichuan China."
+        ]
+      },
+      {
+        "full_name": "Yang, Fan",
+        "short_name": "Yang F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology and Obstetrics West China Second Hospital University of Sichuan Chengdu Sichuan China.",
+          "Department of Gynecology and Obstetrics Development and Related Diseases of Women and Children Key Laboratory of Sichuan Province Key Laboratory of Birth Defects and Related Diseases of Women and Children Ministry of Education West China Second Hospital Sichuan University Chengdu Sichuan China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "MedComm"
+    ],
+    "journal_abbrev": [
+      "MedComm (2020)"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/22 05:49",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43067911",
+      "42475469",
+      "42192906",
+      "42685611",
+      "42671200",
+      "41584179",
+      "41266662",
+      "42589412",
+      "42707642",
+      "41828036",
+      "42366266",
+      "43025061",
+      "42575519",
+      "42745060",
+      "42688813",
+      "41962624",
+      "41939694",
+      "42452348",
+      "42535509",
+      "42805095",
+      "40283559",
+      "42112224",
+      "42704980",
+      "41704427",
+      "42791141",
+      "41833484",
+      "41806059",
+      "41676817",
+      "42209847",
+      "42560117",
+      "43032430",
+      "42727528",
+      "42209845",
+      "41892847",
+      "41969503",
+      "41930554",
+      "42684194",
+      "42769630",
+      "41873493",
+      "41348251",
+      "41097693",
+      "42440488",
+      "40228444",
+      "42220854",
+      "42924921",
+      "40856916",
+      "41400327",
+      "42763257",
+      "41645653",
+      "42823735",
+      "42767241",
+      "41751160",
+      "42862479",
+      "42597681",
+      "42847146",
+      "42769889",
+      "40406131",
+      "42499769",
+      "41822345",
+      "40992526",
+      "41226952",
+      "41827166",
+      "42583211",
+      "43050897",
+      "41595166",
+      "42265523",
+      "42128801",
+      "41036208",
+      "42176680",
+      "41585271",
+      "41290079",
+      "41616992",
+      "40347618",
+      "41857437",
+      "42676384",
+      "42989268",
+      "41749616",
+      "42044246",
+      "42136725",
+      "42466699",
+      "41873276",
+      "42653034",
+      "42945747",
+      "42867147",
+      "42365374",
+      "42921620",
+      "41520911",
+      "40553344",
+      "41388461",
+      "42092958",
+      "42520754",
+      "42069141",
+      "42230553",
+      "42725200",
+      "40140300",
+      "40747166",
+      "41575020",
+      "42566262",
+      "42706977",
+      "41616271"
+    ],
+    "review": [
+      "43067911",
+      "42192906",
+      "42685611",
+      "42671200",
+      "41584179",
+      "41266662",
+      "42589412",
+      "42707642",
+      "41828036",
+      "42366266",
+      "42575519",
+      "42745060",
+      "42688813",
+      "41962624",
+      "41939694",
+      "42452348",
+      "42535509",
+      "42805095",
+      "40283559",
+      "42112224",
+      "42704980",
+      "41704427",
+      "42791141",
+      "41833484",
+      "41806059",
+      "41676817",
+      "42209847",
+      "42560117",
+      "43032430",
+      "42727528",
+      "42209845",
+      "41892847",
+      "41969503",
+      "41930554",
+      "42684194",
+      "42769630",
+      "41873493",
+      "41348251",
+      "41097693",
+      "42440488",
+      "40228444",
+      "42220854",
+      "42924921",
+      "40856916",
+      "41400327",
+      "41645653",
+      "42823735",
+      "41751160",
+      "42862479",
+      "42597681",
+      "42847146",
+      "42769889",
+      "40406131",
+      "42499769",
+      "41822345",
+      "40992526",
+      "41827166",
+      "43050897",
+      "41595166",
+      "42265523",
+      "42128801",
+      "41036208",
+      "42176680",
+      "41585271",
+      "41290079",
+      "41616992",
+      "40347618",
+      "41857437",
+      "42676384",
+      "42989268",
+      "41749616",
+      "42136725",
+      "42466699",
+      "41873276",
+      "42653034",
+      "42945747",
+      "42365374",
+      "42921620",
+      "41520911",
+      "41388461",
+      "42092958",
+      "42520754",
+      "42069141",
+      "42230553",
+      "42725200",
+      "40140300",
+      "40747166",
+      "42566262",
+      "41616271"
+    ],
+    "pmc": [
+      "13788421"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

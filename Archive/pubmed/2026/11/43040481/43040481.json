@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "43040481",
+    "doi": "10.1186/s12866-026-05451-4",
+    "title": "Genomic characterization of a novel Lactobacillus species from pangolin feces: phylogenomic placement and unique functional gene repertoire."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The genus Lactobacillus represents a phylogenetically and ecologically diverse group of lactic acid bacteria intimately linked to host gastrointestinal homeostasis and widely regarded as prime probiotic candidates. Pangolin conservation is severely challenged by high mortality rates driven by digestive tract diseases, yet their native gut microbial ecology, particularly the functional roles of resident lactobacilli, remains largely unexplored. RESULTS: In this study, a novel Lactobacillus strain, designated M44, was isolated from the feces of a wild Formosan pangolin, and its complete genome was resolved via whole-genome sequencing. Genome-wide taxonomic metrics (ANI, AAI, and dDDH) fell substantially below the established thresholds for known species. Phylogenomic reconstruction based on single-copy orthologs confirmed that strain M44 forms a distinct, novel evolutionary lineage clustering adjacent to L. psittaci, L. jensenii, and L. mulieris. Comparative genomic analysis revealed that while M44 shares a core of 936 orthogroups with these phylogenetically related peers, it maintains a unique repertoire of 207 strain-specific orthogroups. Multi-pipeline functional mining identified a robust gene cluster for exopolysaccharide biosynthesis, alongside an array of surface-anchored adhesins that support its strong mucosal colonization potential. From an antimicrobial defense perspective, genome mining identified no canonical bacteriocin gene clusters, while genes associated with organic acid and hydrogen peroxide biosynthesis were present. Metabolic pathway reconstruction identified genomic capacity for exogenous carbohydrate and peptide utilization, including catabolic pathways for trehalose and N-acetylglucosamine, as well as a comprehensive oligopeptide permease system and an extensive intracellular peptidase repertoire. Genomic safety screening confirmed the complete absence of acquired antimicrobial resistance genes and intact mobile genetic elements, reinforced by an active Type I-E CRISPR-Cas adaptive immune system. CONCLUSION: These genomic insights establish strain M44 as a novel Lactobacillus species with a functional architecture encompassing broad exogenous carbohydrate and peptide utilization capacity, enhanced intestinal adherence capabilities, and organic acid-mediated antimicrobial defense. The demonstration of a favorable genomic safety profile, combined with prior in vitro phenotypic screening, positions Lactobacillus sp. M44 as a scientifically compelling subject for wildlife microbiome exploration and a candidate worthy of further investigation for potential application in captive pangolin management.",
+    "keywords": [
+      "Antimicrobial resistance safety",
+      "Exogenous substrate utilization",
+      "Novel Lactobacillus species",
+      "Pangolin",
+      "Whole-genome sequencing"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Lactobacillus/genetics/classification/isolation & purification",
+      "*Phylogeny",
+      "*Genome, Bacterial",
+      "*Feces/microbiology",
+      "*Pangolins/microbiology",
+      "Whole Genome Sequencing",
+      "Genomics",
+      "Bacteriocins/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Sijia",
+        "Hong, Peihang",
+        "Chou, Shyun",
+        "Liang, Tsui-Fang",
+        "Lin, Kuei-Shien",
+        "Lai, Cheng-Hung",
+        "Wang, Chao-Min"
+      ],
+      "short_names": [
+        "Yu S",
+        "Hong P",
+        "Chou S",
+        "Liang TF",
+        "Lin KS",
+        "Lai CH",
+        "Wang CM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8954-6151"
+      ],
+      "affiliations": [
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan.",
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan.",
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan.",
+        "Taiwan Biodiversity Research Institute, 1 Minsheng East Road, Jiji Town, Nantou County, 552005, Taiwan.",
+        "Taiwan Biodiversity Research Institute, 1 Minsheng East Road, Jiji Town, Nantou County, 552005, Taiwan.",
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan. chlai@dragon.nchu.edu.tw.",
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Chiayi University, 580 Xinmin Road, Chiayi, 600023, Taiwan. leowang@mail.ncyu.edu.tw."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Sijia",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hong, Peihang",
+        "short_name": "Hong P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chou, Shyun",
+        "short_name": "Chou S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Liang, Tsui-Fang",
+        "short_name": "Liang TF",
+        "identifiers": [],
+        "affiliations": [
+          "Taiwan Biodiversity Research Institute, 1 Minsheng East Road, Jiji Town, Nantou County, 552005, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lin, Kuei-Shien",
+        "short_name": "Lin KS",
+        "identifiers": [],
+        "affiliations": [
+          "Taiwan Biodiversity Research Institute, 1 Minsheng East Road, Jiji Town, Nantou County, 552005, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lai, Cheng-Hung",
+        "short_name": "Lai CH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, 145 Xingda Road, Taichung, 402202, Taiwan. chlai@dragon.nchu.edu.tw."
+        ]
+      },
+      {
+        "full_name": "Wang, Chao-Min",
+        "short_name": "Wang CM",
+        "identifiers": [
+          "0000-0002-8954-6151"
+        ],
+        "affiliations": [
+          "Department of Veterinary Medicine, College of Veterinary Medicine, National Chiayi University, 580 Xinmin Road, Chiayi, 600023, Taiwan. leowang@mail.ncyu.edu.tw."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC microbiology"
+    ],
+    "journal_abbrev": [
+      "BMC Microbiol"
+    ],
+    "pub_date": "2026 Aug 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 05:32",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43040481",
+      "41808017",
+      "42439591",
+      "32817455",
+      "41036850",
+      "42928103",
+      "38771133",
+      "40774991",
+      "41834849",
+      "42153625",
+      "42459333",
+      "37366621",
+      "41546830",
+      "39617076",
+      "40815227",
+      "41245895",
+      "41787300",
+      "40024538",
+      "21995554",
+      "38802738",
+      "42233158",
+      "42373818",
+      "38682181",
+      "40272172",
+      "42792903",
+      "32250238",
+      "42609112",
+      "41039218",
+      "41680341",
+      "41957702",
+      "40407329",
+      "33639835",
+      "42899681",
+      "32222941",
+      "40743876",
+      "31775607",
+      "42752254",
+      "41225349",
+      "39969280",
+      "42029730",
+      "41896744",
+      "29277352",
+      "35142603",
+      "20849602",
+      "39611829",
+      "36629413",
+      "42664623",
+      "33917427",
+      "43015619",
+      "42475469",
+      "42615649",
+      "41918077",
+      "41277831",
+      "32013858",
+      "42967257",
+      "41385521",
+      "40153053",
+      "21375712",
+      "39633035",
+      "31552103",
+      "39042225",
+      "42440712",
+      "42878877",
+      "40188140",
+      "29915113",
+      "23894338",
+      "25480015",
+      "42837011",
+      "39900839",
+      "42621859",
+      "39724288",
+      "41792614",
+      "30884720",
+      "42320375",
+      "29451876",
+      "19060088",
+      "42338890",
+      "42373879",
+      "29690879",
+      "41459216",
+      "42589543",
+      "42680925",
+      "38049764",
+      "40847281",
+      "41348173",
+      "22465289",
+      "25879663",
+      "40358235",
+      "42870726",
+      "42000996",
+      "28533181",
+      "41754401",
+      "34797858",
+      "41588056",
+      "42472306",
+      "29026656",
+      "41524913",
+      "41998276",
+      "41720069",
+      "36430971"
+    ],
+    "review": [
+      "43040481"
+    ],
+    "pmc": [
+      "13772548"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-026-05451-4",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/bowelmovement.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Bowel Movement"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43040481/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

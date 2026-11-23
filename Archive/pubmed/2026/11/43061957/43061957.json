@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "43061957",
+    "doi": "10.1021/acssynbio.6c00213",
+    "title": "Engineering Escherichia coli Nissle as a Safe Chassis for the Production of Therapeutic Peptides."
+  },
+  "content": {
+    "abstract": "Synthetic biology enables the installation of programable genetic functions in microorganisms, positioning them as versatile platforms for therapeutic applications. However, clinical translation requires chassis organisms that integrate safety, genetic stability, and precise control over the activity. Here, we present an innovative engineering framework for the probiotic Escherichia coli Nissle (EcN) that transforms EcN into a safe, efficient, and non-proliferative chassis for therapeutic production. The native EcN plasmids pM1 and pM2 were cured and repurposed to encode two functional modules: a CRISPR-Cas12 chromosome-shredding device that prevents bacterial propagation and a programable circuit for payload expression, thereby generating a non-proliferative therapeutic-producing system. To broaden the range of therapeutic payloads, we developed an artificial-intelligence-guided bioinformatic pipeline to predict anticancer cell-penetrating peptides (ACCPPs). As a proof of concept, a candidate identified through this workflow was produced in the engineered EcN chassis and evaluated in human cell culture for anticancer activity. Collectively, this strategy established a modular platform that integrates computational therapeutic discovery with engineered probiotic production, paving the way for the future development of safer microbial therapies and their clinical applications.",
+    "keywords": [
+      "CRISPR-Cas",
+      "anticancer peptides",
+      "bacterial engineering",
+      "genome shredding",
+      "in situ production of therapeutics",
+      "microbial therapy",
+      "plasmid curation"
+    ],
+    "mesh_terms": [
+      "*Escherichia coli/genetics/metabolism",
+      "Humans",
+      "Plasmids/genetics/metabolism",
+      "CRISPR-Cas Systems/genetics",
+      "Genetic Engineering/methods",
+      "*Peptides/metabolism/genetics",
+      "Antineoplastic Agents/metabolism/pharmacology",
+      "Probiotics",
+      "Synthetic Biology/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pantoja-Angles, Aaron",
+        "Ali, Zahir",
+        "Abdelrahman, Sherin",
+        "Baldelamar-Juarez, Cynthia Olivia",
+        "Chaudhary, Shahid",
+        "Raji, Misjudeen",
+        "Rivera-Serna, Luis Fernando",
+        "Zhao, Lingyun",
+        "Hauser, Charlotte A E",
+        "Mahfouz, Magdy M"
+      ],
+      "short_names": [
+        "Pantoja-Angles A",
+        "Ali Z",
+        "Abdelrahman S",
+        "Baldelamar-Juarez CO",
+        "Chaudhary S",
+        "Raji M",
+        "Rivera-Serna LF",
+        "Zhao L",
+        "Hauser CAE",
+        "Mahfouz MM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5331-1414",
+        "ORCID: 0000-0002-7814-8908",
+        "ORCID: 0000-0002-9653-7640",
+        "ORCID: 0000-0001-8251-7246",
+        "ORCID: 0000-0002-0616-6365"
+      ],
+      "affiliations": [
+        "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Laboratory for Nanomedicine, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Neurobiology of Aging Department, Max Planck Institute for Biology of Ageing, 50931Cologne, Germany.",
+        "Laboratory for Nanomedicine, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Analytical Chemistry Core Laboratory, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Division of Biological Sciences (BESE), King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Imaging & Characterization Core Laboratory, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Laboratory for Nanomedicine, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+        "Neurobiology of Aging Department, Max Planck Institute for Biology of Ageing, 50931Cologne, Germany.",
+        "Institute of Health Care Engineering with European Testing Center of Medical Devices, Graz University of Technology, 8010Graz, Austria.",
+        "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pantoja-Angles, Aaron",
+        "short_name": "Pantoja-Angles A",
+        "identifiers": [
+          "0000-0002-5331-1414"
+        ],
+        "affiliations": [
+          "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ali, Zahir",
+        "short_name": "Ali Z",
+        "identifiers": [
+          "0000-0002-7814-8908"
+        ],
+        "affiliations": [
+          "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Abdelrahman, Sherin",
+        "short_name": "Abdelrahman S",
+        "identifiers": [
+          "0000-0002-9653-7640"
+        ],
+        "affiliations": [
+          "Laboratory for Nanomedicine, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+          "Neurobiology of Aging Department, Max Planck Institute for Biology of Ageing, 50931Cologne, Germany."
+        ]
+      },
+      {
+        "full_name": "Baldelamar-Juárez, Cynthia Olivia",
+        "short_name": "Baldelamar-Juárez CO",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Nanomedicine, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Chaudhary, Shahid",
+        "short_name": "Chaudhary S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Raji, Misjudeen",
+        "short_name": "Raji M",
+        "identifiers": [],
+        "affiliations": [
+          "Analytical Chemistry Core Laboratory, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Rivera-Serna, Luis Fernando",
+        "short_name": "Rivera-Serna LF",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biological Sciences (BESE), King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Zhao, Lingyun",
+        "short_name": "Zhao L",
+        "identifiers": [],
+        "affiliations": [
+          "Imaging & Characterization Core Laboratory, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Hauser, Charlotte A E",
+        "short_name": "Hauser CAE",
+        "identifiers": [
+          "0000-0001-8251-7246"
+        ],
+        "affiliations": [
+          "Laboratory for Nanomedicine, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia.",
+          "Neurobiology of Aging Department, Max Planck Institute for Biology of Ageing, 50931Cologne, Germany.",
+          "Institute of Health Care Engineering with European Testing Center of Medical Devices, Graz University of Technology, 8010Graz, Austria."
+        ]
+      },
+      {
+        "full_name": "Mahfouz, Magdy M",
+        "short_name": "Mahfouz MM",
+        "identifiers": [
+          "0000-0002-0616-6365"
+        ],
+        "affiliations": [
+          "Laboratory for Genome Engineering and Synthetic Biology, Division of Biomedical Sciences, King Abdullah University of Science and Technology, 4700 KAUST, Thuwal23955-6900, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43061957",
+      "39254327",
+      "37800393",
+      "37343690",
+      "40907792",
+      "42252666",
+      "33301298",
+      "41437924",
+      "39887239",
+      "39151168",
+      "27640192",
+      "34755474",
+      "41618915",
+      "42152457",
+      "43040333",
+      "37348465",
+      "37405431",
+      "42662800",
+      "42014845",
+      "40615889",
+      "35232591",
+      "22748509",
+      "41685627",
+      "42625563",
+      "36929190",
+      "41202982",
+      "41628253",
+      "35947523",
+      "34978812",
+      "41816914",
+      "41766863",
+      "39772427",
+      "35453037",
+      "30926240",
+      "39722519",
+      "33023596",
+      "40138712",
+      "42354930",
+      "39166875",
+      "28511681",
+      "42961742",
+      "39115381",
+      "42465743",
+      "35487394",
+      "41508204",
+      "40277392",
+      "38311724",
+      "41454921",
+      "41843539",
+      "28764701",
+      "41432353",
+      "42634901",
+      "42182969",
+      "30447257",
+      "37930328",
+      "40040244",
+      "41414668",
+      "41656888",
+      "39229962",
+      "41476394",
+      "31134410",
+      "41759031",
+      "38954490",
+      "36585633",
+      "27332993",
+      "39389255",
+      "35123478",
+      "43036050",
+      "41556308",
+      "40252733",
+      "35115506",
+      "27209211",
+      "31581942",
+      "42385150",
+      "41864147",
+      "40767874",
+      "32144140",
+      "30530241",
+      "29729377",
+      "38243901",
+      "32625025",
+      "36730255",
+      "42478813",
+      "35960546",
+      "33180304",
+      "33017534",
+      "34480146",
+      "25465158",
+      "31545853",
+      "33097498",
+      "42636890",
+      "31863567",
+      "28918634",
+      "42085230",
+      "42904570",
+      "33589718",
+      "34272828",
+      "40964802",
+      "41749288",
+      "35583741"
+    ],
+    "review": [
+      "43061957",
+      "37343690",
+      "27640192",
+      "35232591",
+      "35947523",
+      "42354930",
+      "35487394",
+      "41454921",
+      "40040244",
+      "39229962",
+      "43036050",
+      "40767874",
+      "30530241",
+      "29729377",
+      "42636890",
+      "31863567",
+      "42085230",
+      "42904570",
+      "40964802"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/asbcd6/article-lookup/doi/10.1021/acssynbio.6c00213",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

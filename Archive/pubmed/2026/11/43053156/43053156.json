@@ -1,0 +1,379 @@
+{
+  "identity": {
+    "pmid": "43053156",
+    "doi": "10.1186/s41065-026-00730-6",
+    "title": "Multi-omics analysis reveals ANAPC1 overexpression and a potential TEAD4-associated regulatory relationship in cholangiocarcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Cholangiocarcinoma (CHOL) is a highly heterogeneous and aggressive malignancy that is frequently diagnosed at an advanced stage because of the lack of early biomarkers, resulting in a poor prognosis. Although ANAPC1 overexpression has been reported in other cancers, its role and regulatory mechanisms in CHOL remain insufficiently characterized. OBJECTIVES: To characterize ANAPC1 expression in CHOL, identify candidate upstream transcriptional regulators, and elucidate the associated functional programs and pathways. METHODS: Multi-omics profiling was integrated with in-house immunohistochemical validation. Differential expression analyses, CRISPR-based functional screening, transcription-factor prioritization, ChIP-seq with epigenomic annotation, gene set enrichment analysis, spatial transcriptomics, and single-cell RNA-seq were conducted to investigate ANAPC1-associated regulatory mechanisms in CHOL.Structural modeling of predicted TEAD4-DNA complexes was additionally performed to assess the structural compatibility between TEAD4 and candidate ANAPC1 promoter motifs. RESULTS: ANAPC1 was significantly overexpressed in CHOL at both the transcriptomic level (436 CHOL vs. 213 non-CHOL samples) and the protein level (66 CHOL vs. 99 non-CHOL tissues), with spatial enrichment in cholangiocytes. Public CRISPR dependency screening indicated that ANAPC1 loss was associated with reduced cellular fitness in several CHOL cell lines, including HUCCT1. Integrative analyses identified TEAD4 as a candidate upstream regulator of ANAPC1, and TEAD4 was upregulated in CHOL. Public ChIP-seq and epigenomic datasets across multiple cell lines, including HUCCT1, HepG2, BE2-C, and MDA-MB-231, suggested TEAD4 occupancy at the ANAPC1 locus, together with active chromatin features such as H3K27ac signals near the promoter region. Across several bulk transcriptomic datasets, TEAD4 and ANAPC1 showed positive expression associations of varying magnitude, whereas spatial transcriptomics indicated partially overlapping regional enrichment within malignant areas.Protein-DNA complex modeling of a predicted candidate TEAD4-ANAPC1 promoter DNA complex yielded an ipTM score of 0.71 and a pTM score of 0.62 for the top-ranked candidate promoter motif. GSEA identified positive enrichment of proliferation- and RNA-processing-related pathways and negative enrichment of several immune-related pathways within the ANAPC1-correlated transcriptomic profile. Single-cell analysis further localized ANAPC1 expression mainly to cholangiocytes and identified a statistically significant but extremely weak cell-level correlation with TEAD4. CONCLUSIONS: These findings support the hypothesis of a putative TEAD4-ANAPC1 regulatory relationship in CHOL based on integrative epigenomic, transcriptomic, spatial, and structural analyses. Direct experimental validation is required to determine whether TEAD4 functionally regulates ANAPC1 transcription in cholangiocarcinoma.",
+    "keywords": [
+      "ANAPC1",
+      "CRISPR",
+      "Cholangiocarcinoma",
+      "Protein-DNA structural modeling",
+      "Single-cell RNA-seq",
+      "Spatial transcriptomics"
+    ],
+    "mesh_terms": [
+      "*Cholangiocarcinoma/genetics/metabolism",
+      "Humans",
+      "TEA Domain Transcription Factors",
+      "*Transcription Factors/genetics/metabolism",
+      "*Gene Expression Regulation, Neoplastic",
+      "*DNA-Binding Proteins/genetics/metabolism",
+      "*Bile Duct Neoplasms/genetics",
+      "Multiomics",
+      "*Muscle Proteins/genetics/metabolism",
+      "Promoter Regions, Genetic",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Ke-Jun",
+        "Wang, Lei",
+        "Zhan, Yan-Ting",
+        "Tang, Yu-Lu",
+        "Li, Ming-Jie",
+        "Li, Qi",
+        "Tang, Huan-Huan",
+        "Xie, Ying-Yi",
+        "Li, Zong-Yu",
+        "Li, Jian-Jun",
+        "Chen, Gang",
+        "Chen, Si-Yan"
+      ],
+      "short_names": [
+        "Wu KJ",
+        "Wang L",
+        "Zhan YT",
+        "Tang YL",
+        "Li MJ",
+        "Li Q",
+        "Tang HH",
+        "Xie YY",
+        "Li ZY",
+        "Li JJ",
+        "Chen G",
+        "Chen SY"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-9017-6382",
+        "ORCID: 0009-0001-7564-7381",
+        "ORCID: 0009-0003-6397-1904",
+        "ORCID: 0009-0004-0462-618X",
+        "ORCID: 0000-0003-1958-1303",
+        "ORCID: 0009-0003-4514-020X",
+        "ORCID: 0009-0009-8425-4684",
+        "ORCID: 0009-0008-6850-1668",
+        "ORCID: 0009-0008-7436-5578",
+        "ORCID: 0000-0003-0014-5026",
+        "ORCID: 0000-0003-2402-2987",
+        "ORCID: 0009-0002-1720-8660"
+      ],
+      "affiliations": [
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Forensic Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of General Surgery, The Second Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+        "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China. chengang@gxmu.edu.cn.",
+        "Day Chemotherapy Center, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China. izhangtao@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Ke-Jun",
+        "short_name": "Wu KJ",
+        "identifiers": [
+          "0009-0007-9017-6382"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lei",
+        "short_name": "Wang L",
+        "identifiers": [
+          "0009-0001-7564-7381"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhan, Yan-Ting",
+        "short_name": "Zhan YT",
+        "identifiers": [
+          "0009-0003-6397-1904"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Tang, Yu-Lu",
+        "short_name": "Tang YL",
+        "identifiers": [
+          "0009-0004-0462-618X"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Ming-Jie",
+        "short_name": "Li MJ",
+        "identifiers": [
+          "0000-0003-1958-1303"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China.",
+          "Department of Forensic Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Qi",
+        "short_name": "Li Q",
+        "identifiers": [
+          "0009-0003-4514-020X"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Tang, Huan-Huan",
+        "short_name": "Tang HH",
+        "identifiers": [
+          "0009-0009-8425-4684"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xie, Ying-Yi",
+        "short_name": "Xie YY",
+        "identifiers": [
+          "0009-0008-6850-1668"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Zong-Yu",
+        "short_name": "Li ZY",
+        "identifiers": [
+          "0009-0008-7436-5578"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Jian-Jun",
+        "short_name": "Li JJ",
+        "identifiers": [
+          "0000-0003-0014-5026"
+        ],
+        "affiliations": [
+          "Department of General Surgery, The Second Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Gang",
+        "short_name": "Chen G",
+        "identifiers": [
+          "0000-0003-2402-2987"
+        ],
+        "affiliations": [
+          "Department of Pathology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China. chengang@gxmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Si-Yan",
+        "short_name": "Chen SY",
+        "identifiers": [
+          "0009-0002-1720-8660"
+        ],
+        "affiliations": [
+          "Day Chemotherapy Center, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi Zhuang Autonomous Region, 530021, P.R. China. izhangtao@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Hereditas"
+    ],
+    "journal_abbrev": [
+      "Hereditas"
+    ],
+    "pub_date": "2026 Aug 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43053156",
+      "42923340",
+      "41511606",
+      "35700449",
+      "33097058",
+      "42792937",
+      "39934701",
+      "41286719",
+      "24325916",
+      "41098715",
+      "41761192",
+      "35581606",
+      "41373405",
+      "40214821",
+      "31924214",
+      "42624178",
+      "42033186",
+      "42486346",
+      "41938520",
+      "42884065",
+      "41836446",
+      "41208840",
+      "41699549",
+      "41764605",
+      "38702814",
+      "42249693",
+      "41929495",
+      "41716413",
+      "42337485",
+      "34426102",
+      "39735666",
+      "42024670",
+      "41168787",
+      "40764361",
+      "41388523",
+      "29510988",
+      "41200169",
+      "41296172",
+      "42373229",
+      "42112339",
+      "34831096",
+      "41664193",
+      "42223712",
+      "41694488",
+      "42435052",
+      "33517828",
+      "39920663",
+      "39232805",
+      "42650061",
+      "40304434",
+      "28315328",
+      "42876554",
+      "42591673",
+      "40607419",
+      "38594215",
+      "41611834",
+      "42836580",
+      "40713875",
+      "42642681",
+      "41918119",
+      "21701496",
+      "39079173",
+      "42475469",
+      "41917876",
+      "28368398",
+      "41710887",
+      "41923163",
+      "42469699",
+      "40169394",
+      "40578094",
+      "34003522",
+      "31665232",
+      "42205755",
+      "41656832",
+      "34358353",
+      "41911956",
+      "35404538",
+      "38416277",
+      "41099090",
+      "33841428",
+      "41646851",
+      "30009820",
+      "41932066",
+      "42689981",
+      "38396900",
+      "40487972",
+      "34030484",
+      "41504052",
+      "31777916",
+      "42249421",
+      "22761647",
+      "40898185",
+      "40493897",
+      "39187525",
+      "39617209",
+      "42140356",
+      "34880328",
+      "42480981",
+      "42479091",
+      "37145265"
+    ],
+    "review": [
+      "43053156"
+    ],
+    "pmc": [
+      "13779765"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://hereditasjournal.biomedcentral.com/articles/10.1186/s41065-026-00730-6",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/bileductcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Bile Duct Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43053156/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

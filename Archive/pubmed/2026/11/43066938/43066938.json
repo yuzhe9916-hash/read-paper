@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "43066938",
+    "doi": "10.1016/j.xpro.2026.104989",
+    "title": "Protocol for generation, immunophenotyping, and live-cell cytotoxicity analysis of primary human CAR-NK cells using CRISPR-SaCas9 and AAV6."
+  },
+  "content": {
+    "abstract": "Targeted gene editing enables controlled integration and consistent expression of a chimeric antigen receptor (CAR) in natural killer (NK) cells. We present a protocol for homology-directed repair-mediated CAR knockin into the AAVS1 safe-harbor locus of expanded human NK cells using CRISPR-SaCas9 ribonucleoprotein electroporation and AAV6 donor-template delivery. We also detail the phenotypic analysis of CAR-NK cells using a 23-marker flow cytometry panel including CAR detection and describe a live-cell imaging assay to evaluate CAR-mediated and antibody-dependent cellular cytotoxicity kinetics.",
+    "keywords": [
+      "CRISPR",
+      "Cell Biology",
+      "Cell culture",
+      "Cell isolation",
+      "Cell-based Assays",
+      "Flow Cytometry",
+      "Immunology",
+      "Microscopy"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Birben, Meric",
+        "Beelen, Nicky A",
+        "Jetani, Hardikkumar",
+        "Janssen, Lynn",
+        "Koetzier, Steven C",
+        "Klein Wolterink, Roel G J",
+        "Wieten, Lotte",
+        "Germeraad, Wilfred T V"
+      ],
+      "short_names": [
+        "Birben M",
+        "Beelen NA",
+        "Jetani H",
+        "Janssen L",
+        "Koetzier SC",
+        "Klein Wolterink RGJ",
+        "Wieten L",
+        "Germeraad WTV"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands. Electronic address: meric.birben@maastrichtuniversity.nl.",
+        "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; Department of Transplantation Immunology, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands.",
+        "CiMaas BV, 6222NK Maastricht, the Netherlands.",
+        "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands.",
+        "GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; Department of Transplantation Immunology, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands.",
+        "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands.",
+        "GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; Department of Transplantation Immunology, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands.",
+        "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; CiMaas BV, 6222NK Maastricht, the Netherlands. Electronic address: w.germeraad@maastrichtuniversity.nl."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Birben, Meric",
+        "short_name": "Birben M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands. Electronic address: meric.birben@maastrichtuniversity.nl."
+        ]
+      },
+      {
+        "full_name": "Beelen, Nicky A",
+        "short_name": "Beelen NA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; Department of Transplantation Immunology, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Jetani, Hardikkumar",
+        "short_name": "Jetani H",
+        "identifiers": [],
+        "affiliations": [
+          "CiMaas BV, 6222NK Maastricht, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Janssen, Lynn",
+        "short_name": "Janssen L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Koetzier, Steven C",
+        "short_name": "Koetzier SC",
+        "identifiers": [],
+        "affiliations": [
+          "GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; Department of Transplantation Immunology, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Klein Wolterink, Roel G J",
+        "short_name": "Klein Wolterink RGJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Wieten, Lotte",
+        "short_name": "Wieten L",
+        "identifiers": [],
+        "affiliations": [
+          "GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; Department of Transplantation Immunology, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Germeraad, Wilfred T V",
+        "short_name": "Germeraad WTV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Maastricht University Medical Center+ (MUMC+), 6221ER Maastricht, the Netherlands; GROW - Research Institute for Oncology and Reproduction, Maastricht University, 6221ER Maastricht, the Netherlands; CiMaas BV, 6222NK Maastricht, the Netherlands. Electronic address: w.germeraad@maastrichtuniversity.nl."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "STAR protocols"
+    ],
+    "journal_abbrev": [
+      "STAR Protoc"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/22 01:18",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43066938",
+      "34529358",
+      "42475348",
+      "35135865",
+      "36050244",
+      "41993608",
+      "34825217",
+      "35784645",
+      "28810809",
+      "41485050",
+      "37886930",
+      "41405764",
+      "34802459",
+      "38139060",
+      "35496795",
+      "39269404",
+      "38475814",
+      "39815622",
+      "35058934",
+      "30734584",
+      "40873035",
+      "33933160",
+      "33468562",
+      "38417916",
+      "42398968",
+      "42577382",
+      "41279666",
+      "41615751",
+      "32440221",
+      "34599028",
+      "42684144",
+      "30997855",
+      "39915004",
+      "29459477",
+      "43023427",
+      "39349459",
+      "40248694",
+      "34505269",
+      "37055320",
+      "41608579",
+      "41843174",
+      "41916134",
+      "33375774",
+      "39029925",
+      "43067666",
+      "42823085",
+      "40954078",
+      "42947991",
+      "41459521",
+      "41845478",
+      "33463756",
+      "37272107",
+      "39673125",
+      "39475383",
+      "41624407",
+      "39256765",
+      "42771323",
+      "38481806",
+      "34896980",
+      "42889303",
+      "36361619",
+      "38254824",
+      "39856752",
+      "42679594",
+      "42139908",
+      "38116030",
+      "41280875",
+      "40599341",
+      "42864652",
+      "41645252",
+      "39285441",
+      "39763064",
+      "42378857",
+      "33941482",
+      "28488245",
+      "40845844",
+      "32983147",
+      "42305549",
+      "41465318",
+      "39462383",
+      "39781381",
+      "41744817",
+      "35287669",
+      "29706119",
+      "38722382",
+      "38493479",
+      "42926223",
+      "35677600",
+      "23036052",
+      "30860598",
+      "33309880",
+      "29609271",
+      "42819479",
+      "32117200",
+      "35573047",
+      "39833547",
+      "41128942",
+      "31901177",
+      "35696531",
+      "34943898"
+    ],
+    "review": [
+      "43066938",
+      "41405764",
+      "33933160",
+      "42947991",
+      "39256765",
+      "41645252",
+      "28488245",
+      "42926223"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-1667(26)00642-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

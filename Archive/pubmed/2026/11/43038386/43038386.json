@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "43038386",
+    "doi": "10.1002/yea.70060",
+    "title": "Optimizing C-Terminal Gene Tagging Using CRISPR/Cas9 in Saccharomyces cerevisiae: From gRNA Design to Tag Incorporation."
+  },
+  "content": {
+    "abstract": "Protein tags are molecular tools for dissecting protein function by enabling detection and purification. N-terminal tagging can sometimes cause protein mislocalization or compromised function. As an alternative, a protein can be tagged at the C-terminus, a procedure that also retains expression from the endogenous promoter. CRISPR/Cas9 has emerged as a powerful tool for gene manipulation, including in vivo gene tagging strategies. Traditional yeast CRISPR design tools rely on static database lookups and provide limited guidance on predicting targeting efficiency, potentially resulting in hidden design limitations that can compromise precise gene editing. We harnessed the versatility of the pML104 expression vector and combined it with a dynamic, multi-parameter scoring gRNA design tool for seamless C-terminal tagging. We observed that certain sequence features, such as an extra guanine at the 3'-end of the PAM sequence, can affect cleavage efficiency, and that under suboptimal conditions, cells can evade homology-directed repair, resulting in an increased probability of false positives. Verification that the tagged protein is expressed and fully functional is critical, and it was achieved here using Western blotting and chromatin Immunoprecipitation (ChIP). This framework provides an efficient blueprint and comprehensive guide for streamlining C-terminal protein tagging in S. cerevisiae.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "gRNA design",
+      "gene tagging"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mashkoor, Muneera",
+        "Grove, Anne"
+      ],
+      "short_names": [
+        "Mashkoor M",
+        "Grove A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4390-0354"
+      ],
+      "affiliations": [
+        "Department of Biological Sciences, Louisiana State University, Baton Rouge, Louisiana, USA.",
+        "Department of Biological Sciences, Louisiana State University, Baton Rouge, Louisiana, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mashkoor, Muneera",
+        "short_name": "Mashkoor M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Louisiana State University, Baton Rouge, Louisiana, USA."
+        ]
+      },
+      {
+        "full_name": "Grove, Anne",
+        "short_name": "Grove A",
+        "identifiers": [
+          "0000-0002-4390-0354"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Louisiana State University, Baton Rouge, Louisiana, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Yeast (Chichester, England)"
+    ],
+    "journal_abbrev": [
+      "Yeast"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 17:33",
+    "fetched_at": "2026-11-23 21:35:10"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43038386",
+      "34463385",
+      "27943405",
+      "35700449",
+      "35543560",
+      "29898980",
+      "30912051",
+      "29019352",
+      "31138654",
+      "31901956",
+      "28979241",
+      "37755326",
+      "31875277",
+      "36536407",
+      "26199327",
+      "30797903",
+      "30199041",
+      "34791226",
+      "28124028",
+      "29207996",
+      "36927663",
+      "39535522",
+      "34594460",
+      "28580607",
+      "41288355",
+      "36640150",
+      "36546759",
+      "28435892",
+      "40698645",
+      "40758833",
+      "36257021",
+      "19180640",
+      "38656525",
+      "30755408",
+      "30912039",
+      "33609360",
+      "28758140",
+      "27736907",
+      "39994413",
+      "39939860",
+      "34284985",
+      "35333175",
+      "28298224",
+      "26305040",
+      "28986789",
+      "31453248",
+      "28348817",
+      "42152995",
+      "33549837",
+      "30142205",
+      "42052944",
+      "18320568",
+      "27845164",
+      "31010727",
+      "18350525",
+      "40228775",
+      "29176845",
+      "16823883",
+      "32221923",
+      "15996627",
+      "35706506",
+      "15565729",
+      "34094391",
+      "31597252",
+      "29638216",
+      "30043367",
+      "42106044",
+      "27340770",
+      "41167358",
+      "27252719",
+      "37129004",
+      "42061934",
+      "30980304",
+      "32241913",
+      "40768339",
+      "29695624",
+      "15334558",
+      "41627753",
+      "42905526",
+      "40620803",
+      "40135905",
+      "34685392",
+      "39999874",
+      "42800597",
+      "29565571",
+      "29192199",
+      "41607697",
+      "30074178",
+      "41723531",
+      "31423617",
+      "41182611",
+      "42064040",
+      "33264648",
+      "42310064",
+      "27134651",
+      "26131852",
+      "30912049",
+      "29703785",
+      "41585947",
+      "40666620"
+    ],
+    "review": [
+      "43038386",
+      "39994413",
+      "35706506",
+      "27340770",
+      "27252719",
+      "34685392",
+      "42064040"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/yea.70060",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

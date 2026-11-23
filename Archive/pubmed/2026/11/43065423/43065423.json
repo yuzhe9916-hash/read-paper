@@ -1,0 +1,319 @@
+{
+  "identity": {
+    "pmid": "43065423",
+    "doi": "10.3389/fonc.2026.1968412",
+    "title": "Targeting autocrine CCL2 signaling reveals oncogenic networks and prognostic biomarkers in medulloblastoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: CCL2 is a well-established mediator of immune cell recruitment to the tumor microenvironment (TME), however, its autocrine role in medulloblastoma remains poorly understood. This study investigated the molecular and prognostic consequences of CCL2 ablation in medulloblastoma cells. METHODS: CCL2 expression was characterized in HTB-186 medulloblastoma cells, and CRISPR/Cas9 was used to generate CCL2 knockout (KO) cells. Transcriptomic alterations were assessed by RNA sequencing followed by differential gene expression, KEGG pathway, and Gene Ontology analyses. Select signaling pathways were validated by cytokine and protein analyses. The prognostic significance of differentially expressed genes was evaluated using Kaplan-Meier and multivariable Cox proportional hazards analyses in the Cavalli medulloblastoma cohort (n = 488). RESULTS: HTB-186 cells expressed high levels of CCL2, and approximately 40% of cells expressed the CCL2 receptor CCR2, supporting the existence of autocrine signaling. CCL2 ablation resulted in 2, 284 differentially expressed genes and significantly altered pathways involved in PI3K/Akt, NF-kappaB, JAK/STAT, cAMP, and Hippo signaling. These transcriptomic findings were confirmed by reduced IL-6 production and altered activation of Akt, NF-kappaB, CREB, and YAP. Survival analyses identified four genes upregulated following CCL2 knockout (KSR2, DLG4, DGKA, and PLD2) that were associated with improved overall survival, whereas four downregulated genes (HSPA8, MYC, CCND1, and ETS2) were associated with poorer survival. These associations remained significant after adjustment for age, sex, metastatic status, histology, and molecular subgroup. CONCLUSIONS: Our findings demonstrate that autocrine CCL2 signaling regulates multiple oncogenic pathways in medulloblastoma and promotes transcriptional programs associated with tumor growth, survival, and poor clinical outcome. These results identify CCL2 as a potential therapeutic target and highlight CCL2-regulated gene signatures as candidate prognostic biomarkers in medulloblastoma.",
+    "keywords": [
+      "CCL2",
+      "Hippo signaling",
+      "NF-kappaB",
+      "PI3 kinase",
+      "RNA sequencing",
+      "pediatric medulloblastoma"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Donninger, Howard",
+        "Amona, Elizabeth B",
+        "Jigo, Raphael",
+        "Chew, Lewis C",
+        "Sundararaj, Preethi",
+        "Sarkar, Omar S",
+        "Jacobs, Megan",
+        "Ortega, Ryley",
+        "Kong, Maiying",
+        "Yaddanapudi, Kavitha"
+      ],
+      "short_names": [
+        "Donninger H",
+        "Amona EB",
+        "Jigo R",
+        "Chew LC",
+        "Sundararaj P",
+        "Sarkar OS",
+        "Jacobs M",
+        "Ortega R",
+        "Kong M",
+        "Yaddanapudi K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medicine, University of Louisville, Louisville, KY, United States.",
+        "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+        "Experimental Therapeutics Program, University of Louisville, Louisville, KY, United States.",
+        "Biostatistics Core, UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+        "Department of Pharmacology and Toxicology, University of Louisville, Louisville, KY, United States.",
+        "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+        "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+        "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+        "Department of Medicine, University of Louisville, Louisville, KY, United States.",
+        "Department of Medicine, University of Louisville, Louisville, KY, United States.",
+        "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+        "Biostatistics Core, UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+        "Department of Bioinformatics and Biostatistics, School of Public Health and Information Sciences (SPHIS), University of Louisville, Louisville, KY, United States.",
+        "Department of Microbiology & Immunology, University of Louisville, Louisville, KY, United States.",
+        "Department of Surgery, Division of Immunotherapy, University of Louisville, Louisville, KY, United States.",
+        "Immuno-Oncology Group, Brown Cancer Center, University of Louisville, Louisville, KY, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Donninger, Howard",
+        "short_name": "Donninger H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Louisville, Louisville, KY, United States.",
+          "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+          "Experimental Therapeutics Program, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Amona, Elizabeth B",
+        "short_name": "Amona EB",
+        "identifiers": [],
+        "affiliations": [
+          "Biostatistics Core, UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Jigo, Raphael",
+        "short_name": "Jigo R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Chew, Lewis C",
+        "short_name": "Chew LC",
+        "identifiers": [],
+        "affiliations": [
+          "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Sundararaj, Preethi",
+        "short_name": "Sundararaj P",
+        "identifiers": [],
+        "affiliations": [
+          "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Sarkar, Omar S",
+        "short_name": "Sarkar OS",
+        "identifiers": [],
+        "affiliations": [
+          "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Jacobs, Megan",
+        "short_name": "Jacobs M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Ortega, Ryley",
+        "short_name": "Ortega R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Kong, Maiying",
+        "short_name": "Kong M",
+        "identifiers": [],
+        "affiliations": [
+          "UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+          "Biostatistics Core, UofL Health Brown Cancer Center, University of Louisville, Louisville, KY, United States.",
+          "Department of Bioinformatics and Biostatistics, School of Public Health and Information Sciences (SPHIS), University of Louisville, Louisville, KY, United States."
+        ]
+      },
+      {
+        "full_name": "Yaddanapudi, Kavitha",
+        "short_name": "Yaddanapudi K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology & Immunology, University of Louisville, Louisville, KY, United States.",
+          "Department of Surgery, Division of Immunotherapy, University of Louisville, Louisville, KY, United States.",
+          "Immuno-Oncology Group, Brown Cancer Center, University of Louisville, Louisville, KY, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in oncology"
+    ],
+    "journal_abbrev": [
+      "Front Oncol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/21 05:43",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43065423",
+      "42565562",
+      "31185958",
+      "41946008",
+      "42493450",
+      "42127515",
+      "42430902",
+      "41716413",
+      "31729527",
+      "40764361",
+      "41872824",
+      "42387537",
+      "42180849",
+      "42244292",
+      "42288924",
+      "42260484",
+      "42135732",
+      "42436415",
+      "42192776",
+      "42032729",
+      "34100771",
+      "41551463",
+      "42486346",
+      "42227003",
+      "42202050",
+      "40656950",
+      "42732946",
+      "42026465",
+      "42985503",
+      "41865336",
+      "32807134",
+      "39524888",
+      "42104495",
+      "42477639",
+      "40696947",
+      "38087324",
+      "40740228",
+      "42475371",
+      "42351756",
+      "41740484",
+      "42731365",
+      "36076499",
+      "41595430",
+      "42997265",
+      "34192607",
+      "24344240",
+      "42675601",
+      "39631379",
+      "42787504",
+      "42814674",
+      "38298716",
+      "41151853",
+      "41836446",
+      "40898098",
+      "35841664",
+      "40229676",
+      "39181686",
+      "40713656",
+      "42931868",
+      "41882633",
+      "27956228",
+      "42642681",
+      "42096959",
+      "37818041",
+      "41462288",
+      "42934719",
+      "42483177",
+      "39014433",
+      "42940052",
+      "40064955",
+      "31684858",
+      "40607387",
+      "40898185",
+      "22676255",
+      "42553137",
+      "42033509",
+      "42353827",
+      "42510824",
+      "42387880",
+      "42800150",
+      "42494116",
+      "42774450",
+      "36872359",
+      "43041606",
+      "34419144",
+      "42399461",
+      "29934505",
+      "32580068",
+      "39857430",
+      "42348043",
+      "39525025",
+      "41794281",
+      "30362547",
+      "42742779",
+      "39234567",
+      "38228552",
+      "42591618",
+      "31832114",
+      "42210008",
+      "41479192"
+    ],
+    "review": [
+      "43065423",
+      "42787504"
+    ],
+    "pmc": [
+      "13785106"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43065423/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3713",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fonc.2026.1968412",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

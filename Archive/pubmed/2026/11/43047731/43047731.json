@@ -1,0 +1,290 @@
+{
+  "identity": {
+    "pmid": "43047731",
+    "doi": "10.62347/TGJC7155",
+    "title": "A lactylation-associated transcriptomic signature predicts outcome and identifies CBX3 dependency in multiple myeloma."
+  },
+  "content": {
+    "abstract": "Lactate accumulation is associated with the progression of multiple myeloma (MM) and resistance to treatment, but the clinical implications of lactylation-associated transcription in MM are not yet fully understood. We integrated public transcriptomic, metabolomic, proteomic, and genome-wide CRISPR-Cas9 screening data to examine this relationship. A transcriptomic score derived from a curated set of 398 lactylation-associated genes increased across disease stages and adverse clinical groups. Six genes (CBX3, DDX21, GAPDH, HNRNPC, ILF2, and NUP133) associated with overall survival across four cohorts were retained as a fixed candidate panel. In the CoMMpass development cohort, a multivariable Cox model based on standardized expression yielded an optimism-corrected C-index of 0.648 (95% CI, 0.605-0.693). The continuous six-gene score remained associated with overall survival in the three replication cohorts (hazard ratios per standard-deviation increase, 1.33-1.58). Genome-wide CRISPR screening identified CBX3 as an MM-cell dependency. CBX3 knockout reduced cell proliferation and global lysine lactylation, whereas inhibition of lactate production reduced CBX3 protein abundance. These findings clarify the relationship between lactylation-associated transcription and MM pathophysiology.",
+    "keywords": [
+      "CBX3",
+      "Lactylation",
+      "multi-omics",
+      "multiple myeloma",
+      "prognostic model"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Qian",
+        "Tao, Yali",
+        "Wu, Daiqian",
+        "Xu, Jing",
+        "Pan, Hui",
+        "Liu, Yu",
+        "Niu, Ting"
+      ],
+      "short_names": [
+        "Hu Q",
+        "Tao Y",
+        "Wu D",
+        "Xu J",
+        "Pan H",
+        "Liu Y",
+        "Niu T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "Department of Cardiology, Chengdu Cardiovascular Disease Research Institute, Affiliated Hospital of Southwest Jiaotong University, The Third People's Hospital of Chengdu Chengdu, Sichuan, China.",
+        "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+        "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Qian",
+        "short_name": "Hu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Yali",
+        "short_name": "Tao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Daiqian",
+        "short_name": "Wu D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Chengdu Cardiovascular Disease Research Institute, Affiliated Hospital of Southwest Jiaotong University, The Third People's Hospital of Chengdu Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jing",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Hui",
+        "short_name": "Pan H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yu",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Niu, Ting",
+        "short_name": "Niu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hematology, Institute of Hematology, and Center for High Altitude Medicine, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "State Key Laboratory of Biotherapy, Collaborative Innovation Center of Biotherapy, West China Hospital, Sichuan University Chengdu, Sichuan, China.",
+          "National Facility for Translational Medicine (Sichuan), West China Hospital, Sichuan University Chengdu, Sichuan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "American journal of cancer research"
+    ],
+    "journal_abbrev": [
+      "Am J Cancer Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 11:30",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43047731",
+      "41836446",
+      "39636180",
+      "41827671",
+      "42212139",
+      "42135732",
+      "42591440",
+      "41504052",
+      "36321557",
+      "43023514",
+      "41904502",
+      "41205015",
+      "38817665",
+      "42814674",
+      "41422325",
+      "42192326",
+      "42193012",
+      "41026305",
+      "41691090",
+      "41699363",
+      "42292469",
+      "42625671",
+      "42966321",
+      "42196471",
+      "43018831",
+      "42164391",
+      "41656832",
+      "41139200",
+      "42079738",
+      "43044441",
+      "42556016",
+      "41510385",
+      "40703521",
+      "29475724",
+      "41035644",
+      "42821046",
+      "42860655",
+      "40612938",
+      "42983362",
+      "42682961",
+      "41716413",
+      "42486346",
+      "42792859",
+      "41657446",
+      "39724993",
+      "38956267",
+      "42888597",
+      "40735323",
+      "31502042",
+      "42973320",
+      "41049291",
+      "42909568",
+      "41611834",
+      "42459416",
+      "41582583",
+      "40256656",
+      "41566241",
+      "41703614",
+      "41296151",
+      "39669362",
+      "42361107",
+      "37242427",
+      "42180849",
+      "42185987",
+      "43053156",
+      "42719524",
+      "42042076",
+      "42824896",
+      "42510824",
+      "41962496",
+      "43047653",
+      "42652192",
+      "42606648",
+      "42664787",
+      "41971124",
+      "43000998",
+      "41645330",
+      "40792136",
+      "40741410",
+      "42351756",
+      "41654888",
+      "42766563",
+      "42385356",
+      "40914702",
+      "41566505",
+      "39713879",
+      "42997240",
+      "42170969",
+      "41287366",
+      "41505248",
+      "29731822",
+      "41717009",
+      "42059994",
+      "35898492",
+      "43026800",
+      "42069574",
+      "42136654",
+      "40264050",
+      "42738384",
+      "42305460"
+    ],
+    "review": [
+      "43047731",
+      "36321557"
+    ],
+    "pmc": [
+      "13775054"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43047731/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GAPDH-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-223",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

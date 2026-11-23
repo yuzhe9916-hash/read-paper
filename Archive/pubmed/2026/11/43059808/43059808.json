@@ -1,0 +1,365 @@
+{
+  "identity": {
+    "pmid": "43059808",
+    "doi": "10.64898/2026.11.03.764059",
+    "title": "Time-resolved single-cell screening reveals the dynamic regulatory architecture of human cardiogenesis."
+  },
+  "content": {
+    "abstract": "Congenital heart disease (CHD) originates during early embryogenesis, yet when disease genes act cannot be determined from existing data. Human fetal heart atlases lack critical time points, and perturbation screens that systematically assess gene function currently profile at most a few time points. Here we combined single-cell CRISPR screening of 400 disease-relevant genes in cardioids, sampled daily over seven developmental days ( approximately 975,000 cells), with a matched multiome atlas. Perturbation phenotypes were strongly dependent on developmental stage. Perturbations that reshaped cell-fate allocation or gene expression were enriched for CHD-linked genes, and most acted already during progenitor stages. Timing was largely independent of the target gene's own expression, marking instead when a cell state became functionally dependent on it, and some effects persisted after expression declined. Consensus gene regulatory networks integrating perturbation and multiome data recovered stage-specific regulators and nominated HOXB2 and HOXB3 as candidate cardiac regulators. Many perturbations converged on shared downstream programmes, which were reorganised through differentiation. Effects correlated in progenitors were maintained in differentiated cells, split into distinct programmes, converged with other perturbations or disappeared entirely, indicating that gene function is highly context dependent. Beyond advancing our understanding of the developmental regulatory logic underlying CHD, our work provides a resource for developing context-dependent models for in silico prediction of perturbation effects.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lindenhofer, D",
+        "Mikulik, K",
+        "Mantz, S",
+        "Jung, H",
+        "Ueltzhoffer, K",
+        "Kueblbeck, M",
+        "Rueda-Gensini, L",
+        "Munoz-Verdu, A",
+        "Haas, J",
+        "Meder, B",
+        "Schraivogel, D",
+        "Mall, M",
+        "Huber, W",
+        "Pettet, A",
+        "Reddington, J P",
+        "Clarke, B",
+        "Stegle, O",
+        "Steinmetz, L M"
+      ],
+      "short_names": [
+        "Lindenhofer D",
+        "Mikulik K",
+        "Mantz S",
+        "Jung H",
+        "Ueltzhoffer K",
+        "Kueblbeck M",
+        "Rueda-Gensini L",
+        "Munoz-Verdu A",
+        "Haas J",
+        "Meder B",
+        "Schraivogel D",
+        "Mall M",
+        "Huber W",
+        "Pettet A",
+        "Reddington JP",
+        "Clarke B",
+        "Stegle O",
+        "Steinmetz LM"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8838-7163",
+        "ORCID: 0009-0006-1314-7716",
+        "ORCID: 0009-0001-7231-4573",
+        "ORCID: 0000-0002-0507-7598",
+        "ORCID: 0000-0003-0138-7393",
+        "ORCID: 0000-0003-0741-2633",
+        "ORCID: 0000-0002-5734-6980",
+        "ORCID: 0000-0002-1278-2594",
+        "ORCID: 0000-0002-0474-2218",
+        "ORCID: 0000-0002-6695-286X",
+        "ORCID: 0000-0002-8818-7193",
+        "ORCID: 0000-0002-3962-2865"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Lindenhofer, D",
+        "short_name": "Lindenhofer D",
+        "identifiers": [
+          "0000-0001-8838-7163"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mikulik, K",
+        "short_name": "Mikulik K",
+        "identifiers": [
+          "0009-0006-1314-7716"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mantz, S",
+        "short_name": "Mantz S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jung, H",
+        "short_name": "Jung H",
+        "identifiers": [
+          "0009-0001-7231-4573"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ueltzhöffer, K",
+        "short_name": "Ueltzhöffer K",
+        "identifiers": [
+          "0000-0002-0507-7598"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kueblbeck, M",
+        "short_name": "Kueblbeck M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rueda-Gensini, L",
+        "short_name": "Rueda-Gensini L",
+        "identifiers": [
+          "0000-0003-0138-7393"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Muñoz-Verdú, A",
+        "short_name": "Muñoz-Verdú A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Haas, J",
+        "short_name": "Haas J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Meder, B",
+        "short_name": "Meder B",
+        "identifiers": [
+          "0000-0003-0741-2633"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schraivogel, D",
+        "short_name": "Schraivogel D",
+        "identifiers": [
+          "0000-0002-5734-6980"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mall, M",
+        "short_name": "Mall M",
+        "identifiers": [
+          "0000-0002-1278-2594"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huber, W",
+        "short_name": "Huber W",
+        "identifiers": [
+          "0000-0002-0474-2218"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pettet, A",
+        "short_name": "Pettet A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reddington, J P",
+        "short_name": "Reddington JP",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Clarke, B",
+        "short_name": "Clarke B",
+        "identifiers": [
+          "0000-0002-6695-286X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Stegle, O",
+        "short_name": "Stegle O",
+        "identifiers": [
+          "0000-0002-8818-7193"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Steinmetz, L M",
+        "short_name": "Steinmetz LM",
+        "identifiers": [
+          "0000-0002-3962-2865"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43059808",
+      "42475469",
+      "43060182",
+      "40080060",
+      "41446109",
+      "43059734",
+      "42411605",
+      "35700449",
+      "37851522",
+      "39606363",
+      "42482180",
+      "24803680",
+      "42210302",
+      "41279701",
+      "35142607",
+      "31488212",
+      "39091800",
+      "41937210",
+      "41889931",
+      "42835153",
+      "42395443",
+      "42793001",
+      "36321557",
+      "32129551",
+      "41473321",
+      "39980349",
+      "42074532",
+      "39437788",
+      "40425601",
+      "43060471",
+      "39689711",
+      "42981423",
+      "42296381",
+      "42523397",
+      "42938298",
+      "39663454",
+      "31985403",
+      "35817986",
+      "42664972",
+      "42835510",
+      "35976093",
+      "37705079",
+      "42680482",
+      "42814674",
+      "41984780",
+      "25887857",
+      "42367874",
+      "42044093",
+      "39829740",
+      "20560033",
+      "27534536",
+      "41193844",
+      "42749396",
+      "42724214",
+      "42094425",
+      "25997157",
+      "32065584",
+      "37205457",
+      "41826830",
+      "43060128",
+      "39273049",
+      "33321106",
+      "42766221",
+      "42383567",
+      "40832854",
+      "32392816",
+      "37704762",
+      "42281968",
+      "42119563",
+      "25645121",
+      "29037607",
+      "41862973",
+      "28436429",
+      "41758996",
+      "42059390",
+      "36563664",
+      "24036272",
+      "38967666",
+      "42085153",
+      "41322005",
+      "39567793",
+      "42754836",
+      "39131273",
+      "37745614",
+      "39026742",
+      "41040309",
+      "41183511",
+      "40737448",
+      "36629404",
+      "38814745",
+      "39117640",
+      "42869019",
+      "41171131",
+      "32772801",
+      "31625562",
+      "26039571",
+      "42922884",
+      "40192104",
+      "24018375",
+      "41972591"
+    ],
+    "review": [
+      "43059808",
+      "36321557",
+      "39980349",
+      "42074532",
+      "42835510",
+      "20560033",
+      "42724214",
+      "42766221",
+      "41862973"
+    ],
+    "pmc": [
+      "13778826"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43059808/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.03.764059",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

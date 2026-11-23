@@ -1,0 +1,455 @@
+{
+  "identity": {
+    "pmid": "43060431",
+    "doi": "10.64898/2026.11.02.762549",
+    "title": "ExPert infers causal perturbations from cell states across biological and clinical contexts."
+  },
+  "content": {
+    "abstract": "Pooled single-cell CRISPR screens have driven substantial effort toward models predicting the response to a perturbation. We posed the inverse question: which perturbation produced an observed cell state? Here we developed ExPert (Extracting Perturbations), which learns one prototype per perturbation in a latent space shared by 12 cellular contexts, trained on 8,964 perturbations and 19.5 million cells, and ranks 19,895 candidate genes per query, over half absent from training. ExPert more than doubled held-out-context recall over the best existing method with 1,000-fold less compute, and transferred without retraining to drugs, protein degradation and combinations. In alcohol-associated liver disease it implicated mRNA export, unchanged in expression, and we experimentally confirmed nuclear poly(A) retention and isoform switching. In primary mitochondrial disease it recovered the affected complex from blood, localized the signal to monocytes, and flagged a misdiagnosed control. Perturbation atlases can thus be queried in reverse, from state to likely driver.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Schwartz, Leon",
+        "Schlamowitz, Jacob L",
+        "Kuznets-Speck, Benjamin",
+        "Johnson, Conor W",
+        "Das, Diptatanu",
+        "Grody, Emanuelle I",
+        "Bai, Tao",
+        "Sun, Hanxiao",
+        "Senthilkumar, Irish",
+        "Primavera, Gillian",
+        "Jung, Jaekwon",
+        "Kuusik, Britta",
+        "Grant, Rogan A",
+        "Rojas, Enrique",
+        "Abdrabou, Abdalla M",
+        "Peiffer, Brandon",
+        "Sun, Zhaoli",
+        "Diehl, Anna Mae",
+        "Marr, Carsten",
+        "Chandel, Navdeep S",
+        "Mithal, Divakar S",
+        "Weinberg, Samuel E",
+        "Adli, Mazhar",
+        "Kalsotra, Auinash",
+        "Prashnani, Ekta",
+        "Goyal, Yogesh"
+      ],
+      "short_names": [
+        "Schwartz L",
+        "Schlamowitz JL",
+        "Kuznets-Speck B",
+        "Johnson CW",
+        "Das D",
+        "Grody EI",
+        "Bai T",
+        "Sun H",
+        "Senthilkumar I",
+        "Primavera G",
+        "Jung J",
+        "Kuusik B",
+        "Grant RA",
+        "Rojas E",
+        "Abdrabou AM",
+        "Peiffer B",
+        "Sun Z",
+        "Diehl AM",
+        "Marr C",
+        "Chandel NS",
+        "Mithal DS",
+        "Weinberg SE",
+        "Adli M",
+        "Kalsotra A",
+        "Prashnani E",
+        "Goyal Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8621-4146",
+        "ORCID: 0009-0002-3309-2928",
+        "ORCID: 0000-0001-9859-8749",
+        "ORCID: 0000-0002-0915-6496",
+        "ORCID: 0000-0003-0048-1724",
+        "ORCID: 0009-0006-2987-642X",
+        "ORCID: 0000-0002-7194-3685",
+        "ORCID: 0009-0008-7705-9824",
+        "ORCID: 0009-0002-8931-1595",
+        "ORCID: 0009-0000-9661-4135",
+        "ORCID: 0000-0003-0655-0882",
+        "ORCID: 0009-0003-2514-0173",
+        "ORCID: 0000-0002-6783-2923",
+        "ORCID: 0000-0002-4272-8046",
+        "ORCID: 0000-0003-2154-4552",
+        "ORCID: 0000-0001-7208-3886",
+        "ORCID: 0000-0002-8122-1766",
+        "ORCID: 0000-0003-4740-9594",
+        "ORCID: 0000-0002-1011-0006",
+        "ORCID: 0009-0000-5086-2416",
+        "ORCID: 0000-0003-3502-6465"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Schwartz, Leon",
+        "short_name": "Schwartz L",
+        "identifiers": [
+          "0000-0001-8621-4146"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schlamowitz, Jacob L",
+        "short_name": "Schlamowitz JL",
+        "identifiers": [
+          "0009-0002-3309-2928"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kuznets-Speck, Benjamin",
+        "short_name": "Kuznets-Speck B",
+        "identifiers": [
+          "0000-0001-9859-8749"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Johnson, Conor W",
+        "short_name": "Johnson CW",
+        "identifiers": [
+          "0000-0002-0915-6496"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Das, Diptatanu",
+        "short_name": "Das D",
+        "identifiers": [
+          "0000-0003-0048-1724"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Grody, Emanuelle I",
+        "short_name": "Grody EI",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bai, Tao",
+        "short_name": "Bai T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sun, Hanxiao",
+        "short_name": "Sun H",
+        "identifiers": [
+          "0009-0006-2987-642X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Senthilkumar, Irish",
+        "short_name": "Senthilkumar I",
+        "identifiers": [
+          "0000-0002-7194-3685"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Primavera, Gillian",
+        "short_name": "Primavera G",
+        "identifiers": [
+          "0009-0008-7705-9824"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jung, Jaekwon",
+        "short_name": "Jung J",
+        "identifiers": [
+          "0009-0002-8931-1595"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kuusik, Britta",
+        "short_name": "Kuusik B",
+        "identifiers": [
+          "0009-0000-9661-4135"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Grant, Rogan A",
+        "short_name": "Grant RA",
+        "identifiers": [
+          "0000-0003-0655-0882"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rojas, Enrique",
+        "short_name": "Rojas E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Abdrabou, Abdalla M",
+        "short_name": "Abdrabou AM",
+        "identifiers": [
+          "0009-0003-2514-0173"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Peiffer, Brandon",
+        "short_name": "Peiffer B",
+        "identifiers": [
+          "0000-0002-6783-2923"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sun, Zhaoli",
+        "short_name": "Sun Z",
+        "identifiers": [
+          "0000-0002-4272-8046"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Diehl, Anna Mae",
+        "short_name": "Diehl AM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Marr, Carsten",
+        "short_name": "Marr C",
+        "identifiers": [
+          "0000-0003-2154-4552"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chandel, Navdeep S",
+        "short_name": "Chandel NS",
+        "identifiers": [
+          "0000-0001-7208-3886"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mithal, Divakar S",
+        "short_name": "Mithal DS",
+        "identifiers": [
+          "0000-0002-8122-1766"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Weinberg, Samuel E",
+        "short_name": "Weinberg SE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Adli, Mazhar",
+        "short_name": "Adli M",
+        "identifiers": [
+          "0000-0003-4740-9594"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kalsotra, Auinash",
+        "short_name": "Kalsotra A",
+        "identifiers": [
+          "0000-0002-1011-0006"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Prashnani, Ekta",
+        "short_name": "Prashnani E",
+        "identifiers": [
+          "0009-0000-5086-2416"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Goyal, Yogesh",
+        "short_name": "Goyal Y",
+        "identifiers": [
+          "0000-0003-3502-6465"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 21:33:51"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060431",
+      "42667121",
+      "43060182",
+      "42475469",
+      "41889931",
+      "42818106",
+      "42818046",
+      "42673963",
+      "42482180",
+      "43059734",
+      "41000753",
+      "42854686",
+      "42976571",
+      "42932844",
+      "37770710",
+      "42848419",
+      "36321557",
+      "41647197",
+      "42814674",
+      "42067667",
+      "41509211",
+      "33620822",
+      "42044679",
+      "38558968",
+      "42577751",
+      "37154091",
+      "42865067",
+      "42775042",
+      "43060503",
+      "42455615",
+      "41094040",
+      "37760098",
+      "40997798",
+      "31363220",
+      "40877393",
+      "42990453",
+      "40631127",
+      "40831507",
+      "41394575",
+      "43059808",
+      "42996057",
+      "43060128",
+      "38558987",
+      "38940153",
+      "42995794",
+      "42804716",
+      "23912807",
+      "42704667",
+      "41826830",
+      "42265257",
+      "41332668",
+      "42589098",
+      "42019216",
+      "41171131",
+      "40103613",
+      "41473321",
+      "40631143",
+      "41452988",
+      "42835153",
+      "42990227",
+      "37961332",
+      "41758161",
+      "42411605",
+      "39005298",
+      "42990240",
+      "38155269",
+      "42127893",
+      "30212088",
+      "40011559",
+      "37602218",
+      "39386549",
+      "40072781",
+      "42094362",
+      "41000745",
+      "40187352",
+      "30726003",
+      "42538947",
+      "42845358",
+      "33617647",
+      "40166200",
+      "42537673",
+      "40011560",
+      "39823522",
+      "27606392",
+      "42990646",
+      "43038011",
+      "35292083",
+      "37503097",
+      "42146330",
+      "35593869",
+      "38625746",
+      "40259084",
+      "39773352",
+      "42044093",
+      "42398561",
+      "42712921",
+      "37851522",
+      "40178283",
+      "39566551",
+      "42747551"
+    ],
+    "review": [
+      "43060431",
+      "36321557",
+      "42775042",
+      "40103613",
+      "30212088",
+      "42537673",
+      "27606392",
+      "42712921"
+    ],
+    "pmc": [
+      "13780649"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060431/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.02.762549",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

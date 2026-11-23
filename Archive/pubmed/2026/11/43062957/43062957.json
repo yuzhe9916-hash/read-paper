@@ -1,0 +1,393 @@
+{
+  "identity": {
+    "pmid": "43062957",
+    "doi": "10.1073/pnas.2627282123",
+    "title": "A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target."
+  },
+  "content": {
+    "abstract": "Accumulation of senescent cells is increasingly viewed as a significant contributor to aging and age-related diseases. To date, the elimination of senescent cells through small molecule senolytic agents has largely relied on a limited number of repurposed agents, often leveraged from previous oncological applications. Here, we describe a CRISPR-based, genome-wide, synthetic lethal screen for senescent cells. From this screen, we identify a number of genes whose deletion appears to be well tolerated in normal proliferating cells, but whose deletion is lethal in the context of senescence. We further characterize one promising candidate gene encoding the ER-resident protein PARP16. Knockdown of PARP16 does not affect the viability of mouse or human cells but results in the death of a wide range of senescent cells. Furthermore, two distinct small molecule PARP16 inhibitors have little effect of normal cell growth but result in the selective death of senescent cells in culture and in freshly isolated human donor lung tissue explants. Together, these results demonstrate a rational strategy to identify novel senolytic therapies that could have potential applications for a wide range of age-related conditions.",
+    "keywords": [
+      "endoplasmic reticulum",
+      "senescence",
+      "therapeutics"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Cellular Senescence/genetics/drug effects",
+      "Animals",
+      "Mice",
+      "*Synthetic Lethal Mutations",
+      "*Senotherapeutics/pharmacology",
+      "Cell Proliferation",
+      "Gene Knockdown Techniques"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ghosh-Choudhary, Shohini",
+        "Liu, Jie",
+        "Beaulieu, Delphine",
+        "Pineda, Ricardo",
+        "Yang, Haoxiang",
+        "Moturi, Shria",
+        "Larsen, Mads B",
+        "Alfaras, Irene",
+        "Pirooznia, Mehdi",
+        "Liu, Shihui",
+        "Alder, Jonathan K",
+        "Liu, Yuan",
+        "Chen, Bill B",
+        "Konigshoff, Melanie",
+        "Finkel, Toren"
+      ],
+      "short_names": [
+        "Ghosh-Choudhary S",
+        "Liu J",
+        "Beaulieu D",
+        "Pineda R",
+        "Yang H",
+        "Moturi S",
+        "Larsen MB",
+        "Alfaras I",
+        "Pirooznia M",
+        "Liu S",
+        "Alder JK",
+        "Liu Y",
+        "Chen BB",
+        "Konigshoff M",
+        "Finkel T"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1549-2012",
+        "ORCID: 0000-0002-0258-747X",
+        "ORCID: 0009-0000-5582-4793",
+        "ORCID: 0000-0003-3444-1069",
+        "ORCID: 0000-0003-3741-6512",
+        "ORCID: 0000-0002-0726-3546"
+      ],
+      "affiliations": [
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Center for Lung Aging and Regeneration, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine, Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15261. ROR: https://ror.org/01an3r305",
+        "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261.",
+        "Center for Lung Aging and Regeneration, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine, Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15261. ROR: https://ror.org/01an3r305",
+        "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261.",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Division of Intramural Research, Bioinformatics and Computational Core Facility, National Heart, Lung and Blood Institute, NIH, Bethesda, MD 20892. ROR: https://ror.org/012pb6c26",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261.",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305",
+        "Center for Lung Aging and Regeneration, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine, Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15261. ROR: https://ror.org/01an3r305",
+        "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261.",
+        "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219. ROR: https://ror.org/01an3r305"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ghosh-Choudhary, Shohini",
+        "short_name": "Ghosh-Choudhary S",
+        "identifiers": [],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Liu, Jie",
+        "short_name": "Liu J",
+        "identifiers": [
+          "0000-0003-1549-2012"
+        ],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Beaulieu, Delphine",
+        "short_name": "Beaulieu D",
+        "identifiers": [
+          "0000-0002-0258-747X"
+        ],
+        "affiliations": [
+          "Center for Lung Aging and Regeneration, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine, Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15261.",
+          "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261."
+        ]
+      },
+      {
+        "full_name": "Pineda, Ricardo",
+        "short_name": "Pineda R",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Lung Aging and Regeneration, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine, Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15261.",
+          "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261."
+        ]
+      },
+      {
+        "full_name": "Yang, Haoxiang",
+        "short_name": "Yang H",
+        "identifiers": [
+          "0009-0000-5582-4793"
+        ],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Moturi, Shria",
+        "short_name": "Moturi S",
+        "identifiers": [],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Larsen, Mads B",
+        "short_name": "Larsen MB",
+        "identifiers": [],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Alfaras, Irene",
+        "short_name": "Alfaras I",
+        "identifiers": [],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Pirooznia, Mehdi",
+        "short_name": "Pirooznia M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Intramural Research, Bioinformatics and Computational Core Facility, National Heart, Lung and Blood Institute, NIH, Bethesda, MD 20892."
+        ]
+      },
+      {
+        "full_name": "Liu, Shihui",
+        "short_name": "Liu S",
+        "identifiers": [
+          "0000-0003-3444-1069"
+        ],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Alder, Jonathan K",
+        "short_name": "Alder JK",
+        "identifiers": [
+          "0000-0003-3741-6512"
+        ],
+        "affiliations": [
+          "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261."
+        ]
+      },
+      {
+        "full_name": "Liu, Yuan",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Chen, Bill B",
+        "short_name": "Chen BB",
+        "identifiers": [],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      },
+      {
+        "full_name": "Königshoff, Melanie",
+        "short_name": "Königshoff M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Lung Aging and Regeneration, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine, Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15261.",
+          "Division of Pulmonary, Allergy, and Critical Care Medicine, Dorothy P. and Richard P. Simmons Center for Interstitial Lung Disease, Pittsburgh, PA 15261."
+        ]
+      },
+      {
+        "full_name": "Finkel, Toren",
+        "short_name": "Finkel T",
+        "identifiers": [
+          "0000-0002-0726-3546"
+        ],
+        "affiliations": [
+          "Aging Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA 15219."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Nov 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 17:32",
+    "fetched_at": "2026-11-23 21:33:11"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43062957",
+      "37699398",
+      "34158393",
+      "41887392",
+      "40098059",
+      "40437670",
+      "38185231",
+      "41423036",
+      "41104943",
+      "38604701",
+      "42427232",
+      "38183407",
+      "35432205",
+      "41096951",
+      "34689087",
+      "40778874",
+      "42966158",
+      "36055997",
+      "39058554",
+      "35438548",
+      "26343116",
+      "37279940",
+      "36128715",
+      "42833071",
+      "39762561",
+      "43041866",
+      "39557194",
+      "37667102",
+      "42836501",
+      "42865293",
+      "42032311",
+      "40725041",
+      "41462575",
+      "40578685",
+      "35274377",
+      "42417965",
+      "39727337",
+      "36268851",
+      "39730824",
+      "42457010",
+      "39395326",
+      "37142829",
+      "41620649",
+      "38635879",
+      "39658621",
+      "37395866",
+      "39021199",
+      "35349590",
+      "37117524",
+      "34627838",
+      "42035526",
+      "41206997",
+      "40693561",
+      "34536356",
+      "38909661",
+      "39965253",
+      "28871086",
+      "41615494",
+      "38262581",
+      "35974106",
+      "39693021",
+      "38909784",
+      "40220121",
+      "39971252",
+      "34769049",
+      "42224998",
+      "38636998",
+      "38976646",
+      "38831635",
+      "38037999",
+      "38690734",
+      "40375674",
+      "42098153",
+      "34645909",
+      "41126823",
+      "40994903",
+      "35292270",
+      "39284569",
+      "40199385",
+      "35507395",
+      "39828770",
+      "31408714",
+      "39487537",
+      "42069587",
+      "41513056",
+      "36980256",
+      "40930443",
+      "38451724",
+      "32821059",
+      "42834419",
+      "40508198",
+      "33649045",
+      "41455316",
+      "42995257",
+      "41151886",
+      "36116755",
+      "37174697",
+      "32233024",
+      "42178984",
+      "32979174"
+    ],
+    "review": [
+      "43062957",
+      "38604701",
+      "35432205",
+      "41096951",
+      "39058554",
+      "26343116",
+      "36128715",
+      "43041866",
+      "40725041",
+      "42417965",
+      "39727337",
+      "36268851",
+      "42457010",
+      "41620649",
+      "34627838",
+      "41206997",
+      "41615494",
+      "39693021",
+      "40375674",
+      "40994903",
+      "31408714",
+      "36980256",
+      "40508198",
+      "36116755",
+      "37174697"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2627282123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

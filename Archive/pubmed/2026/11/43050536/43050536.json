@@ -1,0 +1,388 @@
+{
+  "identity": {
+    "pmid": "43050536",
+    "doi": "10.1126/sciadv.aei2542",
+    "title": "An integrative single-cell long noncoding RNA atlas reveals regulatory programs in the pan-cancer tumor microenvironment."
+  },
+  "content": {
+    "abstract": "Long noncoding RNAs (lncRNAs) have been shown as critical components in cancer genomics, yet their functionality and regulation remain elusive. Here, we present an integrative lncRNA atlas covering more than 370,000 cells from 18 cancer types. In addition to multiple lineage- and cellular state transition-associated lncRNAs, we identify a set of lncRNAs that are embedded within cell type-specific regulons, suggesting associations between lncRNA expression and cell type-enriched transcriptional programs. By integrating CRISPR-based functional genomic screens and clinical data, we further prioritize not only CRISPR-supported candidate lncRNAs linked to tumor cell fitness and immune cell state features but also specific lncRNA signatures correlated with patient survival and immunotherapy response.",
+    "keywords": [],
+    "mesh_terms": [
+      "*RNA, Long Noncoding/genetics",
+      "Humans",
+      "*Tumor Microenvironment/genetics",
+      "*Gene Expression Regulation, Neoplastic",
+      "*Neoplasms/genetics/pathology",
+      "Single-Cell Analysis",
+      "Single-Cell Gene Expression Analysis",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Shiting",
+        "Qian, Qiheng",
+        "Liu, Yuting",
+        "Ding, Yang",
+        "Yang, Dechang",
+        "Zheng, Xing",
+        "Cheng, Sijin",
+        "Huang, Guoquan",
+        "Gao, Ge",
+        "Xiao, Jingfa",
+        "Zhang, Zhang",
+        "Jiang, Shuai"
+      ],
+      "short_names": [
+        "Wang S",
+        "Qian Q",
+        "Liu Y",
+        "Ding Y",
+        "Yang D",
+        "Zheng X",
+        "Cheng S",
+        "Huang G",
+        "Gao G",
+        "Xiao J",
+        "Zhang Z",
+        "Jiang S"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-7113-0539",
+        "ORCID: 0000-0002-1930-7171",
+        "ORCID: 0000-0003-0683-2732",
+        "ORCID: 0000-0001-6470-8815",
+        "ORCID: 0000-0002-2835-4340",
+        "ORCID: 0000-0001-6603-5060",
+        "ORCID: 0000-0002-6722-176X"
+      ],
+      "affiliations": [
+        "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Pediatrics Research Institute, The Affiliated Children's Hospital of Xiangya School of Medicine (Hunan Children's hospital), Central South University, Changsha, Hunan, China.",
+        "State Key Laboratory of Gene Function and Modulation Research, School of Life Sciences, Biomedical Pioneering Innovative Center (BIOPIC) and Beijing Advanced Innovation Center for Genomics (ICG), Center for Bioinformatics (CBI), Peking University, Beijing, China.",
+        "Changping Laboratory, Beijing, China.",
+        "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+        "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+        "Institute for Data-Driven Tumor Immunology, Chongqing Medical University, Chongqing, China.",
+        "NGDC Subcenter of Tumor Immunology Data (Chongqing), Chongqing, China.",
+        "Hubei Key Laboratory for Translational Research in Traditional Chinese Medicine, Hubei Selenium and Human Health Institute, Department of Colorectal and Anal Surgery, The Central Hospital of Enshi Tujia and Miao Autonomous Prefecture, Hubei Minzu University, Enshi, China.",
+        "State Key Laboratory of Gene Function and Modulation Research, School of Life Sciences, Biomedical Pioneering Innovative Center (BIOPIC) and Beijing Advanced Innovation Center for Genomics (ICG), Center for Bioinformatics (CBI), Peking University, Beijing, China.",
+        "Changping Laboratory, Beijing, China.",
+        "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+        "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Institute for Data-Driven Tumor Immunology, Chongqing Medical University, Chongqing, China.",
+        "NGDC Subcenter of Tumor Immunology Data (Chongqing), Chongqing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Shiting",
+        "short_name": "Wang S",
+        "identifiers": [
+          "0009-0004-7113-0539"
+        ],
+        "affiliations": [
+          "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Qiheng",
+        "short_name": "Qian Q",
+        "identifiers": [
+          "0000-0002-1930-7171"
+        ],
+        "affiliations": [
+          "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yuting",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatrics Research Institute, The Affiliated Children's Hospital of Xiangya School of Medicine (Hunan Children's hospital), Central South University, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yang",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Gene Function and Modulation Research, School of Life Sciences, Biomedical Pioneering Innovative Center (BIOPIC) and Beijing Advanced Innovation Center for Genomics (ICG), Center for Bioinformatics (CBI), Peking University, Beijing, China.",
+          "Changping Laboratory, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Dechang",
+        "short_name": "Yang D",
+        "identifiers": [],
+        "affiliations": [
+          "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Xing",
+        "short_name": "Zheng X",
+        "identifiers": [],
+        "affiliations": [
+          "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Sijin",
+        "short_name": "Cheng S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Data-Driven Tumor Immunology, Chongqing Medical University, Chongqing, China.",
+          "NGDC Subcenter of Tumor Immunology Data (Chongqing), Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Guoquan",
+        "short_name": "Huang G",
+        "identifiers": [
+          "0000-0003-0683-2732"
+        ],
+        "affiliations": [
+          "Hubei Key Laboratory for Translational Research in Traditional Chinese Medicine, Hubei Selenium and Human Health Institute, Department of Colorectal and Anal Surgery, The Central Hospital of Enshi Tujia and Miao Autonomous Prefecture, Hubei Minzu University, Enshi, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Ge",
+        "short_name": "Gao G",
+        "identifiers": [
+          "0000-0001-6470-8815"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Gene Function and Modulation Research, School of Life Sciences, Biomedical Pioneering Innovative Center (BIOPIC) and Beijing Advanced Innovation Center for Genomics (ICG), Center for Bioinformatics (CBI), Peking University, Beijing, China.",
+          "Changping Laboratory, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Jingfa",
+        "short_name": "Xiao J",
+        "identifiers": [
+          "0000-0002-2835-4340"
+        ],
+        "affiliations": [
+          "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhang",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0000-0001-6603-5060"
+        ],
+        "affiliations": [
+          "National Genomics Data Center, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Key Laboratory of Intelligent Governance and Application of Biological Big Data, China National Center for Bioinformation, Beijing 100101, China.",
+          "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shuai",
+        "short_name": "Jiang S",
+        "identifiers": [
+          "0000-0002-6722-176X"
+        ],
+        "affiliations": [
+          "Institute for Data-Driven Tumor Immunology, Chongqing Medical University, Chongqing, China.",
+          "NGDC Subcenter of Tumor Immunology Data (Chongqing), Chongqing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Nov 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 17:32",
+    "fetched_at": "2026-11-23 21:34:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43050536",
+      "41779351",
+      "41997320",
+      "42387342",
+      "40909272",
+      "41436831",
+      "29325141",
+      "31159744",
+      "37468058",
+      "35990668",
+      "41373831",
+      "33627136",
+      "42292425",
+      "32228580",
+      "40936758",
+      "31016791",
+      "42079608",
+      "36330513",
+      "37377895",
+      "35095893",
+      "38419051",
+      "41006029",
+      "40034693",
+      "40152495",
+      "42242683",
+      "33693962",
+      "34898376",
+      "32846981",
+      "37584517",
+      "41099994",
+      "34891154",
+      "27685983",
+      "42162740",
+      "41987005",
+      "42907887",
+      "42798652",
+      "30984308",
+      "40711603",
+      "41710887",
+      "32259264",
+      "36189298",
+      "41578372",
+      "29895674",
+      "32058624",
+      "40211710",
+      "37178049",
+      "42493507",
+      "34044218",
+      "26461095",
+      "42883853",
+      "35111268",
+      "37715446",
+      "41941337",
+      "41163216",
+      "39133347",
+      "39906743",
+      "30216655",
+      "38507061",
+      "30545929",
+      "33037279",
+      "35982125",
+      "35420332",
+      "42155443",
+      "36333719",
+      "42067796",
+      "38889686",
+      "42351142",
+      "39940704",
+      "33727952",
+      "42773549",
+      "38470002",
+      "36275644",
+      "42520353",
+      "41202314",
+      "40601072",
+      "27580177",
+      "35808868",
+      "27727196",
+      "42997265",
+      "42089585",
+      "34464437",
+      "32041817",
+      "41904046",
+      "38839842",
+      "41322425",
+      "42678131",
+      "42140356",
+      "39681799",
+      "42947688",
+      "38546403",
+      "35031063",
+      "40833782",
+      "30082482",
+      "42399759",
+      "37898914",
+      "35695878",
+      "35513292",
+      "26812883",
+      "26305674",
+      "42093974"
+    ],
+    "review": [
+      "43050536",
+      "34891154",
+      "41941337",
+      "39940704"
+    ],
+    "pmc": [
+      "13781112"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aei2542?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43050536/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
